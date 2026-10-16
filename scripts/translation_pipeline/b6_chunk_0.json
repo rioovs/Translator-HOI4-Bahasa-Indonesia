@@ -1,0 +1,422 @@
+[
+  {
+    "key": "spain.1.t",
+    "version": "",
+    "type": "title",
+    "en": "Civil War!"
+  },
+  {
+    "key": "spain.1.d",
+    "version": "",
+    "type": "desc",
+    "en": "A group of powerful generals in the Armed Forces have issued a pronunciamento, denouncing the current government of Spain! They have launched a right-wing coup with the support of conservative monarchists and the clergy. A significant portion of the military has sided with these Nationalists, but so far they have failed to capture any of Spain's major cities with the exception of Sevilla.\\n\\nLeftist volunteers are meanwhile flocking to the banners of the Republican government, ready to support it against the rebels. These loyalists may be poorly trained, but no one can question their enthusiasm.\\n\\nThe battle-lines have been drawn - which faction should we support?"
+  },
+  {
+    "key": "spain.10.d",
+    "version": "",
+    "type": "desc",
+    "en": "After the peaceful election of General Francisco Franco as president of Spain, there was hope that recent years violent uprisings and political turmoil would be put to an end. Rumors that Franco would attempt to create a one-party dictatorship with himself as chief of state has been fueled by the sudden disappearances of several opposition leaders.\\nAfter a swift trial, Carabineros officer José Galánfor was convicted of treason and his public execution followed shortly after. Though it was meant as a move to stamp out any will to resist the rise of Nationalist Spain it had the opposite effect. Leftist volunteers and even a group of generals have flocked to the banners of the newly formed People's Army, ready to support the fight against the oppressive Nationalists. Though most are poorly trained, they have managed to capture several key cities in the chaos that ensued the uprising.\\n\\nThe battle-lines have been drawn - which faction should we support?"
+  },
+  {
+    "key": "spain.2.t",
+    "version": "",
+    "type": "title",
+    "en": "Seek International Support?"
+  },
+  {
+    "key": "spain.2.d",
+    "version": "",
+    "type": "desc",
+    "en": "The coup has not been a complete success, but Carlists, Falangists and the Confederation of the Autonomous Right have managed to mobilize a large part of the army to overthrow the Republic, which has too long allowed our proud Christian nation to fall apart into anarchy. The outcome is still uncertain, with the world watching with concern which side will emerge victorious.\\n\\nWe did not execute this coup by standing idly by, however, and neither should the world if it wants to crush the red threat. Other nations in the same process of restoring their national glory should be willing to come to our aid."
+  },
+  {
+    "key": "spain.3.d",
+    "version": "",
+    "type": "desc",
+    "en": "Reactionary and fascist forces in the military have sought to crush the Republic in one swift blow, but did not expect the resistance they met in major cities nor the rapid mobilization of workers' militias. Rather than a coup, they have started a war, war on progress and the future the Spanish people wanted.\\n\\nDemocratic and socialist nations alike voice support for the Republic, but few dare commit to direct involvement. We could ask them to support our endeavor, or the oppressors will come for their liberty and solidarity next."
+  },
+  {
+    "key": "spain.4.t",
+    "version": "",
+    "type": "title",
+    "en": "Nationalist Spain Wants Our Help"
+  },
+  {
+    "key": "spain.4.d",
+    "version": "",
+    "type": "desc",
+    "en": "The Spanish Civil War has become a sort of microcosm for our view of the global situation: Communists and liberals seek to destroy old values, and we take up arms to revive them. It is not surprising that the Nationalists in Spain have reached out to us and others to equip them for the coming conflict."
+  },
+  {
+    "key": "spain.5.t",
+    "version": "",
+    "type": "title",
+    "en": "Republican Spain Wants Our Help"
+  },
+  {
+    "key": "spain.5.d",
+    "version": "",
+    "type": "desc",
+    "en": "The attempt to overthrow the Second Spanish Republic is a clear signal that the fascists will not allow the flowers of progress to grow even where they naturally take root. The Republicans and their allies, a mix of democrats, communists and anarchists, have turned to us and other parts of the international community for help. Many nations who claim to defend democracy and liberty have withheld their support for fear of being dragged into the war. How do we respond?"
+  },
+  {
+    "key": "spain.6.t",
+    "version": "",
+    "type": "title",
+    "en": "Nationalist Spain Appreciates our Help"
+  },
+  {
+    "key": "spain.6.d",
+    "version": "",
+    "type": "desc",
+    "en": "Our lend-lease to Nationalist Spain has not gone unnoticed. Should they emerge victorious, we may find ourselves with a strong ally once Spain is rebuilt."
+  },
+  {
+    "key": "spain.7.t",
+    "version": "",
+    "type": "title",
+    "en": "Republican Spain Appreciates our Help"
+  },
+  {
+    "key": "spain.7.d",
+    "version": "",
+    "type": "desc",
+    "en": "Our lend-lease to Republican Spain has not gone unnoticed. If the Republic is restored, we can trust they will support our continued efforts to rid the world of fascist scum."
+  },
+  {
+    "key": "spain.8.t",
+    "version": "",
+    "type": "title",
+    "en": "Madrid Reclaimed"
+  },
+  {
+    "key": "spain.8.d",
+    "version": "",
+    "type": "desc",
+    "en": "The war is won. Madrid is ours again and we have opportunity to make the age old city the center of Spain once again. It has seen much battle and will require rebuilding. What better way to do this than making it our capital?"
+  },
+  {
+    "key": "spain.9.t",
+    "version": "",
+    "type": "title",
+    "en": "Spanish Election of 1936"
+  },
+  {
+    "key": "spain.9.d",
+    "version": "",
+    "type": "desc",
+    "en": "The Second Republic has proven to be a fragile existence. [Root.GetLeader] can be president with the backing of the Popular Front, a broad coalition of left-wing groups supported by republicans, communists and anarchists.\\n\\nBut the right-wing opposition, encompassing conservatives, monarchists and fascists, is also beginning to unite for the cause of bringing down the Popular Front. Whichever coalition falls apart, their opponents are likely to take advantage of their internal conflicts to launch a revolution. This election is not the final test Spain will have to endure to resolve this conflict."
+  },
+  {
+    "key": "low.1.t",
+    "version": "",
+    "type": "title",
+    "en": "France Extends Maginot Line"
+  },
+  {
+    "key": "low.1.d",
+    "version": "",
+    "type": "desc",
+    "en": "The French have decided to extend their Maginot Line west all the way to the English Channel! This clearly shows their intention to abandon us in case of a German invasion. Our embassy in Paris has lodged an official complaint, but it is doubtful whether it will have much impact."
+  },
+  {
+    "key": "finland.1.t",
+    "version": "",
+    "type": "title",
+    "en": "The [FROM.GetAdjective]s Demand [146.GetName]"
+  },
+  {
+    "key": "finland.1.d",
+    "version": "",
+    "type": "desc",
+    "en": "Citing the need to create a security buffer for [195.GetName], officials from [FROM.GetNameDef] have asked for a revision of our borders. They want us to cede Karelia to them, and judging by the build-up of [FROM.GetAdjective] forces along our border, they will not take no for an answer. How should we respond?"
+  },
+  {
+    "key": "finland.2.t",
+    "version": "",
+    "type": "title",
+    "en": "Request Swedish Assistance in War"
+  },
+  {
+    "key": "finland.2.d",
+    "version": "",
+    "type": "desc",
+    "en": "Finland and the Soviet Union are at war. After only a few decades of sovereignty, we now risk once again becoming the subject of one of our neighbors.\\n\\nThe threat of our enemy extends beyond our borders, however. Our neighbors in Sweden are still retaining a neutral stance towards the Soviet Union, but could perhaps be convinced to join us in defending our mutual legacy and secure their own strategic buffer."
+  },
+  {
+    "key": "finland.3.t",
+    "version": "",
+    "type": "title",
+    "en": "Finland Seeks Swedish Support"
+  },
+  {
+    "key": "finland.3.d",
+    "version": "",
+    "type": "desc",
+    "en": "Our neighbor Finland has refused to give in to pressures from the Soviet Union, and the nations are now in a state of war. Although no formal alliance has been agreed upon between our countries, the Finnish government has requested that Sweden contribute to a joint defense of Åland, which remains largely Swedish-speaking and strategically important to both countries.\\n\\nWhile the government remains divided on what steps we should take to help Finland, the public support for their defense is notable. How far are we willing to go to protect our fellow Nordic counties from eastern aggression?"
+  },
+  {
+    "key": "finland.4.t",
+    "version": "",
+    "type": "title",
+    "en": "Sweden Rejects Request"
+  },
+  {
+    "key": "finland.4.d",
+    "version": "",
+    "type": "desc",
+    "en": "The Swedish government has responded negatively to our request for aid in the war against the Soviet Union. Preferring to remain neutral to avoid international and internal repercussions, they are so far opposed to contributing to the war in any way."
+  },
+  {
+    "key": "finland.5.t",
+    "version": "",
+    "type": "title",
+    "en": "Sweden Sends Volunteers"
+  },
+  {
+    "key": "finland.5.d",
+    "version": "",
+    "type": "desc",
+    "en": "The Swedish government has been unwilling to join us in the war against the Soviet Union, but public support among our neighbors is still high, and many volunteers from the other Nordic countries have offered to join our ranks to aid the war effort. Although less than we hoped, at least there is some popular awareness about the threat we are facing."
+  },
+  {
+    "key": "finland.6.t",
+    "version": "",
+    "type": "title",
+    "en": "Sweden Joins Our War"
+  },
+  {
+    "key": "finland.6.d",
+    "version": "",
+    "type": "desc",
+    "en": "Our request to the Swedish government for a joint defense of Åland has been met above expectations. Sweden has joined us in war against the Soviet Union, refusing to remain neutral in the face of such a blatant threat. Despite internal disagreements, they will now fight with us side by side to secure continued Finnish sovereignty."
+  },
+  {
+    "key": "finland.7.t",
+    "version": "",
+    "type": "title",
+    "en": "Peace Negotiations With [SOV.GetNameDef]"
+  },
+  {
+    "key": "finland.7.d",
+    "version": "",
+    "type": "desc",
+    "en": "[Root.GetAdjective] communist Hella Wuolijoki has contacted our government and offered her help in establishing contact with the [SOV.GetAdjective] regime. A meeting has been set up in a secret location in Sweden, where we will be offered the opportunity to cede territory in return for continued [Root.GetAdjective] sovereignty. \\n\\nThe Finnish forces are rapidly depleting, and previous attempts to open a line of communication has been unsuccessful. This may be our only hope for a peaceful resolution to the conflict."
+  },
+  {
+    "key": "finland.8.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetNameDefCap] Offers Concessions"
+  },
+  {
+    "key": "finland.8.d",
+    "version": "",
+    "type": "desc",
+    "en": "The war with [From.GetNameDef] has been a costly affair, but as we have been able to push back the [From.GetAdjective] army, they have presented us with a compelling offer. We are given control of strategically important areas, but need to withdraw our troops and cease further hostilities.\\nThis will end our offensive on [From.GetNameDef] without full control over the region, but will in turn allow us to focus on extending our sphere of influence in other parts of the world."
+  },
+  {
+    "key": "finland.9.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetNameDefCap] Refuses"
+  },
+  {
+    "key": "finland.9.d",
+    "version": "",
+    "type": "desc",
+    "en": "The negotiations initiated with [From.GetNameDef] has broken down. It was obviously a ruse to waste our time while the [From.GetAdjective] army positioned for yet another assault on [Root.GetAdjective] territory.\\n\\n[Root.GetNameDef] will stand tall and fight till the bitter end."
+  },
+  {
+    "key": "finland.10.t",
+    "version": "",
+    "type": "title",
+    "en": "The Winter War"
+  },
+  {
+    "key": "finland.10.d",
+    "version": "",
+    "type": "desc",
+    "en": "Finally, the territorial ambitions of [SOV.GetNameDef] have culminated in the invasion of our country by this most vile enemy. We must take all measures in our power to form a solid defense against this ruthless attack. Let them pay for every step forward in our land!"
+  },
+  {
+    "key": "romania.1.t",
+    "version": "",
+    "type": "title",
+    "en": "[FROM.GetNameDefCap] Demands Bessarabia"
+  },
+  {
+    "key": "romania.1.d",
+    "version": "",
+    "type": "desc",
+    "en": "[FROM.GetAdjective] forces are concentrating on the other side of our border, and their diplomats have demanded that we cede all of Bessarabia to them! We cannot expect the Germans to intervene, as their pact with the Russians apparently contained a secret protocol that put us inside the [FROM.GetAdjective] sphere of interest. Should we resist?"
+  },
+  {
+    "key": "romania.2.t",
+    "version": "",
+    "type": "title",
+    "en": "Second Vienna Award"
+  },
+  {
+    "key": "romania.2.d",
+    "version": "",
+    "type": "desc",
+    "en": "Germany has been brought in to mediate our territorial dispute with Hungary, and at the Second Vienna Award they decided that Northern Transylvania should be returned to Hungarian control. Should we accept this decision?"
+  },
+  {
+    "key": "romania.3.d",
+    "version": "",
+    "type": "desc",
+    "en": "Germany has been brought in to mediate our territorial dispute with Hungary, and at the Second Vienna Award they outrageously decided that all of Transylvania should be restored to Hungarian rule! Should we accept this decision?"
+  },
+  {
+    "key": "romania.4.t",
+    "version": "",
+    "type": "title",
+    "en": "Germany Mediates Dispute"
+  },
+  {
+    "key": "romania.4.d",
+    "version": "",
+    "type": "desc",
+    "en": "Germany has been brought in to mediate our territorial dispute with Hungary, and they have wisely decided that Transylvania should remain under Romanian control. The Hungarians are not pleased, but hopefully this will settle the matter once and for all."
+  },
+  {
+    "key": "romania.5.t",
+    "version": "",
+    "type": "title",
+    "en": "Treaty of Craiova"
+  },
+  {
+    "key": "romania.5.d",
+    "version": "",
+    "type": "desc",
+    "en": "Bulgarian diplomats have come forward, with German backing, requesting the return of Southern Dobrudja - territory we annexed from them in 1913 after the Second Balkan War. The concessions we have already been forced to make seem to have spurred this request."
+  },
+  {
+    "key": "romania.6.t",
+    "version": "",
+    "type": "title",
+    "en": "A Hard Choice"
+  },
+  {
+    "key": "romania.6.d",
+    "version": "",
+    "type": "desc",
+    "en": "We have lost so much territory to our rapacious neighbors. Still, there are opportunities to recover some of the lost land, with interest. All we have to do is pick the right side. "
+  },
+  {
+    "key": "baltic.1.t",
+    "version": "",
+    "type": "title",
+    "en": "[FROM.GetAdjective] Ultimatum"
+  },
+  {
+    "key": "baltic.1.d",
+    "version": "",
+    "type": "desc",
+    "en": "[FROM.GetNameDefCap] is pressuring us to sign a 'mutual assistance' treaty with them, which would give them the right to station forces inside our territory! This is nothing but a thinly veiled attempt to annex our country, but we can offer little resistance to the forces they have stationed on our border."
+  },
+  {
+    "key": "baltic.4.t",
+    "version": "",
+    "type": "title",
+    "en": "Germany Demands Memel"
+  },
+  {
+    "key": "baltic.4.d",
+    "version": "",
+    "type": "desc",
+    "en": "German forces are massing in Ostpreussen, and their Foreign Ministry has presented us with an ultimatum! We are to immediately cede the Memel territory to them, or face the threat of military action. Should we agree to their demands?"
+  },
+  {
+    "key": "baltic.5.t",
+    "version": "",
+    "type": "title",
+    "en": "Communists In Control."
+  },
+  {
+    "key": "baltic.5.d",
+    "version": "",
+    "type": "desc",
+    "en": "[Root.GetName] has chosen solidarity and political power has been wrenched from the bourgeois. Many within the new government suggest that we fulfill our communist duties and become one with the Soviet Union."
+  },
+  {
+    "key": "baltic.7.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetName] Requests [Root.GetAdjective] Participation in the [From.GetFactionName]"
+  },
+  {
+    "key": "baltic.7.d",
+    "version": "",
+    "type": "desc",
+    "en": "With the signing of a treaty of friendship between our nations, [From.GetName] has requested that [Root.GetName] joins them in their [From.GetFactionName], to unite against the growing threats that surround our nations. Whether communist or fascist, [From.GetName] promises to stand up for [Root.GetAdjective] interests."
+  },
+  {
+    "key": "baltic.8.t",
+    "version": "",
+    "type": "title",
+    "en": "[SOV.GetNameDefCap] extends our control of the Baltic territories"
+  },
+  {
+    "key": "baltic.8.desc",
+    "version": "",
+    "type": "desc",
+    "en": "It is a great day for [ROOT.GetNameDef]! After the valiant campaign fought by our comrades, [SOV.GetNameDefCap] has rightfully declared that the newly liberated Baltic territory, along with its brave workers, will fall under our jurisdiction.\\n\\nThis brings us yet another step closer to a united Baltic State powerful enough to fight off the enemies of the working class."
+  },
+  {
+    "key": "hungary.1.t",
+    "version": "",
+    "type": "title",
+    "en": "German Arbitration"
+  },
+  {
+    "key": "hungary.1.d",
+    "version": "",
+    "type": "desc",
+    "en": "Despite our rightful claim, Germany has decided that Transylvania should remain under Romanian control. They say they are eager to right all the wrongs created at Versailles, but evidently this only holds true where their own borders are concerned."
+  },
+  {
+    "key": "hungary.2.t",
+    "version": "",
+    "type": "title",
+    "en": "Second Vienna Award"
+  },
+  {
+    "key": "hungary.2.d",
+    "version": "",
+    "type": "desc",
+    "en": "Germany has recognized the validity of our claim, as we knew they would, and Northern Transylvania has been returned to Hungary. This is a historic moment!"
+  },
+  {
+    "key": "hungary.3.d",
+    "version": "",
+    "type": "desc",
+    "en": "Germany has not only recognized the validity of our claim, but they have decided that all of Transylvania is to be returned to Hungarian control! This is more than we had dared hope for."
+  },
+  {
+    "key": "hungary.4.d",
+    "version": "",
+    "type": "desc",
+    "en": "Germany recognized the validity of our claim and awarded Northern Transylvania to us, but Romania has stubbornly refused to accept their decision!"
+  },
+  {
+    "key": "hungary.5.d",
+    "version": "",
+    "type": "desc",
+    "en": "Germany recognized the validity of our claim and awarded all of Transylvania to us, but Romania has stubbornly refused to accept this decision!"
+  },
+  {
+    "key": "hungary.6.t",
+    "version": "",
+    "type": "title",
+    "en": "First Ljubljana Award"
+  },
+  {
+    "key": "hungary.6.d",
+    "version": "",
+    "type": "desc",
+    "en": "The Germans may complain about the Treaty of Versailles but they got off lightly compared to the injustice of the Treaty of Trianon. Although they claimed it was about national self-determination, it condemned so many true sons of Hungary to foreign rule. One such wound on Hungarian pride is the province Vojvodina. The return of the lands back to Hungary have righted a wrong inflicted upon us."
+  }
+]

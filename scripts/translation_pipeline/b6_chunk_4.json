@@ -1,0 +1,356 @@
+[
+  {
+    "key": "strikes_event.9.desc",
+    "version": "",
+    "type": "desc",
+    "en": "With tensions running high across the capital, [Root.GetLeader] announced a new law to protect the rights of workers even in times of war. The sweeping legislation mandates paid sick leave without limits, mandatory accident insurance for every worker, the right to join any union as well as, for the first time, the right for any employed women to have maternity leave after the birth of a child.\\n\\nWhile many in the government consider this nothing less than a complete surrender to the strikers, the results are conclusive: work has resumed in all factories."
+  },
+  {
+    "key": "mutiny_event.1.t",
+    "version": "",
+    "type": "title",
+    "en": "Mutiny Crushed"
+  },
+  {
+    "key": "mutiny_event.1.desc",
+    "version": "",
+    "type": "desc",
+    "en": "After a few hours of tense negotiations at barracks gates and in front line dugouts, the mutiny in our army is over. Faced with the prospect of a fight they could not win, the mutineers quickly decided to stand down. \\n\\nThe primary issue then became the fate of those that had refused orders. Military High Command has opted for clemency and assured the mutineers that they would not be punished harshly. A few examples have been made in which some soldiers were demoted to a lower rank and transferred to a different unit."
+  },
+  {
+    "key": "mutiny_event.2.t",
+    "version": "",
+    "type": "title",
+    "en": "An empty threat"
+  },
+  {
+    "key": "mutiny_event.2.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Attempts to scare the mutineers into submission have backfired spectacularly as the troops showed little fear of the units sent to supress them. Using skills honed on the front lines, they quickly organized a defense of their positions that would make any attempt to defeat them very costly. \\n\\nThe officers in charge of the loyalist units have pulled back and are awaiting further orders, but this small success has no doubt strengthened the mutineers' resolve."
+  },
+  {
+    "key": "mutiny_event.3.t",
+    "version": "",
+    "type": "title",
+    "en": "\"What ARE we fighting for?\""
+  },
+  {
+    "key": "mutiny_event.3.desc",
+    "version": "",
+    "type": "desc",
+    "en": "\"It's not uncommon for a soldier to doubt whether what he is doing is really worth it. Can anything justify the sacrifices we ask of you? Can we really demand you to potentially die in pursuit of a goal that you would never see?\\n\\nIt is an unfortunate fact that we must live in the times we were born in. Fate has decided that we must be at war, to protect our freedom, our homes, our [Root.GetAdjective] way of life! We did not choose this war, it was forced on us! You know that I would not ask anything of you that I would not be willing to do myself, and I know that you will do whatever is necessary to secure victory.\"\\n\\n[Root.GetLeader]'s speech in front of the troops appears to have had the desired effect, as the soldiers broke out in spontaneous cheers and returned to their duties without more than the usual amount of complaining."
+  },
+  {
+    "key": "mutiny_event.4.t",
+    "version": "",
+    "type": "title",
+    "en": "The Treason In War Act"
+  },
+  {
+    "key": "mutiny_event.4.desc",
+    "version": "",
+    "type": "desc",
+    "en": "While the War Office is doing its best to keep the current mutiny in the army from becoming widely known, censoring letters can only go so far. Soldiers on leave quickly spread the word that the army is no longer willing to bleed needlessly in this war.\\n\\nWithout mentioning the mutiny specifically, [Root.GetLeader] announced today that the government would now consider any act that reflected a lack of commitment to the war to be treason.\\n\\nThe punishment for treason is well known, and public support for the mutineers has all but evaporated. News of this was, of course, widely spread. Seeing little support from the general population, the soldiers have quietly resumed their duties."
+  },
+  {
+    "key": "mutiny_event.5.t",
+    "version": "",
+    "type": "title",
+    "en": "Crackdown Attempt Fizzles"
+  },
+  {
+    "key": "mutiny_event.5.desc",
+    "version": "",
+    "type": "desc",
+    "en": "While the War Office is doing its best to keep the current mutiny in the army from becoming widely known, censoring letters can only go so far. Soldiers on leave quickly spread the word that the army is no longer willing to bleed needlessly in this war.\\n\\nAttempts by the government to stem the tide have completely failed. Reports from the Secret Police indicate that the mutineers have a strong backing in the general public, making it unlikely that we can isolate and suppress them."
+  },
+  {
+    "key": "mutiny_event.6.t",
+    "version": "",
+    "type": "title",
+    "en": "The [Root.GetAdjective] Peace Offer"
+  },
+  {
+    "key": "mutiny_event.6.desc",
+    "version": "",
+    "type": "desc",
+    "en": "[Root.GetLeader] announced to the press today that his latest peace offer has failed. While the causes for this unfortunate turn of events are very complex, the [Root.GetAdjective] demand that the other side pay for all damages caused, disarm completely and publicly acknowledge that they started the war may have been the final straw.\\n\\nOur enemies have responded in kind, calling our reasonable requests a demand for unconditional surrender. They have promised that they will prosecute this war until the bitter end. \\n\\nWith our enemies evidently unwilling to see reason and promising to fight on, attempts by the mutineers to force a peace settlement have collapsed."
+  },
+  {
+    "key": "mutiny_event.7.t",
+    "version": "",
+    "type": "title",
+    "en": "Military Crackdown succeeds."
+  },
+  {
+    "key": "mutiny_event.7.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Despite a few instances in which small groups of mutineers decided to make a fight out of it, our operation to crush the rebellion has been a stunning success. Relying on numbers rather than skill, loyalist militias surrounded the mutineers' strongholds and demanded their surrender. Most soldiers decided not to take up arms against their own countrymen and surrendered peacefully. \\n\\nThe ringleaders will be tried in secret court martials, but the average soldier will be sent back to the front, albeit in a different unit to prevent mutineers from forming new cells."
+  },
+  {
+    "key": "mutiny_event.8.t",
+    "version": "",
+    "type": "title",
+    "en": "Brother against Brother"
+  },
+  {
+    "key": "mutiny_event.8.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Our attempts to prevent the elections for the Worker and Soldier Councils have escalated the situation beyond even the most pessimistic estimation. Rather than surrendering, the mutineers have formed provisional Councils, elected field commanders and set up defenses in the streets. It is clear that they aim to make a fight out of this.\\n\\nThe rifts in the army now run through every unit and often even between members of the same family. [Root.GetNameDefCap] stands poised at the edge of a civil war."
+  },
+  {
+    "key": "mutiny_event.9.t",
+    "version": "",
+    "type": "title",
+    "en": "A new breed of officer"
+  },
+  {
+    "key": "mutiny_event.9.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Despite strong objections from the military, every unit in the [Root.GetAdjective] Army carried out elections to select their commander. The results have been very surprising, as most of the elected are accomplished soldiers with plenty of experience in the field. While many professional officers still consider this to be a personal insult, there can be little doubt that most soldiers dramatically prefer this situation."
+  },
+  {
+    "key": "canada_vanilla.1.title",
+    "version": "",
+    "type": "title",
+    "en": "Ronnie, the Bren Gun Girl"
+  },
+  {
+    "key": "canada_vanilla.1.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Around a million Canadian women entered the workforce during the Second World War. They were represented in the national media by a symbol of resilience and patriotism: Veronica Foster, popularly known as Ronnie, the Bren Gun Girl. She worked for John Inglis and Company at a Toronto gun factory while her three brothers fought overseas. The posters and short movies featuring her, and women like her, participating in the war effort likely inspired the better-known media campaign around 'Rosie the Riveter', after America's entry into the war."
+  },
+  {
+    "key": "generic.19.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetName] Sends Industrial Support"
+  },
+  {
+    "key": "generic.19.d",
+    "version": "",
+    "type": "desc",
+    "en": "[From.GetNameDefCap] has informed us that they support our cause, and will provide us with a certain measure of industrial aid to strengthen our position against our common enemies."
+  },
+  {
+    "key": "generic.20.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetNameDefCap] Demands Our Submission"
+  },
+  {
+    "key": "generic.20.d_friends",
+    "version": "",
+    "type": "desc",
+    "en": "We received a delegation today expressing [From.GetLeader]'s interest in extending the relations between our countries and taking steps to unite the [Root.GetAdjective] people together with [From.GetNameDef]. Agreeing to [From.GetLeader]'s proposal would make [Root.GetNameDef] a moderately autonomous puppet of [From.GetNameDef] and our government will be reorganized into something more in line with [From.GetLeader]'s vision.\\n\\nThe question remains, is [Root.GetAdjective] independence more important than our friendship with [From.GetNameDef]?"
+  },
+  {
+    "key": "generic.20.d_enemies",
+    "version": "",
+    "type": "desc",
+    "en": "A message arrived from [From.GetNameDef] today demanding that [Root.GetLeader] recognizes [From.GetLeader] as head of state and that our nation should be reorganized into something more in line with the [From.GetAdjective] government's vision for [Root.GetNameDef]. Accepting would make us a puppet of [From.GetNameDef].\\n\\nThough we would rather not surrender our independence to our enemies across the border, there's a definite element of threat in their message that would lead us to believe that if we do not meet [From.GetLeader]'s demands, we will soon find ourselves in a state of war with [From.GetNameDef]."
+  },
+  {
+    "key": "generic.21.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetNameDefCap] Submits"
+  },
+  {
+    "key": "generic.21.d",
+    "version": "",
+    "type": "desc",
+    "en": "The [From.GetAdjective] government has agreed to abandon their independence and become a puppet state of [Root.GetNameDef]. We are sure this will lead to greatness and advance [Root.GetAdjective] interest in the region."
+  },
+  {
+    "key": "generic.22.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetNameDefCap] Defiant!"
+  },
+  {
+    "key": "generic.22.d",
+    "version": "",
+    "type": "desc",
+    "en": "Diplomats from [From.GetNameDef] arrived today to announce that they decline our offer to unite [From.GetNameDef] with [Root.GetNameDef]. Disappointing as it may be, the option to bring [From.GetNameDef] to heel by force remains a valid and tempting option."
+  },
+  {
+    "key": "generic.23.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetNameDefCap] Demands Control of [demanded_prov_target.GetName]"
+  },
+  {
+    "key": "generic.23.d",
+    "version": "",
+    "type": "desc",
+    "en": "We have received a hostile delegation from [From.GetNameDef] today, claiming ownership of the entirety of the [demanded_prov_target.GetName] state. [From.GetLeader] demands that we return the territory immediately or war will be inevitable. They claim that [demanded_prov_target.Owner.GetAdjective] ownership of the region is illegitimate and that [demanded_prov_target.GetName] is an integral part of the [From.GetAdjective] state.\\n\\nShould we accept their demands, [demanded_prov_target.GetName] will be ceded to [From.GetNameDef] but we shall maintain any cores or claims we have over the region. Should we refuse, war between our nations seems inevitable."
+  },
+  {
+    "key": "generic.24.t",
+    "version": "",
+    "type": "title",
+    "en": "[demanded_prov_target.GetName] Ceded!"
+  },
+  {
+    "key": "generic.24.d",
+    "version": "",
+    "type": "desc",
+    "en": "[From.GetNameDefCap] has decided to accept our rightful claim of [demanded_prov_target.GetName] and has ceded the region to [Root.GetNameDef].\\nWith this matter dealt with in such an expedient and courteous manner, we are certain that the peace between [Root.GetNameDef] and [From.GetNameDef] shall continue in perpetuity."
+  },
+  {
+    "key": "generic.25.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetNameDefCap] Defiant!"
+  },
+  {
+    "key": "generic.25.d",
+    "version": "",
+    "type": "desc",
+    "en": "[From.GetNameDefCap] has refused our demands and now we must decide whether or not to fulfill our promise to invade. Failing to carry out our word will greatly damage public perception of [Root.GetLeader] and the legitimacy of the [Root.GetAdjective] government."
+  },
+  {
+    "key": "spain.11.t",
+    "version": "",
+    "type": "title",
+    "en": "Carlist Uprising"
+  },
+  {
+    "key": "spain.11.d",
+    "version": "",
+    "type": "desc",
+    "en": "Carlists B mad, yo!"
+  },
+  {
+    "key": "spain.12.t",
+    "version": "",
+    "type": "title",
+    "en": "Anarchist Uprising"
+  },
+  {
+    "key": "spain.12.d",
+    "version": "",
+    "type": "desc",
+    "en": "Anarchists B mad, yo!"
+  },
+  {
+    "key": "lar_test.1.t",
+    "version": "",
+    "type": "title",
+    "en": "TODO_LAR_BC: Test Title"
+  },
+  {
+    "key": "lar_test.1.d",
+    "version": "",
+    "type": "desc",
+    "en": "TODO_LAR_BC: this is a test\\nThis:[This.GetName]\\nFrom:[From.GetName]\\nFrom.From:[From.From.GetName]\\nRoot:[Root.GetName]\\n"
+  },
+  {
+    "key": "lar_collab_gov.1.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetAdjective] Partisans in [Root.GetNameDef]"
+  },
+  {
+    "key": "lar_collab_gov.1.d",
+    "version": "",
+    "type": "desc",
+    "en": "[From.GetNameDefCap] have recently increased their efforts to build collaboration within our nation. A number of [This.GetAdjective] politicians have started speaking rather sympathetically about the [From.GetAdjective] regime, and many partisans within our nation are turning their [From.GetRulingIdeology] sentiment into direct support for [From.GetNameDef].\\n\\nThe growing [From.GetAdjective] influence in our nation will undoubtedly lower [Root.GetAdjective] resistance and may even lead to a new [From.GetRulingIdeology] government in collaboration with [From.GetNameDef] in the event that [Root.GetNameDef] should capitulate."
+  },
+  {
+    "key": "ETH_events.1.t",
+    "version": "",
+    "type": "title",
+    "en": "Ethiopia Proposes White Peace"
+  },
+  {
+    "key": "ETH_events.1.d",
+    "version": "",
+    "type": "desc",
+    "en": "With control of both Somaliland and Eritrea almost completely lost save for a few pockets of resistance, the Ethiopian government has proposed that we find a peaceful end to these hostilities. Italy will officially end their invasion of Ethiopia and cede the occupied territories in East Africa to Ethiopia. How should we respond?"
+  },
+  {
+    "key": "ETH_events.101.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetNameDefCap] Refuses Peace"
+  },
+  {
+    "key": "ETH_events.101.d",
+    "version": "",
+    "type": "desc",
+    "en": "In spite of losing control of all territories in Eastern Africa, [From.GetLeader] has rejected our offer of white peace. It would seem total capitulation is the only way this war will ever end."
+  },
+  {
+    "key": "generic_purchase_ships_events.01.t",
+    "version": "",
+    "type": "title",
+    "en": "[FROM.GetAdjective] Naval Procurement"
+  },
+  {
+    "key": "generic_purchase_ships_events.01.desc",
+    "version": "",
+    "type": "desc",
+    "en": "[FROM.GetNameDefCap] have approached us with an offer to procure some of our mothballed naval assets. The assets they are interested in are no longer in service due to their age and lack of modern equipment."
+  },
+  {
+    "key": "generic_purchase_ships_events.02.t",
+    "version": "",
+    "type": "title",
+    "en": "[FROM.GetNameDefCap] Agree to Naval Procurement"
+  },
+  {
+    "key": "generic_purchase_ships_events.02.desc",
+    "version": "",
+    "type": "desc",
+    "en": "[FROM.GetAdjective] diplomats and naval personnel have informed us that they will part with their mothballed equipment we offered to purchase. This will allow us to rapidly expand our fledgling navy."
+  },
+  {
+    "key": "generic_purchase_ships_events.03.t",
+    "version": "",
+    "type": "title",
+    "en": "[FROM.GetNameDefCap] Refuses Naval Procurement Deal"
+  },
+  {
+    "key": "generic_purchase_ships_events.03.desc",
+    "version": "",
+    "type": "desc",
+    "en": "[FROM.GetAdjective] diplomats have informed us that they are unwilling to part with the mothballed equipment we offered to purchase. It is unclear whether the rejection is due to their own plans for the ships or is intended as a sign of their disapproval for our policies."
+  },
+  {
+    "key": "generic_purchase_ships_events.04.t",
+    "version": "",
+    "type": "title",
+    "en": "[FROM.GetAdjective] Naval Procurement"
+  },
+  {
+    "key": "generic_purchase_ships_events.05.t",
+    "version": "",
+    "type": "title",
+    "en": "[FROM.GetNameDefCap] Agrees to Dreadnought Procurement"
+  },
+  {
+    "key": "generic_purchase_ships_events.05.desc",
+    "version": "",
+    "type": "desc",
+    "en": "[FROM.GetAdjective] diplomats and naval personnel have informed us that they will part with their mothballed dreadnoughts that we offered to purchase. This will allow us to rapidly expand our navy and maintain a lead over our neighbors."
+  },
+  {
+    "key": "generic_purchase_ships_events.06.t",
+    "version": "",
+    "type": "title",
+    "en": "[FROM.GetNameDefCap] Refuses Dreadnought Procurement Deal"
+  },
+  {
+    "key": "generic_purchase_ships_events.06.desc",
+    "version": "",
+    "type": "desc",
+    "en": "[FROM.GetAdjective] diplomats have informed us that they are unwilling to part with the mothballed dreadnoughts we offered to purchase. It is unclear whether the rejection is due to their own plans for the ships or is intended as a sign of their disapproval for our policies."
+  }
+]

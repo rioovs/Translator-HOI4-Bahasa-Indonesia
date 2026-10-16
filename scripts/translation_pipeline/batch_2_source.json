@@ -1,0 +1,1694 @@
+[
+  {
+    "key": "news.185.d",
+    "version": "",
+    "type": "desc",
+    "en": "Aiming to redefine the power balance in the Mediterranean, [From.GetName] has been making political overtures towards the creation of a new alliance in the region.\\n\\nLargely military in nature, the [From.GetFactionName] will, in the words of [From.GetLeader], place Italy at the center of a new world power."
+  },
+  {
+    "key": "news.186.t",
+    "version": "",
+    "type": "title",
+    "en": "Italy Lays Claim to Greek Territory"
+  },
+  {
+    "key": "news.186.d",
+    "version": "",
+    "type": "desc",
+    "en": "Citing the Roman Empire as a forerunner to the modern [From.GetAdjective] state, [From.GetName] has claimed that an independent Greek state has no right to exist. Instead, \"the Greek Territories\" must acknowledge Italian supremacy in the Aegean, or have it seized by force.\\n\\n[Greece.GetName] has denounced the claims as ludicrous. However, [From.GetName] has the backing of the [From.GetFactionName]."
+  },
+  {
+    "key": "news.187.t",
+    "version": "",
+    "type": "title",
+    "en": "Italy Seeks Support From [GRE.GetName]"
+  },
+  {
+    "key": "news.187.d",
+    "version": "",
+    "type": "desc",
+    "en": "Citing [GRE.GetName] as the successor of the first ancient European states, [ITA.GetName] claims there exists a natural friendship between their two states.\\nTheir political agenda is obvious, as [ITA.GetName] also sees [GRE.GetName] as a natural member of the [ITA.GetFactionName].\\n\\nAfter a millennia and a half of separation, whether east and west can once again be united remains to be seen."
+  },
+  {
+    "key": "news.188.t",
+    "version": "",
+    "type": "title",
+    "en": "[ITA.GetName] Seeks Reconciliation With [TUR.GetName]"
+  },
+  {
+    "key": "news.188.d",
+    "version": "",
+    "type": "desc",
+    "en": "Despite decades of conflict and diplomatic maneuvering to achieve dominance in the Mediterranean, [ITA.GetName] and [TUR.GetName] are starting to place their disagreements behind them.\\n\\nIn an agreement to cooperate \"for the benefit of the entire Mediterranean Sphere,\" [ITA.GetName] and [TUR.GetName] pledge to ensure closer diplomatic bonds than they have ever had since the modern founding of the two nations."
+  },
+  {
+    "key": "news.189.t",
+    "version": "",
+    "type": "title",
+    "en": "Italy Demands Anatolian Naval Bases"
+  },
+  {
+    "key": "news.189.d",
+    "version": "",
+    "type": "desc",
+    "en": "The 1915 Treaty of London promised Turkish territory in Anatolia for Italy. Other treaties would take precedence, but the promises have not been forgotten by [From.GetAdjective] leadership.\\n\\n[From.GetLeader] has publicly stated that due to the strategic importance of the Anatolian coast, [From.GetName] fully intends to take what \"rightfully belongs to Italy.\""
+  },
+  {
+    "key": "news.190.t",
+    "version": "",
+    "type": "title",
+    "en": "Balearic Islands ceded to [Italy.GetName]"
+  },
+  {
+    "key": "news.190.d",
+    "version": "",
+    "type": "desc",
+    "en": "Following the reliance on [Italy.GetAdjective] forces in the Spanish Civil War, [Italy.GetName] has requested the Balearic Islands from [From.GetName]. [From.GetLeader] has acquiesced, highlighting the diplomatic move as a strengthening of the bonds between the two nations.\\n\\nAs for [Italy.GetName], naval bases in the Balearic Islands will allow them to exert greater influence over the Strait of Gibraltar, and give them better access to the Atlantic."
+  },
+  {
+    "key": "news.192.t",
+    "version": "",
+    "type": "title",
+    "en": "Italy Announces Claims On Yugoslavian Territory"
+  },
+  {
+    "key": "news.192.d",
+    "version": "",
+    "type": "desc",
+    "en": "Speaking to the Italian populations along the Dalmatian coast, [From.GetLeader] has announced that [From.GetName] fully considers Italian-speaking territory in [YUG.GetName] to be a rightful part of [From.GetName]. \\n\\nAn official statement backed up the claims, making it clear that [From.GetName] is prepared to take the territory by force, if need be."
+  },
+  {
+    "key": "news.193.t",
+    "version": "",
+    "type": "title",
+    "en": "Italian Foreign Office in [YUG.GetName]"
+  },
+  {
+    "key": "news.193.d",
+    "version": "",
+    "type": "desc",
+    "en": "Rather than confronting [YUG.GetName] over Italian populations on the Dalmatian coast, [From.GetName] has announced the establishment of a permanent diplomatic mission to [YUG.GetName]. According to a statement from the [From.GetAdjective] foreign ministry, the two countries have so much shared history and so many common interests that mutual understanding is far more important than a petty border dispute.\\n\\nWith tensions rising across Europe, one can only hope more countries take this approach."
+  },
+  {
+    "key": "news.194.t",
+    "version": "",
+    "type": "title",
+    "en": "Eastern Poland Ceded to [From.GetName]"
+  },
+  {
+    "key": "news.194.d",
+    "version": "",
+    "type": "desc",
+    "en": "Through unknown political machinations, the leadership of [Poland.GetName] has ceded their eastern regions to the [From.GetName]. \\n\\nIt is yet unknown as to what promises or threats were made by [From.GetName] to achieve this political victory. We may never know, as [Poland.GetLeader] has yet to say a word beyond the announcement of the agreement."
+  },
+  {
+    "key": "news.195.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetName] Granted Eastern Germany"
+  },
+  {
+    "key": "news.195.d",
+    "version": "",
+    "type": "desc",
+    "en": "Following the [Soviet.GetName] occupation of Germany, [From.GetName] has been given most of Eastern Germany, including the contested territory of Ostpreussen.\\nIt seems this is the result of a secret clause in the Soviet-Polish treaty. Poland is granted German land as compensation for what they were forced to cede to the [Soviet.GetName].\\n\\nPoland played with the highest stakes, and while much was lost, much has now also been gained."
+  },
+  {
+    "key": "news.196.t",
+    "version": "",
+    "type": "title",
+    "en": "The [From.GetName] Encourages Revolutionaries"
+  },
+  {
+    "key": "news.196.d",
+    "version": "",
+    "type": "desc",
+    "en": "In an impassioned speech, [From.GetLeader] has called on communist parties everywhere to hasten the fall of Capitalism by employing more extreme tactics. Fear of persecution must not stop a single man or woman from promoting the struggle of the working classes.\\n\\nThe [From.GetName] will be increasing the funding of foreign communist parties, and educate them in the more extreme tactics required to bring their nations in line with the [From.GetFactionName]."
+  },
+  {
+    "key": "news.197.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetName] Gives in to [Soviet.GetAdjective] Ultimatum"
+  },
+  {
+    "key": "news.197.d",
+    "version": "",
+    "type": "desc",
+    "en": "[From.GetName] has given in to a [Soviet.GetAdjective] ultimatum, and has ceded control over the Aegean Islands to [Soviet.GetName].\\n\\nWith this, the [Soviet.GetName] strengthen their presence in the Mediterranean, and reinforce themselves as a naval force in the region."
+  },
+  {
+    "key": "news.198.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetName] Resists [Soviet.GetAdjective] Ultimatum"
+  },
+  {
+    "key": "news.198.d",
+    "version": "",
+    "type": "desc",
+    "en": "[From.GetName] has refused the demands in a [SOV.GetAdjective] ultimatum delivered to them over the Aegean Islands. As the [SOV.GetName] exerts greater and greater influence over the region, [From.GetLeader] has proclaimed that giving them a single island in the Aegean would end with them taking the entire Mediterranean.\\n\\nWith the ultimatum refused, [From.GetName] is on the brink of war, and can only wait for the [SOV.GetNameDef] to pull the trigger."
+  },
+  {
+    "key": "news.199.t",
+    "version": "",
+    "type": "title",
+    "en": "[?SOV.former_controller_of_bessarabia.GetNameDefCap] Cedes Bessarabia to [From.GetNameDef]"
+  },
+  {
+    "key": "news.199.d",
+    "version": "",
+    "type": "desc",
+    "en": "\\n\\n[?SOV.former_controller_of_bessarabia.GetNameDefCap] has been forced to give in to an ultimatum from [From.GetNameDef]. The territories of Bessarabia have been passed to [From.GetAdjective] control, and the [?SOV.former_controller_of_bessarabia.GetAdjective] state is left with its borders diminished.\\n\\nIt remains to be seen how [?SOV.former_controller_of_bessarabia.GetNameDef] will avoid further losses."
+  },
+  {
+    "key": "news.200.t",
+    "version": "",
+    "type": "title",
+    "en": "German Influence in [CZE.GetNameDef]"
+  },
+  {
+    "key": "news.200.d",
+    "version": "",
+    "type": "desc",
+    "en": "Speaking of brotherhood between nations within \"the German Sphere,\" [From.GetLeader] in a speech today announced the [From.GetName]'s dedication to political and diplomatic cooperation with [CZE.GetNameDef]. With significant German-speaking populations, [CZE.GetNameDef] was presented as a natural partner to [From.GetAdjective] interests.\\n\\nWhile it is uncertain how much say [CZE.GetNameDef] has in this cooperation, they can at least rest assured that their borders are safe from [GER.GetNameDef]'s territorial ambitions."
+  },
+  {
+    "key": "news.201.t",
+    "version": "",
+    "type": "title",
+    "en": "[GER.GetNameDefCap] Forces [TUR.GetNameDef] to Submit"
+  },
+  {
+    "key": "news.201.d",
+    "version": "",
+    "type": "desc",
+    "en": "\\nBeing faced by diplomatic and military pressure from the [GER.GetFactionName] to both the east and west, the [TUR.GetAdjective] government has been thrown into political turmoil.\\n\\nFollowing German and Soviet threats, the new government that has emerged from the chaos is far friendlier to the [GER.GetFactionName] than the old. Several eastern territories have already been ceded to [SOV.GetNameDef]. \\n\\nIndeed, certain hastily silenced dissenters have argued that the new government follows [GER.GetLeader]'s every whim."
+  },
+  {
+    "key": "news.202.t",
+    "version": "",
+    "type": "title",
+    "en": "Slovakia For Danzig"
+  },
+  {
+    "key": "news.202.d",
+    "version": "",
+    "type": "desc",
+    "en": "Following months of increasingly aggressive rhetoric, the deteriorating relationship between [GER.GetNameDef] and [POL.GetNameDef] had a reversal of fortunes this evening, with a diplomatic deal intended to settle the Danzig dispute.\\n\\n[POL.GetNameDef] will incorporate the German-controlled Slovakia as a Polish substate, and will in exchange cede the region of Danzig. The status of the Free City of Danzig was quickly settled, and it will soon be fully reincorporated into the German state.\\n\\nWhile the matter seems to have been settled peacefully, the victors of the Great War are sure to have objections."
+  },
+  {
+    "key": "news.203.t",
+    "version": "",
+    "type": "title",
+    "en": "Poland Cedes Danzig"
+  },
+  {
+    "key": "news.203.d",
+    "version": "",
+    "type": "desc",
+    "en": "Following the presentation of a [GER.GetAdjective] ultimatum to [From.GetNameDef], [From.GetLeader] and the [From.GetAdjective] government have decided to comply with every demand rather than face war.\\n\\nIt is their hope that with the loss of Danzig, [From.GetNameDef] will be safe from further German territorial ambitions. The situation remains tense, however, and it is telling that Polish border forces have not yet received the order to stand down"
+  },
+  {
+    "key": "news.204.t",
+    "version": "",
+    "type": "title",
+    "en": "Poland Refuses German Ultimatum"
+  },
+  {
+    "key": "news.204.d",
+    "version": "",
+    "type": "desc",
+    "en": "Considering the demands, it seemed inevitable. \\n\\n[From.GetNameDef] would be forced to cede Danzig to Germany, and a Polish plenipotentiary would be sent to Berlin to negotiate further terms. [From.GetLeader] pointed to [GER.GetNameDef]'s recent actions when stating that it was obvious Germany would not be satisfied with Danzig alone.\\n\\nGerman and Polish forces are prepared for war, and reports are already coming in of clashes on the border. Once again there is war in Europe."
+  },
+  {
+    "key": "news.205.t",
+    "version": "",
+    "type": "title",
+    "en": "The Pax Americana"
+  },
+  {
+    "key": "news.205.d_america",
+    "version": "",
+    "type": "desc",
+    "en": "Looking to the conflicts on the other continents, [USA.GetLeader] has announced a new foreign policy program, intended to keep the peace at home.\\n\\nAny government on the American continent may appeal to the United States for military protection, should they feel threatened by their neighbors. While not a guarantee of any particular state the desire for peace in America is no longer just a dream, but official American policy."
+  },
+  {
+    "key": "news.205.d_not_america",
+    "version": "",
+    "type": "desc",
+    "en": "Looking to the conflicts on the other continents, [USA.GetLeader] has announced a new foreign policy program, intended to keep the peace at home.\\nAny government on the American continent may appeal to the United States for military protection, should they feel threatened by their neighbors. While not a guarantee of any particular state the desire for peace in America is no longer just a dream, but official American policy"
+  },
+  {
+    "key": "news.206.t",
+    "version": "",
+    "type": "title",
+    "en": "American Anti-Imperialism"
+  },
+  {
+    "key": "news.206.d_communist",
+    "version": "",
+    "type": "desc",
+    "en": "Following the spread of the worker's revolution to the United States, their rhetoric against the old order has turned far more aggressive. Now [USA.GetLeader] is questioning the status of Canada as a subject state to the British Empire, while American diplomats are espousing a world free of aristocracy and overlordship across the world.\\n\\nDespite the bonds tying them together, tensions between [USA.GetNameDef] and the colonial empire of [ENG.GetNameDef] are rising. It is simply a matter of time before this diplomatic conflict escalates and revolution is brought to [ENG.GetNameDef] by force."
+  },
+  {
+    "key": "news.206.d_not_communist",
+    "version": "",
+    "type": "desc",
+    "en": "The new communist regime in the United States has adopted a new doctrine of [USA.GetAdjective] foreign policy, taking a far more aggressive stance towards former allies and friends alike, while moving closer to the members of the Communist International.\\nThis policy change includes questioning the status of [CAN.GetName] as a subject nation, and the general practice of what they term \"Worldwide British imperialism.\"\\n\\nWith tensions rising, the threat of a new British-American conflict seems far too real."
+  },
+  {
+    "key": "news.207.t",
+    "version": "",
+    "type": "title",
+    "en": "[USA.GetNameDefCap] Denounces the Comintern"
+  },
+  {
+    "key": "news.207.d_fascism",
+    "version": "",
+    "type": "desc",
+    "en": "\\nIn response to increasingly aggressive rhetoric from [SOV.GetNameDef], [USA.GetLeader] has spoken back against what he calls \"the greatest danger to human civilization, communism.\"\\n\\nNot only will [USA.GetNameDef] be pursuing protective policies to prevent the spread of world socialism in the Americas, but aims to destroy the heart of communism itself.\\n\\nWith the power of the [USA.GetAdjective] war machine, the utter removal of all communism seems - for the first time - entirely possible."
+  },
+  {
+    "key": "news.207.d_not_fascism",
+    "version": "",
+    "type": "desc",
+    "en": "[USA.GetLeader] today held a public speech against what he named \"the greatest danger to human civilization,\" communism.\\n\\nNot only will [USA.GetNameDef] be pursuing protective policies to prevent the spread of world socialism in the Americas, but the [USA.GetAdjective] explicitly aims to destroy the heart of communism itself.\\n\\nWith tensions at an all-time high, a single spark is all that is needed to trigger the fires of war between [SOV.GetNameDef] and [USA.GetNameDef]."
+  },
+  {
+    "key": "news.208.t",
+    "version": "",
+    "type": "title",
+    "en": "The Japanese Army Embraces Nanshin-ron"
+  },
+  {
+    "key": "news.208.d",
+    "version": "",
+    "type": "desc",
+    "en": "The armed forces of Japan have long acknowledged that [JAP.GetName] does not possess the natural resources needed for a prolonged war effort. With rising tensions and outbreaks of armed conflict involving the world's major powers, the threat of loss of import seems greater by the day.\\nTo counter this, Japanese strategists have come up with a strategic plan to seize Western colonies in Southeast Asia and the Pacific. These resource-rich regions will fuel the Japanese war machine and allow it to continue more or less unhindered, as long as the colonial powers and the [USA.GetName] can be kept at bay."
+  },
+  {
+    "key": "news.209.t",
+    "version": "",
+    "type": "title",
+    "en": "The Japanese Army Embraces Hokushin-ron"
+  },
+  {
+    "key": "news.209.d",
+    "version": "",
+    "type": "desc",
+    "en": "The armed forces of Japan have long acknowledged that [JAP.GetNameDef] does not possess the natural resources needed for a prolonged war effort. With rising tensions and outbreaks of armed conflict involving the world's major powers, the threat of loss of import seems greater by the day.\\nTo counter this, Japanese strategists have come up with a strategic plan to seize Siberian mines and oil fields from [SOV.GetNameDef]. It is theorized that a speedy advance will enable Japan to take control of key territory before a proper [SOV.GetAdjective] counterattack can be mounted. By then the Japanese army will have all the resources it needs to keep the flames of war burning until the [SOV.GetAdjective] capitulation."
+  },
+  {
+    "key": "news.210.t",
+    "version": "",
+    "type": "title",
+    "en": "Japan Replaces Government in China"
+  },
+  {
+    "key": "news.210.d",
+    "version": "",
+    "type": "desc",
+    "en": "Following decades of political instability in China, coupled with armed conflict both internally and externally, the Japanese government has announced that it considers the Chinese government a threat to the stability of its sphere of interest.\\n\\nIt is on this basis that - under the threat of war - a new government has been placed in charge, loyal to Japan and subject to the Japanese Emperor. This new government not only has the protection of the Japanese army, but a military mandate to retake the Chinese warlord states.\\n\\nWhile political conflict is certain to rage on, outright war between the two countries has been averted."
+  },
+  {
+    "key": "news.211.t",
+    "version": "",
+    "type": "title",
+    "en": "Japan Claims Hegemony in East Asia"
+  },
+  {
+    "key": "news.211.d",
+    "version": "",
+    "type": "desc",
+    "en": "Considering their military supremacy unchallenged in East Asia, [JAP.GetLeader] has announced that [JAP.GetNameDef] considers the entire region as their sphere of interest. Without accurate information about the extent of Japan's capacity for power projection, it is still unclear exactly what [JAP.GetNameDef] considers a rightful part of the recently established [JAP.GetFactionName]."
+  },
+  {
+    "key": "news.212.t",
+    "version": "",
+    "type": "title",
+    "en": "Japanese Diplomats in Berlin"
+  },
+  {
+    "key": "news.212.d_not_axis",
+    "version": "",
+    "type": "desc",
+    "en": "A new partnership is developing between Tokyo and Berlin. Negotiations have begun for a pact between the two states, citing both strategic interests and shared values. While it remains to be seen what, if anything, comes from these negotiations, the prospect of a friendship between some of the strongest military forces on each hemisphere is a cause to worry for their many enemies."
+  },
+  {
+    "key": "news.212.d_axis",
+    "version": "",
+    "type": "desc",
+    "en": "A new partnership is developing between Tokyo and Berlin. Negotiations have begun for a pact between the two states, citing both strategic interests and shared values. While it remains to be seen what, if anything, comes from these negotiations, the prospect of a friendship between some of the strongest military forces on each hemisphere is a cause for celebration for their allies, and a cause to worry for their many enemies."
+  },
+  {
+    "key": "news.213.t",
+    "version": "",
+    "type": "title",
+    "en": "[USA.GetNameDefCap] Stands Against Fascism"
+  },
+  {
+    "key": "news.213.d_peace",
+    "version": "",
+    "type": "desc",
+    "en": "As the Land of the Free, [USA.GetNameDef] considers itself the natural enemy of fascism in all its forms across the world. With the aggression of the German regime, they are at present the greatest enemy of a world built on the liberal principles [USA.GetNameDef] adhere to.\\n\\nWith this in mind, and the approval of the [USA.GetAdjective] Congress, [USA.GetLeader] has issued a warning to the [GER.GetNameDef]. Unless [GER.GetNameDef] reverses their political course, [USA.GetNameDef] will take action against them.\\n\\nWhile no course of action was specified, the implied threat of war lies heavy between the two countries."
+  },
+  {
+    "key": "news.213.d_war",
+    "version": "",
+    "type": "desc",
+    "en": "As the Land of the Free, [USA.GetNameDef] considers itself the natural enemy of fascism in all its forms across the world. With the aggression of the German regime, they are at present the greatest enemy of a world built on the liberal principles [USA.GetNameDef] adhere to.\\n\\nWith this in mind, and the approval of the [USA.GetAdjective] Congress, [USA.GetLeader] has issued a warning to [GER.GetNameDef]. Unless [GER.GetNameDef] capitulates and reverses political course, [USA.GetNameDef] will bring all their industrial and military might against them.\\n\"We will not allow [GER.GetNameDef] to divert the progress of history!\""
+  },
+  {
+    "key": "news.214.t",
+    "version": "",
+    "type": "title",
+    "en": "Poland Seeks Baltic Cooperation"
+  },
+  {
+    "key": "news.214.d_not_baltic",
+    "version": "",
+    "type": "desc",
+    "en": "\"There is no outcome for us that does not risk yet more oppression of the Polish people.\"\\n\\nFollowing [POL.GetName]'s distancing from the international community, Polish politicians have been pursuing the idea of a power \"between the seas.\"\\n\\nWhile the hope is to create an alliance stretching from the Baltic to the Black Sea, their stated priority remains to reinforce their position against threatening influences to both the east and the west. To this end, [POL.GetName] is seeking closer bonds with their neighbors in the Baltic."
+  },
+  {
+    "key": "news.214.d_baltic",
+    "version": "",
+    "type": "desc",
+    "en": "[POL.GetName] has been gradually distancing itself from the international community, well-aware that they can not rely on the politicking of the \"great powers\" to prevent aggressors from once again bringing down the Polish state.\\n\\nInstead, [POL.GetLeader] has presented plans for an alliance to reinforce the Baltic region, that will hopefully deter aggression from either east or west.\\n\\nWith the deterioration of European stability, such an alliance might be in our best interest."
+  },
+  {
+    "key": "news.215.t",
+    "version": "",
+    "type": "title",
+    "en": "[GER.GetName] Formalises Anti-Soviet Pact"
+  },
+  {
+    "key": "news.215.d_not_soviet",
+    "version": "",
+    "type": "desc",
+    "en": "[GER.GetNameDefCap] has long condemned communism in all forms, and has made diplomatic motions to demand other nations oppose it as well.\\n\\nNow, the [GER.GetName] has offered \"states under immediate threat from communism\" a chance to form a pact against the [SOU.GetName]. Any country in the pact will be committed to fighting a war against the [SOU.GetName], should there come a time when a member is attacked."
+  },
+  {
+    "key": "news.215.d_soviet",
+    "version": "",
+    "type": "desc",
+    "en": "[GER.GetLeader] has been a vocal opponent of communism since before he came to power, and there has never been any doubt that [GER.GetNameDef] considers itself an enemy of [SOU.GetNameDef].\\n\\nToday, that attitude has been announced to the world, as the previously held \"Anti-Soviet Agreement\" between [GER.GetNameDef] and several other countries now has been formalised into a pact. The other members will be called to war should one of them end up in a conflict against us."
+  },
+  {
+    "key": "news.216.t",
+    "version": "",
+    "type": "title",
+    "en": "[TUR.GetName] Resists Ultimatum From [GER.GetName]."
+  },
+  {
+    "key": "news.216.d",
+    "version": "",
+    "type": "desc",
+    "en": "Diplomats from the [GER.GetName] handed [TUR.GetName] an ultimatum yesterday, which demanded [TUR.GetLeader] step down in favor of a German-backed government. With the backing of the Grand National Assembly, [TUR.GetLeader] rejected the ultimatum, announcing to the [TUR.GetAdjective] people that Turkey would never be the pawn in a foreign dictator's war games.\\n\\nNow the country braces itself for war."
+  },
+  {
+    "key": "news.217.t",
+    "version": "",
+    "type": "title",
+    "en": "[GER.GetNameDefCap] Drives [TUR.GetNameDef] to Join the [ENG.GetFactionName]"
+  },
+  {
+    "key": "news.217.d",
+    "version": "",
+    "type": "desc",
+    "en": "\\n\\nIn delivering an ultimatum to the [TUR.GetAdjective] government, [GER.GetNameDef] has created a new enemy for itself. Rather than cave to the demands from [GER.GetAdjective] diplomats as [GER.GetLeader] expected, [TUR.GetNameDef] has agreed to a defensive alliance with [ENG.GetNameDef].\\n\\n[ENG.GetNameDef] and her allies prepare to defend [TUR.GetNameDef] in case [GER.GetNameDef] acts on its ultimatum."
+  },
+  {
+    "key": "news.218.t",
+    "version": "",
+    "type": "title",
+    "en": "Yes! We Have No Bananas"
+  },
+  {
+    "key": "news.218.d",
+    "version": "",
+    "type": "desc",
+    "en": "While our severe rationing program does not extend to fresh fruit, the shadow of war means we are lacking most of our capacity for import. Many former commodities from the tropics are therefore now unattainable luxuries, including such things as lemons and bananas. \\nIn keeping the wartime spirit, shopkeepers have taken to hanging signs in their windows, referencing the jolly old show tune.\\n\\nUnfortunately there is also a shortage of string beans and onions, cabbages and scallions, and all kinds of fruit, but the British spirit keeps up!"
+  },
+  {
+    "key": "news.219.t",
+    "version": "",
+    "type": "title",
+    "en": "Leadership Purges in [SOV.GetNameDef]"
+  },
+  {
+    "key": "news.219.d",
+    "version": "",
+    "type": "desc",
+    "en": "Uncertainty has long reigned in [SOV.GetNameDef]. While details are scarce, there has been a series of secret trials on the highest level, and both generals and ministers have disappeared from the public eye.\\nThe natural assumption is that some great conspiracy has been uncovered within the Communist Party, but no official statement has been made. In addition, the diplomatic reports we have access to indicate that evidence presented at these trials has been far from indisputable.\\n\\nWhatever has been happening, the structure of the [SOV.GetAdjective] high command has changed irrevocably."
+  },
+  {
+    "key": "news.220.t",
+    "version": "",
+    "type": "title",
+    "en": "Officers Revolt in [SOV.GetNameDef]!"
+  },
+  {
+    "key": "news.220.d",
+    "version": "",
+    "type": "desc",
+    "en": "Parts of the Soviet high command have risen in revolt against the leadership of [SOV.GetLeader]!\\nIt is unclear exactly what has caused this uprising, but it does not seem to be a particularly well-planned effort to seize power.\\n\\nThe [SOV.GetAdjective] political situation may not be as they project to the outside world."
+  },
+  {
+    "key": "news.221.t",
+    "version": "",
+    "type": "title",
+    "en": "Trotsky Returns to [SOV.GetNameDef]"
+  },
+  {
+    "key": "news.221.d",
+    "version": "",
+    "type": "desc",
+    "en": "[SOV.GetNameDefCap] has seen a great upset, as Stalin has been deposed by a faction supporting his old political rival [SOV.GetLeader]!\\nAs for where the old dictator is now, or exactly how the transition took place, details are still scarce.\\nEverything indicates that it was not a peaceful transition however, as some Stalin loyalists have hoisted their banners in revolt against Trotsky's new regime."
+  },
+  {
+    "key": "news.222.t",
+    "version": "",
+    "type": "title",
+    "en": "[ENG.GetAdjective] Parliament Debates Intervention in Scandinavia"
+  },
+  {
+    "key": "news.222.d",
+    "version": "",
+    "type": "desc",
+    "en": "\\nConsidering the strategic value of the Scandinavian region to [ENG.GetAdjective] defensive efforts, and the potential risks of seeing an enemy build influence there, the [ENG.GetAdjective] Parliament has debated the possibility of a military intervention.\\nWhile the political implications of such action weighed heavily on [ENG.GetLeader], several decisive arguments were delivered before it was decided that the rest of the debate should be conducted in closed chambers.\\n\\nSuch an intervention would irrevocably change the political landscape of Northern Europe."
+  },
+  {
+    "key": "news.223.t",
+    "version": "",
+    "type": "title",
+    "en": "[ENG.GetAdjective] Parliament Debates Intervention in the Benelux"
+  },
+  {
+    "key": "news.223.d",
+    "version": "",
+    "type": "desc",
+    "en": "\\nHaving learnt from the Great War, the [ENG.GetAdjective] will not underestimate the strategic value of the Benelux region, and the potential risks of seeing enemy countries build influence there. The [ENG.GetAdjective] Parliament has debated the possibility of a military intervention.\\nWhile the political implications of such action weighed heavily on [ENG.GetLeader], several decisive arguments were delivered before it was decided that the rest of the debate should be conducted in closed chambers.\\n\\nSuch an intervention would irrevocably change the political landscape of Western Europe."
+  },
+  {
+    "key": "news.224.t",
+    "version": "",
+    "type": "title",
+    "en": "[ENG.GetNameDefCap] Pressures [SPR.GetNameDef]"
+  },
+  {
+    "key": "news.224.d",
+    "version": "",
+    "type": "desc",
+    "en": "With the tradition of British influence in the Mediterranean projected from Gibraltar, it should come as no surprise that the [ENG.GetAdjective] government has decided to put political pressure on the fascist government in [Spain.GetNameDef].\\n\\nStill rebuilding from their civil war, [ENG.GetAdjective] support is far more important than political principles."
+  },
+  {
+    "key": "news.225.t",
+    "version": "",
+    "type": "title",
+    "en": "[ENG.GetNameDefCap] Exerts Influence in [TUR.GetNameDef]"
+  },
+  {
+    "key": "news.225.d",
+    "version": "",
+    "type": "desc",
+    "en": "\\nThe Mediterranean has long been a region of great strategic value to the imperial influence of [ENG.GetNameDef]. Now the [ENG.GetAdjective] government is looking for further support from countries in the region. To that end they have appointed a \"special consul to the [TUR.GetAdjective] state.\"\\n\\nConsidering the centuries of fierce competition for naval supremacy in the Mediterranean, whether they are successful in bringing their two countries closer together remains to be seen."
+  },
+  {
+    "key": "news.226.t",
+    "version": "",
+    "type": "title",
+    "en": "[ENG.GetNameDefCap] Exerts Influence in [GRE.GetNameDef]"
+  },
+  {
+    "key": "news.226.d",
+    "version": "",
+    "type": "desc",
+    "en": "\\nThe Mediterranean has long been a region of great strategic value to the imperial influence of [ENG.GetNameDef]. Now the [ENG.GetAdjective] government is looking for further support from countries in the region. To that end they have appointed a \"special consul to the [GRE.GetAdjective] state.\"\\n\\nMore than a century after Lord Byron's participation in the Greek War for Independence, whether [ENG.GetNameDef] is successful remains to be seen."
+  },
+  {
+    "key": "news.227.t",
+    "version": "",
+    "type": "title",
+    "en": "A Dark and Savage Journey"
+  },
+  {
+    "key": "news.227.d",
+    "version": "",
+    "type": "desc",
+    "en": "\"We were ten miles out from Berlin when the effects started to take hold. They were supposed to be enhancing our combat effort. Ridiculous. The only enhanced thing was my suspicion that my CO was trying to get rid of me. It didn't help that I couldn't tell the difference between the rolling treads of german panzers and the wild thumping behind my eyes.\\nI needed to find Dr. Gonzo.\""
+  },
+  {
+    "key": "news.228.t",
+    "version": "",
+    "type": "title",
+    "en": "[ENG.GetNameDefCap] Announces Balkan Diplomatic Initiative"
+  },
+  {
+    "key": "news.228.d",
+    "version": "",
+    "type": "desc",
+    "en": "\\n[ENG.GetNameDef] is not alone in seeing the threat rising in Central Europe.\\n\\nWith their status as an independent nation guaranteed by the now-challenged Treaty of Versailles, or with fascist powers in their aggressive rhetoric claiming right to their territory, several states have seen the need to lead a pro-[ENG.GetAdjective] policy. \\n[ENG.GetNameDef] has responded to this development by redoubling their diplomatic efforts in the region."
+  },
+  {
+    "key": "news.229.t",
+    "version": "",
+    "type": "title",
+    "en": "[GRE.GetNameDefCap] Resists [GER.GetAdjective] Pressure"
+  },
+  {
+    "key": "news.229.d",
+    "version": "",
+    "type": "desc",
+    "en": "Despite having been greatly reduced by the territorial demands led by [GER.GetNameDef], [GRE.GetNameDef] has now drawn a line in the sand. [GRE.GetLeader] has made it clear that [GRE.GetNameDef] will make no further concessions, and will no longer bow to any [GER.GetAdjective] demands.\\n\\nThis all comes as a response to an ultimatum from [GER.GetNameDef], that the government of [GRE.GetNameDef] steps down and accepts a [GER.GetAdjective]-approved replacement."
+  },
+  {
+    "key": "news.230.t",
+    "version": "",
+    "type": "title",
+    "en": "Rebellions in the Americas"
+  },
+  {
+    "key": "news.230.d",
+    "version": "",
+    "type": "desc",
+    "en": "In both Central and South America, revolutionaries have taken arms and risen in rebellion in the name of [USA.GetRulingIdeologyNoun].\\n\\nThey are generally well-equipped and well-organised, and if they had been championing another ideology, their funding would have been easy to trace. Whoever is supplying these movements have made a concerted effort to hide their involvement, however.\\n\\nOf course, there is only one great power with a stated foreign policy mission to promote [USA.GetRulingIdeologyNoun] in the Americas..."
+  },
+  {
+    "key": "news.231.t",
+    "version": "",
+    "type": "title",
+    "en": "[JAP.GetAdjective] Build-up On [CHI.GetAdjective] Border"
+  },
+  {
+    "key": "news.231.d",
+    "version": "",
+    "type": "desc",
+    "en": "Following the Marco Polo Bridge Incident, [JAP.GetName] has not let down their pressure on the [CHI.GetAdjective] border.\\nIn conjunction with aggressive [JAP.GetAdjective] rhetoric speaking of \"terrible retaliation for [CHI.GetNameDef]'s refusal to cooperate,\" a renewed war between [JAP.GetNameDef] and [CHI.GetNameDef] seems more and more likely by the day.\\n\\nThe diplomatic situation will soon reach a boiling point, and [JAP.GetNameDef] has expressed no interest in defusing the situation."
+  },
+  {
+    "key": "news.232.t",
+    "version": "",
+    "type": "title",
+    "en": "[GER.GetNameDefCap] Seeks Scandinavian Support"
+  },
+  {
+    "key": "news.232.d",
+    "version": "",
+    "type": "desc",
+    "en": "Speaking of \"common political interests,\" [GER.GetLeader] today announced a diplomatic program to improve relations between [GER.GetNameDef] and the Scandinavian nations.\\nThe first step is the establishment of a permanent diplomatic mission in [DEN.GetNameDef], which will ensure that no conflict arises between the two countries.\\n\\nThe [DEN.GetAdjective] government has graciously accepted this diplomatic outreach, according to [GER.GetLeader].\\n\\n[DEN.GetAdjective] diplomats were not available for comment."
+  },
+  {
+    "key": "news.233.t",
+    "version": "",
+    "type": "title",
+    "en": "[GER.GetAdjective] Interest in Scandinavia"
+  },
+  {
+    "key": "news.233.d_war",
+    "version": "",
+    "type": "desc",
+    "en": "[GER.GetNameDefCap] has clear strategic interests in Scandinavia, both for bases of military operations and for the sake of natural resource import. The escalating conflict has meant that there is a very real threat to any resources ferried through the Baltic or the North Sea.\\n\\nWith gradually intensifying diplomatic threats against [DEN.GetNameDef] and [NOR.GetNameDef], an increase in [GER.GetAdjective] military operations in the region seems likely."
+  },
+  {
+    "key": "news.233.d_no_war",
+    "version": "",
+    "type": "desc",
+    "en": "[GER.GetAdjective] rhetoric has intensified towards the northern countries in recent weeks. The message is clear: [DEN.GetNameDef] and [NOR.GetNameDef] must in no way, whether by opposition or inaction, hamper German imports.\\n\\nWhile there is no immediately obvious cause for such demands, as imports are still flowing freely to Germany, our diplomats worry that this is a prelude to [GER.GetAdjective] action in the region."
+  },
+  {
+    "key": "news.234.t",
+    "version": "",
+    "type": "title",
+    "en": "[GER.GetAdjective] Pressure Towards the Benelux"
+  },
+  {
+    "key": "news.234.d",
+    "version": "",
+    "type": "desc",
+    "en": "Following the breakout of war with France, Germany has applied stronger diplomatic pressure than ever on the countries of the Benelux. With [FRA.GetAdjective] and [ENG.GetAdjective] backing, however, they are refusing to give in to the pressures.\\n\\nThere is reason to believe that if [GER.GetNameDef] is unable to get what they want by diplomacy, they will take it by force."
+  },
+  {
+    "key": "news.235.t",
+    "version": "",
+    "type": "title",
+    "en": "Chaplin Seized in California"
+  },
+  {
+    "key": "news.235.d",
+    "version": "",
+    "type": "desc",
+    "en": "Joyous news for [GER.GetLeader] today as his favorite movie star, the one and only Charlie Chaplin, has been found in California. While escaping to rural areas, he was stopped by a [GER.GetAdjective] patrol, who immediately recognized him for his iconic mustache. After having him reprise the final monologue of his masterful \"The Great Dictator,\" the esteemed actor was 'convinced' to come along to entertain the [GER.GetAdjective] troops stationed in the region.\\n\\nNow he is going to be sent to Berlin, where [GER.GetLeader] will finally get to meet his hero. While political differences risks putting a damper on the meeting, [GER.GetLeader] is awaiting the moment as giddy as a child."
+  },
+  {
+    "key": "news.236.t",
+    "version": "",
+    "type": "title",
+    "en": "The Yalta Conference"
+  },
+  {
+    "key": "news.236.d",
+    "version": "",
+    "type": "desc",
+    "en": "Seeing a joint victory against [GER.GetNameDef] as inevitable, [yalta_origin.GetNameDef] and [yalta_partner.GetNameDef] are looking to secure future stability in Europe. [yalta_origin.GetLeader], [yalta_partner.GetLeader], and leaders for other countries participating in the war effort have met to agree on the fate of [GER.GetNameDef].\\n\\nDays of negotiations have led to the drawing of a new map of Europe. This new European order is divided between the east and the west by the wound about to be carved through the middle of [GER.GetNameDef].\\n\\nIt remains to be seen whether this will truly lead to lasting peace in Europe."
+  },
+  {
+    "key": "news.237.t",
+    "version": "",
+    "type": "title",
+    "en": "The Anschluss of Austria"
+  },
+  {
+    "key": "news.237.d",
+    "version": "",
+    "type": "desc",
+    "en": "After a successful coup d'état by the local Nazi party in [From.Root.GetNameDef], German troops have crossed the border and taken control of the country. \\n\\nThe German soldiers were greeted by cheering crowds in the cities, as they rushed through the country to join the [From.Root.GetAdjective]s fighting in the ongoing civil war. [GER.GetLeader] announced the Anschluss of Austria, and underlined:\\n\\n'The struggles of the people will soon be over! The oldest eastern province of the German people shall be, from this point on, the newest bastion of [GER.GetNameDef]!'"
+  },
+  {
+    "key": "news.238.t",
+    "version": "",
+    "type": "title",
+    "en": "[AST.GetNameDefCap] Assumes Responsibility for Colonial Holdings"
+  },
+  {
+    "key": "news.238.d",
+    "version": "",
+    "type": "desc",
+    "en": "\\nIn an attempt to stand up to the increased threat against [ENG.GetAdjective] holdings in Southeast Asia, the colonial territories of Singapore and Borneo have been transferred to [AST.GetNameDef]. With the goal of being the Commonwealth's first and best line of defense in the Pacific, [AST.GetNameDef] assumes full responsibility for military and administrative preparations in case of fighting in the region.\\n\\nPresumably intended to counter the imperial ambitions of [JAP.GetNameDef], [AST.GetNameDef] will no longer be entirely reliant on the efforts of its former colonial overlord to protect her shores from invasion."
+  },
+  {
+    "key": "news.239.t",
+    "version": "",
+    "type": "title",
+    "en": "[AST.GetNameDefCap] Joins the [SOV.GetFactionName]"
+  },
+  {
+    "key": "news.239.d",
+    "version": "",
+    "type": "desc",
+    "en": "Seeing their countries as \"natural allies in the spread of the revolution,\" [AST.GetLeader] and [SOV.GetLeader] have signed a treaty that sees [AST.GetNameDef] accede as one of the primary members of the [SOV.GetFactionName].\\n[AST.GetNameDef] has been declared a shining example of a worker's state, by and for the people, rather than the colonial overlords of Europe.\\n\\nWith the recent developments in [AST.GetAdjective] politics, some might say this move was inevitable. Nevertheless it is seen as a great cause for worry among those precise \"colonial overlords of Europe,\" and any who are opposed to the unfettered grasp of communists and their World Revolution."
+  },
+  {
+    "key": "news.240.t",
+    "version": "",
+    "type": "title",
+    "en": "The Treaty of Jayapura"
+  },
+  {
+    "key": "news.240.d",
+    "version": "",
+    "type": "desc",
+    "en": "The [AST.GetAdjective] and [HOL.GetAdjective] government today announced a \"Joint Cooperation and Defense Pact\" that will see the [HOL.GetAdjective] colonial holdings in Southeast Asia placed under the protection of the [AST.GetAdjective] armed forces. The treaty was signed by the Dutch governor of Indonesia and [AST.GetLeader], who announced that the deal will include full colonial administration, due to the \"distant and challenging situation in Europe.\"\\n\\nThe [HOL.GetAdjective] government has issued no statement on the treaty."
+  },
+  {
+    "key": "news.241.t",
+    "version": "",
+    "type": "title",
+    "en": "[NZL.GetNameDefCap] Submits to [AST.GetAdjective] Influence"
+  },
+  {
+    "key": "news.241.d",
+    "version": "",
+    "type": "desc",
+    "en": "Following the establishment of a socialist workers' state in Australia, the [AST.GetAdjective] government is now working to exert its influence on the region. Citing calls from oppressed farmers and factory workers in [NZL.GetNameDef], [AST.GetNameDef] has been pressuring the [NZL.GetAdjective] government to join in a \"People's Union\" of the South Pacific.\\n\\nSeeing itself surrounded, and with little hope of timely aid from the [ENG.GetFactionName], [NZL.GetNameDef] has given in to the demands. While [AST.GetLeader] proclaims \"the equality of all states as an extension of the equality of all people,\" there is little doubt as to which state is calling the shots."
+  },
+  {
+    "key": "news.242.t",
+    "version": "",
+    "type": "title",
+    "en": "[AST.GetNameDefCap] Assumes Control of Southeast Asian Colonies"
+  },
+  {
+    "key": "news.242.d",
+    "version": "",
+    "type": "desc",
+    "en": "\\n[ENG.GetNameDef] military doctrine has long struggled with the issue of defense in Southeast Asia. Now they are hoping their problems are at an end, as [AST.GetNameDef] assumes responsibility for the defense of Singapore and Borneo, to counter hostile military activity in the region.\\n\\nThis transfer of power includes, at least for the time being, the civilian administration of the colonial regions, in order to allow [AST.GetNameDef] any measures required to keep their continent safe from overseas attack. The political implications of this move for [ENG.GetNameDef], [AST.GetNameDef] and [MAL.GetNameDef] are as of yet uncertain."
+  },
+  {
+    "key": "news.243.t",
+    "version": "",
+    "type": "title",
+    "en": "[AST.GetNameDefCap] and [JAP.GetNameDef] Announce Alliance"
+  },
+  {
+    "key": "news.243.d",
+    "version": "",
+    "type": "desc",
+    "en": "With the recent gains of [AST.GetNameDef] and [JAP.GetNameDef] in East Asia and the Pacific, many observers expected it to only be a question of time before the two burgeoning empires would be brought into conflict. However, the countries have instead reached an accord of cooperation, in what was quickly termed \"the Pacific Barrier.\"\\nThe treaty has not been published by either country, so many aspects of their agreement are unknown. What is certain is that both sides have promised each other military support to \"counter the advances of greedy outsiders in our respective regions.\"\\n\\nIt is too early to say what the world order envisioned by [JAP.GetNameDef] and [AST.GetNameDef] looks like, but there can be no doubt that [AST.GetFactionName] is now the dominant force in the Pacific."
+  },
+  {
+    "key": "news.244.t",
+    "version": "",
+    "type": "title",
+    "en": "[AST.GetNameDefCap] Establishes Sphere of Influence"
+  },
+  {
+    "key": "news.244.d",
+    "version": "",
+    "type": "desc",
+    "en": "In a move that surprised few observers, [AST.GetNameDef] has announced its own, independent treaty organization. [AST.GetLeader] has announced that [AST.GetNameDef] will seek allies in an attempt to maintain stability in the Southeast Asia-Pacific region and beyond, and if necessary to counter aggression against the [AST.GetAdjective] state and others.\\n\\nWith recent moves away from its Commonwealth ties, this seems like the natural next step as [AST.GetNameDef] seeks to become sole master of its fate."
+  },
+  {
+    "key": "news.245.t",
+    "version": "",
+    "type": "title",
+    "en": "[USA.GetNameDefCap] Joins [AST.GetAdjective] Defense Initiative"
+  },
+  {
+    "key": "news.245.d",
+    "version": "",
+    "type": "desc",
+    "en": "\\nWith concern over the growing strategic importance of the Pacific, [AST.GetNameDef] and [USA.GetNameDef] has signed a treaty of Pacific cooperation. Although intended to maintain the political stability of the region, and by extension transpacific shipping, the treaty also involves contingencies for military defense, allowing the two countries to exert authority far beyond their actual territorial claims.\\n\\nWith such a vast area now being under Australo-American \"protection,\" it is surely only a matter of time before those contingencies will be put to the test."
+  },
+  {
+    "key": "news.246.t",
+    "version": "",
+    "type": "title",
+    "en": "[USA.GetNameDefCap] and [CAN.GetNameDef] Formalize Alliance"
+  },
+  {
+    "key": "news.246.d",
+    "version": "",
+    "type": "desc",
+    "en": "Having cooperated for some time through the Joint Defense Board, a new political partnership has developed between [USA.GetNameDef] and [CAN.GetNameDef]. Termed the [CAN.GetFactionName], the program aims to further North American interests in all foreign affairs, including all matters of defense and military action.\\n\\nWith [CAN.GetNameDef] still discovering its post-colonial self and [USA.GetAdjective] politicians practically fighting each other over isolationist and interventionist policies, the newly formed alliance may offer both countries the foreign policy direction they are sorely lacking."
+  },
+  {
+    "key": "news.247.t",
+    "version": "",
+    "type": "title",
+    "en": "[CAN.GetNameDefCap] Joins [GER.GetAdjective]-led Alliance!"
+  },
+  {
+    "key": "news.247.d",
+    "version": "",
+    "type": "desc",
+    "en": "Following swift negotiations, [CAN.GetNameDef] has announced that they have become a signatory member of the [GER.GetFactionName]. The [CAN.GetAdjective] government proclaimed itself a \"proud defender of the [GER.GetAdjective] people, just as [GER.GetNameDef] will be a defender of the [CAN.GetAdjective].\"\\n\\nWhile the details of [CAN.GetNameDef]'s entry into the pact are unknown, it seems likely that hostilities will be initiated against the enemies of [GER.GetNameDef] in short order. This may very well be a decisive moment in the war effort."
+  },
+  {
+    "key": "news.248.t",
+    "version": "",
+    "type": "title",
+    "en": "[ENG.GetNameDefCap] Gives Up Northeastern Territories"
+  },
+  {
+    "key": "news.248.d",
+    "version": "",
+    "type": "desc",
+    "en": "\\nFollowing increasing diplomatic pressure from [CAN.GetNameDef], [ENG.GetNameDef] has ceded the territories of Labrador and Newfoundland to the [CAN.GetAdjective] state. It has long been the goal of [CAN.GetAdjective] politicians to \"unite all rightful [CAN.GetAdjective] territory,\" a goal which is now one step closer to fulfillment.\\n\\nOf course, the unanswered question remains as to what constitutes \"rightfully [CAN.GetAdjective]\" territory. Both [ENG.GetNameDef] and the entire North American continent will be sleeping with one eye open from now on."
+  },
+  {
+    "key": "news.249.t",
+    "version": "",
+    "type": "title",
+    "en": "[CAN.GetNameDefCap] and [MEX.GetNameDef] Unite!"
+  },
+  {
+    "key": "news.249.d",
+    "version": "",
+    "type": "desc",
+    "en": "[USA.GetAdjective] politicians woke to worrying news this morning, as [CAN.GetNameDef] and [MEX.GetNameDef] announced a new defensive pact, focused on \"countering and containing immediate threats to both our countries' continued sovereignty.\" The thinly veiled threat does little to disguise the intention of hampering the military efforts of [USA.GetNameDef] on the American continent, and possibly beyond.\\n\\nPolitical commentators compare the situation to that of Europe before the Great War; two sides with everything to lose, and no way of easing tensions. The question seems less about who poses the greater threat to whom, but rather which side will be the one to launch a preemptive strike first."
+  },
+  {
+    "key": "news.250.t",
+    "version": "",
+    "type": "title",
+    "en": "Civil War in [MEX.GetNameDef]!"
+  },
+  {
+    "key": "news.250.d",
+    "version": "",
+    "type": "desc",
+    "en": "The instability of [MEX.GetAdjective] politics over the past few years has brewed over into armed conflict! The forces of the Synarchist party have taken up arms, and fighting has erupted in the streets of several major [MEX.GetAdjective] cities!\\n\\nWhile the government was thought to have an obvious upper hand against any uprising, rumors abound of foreign support for the nationalists. The country's close neighbors watch with bated breath. Where this conflict will take Mexico, only time can tell."
+  },
+  {
+    "key": "news.251.t",
+    "version": "",
+    "type": "title",
+    "en": "[CAN.GetNameDefCap] Seeks Immediate Patriation"
+  },
+  {
+    "key": "news.251.d",
+    "version": "",
+    "type": "desc",
+    "en": "\\n\\nAfter breakdowns in negotiations with Westminster and an unprecedented 63-hour debate, the Canadian Parliament has overturned the British North America Act, instead enshrining the Canadian Constitution in laws untouchable by the British parliament or monarchy.\\nAlthough not an anti-British move in its own right, it signals a move away from the Commonwealth policies of the old empire.\\n\\nWhile a natural step to take for any country wanting to ensure their future stability, it does nothing to alleviate the already tense state of global politics."
+  },
+  {
+    "key": "news.252.t",
+    "version": "",
+    "type": "title",
+    "en": "[CAN.GetNameDefCap] Joins the [GER.GetFactionName]!"
+  },
+  {
+    "key": "news.252.d",
+    "version": "",
+    "type": "desc",
+    "en": "Seeing themselves as natural allies, [GER.GetNameDef] and [CAN.GetNameDef] have signed a pact of mutual defense. [CAN.GetAdjective] Premier [CAN.GetLeader] announced the alliance in a speech quoting the natural alignment of [CAN.GetAdjective] and [GER.GetAdjective] interests.\\n\\nConsidering increased mobilization across Europe and [CAN.GetNameDef]'s recent distancing from the Commonwealth, it is not difficult to forecast the kind of interests under discussion.\\nBoth in Europe and the Americas, the old powers watch with growing concern."
+  },
+  {
+    "key": "news.253.t",
+    "version": "",
+    "type": "title",
+    "en": "[AST.GetNameDefCap] Seeks Distance from Commonwealth"
+  },
+  {
+    "key": "news.253.d",
+    "version": "",
+    "type": "desc",
+    "en": "\\nIn a speech this morning, Prime Minister [AST.GetLeader] announced the Australian government's dedication to growth and stability as an Oceanic state. This means looking to new shores than those of Britain's Europe, as the Australian people can no longer bear the weight of foreign conflicts on their shoulders. In a direct reference to the King's Speech at the open of the last parliament, [AST.GetLeader] hit the point home by stating \"Never Another Gallipoli!\"\\n\\nThe rapturous cheers from the crowds indicate a new era of Australian politics has begun. Where it will end, the world can only begin to speculate."
+  },
+  {
+    "key": "news.254.t",
+    "version": "",
+    "type": "title",
+    "en": "[AST.GetNameDefCap] and New Zealand \"United\""
+  },
+  {
+    "key": "news.254.d",
+    "version": "",
+    "type": "desc",
+    "en": "[AST.GetNameDefCap], asserting its complete independence, has started exerting its influence on the South Pacific. As part of this the [AST.GetAdjective] government has demanded that all former colonial states of Oceania be placed under their authority.\\n\\nNaturally unwilling, the hard-pressed [ENG.GetAdjective] and New Zealander governments initially offered diplomatic resistance. However, without any base for projecting the Empire's authority in the region - a role previously fulfilled by Australia, it was only a question of time before [AST.GetNameDef] presented an ultimatum backed by force.\\nNew Zealand is now the eastmost province of [AST.GetNameDef]."
+  },
+  {
+    "key": "news.260.t",
+    "version": "",
+    "type": "title",
+    "en": "[SAF.GetNameDefCap] assumes responsibility for African colonies"
+  },
+  {
+    "key": "news.260.desc",
+    "version": "",
+    "type": "desc",
+    "en": "\\nIn a formal ceremony today, [SAF.GetLeader] signed the treaty that will give his government control over the British dependencies in Africa. The territories of Bechuanaland, Rhodesia and Kenya will now be administered from Pretoria. \\n\\nSpeaking before the House of Commons, [ENG.GetLeader] denied that the move weakened Britain's position in the continent, calling it instead \"a most sensible change to allow for a more efficient administration and defense of these areas.\""
+  },
+  {
+    "key": "news.261.t",
+    "version": "",
+    "type": "title",
+    "en": "[ENG.GetNameDefCap] reorganizes African colonies"
+  },
+  {
+    "key": "news.261.desc",
+    "version": "",
+    "type": "desc",
+    "en": "British Parliament has narrowly accepted a measure that will fundamentally reorganize parts of the British colonies in Africa. The new act creates, effectively, two new colonial regimes in the states of Rhodesia and Kenya. These new states will have a certain measure of freedom to manage their own affairs, but will also have responsibilities to provide their own defenses. \\n\\nSome conservatives opposed to the decision openly voiced fears that this decision is just the first step in a process they call 'decolonization'. \\n\\n[ENG.GetLeader] was not immediately available for comment."
+  },
+  {
+    "key": "news.262.t",
+    "version": "",
+    "type": "title",
+    "en": "The South African Civil War"
+  },
+  {
+    "key": "news.262.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Long simmering tensions in [SAF.GetName] have now broken out into open war. The fascist Nationalists claim that the policies of the democratic Unionist government are threatening the [SAF.GetAdjective] way of life. The Unionists, they say, stab the brave warriors of the Boer Wars in the back with their unconditional support for [ENG.GetName]. \\n\\nThe Nationalist Provisional Government under [SAF.GetLeader] has called on all true patriots to join them in restoring freedom to South Africa through force of arms. The Unionist government in Pretoria has labeled the Nationalists \"insurgents and traitors of the worst kind\". With military forces declaring equally for both sides, the conflict in South Africa may take a long time to resolve."
+  },
+  {
+    "key": "news.263.t",
+    "version": "",
+    "type": "title",
+    "en": "Anti-Royalist riots in [SAF.GetNameDef]"
+  },
+  {
+    "key": "news.263.desc",
+    "version": "",
+    "type": "desc",
+    "en": "A wave of anti-monarchy demonstrations, many of which turned violent, has swept across South Africa. Thousands of protesters took to the street, storming police stations and other government buildings. Portraits of the King were torn down, slashed, burned, and, in one occasion, dissolved in acid. \\n\\nThe police and the military were noted by observers to be very reluctant to try and contain the uprising, opting instead to guard factories and bridges. This has raised the question whether the riots really came as a surprise to the government."
+  },
+  {
+    "key": "news.264.t",
+    "version": "",
+    "type": "title",
+    "en": "The African People's Union"
+  },
+  {
+    "key": "news.264.desc",
+    "version": "",
+    "type": "desc",
+    "en": "The founding members of the [SAF.GetFactionName] have assembled in Pretoria to announce the creation of their new alliance. European observers were quick to note that the only government with any legitimacy present was the government of [SAF.GetNameDef] itself, [SAF.GetLeader] presiding over a motley assembly of self-appointed governments-in-exile and other revolutionary groups.\\n\\nThe parties present released a joint declaration, calling on the European Imperial Powers to release any lands they hold in Africa to its rightful owners at once, condemning the practice of colonialism and vowing the bring freedom to the oppressed African peoples - by whatever means necessary."
+  },
+  {
+    "key": "news.264.d",
+    "version": "",
+    "type": "desc",
+    "en": "They aren't real communists after all."
+  },
+  {
+    "key": "news.265.t",
+    "version": "",
+    "type": "title",
+    "en": "[SAF.GetAdjective] Pressure on France"
+  },
+  {
+    "key": "news.265.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Following the stunning defeat France suffered in its homeland, the legitimacy of its colonial empire has been called into question. The governments of [SOV.GetNameDef] and [SAF.GetNameDef] have issued a joint statement declaring that France can no longer be trusted with maintaining order in Madagascar, demanding that the island be turned over to [SAF.GetNameDef]. \\n\\nThe free French government has met to discuss the issue. Defense experts think it unlikely that the depleted French forces would be able to defend the island, should it come to war."
+  },
+  {
+    "key": "news.265.d",
+    "version": "",
+    "type": "desc",
+    "en": "Another bloodless victory for communism."
+  },
+  {
+    "key": "news.270.t",
+    "version": "",
+    "type": "title",
+    "en": "The birth of [NZL.GetAdjective] Armor"
+  },
+  {
+    "key": "news.270.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Rumbling down the main street of the capital, the new Bob Semple tank of the New Zealand Defense Force stands as a true testament to the ingenuity and the fighting spirit of the [NZL.GetAdjective] people. Armed with six machineguns and armored with almost certainly bulletproof iron plating, it will be quite possibly the biggest obstacle any invader will have to overcome. \\n\\nSome so-called experts point to the lackluster performance and weak armament of the vehicle as reasons why it should not be built, but as Prime Minister [NZL.GetLeader] said during the official acceptance ceremony of the vehicle, the timely defense of the realm is of such importance that perfect equipment can neither be expected nor demanded."
+  },
+  {
+    "key": "news.271.t",
+    "version": "",
+    "type": "title",
+    "en": "Big Bob enters the scene"
+  },
+  {
+    "key": "news.271.desc",
+    "version": "",
+    "type": "desc",
+    "en": "After the stunning success of the Bob Semple tank, the high command of the [NZL.GetName] Defense Force requested that an upscaled version be produced. Standing at more than 15 feet tall, and weighing in at no less than 120 tons, the new vehicle is awe-inspiring in every sense of the word. It's armament consisting of twin 17-pounder anti-tank guns will make short work of any enemy, while its heavy armor - extensively tested to ensure that it is, in fact, bulletproof - will allow it to move into the thick of battle without fear. \\n\\nAt the unveiling ceremony, one observer called it \"the most remarkable tank ever produced,\" while another called it \"unparalleled.\" \\nMass production is expected to start within the month."
+  },
+  {
+    "key": "news.272.t",
+    "version": "",
+    "type": "title",
+    "en": "The Bengal Famine strikes"
+  },
+  {
+    "key": "news.272.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Natural disasters, incompetent administration and the ravages of war have conspired to create a wide-spread famine in India.\\n\\nFollowing a cyclone which devastated large parts of the area and wiped out nearly the entire rice harvest, colonial administrators have proven slow - some might say conspicuously slow - to address the issue. Despite a food surplus in other areas of India, there have been no relief shipments out of fear that they might fall into the hands of the enemy.\\n\\nLarge parts of the area have been devastated, and the cost in lives and lost production can not even be estimated yet."
+  },
+  {
+    "key": "news.273.t",
+    "version": "",
+    "type": "title",
+    "en": "The Bengal Famine ends"
+  },
+  {
+    "key": "news.273.desc",
+    "version": "",
+    "type": "desc",
+    "en": "After months of relative inaction, the colonial government and the Indian army have finally decided to act. Distribution of emergency food supplies have started to reach the affected areas, while the new rice harvest has exceeded expectations. \\n\\nFood prices in the affected areas remain high, however, and the long-term effects of the famine can not yet be estimated."
+  },
+  {
+    "key": "news.280.t",
+    "version": "",
+    "type": "title",
+    "en": "India gains Home Rule"
+  },
+  {
+    "key": "news.280.desc",
+    "version": "",
+    "type": "desc",
+    "en": "After a tense meeting between the [GER.GetAdjective] ambassador and the [ENG.GetAdjective] foreign minister, the government of [ENG.GetNameDef] today announced that [RAJ.GetNameDef] will be allowed to determine its own policies from now on. The centuries of British rule over the subcontinent have come to a surprisingly quick end as civil servants are ordered home and colonial administration is turned over to native Indians.\\n\\nOne of the first actions of the new Indian leadership was to announce a wide-ranging cooperation treaty with [GER.GetNameDef]. The Indian government refused to comment on allegations that this was the price they paid for German support."
+  },
+  {
+    "key": "news.280.d",
+    "version": "",
+    "type": "desc",
+    "en": "Not our finest hour."
+  },
+  {
+    "key": "news.281.t",
+    "version": "",
+    "type": "title",
+    "en": "India gains Home Rule"
+  },
+  {
+    "key": "news.281.desc",
+    "version": "",
+    "type": "desc",
+    "en": "In a joint statement, a visibly shaken [ENG.GetAdjective] Foreign Minister together with the [SOV.GetAdjective] ambassador announced that India will be given full sovereignty over their own affairs at once. It is not quite clear what role [SOV.GetNameDef] played in bringing this sudden change of [ENG.GetAdjective] policy about, but it appears to be significant.\\n\\nOne of the first actions of the new Indian leadership was to announce a closer cooperation with [SOV.GetNameDef], giving additional weight to the rumors that [SOV.GetNameDef] intervened on their behalf."
+  },
+  {
+    "key": "news.281.d",
+    "version": "",
+    "type": "desc",
+    "en": "Not our finest hour."
+  },
+  {
+    "key": "news.282.t",
+    "version": "",
+    "type": "title",
+    "en": "Quit India Movement"
+  },
+  {
+    "key": "news.282.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Indian calls for independence have intensified lately. Now things have come to a head, as the radical Quit India Movement has called for [ENG.GetNameDef] to leave the country as soon as possible. [ENG.GetAdjective] authorities were quick to react, however, and have cracked down on the movement, arresting several leaders in dawn raids on homes across India. \\n\\nReports prepared by Special Branch indicate that many sympathizers are still at large, however, and many in the Civil Service have expressed fears that more extremist elements of the movement may even resort to violence."
+  },
+  {
+    "key": "news.283.t",
+    "version": "",
+    "type": "title",
+    "en": "Indian National Congress triumphs in Provincial Elections"
+  },
+  {
+    "key": "news.283.desc",
+    "version": "",
+    "type": "desc",
+    "en": "\\nIn the recent local elections, the Indian National Congress has achieved an overwhelming majority for their platform of slow and ordered transition to local government and dominion status in the future. \\n\\nIt appears that Indians have rejected the more radical policies advocated by Gandhi, who had argued for a total break with Britain and absolute home rule as soon as possible."
+  },
+  {
+    "key": "news.284.t",
+    "version": "",
+    "type": "title",
+    "en": "Swaraj Movement makes gains in Provincial Elections"
+  },
+  {
+    "key": "news.284.desc",
+    "version": "",
+    "type": "desc",
+    "en": "\\nBritish Civil Servants woke to a rude shock this morning as the results of the recent provincial elections came in. It is clear now that a large majority of Indians have given their votes to pro-Swaraj candidates. In provinces across India, calls have already started to turn this limited amount of local government into total self-rule as quickly as possible. \\n\\nA spokesman for the [ENG.GetAdjective] government stressed that now was not the time to discuss such measures, and that any transfer of further authority to Indians was out of the question."
+  },
+  {
+    "key": "news.285.t",
+    "version": "",
+    "type": "title",
+    "en": "Pakistan is free"
+  },
+  {
+    "key": "news.285.desc",
+    "version": "",
+    "type": "desc",
+    "en": "In accordance with the Two Nation Theory, the Muslim minority has been granted a sovereign homeland in the areas where Muslims form a majority of the population. Originally named Pakstan to show the combination of Punjab, Afghani, Kashmir, Singh and Baloch people, it has since been renamed Pakistan to aid pronunciation.\\n\\nTensions remain between the newly freed India and Pakistan, however, as parts of the borderlands are claimed by both new countries. Some observers even warn of a renewed war on the subcontinent."
+  },
+  {
+    "key": "news.286.t",
+    "version": "",
+    "type": "title",
+    "en": "Australia severs ties with Britain"
+  },
+  {
+    "key": "news.286.desc",
+    "version": "",
+    "type": "desc",
+    "en": "\\nIn a hotly contested vote, a small majority in the [AST.GetAdjective] parliament decided that the country should leave the British Empire. The last few remnants of British legal rule have been declared null and void. [AST.GetLeader] has already signed the decision into law, thereby bypassing the long-standing legal tradition of Royal Assent being granted by the Governor-General and turning [AST.GetNameDef] into a fully sovereign nation.\\n\\nParliament also voted to form a Constitutional Committee, which will discuss and advise on changes that will be made to the Constitution to remove all traces of British intervention into [AST.GetAdjective] affairs."
+  },
+  {
+    "key": "news.287.t",
+    "version": "",
+    "type": "title",
+    "en": "Germany Occupies Western Poland"
+  },
+  {
+    "key": "news.287.desc",
+    "version": "",
+    "type": "desc",
+    "en": "German troops have occupied western Poland, officially for the purpose of protecting German minorities from the chaos that followed the collapse of the Polish government. \\n\\nSoviet forces have withdrawn from these areas in good order, resulting in Poland's effective partitioning between the two powers."
+  },
+  {
+    "key": "news.288.t",
+    "version": "",
+    "type": "title",
+    "en": "The Chinese United Front forms"
+  },
+  {
+    "key": "news.288.desc",
+    "version": "",
+    "type": "desc",
+    "en": "[CHI.GetLeader] and [PRC.GetLeader] have issued a joint announcement, declaring that they have set aside their differences in the face of Japanese attack. Both sides will observe a strict policy of non-aggression against each other for as long as the war against Japan lasts and have vowed to do everything in their power to throw back the invader. A number of smaller warlords have also declared their support, putting their forces under the command of [CHI.GetLeader].\\n\\nWhether the long-time enemies of the Chinese Civil War will actually work together remains to be seen, and many experts believe that this will do little more than delay the inevitable defeat of China."
+  },
+  {
+    "key": "news.337.title",
+    "version": "",
+    "type": "title",
+    "en": "Humiliation in Africa"
+  },
+  {
+    "key": "news.337.desc",
+    "version": "",
+    "type": "desc",
+    "en": "A peace treaty was signed today between [ETH.GetLeader] and [ITA.GetLeader] ending the hostilities between the two nations. Despite the massive power difference between the landlocked kingdom and the world-spanning empire, the Ethiopian government definitely came out on top in these negotiations. Not only must Italy enter a truce with Ethiopia, but the territories of Eritrea and Italian Somaliland have been officially ceded to [ETH.GetNameDef].\\n\\nWith this being the second defeat for the Italian armed forces in Ethiopia, the government of [ITA.GetLeader] is in shambles, and it will likely take many years before the wounded Italian pride truly recovers from this defeat."
+  },
+  {
+    "key": "news.337.desc_some_states",
+    "version": "",
+    "type": "desc",
+    "en": "A peace treaty was signed today between [ETH.GetLeader] and [ITA.GetLeader] ending the hostilities between the two nations. Despite the massive power difference between the landlocked kingdom and the world-spanning empire, the Ethiopian government definitely came out on top in these negotiations. Not only must Italy enter a truce with Ethiopia, but some of the former Italian territories in East Africa have been officially ceded to [ETH.GetNameDef].\\n\\nWith this being the second defeat for the Italian armed forces in Ethiopia, the government of [ITA.GetLeader] is in shambles, and it will likely take many years before the wounded Italian pride truly recovers from this defeat."
+  },
+  {
+    "key": "news.337.desc_no_states",
+    "version": "",
+    "type": "desc",
+    "en": "A peace treaty was signed today between [ETH.GetLeader] and [ITA.GetLeader] ending the hostilities between the two nations. Despite the massive power difference between the landlocked kingdom and the world-spanning empire, the Ethiopian government managed to hold their ground against the Italian forces. \\n\\nWith this being the second defeat for the Italian armed forces in Ethiopia, the government of [ITA.GetLeader] is in shambles, and it will likely take many years before the wounded Italian pride truly recovers from this defeat."
+  },
+  {
+    "key": "news.337.d",
+    "version": "",
+    "type": "desc",
+    "en": "Ras Alula's Empire is reborn!"
+  },
+  {
+    "key": "news.338.t",
+    "version": "",
+    "type": "title",
+    "en": "Successful Nuclear Tests"
+  },
+  {
+    "key": "news.338.desc",
+    "version": "",
+    "type": "desc",
+    "en": "[FROM.GetNameDefCap] has performed successful tests with nuclear reactors, [FROM.GetLeader] announced in a public speech yesterday. [FROM.GetNameDefCap] appears to currently be in the lead in the global atomic race."
+  },
+  {
+    "key": "news.350.t",
+    "version": "",
+    "type": "title",
+    "en": "Peaceful Re-unification of [ROOT.GetNameDef]"
+  },
+  {
+    "key": "news.350.desc",
+    "version": "",
+    "type": "desc",
+    "en": "\\n\\nListening to the will of the [ROOT.GetAdjective] people, [ROOT.GetLeader] has managed to bring together a peaceful unification of the [ROOT.GetRulingIdeology] [ROOT.GetAdjective] states. It remains to be seen what effect this will have on the world at large, but at least in [ROOT.Capital.GetCapitalVictoryPointName], the people were celebrating this historic event."
+  },
+  {
+    "key": "news.409.t",
+    "version": "",
+    "type": "title",
+    "en": "Yellow River Blown"
+  },
+  {
+    "key": "news.409.desc",
+    "version": "",
+    "type": "desc",
+    "en": "In a last ditch attempt to halt the oncoming might of the [JAP.GetAdjective] forces, the network of dikes and flood defenses along the Yellow River were destroyed by the [FROM.GetAdjective] army.\\n\\nThe ensuing flash floods have displaced huge numbers of the rural population, who were given only a brief window to prepare.\\n\\nIt remains to be seen if this act can buy the [FROM.GetAdjective] military enough time to regroup and face further combat."
+  },
+  {
+    "key": "news.289.t",
+    "version": "",
+    "type": "title",
+    "en": "[alliance_applicant.GetNameDefCap] joins the [alliance_inviter.GetFactionName]"
+  },
+  {
+    "key": "news.289.d",
+    "version": "",
+    "type": "desc",
+    "en": "\\nEarlier today, [alliance_inviter.GetNameDef] and [alliance_applicant.GetNameDef] issued a joint statement that the latter has now been formally granted member status of the [alliance_inviter.GetFactionName]. Whether this partnership will be used for offensive or defensive purposes remains to be seen, but undoubtedly extensive joint military planning is already under way."
+  },
+  {
+    "key": "news.290.t",
+    "version": "",
+    "type": "title",
+    "en": "Otto assumes the Hungarian Crown"
+  },
+  {
+    "key": "news.290.desc",
+    "version": "",
+    "type": "desc",
+    "en": "In search of a suitable king, the Kingdom of Hungary extended an invitation to Otto von Habsburg to return to the lands that were until recently ruled by his family. Otto, who has lived in exile throughout Western Europe since the end of the Great War and the dissolution of his father's empire, chose to accept the offer. Today, amidst much fanfare and celebration, he was crowned King of Hungary in a solemn ceremony at the Royal Palace in Budapest.\\n\\nDuring his coronation speech King Otto thanked the Hungarian people for their loyalty and devotion, and vowed to see the Habsburg lands reunited once more, promising that this time Hungary would be the dominant constituent part."
+  },
+  {
+    "key": "news.291.t",
+    "version": "",
+    "type": "title",
+    "en": "Austria votes to unite with Hungary"
+  },
+  {
+    "key": "news.291.desc",
+    "version": "",
+    "type": "desc",
+    "en": "At the insistence of the Hungarians, Austria has carried out a referendum on the possible reunification of the two nations, under the Habsburg crown. The final count has almost been completed, but it is already clear that it is a landslide victory for the reunification camp. No irregularities in the voting process have been reported, and the Austrian government has found itself obligated to reform into a regional government of the Hungarian state.\\n\\nThough the move is greatly welcomed by the Hungarian public, the political repercussions of the referendum will likely be felt keenly throughout Europe."
+  },
+  {
+    "key": "news.292.desc",
+    "version": "",
+    "type": "desc",
+    "en": "At the insistence of the Hungarians, Austria has carried out a referendum on the possible reunification of the two nations, under the Habsburg crown. The final count has almost been completed, but it is already clear that it is a landslide victory for the reunification camp. There have been ample reports of inconsistencies, voter fraud, and election-rigging, but Austrian officials have dismissed these allegations and have already begun to reform the administration into a regional government of the Hungarian state.\\n\\nThough the move is greatly welcomed by the Hungarian public, the political repercussions of the referendum will likely be felt keenly throughout Europe."
+  },
+  {
+    "key": "news.293.t",
+    "version": "",
+    "type": "title",
+    "en": "Austria votes against reunification"
+  },
+  {
+    "key": "news.293.desc",
+    "version": "",
+    "type": "desc",
+    "en": "At the insistence of the Hungarians, Austria has carried out a referendum on the possible reunification of the two nations, under the Habsburg crown. The final count has almost been completed, but a victory for the reunification camp is already out of reach. The Austrian government has therefore decided against joining an Austria-Hungarian union.\\n\\nIn the spirit of democracy and self-determination, Hungary has accepted the result and has decided not to push their proposals any further."
+  },
+  {
+    "key": "news.294.t",
+    "version": "",
+    "type": "title",
+    "en": "Austria votes against reunification"
+  },
+  {
+    "key": "news.294.desc",
+    "version": "",
+    "type": "desc",
+    "en": "At the insistence of the Hungarians, Austria has carried out a referendum on the possible reunification of the two nations, under the Habsburg crown. The final count has almost been completed, but a victory for the reunification camp is already out of reach. The Austrian government has therefore decided against joining an Austria-Hungarian union.\\n\\nHungary, however, has accused the Austria government of rigging the elections against reunification. They have stated that they will not shy away from the use of force to protect the Austrian people's desire to be reunified with their Hungarian brethren. Both sides have now begun to mobilize, and war seems inevitable."
+  },
+  {
+    "key": "news.295.t",
+    "version": "",
+    "type": "title",
+    "en": "Restoration of Austria-Hungary"
+  },
+  {
+    "key": "news.295.desc",
+    "version": "",
+    "type": "desc",
+    "en": "With the reunification of Austria and Hungary completed, the Hungarian government has gathered international press in Budapest and announced the restoration of the Austro-Hungarian Empire.\\n\\nKing Otto has assumed his rightful title as Emperor of Austria, and has reiterated his vow that, though the Empire is yet but a shadow of its former self, he shall not rest until all Habsburg lands have been reunited. Their neighbors undoubtedly eye the proceedings in Budapest suspiciously."
+  },
+  {
+    "key": "news.296.t",
+    "version": "",
+    "type": "title",
+    "en": "Wilhelm assumes the Hungarian Crown"
+  },
+  {
+    "key": "news.296.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Seeking a King for their nation, the Hungarians, after long negotiations and preparations, officially invited the Swedish Prince Wilhelm, Duke of Södermanland, earlier this week. Today, amidst much fanfare and celebration, he was crowned King of Hungary in a solemn ceremony at the Royal Palace in Budapest.\\n\\nIt is said the new King takes the well-being of his people to heart, and that he strongly supports their democratic rights. Furthermore, he advocates dialog with Hungary's neighbors over hostility. The new King may thus well prove a welcome aid to reducing tensions in the region."
+  },
+  {
+    "key": "news.297.t",
+    "version": "",
+    "type": "title",
+    "en": "Friedrich Franz assumes the Hungarian Crown"
+  },
+  {
+    "key": "news.297.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Seeking a King for their nation, the Hungarians, after long negotiations and preparations, officially invited the German Friedrich Franz, Grand Duke of Mecklenburg-Schwerin, earlier this week. Today, amidst much fanfare and celebration, he was crowned King of Hungary in a solemn ceremony at the Royal Palace in Budapest.\\n\\nA member of the SS since 1931, the new King's ideological leanings are well-known, and he has already declared that he 'will bring Hungary the greatness it deserves, no matter the cost'. Together with the King's promise to 'undo the injustices visited on us in the past', it is therefore unlikely this coronation will result in the easing of tensions in the region."
+  },
+  {
+    "key": "news.298.t",
+    "version": "",
+    "type": "title",
+    "en": "[HUN.GetName] Renounces Treaty of Trianon"
+  },
+  {
+    "key": "news.298.desc",
+    "version": "",
+    "type": "desc",
+    "en": "In a public declaration, [HUN.GetLeader] has renounced the treaty imposed by the Allied powers after the Great War. Signed by the [HUN.GetAdjective]s under protest, in 1920, it greatly reduced the country's size and limited the strength of its military.\\n\\nIn his speech, [HUN.GetLeader] already hinted that Hungary may soon look towards reaffirming their claims on the territories taken from them two decades ago."
+  },
+  {
+    "key": "news.299.t",
+    "version": "",
+    "type": "title",
+    "en": "Hungary Proclaims Greater Hungary"
+  },
+  {
+    "key": "news.299.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Having regained the lands that were taken from them in the Treaty of Trianon, [From.GetLeader] issued a proclamation yesterday evening that the nation shall henceforth be known as Greater Hungary. It is hoped that this will serve to increase Greater Hungary's prestige in the eyes of the world, as well as better describe the extent of its borders."
+  },
+  {
+    "key": "news.300.t",
+    "version": "",
+    "type": "title",
+    "en": "[HUN.GetNameDefCap] Demands Transylvania"
+  },
+  {
+    "key": "news.300.desc",
+    "version": "",
+    "type": "desc",
+    "en": "In an effort to further reverse the Treaty of Trianon, [HUN.GetNameDef] has issued an ultimatum to [ROM.GetNameDef] demanding the return of Transylvania. No official response has yet been made, but [HUN.GetNameDef] has already hinted that force of arms will be considered if their demands are rejected."
+  },
+  {
+    "key": "news.301.t",
+    "version": "",
+    "type": "title",
+    "en": "[ROM.GetNameDefCap] Returns Transylvania"
+  },
+  {
+    "key": "news.301.desc",
+    "version": "",
+    "type": "desc",
+    "en": "[ROM.GetNameDefCap] has announced that it will accept the [HUN.GetAdjective] demands for a return of Transylvania. Accordingly, the territory has now been reunited with the country, greatly increasing its size and strength. It is unlikely that a success of this magnitude will deter the Hungarians from issuing further demands for their remaining lost territories."
+  },
+  {
+    "key": "news.302.t",
+    "version": "",
+    "type": "title",
+    "en": "Romania Rejects [HUN.GetAdjective] Demands"
+  },
+  {
+    "key": "news.302.desc",
+    "version": "",
+    "type": "desc",
+    "en": "The ultimatum's deadline has come and gone without a Romanian reply. Outraged [HUN.GetAdjective] officials have already denounced Romania's government, claiming they are 'destabilizing the region' with their insistence to adhere to 'unlawful treaties'. Both nations seem to be preparing for a war that may well erupt at any day."
+  },
+  {
+    "key": "news.303.t",
+    "version": "",
+    "type": "title",
+    "en": "Hungary Demands Southern Slovakia"
+  },
+  {
+    "key": "news.303.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Following up on their vows to redress the Treaty of Trianon, Hungary has demanded the return of Southern Slovakia from [From.GetName]. The [From.GetAdjective]s have not yet responded, but the threat of war in [HUN.GetAdjective] rhetoric is but all too clear. Rejection may well lead to a new war in the region."
+  },
+  {
+    "key": "news.304.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetName] Returns Southern Slovakia"
+  },
+  {
+    "key": "news.304.desc",
+    "version": "",
+    "type": "desc",
+    "en": "[From.GetName] has officially accepted the [HUN.GetAdjective] demands for a return of Southern Slovakia, and has already taken hurried steps to ensure the territory will be returned to Hungary immediately. It is unlikely that this success will deter the [HUN.GetAdjective]s from issuing further demands for their remaining lost territories."
+  },
+  {
+    "key": "news.305.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.From.GetName] Rejects [HUN.GetAdjective] Demands"
+  },
+  {
+    "key": "news.305.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Diplomatic negotiations have broken down, and today [From.From.GetName] publicly rejected the [HUN.GetAdjective] demands for the return of Southern Slovakia. Outraged [HUN.GetAdjective] officials have already denounced [From.From.GetName]'s government, claiming they are 'destabilizing the region' with their insistence to adhere to 'unlawful treaties'. Both nations seem to be preparing for a war that may well erupt at any day."
+  },
+  {
+    "key": "news.306.t",
+    "version": "",
+    "type": "title",
+    "en": "Hungary Demands the Vojvodina"
+  },
+  {
+    "key": "news.306.desc",
+    "version": "",
+    "type": "desc",
+    "en": "In light of their previous successes in obtaining the return of lost territory, the [HUN.GetAdjective]s have now demanded that Yugoslavia return the Vojvodina. As the Yugoslavs try to find a diplomatic solution, [HUN.GetAdjective] impatience has already become more and more clear, and should the Yugoslavs reject the demands it is unlikely a peaceful solution will be found."
+  },
+  {
+    "key": "news.307.t",
+    "version": "",
+    "type": "title",
+    "en": "Yugoslavia Returns the Vojvodina"
+  },
+  {
+    "key": "news.307.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Yugoslavia has decided to cave to [HUN.GetAdjective] demands, and has arranged for the rapid transfer of the Vojvodina to its neighbor. Though it required ample use of gunboat diplomacy, it is undeniable that Hungary has grown into a new regional powerhouse."
+  },
+  {
+    "key": "news.308.t",
+    "version": "",
+    "type": "title",
+    "en": "Yugoslavia Rejects [HUN.GetAdjective] Demands"
+  },
+  {
+    "key": "news.308.desc",
+    "version": "",
+    "type": "desc",
+    "en": "In a clear act of defiance the Yugoslavs have rejected [HUN.GetAdjective] demands for the Vojvodina. Hungary, on its part, has made no efforts to step down its threats of using force to secure its 'lawful territory'. Both nations seem to be preparing for a war that may well erupt at any day."
+  },
+  {
+    "key": "news.309.t",
+    "version": "",
+    "type": "title",
+    "en": "Hungary Claims Overlordship over Slovakia"
+  },
+  {
+    "key": "news.310.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetName] Caves to Hungary"
+  },
+  {
+    "key": "news.311.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.From.GetName] Rejects [HUN.GetAdjective] Demands"
+  },
+  {
+    "key": "news.312.t",
+    "version": "",
+    "type": "title",
+    "en": "Renewal of the Rome Protocols"
+  },
+  {
+    "key": "news.313.t",
+    "version": "",
+    "type": "title",
+    "en": "Pact of Rome Formed"
+  },
+  {
+    "key": "news.314.t",
+    "version": "",
+    "type": "title",
+    "en": "Horthy Assassinated"
+  },
+  {
+    "key": "news.314.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Reports have emerged from Hungary that Miklos Horthy was shot by a lone gunman today after leaving the Parliament building in Budapest. Though he was immediately rushed to the hospital, doctors announced that he was already deceased by the time he arrived. The gunman, shot by police as he tried to escape the scene, has been identified as a communist party member.\\n\\nThe assassination has caused an uproar in domestic [HUN.GetAdjective] politics, as Horthy's anti-communist leanings were paramount in keeping revolutionary elements at bay. Without the old admiral at the helm of the political scene, it is likely that communist influences will increase dramatically."
+  },
+  {
+    "key": "news.315.t",
+    "version": "",
+    "type": "title",
+    "en": "Austria Denies Referendum"
+  },
+  {
+    "key": "news.315.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Austria has outright rejected the [HUN.GetAdjective] calls for a referendum, despite Hungary's increasing belligerence. The latter has accused the Austrian government of flagrantly disregarding the democratic rights of their people. They have stated that they will not shy away from the use of force to protect the Austrian people's desire to be reunified with their [HUN.GetAdjective] brethren. Both sides have now begun to mobilize, and war seems inevitable."
+  },
+  {
+    "key": "news.316.t",
+    "version": "",
+    "type": "title",
+    "en": "The Polish-Romanian Alliance"
+  },
+  {
+    "key": "news.316.desc",
+    "version": "",
+    "type": "desc",
+    "en": "The Poles and Romanians have announced a renewed commitment to each other's defense. Although good relations have existed between the two nations for well over a decade now, today's announcement indicates that a policy of mutual defense is increasingly dominating military planning both in Poland and in Romania."
+  },
+  {
+    "key": "news.317.t",
+    "version": "",
+    "type": "title",
+    "en": "The Cordon Sanitaire"
+  },
+  {
+    "key": "news.317.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Citing the increasing dangers posed by the ideologies to their east and west, the Romanians have announced the formation of the Cordon Sanitaire. The alliance welcomes all who find themselves strangled by fascism and communism in Eastern Europe, and already some countries are considering to join their forces with Romania."
+  },
+  {
+    "key": "news.318.t",
+    "version": "",
+    "type": "title",
+    "en": "Bulgaria Submits to Romania"
+  },
+  {
+    "key": "news.318.desc",
+    "version": "",
+    "type": "desc",
+    "en": "In response to a Romanian ultimatum, and faced with immediate Romanian military action should they refuse, the Bulgarians have made significant changes to their government to make it more Romania-friendly. Bulgaria has accepted all of their neighbor's demands, and it is unlikely they will refuse further requests. As a result, it can now only be regarded as a Romanian puppet."
+  },
+  {
+    "key": "news.319.t",
+    "version": "",
+    "type": "title",
+    "en": "Bulgaria Rejects Romanian Demands"
+  },
+  {
+    "key": "news.319.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Despite having been issued an ultimatum, and being faced with immediate Romanian military action should they refuse, Bulgaria has rejected the Romanian demands. The latter has refused to back down, and both countries seem on a clear path towards military conflict."
+  },
+  {
+    "key": "news.324.t",
+    "version": "",
+    "type": "title",
+    "en": "Yugoslavia Submits to Romania"
+  },
+  {
+    "key": "news.324.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Faced with Romanian demands for a 'drastically restructuring' of their state, and the threat of military force if they should refuse, Yugoslavia saw no other course of action than to submit. The announced 'restructuring', however, has not only resulted in the partitioning of Yugoslavia in its constituent states, but has also involved the installation of puppet governments.\\n\\nIt is clear that predominantly Romanian interests have been served under the pretense of the right of self-determination, and that Romanian influence in the region is continuing to grow."
+  },
+  {
+    "key": "news.320.t",
+    "version": "",
+    "type": "title",
+    "en": "Yugoslavia Rejects Romanian Demands"
+  },
+  {
+    "key": "news.320.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Despite being faced with Romanian demands for a 'drastically restructuring' of their state, and the threat of military force if they should refuse, Yugoslavia has rejected the ultimatum. Even though ample pressure was exerted on the country from multiple directions, the Yugoslavs are resolved to defend their nation with tooth and nail. Romania has now declared war, and it is not inconceivable that other nations might partake in a partitioning."
+  },
+  {
+    "key": "news.321.t",
+    "version": "",
+    "type": "title",
+    "en": "Yugoslavia Partitioned"
+  },
+  {
+    "key": "news.321.desc",
+    "version": "",
+    "type": "desc",
+    "en": "At Romanian instigation, Yugoslavia has been issued an ultimatum calling for a 'restructuring of their state'. Faced with pressure from multiple neighbors at once, the Yugoslavs have seen no alternative but to accept, and a partitioning of the nation is presently under way."
+  },
+  {
+    "key": "news.322.t",
+    "version": "",
+    "type": "title",
+    "en": "Coup in Romania"
+  },
+  {
+    "key": "news.322.desc",
+    "version": "",
+    "type": "desc",
+    "en": "As dissatisfaction with the country's leadership has risen to dangerous levels in Romania, Prince Michael has now instigated a coup with the aid of substantial elements of the military. Early reports indicate it is successful, and King Michael has already announced he has assumed the role of head of state, intending to give Romania the leadership it requires."
+  },
+  {
+    "key": "news.323.t",
+    "version": "",
+    "type": "title",
+    "en": "King Carol II Abdicates"
+  },
+  {
+    "key": "news.323.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Pressured by powerful elements in his government, King Carol II of Romania saw no choice but to announce and sign his abdication. His successor is King Michael, but many of the dictatorial powers obtained by Carol have been vested back into the government and so it is unlikely the young King will be able to wield similar power as his predecessor.\\n\\nFollowing his abdication Carol appears to have emptied his expansive bank accounts and has fled into exile, taking up residence in one of Mexico City's more expensive neighborhoods with his mistress Magda Lupescu."
+  },
+  {
+    "key": "news.325.t",
+    "version": "",
+    "type": "title",
+    "en": "Yugoslavia Claims Bulgaria"
+  },
+  {
+    "key": "news.325.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Citing the foundations of their nation as a 'union of the South Slav peoples', Yugoslav rhetoric has recently increasingly argued for the Bulgarian people's membership of this union. Now, this propaganda has taken a drastic new turn as Yugoslavia has outright staked their claim to the Bulgarian region. As both nations ready their forces, war may well erupt at any moment."
+  },
+  {
+    "key": "news.326.t",
+    "version": "",
+    "type": "title",
+    "en": "The Banovina of Croatia"
+  },
+  {
+    "key": "news.326.desc",
+    "version": "",
+    "type": "desc",
+    "en": "As a result of continuing and increasing problems with Croatian nationalist elements, the Yugoslav government has been necessitated to grant increased autonomy to the Croatians. A new semi-independent state, the Banovina of Croatia, has been called into being, and though it is still nominally a dependency of Yugoslavia, the government's influence in the region has now been greatly reduced."
+  },
+  {
+    "key": "news.327.t",
+    "version": "",
+    "type": "title",
+    "en": "Yugoslavia Claims Macedonia"
+  },
+  {
+    "key": "news.327.desc",
+    "version": "",
+    "type": "desc",
+    "en": "With the aim of unifying the Macedonian peoples, Yugoslavia has announced that it now considers Central Macedonia an integral part of the Yugoslav nation. To back up their claim, divisions have been poised at the border, and the threat of a new military conflict looms over the region."
+  },
+  {
+    "key": "news.328.t",
+    "version": "",
+    "type": "title",
+    "en": "Yugoslavia Claims Italian Border"
+  },
+  {
+    "key": "news.328.desc",
+    "version": "",
+    "type": "desc",
+    "en": "The Yugoslav government has recently increasingly spoken out against the Italian treatment of Slav minorities in the border regions of Istria and Zara. Today it announced that it considers these regions, taken by Italy after the Great War and predominantly populated by ethnic Slavs, to be an integral part of the Yugoslav nation Furthermore, to safeguard the rights of the inhabitants of these regions, the Yugoslavs have indicated that they will not shy away from use of military force."
+  },
+  {
+    "key": "news.329.t",
+    "version": "",
+    "type": "title",
+    "en": "Yugoslavia Recognizes [SOV.GetNameDef]"
+  },
+  {
+    "key": "news.329.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Yugoslavia, even more stoically than other nations, has for years refused to recognize the communist state that is [SOV.GetNameDef]. With today's announcement that the government of Yugoslavia will henceforth establish official relations with the Soviets, this policy has at last come to an end. Whether this means an opening of the Yugoslav state to communist influence remains to be seen, but the tone of the announcement was surprisingly cordial."
+  },
+  {
+    "key": "news.330.t",
+    "version": "",
+    "type": "title",
+    "en": "The Pan-Slavic Worker's Congress"
+  },
+  {
+    "key": "news.330.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Disagreeing with fundamental aspects of Soviet communism, the Yugoslavs have taken their own approach to the ideology. Rather than be a member of the Comintern, the Yugoslav government has announced that they aim to lead the Southern Slavs in their fight for the rights of the worker. It is likely that they will soon attempt to bring their neighbors into the fold, a move that could seriously upset the balance of power in the region."
+  },
+  {
+    "key": "news.334.t",
+    "version": "",
+    "type": "title",
+    "en": "The Panay Incident"
+  },
+  {
+    "key": "news.334.d",
+    "version": "",
+    "type": "desc",
+    "en": "[USA.GetAdjective] and [ENG.GetAdjective] gunboats were attacked by [JAP.GetAdjective] aircraft in separate actions today, while evacuating Western civilians from the front line in the war between [JAP.GetName] and [CHI.GetName]. Despite being clearly marked as an [USA.GetAdjective] vessel, the USS Panay was hit by two bombs and sunk, with three [USA.GetAdjective] and one [ITA.GetAdjective] citizen killed and others wounded. In a separate attack on HMS Ladybird, one [ENG.GetAdjective] sailor was killed.\\n\\nBoth the [USA.GetAdjective] and [ENG.GetAdjective] Governments have issued strong protests. The incident highlights the increasing tension between the three foremost naval powers."
+  },
+  {
+    "key": "news.335.t",
+    "version": "",
+    "type": "title",
+    "en": "Tensions running high between [USA.GetNameDef] and [JAP.GetName]"
+  },
+  {
+    "key": "news.335.d",
+    "version": "",
+    "type": "desc",
+    "en": "\\nThe recent Panay Incident has spun out of control. Outrage in [USA.GetNameDef] has led to several prominent politicians to demand an immediate reprisal against [JAP.GetNameDef]. [USA.GetAdjective] media has been awash with ever new stories of [JAP.GetAdjective] atrocities, some true, some exaggerated, some entirely made up. With the two great powers on the brink of war, few observers still hold hope that the situation can be stabilized."
+  },
+  {
+    "key": "news.336.title",
+    "version": "",
+    "type": "title",
+    "en": "Remember the Alamo"
+  },
+  {
+    "key": "news.336.desc",
+    "version": "",
+    "type": "desc",
+    "en": "[MEX.GetAdjective] forces have reoccupied Texas after a hundred years of absence. [USA.GetAdjective] troops have been fully cleared from the major cities of Texas, including San Antonio and its famous landmark, the Alamo. Although no fighting took place at the historic site, [MEX.GetLeader] has toured the Catholic mission's premises, holding rallies and speeches encouraging the troops to keep fighting for final victory over the hated 'Yanquis'."
+  }
+]

@@ -1,0 +1,1402 @@
+[
+  {
+    "line": 1842,
+    "key": "ww_congo.23.desc",
+    "ver": "",
+    "en": "The colonial administration back in [FROM.GetNameDef] has approved our request to increase promotion of [FROM.GetAdjective] emigration to our state. A new wave of people ready to assist in the building of our state are sure to start coming in.",
+    "comment": ""
+  },
+  {
+    "line": 1843,
+    "key": "ww_congo.23.a",
+    "ver": "",
+    "en": "Perfect",
+    "comment": ""
+  },
+  {
+    "line": 1845,
+    "key": "ww_congo.24.t",
+    "ver": "",
+    "en": "The [FROM.GetAdjective]s Reject our Immigration Scheme",
+    "comment": ""
+  },
+  {
+    "line": 1846,
+    "key": "ww_congo.24.desc",
+    "ver": "",
+    "en": "The colonial administration back in [FROM.GetNameDef] has rejected our request to increase promotion of [FROM.GetAdjective] emigration to our state. It is really a shame, but there is not much we can do to change their minds.",
+    "comment": ""
+  },
+  {
+    "line": 1847,
+    "key": "ww_congo.24.a",
+    "ver": "",
+    "en": "I mean what did we expect?",
+    "comment": ""
+  },
+  {
+    "line": 1849,
+    "key": "ww_congo.25.t",
+    "ver": "",
+    "en": "Albert de Vleeshauwer Goes Abroad to Lobby for Support",
+    "comment": ""
+  },
+  {
+    "line": 1850,
+    "key": "ww_congo.25.desc",
+    "ver": "",
+    "en": "The Belgian minister of the colonies Albert de Vleeshauwer, a close ally to Pierre Ryckmans, has decided to go abroad to lobby for support from our newfound allies, as the situation seems dire and the mainland politicians refuse to act. Perhaps we can find some favorable deals thanks to his aid?",
+    "comment": ""
+  },
+  {
+    "line": 1851,
+    "key": "ww_congo.25.a",
+    "ver": "",
+    "en": "This is where the war truly starts",
+    "comment": ""
+  },
+  {
+    "line": 1853,
+    "key": "ww_congo.26.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] occupies [796.GetName]!",
+    "comment": ""
+  },
+  {
+    "line": 1854,
+    "key": "ww_congo.26.desc",
+    "ver": "",
+    "en": "\\nEarlier this week, forces belonging to [COG.GetNameDef] moved in and occupied our territory of  [796.GetName], stating that they were on a mission to protect the region from potential occupation by their enemies. This is clearly an act of war, however it is one which we could likely choose to simply ignore, seeing as they are likely not picking a fight with us, but rather seeking to reunify the Congo basin.",
+    "comment": ""
+  },
+  {
+    "line": 1855,
+    "key": "ww_congo.26.a",
+    "ver": "",
+    "en": "It is not worth fighting over",
+    "comment": ""
+  },
+  {
+    "line": 1856,
+    "key": "ww_congo.26.b",
+    "ver": "",
+    "en": "Who do they think they are?",
+    "comment": ""
+  },
+  {
+    "line": 1858,
+    "key": "ww_congo.27.t",
+    "ver": "",
+    "en": "A Mutiny at Luluabourg",
+    "comment": ""
+  },
+  {
+    "line": 1859,
+    "key": "ww_congo.27.desc",
+    "ver": "",
+    "en": "Earlier this week, Congolese non-commissioned officers led by First Sergeant-Major Ngoie Mukalabushi mutinied at Luluabourg in Kasaï province. One of the main triggers seems to have been their treatment by our Belgian officers. The mutineers broke into the base's armory on the morning and pillaged the white quarter of the town. They also attacked visible signs of the colonial authorities and proclaimed their desire for independence. They then dispersed to their home villages, pillaging on the way, but seem to have failed to spread the insurrection to neighboring garrisons. How should we deal with the situation?",
+    "comment": ""
+  },
+  {
+    "line": 1860,
+    "key": "ww_congo.27.a",
+    "ver": "",
+    "en": "Capture them and make an example out of Mukalabushi",
+    "comment": ""
+  },
+  {
+    "line": 1861,
+    "key": "ww_congo.27.b",
+    "ver": "",
+    "en": "It is a sign that great change is needed",
+    "comment": ""
+  },
+  {
+    "line": 1862,
+    "key": "COG_pro_independence_reforms_in_the_force_publique_structure",
+    "ver": "",
+    "en": "Pro-Independence Reforms in the Force Publique",
+    "comment": ""
+  },
+  {
+    "line": 1864,
+    "key": "ww_congo.28.t",
+    "ver": "",
+    "en": "Rising Suspicion towards the National Committee",
+    "comment": ""
+  },
+  {
+    "line": 1865,
+    "key": "ww_congo.28.desc",
+    "ver": "",
+    "en": "Seeing as the newly formed National Committee for Liberation has taken a more standoffish stance towards the colonial government, many people in the countryside have started worrying about how the Committee may not try to take a peaceful route to independence. Moreover, in the region of Katanga, whispers of secession have begun to be heard, and it may be so that the state may attempt to declare independence when our war for liberation starts...",
+    "comment": ""
+  },
+  {
+    "line": 1866,
+    "key": "ww_congo.28.a",
+    "ver": "",
+    "en": "They will need to be convinced, or liberated by force",
+    "comment": ""
+  },
+  {
+    "line": 1867,
+    "key": "COG_coquilatville_and_lusambo_will_join_the_belgian_loyalsits_tt",
+    "ver": "",
+    "en": "§Y[538.GetName]§! and §Y[888.GetName]§! will join the §YPro-Belgian Loyalists§! when the war for independence starts",
+    "comment": ""
+  },
+  {
+    "line": 1869,
+    "key": "ww_congo.29.t",
+    "ver": "",
+    "en": "Congolese Nationalists Approach us for Aid",
+    "comment": ""
+  },
+  {
+    "line": 1870,
+    "key": "ww_congo.29.desc",
+    "ver": "",
+    "en": "Congolese nationalists dubbing themselves the National Committee for Liberation are preparing a war of independence against their overlord. They promise us that they would align closer to us once the war has been won, provided we send them weapons when the fighting starts, and claim that a weakened [BEL.GetName] lies within our interests.",
+    "comment": ""
+  },
+  {
+    "line": 1871,
+    "key": "ww_congo.29.a",
+    "ver": "",
+    "en": "By all means",
+    "comment": ""
+  },
+  {
+    "line": 1872,
+    "key": "ww_congo.29.b",
+    "ver": "",
+    "en": "There is no reason to intervene",
+    "comment": ""
+  },
+  {
+    "line": 1874,
+    "key": "ww_congo.30.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Decides to Aid us",
+    "comment": ""
+  },
+  {
+    "line": 1875,
+    "key": "ww_congo.30.desc",
+    "ver": "",
+    "en": "Our diplomats have returned from their talks with the [FROM.GetAdjective] military staff, and have supposedly reached an agreement where they will send us men and equipment when we decide to declare war against our oppressors. Today is a good day for the people of the Congo!",
+    "comment": ""
+  },
+  {
+    "line": 1876,
+    "key": "ww_congo.30.a",
+    "ver": "",
+    "en": "Perfect",
+    "comment": ""
+  },
+  {
+    "line": 1878,
+    "key": "ww_congo.31.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Decides not to Aid us",
+    "comment": ""
+  },
+  {
+    "line": 1879,
+    "key": "ww_congo.31.desc",
+    "ver": "",
+    "en": "Our diplomats have returned from their talks with the [FROM.GetAdjective] military staff empty handed. It seems as though an agreement could not be reached, and our supposed allies have betrayed us...",
+    "comment": ""
+  },
+  {
+    "line": 1880,
+    "key": "ww_congo.31.a",
+    "ver": "",
+    "en": "A real shame",
+    "comment": ""
+  },
+  {
+    "line": 1882,
+    "key": "ww_congo.32.t",
+    "ver": "",
+    "en": "The Simba Coup d'etat",
+    "comment": ""
+  },
+  {
+    "line": 1883,
+    "key": "ww_congo.32.desc",
+    "ver": "",
+    "en": "The Simba movement has gained great support in the country as of late. Now, they have entered national congress, demanding a change of leadership. There is not much our politicians can do but to accept the situation. The question is however, who should lead our state now?",
+    "comment": ""
+  },
+  {
+    "line": 1884,
+    "key": "ww_congo.32.a",
+    "ver": "",
+    "en": "Cyrille Adoula is a good statesman",
+    "comment": ""
+  },
+  {
+    "line": 1885,
+    "key": "ww_congo.32.b",
+    "ver": "",
+    "en": "Christophe Gbenye should lead",
+    "comment": ""
+  },
+  {
+    "line": 1887,
+    "key": "ww_congo.33.t",
+    "ver": "",
+    "en": "The Question of Leadership",
+    "comment": ""
+  },
+  {
+    "line": 1888,
+    "key": "ww_congo.33.desc",
+    "ver": "",
+    "en": "The leadership of our nation has come into question as of recent, stemming from Cyrille Adoula's ties to Americans and Belgian trade unions. Many believe that the leader of the Simbas, Christophe Gbenye, should take up the mantle as the new chairman of the state. Should we buckle to them?",
+    "comment": ""
+  },
+  {
+    "line": 1889,
+    "key": "ww_congo.33.a",
+    "ver": "",
+    "en": "Cyrille Adoula is a good statesman, he cannot leave",
+    "comment": ""
+  },
+  {
+    "line": 1890,
+    "key": "ww_congo.33.b",
+    "ver": "",
+    "en": "Christophe Gbenye should lead",
+    "comment": ""
+  },
+  {
+    "line": 1892,
+    "key": "ww_congo.34.t",
+    "ver": "",
+    "en": "Kwame Nkrumah's State Visit",
+    "comment": ""
+  },
+  {
+    "line": 1893,
+    "key": "ww_congo.34.desc",
+    "ver": "",
+    "en": "The Ghanaian pan-africanist politician Kwame Nkrumah has today arrived at our capital after a formal invitation by [ROOT.GetLeader]. An avid socialist, many believe that cooperation with him may prove beneficial if we wish to secure Africa's future, with some even claiming that he should take up the mantle of leader of our nation. What would be the best course of action?",
+    "comment": ""
+  },
+  {
+    "line": 1894,
+    "key": "ww_congo.34.a",
+    "ver": "",
+    "en": "We believe great cooperation can be achieved",
+    "comment": ""
+  },
+  {
+    "line": 1895,
+    "key": "ww_congo.34.b",
+    "ver": "",
+    "en": "He is the leader we need!",
+    "comment": ""
+  },
+  {
+    "line": 1897,
+    "key": "ww_congo.35.t",
+    "ver": "",
+    "en": "[COG.GetNameDefCap] Incites Colonial Resistance",
+    "comment": ""
+  },
+  {
+    "line": 1898,
+    "key": "ww_congo.35.desc",
+    "ver": "",
+    "en": "\\nThe [COG.GetAdjective] government has reportedly started shipping out weapons to resistance groups in Africa, and are harboring and training dissidents and militias for their attempted liberation of their states under our occupation. We will need to be wary regarding the region going forward...",
+    "comment": ""
+  },
+  {
+    "line": 1899,
+    "key": "ww_congo.35.a",
+    "ver": "",
+    "en": "We need to put an end to this at once!",
+    "comment": ""
+  },
+  {
+    "line": 1900,
+    "key": "ww_congo.35.b",
+    "ver": "",
+    "en": "The time for Africa has come",
+    "comment": ""
+  },
+  {
+    "line": 1902,
+    "key": "ww_congo.36.t",
+    "ver": "",
+    "en": "[FROM.GetName] Rejects Peace Proposal",
+    "comment": ""
+  },
+  {
+    "line": 1903,
+    "key": "ww_congo.36.desc",
+    "ver": "",
+    "en": "Ambassadors from [FROM.GetNameDef] have rejected our peace proposal. They argue that our attack against them was completely unwarranted and therefore, they will accept nothing but unconditional surrender from us for being a threat to regional peace.",
+    "comment": ""
+  },
+  {
+    "line": 1904,
+    "key": "ww_congo.36.a",
+    "ver": "",
+    "en": "How hypocritical, their imperial violence can only be stopped by force.",
+    "comment": ""
+  },
+  {
+    "line": 1906,
+    "key": "ww_congo.37.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Offers Peace for [?COG.COG_disputed_colony.GetAdjective] Independence",
+    "comment": ""
+  },
+  {
+    "line": 1907,
+    "key": "ww_congo.37.desc",
+    "ver": "",
+    "en": "[FROM.GetAdjective] diplomats have approached us with an offer of peace. The offer depends on us agreeing to relinquish claims on the [?COG.COG_disputed_colony.GetAdjective] territory we have lost to [FROM.GetNameDef] during this conflict. The diplomats also state that votes will be held in the relinquished [?COG.COG_disputed_colony.GetAdjective] territories to elect a new government. How independent said elections will be is not yet clear.",
+    "comment": ""
+  },
+  {
+    "line": 1908,
+    "key": "ww_congo.37.a",
+    "ver": "",
+    "en": "We will not surrender our territory.",
+    "comment": ""
+  },
+  {
+    "line": 1909,
+    "key": "ww_congo.37.b",
+    "ver": "",
+    "en": "We have no choice but to agree.",
+    "comment": ""
+  },
+  {
+    "line": 1911,
+    "key": "ww_congo.38.t",
+    "ver": "",
+    "en": "[FROM.GetName] Agrees to Peace Offer",
+    "comment": ""
+  },
+  {
+    "line": 1912,
+    "key": "ww_congo.38.desc",
+    "ver": "",
+    "en": "Diplomats from [FROM.GetNameDef] have informed us that their government are willing to relinquish claims on [?COG.COG_disputed_colony.GetAdjective] territory that we have liberated. They are now withdrawing their forces to the newly established borders in the region.",
+    "comment": ""
+  },
+  {
+    "line": 1913,
+    "key": "ww_congo.38.a",
+    "ver": "",
+    "en": "A heroic victory against imperialism!",
+    "comment": ""
+  },
+  {
+    "line": 1915,
+    "key": "ww_congo.39.t",
+    "ver": "",
+    "en": "The First Congolese Election",
+    "comment": ""
+  },
+  {
+    "line": 1916,
+    "key": "ww_congo.39.desc",
+    "ver": "",
+    "en": "The first free election has concluded, and Joseph Kasa-Vubu has come out on top. Now, he is working hard to assemble the first Congolese cabinet of ministers. Being vastly popular throughout the entire nation, and excellent at his job, he is sure to be remembered as a great president for many generations to come.",
+    "comment": ""
+  },
+  {
+    "line": 1917,
+    "key": "ww_congo.39.a",
+    "ver": "",
+    "en": "Kasa-Vubu is a good statesman, we need him",
+    "comment": ""
+  },
+  {
+    "line": 1919,
+    "key": "ww_congo.40.t",
+    "ver": "",
+    "en": "Kasa-Vubu's First Cabinet",
+    "comment": ""
+  },
+  {
+    "line": 1920,
+    "key": "ww_congo.40.desc",
+    "ver": "",
+    "en": "Our president [ROOT.GetLeader] is in the process of assembling our first official cabinet, after having secured a victory in the recent elections. Being vastly popular throughout the nation, he is sure to become known as the founding father of our modern state for generations to come!",
+    "comment": ""
+  },
+  {
+    "line": 1921,
+    "key": "ww_congo.40.a",
+    "ver": "",
+    "en": "Kasa-Vubu truly is the man for the job",
+    "comment": ""
+  },
+  {
+    "line": 1923,
+    "key": "ww_congo.41.t",
+    "ver": "",
+    "en": "[FROM.GetLeader] Demands Reunification of the Bakongo People",
+    "comment": ""
+  },
+  {
+    "line": 1924,
+    "key": "ww_congo.41.desc",
+    "ver": "",
+    "en": "\\n [FROM.GetLeader], leader of [FROM.GetNameDef] and the Alliance of the Bakongo, has reached out to us, demanding that we cede any majority Bakongo territories to them. How should we respond?",
+    "comment": ""
+  },
+  {
+    "line": 1925,
+    "key": "ww_congo.41.a",
+    "ver": "",
+    "en": "It is for the greater good",
+    "comment": ""
+  },
+  {
+    "line": 1926,
+    "key": "ww_congo.41.b",
+    "ver": "",
+    "en": "No way!",
+    "comment": ""
+  },
+  {
+    "line": 1928,
+    "key": "ww_congo.42.t",
+    "ver": "",
+    "en": "[FROM.GetLeader] Hands over Bakongo Territories",
+    "comment": ""
+  },
+  {
+    "line": 1929,
+    "key": "ww_congo.42.desc",
+    "ver": "",
+    "en": "\\n [FROM.GetLeader], leader of [FROM.GetNameDef], has agreed to hand over any and all territories with a large amount of Bakongo people, wishing us the best in the future. Today is a great day for the Congolese nation.",
+    "comment": ""
+  },
+  {
+    "line": 1930,
+    "key": "ww_congo.42.a",
+    "ver": "",
+    "en": "Excellent!",
+    "comment": ""
+  },
+  {
+    "line": 1932,
+    "key": "ww_congo.43.t",
+    "ver": "",
+    "en": "[FROM.GetLeader] Doesn't hand over Bakongo Territories",
+    "comment": ""
+  },
+  {
+    "line": 1933,
+    "key": "ww_congo.43.desc",
+    "ver": "",
+    "en": "\\n [FROM.GetLeader], leader of [FROM.GetNameDef], has denied our demands to hand over any and all territories with a large amount of Bakongo people. How should we respond to the oppression of our people by foreign powers?",
+    "comment": ""
+  },
+  {
+    "line": 1934,
+    "key": "ww_congo.43.a",
+    "ver": "",
+    "en": "There is not much we can do",
+    "comment": ""
+  },
+  {
+    "line": 1935,
+    "key": "ww_congo.43.b",
+    "ver": "",
+    "en": "We will show them!",
+    "comment": ""
+  },
+  {
+    "line": 1937,
+    "key": "ww_congo.44.t",
+    "ver": "",
+    "en": "The House of Água Rosada",
+    "comment": ""
+  },
+  {
+    "line": 1938,
+    "key": "ww_congo.44.desc",
+    "ver": "",
+    "en": "The council has decided that the most legitimate ruler of Congo would be Dom Pedro VII, the current claimant to the throne of the recently disestablished Kingdom of Kongo, once located within our western provinces, as well as in what is now Cabinda and Angola. Surely he could bring about stability, and achieve the unification of the Bakongo people?",
+    "comment": ""
+  },
+  {
+    "line": 1939,
+    "key": "ww_congo.44.a",
+    "ver": "",
+    "en": "He is the most legitimate candidate we could possibly get!",
+    "comment": ""
+  },
+  {
+    "line": 1940,
+    "key": "ww_congo.44.b",
+    "ver": "",
+    "en": "No, we need someone else!",
+    "comment": ""
+  },
+  {
+    "line": 1942,
+    "key": "ww_congo.45.t",
+    "ver": "",
+    "en": "The Nyim of Bakuba",
+    "comment": ""
+  },
+  {
+    "line": 1943,
+    "key": "ww_congo.45.desc",
+    "ver": "",
+    "en": "The council has decided that the next most legitimate ruler of Congo would be Mbóp Mábíínc maMbéky, the king of the Kuba Kingdom, a small realm located within our central provinces. Surely he could bring about stability, and achieve what few other could?",
+    "comment": ""
+  },
+  {
+    "line": 1944,
+    "key": "ww_congo.45.a",
+    "ver": "",
+    "en": "He is the one who will bring us to greatness!",
+    "comment": ""
+  },
+  {
+    "line": 1945,
+    "key": "ww_congo.45.b",
+    "ver": "",
+    "en": "No, we need someone else!",
+    "comment": ""
+  },
+  {
+    "line": 1947,
+    "key": "ww_congo.46.t",
+    "ver": "",
+    "en": "The Mâ Loango",
+    "comment": ""
+  },
+  {
+    "line": 1948,
+    "key": "ww_congo.46.desc",
+    "ver": "",
+    "en": "The council has decided that the next most legitimate ruler of Congo would be Moe Poaty III, the Mâ Loango of the Kingdom of Loango, a state existing in and around our western-most provinces, mainly in what is now Middle Congo. Surely he could bring about stability, and achieve unification with the western Congolese provinces?",
+    "comment": ""
+  },
+  {
+    "line": 1949,
+    "key": "ww_congo.46.a",
+    "ver": "",
+    "en": "He can grant us a legitimate claim to Middle Congo!",
+    "comment": ""
+  },
+  {
+    "line": 1950,
+    "key": "ww_congo.46.b",
+    "ver": "",
+    "en": "No, we need someone else!",
+    "comment": ""
+  },
+  {
+    "line": 1952,
+    "key": "ww_congo.47.t",
+    "ver": "",
+    "en": "House Ntwero of Burundi",
+    "comment": ""
+  },
+  {
+    "line": 1953,
+    "key": "ww_congo.47.desc",
+    "ver": "",
+    "en": "The council has decided that another possible ruler of Congo would be Mwambutsa IV, the Mwami of the Kingdom of Burundi, a kingdom in the east. Surely he could bring about stability, and achieve unification with the Burundian state?",
+    "comment": ""
+  },
+  {
+    "line": 1954,
+    "key": "ww_congo.47.a",
+    "ver": "",
+    "en": "He can grant us a legitimate claim to Burundi at least...",
+    "comment": ""
+  },
+  {
+    "line": 1955,
+    "key": "ww_congo.47.b",
+    "ver": "",
+    "en": "No, we need someone else!",
+    "comment": ""
+  },
+  {
+    "line": 1957,
+    "key": "ww_congo.48.t",
+    "ver": "",
+    "en": "Clan Abanyiginya of Rwanda",
+    "comment": ""
+  },
+  {
+    "line": 1958,
+    "key": "ww_congo.48.desc",
+    "ver": "",
+    "en": "The council has decided that another possible ruler of Congo would be Mutara III Rudahigwa, the Umwami of the Kingdom of Rwanda, a kingdom in the east. Surely he could bring about stability, and achieve unification with the Rwandan state?",
+    "comment": ""
+  },
+  {
+    "line": 1959,
+    "key": "ww_congo.48.a",
+    "ver": "",
+    "en": "He can grant us a legitimate claim to Rwanda at least...",
+    "comment": ""
+  },
+  {
+    "line": 1960,
+    "key": "ww_congo.48.b",
+    "ver": "",
+    "en": "No, we need someone else!",
+    "comment": ""
+  },
+  {
+    "line": 1962,
+    "key": "ww_congo.49.t",
+    "ver": "",
+    "en": "The German Collaborator",
+    "comment": ""
+  },
+  {
+    "line": 1963,
+    "key": "ww_congo.49.desc",
+    "ver": "",
+    "en": "The council has decided that, seeing as there a no other options left, the final possible ruler of Congo could be Yuhi V Musinga, the Umwami of the Kingdom of Rwanda, a kingdom in the east, who was ousted from power by the Belgian governors after the Great War due to his collaboration and adoration for the German Colonial Empire. He may be a risky bet, but at least he has great ambitions...",
+    "comment": ""
+  },
+  {
+    "line": 1964,
+    "key": "ww_congo.49.a",
+    "ver": "",
+    "en": "He will have to do...",
+    "comment": ""
+  },
+  {
+    "line": 1965,
+    "key": "ww_congo.49.b",
+    "ver": "",
+    "en": "This didn't turn out as we had planned...",
+    "comment": ""
+  },
+  {
+    "line": 1967,
+    "key": "ww_congo.50.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Seeks to Establish an Alliance",
+    "comment": ""
+  },
+  {
+    "line": 1968,
+    "key": "ww_congo.50.desc",
+    "ver": "",
+    "en": "\\n[FROM.GetNameDefCap] has reached out to us asking to establish a mutual alliance. They have started a militarization effort and express a wish to work together to make us both stronger. Historically our relations have been rocky at best, but no time is better than the present for reconciliation.",
+    "comment": ""
+  },
+  {
+    "line": 1969,
+    "key": "ww_congo.50.a",
+    "ver": "",
+    "en": "We would be glad",
+    "comment": ""
+  },
+  {
+    "line": 1970,
+    "key": "ww_congo.50.b",
+    "ver": "",
+    "en": "We have no need of them.",
+    "comment": ""
+  },
+  {
+    "line": 1972,
+    "key": "ww_congo.51.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Agrees to Establish an Alliance",
+    "comment": ""
+  },
+  {
+    "line": 1973,
+    "key": "ww_congo.51.desc",
+    "ver": "",
+    "en": "\\n[FROM.GetNameDefCap] returned our request for an alliance with them with enthusiasm and has signed all the necessary papers to make it official. No longer will we fight alone against those who threatens us!",
+    "comment": ""
+  },
+  {
+    "line": 1974,
+    "key": "ww_congo.51.a",
+    "ver": "",
+    "en": "We're stronger together!",
+    "comment": ""
+  },
+  {
+    "line": 1976,
+    "key": "ww_congo.52.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Rejects our Offer to Establish an Alliance",
+    "comment": ""
+  },
+  {
+    "line": 1977,
+    "key": "ww_congo.52.desc",
+    "ver": "",
+    "en": "\\nOur offer of establishing an alliance has been coldly rejected by [FROM.GetLeader]. We have tried to argue our usefulness but alas [FROM.GetNameDef] has made up their mind. While this is most annoying, we will not be dejected by this, but instead find other solutions.",
+    "comment": ""
+  },
+  {
+    "line": 1978,
+    "key": "ww_congo.52.a",
+    "ver": "",
+    "en": "We'll show them",
+    "comment": ""
+  },
+  {
+    "line": 1980,
+    "key": "ww_congo.53.t",
+    "ver": "",
+    "en": "[FROM.GetLeader] Demands Reunification of the Burundian People",
+    "comment": ""
+  },
+  {
+    "line": 1981,
+    "key": "ww_congo.53.desc",
+    "ver": "",
+    "en": "\\n [FROM.GetLeader], leader of [FROM.GetNameDef] and the Burundian people, has reached out to us, demanding that we cede any majority Burundian territories to them. How should we respond?",
+    "comment": ""
+  },
+  {
+    "line": 1982,
+    "key": "ww_congo.53.a",
+    "ver": "",
+    "en": "It is for the greater good",
+    "comment": ""
+  },
+  {
+    "line": 1983,
+    "key": "ww_congo.53.b",
+    "ver": "",
+    "en": "No way!",
+    "comment": ""
+  },
+  {
+    "line": 1985,
+    "key": "ww_congo.54.t",
+    "ver": "",
+    "en": "[FROM.GetLeader] Hands over Burundian Territories",
+    "comment": ""
+  },
+  {
+    "line": 1986,
+    "key": "ww_congo.54.desc",
+    "ver": "",
+    "en": "\\n [FROM.GetLeader], leader of [FROM.GetNameDef], has agreed to hand over any and all territories with a large amount of Burundian people, wishing us the best in the future. Today is a great day for the Congolese nation.",
+    "comment": ""
+  },
+  {
+    "line": 1987,
+    "key": "ww_congo.54.a",
+    "ver": "",
+    "en": "Excellent!",
+    "comment": ""
+  },
+  {
+    "line": 1989,
+    "key": "ww_congo.55.t",
+    "ver": "",
+    "en": "[FROM.GetLeader] Doesn't hand over Burundian Territories",
+    "comment": ""
+  },
+  {
+    "line": 1990,
+    "key": "ww_congo.55.desc",
+    "ver": "",
+    "en": "\\n [FROM.GetLeader], leader of [FROM.GetNameDef], has denied our demands to hand over any and all territories with a large amount of Burundian people. How should we respond to the oppression of our people by foreign powers?",
+    "comment": ""
+  },
+  {
+    "line": 1991,
+    "key": "ww_congo.55.a",
+    "ver": "",
+    "en": "There is not much we can do",
+    "comment": ""
+  },
+  {
+    "line": 1992,
+    "key": "ww_congo.55.b",
+    "ver": "",
+    "en": "We will show them!",
+    "comment": ""
+  },
+  {
+    "line": 1994,
+    "key": "ww_congo.56.t",
+    "ver": "",
+    "en": "[FROM.GetLeader] Demands Reunification of the Rwandan People",
+    "comment": ""
+  },
+  {
+    "line": 1995,
+    "key": "ww_congo.56.desc",
+    "ver": "",
+    "en": "\\n [FROM.GetLeader], leader of [FROM.GetNameDef] and the Rwandan people, has reached out to us, demanding that we cede any majority Rwandan territories to them. How should we respond?",
+    "comment": ""
+  },
+  {
+    "line": 1996,
+    "key": "ww_congo.56.a",
+    "ver": "",
+    "en": "It is for the greater good",
+    "comment": ""
+  },
+  {
+    "line": 1997,
+    "key": "ww_congo.56.b",
+    "ver": "",
+    "en": "No way!",
+    "comment": ""
+  },
+  {
+    "line": 1999,
+    "key": "ww_congo.57.t",
+    "ver": "",
+    "en": "[FROM.GetLeader] Hands over Rwandan Territories",
+    "comment": ""
+  },
+  {
+    "line": 2000,
+    "key": "ww_congo.57.desc",
+    "ver": "",
+    "en": "\\n [FROM.GetLeader], leader of [FROM.GetNameDef], has agreed to hand over any and all territories with a large amount of Rwandan people, wishing us the best in the future. Today is a great day for the Congolese nation.",
+    "comment": ""
+  },
+  {
+    "line": 2001,
+    "key": "ww_congo.57.a",
+    "ver": "",
+    "en": "Excellent!",
+    "comment": ""
+  },
+  {
+    "line": 2003,
+    "key": "ww_congo.58.t",
+    "ver": "",
+    "en": "[FROM.GetLeader] Doesn't hand over Rwandan Territories",
+    "comment": ""
+  },
+  {
+    "line": 2004,
+    "key": "ww_congo.58.desc",
+    "ver": "",
+    "en": "\\n [FROM.GetLeader], leader of [FROM.GetNameDef], has denied our demands to hand over any and all territories with a large amount of Rwandan people. How should we respond to the oppression of our people by foreign powers?",
+    "comment": ""
+  },
+  {
+    "line": 2005,
+    "key": "ww_congo.58.a",
+    "ver": "",
+    "en": "There is not much we can do",
+    "comment": ""
+  },
+  {
+    "line": 2006,
+    "key": "ww_congo.58.b",
+    "ver": "",
+    "en": "We will show them!",
+    "comment": ""
+  },
+  {
+    "line": 2008,
+    "key": "ww_congo.59.t",
+    "ver": "",
+    "en": "[FROM.GetLeader] Requests to become a Protectorate",
+    "comment": ""
+  },
+  {
+    "line": 2009,
+    "key": "ww_congo.59.desc",
+    "ver": "",
+    "en": "\\n [FROM.GetLeader], leader of [FROM.GetNameDef], has recently approached one of our diplomats, begging, pleading for us to reestablish our overlordship over his kingdom, even going so far as naming his state Mittelafrika. He was once under our protection when he ruled as king of Rwanda, but has since been thrown out of power by Belgian authorities. Should we heed the mad king's request?",
+    "comment": ""
+  },
+  {
+    "line": 2010,
+    "key": "ww_congo.59.a",
+    "ver": "",
+    "en": "It is an opportunity we cannot miss",
+    "comment": ""
+  },
+  {
+    "line": 2011,
+    "key": "ww_congo.59.b",
+    "ver": "",
+    "en": "Nein!",
+    "comment": ""
+  },
+  {
+    "line": 2013,
+    "key": "ww_congo.60.t",
+    "ver": "",
+    "en": "[FROM.GetLeader] Accepts our Request to Become their Protectorate",
+    "comment": ""
+  },
+  {
+    "line": 2014,
+    "key": "ww_congo.60.desc",
+    "ver": "",
+    "en": "\\n [FROM.GetLeader], leader of [FROM.GetNameDef], has decided to accept our requests, and allow us to once again become a protectorate of their nation. Truly, balance has been restored in Africa!",
+    "comment": ""
+  },
+  {
+    "line": 2015,
+    "key": "ww_congo.60.a",
+    "ver": "",
+    "en": "Today is a day to remember!",
+    "comment": ""
+  },
+  {
+    "line": 2017,
+    "key": "ww_congo.61.t",
+    "ver": "",
+    "en": "[FROM.GetLeader] Denies our Request to Become their Protectorate",
+    "comment": ""
+  },
+  {
+    "line": 2018,
+    "key": "ww_congo.61.desc",
+    "ver": "",
+    "en": "\\n [FROM.GetLeader], leader of [FROM.GetNameDef], has decided to deny our request, as he sees little value in our region,claiming that there is not much could bring for them that they do not already have.",
+    "comment": ""
+  },
+  {
+    "line": 2019,
+    "key": "ww_congo.61.a",
+    "ver": "",
+    "en": "Today is a day to remember...",
+    "comment": ""
+  },
+  {
+    "line": 2021,
+    "key": "ww_congo.62.t",
+    "ver": "",
+    "en": "Raoul van Overstraeten returns to Belgium",
+    "comment": ""
+  },
+  {
+    "line": 2022,
+    "key": "ww_congo.62.desc",
+    "ver": "",
+    "en": "The Belgian military officer Raoul van Overstraeten, who has served in our nation until recently, has in the light of the loss of their homeland, been recalled to [BEL.GetName]. He served us well here, and we hope he is able to help throw out the invaders.",
+    "comment": ""
+  },
+  {
+    "line": 2023,
+    "key": "ww_congo.62.a",
+    "ver": "",
+    "en": "Good luck!",
+    "comment": ""
+  },
+  {
+    "line": 2025,
+    "key": "ww_congo.63.t",
+    "ver": "",
+    "en": "[FROM.GetLeader] Wants to Sell us Uranium",
+    "comment": ""
+  },
+  {
+    "line": 2026,
+    "key": "ww_congo.63.desc",
+    "ver": "",
+    "en": "\\n [FROM.GetLeader], leader of [FROM.GetNameDef] has approached us with an interesting offer. Apparently, the nation's Uranium deposits are richer than expected, and there are now ideas of smuggling some of the raw material to our nation for a price.",
+    "comment": ""
+  },
+  {
+    "line": 2027,
+    "key": "ww_congo.63.a",
+    "ver": "",
+    "en": "It is a welcome boon",
+    "comment": ""
+  },
+  {
+    "line": 2028,
+    "key": "ww_congo.63.b",
+    "ver": "",
+    "en": "We will not lower ourselves to criminality",
+    "comment": ""
+  },
+  {
+    "line": 2030,
+    "key": "ww_congo.64.t",
+    "ver": "",
+    "en": "[FROM.GetLeader] Accepts the Uranium Deal",
+    "comment": ""
+  },
+  {
+    "line": 2031,
+    "key": "ww_congo.64.desc",
+    "ver": "",
+    "en": "\\n [FROM.GetLeader], leader of [FROM.GetNameDef], has agreed to sign the uranium deal we proposed to them, and has sent us the required payments that we had asked for.",
+    "comment": ""
+  },
+  {
+    "line": 2032,
+    "key": "ww_congo.64.a",
+    "ver": "",
+    "en": "Excellent!",
+    "comment": ""
+  },
+  {
+    "line": 2034,
+    "key": "ww_congo.65.t",
+    "ver": "",
+    "en": "[FROM.GetLeader] Rejects the Uranium Deal",
+    "comment": ""
+  },
+  {
+    "line": 2035,
+    "key": "ww_congo.65.desc",
+    "ver": "",
+    "en": "\\n [FROM.GetLeader], leader of [FROM.GetNameDef], has denied our request to smuggle uranium to their country for a price, claiming that they will not lower themselves to the position of an international criminal.",
+    "comment": ""
+  },
+  {
+    "line": 2036,
+    "key": "ww_congo.65.a",
+    "ver": "",
+    "en": "Too bad...",
+    "comment": ""
+  },
+  {
+    "line": 2038,
+    "key": "ww_congo.66.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Cancels the Uranium Deal",
+    "comment": ""
+  },
+  {
+    "line": 2039,
+    "key": "ww_congo.66.desc",
+    "ver": "",
+    "en": "\\n [FROM.GetLeader], leader of [FROM.GetNameDef], has decided to cancel our ongoing uranium deal, as it has been deemed too costly for the [FROM.GetAdjective] nation.",
+    "comment": ""
+  },
+  {
+    "line": 2040,
+    "key": "ww_congo.66.a",
+    "ver": "",
+    "en": "Well that's too bad...",
+    "comment": ""
+  },
+  {
+    "line": 2042,
+    "key": "ww_congo.67.t",
+    "ver": "",
+    "en": "[FROM.GetLeader] Invites us to a Uranium Development Trust",
+    "comment": ""
+  },
+  {
+    "line": 2043,
+    "key": "ww_congo.67.desc",
+    "ver": "",
+    "en": "\\n [FROM.GetLeader], leader of [FROM.GetNameDef] has approached us with an interesting offer. They wish for us to join the joint Uranium Development Trust, and share nuclear materials and research with each other. It could potentially leak information more easily, but it might very well be worth it for the uranium that we so desperately need.",
+    "comment": ""
+  },
+  {
+    "line": 2044,
+    "key": "ww_congo.67.a",
+    "ver": "",
+    "en": "Gladly!",
+    "comment": ""
+  },
+  {
+    "line": 2045,
+    "key": "ww_congo.67.b",
+    "ver": "",
+    "en": "It is too dangerous",
+    "comment": ""
+  },
+  {
+    "line": 2047,
+    "key": "ww_congo.68.t",
+    "ver": "",
+    "en": "[FROM.GetLeader] Joins the Uranium Development Trust",
+    "comment": ""
+  },
+  {
+    "line": 2048,
+    "key": "ww_congo.68.desc",
+    "ver": "",
+    "en": "\\n [FROM.GetLeader], leader of [FROM.GetNameDef], has agreed to join the Uranium Development Trust we proposed to them, and their nuclear program can now once again finally get on track, with their newly acquired uranium.",
+    "comment": ""
+  },
+  {
+    "line": 2049,
+    "key": "ww_congo.68.a",
+    "ver": "",
+    "en": "Excellent!",
+    "comment": ""
+  },
+  {
+    "line": 2051,
+    "key": "ww_congo.69.t",
+    "ver": "",
+    "en": "[FROM.GetLeader] Shoots Down our Idea",
+    "comment": ""
+  },
+  {
+    "line": 2052,
+    "key": "ww_congo.69.desc",
+    "ver": "",
+    "en": "\\n [FROM.GetLeader], leader of [FROM.GetNameDef], has denied our invitation to the Uranium Development Trust, claiming that they need to keep any and all nuclear programs under wraps as revealing any information that could leak out to the enemy is far too dangerous to be able to accept such as proposal in the first place.",
+    "comment": ""
+  },
+  {
+    "line": 2053,
+    "key": "ww_congo.69.a",
+    "ver": "",
+    "en": "Too bad...",
+    "comment": ""
+  },
+  {
+    "line": 2055,
+    "key": "ww_congo.70.t",
+    "ver": "",
+    "en": "Jan Zumbach joins the [ENG.GetAdjective]",
+    "comment": ""
+  },
+  {
+    "line": 2056,
+    "key": "ww_congo.70.desc",
+    "ver": "",
+    "en": "Our pilot Jan Zumbach has left us and decided to take up the fight for the RAF. His decision to leave his comrades did not come easy, but we must applaud him for wishing to fight on for an independent Poland, free from oppression.",
+    "comment": ""
+  },
+  {
+    "line": 2057,
+    "key": "ww_congo.70.a",
+    "ver": "",
+    "en": "Have a good flight",
+    "comment": ""
+  },
+  {
+    "line": 2059,
+    "key": "ww_congo.71.t",
+    "ver": "",
+    "en": "Jan Zumbach Wants to Leave for the Congo",
+    "comment": ""
+  },
+  {
+    "line": 2060,
+    "key": "ww_congo.71.desc",
+    "ver": "",
+    "en": "Our ace pilot Jan Zumbach who came here from Poland has stated that he wishes to leave us and that he wants to go to the Congo to aid in the establishment of an air force there. Should we allow him to do so?.",
+    "comment": ""
+  },
+  {
+    "line": 2061,
+    "key": "ww_congo.71.a",
+    "ver": "",
+    "en": "Let him leave",
+    "comment": ""
+  },
+  {
+    "line": 2062,
+    "key": "ww_congo.71.b",
+    "ver": "",
+    "en": "Block his exit!",
+    "comment": ""
+  },
+  {
+    "line": 2064,
+    "key": "ww_congo.72.t",
+    "ver": "",
+    "en": "Jan Zumbach Arrives",
+    "comment": ""
+  },
+  {
+    "line": 2065,
+    "key": "ww_congo.72.desc",
+    "ver": "",
+    "en": "Polish fighter pilot Jan Zumbach has just arrived in our country, stating he wishes to join our air force and fight for us. Surely there is some role we can assign him to?",
+    "comment": ""
+  },
+  {
+    "line": 2066,
+    "key": "ww_congo.72.a",
+    "ver": "",
+    "en": "We shall put him to work",
+    "comment": ""
+  },
+  {
+    "line": 2068,
+    "key": "ww_congo.73.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Offers Peace for our Colony's Independence",
+    "comment": ""
+  },
+  {
+    "line": 2069,
+    "key": "ww_congo.73.desc",
+    "ver": "",
+    "en": "[FROM.GetAdjective] diplomats have approached us with an offer of peace. The offer depends on us agreeing to relinquish claims on certain African holdings and withdrawing our forces from the region. Do we accept this?",
+    "comment": ""
+  },
+  {
+    "line": 2070,
+    "key": "ww_congo.73.a",
+    "ver": "",
+    "en": "We will not surrender our territory.",
+    "comment": ""
+  },
+  {
+    "line": 2071,
+    "key": "ww_congo.73.b",
+    "ver": "",
+    "en": "We have no choice but to agree.",
+    "comment": ""
+  },
+  {
+    "line": 2076,
+    "key": "congo_independence_struggle.1.t",
+    "ver": "",
+    "en": "The Whispers of Independence",
+    "comment": ""
+  },
+  {
+    "line": 2077,
+    "key": "congo_independence_struggle.1.d",
+    "ver": "",
+    "en": "Ever since our continent was divided by up among the Europeans, we have yearned for freedom, and the ability to carve our own future. Our own past as [BEL.GetNameDefCap]'s colony has been colored by exploitation and dehumanization, but we were always kept under foot by our own disunity and their superior firepower. \\n\\nSeditious whispers have been heard in the streets and jungles once more, as our people put voice to their dreams to have a Congo free of colonial interference. A Congo free to legislate and enforce their own laws, a Congo free to profit from their own hard work, a Congo free to shape their own future.",
+    "comment": ""
+  },
+  {
+    "line": 2078,
+    "key": "congo_independence_struggle.1.a",
+    "ver": "",
+    "en": "We should try to gain our freedom through diplomacy",
+    "comment": ""
+  },
+  {
+    "line": 2079,
+    "key": "congo_independence_struggle.1.b",
+    "ver": "",
+    "en": "We must have independence at all costs",
+    "comment": ""
+  },
+  {
+    "line": 2081,
+    "key": "congo_independence_struggle.2.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] has Approached us Regarding their Independence",
+    "comment": ""
+  },
+  {
+    "line": 2082,
+    "key": "congo_independence_struggle.2.d",
+    "ver": "",
+    "en": "We have just been approached by a group claiming to represent the independence movement of our colonial subject, [COG.GetNameDef]. Although the colonial administration there has been aware of rising independence sentiment for some time, the audacity of actually asking for it has taken them somewhat by surprise. They caution us that there is widespread local support towards achieving this goal of a free and independent nation, and that should we choose to react too harshly that this may lead towards violence and possibly even war. \\n\\nWe must also consider our global commitments and prestige. As such, the most diplomatic offer would be to allow them to join us as equal partners in a [BEL.GetAdjective] Commonwealth. \\n\\nAlternatively, a significant portion of our wealth is derived from that territory, and our finances would be exceptionally hard hit by their loss. We could ask them to pay us for their freedom- at quite a high price. \\n\\nFinally, we can simply say no, and mobilize our forces as a warning against any potential uprising. ",
+    "comment": ""
+  },
+  {
+    "line": 2083,
+    "key": "congo_independence_struggle.2.a",
+    "ver": "",
+    "en": "As long as they will continue to fight by our side",
+    "comment": ""
+  },
+  {
+    "line": 2084,
+    "key": "congo_independence_struggle.2.b",
+    "ver": "",
+    "en": "Very well, but only if they will pay us great compensation",
+    "comment": ""
+  },
+  {
+    "line": 2085,
+    "key": "congo_independence_struggle.2.c",
+    "ver": "",
+    "en": "We will never let them go willingly!",
+    "comment": ""
+  },
+  {
+    "line": 2087,
+    "key": "congo_independence_struggle.3.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] will Grant us our Freedom if we Join their Faction",
+    "comment": ""
+  },
+  {
+    "line": 2088,
+    "key": "congo_independence_struggle.3.d",
+    "ver": "",
+    "en": "We have received word from [BEL.GetName], and they have acknowledged that the day of colonial empires is fast coming to a close. They have therefore extended an offer to us to join the [Bel.GetAdjective] Commonwealth as free and independent nation, and therefore as an equal partner. We would still be beholden to the same terms offered to any other military ally, and therefore would be expected to join any wars together. \\n\\nThis is probably the most diplomatic outcome we could hope for, and this would allow us to entirely avoid bloodshed with our European friends while upholding African pride and independence.",
+    "comment": ""
+  },
+  {
+    "line": 2089,
+    "key": "congo_independence_struggle.3.a",
+    "ver": "",
+    "en": "This sounds very reasonable. We accept!",
+    "comment": ""
+  },
+  {
+    "line": 2090,
+    "key": "congo_independence_struggle.3.b",
+    "ver": "",
+    "en": "We can not agree to those conditions...",
+    "comment": ""
+  },
+  {
+    "line": 2092,
+    "key": "congo_independence_struggle.4.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] will Let us be Free if we pay Compensation",
+    "comment": ""
+  },
+  {
+    "line": 2093,
+    "key": "congo_independence_struggle.4.d",
+    "ver": "",
+    "en": "We have received word from [BEL.GetName], and they have put a literal price on our independence. They remind us of the significant outlay of capital that they invested into our nation, ranging from the laying of considerable lengths of track, development of mining capabilities and general expansion of infrastructure. \\n\\nAt the time this was claimed to be a part of their responsibility towards us as the colonial overlord, and was simply a part of the process of civilizing the nation. Now however, they hold this over our heads as collateral designed to retain our ongoing loyalty through economic dependence. \\n\\nThe asking price is not unattainable, but it is extremely high and will beggar our nation for the short term, and leave us beholden to them through debt for a much longer period after. The question now, this is worth the price of independence, or should it be paid in blood?",
+    "comment": ""
+  },
+  {
+    "line": 2094,
+    "key": "congo_independence_struggle.4.a",
+    "ver": "",
+    "en": "We will raise the capital, one way or another",
+    "comment": ""
+  },
+  {
+    "line": 2095,
+    "key": "congo_independence_struggle.4.b",
+    "ver": "",
+    "en": "We can not agree to those conditions...",
+    "comment": ""
+  },
+  {
+    "line": 2097,
+    "key": "congo_independence_struggle.5.t",
+    "ver": "",
+    "en": "Letting [FROM.GetNameDef] go",
+    "comment": ""
+  },
+  {
+    "line": 2098,
+    "key": "congo_independence_struggle.5.d",
+    "ver": "",
+    "en": "We have just received word from the new ambassador from [COG.GetName], announcing that they have accepted the offer for independence from [BEL.GetAdjective] colonial rule in exchange for joining the [BEL.GetAdjective] Commonwealth as a full and equal member. Now the work begins extracting the administration from the Colonial Office and instead ascribing this responsibility to their new government instead.",
+    "comment": ""
+  },
+  {
+    "line": 2099,
+    "key": "congo_independence_struggle.5.a",
+    "ver": "",
+    "en": "Our mission has come to an end!",
+    "comment": ""
+  }
+]

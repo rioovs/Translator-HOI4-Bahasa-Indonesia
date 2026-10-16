@@ -1,0 +1,2450 @@
+[
+  {
+    "key": "INTELLIGENCEAGENCYVIEW_TITLE",
+    "ver": "",
+    "val": "Badan Intelijen",
+    "comm": ""
+  },
+  {
+    "key": "SPY_MASTER_STATUS_NONE",
+    "ver": "",
+    "val": "Saat ini tidak ada §HKepala Intelijen§!",
+    "comm": ""
+  },
+  {
+    "key": "SPY_MASTER_STATUS_OTHER",
+    "ver": "",
+    "val": "$COUNTRY|H$ saat ini adalah Kepala Intelijen dari $FACTION|H$.",
+    "comm": ""
+  },
+  {
+    "key": "SPY_MASTER_STATUS_YOU",
+    "ver": "",
+    "val": "Anda adalah Kepala Intelijen",
+    "comm": ""
+  },
+  {
+    "key": "BECOME_SPY_MASTER_BUTTON",
+    "ver": "",
+    "val": "Menjadi Kepala Intelijen",
+    "comm": ""
+  },
+  {
+    "key": "BECOME_SPY_MASTER_ALREADY_MASTER",
+    "ver": "",
+    "val": "§RAnda sudah menjadi $HEADOF$.§!",
+    "comm": ""
+  },
+  {
+    "key": "BECOME_SPY_MASTER_FACTION_NEEDED",
+    "ver": "",
+    "val": "§RAnda harus bergabung dalam faksi untuk menjadi $HEADOF$.§!",
+    "comm": ""
+  },
+  {
+    "key": "BECOME_SPY_MASTER_UPGRADES_NEEDED",
+    "ver": "",
+    "val": "§RBadan intelijen Anda harus memiliki $NUMBER$ Peningkatan Cabang berbeda untuk menjadi $HEADOF$.§!",
+    "comm": ""
+  },
+  {
+    "key": "BECOME_SPY_MASTER_NO_SUBJECT",
+    "ver": "",
+    "val": "§RNegara bawahan tidak dapat menjadi Kepala Intelijen.§!",
+    "comm": ""
+  },
+  {
+    "key": "BECOME_SPY_MASTER_COOLDOWN",
+    "ver": "",
+    "val": "§RNegara lain telah mengambil alih posisi ini di faksi kita kurang dari $COOLDOWN|H$ hari yang lalu. Kita harus menunggu hingga $DATE|H$ sebelum dapat mengambil alih $HEADOF$.§!",
+    "comm": ""
+  },
+  {
+    "key": "BECOME_SPY_MASTER_COST",
+    "ver": "",
+    "val": "Dibutuhkan £pol_power $VALUE$ untuk menjadi $HEADOF|H$.",
+    "comm": ""
+  },
+  {
+    "key": "BECOME_SPY_MASTER_COST_FI",
+    "ver": "",
+    "val": "Dibutuhkan £faction_initiative_texticon£ $VALUE$ untuk menjadi $HEADOF|H$.",
+    "comm": ""
+  },
+  {
+    "key": "BECOME_SPY_MASTER_DESC",
+    "ver": "",
+    "val": "Sebagai §HKepala Intelijen§!, Anda dapat mengendalikan lebih banyak Agen di mana jumlahnya bergantung pada ukuran Faksi Anda.\\nHanya boleh ada satu §HKepala Intelijen§! per faksi, dan jika faksi Anda telah memilikinya, mereka harus menyetujui penyerahan wewenang kepada Anda.",
+    "comm": ""
+  },
+  {
+    "key": "AGENCY_BRANCHES",
+    "ver": "",
+    "val": "Cabang Badan Intelijen",
+    "comm": ""
+  },
+  {
+    "key": "AGENCY_BRANCHE_UPGRADES",
+    "ver": "",
+    "val": "Peningkatan Cabang Badan Intelijen",
+    "comm": ""
+  },
+  {
+    "key": "AGENCY_UPGRADES_DURATION",
+    "ver": "",
+    "val": "Peningkatan Cabang membutuhkan waktu $DAYS|H$ hari.",
+    "comm": ""
+  },
+  {
+    "key": "AGENCY_UPGRADE_CURRENT_EFFECT",
+    "ver": "",
+    "val": "§HEfek saat ini:§!\\n",
+    "comm": ""
+  },
+  {
+    "key": "AGENCY_UPGRADE_NEXT_LEVEL",
+    "ver": "",
+    "val": "§HTingkat berikutnya:§!\\n",
+    "comm": ""
+  },
+  {
+    "key": "AGENCY_UPGRADE_RESEARCHED",
+    "ver": "",
+    "val": "§GPeningkatan selesai diteliti§!",
+    "comm": ""
+  },
+  {
+    "key": "AGENCY_UPGRADE_IN_PROGRESS",
+    "ver": "",
+    "val": "§HPeningkatan sedang berlangsung§!",
+    "comm": ""
+  },
+  {
+    "key": "AGENCY_UPGRADE_AVAILABLE",
+    "ver": "",
+    "val": "§H§GKlik untuk§! memulai peningkatan ini§!",
+    "comm": ""
+  },
+  {
+    "key": "AGENCY_UPGRADE_ALREADY_PROGRESS",
+    "ver": "",
+    "val": "§RPeningkatan lain sedang berlangsung§!",
+    "comm": ""
+  },
+  {
+    "key": "AGENCY_CREATED_TITLE",
+    "ver": "",
+    "val": "Badan Intelijen Didirikan!",
+    "comm": ""
+  },
+  {
+    "key": "AGENCY_UPGRADED_TITLE",
+    "ver": "",
+    "val": "Badan Intelijen Ditingkatkan!",
+    "comm": ""
+  },
+  {
+    "key": "AGENCY_NAME",
+    "ver": "",
+    "val": "Badan Intelijen",
+    "comm": ""
+  },
+  {
+    "key": "branch_intelligence",
+    "ver": "",
+    "val": "Intelijen",
+    "comm": ""
+  },
+  {
+    "key": "branch_defense",
+    "ver": "",
+    "val": "Pertahanan",
+    "comm": ""
+  },
+  {
+    "key": "branch_operation",
+    "ver": "",
+    "val": "Operasi",
+    "comm": ""
+  },
+  {
+    "key": "branch_operative",
+    "ver": "",
+    "val": "Pelatihan Agen",
+    "comm": ""
+  },
+  {
+    "key": "branch_crypto",
+    "ver": "",
+    "val": "Departemen Kriptologi",
+    "comm": ""
+  },
+  {
+    "key": "upgrade_economy_civilian",
+    "ver": "",
+    "val": "Ekonomi/Sipil",
+    "comm": ""
+  },
+  {
+    "key": "upgrade_economy_civilian_desc",
+    "ver": "",
+    "val": "§LAgen kita akan dilatih untuk menyamar sebagai warga sipil di wilayah musuh dan beroperasi di sektor industri serta sipil mereka; mengumpulkan data intelijen mengenai industri dan perekonomian musuh.§!",
+    "comm": ""
+  },
+  {
+    "key": "upgrade_army_department",
+    "ver": "",
+    "val": "Departemen Angkatan Darat",
+    "comm": ""
+  },
+  {
+    "key": "upgrade_army_department_desc",
+    "ver": "",
+    "val": "§LIntelijen militer musuh adalah hal yang paling krusial, sehingga pembentukan departemen intelijen militer mutlak diperlukan. Agen kita akan dilatih untuk menyusup ke angkatan darat musuh, bertindak sebagai prajurit maupun jenderal, dan melaporkan rahasia-rahasia di balik garis pertahanan musuh.§!",
+    "comm": ""
+  },
+  {
+    "key": "upgrade_naval_department",
+    "ver": "",
+    "val": "Departemen Angkatan Laut",
+    "comm": ""
+  },
+  {
+    "key": "upgrade_naval_department_desc",
+    "ver": "",
+    "val": "§LPertempuran di lautan adalah kunci mengamankan kemenangan, dan dengan kemajuan teknologi armada laut, pembentukan Departemen Intelijen Angkatan Laut menjadi sangat vital.§!",
+    "comm": ""
+  },
+  {
+    "key": "upgrade_airforce_department",
+    "ver": "",
+    "val": "Departemen Angkatan Udara",
+    "comm": ""
+  },
+  {
+    "key": "upgrade_airforce_department_desc",
+    "ver": "",
+    "val": "§LDepartemen Intelijen Udara akan menjadi cabang berharga bagi badan kita; bertanggung jawab menyusup ke angkatan udara musuh dan memantau pergerakan pesawat tempur lawan.§!",
+    "comm": ""
+  },
+  {
+    "key": "upgrade_passive_defense",
+    "ver": "",
+    "val": "Pertahanan Pasif",
+    "comm": ""
+  },
+  {
+    "key": "upgrade_passive_defense_desc",
+    "ver": "",
+    "val": "§LPasukan Penjaga Rumah (Home Guard) berpotensi menjadi instrumen vital bagi intelijen kita. Dengan melatih garnisun dan pasukan penjaga dalam metode spionase dan kontra-intelijen, kita memastikan keberadaan proteksi konstan di dalam negeri meski para ahli sedang bertugas di luar.§!",
+    "comm": ""
+  },
+  {
+    "key": "upgrade_anti_partisan",
+    "ver": "",
+    "val": "Anti-Partisan",
+    "comm": ""
+  },
+  {
+    "key": "upgrade_anti_partisan_desc",
+    "ver": "",
+    "val": "§LPropaganda ampuh menjaga loyalitas warga sendiri, namun menciptakan kepatuhan di wilayah taklukan jauh lebih rumit. Dengan melatih agen untuk menyusup ke kelompok perlawanan musuh, kita dapat melakukan penangkapan efektif dan melumpuhkan gerakan perlawanan mereka hingga partisan asing kehilangan asa untuk bangkit.§!",
+    "comm": ""
+  },
+  {
+    "key": "upgrade_blueprint_stealing",
+    "ver": "",
+    "val": "Pencurian Cetak Biru",
+    "comm": ""
+  },
+  {
+    "key": "upgrade_blueprint_stealing_desc",
+    "ver": "",
+    "val": "§LMusuh kita tengah mengembangkan proyek persenjataan dan kendaraan eksperimental rahasia. Dengan menyusup ke departemen persenjataan rahasia mereka, kita tidak hanya tahu apa yang mereka rancang, tetapi juga berkesempatan mengadopsi rancangan itu untuk teknologi persenjataan kita sendiri.§!",
+    "comm": ""
+  },
+  {
+    "key": "upgrade_portable_radios",
+    "ver": "",
+    "val": "Radio Portabel",
+    "comm": ""
+  },
+  {
+    "key": "upgrade_portable_radios_desc",
+    "ver": "",
+    "val": "§LPerangkat komunikasi radio konvensional terlalu besar untuk operasi rahasia. Dengan menciptakan pemancar radio ringkas yang disamarkan dalam barang harian seperti koper, agen kita dapat bertukar pesan kapan saja tanpa menimbulkan kecurigaan.§!",
+    "comm": ""
+  },
+  {
+    "key": "upgrade_invisible_ink",
+    "ver": "",
+    "val": "Tinta Tak Terlihat",
+    "comm": ""
+  },
+  {
+    "key": "upgrade_invisible_ink_desc",
+    "ver": "",
+    "val": "§LSurat yang ditulis dengan tinta tak terlihat tampak bagai kertas kosong bagi mata telanjang, namun paparan sinar UV atau zat kimia seperti amonia akan menyingkap pesannya. Dengan standardisasi tinta rahasia ini, komunikasi kita terlindungi meski surat jatuh ke tangan lawan.§!",
+    "comm": ""
+  },
+  {
+    "key": "upgrade_plastic_explosives",
+    "ver": "",
+    "val": "Bahan Peledak Plastik",
+    "comm": ""
+  },
+  {
+    "key": "upgrade_plastic_explosives_desc",
+    "ver": "",
+    "val": "§LTekstur fleksibel bahan peledak plastik membuatnya sempurna untuk sabotase produksi industri musuh. Bahan peledak ini mudah disembunyikan di sudut-sudut pabrik musuh yang rapuh, dan sifatnya yang mudah dibentuk menjadikannya senjata ideal dalam misi pembunuhan politik tingkat tinggi...§!",
+    "comm": ""
+  },
+  {
+    "key": "upgrade_suicide_pills",
+    "ver": "",
+    "val": "Pil Sianida Bunuh Diri",
+    "comm": ""
+  },
+  {
+    "key": "upgrade_suicide_pills_desc",
+    "ver": "",
+    "val": "§LMeski tak diharapkan, penangkapan agen oleh musuh terkadang tak terhindarkan. Kita harus menyediakan jalan keluar terhormat agar mereka terhindar dari kengerian ruang interogasi; pil sianida yang disamarkan di gigi palsu akan memberi mereka jalan keluar terakhir.§!",
+    "comm": ""
+  },
+  {
+    "key": "upgrade_training_centers",
+    "ver": "",
+    "val": "Pusat Pelatihan Regional",
+    "comm": ""
+  },
+  {
+    "key": "upgrade_training_centers_desc",
+    "ver": "",
+    "val": "§LAgen kita mampu beradaptasi di lingkungan mana pun, namun norma budaya dan bahasa asing lebih alami dikuasai oleh mereka yang lahir dan dibesarkan di sana. Jika ingin membangun jaringan spionase global, kita harus memperluas pusat perekrutan dan pelatihan di seluruh dunia serta merangkul agen dari berbagai latar belakang budaya.§!",
+    "comm": ""
+  },
+  {
+    "key": "upgrade_commando_training",
+    "ver": "",
+    "val": "Pelatihan Komando",
+    "comm": ""
+  },
+  {
+    "key": "upgrade_commando_training_desc",
+    "ver": "",
+    "val": "§LDi samping teknik senyap, terkadang tim penyerbu bersenjata lengkap sangat dibutuhkan. Melalui doktrin perang komando, agen kita akan jauh lebih efektif dalam operasi sabotase, lebih sulit dideteksi oleh kontra-intelijen lawan, dan piawai menyita perangkat kriptografi musuh.§!",
+    "comm": ""
+  },
+  {
+    "key": "upgrade_interrogation_techniques",
+    "ver": "",
+    "val": "Teknik Interogasi",
+    "comm": ""
+  },
+  {
+    "key": "upgrade_interrogation_techniques_desc",
+    "ver": "",
+    "val": "§LMeruntuhkan mentalitas agen musuh kerap kali jauh lebih efektif daripada melukai fisik mereka. Kekerasan fisik sering kali hanya membuahkan informasi palsu; interogator ulung sanggup mematahkan tekad musuh tanpa kekerasan. Namun bila terpaksa, kita punya cara ampuh untuk memaksa mereka bicara...§!",
+    "comm": ""
+  },
+  {
+    "key": "upgrade_diplo_training",
+    "ver": "",
+    "val": "Pelatihan Diplomatik",
+    "comm": ""
+  },
+  {
+    "key": "upgrade_diplo_training_desc",
+    "ver": "",
+    "val": "§LMelatih agen kita untuk melobi pemodal dan diplomat asing dapat meyakinkan mereka akan kebaikan tujuan kita serta menjauhkan kepentingan mereka dari pihak musuh.§!",
+    "comm": ""
+  },
+  {
+    "key": "upgrade_psycho_warfare",
+    "ver": "",
+    "val": "Perang Psikologis",
+    "comm": ""
+  },
+  {
+    "key": "upgrade_psycho_warfare_desc",
+    "ver": "",
+    "val": "§LMenyebarkan ketakutan akan kebrutalan rezim lawan terbukti sangat ampuh. Dengan menggandeng gerakan oposisi di negara musuh, agen kita akan jauh lebih efektif dalam mendestabilisasi mereka dan memperluas pengaruh ideologi kita di panggung dunia...§!",
+    "comm": ""
+  },
+  {
+    "key": "upgrade_form_department",
+    "ver": "",
+    "val": "Bentuk Departemen Sandi",
+    "comm": ""
+  },
+  {
+    "key": "upgrade_form_department_desc",
+    "ver": "",
+    "val": "§LKriptologi adalah seni menyusun kode dan sandi untuk kerahasiaan komunikasi. Tanpa kunci sandi, pesan terenkripsi nyaris mustahil dibaca. Mengenkripsi komunikasi kita sama krusialnya dengan mendekripsi pesan intelijen musuh.§!",
+    "comm": ""
+  },
+  {
+    "key": "upgrade_decryption_boost",
+    "ver": "",
+    "val": "Grup Penyadapan Radio",
+    "comm": ""
+  },
+  {
+    "key": "upgrade_decryption_boost_desc",
+    "ver": "",
+    "val": "§LGelombang radio memungkinkan komunikasi jarak jauh, namun sering dienkripsi dengan frekuensi acak. Untuk menyadap transmisi lawan, kita perlu membentuk unit penyadapan terdedikasi guna memecahkan enkripsi radio musuh.§!",
+    "comm": ""
+  },
+  {
+    "key": "upgrade_decryption_boost_2",
+    "ver": "",
+    "val": "Dekripsi Berbantuan Mesin",
+    "comm": ""
+  },
+  {
+    "key": "upgrade_decryption_boost_2_desc",
+    "ver": "",
+    "val": "§LMesin pemecah sandi (kriptanalisis) sangat krusial untuk membongkar pesan terenkripsi kompleks yang kuncinya belum kita ketahui, menjadikannya aset tak ternilai bagi tim pemecah kode kita.§!",
+    "comm": ""
+  },
+  {
+    "key": "upgrade_crypto_strength",
+    "ver": "",
+    "val": "Sekolah Sandi Pemerintah",
+    "comm": ""
+  },
+  {
+    "key": "upgrade_crypto_strength_desc",
+    "ver": "",
+    "val": "§LKode dan sandi rahasia terbukti paling efektif dalam mendirikan dan melindungi jaringan spionase kita di luar negeri. Markas Komunikasi Pemerintah akan berfokus menciptakan sistem enkripsi baru yang rumit dan mustahil dipecahkan oleh musuh.§!",
+    "comm": ""
+  },
+  {
+    "key": "upgrade_crypto_strength_2",
+    "ver": "",
+    "val": "Enkripsi Berbantuan Mesin",
+    "comm": ""
+  },
+  {
+    "key": "upgrade_crypto_strength_2_desc",
+    "ver": "",
+    "val": "§LMetode pembuatan sandi standar tak lagi memadai melindungi komunikasi kita dari pantauan musuh. Para pemikir terbaik kita merancang mesin yang dapat mengacak abjad secara mekanis untuk memproduksi sandi baru tanpa henti, menjadikan sistem enkripsi kita bagaikan teka-teki misterius (enigma) bagi musuh.§!",
+    "comm": ""
+  },
+  {
+    "key": "TRAINING_FACILITIES_ENABLED",
+    "ver": "",
+    "val": "Membuka keputusan untuk mendirikan Fasilitas Pelatihan",
+    "comm": ""
+  },
+  {
+    "key": "CRYPTO_DEPARTMENT_ENABLED",
+    "ver": "",
+    "val": "Membuka Departemen Kriptologi",
+    "comm": ""
+  },
+  {
+    "key": "CREATE_AGENCY_BUTTON",
+    "ver": "",
+    "val": "Bentuk Badan Intelijen",
+    "comm": ""
+  },
+  {
+    "key": "CANCEL_AGENCY_CREATION_TOOLTIP",
+    "ver": "",
+    "val": "Batalkan pembentukan Badan Intelijen",
+    "comm": ""
+  },
+  {
+    "key": "CANCEL_AGENCY_CREATION_MESSAGE",
+    "ver": "",
+    "val": "Apakah Anda yakin ingin §Rmembatalkan§! pembentukan Badan Intelijen?",
+    "comm": ""
+  },
+  {
+    "key": "CANCEL_AGENCY_UPGRADE_TOOLTIP",
+    "ver": "",
+    "val": "Batalkan Peningkatan Badan Intelijen",
+    "comm": ""
+  },
+  {
+    "key": "CANCEL_AGENCY_UPGRADE_MESSAGE",
+    "ver": "",
+    "val": "Apakah Anda yakin ingin §Rmembatalkan§! Peningkatan Badan Intelijen ini?",
+    "comm": ""
+  },
+  {
+    "key": "CREATE_AGENCY_BUTTON_PROGRESS",
+    "ver": "",
+    "val": "Badan sedang dibentuk...",
+    "comm": ""
+  },
+  {
+    "key": "CREATE_AGENCY_BUTTON_TOOLTIP",
+    "ver": "",
+    "val": "§GKlik§! untuk mulai mendirikan Badan Intelijen",
+    "comm": ""
+  },
+  {
+    "key": "CREATE_AGENCY_BUTTON_TOOLTIP_NO_FACTORIES",
+    "ver": "",
+    "val": "§RAnda tidak memiliki cukup §HPabrik Sipil§! untuk mendirikan Badan Intelijen§! (Anda dapat menggunakan $CURRENT|H$ Pabrik dan membutuhkan $NEEDED|H$).",
+    "comm": ""
+  },
+  {
+    "key": "CREATE_AGENCY_MODIFIER_NAME",
+    "ver": "",
+    "val": "Pembentukan Badan Intelijen",
+    "comm": ""
+  },
+  {
+    "key": "CREATE_AGENCY_BLOCKED",
+    "ver": "",
+    "val": "§RTerblokir§!",
+    "comm": ""
+  },
+  {
+    "key": "CREATE_AGENCY_SLOW",
+    "ver": "",
+    "val": "§RAnda kekurangan Pabrik Sipil.\\nIni memperlambat proses sebesar $MALUS|%0$§!",
+    "comm": ""
+  },
+  {
+    "key": "AGENCY_UPGRADE_NO_FACTORIES",
+    "ver": "",
+    "val": "§RAnda tidak memiliki cukup §HPabrik Sipil§! untuk meningkatkan Badan Intelijen Anda§! (Anda dapat menggunakan $CURRENT|H$ Pabrik dan membutuhkan $NEEDED|H$).",
+    "comm": ""
+  },
+  {
+    "key": "CHANGE_INTELLIGENCE_AGENCY_NAME_BUTTON",
+    "ver": "",
+    "val": "§GKlik§! untuk mengubah nama dan lambang",
+    "comm": ""
+  },
+  {
+    "key": "STATUS_NO_AGENCY_NO_OPERATIVE",
+    "ver": "",
+    "val": "Agen tidak dapat direkrut sebelum Badan Intelijen didirikan.",
+    "comm": ""
+  },
+  {
+    "key": "STATUS_NO_AGENCY_UPGRADE",
+    "ver": "",
+    "val": "Tidak ada peningkatan yang sedang berjalan.",
+    "comm": ""
+  },
+  {
+    "key": "STATUS_NO_OPERATIVE_RECRUITED",
+    "ver": "",
+    "val": "Tidak ada agen yang sedang direkrut.",
+    "comm": ""
+  },
+  {
+    "key": "STATUS_RECRUIT_OPERATIVE",
+    "ver": "",
+    "val": "Merekrut agen",
+    "comm": ""
+  },
+  {
+    "key": "CRYPTOLOGY",
+    "ver": "",
+    "val": "Kriptologi",
+    "comm": ""
+  },
+  {
+    "key": "CRYPTOLOGY_DEPARTMENT",
+    "ver": "",
+    "val": "Departemen Kriptologi",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVES",
+    "ver": "",
+    "val": "Agen",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE",
+    "ver": "",
+    "val": "Agen",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_SLOT",
+    "ver": "",
+    "val": "Slot Agen",
+    "comm": ""
+  },
+  {
+    "key": "NUM_OPERATIVE_SLOTS",
+    "ver": "",
+    "val": "Slot agen: $NUM|H$",
+    "comm": ""
+  },
+  {
+    "key": "SLOTS_FROM_AGENCY_UPGRADES",
+    "ver": "",
+    "val": "Dari Peningkatan Badan: $NUM|+=$",
+    "comm": ""
+  },
+  {
+    "key": "SLOTS_FROM_FACTION_MEMBERS",
+    "ver": "",
+    "val": "Dari Anggota Faksi: $NUM|+=$",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_CAPTURED",
+    "ver": "",
+    "val": "Agen tertangkap oleh musuh",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_KILLED",
+    "ver": "",
+    "val": "Agen tewas di tangan musuh",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_COUNT",
+    "ver": "",
+    "val": "Agen yang telah direkrut: $COUNT|H$",
+    "comm": ""
+  },
+  {
+    "key": "AVAILABLE_SLOTS",
+    "ver": "",
+    "val": "Slot tersedia: $SLOTS|H$",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_CAPTURED_FACTION",
+    "ver": "",
+    "val": "Agen dari faksi Anda yang tertangkap oleh musuh",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_KILLED_FACTION",
+    "ver": "",
+    "val": "Agen dari faksi Anda yang tewas di tangan musuh",
+    "comm": ""
+  },
+  {
+    "key": "AVAILABLE_SLOTS_FACTION",
+    "ver": "",
+    "val": "Total slot tersedia di faksi: $SLOTS|H$",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_COUNT_FACTION",
+    "ver": "",
+    "val": "Agen yang direkrut oleh faksi: $COUNT|H$",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIONS",
+    "ver": "",
+    "val": "Operasi",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIONS_REINFORCEMENT_COLLECTING_ENTRY_HEADER",
+    "ver": "",
+    "val": "$OPERATION|Y$ terhadap $COUNTRY|Y$",
+    "comm": ""
+  },
+  {
+    "key": "AGENCY_DEFENSE_LEVEL",
+    "ver": "",
+    "val": "Kontra-Intelijen: $LEVEL|H$",
+    "comm": ""
+  },
+  {
+    "key": "AGENCY_DEFENSE_LEVEL_TITLE",
+    "ver": "",
+    "val": "Kontra-Intelijen",
+    "comm": ""
+  },
+  {
+    "key": "AGENCY_DEFENSE_LEVEL_DESC",
+    "ver": "",
+    "val": "Kontra-intelijen digunakan untuk menghalangi Agen musuh. Semakin tinggi nilainya, semakin besar peluang mendeteksi dan menangkap agen musuh yang beroperasi di wilayah Anda.",
+    "comm": ""
+  },
+  {
+    "key": "CAN_RECRUITE_OPERATIVE",
+    "ver": "",
+    "val": "§GKlik§! untuk merekrut agen ke slot ini",
+    "comm": ""
+  },
+  {
+    "key": "CANNOT_RECRUITE_OPERATIVE_NO_SLOT",
+    "ver": "",
+    "val": "§RTidak ada slot yang tersedia untuk merekrut agen§!",
+    "comm": ""
+  },
+  {
+    "key": "CANNOT_RECRUITE_OPERATIVE_NO_SLOT_DESC",
+    "ver": "",
+    "val": "Anda dapat membuka slot pertama dengan mendirikan badan intelijen. Slot lainnya dapat dibuka melalui peningkatan badan atau anggota faksi.",
+    "comm": ""
+  },
+  {
+    "key": "CANNOT_RECRUITE_OPERATIVE_MAX_NUMBER",
+    "ver": "",
+    "val": "Jumlah agen maksimum adalah $NUMBER|H$.",
+    "comm": ""
+  },
+  {
+    "key": "CANNOT_RECRUITE_OPERATIVE_NOT_TRAINED",
+    "ver": "",
+    "val": "§RSeorang agen sedang dalam pelatihan dan akan siap dalam $DAYS|H$ hari§!",
+    "comm": ""
+  },
+  {
+    "key": "CANNOT_RECRUITE_OPERATIVE_AGENCY_IS_NOT_CREATED",
+    "ver": "",
+    "val": "§RBadan Intelijen belum didirikan§!",
+    "comm": ""
+  },
+  {
+    "key": "CANNOT_RECRUITE_OPERATIVE_AGENCY_BEING_CREATED",
+    "ver": "",
+    "val": "§RBadan Intelijen sedang dalam pembentukan ($DAYS_TEXT$)§!",
+    "comm": ""
+  },
+  {
+    "key": "CANNOT_RECRUITE_OPERATIVE_NOT_TRAINED_SPY_MASTER",
+    "ver": "",
+    "val": "§RTidak ada agen yang tersedia di faksi mana pun. Seorang agen sedang dilatih dan akan siap dalam $DAYS|H$ hari§!",
+    "comm": ""
+  },
+  {
+    "key": "CANNOT_RECRUITE_OPERATIVE_NO_USABLE_SLOTS",
+    "ver": "",
+    "val": "§RTidak ada slot kosong yang tersedia§!",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_SLOT_LOCKED_DESC",
+    "ver": "",
+    "val": "Rekrut dan tugaskan agen ke slot ini. Setelah diperoleh, slot dapat digunakan setelah masa persiapan.",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_SLOT_LOCKED",
+    "ver": "",
+    "val": "§RSlot terkunci!§!",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_SLOT_UNLOCK_IN_DAYS",
+    "ver": "",
+    "val": "Slot ini akan terbuka dalam $DAYS|H$ hari.",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_SLOT_QUEUED",
+    "ver": "",
+    "val": "Slot lain sedang dalam proses pembukaan.",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_SLOT_QUEUED_STATUS",
+    "ver": "",
+    "val": "Dalam Antrean",
+    "comm": ""
+  },
+  {
+    "key": "SELECT_OPERATIVE_TITLE",
+    "ver": "",
+    "val": "Pilih agen untuk ditugaskan",
+    "comm": ""
+  },
+  {
+    "key": "RECRUIT_OPERATIVE_TITLE",
+    "ver": "",
+    "val": "Pilih agen untuk direkrut",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIONS_NOT_ACTIVE",
+    "ver": "",
+    "val": "Operasi rahasia belum tersedia sampai Agen membangun Jaringan Intelijen.",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIONS_NOT_ACTIVE_DESC",
+    "ver": "",
+    "val": "Rekrut seorang Agen untuk mengaktifkan Operasi.",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_GENERIC_CODENAME_PATTERN",
+    "ver": "",
+    "val": "Agen $NR$",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_HAS_CAPTURED",
+    "ver": "",
+    "val": "Telah menangkap agen dari $COUNTRY|H$",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_ASSIGNMENT_WILL_REASSIGN_OPERATIVES",
+    "ver": "",
+    "val": "§RAkan menugaskan ulang agen di jaringan:§!\\n  $CODENAME$",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_NO_MISSION_TITLE",
+    "ver": "",
+    "val": "Belum Ditugaskan",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_NO_MISSION_ACTION",
+    "ver": "",
+    "val": "Belum Ditugaskan",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_NO_MISSION_TT",
+    "ver": "",
+    "val": "Saat ini nonaktif",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_BUILD_INTEL_NETWORK_TITLE",
+    "ver": "",
+    "val": "Bangun Jaringan Intelijen",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_BUILD_INTEL_NETWORK_ACTION",
+    "ver": "",
+    "val": "Membangun Jaringan Intelijen",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_BUILD_INTEL_NETWORK_TT",
+    "ver": "",
+    "val": "Membangun Jaringan Intelijen dari $STATE|H$ di $FLAG$ $COUNTRY_DEF|H$",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_BUILD_INTEL_NETWORK_ASSIGNMENT_DESC",
+    "ver": "",
+    "val": "§GKlik§! untuk menyorot negara bagian yang memenuhi syarat. Lalu §GKlik§! pada negara bagian untuk memulai misi.",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_BUILD_INTEL_NETWORK_DESC",
+    "ver": "",
+    "val": "§LMembangun jaringan informan lokal dan kontak lain di negara bagian sasaran serta area sekitarnya.§!\\n§HPerolehan Kekuatan Jaringan Intelijen Harian: $BASE$§!\\n  Dasar: $BASE|G$",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_BUILD_INTEL_NETWORK_VALID_TARGET",
+    "ver": "",
+    "val": "Tugaskan $CODENAME$ ke £operative_mission_icons_small|1£ Bangun Jaringan Intelijen di $STATE|H$",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_BUILD_INTEL_NETWORK_INVALID_TARGET",
+    "ver": "",
+    "val": "Tidak dapat membangun jaringan di $STATE|H$\\n\\n$REASON|R$",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_QUIET_INTEL_NETWORK_TITLE",
+    "ver": "",
+    "val": "Tenangkan Jaringan Intelijen",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_QUIET_INTEL_NETWORK_ACTION",
+    "ver": "",
+    "val": "Menidurkan Jaringan Intelijen",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_QUIET_INTEL_NETWORK_TT",
+    "ver": "",
+    "val": "Menidurkan Jaringan Intelijen di $STATE|H$ di $FLAG$ $COUNTRY_DEF|H$",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_QUIET_INTEL_NETWORK_ASSIGNMENT_DESC",
+    "ver": "",
+    "val": "§GKlik§! untuk menyorot negara bagian yang memenuhi syarat. Lalu §GKlik§! pada negara bagian untuk memulai misi.",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_QUIET_INTEL_NETWORK_DESC",
+    "ver": "",
+    "val": "§LMempertahankan jaringan informan lokal dan kontak yang ada sembari meminimalkan risiko tertangkap dan penemuan oleh musuh. Jaringan tidak akan bertumbuh, namun kekuatannya tidak akan surut.§!",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_QUIET_INTEL_NETWORK_VALID_TARGET",
+    "ver": "",
+    "val": "Tugaskan $CODENAME$ ke £operative_mission_icons_small|2£ Tenangkan Jaringan Intelijen di $STATE|H$",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_QUIET_INTEL_NETWORK_INVALID_TARGET",
+    "ver": "",
+    "val": "Tidak dapat menugaskan Tenangkan Jaringan Intelijen di $STATE|H$\\n\\n$REASON|R$",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_COUNTER_INTELLIGENCE_TITLE",
+    "ver": "",
+    "val": "Kontra-Intelijen",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_COUNTER_INTELLIGENCE_ACTION",
+    "ver": "",
+    "val": "Bertahan dari serangan subversif",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_COUNTER_INTELLIGENCE_TT",
+    "ver": "",
+    "val": "Bertahan dari serangan subversif di tanah air kita",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_COUNTER_INTELLIGENCE_ASSIGNMENT_DESC",
+    "ver": "",
+    "val": "§GKlik§! untuk menyorot negara yang memenuhi syarat. Lalu §GKlik§! pada negara untuk memulai misi.",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_COUNTER_INTELLIGENCE_DESC",
+    "ver": "",
+    "val": "§LBeroperasi di negara kita sendiri atau negara sekutu untuk menghalangi agen asing melakukan tindakan subversif.§!\\n§HKontribusi Kontra-Intelijen: $BASE|1=$§!\\n  Dasar: $BASE|2+$",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_COUNTER_INTELLIGENCE_VALID_TARGET",
+    "ver": "",
+    "val": "§GKlik§! untuk menugaskan $CODENAME|H$ ke £operative_mission_icons_small|3£ Kontra-Intelijen di $COUNTRY|H$",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_COUNTER_INTELLIGENCE_INVALID_TARGET",
+    "ver": "",
+    "val": "§R$COUNTRY|H$ bukan sekutu§!",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_ROOT_OUT_RESISTANCE_TITLE",
+    "ver": "",
+    "val": "Berantas Perlawanan",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_ROOT_OUT_RESISTANCE_ACTION",
+    "ver": "",
+    "val": "Memberantas perlawanan",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_ROOT_OUT_RESISTANCE_TT",
+    "ver": "",
+    "val": "Memberantas perlawanan $FLAG$ $COUNTRY_ADJ|H$ di $STATE|H$",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_ROOT_OUT_RESISTANCE_ASSIGNMENT_DESC",
+    "ver": "",
+    "val": "§GKlik§! untuk menyorot negara bagian yang cocok. Lalu §GKlik§! negara bagian untuk memulai misi.",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_ROOT_OUT_RESISTANCE_DESC",
+    "ver": "",
+    "val": "§LMenyusup ke gerakan perlawanan di wilayah kawan untuk mengacaukan dan membubarkan mereka.§!\\n$EFFECTS|H$",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_ROOT_OUT_RESISTANCE_VALID_TARGET",
+    "ver": "",
+    "val": "Tugaskan $CODENAME$ ke £operative_mission_icons_small|4£ Berantas Perlawanan di $STATE|H$",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_ROOT_OUT_RESISTANCE_INVALID_TARGET",
+    "ver": "",
+    "val": "Tidak dapat Memberantas Perlawanan di $STATE|H$",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_BOOST_IDEOLOGY_TITLE",
+    "ver": "",
+    "val": "Dorong Ideologi",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_BOOST_IDEOLOGY_ACTION",
+    "ver": "",
+    "val": "Mendorong ideologi",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_BOOST_IDEOLOGY_TT",
+    "ver": "",
+    "val": "Mendorong $IDEOLOGY|H$ di $COUNTRY|H$ sebesar $VALUE|H$ per hari",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_BOOST_IDEOLOGY_ASSIGNMENT_DESC",
+    "ver": "",
+    "val": "§GKlik§! untuk menyorot negara target yang memenuhi syarat. Lalu §GKlik§! pada suatu negara untuk memulai misi.",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_BOOST_IDEOLOGY_DESC",
+    "ver": "",
+    "val": "§LMendorong dukungan partai politik lokal.§!\\n§YPerolehan Dukungan Ideologi Harian: $BASE|1=$§!\\n  Dasar: $BASE|1G$",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_BOOST_IDEOLOGY_VALID_TARGET",
+    "ver": "",
+    "val": "§GKlik§! untuk memilih ideologi dan menugaskan $CODENAME|H$ ke £operative_mission_icons_small|5£ Dorong Ideologi di $STATE|H$",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_BOOST_IDEOLOGY_INVALID_TARGET",
+    "ver": "",
+    "val": "Tidak dapat menugaskan agen untuk Mendorong Ideologi di $STATE|H$\\n\\n$REASON|R$",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_BOOST_IDEOLOGY_INITIATE_DESC",
+    "ver": "",
+    "val": "Dorong dukungan terhadap $IDEOLOGY|H$ sebesar $VALUE|H$ per hari",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_BOOST_IDEOLOGY_PARTY_DESC",
+    "ver": "",
+    "val": "Meningkatkan popularitas $PARTY|H$, yang saat ini memiliki dukungan sebesar $SUPPORT|H$, sebesar $VALUE|H$ per hari",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_BOOST_IDEOLOGY_OPERATIVE_ENTRY",
+    "ver": "",
+    "val": "$OPERATIVE|H$: $VALUE|H$",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_CONTROL_TRADE_TITLE",
+    "ver": "",
+    "val": "Kendalikan Perdagangan",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_CONTROL_TRADE_ACTION",
+    "ver": "",
+    "val": "Mengendalikan perdagangan",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_CONTROL_TRADE_TT",
+    "ver": "",
+    "val": "Meningkatkan Opini Perdagangan $FLAG$ $COUNTRY_ADJ|H$ terhadap kita sebesar $VALUE|H$ setiap hari",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_CONTROL_TRADE_ASSIGNMENT_DESC",
+    "ver": "",
+    "val": "§GKlik§! untuk menyorot negara yang memenuhi syarat. Lalu §GKlik§! pada negara untuk memulai misi.",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_CONTROL_TRADE_DESC",
+    "ver": "",
+    "val": "§LMempengaruhi opini perdagangan kita di negara target, memberi kita bagian ekspor sumber daya yang lebih besar.§!\\n§HOpini Perdagangan Harian: $BASE|=1$§!\\n  Dasar: $BASE|+1$",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_CONTROL_TRADE_VALID_TARGET",
+    "ver": "",
+    "val": "Tugaskan $CODENAME$ ke £operative_mission_icons_small|6£ Kendalikan Perdagangan di $COUNTRY|H$",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_CONTROL_TRADE_INVALID_TARGET",
+    "ver": "",
+    "val": "Tidak dapat Mengendalikan Perdagangan di $COUNTRY|H$\\n\\n$REASON|R$",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_CONTROL_TRADE_PROGRESS",
+    "ver": "",
+    "val": "Sejauh ini, kita telah meningkatkan Opini Perdagangan kita sebesar $CURRENT|H$/$MAX|H$. Saat ini kita memiliki total Opini Perdagangan sebesar $EFFECTIVE|=H$",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_DIPLOMATIC_PRESSURE_TITLE",
+    "ver": "",
+    "val": "Tekanan Diplomatik",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_DIPLOMATIC_PRESSURE_ACTION",
+    "ver": "",
+    "val": "Memberikan tekanan diplomatik",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_DIPLOMATIC_PRESSURE_TT",
+    "ver": "",
+    "val": "Memberikan tekanan diplomatik pada $FLAG$ $COUNTRY_DEF|H$",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_DIPLOMATIC_PRESSURE_ASSIGNMENT_DESC",
+    "ver": "",
+    "val": "§GKlik§! untuk menyorot negara yang memenuhi syarat. Lalu §GKlik§! pada negara untuk memulai misi.",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_DIPLOMATIC_PRESSURE_DESC",
+    "ver": "",
+    "val": "§LMempengaruhi negara yang dikendalikan AI agar lebih condong ke Faksi kita dan bersedia menandatangani Pakta Non-Agresi. Negara pemain akan menerima pembatasan yang lebih ketat untuk bergabung dengan Faksi lain.§!\\n§HTekanan Diplomatik Harian: $BASE_ACCEPTANCE$§!\\n  Dasar: $BASE_ACCEPTANCE|G$\\n§HSyarat Ketegangan Dunia Harian: -$BASE_TENSION|%$§!\\n  Dasar: §G-§!$BASE_TENSION|%G$",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_DIPLOMATIC_PRESSURE_VALID_TARGET",
+    "ver": "",
+    "val": "Tugaskan $CODENAME$ untuk menerapkan £operative_mission_icons_small|7£ Tekanan Diplomatik di $COUNTRY|H$",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_DIPLOMATIC_PRESSURE_INVALID_TARGET",
+    "ver": "",
+    "val": "Tidak dapat menerapkan Tekanan Diplomatik di $COUNTRY|H$\\n\\n$REASON|R$",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_PROPAGANDA_TITLE",
+    "ver": "",
+    "val": "Propaganda",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_PROPAGANDA_ACTION",
+    "ver": "",
+    "val": "Propaganda",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_PROPAGANDA_TT",
+    "ver": "",
+    "val": "Menurunkan Stabilitas sebesar $STABILITY|H2%$ dan Dukungan Perang sebesar $WAR_SUPPORT|H2%$ setiap hari di $FLAG$ $COUNTRY_DEF|H$",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_PROPAGANDA_ASSIGNMENT_DESC",
+    "ver": "",
+    "val": "§GKlik§! untuk menyorot negara target yang memenuhi syarat. Lalu §GKlik§! pada suatu negara untuk memulai misi.",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_PROPAGANDA_DESC",
+    "ver": "",
+    "val": "§LMendestabilisasi politik dalam negeri di negara tersebut untuk menurunkan stabilitas dan dukungan perang mereka§!.\\n§HPergeseran Stabilitas Harian: -$BASE_STABILITY|2%$§!\\n  Dasar: §G-§!$BASE_STABILITY|2%G$\\n§HPergeseran Dukungan Perang Harian: -$BASE_WAR_SUPPORT|2%$§!\\n  Dasar: §G-§!$BASE_STABILITY|2%G$",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_PROPAGANDA_VALID_TARGET",
+    "ver": "",
+    "val": "Tugaskan $CODENAME$ ke £operative_mission_icons_small|8£ Propaganda di $STATE|H$",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_PROPAGANDA_INVALID_TARGET",
+    "ver": "",
+    "val": "Tidak dapat memulai Propaganda di $STATE|H$\\n\\n$REASON|R$",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_INVALID_MISSION_REASON_NO_INTEL_NETWORK_AGAINST_TARGET",
+    "ver": "",
+    "val": "Dibutuhkan jaringan intelijen",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_INVALID_MISSION_REASON_INTEL_NETWORK_TOO_WEAK",
+    "ver": "",
+    "val": "Jaringan intelijen tidak cukup besar",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_INVALID_MISSION_REASON_INTEL_NETWORK_IS_QUIET",
+    "ver": "",
+    "val": "Jaringan intelijen sedang nonaktif",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_INVALID_MISSION_REASON_NO_IDEOLOGY_TO_BOOST",
+    "ver": "",
+    "val": "Tidak ada ideologi yang cocok untuk didorong",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_INVALID_MISSION_REASON_INELIGIBLE_STATE",
+    "ver": "",
+    "val": "Negara bagian tidak memenuhi syarat untuk memulai misi",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_INVALID_MISSION_REASON_NOT_A_CONTROLLER_OF_THE_STATE",
+    "ver": "",
+    "val": "Tidak mengendalikan negara bagian ini",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_INVALID_MISSION_REASON_NOT_AN_ALLY",
+    "ver": "",
+    "val": "Hanya dapat menargetkan sekutu",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_INVALID_MISSION_REASON_NO_RESISTANCE_ACTIVITY_IN_STATE",
+    "ver": "",
+    "val": "Tidak ada aktivitas perlawanan",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_INVALID_MISSION_REASON_CANNOT_TARGET_AN_ALLY",
+    "ver": "",
+    "val": "Tidak dapat menargetkan sekutu",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_INVALID_MISSION_REASON_CANNOT_TARGET_AN_ENEMY",
+    "ver": "",
+    "val": "Tidak dapat menargetkan musuh",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_INVALID_MISSION_REASON_CANNOT_TARGET_SELF",
+    "ver": "",
+    "val": "Tidak dapat menargetkan diri sendiri",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_INVALID_MISSION_REASON_WE_ARE_NOT_IN_FACTION",
+    "ver": "",
+    "val": "Kita tidak berada dalam faksi",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_INVALID_MISSION_REASON_CANNOT_TARGET_MEMBER_OF_FACTION_WE_ARE_AT_WAR_WITH",
+    "ver": "",
+    "val": "Tidak dapat menargetkan anggota faksi yang sedang berperang dengan kita",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_RESUME_MISSION",
+    "ver": "",
+    "val": "Akan melanjutkan misi $MISSION|H$ di $TARGET|H$ setelah tersedia kembali",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_TOGGLE_DESC",
+    "ver": "",
+    "val": "§GKlik-kanan§! untuk memulai misi pada jaringan saat ini",
+    "comm": ""
+  },
+  {
+    "key": "COMMENCE",
+    "ver": "",
+    "val": "Mulai",
+    "comm": ""
+  },
+  {
+    "key": "DURATION",
+    "ver": "",
+    "val": "Durasi",
+    "comm": ""
+  },
+  {
+    "key": "ONGOING",
+    "ver": "",
+    "val": "Sedang Berjalan",
+    "comm": ""
+  },
+  {
+    "key": "PREPARE",
+    "ver": "",
+    "val": "Persiapkan",
+    "comm": ""
+  },
+  {
+    "key": "PREPARED",
+    "ver": "",
+    "val": "Siap",
+    "comm": ""
+  },
+  {
+    "key": "DIPLOMATIC_PRESSURE_TENSION_MODIFIER",
+    "ver": "",
+    "val": "£operative_mission_icons_small|7£ Tekanan Diplomatik: $VALUE|=-%0$",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_TOKEN_RECEIVE",
+    "ver": "",
+    "val": "Menerima $TOKEN|H$ di $COUNTRY|H$",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_TOKEN_REMOVE",
+    "ver": "",
+    "val": "Menghapus $TOKEN|H$ di $COUNTRY|H$",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_VIEW_AUTO_COMPLETE",
+    "ver": "",
+    "val": "Jika kotak ini dicentang dan semua persyaratan terpenuhi, operasi akan diluncurkan secara otomatis.",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_VIEW_COLLECTING",
+    "ver": "",
+    "val": "Dalam persiapan...",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_VIEW_PROGRESS",
+    "ver": "",
+    "val": "Sedang berlangsung...",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_VIEW_CLOSE",
+    "ver": "",
+    "val": "Tutup",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_VIEW_COMPLETED",
+    "ver": "",
+    "val": "Selesai",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_VIEW_LAUNCH_LAUNCH",
+    "ver": "",
+    "val": "Luncurkan operasi.",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_VIEW_LAUNCH_LAUNCH_DELAYED",
+    "ver": "",
+    "val": "Setelah dimulai, operasi tidak dapat dihentikan dan agen Anda tidak dapat ditarik kembali hingga operasi selesai.",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_VIEW_LAUNCH_COLLECTING",
+    "ver": "",
+    "val": "Saat ini kita sedang bersiap meluncurkan operasi ini dengan mengumpulkan semua perlengkapan yang diperlukan.",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_VIEW_LAUNCH_PREPARE",
+    "ver": "",
+    "val": "§GKlik§! untuk mulai mempersiapkan operasi ini",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_VIEW_LOCATION",
+    "ver": "",
+    "val": "Pilih negara bagian target untuk operasi ini.",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_VIEW_LOCATION_MORE",
+    "ver": "",
+    "val": "Negara bagian target yang memenuhi syarat harus memenuhi kriteria berikut:",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_VIEW_REFUND_GENERAL",
+    "ver": "",
+    "val": "Anda dapat mengembalikan biaya operasi sebelum memulainya untuk mendapatkan kembali seluruh peralatan yang telah dikumpulkan.",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_VIEW_REFUND",
+    "ver": "",
+    "val": "Kembalikan semua sumber daya yang telah dikumpulkan dalam persiapan operasi ini.",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_VIEW_REFUND_NOT",
+    "ver": "",
+    "val": "Anda tidak dapat membatalkan operasi yang sudah dimulai.",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_VIEW_SELECT_TARGET",
+    "ver": "",
+    "val": "Pilih Target",
+    "comm": ""
+  },
+  {
+    "key": "EFFECT_STEAL_RANDOM_TECH",
+    "ver": "",
+    "val": "Dapatkan wawasan tentang teknologi mutakhir yang telah mereka teliti dan belum kita miliki.",
+    "comm": ""
+  },
+  {
+    "key": "EFFECT_STEAL_RANDOM_TECH_INSTANT",
+    "ver": "",
+    "val": "Curi cetak biru teknologi acak yang telah mereka teliti dan belum kita miliki.",
+    "comm": ""
+  },
+  {
+    "key": "EFFECT_STEAL_RANDOM_CATEGORY_TECH_COMPLETE",
+    "ver": "",
+    "val": "Kita telah memperoleh bonus untuk kategori berikut: $TECH|H$",
+    "comm": ""
+  },
+  {
+    "key": "EFFECT_STEAL_RANDOM_TECH_COMPLETE",
+    "ver": "",
+    "val": "Kita telah memperoleh wawasan mengenai teknologi mutakhir: $TECH|H$",
+    "comm": ""
+  },
+  {
+    "key": "EFFECT_STEAL_RANDOM_TECH_INSTANT_COMPLETE",
+    "ver": "",
+    "val": "Kita telah mencuri cetak biru untuk teknologi mutakhir: $TECH|H$",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_VIEW_ERROR_INSUFFICIENT_NETWORK_STRENGTH",
+    "ver": "",
+    "val": "§RAnda tidak memiliki kekuatan jaringan yang disyaratkan sebesar $PERC|H$§!",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_VIEW_ERROR_NO_OPERATIVE_ON_NETWORK",
+    "ver": "",
+    "val": "§RTidak ada Agen yang beroperasi di jaringan ini§!",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_VIEW_ERROR_INSUFFICIENT_OPERATIVES",
+    "ver": "",
+    "val": "§RAnda tidak memiliki jumlah minimum $NUM|H$ agen yang disyaratkan.§!",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_VIEW_ERROR_INSUFFICIENT_RESOURCES",
+    "ver": "",
+    "val": "§RKita belum selesai mengumpulkan sumber daya yang dibutuhkan.§!",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_VIEW_ERROR_INSUFFICIENT_REQUIREMENTS",
+    "ver": "",
+    "val": "§RKita belum memenuhi seluruh persyaratan untuk operasi ini.§!",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_VIEW_ERROR_MISSING_TOKEN",
+    "ver": "",
+    "val": "§RKita tidak memiliki aset infiltrasi yang dibutuhkan: $TOKEN|H$§!",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_VIEW_ERROR_NEEDS_TO_SELECT_TARGET",
+    "ver": "",
+    "val": "§RAnda harus memilih negara bagian target untuk operasi ini.§!",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_VIEW_REQUIREMENTS",
+    "ver": "",
+    "val": "Persyaratan",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_VIEW_CIVILIAN_FACTORIES_PROGRESS",
+    "ver": "",
+    "val": "$PROGRESS|H$ pengerjaan pabrik sipil telah diselesaikan.",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_VIEW_BASE_DURATION",
+    "ver": "",
+    "val": "Durasi dasar: $DAYS|H$ hari",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_VIEW_DURATION_MALUS_REPETITION",
+    "ver": "",
+    "val": "Operasi Diulang: $VALUE|=-%0$",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_VIEW_DURATION_MALUS_DEFENSE",
+    "ver": "",
+    "val": "Kontra-Intelijen Musuh: $VALUE|=-%0$",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_NOT_ALL_OPERATIVES_ASSIGNED",
+    "ver": "",
+    "val": "Belum semua agen ditugaskan",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_VIEW_AUTO_COMMENCE",
+    "ver": "",
+    "val": "Mulai saat siap",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_VIEW_AUTO_REPEAT",
+    "ver": "",
+    "val": "Ulangi secara otomatis",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_VIEW_AUTO_REPEAT_FAIL",
+    "ver": "",
+    "val": "Pengulangan Otomatis Gagal",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_VIEW_AUTO_REPEAT_FAIL_DESC",
+    "ver": "",
+    "val": "Kita tidak dapat mengulang $OPERATION|H$ terhadap $TARGET|H$ secara otomatis",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_VIEW_AUTO_REPEAT_TIP",
+    "ver": "",
+    "val": "Pilih untuk mengulang kembali operasi saat selesai selama persyaratannya masih terpenuhi.",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_VIEW_OPERATIVE_NOT_AVAILABLE",
+    "ver": "",
+    "val": "Setidaknya satu agen yang ditugaskan saat ini tidak tersedia untuk memulai operasi ini.",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_VIEW_OPERATION_ALREADY_IN_PROGRESS",
+    "ver": "",
+    "val": "Operasi sudah berjalan",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_VIEW_OPERATION_NOT_POSSIBLE_OR_AVAILABLE",
+    "ver": "",
+    "val": "Operasi tidak lagi memungkinkan atau tidak tersedia",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_OPERATIVE_ASSIGNMENT_NOT_ANYMORE",
+    "ver": "",
+    "val": "Agen tidak dapat dibatalkan penugasannya setelah diberangkatkan dalam operasi",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_OPERATIVE_ASSIGNMENT_NOT_YET",
+    "ver": "",
+    "val": "Agen dapat ditugaskan setelah Anda mulai mengumpulkan sumber daya untuk operasi",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_CIVILIAN_FACTORIES_NOT_PREPARED_YET",
+    "ver": "",
+    "val": "Kita belum selesai mempersiapkan operasi karena pabrik sipil kita masih menyelesaikan pekerjaan yang dibutuhkan.",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_REQUIREMENT_FULFILLED",
+    "ver": "",
+    "val": "Anda telah mengumpulkan $HAS|H$/$NUM|H$ unit $NAME|H$.",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_REQUIREMENT_NEEDED",
+    "ver": "",
+    "val": "Anda perlu mengumpulkan $NUM|H$ unit $NAME|H$.",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_REQUIREMENT_CIVILIAN_FACTORIES",
+    "ver": "",
+    "val": "$FACTORIES|H$ selama $NUM|H$ hari",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_REQUIREMENT_CIVILIAN_FACTORIES_NOT_MET",
+    "ver": "",
+    "val": "Kemajuan Anda saat ini melambat karena Anda tidak memiliki cukup pabrik sipil yang ditugaskan untuk persiapan operasi.",
+    "comm": ""
+  },
+  {
+    "key": "EFFECT_FREE_RANDOM_OPERATIVE",
+    "ver": "",
+    "val": "Kita akan membebaskan salah satu agen kita dari tawanan di $COUNTRY|H$",
+    "comm": ""
+  },
+  {
+    "key": "EFFECT_FREE_RANDOM_OPERATIVE_SUCCESS",
+    "ver": "",
+    "val": "Kita telah berhasil membebaskan agen kita $OPERATIVE|H$ dari tawanan di $COUNTRY|H$",
+    "comm": ""
+  },
+  {
+    "key": "EFFECT_FREE_RANDOM_OPERATIVE_ALL",
+    "ver": "",
+    "val": "Kita akan membebaskan seluruh agen kita dari tawanan di $COUNTRY|H$",
+    "comm": ""
+  },
+  {
+    "key": "EFFECT_FREE_RANDOM_OPERATIVE_ALL_SUCCESS",
+    "ver": "",
+    "val": "Kita telah berhasil membebaskan seluruh agen kita dari tawanan di $COUNTRY|H$",
+    "comm": ""
+  },
+  {
+    "key": "EFFECT_FREE_RANDOM_OPERATIVE_FAILURE",
+    "ver": "",
+    "val": "Kita gagal menyelamatkan agen kita tepat waktu dari tawanan di $COUNTRY|H$",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_ONMAP_CLICK_FOR_DETAILS",
+    "ver": "",
+    "val": "§GKlik§! untuk melihat rincian",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_ONMAP_CLICK_FOR_MORE",
+    "ver": "",
+    "val": "§GKlik§! untuk melihat lebih banyak operasi",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_ONMAP_STATUS_COMPLETED",
+    "ver": "",
+    "val": "Operasi telah selesai.",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_ONMAP_STATUS_IN_PROGRESS",
+    "ver": "",
+    "val": "Operasi akan selesai pada $DATE|H$",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_ONMAP_STATUS_NOT_READY",
+    "ver": "",
+    "val": "Operasi belum siap untuk diluncurkan.",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_ONMAP_STATUS_READY",
+    "ver": "",
+    "val": "Operasi siap diluncurkan!",
+    "comm": ""
+  },
+  {
+    "key": "SELECT_STATE_ON_CLICK",
+    "ver": "",
+    "val": "§GKlik§! untuk memilih Negara Bagian ini sebagai target",
+    "comm": ""
+  },
+  {
+    "key": "SELECT_STATE_ON_CLICK_DISABLED",
+    "ver": "",
+    "val": "§RAnda tidak dapat memilih Negara Bagian ini sebagai target.§!",
+    "comm": ""
+  },
+  {
+    "key": "SELECT_REGION_ON_CLICK",
+    "ver": "",
+    "val": "§GKlik§! untuk memilih Wilayah ini sebagai target",
+    "comm": ""
+  },
+  {
+    "key": "SELECT_REGION_ON_CLICK_DISABLED",
+    "ver": "",
+    "val": "§RAnda tidak dapat memilih Wilayah ini sebagai target.§!",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_HAS_TOKEN",
+    "ver": "",
+    "val": "Memiliki $NAME|H$",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_HAS_TOKEN_NOT",
+    "ver": "",
+    "val": "Tidak memiliki $NAME|H$",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_EXPLANATION_FOR_TOKEN_ACCESS",
+    "ver": "",
+    "val": "§HAset infiltrasi yang Anda peroleh akan membuka operasi-operasi berikut:§!",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_TOKEN_PLURAL",
+    "ver": "",
+    "val": "§HAset Infiltrasi§!",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_TOKEN_INFILTRATED_AIRFORCE",
+    "ver": "",
+    "val": "Infiltrasi Angkatan Udara",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_TOKEN_INFILTRATED_AIRFORCE_DESC",
+    "ver": "",
+    "val": "Telah menyusup ke angkatan udara negara tersebut.",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_TOKEN_INFILTRATED_ARMY",
+    "ver": "",
+    "val": "Infiltrasi Angkatan Darat",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_TOKEN_INFILTRATED_ARMY_DESC",
+    "ver": "",
+    "val": "Telah menyusup ke angkatan darat negara tersebut.",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_TOKEN_INFILTRATED_CIVILIAN",
+    "ver": "",
+    "val": "Infiltrasi Sipil",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_TOKEN_INFILTRATED_CIVILIAN_DESC",
+    "ver": "",
+    "val": "Telah menyusup ke pemerintahan sipil negara tersebut.",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_TOKEN_INFILTRATED_NAVY",
+    "ver": "",
+    "val": "Infiltrasi Angkatan Laut",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_TOKEN_INFILTRATED_NAVY_DESC",
+    "ver": "",
+    "val": "Telah menyusup ke angkatan laut negara tersebut.",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_TOKEN_INFILTRATED_RESISTANCE_CONTACTS",
+    "ver": "",
+    "val": "Kontak Perlawanan",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_TOKEN_INFILTRATED_RESISTANCE_CONTACTS_DESC",
+    "ver": "",
+    "val": "Telah menjalin kontak dengan kelompok perlawanan lokal.",
+    "comm": ""
+  },
+  {
+    "key": "PREPARED_OPERATION_REFUND_TOOLTIP",
+    "ver": "",
+    "val": "Biaya operasi akan dikembalikan dalam $DAYS|R$ hari.",
+    "comm": ""
+  },
+  {
+    "key": "DIPLOMATIC_PRESSURE_OPINION_REQUIREMENTS_DRIFT",
+    "ver": "",
+    "val": "Mengubah ambang batas §Yopini§! sebesar $DRIFT|H$ per hari",
+    "comm": ""
+  },
+  {
+    "key": "DIPLOMATIC_PRESSURE_TENSION_REQUIREMENTS_DRIFT",
+    "ver": "",
+    "val": "Mengubah ambang batas §Yketegangan§! sebesar $DRIFT|1%H$ per hari",
+    "comm": ""
+  },
+  {
+    "key": "QUIET_INTEL_NETWORK_IN_STATE_DESC",
+    "ver": "",
+    "val": "§RJaringan tidak aktif§!\\nJaringan dipertahankan tetapi efeknya tidak aktif saat jaringan dalam kondisi tenang.",
+    "comm": ""
+  },
+  {
+    "key": "INTEL_NETWORK_IN_STATE",
+    "ver": "",
+    "val": "Jaringan Intelijen di $STATE|H$ $FLAG$",
+    "comm": ""
+  },
+  {
+    "key": "NO_INTEL_NETWORK_IN_STATE",
+    "ver": "",
+    "val": "Tidak Ada Jaringan Intelijen di $STATE|H$ $FLAG$",
+    "comm": ""
+  },
+  {
+    "key": "INTEL_NETWORK_STRENGTH",
+    "ver": "",
+    "val": "Kekuatan jaringan: $STRENGTH|H0%%$",
+    "comm": ""
+  },
+  {
+    "key": "INTEL_NETWORK_DAILY_GROWTH",
+    "ver": "",
+    "val": "Pertumbuhan harian: $GROWTH|H1$",
+    "comm": ""
+  },
+  {
+    "key": "INTEL_NETWORK_STRENGTH_GROWTH_OVER_CAP",
+    "ver": "",
+    "val": "Melebihi batas: $VALUE|=+1$",
+    "comm": ""
+  },
+  {
+    "key": "INTEL_NETWORK_STRENGTH_GROWTH_FROM_OPERATIVE",
+    "ver": "",
+    "val": "Dari Agen sendiri: $VALUE|=+1$",
+    "comm": ""
+  },
+  {
+    "key": "INTEL_NETWORK_STRENGTH_GROWTH_FROM_ADJACENCY",
+    "ver": "",
+    "val": "Dari negara bagian yang berdekatan: $VALUE|=+1$",
+    "comm": ""
+  },
+  {
+    "key": "INTEL_NETWORK_STRENGTH_GROWTH_ENEMY_FACTOR",
+    "ver": "",
+    "val": "Hukum garnisun musuh: $VALUE|+%0$",
+    "comm": ""
+  },
+  {
+    "key": "INTEL_NETWORK_STRENGTH_GROWTH_OUT_OF_RANGE",
+    "ver": "",
+    "val": "Di luar jangkauan Agen mana pun: $VALUE|=+1$",
+    "comm": ""
+  },
+  {
+    "key": "INTEL_NETWORK_STRENGTH_GROWTH_AT_CAP",
+    "ver": "",
+    "val": "Mencapai batas",
+    "comm": ""
+  },
+  {
+    "key": "INTEL_NETWORK_STRENGTH_CAP",
+    "ver": "",
+    "val": "Batas kekuatan jaringan: $CAP$",
+    "comm": ""
+  },
+  {
+    "key": "INTEL_NETWORK_STRENGTH_CAP_FROM_OPERATIVE",
+    "ver": "",
+    "val": "Dari Agen sendiri: $VALUE|0+=$",
+    "comm": ""
+  },
+  {
+    "key": "INTEL_NETWORK_STRENGTH_CAP_FROM_COUNTER_INTELLIGENCE",
+    "ver": "",
+    "val": "Kontra-Intelijen Target: $VALUE|0+=$",
+    "comm": ""
+  },
+  {
+    "key": "INTEL_NETWORK_NATIONAL_COVERAGE_FROM_CONTROLLED",
+    "ver": "",
+    "val": "Dari negara bagian terkontrol yang dicakup: $VALUE|%1H$",
+    "comm": ""
+  },
+  {
+    "key": "INTEL_NETWORK_NATIONAL_COVERAGE_FROM_OWNED",
+    "ver": "",
+    "val": "Dari negara bagian milik sendiri yang dicakup: $VALUE|%1H$",
+    "comm": ""
+  },
+  {
+    "key": "INTEL_NETWORK_NATIONAL_COVERAGE_FROM_OWNED_WORTH",
+    "ver": "",
+    "val": "Dari nilai negara bagian milik sendiri yang dicakup: $VALUE|%1H$",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_INTELIGENCE_AGENCY_DEFENSE_MODIFIER_ENTRY",
+    "ver": "",
+    "val": "$OPERATIVE|H$: $DEFENSE|+=0$",
+    "comm": ""
+  },
+  {
+    "key": "CLICK_DISBAND_OPERATIVE",
+    "ver": "",
+    "val": "§GKlik§! untuk membebastugaskan agen ini",
+    "comm": ""
+  },
+  {
+    "key": "CLICK_DISBAND_OPERATIVE_DESC",
+    "ver": "",
+    "val": "Setelah dibebastugaskan, agen akan kembali ke daftar perekrutan dan membebaskan slot agen yang digunakannya.",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_CAPTURED_BY",
+    "ver": "",
+    "val": "§RDitawan oleh $CAPTURER|H$.§!",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_CAPTURED_DAYS_REMAINING",
+    "ver": "",
+    "val": "§RAgen ini akan dieksekusi jika tidak diselamatkan dalam $DAYS|H$ hari!§!",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_CAPTURED_DESC",
+    "ver": "",
+    "val": "Agen ini sedang ditahan. Pihak penawan tengah melakukan interogasi intensif dan lambat laun agen kita akan membocorkan rahasia kita kepada mereka.",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_HARMED_IN_MISSION",
+    "ver": "",
+    "val": "§RTerluka saat misi§!",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_HARMED_IN_MISSION_DESC",
+    "ver": "",
+    "val": "Agen ini terluka saat bertugas. Mereka membutuhkan waktu untuk memulihkan diri sebelum dapat ditugaskan kembali.",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_FORCED_INTO_HIDING",
+    "ver": "",
+    "val": "§RTerpaksa bersembunyi§!",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_FORCED_INTO_HIDING_DESC",
+    "ver": "",
+    "val": "Agen ini terdeteksi saat bertugas dan terpaksa memutus kontak untuk menghindari penangkapan. Mereka akan kembali aktif setelah situasi aman.",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_AVAILABLE_AGAIN_IN_DAYS",
+    "ver": "",
+    "val": "Agen ini akan tersedia kembali dalam $DAYS|H$ hari!",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_NAME_AND_CODENAME",
+    "ver": "",
+    "val": "$CODENAME|H$ ($NAME|H$)",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_INTEL_NETWORK_GAIN",
+    "ver": "",
+    "val": "Perolehan Kekuatan Jaringan Intelijen di negara bagian: $GAIN|+1$",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_INTELLIGENCE_AGENCY_DEFENSE",
+    "ver": "",
+    "val": "Kontribusi terhadap §YKontra-Intelijen§!: $DEFENSE|+1$",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_PROPAGANDA_EFFORT",
+    "ver": "",
+    "val": "Pergeseran per hari: $VALUE|2$",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_PROPAGANDA_STABILITY_DRIFT",
+    "ver": "",
+    "val": "Pergeseran stabilitas: $DRIFT|+2%$/hari",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_PROPAGANDA_WAR_SUPPORT_DRIFT",
+    "ver": "",
+    "val": "Pergeseran Dukungan Perang: $DRIFT|+2%$/hari",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_ROOT_OUT_RESISTANCE_EFFORT",
+    "ver": "",
+    "val": "Menjalankan misi dengan efisiensi $VALUE|H0%$",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_MISSION_ROOT_OUT_RESISTANCE_STATE_MODIFIER",
+    "ver": "",
+    "val": "Memberikan dampak berikut di negara bagian",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_CODENAME_EDIT",
+    "ver": "",
+    "val": "§GKlik§! untuk mengubah nama samaran agen",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_SELECT",
+    "ver": "",
+    "val": "Pilih Agen",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_TITLE_DESC",
+    "ver": "",
+    "val": "Tingkat keahlian: $SKILL_LEVEL|H$ ($TITLE|H$)",
+    "comm": ""
+  },
+  {
+    "key": "INTEL_NETWORK_STRENGTH_IN_STATE",
+    "ver": "",
+    "val": "Negara bagian di bawah pengaruh Jaringan Intelijen: $INFLUENCED|H$/$CONTROLLED|H$",
+    "comm": ""
+  },
+  {
+    "key": "PLANNING_SPEED_FROM_LOCAL_INTEL_NETWORK",
+    "ver": "",
+    "val": "Kecepatan perencanaan dari jaringan intelijen lokal: $FACTOR|+%$",
+    "comm": ""
+  },
+  {
+    "key": "PLANNING_SPEED_FROM_RELATION_MODIFIER",
+    "ver": "",
+    "val": "Bonus kecepatan perencanaan terhadap musuh: $FACTOR|+%$",
+    "comm": ""
+  },
+  {
+    "key": "START_DECRYPTION",
+    "ver": "",
+    "val": "Mulai Dekripsi",
+    "comm": ""
+  },
+  {
+    "key": "STOP_DECRYPTION",
+    "ver": "",
+    "val": "Hentikan Dekripsi",
+    "comm": ""
+  },
+  {
+    "key": "REVEAL_INTEL",
+    "ver": "",
+    "val": "Singkap Intelijen\\n$DAYS$ Hari",
+    "comm": ""
+  },
+  {
+    "key": "REVEAL_INTEL_LEFT",
+    "ver": "",
+    "val": "Intelijen Tersingkap\\n($DAYS$ Hari)",
+    "comm": ""
+  },
+  {
+    "key": "CLICK_TO_ADD_NEW",
+    "ver": "",
+    "val": "Klik di peta untuk menambahkan negara sebagai target dekripsi.",
+    "comm": ""
+  },
+  {
+    "key": "CRYPTO_SELECT_A_NON_ALLY_COUNTRY_DESC",
+    "ver": "",
+    "val": "§RAnda hanya dapat memulai dekripsi pada negara non-sekutu§!",
+    "comm": ""
+  },
+  {
+    "key": "CRYPTOLOGY_NOT_ACTIVE",
+    "ver": "",
+    "val": "§RDepartemen Kriptologi belum diteliti§!",
+    "comm": ""
+  },
+  {
+    "key": "CRYPTO_IS_ALREADY_IN_LIST",
+    "ver": "",
+    "val": "§R$COUNTRY|H$ sudah ada dalam daftar dekripsi§!",
+    "comm": ""
+  },
+  {
+    "key": "CRYPTO_CLICK_TO_ADD_DESC",
+    "ver": "",
+    "val": "Klik untuk menambahkan $COUNTRY|H$ ke daftar dekripsi",
+    "comm": ""
+  },
+  {
+    "key": "CRYPTO_DEFENSE_LEVEL",
+    "ver": "",
+    "val": "Tingkat Kriptologi $LEVEL$",
+    "comm": ""
+  },
+  {
+    "key": "CRYPTO_DECRYPTION_STRENGTH",
+    "ver": "",
+    "val": "$STRENGTH|0$£crypto£",
+    "comm": ""
+  },
+  {
+    "key": "CRYPTO_NOT_ACTIVE",
+    "ver": "",
+    "val": "Kriptologi belum tersedia hingga Anda membentuk Departemen Kriptologi di Badan Intelijen Anda.",
+    "comm": ""
+  },
+  {
+    "key": "CRYPTO_NOT_ACTIVE_DESC",
+    "ver": "",
+    "val": "Bentuk Departemen Kriptologi untuk mengaktifkan dekripsi.",
+    "comm": ""
+  },
+  {
+    "key": "CRYPTO_FULLY_DECRYPTED",
+    "ver": "",
+    "val": "Selesai",
+    "comm": ""
+  },
+  {
+    "key": "CRYPTO_FULLY_ACTIVATED",
+    "ver": "",
+    "val": "Aktif ",
+    "comm": ""
+  },
+  {
+    "key": "CRYPTO_DECRYPTING",
+    "ver": "",
+    "val": "Mendekripsi: $DAYS$ hari",
+    "comm": ""
+  },
+  {
+    "key": "CRYPTO_NOT_DECRYPTING",
+    "ver": "",
+    "val": "$DAYS$ hari",
+    "comm": ""
+  },
+  {
+    "key": "CRYPTO_DECRYPTION_DESC",
+    "ver": "",
+    "val": "Sandi Musuh Terdekripsi: $CURRENT|0H$/$MAX|0H$£crypto£",
+    "comm": ""
+  },
+  {
+    "key": "CRYPTO_DECRYPTION_DESC_ESTIMATION",
+    "ver": "",
+    "val": "Dengan kecepatan dekripsi kita saat ini dan dekripsi yang sedang aktif, proses ini akan memakan waktu $NUM_DAYS|H$ hari.",
+    "comm": ""
+  },
+  {
+    "key": "CRYPTO_DECRYPTION_DESC_ESTIMATION_IF_STARTED",
+    "ver": "",
+    "val": "Setelah proses dekripsi dimulai, akan dibutuhkan $NUM_DAYS|H$ hari untuk menyelesaikannya.",
+    "comm": ""
+  },
+  {
+    "key": "CRYPTO_NO_DECRYPTION",
+    "ver": "",
+    "val": "Kita tidak memiliki kemampuan dekripsi saat ini. Tingkatkan Badan Intelijen Anda untuk mulai mendekripsi sandi negara lain.",
+    "comm": ""
+  },
+  {
+    "key": "CRYPTO_DECRYPTION_SPEED_DESC",
+    "ver": "",
+    "val": "Negara kita memiliki $POWER|0H$£crypto£ §HKekuatan Dekripsi§! per hari.",
+    "comm": ""
+  },
+  {
+    "key": "CRYPTO_DECRYPTION_SPEED_DESC_MULTIPLE_COUNTRY_INFO",
+    "ver": "",
+    "val": "Jika beberapa sandi didekripsi pada waktu bersamaan, kekuatan dekripsi kita akan dibagi rata di antara proyek-proyek tersebut.",
+    "comm": ""
+  },
+  {
+    "key": "CRYPTO_DEFENSE_LEVEL_DESC",
+    "ver": "",
+    "val": "§HTingkat Kriptologi§! negara kita adalah $LEVEL|H$ dan memiliki $STRENGTH|0H$£crypto£ Pertahanan Kripto.",
+    "comm": ""
+  },
+  {
+    "key": "CRYPTO_FULLY_DECRYPTED_PASSIVE_MODIFIERS_DESC",
+    "ver": "",
+    "val": "Sandi musuh telah terdekripsi sepenuhnya. Kita memperoleh bonus pasif berikut terhadap mereka:",
+    "comm": ""
+  },
+  {
+    "key": "CRYPTO_NOT_FULLY_DECRYPTED_PASSIVE_MODIFIERS_DESC",
+    "ver": "",
+    "val": "Setelah sandi musuh berhasil didekripsi sepenuhnya, kita akan memperoleh bonus pasif berikut terhadap mereka:",
+    "comm": ""
+  },
+  {
+    "key": "CRYPTO_CLICK_TO_START_DECRYPTION",
+    "ver": "",
+    "val": "§GKlik§! untuk memulai dekripsi",
+    "comm": ""
+  },
+  {
+    "key": "CRYPTO_CLICK_TO_STOP_DECRYPTION",
+    "ver": "",
+    "val": "§GKlik§! untuk menghentikan dekripsi",
+    "comm": ""
+  },
+  {
+    "key": "CRYPTO_CLICK_TO_ACTIVATE_ACTIVE_BONUSES",
+    "ver": "",
+    "val": "§GKlik§! untuk mengaktifkan bonus dekripsi aktif",
+    "comm": ""
+  },
+  {
+    "key": "CRYPTO_CLICK_TO_ACTIVATE_ACTIVE_BONUSES_2",
+    "ver": "",
+    "val": "Kita akan memperoleh bonus berikut selama $NUM|H$ hari selain bonus pasif biasa:",
+    "comm": ""
+  },
+  {
+    "key": "CRYPTO_ACTIVATE_ACTIVE_BONUSES_NOT_READY_YET",
+    "ver": "",
+    "val": "Sandi musuh belum terdekripsi sepenuhnya. Setelah terdekripsi, Anda dapat mengaktifkan bonus dekripsi aktif selama $NUM|H$ hari selain bonus pasif biasa, namun musuh akan menyadari dekripsi Anda dan akan mengatur ulang sandi mereka setelahnya",
+    "comm": ""
+  },
+  {
+    "key": "CRYPTO_ACTIVATE_ACTIVE_BONUSES_ACTIVATED",
+    "ver": "",
+    "val": "Bonus dekripsi aktif telah diaktifkan. Anda akan mendapatkan bonus berikut selama $NUM|H$ hari selain bonus pasif biasa:",
+    "comm": ""
+  },
+  {
+    "key": "CRYPTO_ACTIVATE_ACTIVE_BONUSES_ACTIVATED_ALL",
+    "ver": "",
+    "val": "Bonus dekripsi aktif telah diaktifkan. Anda akan mendapatkan bonus berikut selama $NUM|H$ hari:",
+    "comm": ""
+  },
+  {
+    "key": "CRYPTO_ENEMY_CRYPTO_IS_BROKEN_TITLE",
+    "ver": "",
+    "val": "Sandi Musuh Berhasil Didekripsi",
+    "comm": ""
+  },
+  {
+    "key": "CRYPTO_ENEMY_CRYPTO_IS_BROKEN_DESC",
+    "ver": "",
+    "val": "Sandi untuk $COUNTRY_NAMES|H$ telah berhasil didekripsi seutuhnya.",
+    "comm": ""
+  },
+  {
+    "key": "CRYPTO_ENEMY_ACTIVATED_THEIR_CRYPTO_TITLE",
+    "ver": "",
+    "val": "Sandi Kita Telah §RDibongkar§! oleh Musuh",
+    "comm": ""
+  },
+  {
+    "key": "CRYPTO_ENEMY_ACTIVATED_THEIR_CRYPTO_DESC",
+    "ver": "",
+    "val": "$COUNTRY|H$ telah membongkar sandi kita dan mulai menyebarluaskan informasi yang diperoleh ke komandan lapangan mereka. Mereka akan memperoleh berbagai bonus tempur terhadap kita selama $NUMDAYS|H$ hari ke depan.",
+    "comm": ""
+  },
+  {
+    "key": "CRYPTO_DELETE_DECRYPTION",
+    "ver": "",
+    "val": "§RHapus Dekripsi§!",
+    "comm": ""
+  },
+  {
+    "key": "CRYPTO_DELETE_TITLE",
+    "ver": "",
+    "val": "Hapus Dekripsi",
+    "comm": ""
+  },
+  {
+    "key": "CRYPTO_DELETE_DESC",
+    "ver": "",
+    "val": "Apakah Anda yakin ingin §RMenghapus§! kemajuan dekripsi yang telah dilakukan terhadap $COUNTRY|H$?",
+    "comm": ""
+  },
+  {
+    "key": "CRYPTO_ACTIVATE_TITLE",
+    "ver": "",
+    "val": "Aktifkan Dekripsi",
+    "comm": ""
+  },
+  {
+    "key": "CRYPTO_ACTIVATE_DESC",
+    "ver": "",
+    "val": "Apakah Anda yakin ingin §HMengaktifkan§! bonus dekripsi aktif Anda terhadap $COUNTRY|H$?",
+    "comm": ""
+  },
+  {
+    "key": "DECRPYPTION_BONUSES_AIR_TOOLTIP",
+    "ver": "",
+    "val": "§HSandi Musuh Terbongkar§!\\n\\nAnda memperoleh bonus berikut terhadap $COUNTRIES|H$:\\n",
+    "comm": ""
+  },
+  {
+    "key": "INTEL_LEDGER",
+    "ver": "",
+    "val": "Buku Besar Intelijen",
+    "comm": ""
+  },
+  {
+    "key": "SHOW_INTEL_LEDGER",
+    "ver": "",
+    "val": "Buka Buku Besar Intelijen untuk meninjau informasi intelijen yang Anda miliki tentang negara lain.",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_NATIONALITY",
+    "ver": "",
+    "val": "Agen ini memiliki kewarganegaraan $NATIONALITY|H$, memberikan keuntungan berikut:",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_NATIONALITY_MISSION_MODIFIERS_HEADER",
+    "ver": "",
+    "val": "§HSaat menjalankan misi di negara ini:§!",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_NATIONALITY_OPERATION_MODIFIERS_HEADER",
+    "ver": "",
+    "val": "§HSaat menjalankan operasi di negara ini:§!",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_NATIONALITY_DESC",
+    "ver": "",
+    "val": "Seorang agen memiliki keunggulan ketika beroperasi di negara asalnya, karena ia dapat berbaur dengan masyarakat tanpa dicurigai sebagai orang asing.",
+    "comm": ""
+  },
+  {
+    "key": "COUNTERINTELLIGENCE_ACTIVITY_LEVEL",
+    "ver": "",
+    "val": "Tingkat Aktivitas: ",
+    "comm": ""
+  },
+  {
+    "key": "COUNTERINTELLIGENCE_ACTIVITY_LEVEL_0",
+    "ver": "",
+    "val": "§GRendah§!: Sedikit atau tidak ada aktivitas subversif terdeteksi",
+    "comm": ""
+  },
+  {
+    "key": "COUNTERINTELLIGENCE_ACTIVITY_LEVEL_1",
+    "ver": "",
+    "val": "§YSedang§!: Sebagian aktivitas mencurigakan telah terpantau",
+    "comm": ""
+  },
+  {
+    "key": "COUNTERINTELLIGENCE_ACTIVITY_LEVEL_2",
+    "ver": "",
+    "val": "§YSignifikan§!: Kekuatan asing telah menancapkan pengaruhnya di dalam negeri",
+    "comm": ""
+  },
+  {
+    "key": "COUNTERINTELLIGENCE_ACTIVITY_LEVEL_3",
+    "ver": "",
+    "val": "§RSerius§!: Pengaruh kekuatan intelijen asing tidak dapat disangkal lagi",
+    "comm": ""
+  },
+  {
+    "key": "COUNTERINTELLIGENCE_ACTIVITY_LEVEL_4",
+    "ver": "",
+    "val": "§RKritis§!: Aktivitas pihak asing secara aktif mendestabilisasi negara",
+    "comm": ""
+  },
+  {
+    "key": "COUNTERINTELLIGENCE_ACTIVITY_LEVEL_DESC",
+    "ver": "",
+    "val": "Tingkat aktivitas mencerminkan intensitas dan bahaya dari operasi subversif asing di negara ini.",
+    "comm": ""
+  },
+  {
+    "key": "ON_OPERATION_STATUS",
+    "ver": "",
+    "val": "Sedang dalam operasi $OPERATION|H$ di $COUNTRY$",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_ETA_COMPLETED",
+    "ver": "",
+    "val": "§YSelesai§!",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_OUTLOOK_DESC",
+    "ver": "",
+    "val": "Peluang operasi ditentukan oleh dua faktor utama.\\n§HRisiko§! menunjukkan kemungkinan agen Anda terdeteksi atau celaka.\\n§HEfektivitas Biaya§! menunjukkan seberapa sepadan hasil yang akan diraih dibandingkan pengorbanan sumber daya yang dikerahkan.",
+    "comm": ""
+  },
+  {
+    "key": "lar_decryption_bonus_tech",
+    "ver": "",
+    "val": "Bonus Dekripsi",
+    "comm": ""
+  },
+  {
+    "key": "lar_decryption_bonus_tt",
+    "ver": "",
+    "val": "Kita akan memperoleh §G+10 Kecepatan Dekripsi§!",
+    "comm": ""
+  },
+  {
+    "key": "lar_decryption_bonus_tech_desc",
+    "ver": "",
+    "val": "Kita akan memperoleh §G+10 Kecepatan Dekripsi§!",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_RESUME_MISSION_AFTER_OPERATION_CHECKBOX_LABEL",
+    "ver": "",
+    "val": "Lanjutkan misi",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_RESUME_MISSION_AFTER_OPERATION_TOOLTIP",
+    "ver": "",
+    "val": "Apakah agen akan melanjutkan misi yang ditugaskan sebelumnya setelah operasi ini tuntas.",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_RESUME_MISSION_AFTER_OPERATION_INDICATOR_TOOLTIP",
+    "ver": "",
+    "val": "Agen ini akan otomatis melanjutkan misi penugasannya setelah operasi selesai.",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_DISBAND_TITLE",
+    "ver": "",
+    "val": "Bebastugaskan Agen",
+    "comm": ""
+  },
+  {
+    "key": "OPERATIVE_DISBAND_DESC",
+    "ver": "",
+    "val": "Apakah Anda yakin ingin §RMembebastugaskan§! agen ini? Butuh waktu sebelum Anda dapat merekrut penggantinya.",
+    "comm": ""
+  }
+]

@@ -1,0 +1,166 @@
+INS_japanese_export_contracts -> One Trade Contract To Rule Them All
+INS_japanese_export_contracts_desc -> We will negotiate a major trade agreement with [JAP.GetNameDef], selling all the rubber in [1049.GetName] and [672.GetName]. While we will sell it at a very low cost, we will be guaranteed it all gets sold.
+INS_realign_supply_chains -> Realign Supply Chains
+INS_realign_supply_chains_desc -> While the protectionism of the Great Depression is slowing down, increased production and an overvalued guilder has left the Dutch export market in tatters, as our old trading partners in the west have turned to South America to meet their demand. We must take steps to convince our allies to start trading with us again.
+INS_invite_foreign_companies -> Support American Oil Ventures
+INS_invite_foreign_companies_desc -> Since 1930, Standard Oil California has been operating in our country through their Dutch subsidiary, Nederlandsche Pacific Petroleum Maatschappij. Their surveys in Riouw show promise, we should support their upstream operations in any way we can - a big discovery would both boost our revenue and encourage other international companies to pursue investments in our country.
+INS_expand_sea_routes -> Expand Sea Routes
+INS_expand_sea_routes_desc -> Our country is rich in natural resources, but our extraction industry is too specialized and we lack the infrastructure necessary to extract certain rare minerals such as chromium and tungsten. If we want to improve our military production capabilities, we will need to import them from elsewhere. To take full advantage of our growing trade network, we will need to increase the capacity of our merchant fleet.
+INS_ship_contracts -> Secure Ship Contracts
+INS_ship_contracts_desc -> Constructing a navy is necessary in order to maintain our trade routes in the event of war. We can utilize our newfound trade relationships to obtain naval contracts.
+INS_developing_sumatra -> Developing Sumatra
+INS_developing_sumatra_desc -> Sumatra is the most resource-rich island in the archipelago, yet the infrastructure is so poor that a great proportion of extracted resources never even make it back to Batavia. Transportation relies on a patchwork of dirt roads and unconnected railway lines, wholly insufficient to support our plans for the island. We can’t let this continue.
+INS_sumatra_railway -> The Sumatra Railway
+INS_sumatra_railway_desc -> As part of our ongoing efforts to develop Sumatra’s infrastructure, we should construct a large railway stretching from northern Atjeh to the southernmost port in Sumatra, which connects to Batavia by ship very quickly. This way, resources will only have to be transported to the nearest train station, at which point we can move it to Batavia in a matter of days.
+INS_develop_borneo -> Develop Kalimantan
+INS_develop_borneo_desc -> Kalimantan has the potential for great wealth, yet the island is very sparsely developed, and its people are plagued by poverty. Transport of freight is heavily reliant on the many rivers and waterways of the island, and any long-range communications are hindered by a lack of electricity. By building powerlines and roads, we can pave the way for future surveying and resource extraction.
+INS_kalimantan_mic -> Kalimantan Military Industry
+INS_kalimantan_mic_desc -> Our infrastructure development efforts in Kalimantan have paid off. The spread of electricity and communications has brought us into contact with communities that used to be far beyond the government’s call. We can use this opportunity to meet our needs for increased military production, by building new factories in the region and manning them with this newfound pool of labor.
+INS_pontianak_to_balikpapan -> From Pontianak to Tanjung Selor
+INS_pontianak_to_balikpapan_desc -> The idea of building a railway in Kalimantan has been discussed at length, but the harsh, largely unexplored terrain in the center of the island makes it a difficult task. The only solution is a U-shaped railway from coast to coast. It will not be cheap, but in the long run it will pay for itself.
+INS_develop_sulawesi -> Develop Sulawesi
+INS_develop_sulawesi_desc -> Sulawesi is the center of the archipelago, and therefore an important strategic location. We should build roads, powerlines, and communications to ensure it can be used as a military hub in the event of war.
+INS_the_bangka_project -> The Bangka Project
+INS_the_bangka_project_desc -> The Bangka-Belitung islands, while small, are a cornerstone of the Indonesian economy due to the islands’ bauxite deposits. We need to build roads, ports and railways on Bangka-Belitung, to ensure that we can reap the full rewards of the islands’ rich mineral wealth.
+INS_aluminium_factory -> Pangkalpinang Aluminium Factory
+INS_aluminium_factory_desc -> Our raw bauxite extraction is growing, but our lack of domestic aluminum production is limiting our profits. As the provincial capital of the Bangkal-Belitung islands, Pangkalpinang would be an ideal location to establish our own factories. Doing so would allow us to cut out the middlemen and maximize our returns.
+INS_bauxite_export -> Double Down on Bauxite Export
+INS_bauxite_export_desc -> The completion of the Bangka project has left us with more raw bauxite than we know what to do with. While attempting to sell it all would be difficult, we could offer a significantly reduced price for the bauxite than anyone else on the market, ensuring every gram gets sold. Due to the sheer quantity of bauxite we can sell, this would still yield a proportional growth in profit compared to our current exports.
+INS_tin_mining -> Investments in Tin Mining
+INS_tin_mining_desc -> The history of tin mining in the Bangka-Belitung islands predates European presence in the archipelago. So it’s no wonder then, that the tin industry on the islands is overdue for some modernization. Overhauling the production capabilities is an expensive endeavour, and our existing tin industry will not be operational for some time as we rebuild it. However, there is significant potential for long-term profit.
+INS_tin_to_usa -> Sell Tin to [USA.GetNameDef]
+INS_tin_to_usa_desc -> [USA.GetNameDefCap] is full of corporations and government institutions purchasing tin. Now that we have a proper mining operation, we have an opportunity to make a lot of profit here.
+INS_tin_to_japan -> Sell Tin to [JAP.GetNameDef]
+INS_tin_to_japan_desc -> [JAP.GetNameDefCap] has many ships now considered outdated and replaceable, despite being a perfect fit for the [INS.GetAdjective] navy. We should purchase these ships with the money from our tin production.
+INS_tin_to_japan_tt -> [JAP.GetNameDefCap] will send §Y9§! older destroyers to us.
+INS_new_bauxite_routes -> New Bauxite Routes
+INS_new_bauxite_routes_desc -> Our strategy of undercutting the market to increase our export volume of bauxite has worked out successfully, and we’ve increased our total income substantially. We mustn’t stop here, however. We should continue to expand our trade networks, optimize our supply chains, and look for any other opportunities to maximize our returns.
+INS_bangka_bauxite_export_flag -> Has completed focus §Y$INS_bauxite_export$§!:
+INS_not_industry -> Plan for the Future
+INS_not_industry_desc -> Java is the beating heart of our nation, home to the bulk of our population and the seat of our government. Before we can industrialize the island in earnest, we must first prepare the ground. Land surveys, zoning allocations and site clearances will ensure that when the factories come, they are built where they will do the most good.
+INS_construction_focus -> Industry Boom
+INS_construction_focus_desc -> Foreign capital is flowing in, export revenues are climbing, and for the first time in years there is real money to invest in domestic industry. We must seize the moment and build while conditions favor us.
+INS_developing_java -> Expand Javanese Infrastructure
+INS_developing_java_desc -> Java is by far the most industrialized island in the archipelago, and the source of a majority of our wealth. However, certain cities such as Batavia are becoming increasingly crowded due to population growth. We should expand these cities with new homes, commercial areas, trams, trains, and factories in order to support the growing population.
+INS_prioritize_sugar_economy -> Prioritize the Sugar Economy
+INS_prioritize_sugar_economy_desc -> We should decrease our government budget for Batavian industrial development; It is already far more industrialized than any other city in the archipelago. Instead, we should use this money to establish many small palm plantations across the country. These plantations will produce palm sugar, which is a commodity with high international demand.
+INS_all_cards_into_industry -> All Cards in Industry
+INS_all_cards_into_industry_desc -> Industrialization has had a massive impact on [1058.GetName]'s economy. If we industrialize the entire island, with its tens of millions of citizens, we could become influential on the global scale.
+INS_expand_batavia_technical_institute -> Expand the Batavia Institute of Technology
+INS_expand_batavia_technical_institute_desc -> Expanding the Batavia Institute of Technology will allow a greater number of students to become educated and increase the rate of our technological development.
+INS_quinine_export -> More Lucrative Quinine Agreement
+INS_quinine_export_desc -> The Cinchona Bureau in Amsterdam nearly has a monopoly on quinine exports, which is especially profitable as quinine is in high demand worldwide as malaria treatment. The Bureau sources a majority of its quinine from the East Indies. Despite this, we receive a very small portion of the profits. We should use our quinine production as leverage to negotiate a fairer agreement.
+INS_spend_profits_on_rural -> Spend Profits on Rural Development
+INS_spend_profits_on_rural_desc -> With our new quinine agreement finalized, we find ourselves with an opportunity to use our additional income to develop the transportation and communications infrastructure in rural areas, paving the way for future industrial development.
+INS_spend_profits_on_urban -> Spend Profits on Urban Development
+INS_spend_profits_on_urban_desc -> With our new quinine agreement finalized, we find ourselves with an opportunity to use our additional income to expand the Batavian manufacturing industry, which will diversify our economy and decrease our reliance on exporting raw materials.
+INS_spend_profits_on_military -> Spend Profits on Military Development
+INS_spend_profits_on_military_desc -> With our new quinine agreement finalized, we find ourselves with an opportunity to improve our military significantly by spending our additional income on building and maintaining new weapon factories in Yogyakarta and Semarang.
+INS_end_to_bloodshed_tt -> The war will end, with new borders drawn based on current occupation. Java, Sumatra, and Borneo will be §Yannexed§! by the side that currently has the most control in the area."  \n  HOL_british_light_support: "[ENG.GetNameDefCap] has agreed to help in the revolution
+INS_escalation_has_1_tt -> Escalation level is higher than §Y1§!
+INS_escalation_has_2_tt -> Escalation level is higher than §Y2§!
+INS_escalation_has_3_tt -> Escalation level is higher than §Y3§!
+INS_escalation_has_4_tt -> Escalation level is higher than §Y4§!
+INS_escalation_has_5_tt -> Escalation level is higher than §Y5§!
+INS_escalation_has_6_tt -> Escalation level is higher than §Y6§!
+INS_escalation_has_7_tt -> Escalation level is higher than §Y7§!
+INS_escalation_has_8_tt -> Escalation level is higher than §Y8§!
+INS_escalation_has_9_tt -> Escalation level is higher than §Y9§!
+INS_escalation_has_10_tt -> Escalation level is at §Y10§!
+INS_escalation_has_less_1_tt -> Escalation level is lower than §Y1§!
+INS_escalation_has_less_2_tt -> Escalation level is lower than §Y2§!
+INS_escalation_has_less_3_tt -> Escalation level is lower than §Y3§!
+INS_escalation_has_less_4_tt -> Escalation level is lower than §Y4§!
+INS_escalation_has_less_5_tt -> Escalation level is lower than §Y5§!
+INS_escalation_has_less_6_tt -> Escalation level is lower than §Y6§!
+INS_escalation_has_less_7_tt -> Escalation level is lower than §Y7§!
+INS_escalation_has_less_8_tt -> Escalation level is lower than §Y8§!
+INS_escalation_has_less_9_tt -> Escalation level is lower than §Y9§!
+INS_relocate_generals_tt -> Transfer §Y80%§! of our Armed Forces to [INS.GetNameDef].
+INS_exile_tt -> §Y[HOL.GetNameDefCap]§! will be able to continue to relocate to §Y[INS.GetNameDef]§!.
+INS_army_located_tt -> §Y[HOL.GetNameDefCap]§! relocates their Armed Forces to us.
+INS_govt_relocated_tt -> §Y[HOL.GetNameDefCap]§! relocates their Government to Java.
+INS_revolution_ended_tt -> The National Revolution has concluded
+INS_the_jewel_in_the_crown -> The Jewel in the Crown
+INS_the_jewel_in_the_crown_desc -> The East Indies are the brightest jewel in the Dutch colonial crown, and we intend to keep it that way. Through the Volksraad, our voice carries to The Hague.
+INS_direct_rule_tt -> Unlocks the §Y$INS_direct_rule_occupation_law$§! occupation law in indonesian princely states.\nEffects:\n     §GIncreases§! factories and resources from the state\n     §RDecreases§! compliance growth\n     §RIncreases§! resistance growth
+INS_local_autonomy_tt -> Unlocks the §Y$INS_local_autonomy_occupation_law$§! occupation law in indonesian princely states.\nEffects:\n     Gives §Ysmall§! boosts all around\n     §GIncreases§! compliance growth
+INS_invest_in_batavian_education_req_tt -> Has successfully completed at least §Y3§! Volksraad missions
+INS_invest_in_batavian_education_req_2_tt -> Has successfully completed at least §Y6§! Volksraad missions
+INS_stronghold_java_tt -> Any Indonesian State: Is not occupied by [ROOT.GetFlag][ROOT.GetNameDefCap]
+INS_resist_occupation -> Resisting Occupation
+INS_resist_occupation_desc -> The anger held by many Indonesians against the Netherlands cannot allow us to fall to Fascism. We must do all that we can to resist the Japanese invasion and defend the motherland.
+INS_local_resistance -> Local Resistance
+INS_local_resistance_desc -> We will establish resistance cells in territory that hasn’t been occupied yet, ensuring that if it does get occupied, we will be prepared to take it back when the time is right.
+INS_stronghold_java -> Stronghold Java
+INS_stronghold_java_desc -> The Indies is a vast archipelago home to many peoples and extremely harsh terrain. Attempting to defend every last island, jungle, and mountain from an army far greater than ours is guaranteed to fail. While it is not easy to abandon our fellow men, evacuating all islands but Java, allowing us to station our entire army there, may be the best move for the nation as a whole.
+INS_silence_nationalists -> Silence the Nationalist Symphasizers
+INS_silence_nationalists_desc -> The Japanese invasion has caused the revolutionary nationalist movements to begin supporting the Japanese invaders due to their shared enemy of the Netherlands. The instability resulting from the invasion has caused these movements to grow at a pace never seen before. If we do not do something about it now, it may grow entirely out of our control.
+INS_east_indies_exile_government -> East Indies Exile Government
+INS_east_indies_exile_government_desc -> Alas, despite our best efforts, the Indies have fallen. We cannot lose hope yet, however. We must continue to do all we can with the limited resources available to us. We may have lost the battle, but we have not yet lost the war.
+INS_establish_nefis -> Establish NEFIS
+INS_establish_nefis_desc -> We will create the Netherlands East Indies Forces Intelligence Service together with the Allies, which we will station in Australia. Through this we will conduct clandestine operations to sabotage the Japanese occupying forces. Through each small victory, we move closer to our return to the homeland.
+INS_evacuate_soldiers_to_australia -> Evacuate Soldiers to Australia
+INS_evacuate_soldiers_to_australia_desc -> We will create a military base near the NEFIS base in Northern Australia. There, we will station the KNIL soldiers who avoided capture during the occupation, allowing us to continue fighting.
+INS_australian_weapons -> Australian Weapons
+INS_australian_weapons_desc -> Clandestine operations are not easy to operate, and we will need proper equipment in order to succeed. We can license Australian factories and repurpose them to produce weapons for the NEFIS.
+INS_defenders_of_homeland -> Defenders of the Homeland
+INS_defenders_of_homeland_tt -> This focus will be automatically completed if the Defenders of the Homeland are established.
+INS_resist_occupation_tt -> This focus will be automatically completed if we get invaded and do not surrender.
+INS_defenders_of_homeland_desc -> The Indies Government has fallen, and a new regime has taken its place. Led by the Nationalists and the Japanese Government, we will create a new army superior to the KNIL, and win the war. However, there is no denying that this alliance between Nationalists and Imperialists is fragile. Will the alliance last, or will it end in bloodshed?
+INS_embrace_co_prosp_sphere -> Embrace the Co-Prosperity Sphere
+INS_embrace_co_prosp_sphere_desc -> We have finally ended Dutch rule, and while we have just replaced one overlord with another, the promises of economic prosperity and pan-asianism are very enticing. We will continue to help the Japanese war effort in order to ensure the Netherlands will never attempt to come back for Indonesia.
+INS_seize_oppurtunity -> Seize the Opportunity
+INS_seize_oppurtunity_desc -> [JAP.GetNameDefCap] is losing, and their occupation government is weak. For the first time in many centuries, we have a real chance of breaking the shackles around Indonesia for good, creating an independent nation. If we do not take this opportunity to declare independence now, there’s no telling how long it will take until we get the next one.
+INS_japanese_resource_infrastructure -> Fund the Greater War Effort
+INS_japanese_resource_infrastructure_desc -> Giving control over our core resource extraction infrastructure to [JAP.GetNameDef] is a necessary step towards winning the war, as it is of utmost priority that [JAP.GetAdjective] units remain fully supplied at all times. [JAP.GetNameDefCap] will also be developing our local infrastructure in order to increase efficiency of resource exports.
+INS_japanese_army_training -> Reform the Army
+INS_japanese_army_training_desc -> We have a lot to learn from our [JAP.GetAdjective] overlords, and now that the KNIL is disbanded, we should create a new army taught by the IJA, ready to defend Indonesia from outside threats.
+INS_governor_general_de_jonge -> Governor General de Jonge
+INS_governor_general_de_jonge_desc -> Bonifacius Cornelis de Jonge is known for ruling with an iron fist, opposing any form of nationalism and often ignoring the wishes of the Volksraad. His rule over the Indies has lasted a long time, and his experience stretches all the way back to the great war where he served as the Indies Minister of War.
+INS_governor_general_tjarda -> Governor General Tjarda
+INS_tjarda_explain_tt -> §YBonifacius Cornelis de Jonge§!'s term has expired, and §YAlidius Tjarda van Starkenborgh Stachouwer§! was chosen as a replacement Governor in September of 1936.
+INS_governor_general_tjarda_desc -> Alidius Tjarda van Starkenborgh Stachouwer has a slightly different vision for the Indies than his predecessor. While he is still opposed to Nationalism, he has slightly more liberal policies and is more willing to listen to the wishes of the Volksraad.
+INS_electrical_investments -> Electrical Investments
+INS_electrical_investments_desc -> Every European industrialized nation has a strong electrical grid to support their industry. If we want to stop relying on material exports and create our own manufacturing industry like them, we should build a high capacity electrical grid that stretches across the entirety of Java.
+INS_reduce_land_taxes -> Reduce Land Taxes
+INS_reduce_land_taxes_desc -> The high taxes imposed on land ownership has made it difficult for native Indonesians to own plantations and businesses. While this has made it easy for us to hold a monopoly on the rubber industry, it has caused economic problems throughout the country. We should consider reducing these taxes to their previous rates, making it possible for smaller, privately owned rubber plantations to operate.
+INS_invest_in_batavian_education -> Investments in Batavian Education
+INS_invest_in_batavian_education_desc -> The Volksraad has made it clear that the will of the Indonesian people is for education to become more accessible, as currently it is primarily Dutch Indonesians and the small group of Indonesian elite who can afford it. In order to comply with the Volksraad motion, we should construct several primary and secondary schools in and around Batavia.
+INS_javanese_education_investments -> Javanese Education Investments
+INS_javanese_education_investments_desc -> In addition to our ongoing project to construct primary and secondary schools, we could build a community college and specialized vocational schools, which would make further education much more accessible for middle-class families.
+INS_allow_local_autonomy -> Allow Local Autonomy
+INS_allow_local_autonomy_desc -> The Vorstenlanden system granting princely states self governance has made nationalist movements much easier to manage and increased the stability of the nation as a whole. We should increase the level of autonomy granted to princely states even more, allowing the government to focus on more important matters.
+INS_direct_rule -> Direct Rule
+INS_direct_rule_desc -> The Vorstenlanden system granting princely states self governance has added a layer of difficulty to administration, requiring additional bureaucracy and wasting time. It is time to abolish the system altogether and enforce direct rule over the entire archipelago.
+INS_seize_oppurtunity_tt -> §Y[JAP.GetFlag][JAP.GetName]§! has been pushed back, and controls less than §Y[?var:temp_states_plus_more]§! states. (currently: §Y[?var:JAP.num_controlled_states]§!)
+INS_seize_oppurtunity_refuse_warn_tt -> §RThe national revolution will begin, which may lead to a war with [HOL.GetNameDef]§!.
+INS_economic_stabilization -> Economic Stabilization
+INS_economic_stabilization_desc -> The great depression and worldwide protectionism has left us economically crippled, and many Indonesians who once worked in the raw materials industry have found themselves without a job. We must take drastic measures and create a labour program where citizens without a job will be assigned one.
+INS_restore_order_in_indies -> Restore Order in the Indies
+INS_restore_order_in_indies_desc -> The rising nationalist movement in the Indies has destabilized several regions, and could grow out of control if we do not stop it. We must restore order and stability as our top priority.
+INS_detangle_supply_chains -> Detangle the Supply Chains
+INS_detangle_supply_chains_desc -> Our export economy requires goods to go through dozens of middlemen until it finally reaches the final destination, each time requiring a fee, a tax, or any other reason for them to take a little off the top. We should work to detangle this mess and control the majority of the supply chain directly.
+INS_prioritize_industrial_growth -> Prioritize Industrial Growth
+INS_prioritize_industrial_growth_desc -> Our export economy is too volatile and keeps us dependent on Dutch collaboration. We should work on establishing a manufacturing industry by building factories across Batavia. We could become the most industrialized country in the pacific
+INS_closer_economic_ties_to_netherlands -> Closer Economic Ties to the Netherlands
+INS_closer_economic_ties_to_netherlands_desc -> We have a lot to learn from our overlord, especially economically. If we were to further integrate our export economy with the Netherlands, we could utilize their infrastructure and connections to secure more lucrative trade deals.
+INS_prioritize_dutch_companies -> Prioritize Dutch Companies
+INS_prioritize_dutch_companies_desc -> Dutch companies such as Shell and Fokker have been the backbone of our economy for centuries now, with our raw material exports being heavily integrated with Shell. This has brought significant wealth to the Indies, and we should prioritize them over smaller, local businesses in order to ensure our cooperation remains strong.
+INS_no_peta_tt -> Indonesia will be unable to cooperate with foreign invaders.
+INS_focus_time_reduce_usa_tt -> §Y$INS_realign_supply_chains$§! will reduce the time needed for this focus by 70 days.
+INS_focus_time_reduce_jap_tt -> §Y$INS_first_come_first_serve$§! will reduce the time needed for this focus by 70 days.
+INS_focus_time_reduce_fokker_tt -> §Y$INSHOL_east_indies_fokker_division$§! will reduce the time needed for this focus by 35 days.
+INS_focus_time_reduce_tjarda_tt -> §Y$INS_governor_general_tjarda$§! will reduce the time needed for this focus by 35 days.
+INS_focus_time_reduce_pki_tt -> §Y$INS_utilize_tan_malakas_militia$§! will reduce the time needed for this focus by 35 days.
+INS_war_ongoing_tt -> Current days are: [?INS_has_gotten_invasion_event:days|Y0]
+INS_has_gotten_invasion_event -> Indonesia has been invaded
+INS_tan_malaka_coup_tt -> PKI Militias will stop plotting a revolution.
+INS_add_revolution_point_tt -> Gets §Y1§! additional militia envoy.
+INS_no_more_political_chaos_tt -> Political Chaos Events will stop triggering.
+INS_is_noncore_but_indonesian_trigger_tt -> Is a cored Indonesian state
+INS_is_noncore_but_indonesian_trigger_tt_NOT -> Is an uncored Indonesian state
+INS_soetardjo_petition_supported_tt -> The Soetardjo Petition has been supported by the Volksraad
+INS_soetardjo_petition_against_tt -> The Soetardjo Petition has divided the Volksraad
+INS_retake_lost_british_states_tt -> Unlocks the ability to launch limited wars against British territories in §YMalaysia§!
+INS_chemical_imports_stolen_tt -> Add §G[?var:ROOT.INS_guns_from_seek_help_focus]§! units of Infantry Equipment if opinion is above §Y75§! when this focus is completed.

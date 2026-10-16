@@ -1,0 +1,373 @@
+ABK | Base:  | Adj:  | Dem: Abkhazia | Fas: Orthodox State of Abkhazia | Com: Abkhaz Independent Commune | Neu: Abkhaz Military Authority
+ADU | Base: Andalusia | Adj: Andalusian | Dem: Islamic Republic of Al-Andalus | Fas: Caliphate of Cordoba | Com: People's Republic of Andalusia | Neu: Al-Andalus
+AFA | Base:  | Adj:  | Dem: Afar Republic | Fas: Empire of the Sands | Com: Revolutionary Democratic Union of Afar | Neu: Sultanate of Aussa
+AFG | Base: Afghanistan | Adj: Afghan | Dem: Republic of Afghanistan | Fas: New Afghan Empire | Com: Democratic Republic of Afghanistan | Neu: Kingdom of Afghanistan
+ALB | Base: Albania | Adj: Albanian | Dem: Albanian Republic | Fas: Greater Albania | Com: Socialist Republic of Albania | Neu: Albanian Kingdom
+ALG | Base: Algeria | Adj: Algerian | Dem: Republic of Algeria | Fas: Algerian Caliphate | Com: Commune of Algeria | Neu: Algeria
+ALT | Base:  | Adj:  | Dem: Altai | Fas: New Genghisid Empire of Altaians and Oirats | Com: Oyrot Soviet Republic | Neu: Confederated Republic of Altai
+ANG | Base: Angola | Adj: Angolan | Dem: Republic of Angola | Fas: Angolan Empire | Com: Democratic People's Republic of Angola | Neu: Angola
+ANU | Base: Ainu | Adj: Ainu | Dem: Ainu Republic | Fas: Greater Ainu Realm | Com: Ainu Agrarian Farmers Republic | Neu: United Ainu Chiefdom
+AOI | Base: Africa Orientale Italiana | Adj:  | Dem: Italo-Ethiopian Federation | Fas: Italian State of East Africa | Com: East African Commune | Neu: Italo-Ethiopian State of East Africa
+ARG | Base: Argentina | Adj: Argentinean | Dem: Argentine Republic | Fas: Argentine League | Com: Argentina Populares | Neu: Argentina
+ARM | Base: Armenia | Adj: Armenian | Dem: Republic of Armenia | Fas: Greater Armenia | Com: Armenian Socialist Republic | Neu: Armenian Independent Territories
+AST | Base: Australia | Adj: Australian | Dem: Australia | Fas: Centralist Australia | Com: Australian People's Republic | Neu: Emu Empire
+ASY | Base: Assyria | Adj: Assyrian | Dem: Assyrian Republic | Fas: Great Assyria | Com: Assyrian Socialist Republic | Neu: Assyria
+ATJ | Base: Aceh | Adj: Acehnese | Dem: Free State of Aceh | Fas: Sublime Aceh Sultanate | Com: Revolutionary State of Aceh | Neu: Kingdom of Aceh Darussalam
+AUS | Base: Austria | Adj: Austrian | Dem: Republic of Austria | Fas: Austria | Com: Socialist Republic of Austria | Neu: Austria
+AZR | Base: Azerbaijan | Adj: Azerbaijani | Dem: Azerbaijan Democratic Republic | Fas: Empire of Fire | Com: Azerbaijan Socialist Republic | Neu: Islamic Republic of Azerbaijan
+BAH | Base: Bahamas | Adj: Bahamian | Dem: Commonwealth of The Bahamas | Fas: Bahamas Unitary State | Com: Bahamian Commune | Neu: Bahamas
+BAN | Base: Bangladesh | Adj: Bangladeshi | Dem: Bangladesh | Fas: State of Bengal | Com: Bengal People's Republic | Neu: Sultanate of Bangladesh
+BAR | Base: Barotseland | Adj: Barotse | Dem: Federal Republic of Barotseland | Fas: Resurgent Empire of Barotseland | Com: People's Independent Communes of Barotseland | Neu: Kingdom of Barotseland
+BAS | Base: Antilles | Adj: Antillian | Dem: Republic of the British Antilles | Fas: Liberated States of the British West Indies | Com: British Antillean Commune | Neu: British Antillean Federation
+BAY | Base: Bavaria | Adj: Bavarian | Dem: Bavarian Free State | Fas: National Socialist State of Bavaria | Com: Bavarian Soviet Republic | Neu: Kingdom of Bavaria
+BEG | Base:  | Adj:  | Dem: Benishangul-Gumuz Republic | Fas: Funjistan | Com: Socialist Union of Funj and Gumuz Peoples | Neu: Benishangul-Gumuz Nation
+BEL | Base: Belgium | Adj: Belgian | Dem: Belgium | Fas: Rexist Belgium | Com: Co-operative of Belgium | Neu: Leopoldian Belgium
+BHR | Base: Bahrain | Adj: Bahraini | Dem: Islamic Republic of Bahrain | Fas: Neo-Usfurid Emirate | Com: Bahraini Soviet Republic | Neu: Kingdom of Bahrain
+BHU | Base: Bhutan | Adj: Bhutanese | Dem: Bhutanese Republic | Fas: Thunder Dragon Empire | Com: Union of Red Dragons | Neu: Bhutan
+BIA | Base: Biafra | Adj: Biafran | Dem: Republic of Biafra | Fas: Greater Igboland | Com: Biafran People's Republic | Neu: Edo Kingdom of Benin
+BLC | Base: Balochistan | Adj: Baloch | Dem: Islamic Republic of Balochistan | Fas: Baloch Khanate | Com: Baloch People's Republic | Neu: Balochistan
+BLI | Base: Bali | Adj: Balinese | Dem: Pulau Dewata Bali | Fas: Wilwatikta | Com: Balinese Union | Neu: Kingdomship of Bali
+BLR | Base: Belarus | Adj: Belarusian | Dem: Republic of Belarus | Fas: White Ruthenia | Com: Belarusian Socialist Republic | Neu: Belarus
+BLZ | Base: Belize | Adj: Belizean | Dem: Belize | Fas: State of Belize | Com: Popular Union of Belize | Neu: Republic of Belize
+BOL | Base: Bolivia | Adj: Bolivian | Dem: Bolivian Republic | Fas: Falangist Bolivia | Com: Bolivia Izquerdista | Neu: Bolivia
+BOS | Base: Bosnia | Adj: Bosnian | Dem: Bosnia-Herzegovina | Fas: Bosnia-Herzegovinan Defensive Cooperative | Com: Socialist Republic of Bosnia | Neu: Bosnia
+BOT | Base: Botswana | Adj: Batswana | Dem: Republic of Botswana | Fas: Greater Botswana | Com: Union of the Batswana People | Neu: Botswana
+BOU | Base: Bougainville | Adj: Bougainvillean | Dem: Republic of Bougainville | Fas: Melanesian State of Bougainville | Com: Revolutionary Socialist Republic of Bougainville | Neu: Republic of the North Solomons
+BRA | Base: Brazil | Adj: Brazilian | Dem: Second Brazilian Republic | Fas: Integralist Brazil | Com: Brazilian Socialist Republic | Neu: Brazil
+BRD | Base: Burundi | Adj: Burundi | Dem: Burundi | Fas: Empire of Burundi | Com: Democratic People's Republic of Burundi | Neu: Kingdom of Burundi
+BRI | Base: Brittany | Adj: Breton | Dem: Breton Free Republic | Fas: National Republic of Brittany | Com: Socialist State of Brittany | Neu: 
+BRM | Base: Burma | Adj: Burmese | Dem: Burma | Fas: State of Burma | Com: Socialist Republic of the Union of Burma | Neu: Fourth Burmese Empire
+BRN | Base: Brunei | Adj: Bruneian | Dem: Brunei Federation | Fas: Grand Bruneian Sultanate | Com: Brunei People's Republic | Neu: Brunei Darussalam
+BSK | Base:  | Adj:  | Dem: Bashkortostan | Fas: Greater Bashkiria | Com: Bashkirian Commune | Neu: Independent Ufa Governorate
+BUK | Base:  | Adj:  | Dem: Bukharan Jadidist Republic | Fas: Bukharan Sufist State | Com: Bukharan People's Republic | Neu: Emirate of Bukhara
+BUL | Base: Bulgaria | Adj: Bulgarian | Dem: Republic of Bulgaria | Fas: Legionnaires Bulgaria | Com: Socialist Republic of Bulgaria | Neu: Bulgaria
+BYA | Base:  | Adj:  | Dem: Republic of Buryatia | Fas: Great Buryat-Mongol Yuan Successor State | Com: Buryat-Mongol People's Union | Neu: The Dharmatic Kingdom of Buryatia
+CAM | Base: Cambodia | Adj: Cambodian | Dem: Republic of Cambodia | Fas: Imperial Khmer | Com: People's Republic of Kampuchea | Neu: Kingdom of Cambodia
+CAN | Base: Canada | Adj: Canadian | Dem: Canada | Fas: Unitary Canada | Com: Canada Popular State | Neu: Free Canadian Republic
+CAR | Base: Central African Republic | Adj: Central African | Dem: Central African Federation | Fas: Central African Empire | Com: Commune of Central Africa | Neu: Central African Republic
+CAT | Base: Catalonia | Adj: Catalan | Dem: Catalonian Free Republic | Fas: Catalan State | Com: Communion of Catalans | Neu: Catalonia
+CAY | Base: Guiana | Adj: Guianan | Dem: Republic of Cayenne | Fas: Cayenne Unitary State | Com: Socialist Republic of French Guiana | Neu: Cayenne
+CBV | Base: Cabo Verde | Adj: Cabo Verdean | Dem: Republic of Cabo Verde | Fas: Archipelagic Empire of Macaronesia | Com: Democratic Republic of Cabo Verde | Neu: Principality of Cape Verde
+CHA | Base: Chad | Adj: Chadian | Dem: Republic of Chad | Fas: Pan-Sahelian Empire | Com: Democratic People's Republic of Chad | Neu: Chad
+CHI | Base: China | Adj: Chinese | Dem: Republic of China | Fas: Reorganized Nationalist China | Com: Chinese People's Republic | Neu: China
+CHL | Base: Chile | Adj: Chilean | Dem: Chile | Fas: Vanguard Chile | Com: Chilean Socialist Republic | Neu: Chilean Republic
+CHM | Base: Champa | Adj: Cham | Dem: Champa Republic | Fas: Greater Champa | Com: Cham People's Council Republic | Neu: Kingdom of Champa
+CHR | Base: Charrúa Nation | Adj: Charrúa | Dem: Charrúa Republic | Fas: Neo-Charrúan Kingdom | Com: Collective Defense Union of Charrúa and Guaraní Peoples | Neu: Charrúa Nation
+CHU | Base:  | Adj:  | Dem: Chuvashia | Fas: Neo Volga-Bulgaria | Com: Chuvash Soviet | Neu: Orthodox Union of Descendants of Suars and Volga Bulgarians
+CIN | Base:  | Adj:  | Dem: Chechen-Ingush Republic | Fas: Caucasian Emirate | Com: Chechen-Ingush People's Republic | Neu: Chechnya-Ingushetia
+CIP | Base: Central Indian Princely States | Adj: Central Indian | Dem: Madhya Pradesh | Fas: Central Indian Empire | Com: Central Indian Commune | Neu: Central Indian Princely States
+CKK | Base:  | Adj:  | Dem: Chukotka Republic | Fas: Chukchi Nation | Com: Chukotkan People's Republic | Neu: Independent Chukchi Territories
+CMR | Base: Cameroon | Adj: Cameroonian | Dem: Republic of Cameroon | Fas: Nationalist Cameroon | Com: Socialist Federation of Cameroon | Neu: Cameroon
+COG | Base: Congo | Adj: Congolese | Dem: Congo-Léopoldville | Fas: Zaire | Com: Democratic Republic of the Congo | Neu: Congolese State
+COL | Base: Colombia | Adj: Colombian | Dem: Colombia | Fas: Nueva Gran Colombia | Com: Colombian Socialist Republic | Neu: Nueva Constitución
+COR | Base: Corsica | Adj: Corsican | Dem: Corsican Republic | Fas: Fraternal Corsica | Com: Revolutionary Corsica | Neu: Duchy of Corsica
+COS | Base: Costa Rica | Adj: Costa Rican | Dem: Costa Rica | Fas: Costa Potente | Com: Costa del Pueblo | Neu: Reino de la Costa
+CPS | Base: Champasak | Adj: Bassac Laotian | Dem: Republic of Champasak | Fas: Empire of Champasak | Com: Bassac People's Democratic Republic | Neu: Kingdom of Champasak
+CRC | Base: Antilles | Adj: Antillean | Dem: Netherlands Antilles | Fas: Empire of the Dutch Antilles | Com: Curative People's Republic | Neu: ABC Republic
+CRI | Base:  | Adj:  | Dem: Crimea | Fas: Crimean Khanate | Com: Crimean People's Republic | Neu: Crimean Regime
+CRO | Base: Croatia | Adj: Croatian | Dem: Republic of Croatia | Fas: Independent State of Croatia | Com: SR Croatia | Neu: Kingdom of Croatia
+CSA | Base: Confederation of America | Adj: Confederate | Dem: Confederacy of American States | Fas: Confederated States of America | Com: Confederacy of American Workers | Neu: Confederation of America
+CUB | Base: Cuba | Adj: Cuban | Dem: Cuba | Fas: Falangist Cuba | Com: Revolutionary Cuba | Neu: Republic of Cuba
+CYP | Base: Cyprus | Adj: Cypriot | Dem: Republic of Cyprus | Fas: Cypriot Empire | Com: Cypriot Democratic People's Republic | Neu: Cyprus
+CZE | Base: Czechoslovakia | Adj: Czechoslovakian | Dem: Czechoslovak Republic | Fas: Czechoslovak State | Com: Czechoslovak Socialist Republic | Neu: Kingdom of Czechoslovakia
+DAG | Base:  | Adj:  | Dem: Mountainous Republic of Dagestan | Fas: Legionary Dagestani State | Com: Dagestani People's Republic | Neu: Second North Caucasian Emirate
+DAH | Base: Benin | Adj: Beninese | Dem: Benin | Fas: Benin Unitary Federation | Com: Socialist Republic of Dahomey | Neu: Dahomey
+DDR | Base: Germany | Adj: East German | Dem: Constitutional Germany | Fas: DNSR | Com: German Democratic Republic | Neu: Kingdom of Prussia
+DEN | Base: Denmark | Adj: Danish | Dem: Denmark | Fas: Danevælde | Com: Danish Civil Union | Neu: Kingdom of Denmark
+DIP | Base: Indian Partisans | Adj: Partisan | Dem:  | Fas:  | Com:  | Neu: 
+DJI | Base: Djibouti | Adj: Djiboutian | Dem: Republic of Djibouti | Fas: Empire of Adal | Com: Djiboutian Socialist Republic | Neu: Djibouti
+DNZ | Base: Danzig | Adj: Danzig | Dem: Free City of Danzig | Fas: Free City of Danzig | Com: Danzig Commune | Neu: 
+DOM | Base: Dominican Republic | Adj: Dominican | Dem: Representative Dominican Republic | Fas: Dominican Republic | Com: Dominican People's Republic | Neu: Santo Domingo
+DON | Base: Don Republic | Adj: Don Cossack | Dem: Don Republic | Fas: Almighty Don Host | Com: Don Soviet Republic | Neu: Don Cossack Host
+ECU | Base: Ecuador | Adj: Ecuadorian | Dem: Ecuador | Fas: Ecuadorian Authority | Com: Equatorial Socialist Republic | Neu: Galapagos Regime
+EGY | Base: Egypt | Adj: Egyptian | Dem: Egypt | Fas: Imperial Kemet | Com: Soviet Republic of the Nile | Neu: Kingdom of Egypt
+ELS | Base: El Salvador | Adj: Salvadoran | Dem: Republic of El Salvador | Fas: El Salvador | Com: Central American Socialist Republic | Neu: Teocracia de El Salvador
+ENG | Base: Britain | Adj: British | Dem: United Kingdom | Fas: British Empire | Com: Union of Britain | Neu: Great Britain
+EQG | Base: Equatorial Guinea | Adj: Equatorial Guinean | Dem: Republic of Equatorial Guinea | Fas: Equatorial Empire of Guinea | Com: Equatorial Commune of Guinea | Neu: Equatorial Guinea
+ERI | Base: Eritrea | Adj: Eritrean | Dem: Eritrea | Fas: Unitary Eritrea | Com: Eritrean Democratic People's Republic | Neu: Eritrean Kingdom
+EST | Base: Estonia | Adj: Estonian | Dem: Republic of Estonia | Fas: Vapsid Estonia | Com: Estonian People's Republic | Neu: Estonia
+ETH | Base: Ethiopia | Adj: Ethiopian | Dem: Federal Democratic Republic of Ethiopia | Fas: Ethiopian Empire | Com: People's Democratic Republic of Ethiopia | Neu: Ethiopia
+EVE | Base: Evenkia | Adj: Evenk | Dem: Evenkia | Fas: East-Siberian State | Com: Evenki Soviet Republic | Neu: Federal State of Evenkia
+EZO | Base: Ezo | Adj: Ezo | Dem: Ezo Republic | Fas: Imperial State of Hokkaido | Com: United Communes of Northern Japan | Neu: Ezo Shogunate
+FER | Base:  | Adj:  | Dem: Far Eastern Republic | Fas: East Siberian Empire | Com: Far Eastern Commune | Neu: Independent State of the Far East
+FIJ | Base: Fiji | Adj: Fijian | Dem: Melanesian Federation | Fas: Empire of the Seas | Com: Pacific Worker State | Neu: Fiji
+FIN | Base: Finland | Adj: Finnish | Dem: Republic of Finland | Fas: White Finland | Com: Socialist Republic of Finland | Neu: Finland
+FOR | Base: Formosa | Adj: Formosan | Dem: Aboriginal Republic of Taiwan | Fas: State of Formosa | Com: Soviet of Workers, Soldiers, and the Landless in Taiwan | Neu: Republic of Taiwan
+FRA | Base: France | Adj: French | Dem: France | Fas: Nation Française | Com: French Commune | Neu: Bourbon France
+FSA | Base: Federation of South Arabia | Adj: Yemeni | Dem: Al-Yaman | Fas: Saba Empire | Com: South Yemen | Neu: Federation of South Arabia
+FSM | Base: Micronesia | Adj: Micronesian | Dem: Federated States of Micronesia | Fas: Second Saudeleur Dynastic Empire | Com: Greater Pohnpei Union State | Neu: 
+GAB | Base: Gabon | Adj: Gabonese | Dem: Gabonese Republic | Fas: Sovereign Gabonese State | Com: Gabonese Commune | Neu: Gabon
+GAL | Base: Galicia and Lodomeria | Adj: Galician | Dem: Republic of Galicia | Fas: State of Galicia | Com:  | Neu: Kingdom of Galicia and Lodomeria
+GAM | Base: The Gambia | Adj: Gambian | Dem: The Gambia | Fas: Nationalist The Gambia | Com: United Worker State of The Gambia | Neu: Islamic Republic of The Gambia
+GAR | Base: Guaraní Nation | Adj: Guaraní | Dem: Guaraní Republic | Fas: Guaraní Empire | Com: Guaraní People's United Communes | Neu: Guaraní Nation
+GBA | Base:  | Adj:  | Dem: Gambela Federation | Fas: Upper-Nilotic National Union | Com: Anuak-Nuer Peoples' Popular State | Neu: Gambela
+GDC | Base: Guangdong | Adj: Cantonese | Dem: Guangdong Independent Republic | Fas: Great Guangdong Clique | Com: Socialist Republic of Canton | Neu: Guangdong Clique
+GDL | Base: Guadeloupe | Adj: Guadeloupean | Dem: Republic of Guadeloupe | Fas: Karukera Empire | Com: Guadeloupean Commune | Neu: Guadeloupe
+GEN | Base: Generalgouvernement | Adj: South Polish | Dem: Bundesstaat Krakau | Fas: Generalgouvernement | Com: Volkskommissariat Krakau | Neu: Grand Duchy of Krakow
+GEO | Base: Georgia | Adj: Georgian | Dem: Republic of Georgia | Fas: Caucasus Authority | Com: Georgian Socialist Republic | Neu: Kingdom of Georgia
+GER | Base: Germany | Adj: German | Dem: German Republic | Fas: German Reich | Com: Socialist Republic of Germany | Neu: German Empire
+GHA | Base: Ghana | Adj: Ghanaian | Dem: Republic of Ghana | Fas: Ghana Empire | Com: Socialist State of Ghana | Neu: Ghana
+GLC | Base: Galicia | Adj: Galician | Dem: Republic of Galiza | Fas: State of Gallaecia | Com: Socialist Galiza | Neu: Galicia
+GNA | Base: Guinea | Adj: Guinean | Dem: Republic of Guinea | Fas: Sovereign State of Guinea | Com: Socialist Republic of Guinea-Conakry | Neu: Guinea
+GNB | Base: Guinea-Bissau | Adj: Bissau-Guinean | Dem: Republic of Guinea-Bissau | Fas: Dictatorial Guinea-Bissau | Com: Guinea-Bissau | Neu: Constitutional State of Guinea-Bissau
+GOT | Base:  | Adj:  | Dem: Swedish Exiles | Fas: The true Sweden | Com: The island of workers strife | Neu: Kingdom of Sweden
+GOW | Base: Gowa | Adj: Makassarese | Dem: Sulawesian Republic | Fas: Sultanate of Sulawesi | Com: Union of Bornean and Sulawesian People's Republics | Neu: Sultanate of Gowa
+GRE | Base: Greece | Adj: Greek | Dem: Hellenic Republic | Fas: Hellenic State | Com: Provisional Democratic Greece | Neu: Kingdom of Greece
+GRN | Base: Greenland | Adj: Kalaallit | Dem: Greenland | Fas: East Inuit Realm | Com: People's Community of Kalaallit Nunaat | Neu: Kingdom of Greenland
+GSM | Base: Gansu Ma | Adj: Gansu Ma | Dem: Gansu Hui Republic | Fas: Gansu Ma Free State | Com: People's Republic of Ma | Neu: Gansu Ma
+GUA | Base: Guatemala | Adj: Guatemalan | Dem: Republic of Guatemala | Fas: Guatemalan Corporate State | Com: Union Guatemala | Neu: Guatemala
+GUM | Base: Mariana Islands | Adj: Mariana | Dem: Mariana Federation | Fas: Unitary Island State | Com: United Communes of Mariana | Neu: 
+GXC | Base: Guangxi | Adj: Guangxi | Dem: Guangxi Independent Republic | Fas: Third Guangxi Clique | Com: Socialist Republic of the Zhu Jiang | Neu: Guangxi Clique
+GYA | Base: Guyana | Adj: Guyanese | Dem: Co-operative Republic of Guyana | Fas: Great Guyana | Com: Indo-Guyanese Union | Neu: Guyana
+HAI | Base: Haiti | Adj: Haitian | Dem: Haiti | Fas: Third Empire of Haiti | Com: Haiti Socialist Republic | Neu: Kingdom of Haiti
+HAN | Base: Hannover | Adj: Hanoverian | Dem: Free State of Hanover | Fas: Greater Hanover | Com: People's Republic of Lower Saxony | Neu: Kingdom of Westphalia
+HAR | Base:  | Adj:  | Dem: Harari Republic | Fas: Empire of Harar | Com: Harari People's Socialist Republic | Neu: Emirate of Harar
+HAW | Base: Hawai'i | Adj: Hawai'ian | Dem: Hawai'ian Republic | Fas: Hawai'ian Empire | Com: Great Ohana Commonwealth | Neu: Kingdom of Hawai'i
+HBC | Base: Hebei-Chahar | Adj: Hebei-Chahar | Dem: Hebei-Chahar Republic | Fas: Hebei-Chahar Free State | Com: Hebei-Chahar Soviet Republic | Neu: Hebei-Chahar
+HES | Base: Hesse | Adj: Hessian | Dem: People's State of Hesse | Fas: Groß-Hessen | Com: People's Republic of Hesse | Neu: Grand Duchy of Hesse
+HOL | Base: Netherlands | Adj: Dutch | Dem: Netherlands | Fas: Dutch Rijk | Com: People's United Provinces | Neu: Kingdom of Netherlands
+HON | Base: Honduras | Adj: Honduran | Dem: Honduras | Fas: Corporatist Honduras | Com: Honduran Commonwealth | Neu: Atlas Honduras
+HRZ | Base: Herzegovina | Adj: Herzegovinan | Dem: Republic of Herzegovina | Fas: New Duchy of Saint Sava | Com: Socialist Republic of Herzegovina | Neu: 
+HUN | Base: Hungary | Adj: Hungarian | Dem: Republic of Hungary | Fas: Hungary | Com: Hungarian People's Republic | Neu: Kingdom of Hungary
+HYD | Base: Hyderabad | Adj: Hyderabadi | Dem: Telangana | Fas: Deccan Iron State | Com: Red Republic of South India | Neu: Hyderabad
+IAS | Base: Isthmo-Amerindia | Adj: Isthmo-Amerindian | Dem: Isthmo-Amerindian Federation | Fas: Great Isthmo-Amerindian Nation | Com: Isthmo-Amerindian Soviet Socialist Republic | Neu: Isthmo-Amerindian State
+ICE | Base: Iceland | Adj: Icelandic | Dem: Iceland | Fas: Islandsveldi | Com: Worker's Republic of Iceland | Neu: Island
+IMO | Base: Imamate of Oman | Adj: Hajar Omani | Dem: Elective Imamate of Oman | Fas: Neo-Omani Empire | Com: Arab Socialist Republic of Oman | Neu: Imamate of Oman
+INC | Base: Neo-Inca State | Adj: Incan | Dem: Neo-Inca State | Fas: Great Inca Empire | Com: Union of People's of Tawantinsuyu | Neu: Inca Empire
+INS | Base: Indonesia | Adj: Indonesian | Dem: Republic of Indonesia | Fas: Republic of Indonesia | Com: People's Democratic Front | Neu: Republic of Indonesia
+INU | Base: Inuit | Adj: Inuit | Dem: Federated Inuit Republics | Fas: Neo-Thule State | Com: Inuit Union | Neu: United Inuit States
+IRE | Base: Ireland | Adj: Irish | Dem: Ireland | Fas: Resurrectionist Ireland | Com: Irish People's Union | Neu: Free Ireland
+IRQ | Base: Iraq | Adj: Iraqi | Dem: Iraqi Republic | Fas: Al-Muthanna Iraq | Com: Iraqi People's State | Neu: Kingdom of Iraq
+ISR | Base: Israel | Adj: Israeli | Dem: Israel | Fas: Israeli Totalitariat | Com: Levantine Union | Neu: Free State of Jerusalem
+ITA | Base: Italy | Adj: Italian | Dem: Italian Republic | Fas: Italy | Com: Italian Union | Neu: Kingdom of Italy
+ITZ | Base: Itza State | Adj: Itza | Dem: Itza Federation | Fas: South-West Mayan Empire | Com: Chichén Itzá Collective | Neu: Itza Nation
+IVO | Base: Côte d'Ivoire | Adj: Ivorian | Dem: République de Côte d'Ivoire | Fas: Presidential Dictatorship of Côte d'Ivoire | Com: Ivory Commune | Neu: Côte d'Ivoire
+JAM | Base: Jamaica | Adj: Jamaican | Dem: Jamaica | Fas: Xaymacan Empire | Com: Commune of Jamaica | Neu: Jamaican Principality
+JAN | Base: Jan Mayen | Adj: Polar | Dem: Jan Mayen | Fas: Jan Mayen | Com: Jan Mayen | Neu: Jan Mayen
+JAP | Base: Japan | Adj: Japanese | Dem: State of Japan | Fas: Imperial Japan | Com: Japanese People's Republic | Neu: Japanese Empire
+JOR | Base: Jordan | Adj: Jordanian | Dem: Jordan | Fas: Empire of Jordan | Com: Red Jordan | Neu: Kingdom of Jordan
+KAL | Base:  | Adj:  | Dem: Kalmykia | Fas: Great Horde | Com: Kalmyk Socialist Workers Union | Neu: Kalmyk Khaganate
+KAR | Base:  | Adj:  | Dem: Karelia | Fas: Karelo-Finnic Unitary State | Com: Karelian People's Republic | Neu: Karelo-Finnish Military Junta
+KAS | Base: Kashmir | Adj: Kashmiri | Dem: Jammu and Kashmir | Fas: Sultanate of Kashmir | Com: Commune of Kashmir and Jammu | Neu: Kashmir
+KAT | Base: Katanga | Adj: Katangese | Dem: Republic of Katanga | Fas: Katanga Free State | Com: Katangese People's Republic | Neu: State of Katanga
+KAZ | Base: Kazakhstan | Adj: Kazakh | Dem: Kazakhstan | Fas: Alash Orda | Com: Kazakh Soviet Socialist Republic | Neu: Kazakh Khanate
+KBK | Base:  | Adj:  | Dem: Federal Republic of Kabardins and Karachay-Balkars | Fas: Circassian Realm | Com: Kabardino-Balkar Soviet Republic | Neu: Kabardino-Balkarian Mountainous Republic
+KEN | Base: Kenya | Adj: Kenyan | Dem: Republic of Kenya | Fas: Greater Kenyan Empire | Com: People's Republic of Kenya | Neu: Kenya
+KHA | Base:  | Adj:  | Dem: Republic of Khakassia | Fas: Neo Yensei-Kyrgyz Khaganate | Com: Khakas Soviet Republic | Neu: Khaganate of the Northern Dragon
+KHI | Base:  | Adj:  | Dem: Khivan Jadidist Republic | Fas: Basmachi State of Khiva | Com: Khorezm People's Republic | Neu: New Khivan Khanate
+KHL | Base: Khalistan | Adj: Sikh | Dem: Republic of Khalistan | Fas: Sikh Empire | Com: Socialist Khalistan | Neu: Khalistan
+KHM | Base: Khotan Ma | Adj: Khotan Ma | Dem: Khotan Hui Republic | Fas: Khotan Ma Free State | Com: People's Republic of Ma | Neu: Khotan Ma
+KKP | Base:  | Adj:  | Dem: Republic of Karakalpakstan | Fas: Karakalpak National State | Com: Karakalpak Socialist Union-State | Neu: Karakalpakstan
+KLT | Base: Kalat | Adj: Brahui | Dem: Republic of Kalat | Fas: Great Khanate of Kalat | Com: Free Peoples Democratic Republic of Kalat | Neu: Khanate of Kalat
+KOL | Base: Kolhapur and Deccan States | Adj: Kolhapuri | Dem: Kerala | Fas: West Indian Empire | Com: Deccan People's States | Neu: Kolhapur and Deccan States
+KOM | Base:  | Adj:  | Dem: Komi Republic | Fas: New Permian State | Com: Komi Socialist State | Neu: Komi State
+KOR | Base: Korea | Adj: Korean | Dem: Korea | Fas: Independent Korean Governorate | Com: Democratic People's Republic of Korea | Neu: People's Republic of Korea
+KOS | Base: Kosovo | Adj: Kosovan | Dem: Republic of Kosovo | Fas: Dardania | Com: Kosovo Communist League | Neu: 
+KSH | Base: Kashubia | Adj: Kashubian | Dem:  | Fas: Kashubian Free State | Com: Kashubian Commune | Neu: Duchy of Pomeralia-Gdansk
+KUB | Base: Kuban People's Republic | Adj: Kuban Cossack | Dem: Kuban People's Republic | Fas: Almighty Kuban Host | Com: Kuban-Black Sea Soviet Republic | Neu: Kuban National Republic
+KUM | Base: Kumul Khanate | Adj: Kumullik | Dem: Kumul Republic | Fas: Chagatai Khanate | Com: Turco-Mongol Federative People's Republic | Neu: Kumul Khanate
+KUR | Base: Kurdistan | Adj: Kurdistani | Dem: Kurdistan | Fas: Xoybun Kurdistan | Com: Socialist Republic of Kurdistan | Neu: Kingdom of Kurdistan
+KUW | Base: Kuwait | Adj: Kuwaiti | Dem: Kuwait | Fas: Dictatorial Kuwait | Com: People's Republic of Kuwait | Neu: Kingdom of Kuwait
+KYR | Base: Kyrgyzstan | Adj: Kirghiz | Dem: Kyrgyzstan | Fas: Neo-Kyrgyz Khanate | Com: Kirghiz Soviet Socialist Republic | Neu: Kirghizia
+LAO | Base: Laos | Adj: Laotian | Dem: Republic of Laos | Fas: Kingdom of Luang Prabang | Com: Lao People's Democratic Republic | Neu: Kingdom of Laos
+LAT | Base: Latvia | Adj: Latvian | Dem: Republic of Latvia | Fas: Thunder Cross Latvia | Com: Latvian People's Republic | Neu: Latvia
+LBA | Base: Libya | Adj: Libyan | Dem: Libyan Electorate | Fas: Africa Nova | Com: Libyan Socialist Republic | Neu: Kingdom of Libya
+LBV | Base: Kingdom of Lombardy-Venetia | Adj:  | Dem: United Republics of Lombardy and Venetia | Fas: Most Serene Republic of Cisalpina | Com: People's United Provinces of Transpadania | Neu: Kingdom of Lombardy-Venetia
+LEB | Base: Lebanon | Adj: Lebanese | Dem: Lebanon | Fas: Lebanon Free State | Com: Lebanese Socialist Republic | Neu: Lebanon
+LIB | Base: Liberia | Adj: Liberian | Dem: Liberia | Fas: Reorganized Liberian Free State | Com: Liberian Commune | Neu: Independent Liberia
+LIT | Base: Lithuania | Adj: Lithuanian | Dem: Republic of Lithuania | Fas: Iron Wolf Lithuania | Com: Lithuanian People's Republic | Neu: Lithuania
+LUX | Base: Luxembourg | Adj: Luxembourg | Dem: Luxembourg | Fas: Volksdeutsche Luxembourg | Com: Independent Luxembourg Commune | Neu: Grand Duchy of Luxembourg
+MAC | Base: Macedonia | Adj: Macedonian | Dem: Republic of Macedonia | Fas: Greater Macedonia | Com: Macedonian People's Republic | Neu: Macedonia
+MAD | Base: Madagascar | Adj: Malagasy | Dem: Madagascar | Fas: Empire of Imerina | Com: Malagasy People's Republic | Neu: Republic of Madagascar
+MAL | Base: Malaysia | Adj: Malaysian | Dem: Republic of Malaysia | Fas: Malaysia | Com: Malay People's Republic | Neu: Republic of Malaysia
+MAN | Base: China | Adj: Manchu | Dem: Manchu Republic | Fas: Qing China | Com: Free Democratic People's Republic of Manchukuo | Neu: Qing China
+MAY | Base: Maya | Adj: Maya | Dem: Maya Republic | Fas: Mesoamerican Empire of the Maya | Com: Maya People's Republic | Neu: Maya State
+MEK | Base: Mecklenburg | Adj: Mecklenburg | Dem: Free State of Mecklenburg | Fas: Groß-Mecklenburg | Com: People's State of Mecklenburg | Neu: Grand Duchy of Mecklenburg
+MEL | Base:  | Adj:  | Dem: Mari El | Fas: Realm of the Great God of Light | Com: Mari Independent Farmers Commune | Neu: Free Mari National Republic
+MEN | Base: Mengkukuo | Adj: Mengjiangi | Dem: Republic of Mengjiang | Fas: Mengkukuo | Com: People's Mengjiang | Neu: Mengjiang
+MEX | Base: Mexico | Adj: Mexican | Dem: United Mexican States | Fas: Mexican Junta | Com: Mexican Soviet Republic | Neu: Mexico
+MIS | Base: Mosquitia | Adj: Miskito | Dem: Mosquitia | Fas: Great Mosquitia | Com: Soviet Socialist Republic of the Mosquito Coast | Neu: Mosquito Kingdom
+MLD | Base: Maldives | Adj: Maldivian | Dem: Maldives | Fas: Resurgent Maldives | Com: Maldive Commune | Neu: Sultanate of the Maldives
+MLI | Base: Mali | Adj: Malian | Dem: Republic of Mali | Fas: Resurgent Mali Empire | Com: Malian Socialist Worker State | Neu: Mali
+MLT | Base: Malta | Adj: Maltese | Dem: Malta | Fas: Tenth Crusade | Com: Malta Commune | Neu: Sovereign Military Order of Malta
+MLW | Base: Malawi | Adj: Malawian | Dem: Republic of Malawi | Fas: Empire of Malawi | Com: Communist Malawi | Neu: Malawi
+MNT | Base: Montenegro | Adj: Montenegrin | Dem: Republic of Montenegro | Fas: Independent Montenegro | Com: Socialist Republic of Montenegro | Neu: Montenegro
+MOL | Base: Moldova | Adj: Moldovan | Dem: Moldova | Fas: Bessarabia | Com: Moldavian Socialist Republic | Neu: Moldavia
+MON | Base: Mongolia | Adj: Mongolian | Dem: Mongolian Parliamentary Republic | Fas: New Mongol Empire | Com: Mongolian People's Republic | Neu: Great Mongolian State
+MOR | Base: Morocco | Adj: Moroccan | Dem: Morocco | Fas: Maghreb Empire | Com: Moroccan People's Republic | Neu: Kingdom of Morocco
+MPU | Base: Manipur | Adj: Manipuri | Dem: Manipur | Fas: Kingdom of Manipur | Com: Manipur People's Republic | Neu: Manipur
+MRT | Base: Mauritania | Adj: Mauritanian | Dem: Republic of Mauritania | Fas: Caliphate of Mauritania | Com: Revolutionary Mauritania | Neu: Mauritania
+MYS | Base: Mysore | Adj: Mysorean | Dem: Mysuru | Fas: State of Greater Karnataka | Com: Egalitarian Mysore | Neu: Mysore
+MZB | Base: Mozambique | Adj: Mozambican | Dem: Republic of Mozambique | Fas: Great Mozambique | Com: People's Republic of Mozambique | Neu: Mozambique
+NAH | Base: Nahua Nation | Adj: Nahua | Dem: South Nahua Republic | Fas: Nahua Empire | Com: Nahua People's Republic | Neu: Nahua Nation
+NAV | Base: Basque Country | Adj: Basque | Dem: Basque Country | Fas: Baskonia | Com: Socialist Euzkal Herria | Neu: Kingdom of Navarra
+NEN | Base:  | Adj:  | Dem: Nenetsia | Fas: Greater Nenets State | Com: Nenets People's Republic | Neu: Nenets Migratory State
+NEP | Base: Nepal | Adj: Nepali | Dem: Federal Republic of Nepal | Fas: Gorkha Empire | Com: Federal Democratic Republic of Nepal | Neu: Nepal
+NGA | Base: Nigeria | Adj: Nigerian | Dem: Republic of Nigeria | Fas: Nigerian Military State | Com: Socialist Nigerian Federation | Neu: Nigeria
+NGR | Base: Niger | Adj: Nigerien | Dem: Republic of the Niger | Fas: The Niger Ascendancy | Com: Nigerien People's Republic | Neu: Niger
+NIC | Base: Nicaragua | Adj: Nicaraguan | Dem: Republic of Nicaragua | Fas: Nicaraguan Junta | Com: Sandinista Nicaragua | Neu: Nicaragua
+NIR | Base: Northern Ireland | Adj: North Irish | Dem: Northern Ireland | Fas: Ulster Nation | Com: Commune in the North of Ireland | Neu: Ulster
+NMB | Base: Namibia | Adj: Namibian | Dem: Namibia | Fas: Namib Empire | Com: Democratic People's Republic of Namibia | Neu: State of South West Africa
+NOA | Base:  | Adj:  | Dem: North Ossetia-Alania | Fas: Kingdom of Alania | Com: Alanian People's Republic | Neu: North Ossetian Patriarchy
+NOR | Base: Norway | Adj: Norwegian | Dem: Norway | Fas: Norges Nasjonale Regjering | Com: Norwegian People's Republic | Neu: 
+NWF | Base: North-Western Frontier Provinces | Adj: Pashtun | Dem: Khyber Pakhtunkhwa | Fas: Pashtunistan Empire | Com: The Free Republic of Pashtunistan | Neu: North-Western Frontier Provinces
+NXM | Base: Ningxia Ma | Adj: Ningxia Ma | Dem: Ningxia Hui Republic | Fas: Ningxia Ma Free State | Com: People's Republic of Ma | Neu: Ningxia Ma
+NZL | Base: New Zealand | Adj: New Zealand | Dem: New Zealand | Fas: Kiwi Empire | Com: People's Republic of Aotearoa | Neu: Nova Zeelandia Republic
+OCC | Base: Occitania | Adj: Occitan | Dem: Occitania | Fas: Imperialist Occitania | Com: Worker's Commune of Occitania | Neu: Kingdom of Aquitaine
+OKN | Base: Okinawa | Adj: Okinawan | Dem: Okinawa | Fas: Resurgent Empire of Ryukyu | Com: United Communes of Southern Japan | Neu: Ryukyu Kingdom
+OMA | Base: Oman | Adj: Omani | Dem: Republic of Oman | Fas: Omani Empire | Com: People's Republic of Oman | Neu: Sultanate of Muscat and Oman
+ORO | Base:  | Adj:  | Dem: Oromo Republic | Fas: Greater Oromo Territories | Com: Democratic Republic of Oromia | Neu: Oromia
+OVO | Base:  | Adj:  | Dem: Ostyak-Vogul National Republic | Fas: Khanate of Sibir | Com: Ostyak-Vogul Soviet Republic | Neu: Ob-Ugric State
+PAK | Base: Pakistan | Adj: Pakistani | Dem: Republic of Pakistan | Fas: New Mughal Empire | Com: People's Republic of Pakistan | Neu: Pakistan
+PAL | Base: Palestine | Adj: Palestinian | Dem: Palestine | Fas: Jund Palestine | Com: People's Socialist Palestine | Neu: Free Mandate of Palestine
+PAN | Base: Panama | Adj: Panamanian | Dem: Panama | Fas: Patriotic Communal Panama | Com: United Communes of Panama | Neu: Costas Hermanas
+PAP | Base: Papal States | Adj:  | Dem: Roman Republic | Fas: Kingdom of God | Com: Roman People's Republic | Neu: Papal States
+PAR | Base: Paraguay | Adj: Paraguayan | Dem: Republic of Paraguay | Fas: Provisional Republic of Paraguay | Com: Paraguay | Neu: Paraguay
+PER | Base: Iran | Adj: Iranian | Dem: Republic of Iran | Fas: New Persian Empire | Com: Iranian Communist Authority | Neu: Iran
+PHI | Base: Philippines | Adj: Philippine | Dem: Commonwealth of the Philippines | Fas: Philippine State | Com: Community of the Philippines | Neu: Philippines
+PLU | Base: Palau | Adj: Palauan | Dem: Republic of Palau | Fas: South Seas Empire | Com: Palauan Soldiers' Council | Neu: Palau
+PNG | Base: Papua | Adj: Papuan | Dem: Papua New Guinea | Fas: Papua | Com: United Papuan Communes | Neu: Federation of Papuan Peoples
+POK | Base: Pontianak | Adj: Dayak | Dem: Dayak Republic of West Borneo | Fas: Great Mempawah Kingdom | Com: Soviet Republic of West Kalimantan | Neu: Pontianak Kadriyah Sultanate
+POL | Base: Poland | Adj: Polish | Dem: Polish Republic | Fas: Falangist Poland | Com: Polish People's Republic | Neu: Poland
+POR | Base: Portugal | Adj: Portuguese | Dem: Portuguese Republic | Fas: Greater Portugal | Com: Maximalist Portugal | Neu: Portugal
+PRC | Base: China | Adj: Chinese | Dem: Chinese Republic | Fas: Chinese Empire | Com: Chinese Soviet Republic | Neu: China
+PRE | Base: Prussia | Adj: Prussian | Dem: Free State of Prussia | Fas: Prussian Reich | Com: Democratic Republic of Prussia | Neu: Kingdom of Prussia
+PRU | Base: Peru | Adj: Peruvian | Dem: Republic of Peru | Fas: Peru | Com: Revolutionary Peru | Neu: Peruvian Independent State
+PSH | Base: Pashtunistan | Adj: Pashtun | Dem: Republic of Pashtunistan | Fas: Islamic State of Pashtunistan | Com: Workers Republic of Pashtunistan | Neu: Emirate of Pashtunistan
+PSR | Base:  | Adj:  | Dem: Second Philippine Republic | Fas: Second Philippine Republic | Com: Second Philippine People's Republic | Neu: Second Philippine Republic
+PUE | Base: Puerto Rico | Adj: Puerto Rican | Dem: Puerto Rico | Fas: Viceroyalty of Boriquén | Com: Taino Republic | Neu: Porto Rico
+QAT | Base: Qatar | Adj: Qatari | Dem: Republic of Qatar | Fas: Unitary State of Qatar | Com: Qatari Commune | Neu: Qatar
+QEM | Base:  | Adj:  | Dem: Qwara Republic | Fas: Futurist Union of Qemant and Qwaran People  | Com: Begemder Democratic Republic of People's Unity | Neu: Qemant State
+QUE | Base: Québec | Adj: Québécois | Dem: Québec | Fas: Canadien-Métis First Nation State | Com: Québec People's Republic | Neu: Patriote Québec
+RAA | Base: Reichskommissariat Australasien | Adj: Australasian | Dem: Bundesstaat Australasien | Fas: Reichskommissariat Australasien | Com: Volkskommissariat Australasien | Neu: Grand Duchy of Australasia
+RAJ | Base: India | Adj: Indian | Dem: India | Fas: Free India | Com: Indian People's Republic | Neu: India
+RAN | Base: Reichskommissariat Anden | Adj: Andean | Dem: Bundesstaat Anden | Fas: Reichskommissariat Anden | Com: Volkskommissariat Anden | Neu: Grand Duchy of the Andes
+RAP | Base: Rapa Nui | Adj: Rapa Nui | Dem: Rapa Nui Republic | Fas: East-Polynesian Empire | Com: Sailor's Commune of Rapa Nui | Neu: Kingdom of Rapa Nui
+RAR | Base: Reichskommissariat Arabien | Adj: Arabian | Dem: Bundesstaat Arabien | Fas: Reichskommissariat Arabien | Com: Volkskommissariat Arabien | Neu: Grand Duchy of Arabia
+RAS | Base: Madras States | Adj: Madrasi | Dem: Tamil Nadu | Fas: Vijayanagara Empire | Com: The Democratic Republic of Madras | Neu: Madras Princely States
+RCG | Base: Congo | Adj: Congolese | Dem: Republic of the Congo | Fas: The Congo | Com: Democratic Republic of the West Congo | Neu: Congo-Brazzaville
+RCO | Base: Reichskommissariat Kolumbus | Adj: Columbian | Dem: Bundesstaat Kolumbus | Fas: Reichskommissariat Kolumbus | Com: Volkskommissariat Kolumbus | Neu: Grand Duchy of the Grand Caribbean
+RDS | Base: Regno del Sud | Adj: Italian | Dem:  | Fas:  | Com:  | Neu: 
+RGB | Base: Reichskommissariat Großbritannien | Adj: British | Dem: Bundesstaat Großbritannien | Fas: Reichskommissariat Großbritannien | Com: Volkskommissariat Großbritannien | Neu: Grand Duchy of Great Britain
+RHD | Base: Reichskommissariat Hindustan | Adj: Hindustani | Dem: Bundesstaat Hindustan | Fas: Reichskommissariat Hindustan | Com: Volkskommissariat Hindustan | Neu: Grand Duchy of Hindustan
+RHI | Base: Rhineland | Adj: Rhenish | Dem: Rhenish Republic | Fas: Rhenish Reich | Com: People's Independent Communes of the Rhine | Neu: Rheinland-Pfalz
+RIF | Base:  | Adj:  | Dem: Republic of the Rif | Fas: Empire of the Rif | Com: People's Republic of the Rif | Neu: Republic of the Rif
+RIG | Base: Republic of the Rio Grande | Adj: Riograndese | Dem: Republic of the Rio Grande | Fas: Synarchist Republic of the Rio Grande | Com: People's Commonwealth of the Rio Grande | Neu: Cristero Republic of the Rio Grande
+RJP | Base: Rajputana | Adj: Rajput | Dem: Rajasthan | Fas: Kingdom of the Thar Dunes | Com: Red Desert Free State | Neu: Rajputana
+RKA | Base: Reichskommissariat Mittelafrika | Adj: Central African | Dem: Bundesstaat Mittelafrika | Fas: Reichskommissariat Mittelafrika | Com: Volkskommissariat Mittelafrika | Neu: Grand Duchy of Central Africa
+RKB | Base: Reichskommissariat Belgien-Nordfrankreich | Adj: Belgian | Dem: Bundesstaat Belgien-Nordfrankreich | Fas: Reichskommissariat Belgien-Nordfrankreich | Com: Volkskommissariat Belgien-Nordfrankreich | Neu: Grand Duchy of Belgium and Northern France
+RKC | Base: Reichskommissariat Balkan | Adj: Balkan | Dem: Bundesstaat Balkan | Fas: Reichskommissariat Balkan | Com: Volkskommissariat Balkan | Neu: Grand Duchy of the Balkans
+RKG | Base: Reichskommissariat Norwegen | Adj: Norwegian | Dem: Bundesstaat Norwegen | Fas: Reichskommissariat Norwegen | Com: Volkskommissariat Norwegen | Neu: Grand Duchy of Norway
+RKH | Base: Protektorat Böhmen und Mähren | Adj: Bohemian | Dem: Bundesstaat Böhmen-Mähren | Fas: Protektorat Böhmen-Mähren | Com: Volkskommissariat Böhmen-Mähren | Neu: Grand Duchy of Bohemia and Moravia
+RKI | Base: Reichskommissariat Iberien | Adj: Iberian | Dem: Bundesstaat Iberien | Fas: Reichskommissariat Iberien | Com: Volkskommissariat Iberien | Neu: Grand Duchy of Iberia
+RKK | Base: Reichskommissariat Kaukasien | Adj: Caucasian | Dem: Bundesstaat Kaukasien | Fas: Reichskommissariat Kaukasien | Com: Volkskommissariat Kaukasien | Neu: Grand Duchy of the Caucasus
+RKL | Base: Reichskommissariat Ural | Adj: Uralic | Dem: Bundesstaat Ural | Fas: Reichskommissariat Ural | Com: Volkskommissariat Ural | Neu: Grand Duchy of the Urals
+RKM | Base: Reichskommissariat Moskowien | Adj: Muscovite | Dem: Bundesstaat Moskowien | Fas: Reichskommissariat Moskowien | Com: Volkskommissariat Moskowien | Neu: Grand Duchy of Muscovy
+RKN | Base: Reichskommissariat Niederlande | Adj: Dutch | Dem: Bundesstaat Niederlande | Fas: Reichskommissariat Niederlande | Com: Volkskommissariat Niederlande | Neu: Grand Duchy of the Netherlands
+RKO | Base: Reichskommissariat Ostland | Adj: Baltic | Dem: Bundesstaat Ostland | Fas: Reichskommissariat Ostland | Com: Volkskommissariat Ostland | Neu: Grand Duchy of Ostland
+RKT | Base: Reichskommissariat Turkestan | Adj: Turkic | Dem: Bundesstaat Turkestan | Fas: Reichskommissariat Turkestan | Com: Volkskommissariat Turkestan | Neu: Grand Duchy of Turkestan
+RKU | Base: Reichskommissariat Ukraine | Adj: Ukrainian | Dem: Bundesstaat Ukraine | Fas: Reichskommissariat Ukraine | Com: Volkskommissariat Ukraine | Neu: Grand Duchy of Ukraine
+RKV | Base: Reichskommissariat Klein-Venedig | Adj: Lesser Venetian | Dem: Bundesstaat Klein-Venedig | Fas: Reichskommissariat Klein-Venedig | Com: Volkskommissariat Klein-Venedig | Neu: Grand Duchy of Klein-Venedig
+RNA | Base: Reichskommissariat Nordafrika | Adj: North African | Dem: Bundesstaat Nordafrika | Fas: Reichskommissariat Nordafrika | Com: Volkskommissariat Nordafrika | Neu: Grand Duchy of North Africa
+RNG | Base: China | Adj: Chinese | Dem: Provisional Government of the Republic of China | Fas: Reorganized National Government of the Republic of China | Com: Enlightened Chinese People's Republic | Neu: Reformed Government of the Republic of China
+ROA | Base: Reichskommissariat Ostasien | Adj: East Asian | Dem: Bundesstaat Ostasien | Fas: Reichskommissariat Ostasien | Com: Volkskommissariat Ostasien | Neu: Grand Duchy of East Asia
+ROM | Base: Romania | Adj: Romanian | Dem: Romania | Fas: Legionary Romania | Com: Socialist Republic of Romania | Neu: Kingdom of Romania
+RSI | Base: Repubblica Sociale Italiana | Adj: Italian | Dem:  | Fas:  | Com:  | Neu: 
+RUS | Base: Reichskommissariat Nordamerika | Adj: North American | Dem: Bundesstaat Nordamerika | Fas: Reichskommissariat Nordamerika | Com: Volkskommissariat Nordamerika | Neu: Grand Duchy of North America
+RUT | Base: Carpatho-Ukraine | Adj: Carpatho-Ukrainian | Dem:  | Fas:  | Com:  | Neu: 
+RWA | Base: Rwanda | Adj: Rwandan | Dem: Republic of Rwanda | Fas: Rwanda Empire | Com: Rwanda Commune | Neu: Rwanda
+SAB | Base: Sabah | Adj: Sabahan | Dem: Republic of Sabah | Fas: Grand State of North Borneo | Com: Northeast Kalimantan Commune | Neu: State of Sabah
+SAF | Base: South Africa | Adj: South African | Dem: South Africa | Fas: Nationalist South Africa | Com: Cape Commune | Neu: Unitary South Africa
+SAM | Base: Samoa | Adj: Samoan | Dem: Independent State of Samoa | Fas: Manaist State of Samoa | Com: Samoan Peoples Republic | Neu: 
+SAR | Base: Sarawak | Adj: Sarawak | Dem: Sarawak Republic | Fas: North Borneo Empire | Com: North Kalimantan Commune | Neu: Raj of Sarawak
+SAU | Base: Central Arabia | Adj: Arabian | Dem: Arabian Republic | Fas: Arabic Empire | Com: Republic of the Arabian Assembly | Neu: Saudi Arabia
+SAX | Base: Saxony | Adj: Saxon | Dem: Free State of Saxony | Fas: Saxon Empire | Com: Democratic Republic of Saxony | Neu: Kingdom of Saxony
+SCO | Base: Scotland | Adj: Scottish | Dem: Scotland | Fas: Caledonia | Com: Commonwealth of Alba | Neu: Kingdom of Scotland
+SDL | Base: Sudetenland | Adj: Sudeten | Dem: Free Sudetenland | Fas: Sudetenland German Free Corps | Com: Sudetenland Free Workers | Neu: 
+SEN | Base: Senegal | Adj: Senegalese | Dem: Senegal | Fas: Senegal Dictatorial State | Com: Democratic People's Republic of Senegal | Neu: State of Jolof
+SER | Base: Serbia | Adj: Serbian | Dem: Serbia | Fas: Serbian Empire | Com: Socialist Republic of Serbia | Neu: Serbia
+SHL | Base: Schleswig | Adj: Schleswig | Dem: Schleswig-Holstein | Fas: Schleswig-Holsteinish Reich | Com: Free People's Republic of Schleswig-Holstein | Neu: Duchy of Schleswig-Holstein
+SHX | Base: Shanxi | Adj: Shanxi | Dem: Shanxi Republic | Fas: Shanxi Yan State | Com: Shanxi Soviet Republic | Neu: Shanxi
+SIA | Base: Siam | Adj: Siamese | Dem: Republic of Thailand | Fas: Siamese Empire | Com: Thai People's Republic | Neu: Siam
+SIC | Base: Sichuan | Adj: Sichuanese | Dem: Sichuan Republic | Fas: Sichuan Free State | Com: Sichuan Soviet Republic | Neu: Sichuan Clique
+SID | Base:  | Adj:  | Dem: Sidamo Republic | Fas: Sidama Realm | Com: Southern Nations, Nationalities, and Peoples' Socialist Union | Neu: Kingdom of Sidamo
+SIE | Base: Sierra Leone | Adj: Sierra Leonean | Dem: Sierra Leone | Fas: Sierra Leone Junta | Com: Democratic People's Republic of Sierra Leone | Neu: Kingdom of Sierra Leone
+SIK | Base: Sinkiang | Adj: Sinkiangi | Dem: Sinkiang Independent Republic | Fas: Neo-Chagatai Khanate | Com: Sinkiang | Neu: State of Sinkiang
+SIL | Base: Silesia | Adj: Silesian | Dem:  | Fas: Silesian State | Com: Silesian People's Republic | Neu: Duchy of Silesia
+SIN | Base: Sindh | Adj: Sindhi | Dem: Free Democratic Republic of Sindh | Fas: Imperial State of Karachi | Com: Karachi Commune | Neu: Sindh
+SKK | Base: Sikkim | Adj: Sikkimese | Dem: Sikkim | Fas: Kirati Empire | Com: Free Sikkim | Neu: Kingdom of Sikkim
+SLO | Base: Slovakia | Adj: Slovakian | Dem: Slovak Republic | Fas: Slovakia | Com: Slovak Socialist Republic | Neu: Free State of Slovakia
+SLV | Base: Slovenia | Adj: Slovenian | Dem: Republic of Slovenia | Fas: Falangist Slovenia | Com: Democratic People's Republic of Slovenia | Neu: Slovenia
+SMI | Base: Sápmi | Adj: Sámi | Dem: Republic of Sápmi | Fas: Greater Sámi Realm | Com: People's Republic of Sápmi | Neu: Sápmi
+SND | Base: Shandong | Adj: Shandong | Dem: Shandong Republic | Fas: Shandong Free State | Com: Shandong Soviet Republic | Neu: Shandong Clique
+SNG | Base: Singapore | Adj: Singaporean | Dem: Singapore | Fas: Sultanate of Singapore | Com: People's Republic of Singapore | Neu: Singaporean State
+SOK | Base: Sokoto | Adj: Sokoto | Dem: Hausa-Fulani Republic of Sokoto | Fas: Sublime Sultanate of Sokoto | Com: Islamic Socialist Republic of Sokoto | Neu: Sokoto Caliphate
+SOL | Base: Solomon Islands | Adj: Solomon | Dem: Solomon Islands | Fas: Solomon's Empire | Com: Solomon's Communes | Neu: 
+SOM | Base: Somalia | Adj: Somalian | Dem: Somalia | Fas: Ajuraan Empire | Com: Somali Democratic Republic | Neu: Somali Sultanate
+SOV | Base: Russia | Adj: Russian | Dem: Russian Federation | Fas: Russian Empire | Com: Soviet Union | Neu: Russia
+SPA | Base: Spain | Adj: Spanish | Dem: Spain | Fas: Nationalist Spain | Com: Republican Spain | Neu: Nationalist Spain
+SPB | Base: Spain | Adj: Spanish | Dem: Spain | Fas: Nationalist Spain | Com: Republican Spain | Neu: Carlist Spain
+SPC | Base: Spain | Adj: Spanish | Dem: Spain | Fas: Nationalist Spain | Com: Republican Spain | Neu: Regional Defense Council of Aragon
+SPD | Base: Spain | Adj: Spanish | Dem: Spain | Fas: Nationalist Spain | Com: Republican Spain | Neu: Regional Defense Council of Aragon
+SPM | Base: Sardinia-Piedmont | Adj:  | Dem: United States of Savoy and Sardinia | Fas: Grand Duchy of Savoy | Com: Cisalpine People's Federation | Neu: Sardinia-Piedmont
+SPR | Base: Spain | Adj: Spanish | Dem: Spain | Fas: Nationalist Spain | Com: Republican Spain | Neu: Spanish Empire
+SRL | Base: Sri Lanka | Adj: Sri Lankan | Dem: Democratic Socialist Republic of Sri Lanka | Fas: Nationalist Ceylon | Com: Tamil-Sinhalese Socialist Federation | Neu: Sri Lanka
+SSI | Base: Siak | Adj: Siak Malay | Dem: Republic of Siak | Fas: Great Kingdom of Siak | Com: Soviet Republic of Siak Sri Indrapura | Neu: Sultanate of Siak Sri Indrapura
+SUD | Base: Sudan | Adj: Sudanese | Dem: Republic of the Sudan | Fas: Nubia | Com: Commune of the Sudan | Neu: Sudan
+SUR | Base: Suriname | Adj: Surinamese | Dem: Republic of Suriname | Fas: Surinam Unitary State | Com: Surinen Democratic Republic | Neu: Suriname
+SWE | Base: Sweden | Adj: Swedish | Dem: Sweden | Fas: Svea Rike | Com: Folkrepubliken Sverige | Neu: Kingdom of Sweden
+SWI | Base: Switzerland | Adj: Swiss | Dem: Switzerland | Fas: Imperial Helvetia | Com: United Cantons | Neu: Helvetic Junta
+SYR | Base: Syria | Adj: Syrian | Dem: Syria | Fas: Syrian National State | Com: Socialist State of Syria | Neu: Kingdom of Syria
+TAH | Base: Tahiti | Adj: Tahitian | Dem: French Polynesia | Fas: Tahitian National Assembly | Com: Tahitian Commune | Neu: 
+TAJ | Base: Tajikistan | Adj: Tajik | Dem: Republic of Tajikistan | Fas: Bekstvo of Matcha | Com: Tajik Soviet Republic | Neu: Tajikistan
+TAN | Base: Tannu Tuva | Adj: Tuvan | Dem: Tuva Independent Republic | Fas: Tuvan Nationalist Republic | Com: Tannu Tuva | Neu: Tannu Uriankhai
+TAT | Base:  | Adj:  | Dem: Tatarstan | Fas: New Kazani Khanate | Com: Tatar Worker's Republic | Neu: Tatar Military Union
+TAY | Base:  | Adj:  | Dem: Taymyria | Fas: North Siberian Empire | Com: Taymyr People's Republic | Neu: Dolgano-Nenets Migratory State
+THU | Base: Thuringia | Adj: Thuringian | Dem: Free State of Thuringia | Fas: Great Thuringii | Com: People's State of Thuringia | Neu: Duchy of Thuringia
+TIB | Base: Tibet | Adj: Tibetan | Dem: Republic of Tibet | Fas: Tibetan Empire | Com: Monastic Commune of Tibet | Neu: Tibet
+TIG | Base:  | Adj:  | Dem: Tigrinyan Republic | Fas: Aksumite Kingdom | Com: Tigrinyan People's Revolutionary Popular State | Neu: Tigray
+TML | Base: East Timor | Adj: Timorese | Dem: Democratic Republic of Timor-Leste | Fas: Independent State of Timor | Com: Revolutionary Democratic Republic of Timor-Leste | Neu: Timorese National Union
+TMS | Base: Turkmenistan | Adj: Turkmen | Dem: Republic of Turkmenistan | Fas: Neo-Seljuk Empire | Com: Turkestan Autonomous Soviet Socialist Republic | Neu: Turkmenistan
+TNE | Base: Ternate | Adj: Ternate | Dem: United States of Maluku | Fas: Kingdom of Gapi | Com: People's Republic of Maluku | Neu: Sultanate of Ternate
+TOG | Base: Togo | Adj: Togolese | Dem: Togolese Republic | Fas: Nationalist Togo | Com: Togolese Commune | Neu: Togo
+TOS | Base: Grand Duchy of Tuscany | Adj:  | Dem: Confederated States of Tuscany | Fas: Etrurian Social Republic | Com: People's Republic of Tuscany | Neu: Grand Duchy of Tuscany
+TRA | Base: Transylvania | Adj: Transylvanian | Dem:  | Fas: Legionary Transylvania | Com: Carpathian Socialist Union | Neu: Principality of Transylvania
+TRI | Base: Trinidad and Tobago | Adj: Trinidadian and Tobagonian | Dem: Republic of Trinidad and Tobago | Fas: Empire of Cairi | Com: Amerindian People's Republic | Neu: Trinidad and Tobago
+TTS | Base: Kingdom of the Two Sicilies | Adj:  | Dem: Neapolitanian-Sicilian Republic | Fas: Parthenopean Republic | Com: People's Republic of Mezzogiorno | Neu: Kingdom of the Two Sicilies
+TUN | Base: Tunisia | Adj: Tunisian | Dem: Republic of Tunisia | Fas: Barbary Tunis | Com: Communist State of Tunisia | Neu: Tunisia
+TUR | Base: Turkey | Adj: Turkish | Dem: Republic of Turkey | Fas: Turkish Empire | Com: Turkish Socialist Republic | Neu: Turkey
+TZN | Base: Tanzania | Adj: Tanzanian | Dem: Republic of Tanzania | Fas: Nationalist Tanzanian State | Com: Tanzanian Socialist Union | Neu: Tanzania
+UAE | Base: Arab Emirates | Adj: Emirati | Dem: Trucial States | Fas: Arab Emirate | Com: People's Arab Union | Neu: United Arab Emirates
+UBD | Base: United Baltic Duchy | Adj: Baltic German | Dem: Baltic German Federal Republic | Fas: Grand Duchy of Livonia | Com: Baltendeutsche Demokratische Republik | Neu: United Baltic Duchy
+UDM | Base:  | Adj:  | Dem: Udmurtia | Fas: Spiritual State of Udmurt Vos | Com: Udmurt Commune | Neu: South Permic State
+UGA | Base: Uganda | Adj: Ugandan | Dem: Uganda | Fas: Nationalist Uganda | Com: Ugandan People's Republic | Neu: Kingdom of Buganda
+UKR | Base: Ukraine | Adj: Ukrainian | Dem: Republic of Ukraine | Fas: Ukrainian Nationalist State | Com: Ukrainian Socialist Republic | Neu: Ukrainian Hetmanate
+URG | Base: Uruguay | Adj: Uruguayan | Dem: Oriental Republic of Uruguay | Fas: New Constitutional Uruguay | Com: Socialist Republic of Uruguay | Neu: Uruguay
+USA | Base: America | Adj: American | Dem: United States | Fas: Free American Empire | Com: Communist States of America | Neu: America
+USB | Base: Unaligned States of America | Adj: American | Dem: Unaligned States of America | Fas: Unaligned States of America | Com: Unaligned States of America | Neu: Unaligned States of America
+UZB | Base: Uzbekistan | Adj: Uzbek | Dem: Republic of Uzbekistan | Fas: Uzbek Khanate | Com: Uzbek Soviet Socialist Republic | Neu: Uzbekistan
+VAN | Base: Vanuatu | Adj: Vanuatuan | Dem: Republic of Vanuatu | Fas: Ni-Vanuatu Empire | Com: People's Provisional Government of Vanuatu | Neu: Sublime Republic of Vemerana
+VEN | Base: Venezuela | Adj: Venezuelan | Dem: Federal Republic of Venezuela | Fas: Venezuela | Com: Leftist International Venezuela | Neu: Bolivarian Venezuela
+VGE | Base:  | Adj:  | Dem: Republic of Volga Germany | Fas: Volga German Reich | Com: Volga German Workers Union | Neu: Volga German State
+VIN | Base: Vietnam | Adj: Vietnamese | Dem: Republic of Vietnam | Fas: Empire of Vietnam | Com: Democratic Republic of Vietnam | Neu: Empire of Dai Nam
+VLA | Base:  | Adj:  | Dem: Vladivostok Independent Republic | Fas: Far Eastern Russo-Japanese State | Com: Vladivostok Syndicalist Collective | Neu: Vladivostok Interventionalist State
+VOL | Base: Upper Volta | Adj: Upper Voltan | Dem: Burkina Faso | Fas: Authority of Upper Volta | Com: Upper Volta Socialist Republic | Neu: Upper Volta
+WES | Base: Western Sahara | Adj: Sahrawian | Dem: Sahrawi Republic | Fas: Empire of the Desert | Com: Commune of the Western Sahara | Neu: Sahrawi Arab Democratic Republic
+WGR | Base: Germany | Adj: West German | Dem: Federal Republic of Germany | Fas: Fourth Reich | Com: Socialist Republic of Germany | Neu: Bayern-Hannover
+WIS | Base: Gujarat | Adj: Gujarati | Dem: Gujarat | Fas: Gujarat Sultanate | Com: Western Indian Proletariat Commune | Neu: Western Indian States
+WLA | Base: Y Wladfa | Adj: Welsh Argentine | Dem: Y Wladfa | Fas: Ymerodraeth Patagonia | Com: Cymun Patagonia | Neu: Y Wladychfa Gymreig
+WLS | Base: Wales | Adj: Welsh | Dem: Wales | Fas: Cambria | Com: Welsh People's Republic | Neu: Principality of Wales
+WPG | Base: West Papua | Adj: West Papuan | Dem: Republic of West Papua | Fas: Papua Unitary State | Com: People's Commune of Western New Guinea | Neu: Koreri State of Papua
+WUR | Base: Baden-Württemberg | Adj: Baden-Württembergian | Dem: Free State of Baden-Württemberg | Fas: Swabia | Com: People's Republic of Baden-Württemberg | Neu: Kingdom of Baden-Württemberg
+XIC | Base: Xi'an | Adj: Xi'an | Dem: Xi'an Republic | Fas: Xi'an Free State | Com: Xi'an Soviet Republic | Neu: Northeastern Army
+XSM | Base: Qinghai Ma | Adj: Ma | Dem: Hui Republic | Fas: Qinghai Ma Free State | Com: People's Republic of Ma | Neu: Qinghai Ma
+YAK | Base:  | Adj:  | Dem: Sakha Republic | Fas: Greater Siberian State | Com: Yakut People's Soviet | Neu: White Siberia
+YAM | Base:  | Adj:  | Dem: Yamalian Republic | Fas: Pan-Nenets Unitary State | Com: Yamalo-Nenets Soviet | Neu: Yamalo-Nenetsian Migratory State
+YEM | Base: Yemen | Adj: Yemeni | Dem: Yemen Arab Republic | Fas: Federation of South Arabia | Com: People's Democratic Republic of Yemen | Neu: Yemen
+YUC | Base: Yucatán | Adj: Yucateco | Dem: Republic of Yucatán | Fas: Synarchist Republic of Yucatán | Com: Zapatista Republic of Yucatán | Neu: Maya-Yucatec State
+YUG | Base: Yugoslavia | Adj: Yugoslavian | Dem: Yugoslavian Confederation | Fas: Radikalna Yugoslavia | Com: SFR Yugoslavia | Neu: Yugoslavia
+YUN | Base: Yunnan | Adj: Yunnanese | Dem: Yunnan Independent Republic | Fas: Yunnan Free Empire | Com: Soviet Republic of Yunnan | Neu: Yunnan
+ZAM | Base: Zambia | Adj: Zambian | Dem: Zambia | Fas: State of Zambia | Com: Zambian People's Republic | Neu: Kingdom of Zambia
+ZIM | Base: Zimbabwe | Adj: Zimbabwean | Dem: Republic of Zimbabwe | Fas: Rhodesia | Com: Zimbabwean Democratic Republic | Neu: Zimbabwe
+dalmatia | Base: Dalmatia | Adj: Dalmatian | Dem: Republic of Dalmatia | Fas: Second Dalmatian League | Com: Dalmatian Commune | Neu: Kingdom of Dalmatia
+vojvodina | Base: Vojvodina | Adj: Vojvodinian | Dem: Republic of Vojvodina | Fas: Syrmian Empire | Com: Socialist Province of Vojvodina | Neu: 

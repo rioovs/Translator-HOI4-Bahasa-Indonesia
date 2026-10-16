@@ -1,0 +1,1402 @@
+[
+  {
+    "line": 4,
+    "key": "wuw_GER_news.1.t",
+    "ver": "",
+    "en": "The Reunification of Germany",
+    "comment": ""
+  },
+  {
+    "line": 5,
+    "key": "wuw_GER_news.1.d",
+    "ver": "",
+    "en": "Having long been divided between different states, by arbitrary borders separating one brother from another, the German people can once again rejoice as a new German state is on the rise. After recent political exploits, [FROM.GetLeader] has lived up to the spirit of Bismarck, and proclaimed the reunification of Germany, a nation that will stand for a thousand years!",
+    "comment": ""
+  },
+  {
+    "line": 6,
+    "key": "wuw_GER_news.1.a",
+    "ver": "",
+    "en": "Germany is finally whole again",
+    "comment": ""
+  },
+  {
+    "line": 7,
+    "key": "wuw_GER_news.1.b",
+    "ver": "",
+    "en": "This is only the beginning",
+    "comment": ""
+  },
+  {
+    "line": 9,
+    "key": "wuw_GER_news.2.t",
+    "ver": "",
+    "en": "An Uprising in Silesia",
+    "comment": ""
+  },
+  {
+    "line": 10,
+    "key": "wuw_GER_news.2.desc",
+    "ver": "",
+    "en": "For the fourth time since the treaty of Versailles was signed, rebels in German Silesia have risen up against the government. This time [SIL.GetLeader] claims that the goals of their military actions are to mainly secure the independence of a Silesian state whilst simultaneously protecting the Silesian people from harm during the German civil war, though previous rebellions have rather had a goal of gaining autonomy within the Polish state. Only time will tell if they can stand up against the German army.",
+    "comment": ""
+  },
+  {
+    "line": 11,
+    "key": "wuw_GER_news.2.a",
+    "ver": "",
+    "en": "An interesting turn of events",
+    "comment": ""
+  },
+  {
+    "line": 12,
+    "key": "wuw_GER_news.2.b",
+    "ver": "",
+    "en": "They have tried and failed before",
+    "comment": ""
+  },
+  {
+    "line": 13,
+    "key": "wuw_GER_news.2.c",
+    "ver": "",
+    "en": "This is our moment!",
+    "comment": ""
+  },
+  {
+    "line": 14,
+    "key": "wuw_GER_news.2.d",
+    "ver": "",
+    "en": "Let's hope they succeed this time",
+    "comment": ""
+  },
+  {
+    "line": 20,
+    "key": "AUS_political_events.1.t",
+    "ver": "",
+    "en": "The fate of Creditanstalt-Bankverein",
+    "comment": ""
+  },
+  {
+    "line": 21,
+    "key": "AUS_political_events.1.desc",
+    "ver": "",
+    "en": "It has come to our attention that the 1934 bank merger, where the recapitalized Creditanstalt took over all assets and liabilities of Wiener Bankverein as well as the viable operations of Niederösterreichische Escompte-Gesellschaft has come back to bite us, as this has greatly hampered our economic development and inadvertently created a sort of monopoly on the financial sector. Seeing as we are now regulating this sector, how should we approach the situation?",
+    "comment": ""
+  },
+  {
+    "line": 22,
+    "key": "AUS_political_events.1.a",
+    "ver": "",
+    "en": "It is safest to keep it the way it is",
+    "comment": ""
+  },
+  {
+    "line": 23,
+    "key": "AUS_political_events.1.a_tt",
+    "ver": "",
+    "en": "No changes will be made to our Industrial Concerns. Creditanstalt-Bankverein will remain available, granting:",
+    "comment": ""
+  },
+  {
+    "line": 24,
+    "key": "AUS_political_events.1.b",
+    "ver": "",
+    "en": "Österreichische Creditanstalt are the smartest choice",
+    "comment": ""
+  },
+  {
+    "line": 25,
+    "key": "AUS_political_events.1.c",
+    "ver": "",
+    "en": "Wiener Bankverein won't let us down",
+    "comment": ""
+  },
+  {
+    "line": 26,
+    "key": "AUS_reestablish_creditanstalt",
+    "ver": "",
+    "en": "Creditanstalt-Bankverein will be dissolved and the new Österreichische Creditanstalt will be given our fullest support.",
+    "comment": ""
+  },
+  {
+    "line": 27,
+    "key": "AUS_reestablish_benkverein",
+    "ver": "",
+    "en": "Creditanstalt-Bankverein will be dissolved and the new Wiener Bankverein will be given our fullest support.",
+    "comment": ""
+  },
+  {
+    "line": 29,
+    "key": "AUS_political_events.2.t",
+    "ver": "",
+    "en": "Phönix Insurance Scandal",
+    "comment": ""
+  },
+  {
+    "line": 30,
+    "key": "AUS_political_events.2.desc",
+    "ver": "",
+    "en": "Following shortly after the death of their beloved general director Wilhelm Berliner, Phönix Insurance has run into further troubles. Falsified balance sheets have been brought to the government's attention by newly appointed director Eberhard Reininghaus exposing a deficit dating back to 1929, reaching upwards of 250 million schillings. \\n \\n The company has declared bankruptcy and has immediately ceased operations. The ever so popular War-Participant Insurance has come to an abrupt end causing outcries from many of those who have come to depend on the insurance payouts",
+    "comment": ""
+  },
+  {
+    "line": 31,
+    "key": "AUS_political_events.2.a",
+    "ver": "",
+    "en": "How awful!",
+    "comment": ""
+  },
+  {
+    "line": 32,
+    "key": "AUS_political_events.2.b",
+    "ver": "",
+    "en": "We will cover the payouts!",
+    "comment": ""
+  },
+  {
+    "line": 33,
+    "key": "AUS_political_events.2.b_tt",
+    "ver": "",
+    "en": "Covering the insurance will allow us to further on revive Phönix insurance.",
+    "comment": ""
+  },
+  {
+    "line": 35,
+    "key": "AUS_political_events.3.t",
+    "ver": "",
+    "en": "German Remilitarization Causes Widespread Worry",
+    "comment": ""
+  },
+  {
+    "line": 36,
+    "key": "AUS_political_events.3.desc",
+    "ver": "",
+    "en": "The recent remilitarization of the Rhineland has caused great worry among our people. Within our government the question is being raised, 'Could we be next?' Though the Führer has continuously assured that annexing Austria does not lay within his interests, we must consider that such action may no longer be entirely out of the question.",
+    "comment": ""
+  },
+  {
+    "line": 37,
+    "key": "AUS_political_events.3.a",
+    "ver": "",
+    "en": "We should prepare for the worst...",
+    "comment": ""
+  },
+  {
+    "line": 38,
+    "key": "AUS_political_events.3.a_tt",
+    "ver": "",
+    "en": "Unlocks the §YAnti-Anschluss Measures§! decisions",
+    "comment": ""
+  },
+  {
+    "line": 40,
+    "key": "AUS_political_events.4.t",
+    "ver": "",
+    "en": "Change in Opinion",
+    "comment": ""
+  },
+  {
+    "line": 41,
+    "key": "AUS_political_events.4.desc",
+    "ver": "",
+    "en": "The previously outwards fascist cardinal Theodor Innitzer has recently switched up his rhetoric radically. From vocally and publicly supporting Nazism and the [GER.GetAdjective] Führer, he, in a mass on the 7th of October, clearly took a stance against the Führer. Instead of his usual preaching about how the masses should put their faith with [GER.GetLeader] he now directed them back to the Lord. \\n \\n The [GER.GetAdjective] leadership is furious and wishes for us to take action.",
+    "comment": ""
+  },
+  {
+    "line": 42,
+    "key": "AUS_political_events.4.a",
+    "ver": "",
+    "en": "Get rid of the traitor!",
+    "comment": ""
+  },
+  {
+    "line": 43,
+    "key": "AUS_political_events.4.b",
+    "ver": "",
+    "en": "Herr Innitzer is allowed his own opinion.",
+    "comment": ""
+  },
+  {
+    "line": 45,
+    "key": "AUS_political_events.5.t",
+    "ver": "",
+    "en": "[AUS.GetNameDefCap] Seeks Cooperation between our Air Forces",
+    "comment": ""
+  },
+  {
+    "line": 46,
+    "key": "AUS_political_events.5.desc",
+    "ver": "",
+    "en": "A proposal from the [AUS.GetAdjective] diplomats within our country have just reached us. Having been released from the Treaty of Saint-Germain-En-Laye they now wish to rebuild their army, for defensive measures they have assured us. Their country has a history of making rather robust air frames and having quite a few talented pilots but with the gap in their production and training they now stand before the challenge of rebuilding this capacity. If we are ready to look past their actions in the Great War, we could stand to gain from this partnership.",
+    "comment": ""
+  },
+  {
+    "line": 47,
+    "key": "AUS_political_events.5.a",
+    "ver": "",
+    "en": "It is worth it, we will help as much as possible!",
+    "comment": ""
+  },
+  {
+    "line": 48,
+    "key": "AUS_political_events.5.b",
+    "ver": "",
+    "en": "We can learn to work together.",
+    "comment": ""
+  },
+  {
+    "line": 49,
+    "key": "AUS_political_events.5.c",
+    "ver": "",
+    "en": "We don't buy this 'Defensive' lie they tell us.",
+    "comment": ""
+  },
+  {
+    "line": 51,
+    "key": "AUS_political_events.6.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Accepts our Proposal and Gives us Access to Buy Equipment",
+    "comment": ""
+  },
+  {
+    "line": 52,
+    "key": "AUS_political_events.6.desc",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] has responded positively to our suggestion of cooperating in building up our air forces and sharing our experiences. They have seen the difficulties that we are facing after breaking free from the Treaty of Saint-Germain-En-Laye and have offered us the possibility to buy excess equipment from them as well!",
+    "comment": ""
+  },
+  {
+    "line": 53,
+    "key": "AUS_political_events.6.a",
+    "ver": "",
+    "en": "A toast to a great partnership!",
+    "comment": ""
+  },
+  {
+    "line": 55,
+    "key": "AUS_political_events.7.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Accepts our Proposal",
+    "comment": ""
+  },
+  {
+    "line": 56,
+    "key": "AUS_political_events.7.desc",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] has responded rather well to our recent suggestion to cooperate in our respective build up of our air forces. While they are unable to offer any material support, they have agreed to share some of their recent methods for pilot training.",
+    "comment": ""
+  },
+  {
+    "line": 57,
+    "key": "AUS_political_events.7.a",
+    "ver": "",
+    "en": "Great!",
+    "comment": ""
+  },
+  {
+    "line": 59,
+    "key": "AUS_political_events.8.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Rejects our Suggested Partnership",
+    "comment": ""
+  },
+  {
+    "line": 60,
+    "key": "AUS_political_events.8.desc",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] has rejected our offer. Stating that the agreement would be lopsided, providing no benefit to them, and that we put ourselves in this situation with our actions in the Great War.",
+    "comment": ""
+  },
+  {
+    "line": 61,
+    "key": "AUS_political_events.8.a",
+    "ver": "",
+    "en": "And how will this situation benefit them?",
+    "comment": ""
+  },
+  {
+    "line": 62,
+    "key": "AUS_air_force_partnership_big",
+    "ver": "",
+    "en": "Extensive Air Force Partnership",
+    "comment": ""
+  },
+  {
+    "line": 63,
+    "key": "AUS_air_force_partnership_small",
+    "ver": "",
+    "en": "Air Force Partnership",
+    "comment": ""
+  },
+  {
+    "line": 64,
+    "key": "AUS_rejected_air_force_partnership",
+    "ver": "",
+    "en": "Air Force Partnership Rejected",
+    "comment": ""
+  },
+  {
+    "line": 66,
+    "key": "AUS_political_events.9.t",
+    "ver": "",
+    "en": "Wilhelm Zehner Assassinated",
+    "comment": ""
+  },
+  {
+    "line": 67,
+    "key": "AUS_political_events.9.desc",
+    "ver": "",
+    "en": "Wilhelm Zehner, one of the members of our Military High Command has been found dead in his apartment. The [GER.GetAdjective] diplomats deny everything and claim they were not involved and that Zehner must have done this himself with the gun he was found with. The criminal investigation points towards an entirely different direction...",
+    "comment": ""
+  },
+  {
+    "line": 68,
+    "key": "AUS_political_events.9.a",
+    "ver": "",
+    "en": "So the [GER.GetAdjective]s are both liars and murderers...",
+    "comment": ""
+  },
+  {
+    "line": 69,
+    "key": "AUS_political_events.9.a_tt",
+    "ver": "",
+    "en": "§YWilhelm Zehner§!§R is killed!§!",
+    "comment": ""
+  },
+  {
+    "line": 70,
+    "key": "AUS_anschluss_ratio_lowered",
+    "ver": "",
+    "en": "The §YTotal Army Fighting Strength§! required for §YAnschluss§! will be §YLowered§!",
+    "comment": ""
+  },
+  {
+    "line": 71,
+    "key": "AUS_anschluss_ratio_raised",
+    "ver": "",
+    "en": "The §YTotal Army Fighting Strength§! required for §YAnschluss§! will be §YRaised§!",
+    "comment": ""
+  },
+  {
+    "line": 73,
+    "key": "AUS_political_events.10.t",
+    "ver": "",
+    "en": "Attempt at the life of Wilhelm Zehner thwarted",
+    "comment": ""
+  },
+  {
+    "line": 74,
+    "key": "AUS_political_events.10.desc",
+    "ver": "",
+    "en": "Yesterday evening Gestapo broke into the apartment of Wilhelm Zehner and was met with the guards we positioned around our High Command. The fight did not last for very long, and Zehner came out of the altercation entirely unharmed.",
+    "comment": ""
+  },
+  {
+    "line": 75,
+    "key": "AUS_political_events.10.a",
+    "ver": "",
+    "en": "We knew it!",
+    "comment": ""
+  },
+  {
+    "line": 77,
+    "key": "AUS_political_events.11.t",
+    "ver": "",
+    "en": "[GER.GetNameDefCap] Expresses Dislike for Our Military High Command",
+    "comment": ""
+  },
+  {
+    "line": 78,
+    "key": "AUS_political_events.11.desc",
+    "ver": "",
+    "en": "Diplomats from [GER.GetNameDef] have raised concerns with one of the members of our military high command. They claim that whilst we certainly are a sovereign state and can do as we please this might cause our diplomatic relations with [GER.GetNameDef] to falter. \\n\\nWe can expect them to take matters into their own hands if we fail to act in their best interests.",
+    "comment": ""
+  },
+  {
+    "line": 79,
+    "key": "AUS_political_events.11.a",
+    "ver": "",
+    "en": "This is none of their business!",
+    "comment": ""
+  },
+  {
+    "line": 80,
+    "key": "AUS_political_events.11.a_tt",
+    "ver": "",
+    "en": "Triggers the mission §Y[GER.GetAdjective] Animosity Towards Military High Command§!\\n\\nFailure to prevent the death of Zehner will cause the §YTotal Army Fighting Strength§! required for §YAnschluss§! to be §YLowered§!.",
+    "comment": ""
+  },
+  {
+    "line": 81,
+    "key": "AUS_political_events.11.b",
+    "ver": "",
+    "en": "If that's what it takes to stop their antics...",
+    "comment": ""
+  },
+  {
+    "line": 83,
+    "key": "AUS_political_events.12.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Offers us Infantry Equipment",
+    "comment": ""
+  },
+  {
+    "line": 84,
+    "key": "AUS_political_events.12.desc",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] has reached out to us offering support in form of infantry equipment. They regard us highly as a most valued ally and wish that these rifles be used for our war efforts in [ETH.GetNameDef] to help assure our victory in this war.",
+    "comment": ""
+  },
+  {
+    "line": 85,
+    "key": "AUS_political_events.12.a",
+    "ver": "",
+    "en": "That was unexpected, but very welcome.",
+    "comment": ""
+  },
+  {
+    "line": 87,
+    "key": "AUS_political_events.13.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Objects to the Embargo of [ITA.GetNameDef]",
+    "comment": ""
+  },
+  {
+    "line": 88,
+    "key": "AUS_political_events.13.desc",
+    "ver": "",
+    "en": "We have received protests against the embargo that we like many others have installed against [ITA.GetNameDef]. Claiming that the embargo is unreasonable and baseless the [AUS.GetAdjective] leadership has demanded that we abolish the embargo.\\n\\nWhen pressed about their reasons for protesting the embargo the leadership of [FROM.GetNameDef] refuses to elaborate further.",
+    "comment": ""
+  },
+  {
+    "line": 89,
+    "key": "AUS_political_events.13.a",
+    "ver": "",
+    "en": "The [AUS.GetAdjective]s have no right demanding this.",
+    "comment": ""
+  },
+  {
+    "line": 90,
+    "key": "AUS_political_events.13.b",
+    "ver": "",
+    "en": "Fine.",
+    "comment": ""
+  },
+  {
+    "line": 92,
+    "key": "AUS_political_events.14.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Speaks out Against Embargo Against Us",
+    "comment": ""
+  },
+  {
+    "line": 93,
+    "key": "AUS_political_events.14.desc",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] has recently protested the embargo placed upon us. Saying that we are a most valued ally they have actively sent objections to all countries that has embargoed us in an attempt to ease the situation even slightly for us.",
+    "comment": ""
+  },
+  {
+    "line": 94,
+    "key": "AUS_political_events.14.a",
+    "ver": "",
+    "en": "A bold move from the [FROM.GetAdjective]s",
+    "comment": ""
+  },
+  {
+    "line": 96,
+    "key": "AUS_political_events.15.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Bans DNSAP",
+    "comment": ""
+  },
+  {
+    "line": 97,
+    "key": "AUS_political_events.15.desc",
+    "ver": "",
+    "en": "Word has just reached us that the [FROM.GetAdjective] government has issued a ban on DNSAP in [FROM.GetNameDef]. A soft ban was already in place since 1934, though said ban was largely ignored by the political parties and government alike. This signifies a change of tone from the [FROM.GetAdjective] leadership towards us. \\n\\nBeyond the obvious insult that this is, this might also hamper our influence over [FROM.GetNameDef].",
+    "comment": ""
+  },
+  {
+    "line": 98,
+    "key": "AUS_political_events.15.a",
+    "ver": "",
+    "en": "They will not lose us that easily!",
+    "comment": ""
+  },
+  {
+    "line": 99,
+    "key": "AUS_political_events.15.b",
+    "ver": "",
+    "en": "How rude!",
+    "comment": ""
+  },
+  {
+    "line": 100,
+    "key": "AUS_political_events.15.c",
+    "ver": "",
+    "en": "We don't have time for that now!",
+    "comment": ""
+  },
+  {
+    "line": 102,
+    "key": "AUS_banned_dnsap",
+    "ver": "",
+    "en": "Banned DNSAP",
+    "comment": ""
+  },
+  {
+    "line": 103,
+    "key": "AUS_meddling_with_our_politics",
+    "ver": "",
+    "en": "Meddling With Our Politics",
+    "comment": ""
+  },
+  {
+    "line": 105,
+    "key": "AUS_political_events.16.t",
+    "ver": "",
+    "en": "Nazis in the Government",
+    "comment": ""
+  },
+  {
+    "line": 106,
+    "key": "AUS_political_events.16.desc",
+    "ver": "",
+    "en": "As expected [FROM.GetNameDef] has reacted poorly to our recent ban of DNSAP. Beyond the obvious demand that we immediately lift the ban they also demand we install Arthur Seyss-Inquart as an advisor. They are very adamant about this and while we have always known that he was very fond of the [FROM.GetAdjective] way it does raise the question, why?",
+    "comment": ""
+  },
+  {
+    "line": 107,
+    "key": "AUS_political_events.16.a",
+    "ver": "",
+    "en": "We have to keep a close eye on him.",
+    "comment": ""
+  },
+  {
+    "line": 108,
+    "key": "AUS_political_events.16.b",
+    "ver": "",
+    "en": "Absolutely not!",
+    "comment": ""
+  },
+  {
+    "line": 109,
+    "key": "AUS_political_events.16.a_tt",
+    "ver": "",
+    "en": "Installs §YArthur Seyss-Inquart§! as an Advisor that §Rcannot be fired§!\\n",
+    "comment": ""
+  },
+  {
+    "line": 111,
+    "key": "AUS_political_events.17.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Protests Our Ban of DNSAP",
+    "comment": ""
+  },
+  {
+    "line": 112,
+    "key": "AUS_political_events.17.desc",
+    "ver": "",
+    "en": "As expected [FROM.GetNameDef] has reacted poorly to our recent ban of DNSAP. They regard this as an attack upon their own ideology and have voiced great disappointment and anger with our decision. Though we have had great reason for banning the DNSAP the [FROM.GetAdjective] leadership now demand that we immediately lift the ban.",
+    "comment": ""
+  },
+  {
+    "line": 113,
+    "key": "AUS_political_events.17.a",
+    "ver": "",
+    "en": "They have no right to meddle in our politics.",
+    "comment": ""
+  },
+  {
+    "line": 115,
+    "key": "AUS_political_events.18.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Installs Arthur Seyss-Inquart as Advisor",
+    "comment": ""
+  },
+  {
+    "line": 116,
+    "key": "AUS_political_events.18.desc",
+    "ver": "",
+    "en": "It seems that the [FROM.GetAdjective] has come to see reason after all. The ban on our sister party in [FROM.GetNameDef] still stands but they have at least installed Arthur Seyss-Inquart as an advisor allowing us some insight into their political maneuvering.",
+    "comment": ""
+  },
+  {
+    "line": 117,
+    "key": "AUS_political_events.18.a",
+    "ver": "",
+    "en": "Good",
+    "comment": ""
+  },
+  {
+    "line": 119,
+    "key": "AUS_political_events.19.t",
+    "ver": "",
+    "en": "Godwin von Brumowski Offers His Service",
+    "comment": ""
+  },
+  {
+    "line": 120,
+    "key": "AUS_political_events.19.desc",
+    "ver": "",
+    "en": "Our most successful fighter ace from the Great War has approached us offering his service to us once more as we find ourselves at war. Though no longer young, nor able to fly like he used to following the close call in 1936 he has offered to lead our air force to victory from the ground. Our current pilots still regard him with much respect and there is a widespread idea that he would be able to further drill our aviators to greatness rivaling his own.",
+    "comment": ""
+  },
+  {
+    "line": 121,
+    "key": "AUS_political_events.19.a",
+    "ver": "",
+    "en": "We need all the help we can get!",
+    "comment": ""
+  },
+  {
+    "line": 122,
+    "key": "AUS_political_events.19.b",
+    "ver": "",
+    "en": "With his involvement in the 1934 coup, we cannot risk it",
+    "comment": ""
+  },
+  {
+    "line": 123,
+    "key": "AUS_von_brumowski_recruited_flag",
+    "ver": "",
+    "en": "Recruited Godwin von Burmowski",
+    "comment": ""
+  },
+  {
+    "line": 125,
+    "key": "AUS_political_events.20.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Seeks Our Support",
+    "comment": ""
+  },
+  {
+    "line": 126,
+    "key": "AUS_political_events.20.desc",
+    "ver": "",
+    "en": "[GetGuarantorFlavorText]",
+    "comment": ""
+  },
+  {
+    "line": 127,
+    "key": "AUS_guarantor_is_italy_key",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] has sent the General and from time to time military attaché Emil Liebitzky to us with a request for aid. He, and others within the [FROM.GetAdjective] leadership, has seen worrying tendencies from [GER.GetNameDef] and they now wish to have more formalized support from us in the event that their assessments of the situation are in fact correct. \\n\\nAs parties that signed the Treaty of Saint-Germain-En-Laye we are likely expected to come to their aid, though, loopholes in the text can likely be found.",
+    "comment": ""
+  },
+  {
+    "line": 128,
+    "key": "AUS_guarantor_is_not_italy_key",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] has sent an ambassador to us requesting our aid. The [FROM.GetAdjective] leaderships have seen worrying tendencies from the leadership of [GER.GetNameDef] and as they cannot mobilize to meet the threat due to the Treaty of Saint-Germain-En-Laye they are now more formally requesting our support. In the treaty and following contracts we have agreed to help them, but there is no outline for how exactly this support should look.",
+    "comment": ""
+  },
+  {
+    "line": 129,
+    "key": "AUS_political_events.20.a",
+    "ver": "",
+    "en": "Their independence is of utmost importance to us!",
+    "comment": ""
+  },
+  {
+    "line": 130,
+    "key": "AUS_political_events.20.b",
+    "ver": "",
+    "en": "We will support them diplomatically",
+    "comment": ""
+  },
+  {
+    "line": 131,
+    "key": "AUS_political_events.20.c",
+    "ver": "",
+    "en": "Maybe we can reach a mutually beneficial agreement",
+    "comment": ""
+  },
+  {
+    "line": 132,
+    "key": "AUS_political_events.20.d",
+    "ver": "",
+    "en": "We will not risk anything for them",
+    "comment": ""
+  },
+  {
+    "line": 134,
+    "key": "AUS_political_events.21.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Guarantees Our Independence",
+    "comment": ""
+  },
+  {
+    "line": 135,
+    "key": "AUS_political_events.21.desc",
+    "ver": "",
+    "en": "In accordance with was written in the Treaty of Saint-Germain-En-Laye [FROM.GetNameDef] has agreed to guarantee our independence. For good measure they are also allowing us means to procure some equipment, as we are currently not in a shape to produce equipment ourselves.",
+    "comment": ""
+  },
+  {
+    "line": 136,
+    "key": "AUS_political_events.21.a",
+    "ver": "",
+    "en": "Excellent!",
+    "comment": ""
+  },
+  {
+    "line": 138,
+    "key": "AUS_political_events.22.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Supports Our Independence Diplomatically",
+    "comment": ""
+  },
+  {
+    "line": 139,
+    "key": "AUS_political_events.22.desc",
+    "ver": "",
+    "en": "By making use of some of the lesser known clauses and the fine print [FROM.GetNameDef] has decided to not offer us a guarantee, but rather just offer us diplomatic support in the event of an invasion. They claim that they are certain that their words could persuade [GER.GetLeader] just as well as a threat of intervention could and therefore see no reason to have men at the ready for us.",
+    "comment": ""
+  },
+  {
+    "line": 140,
+    "key": "AUS_political_events.22.a",
+    "ver": "",
+    "en": "Not what we asked for, but better than nothing.",
+    "comment": ""
+  },
+  {
+    "line": 141,
+    "key": "AUS_political_events.22.b",
+    "ver": "",
+    "en": "Diplomacy and equipment won't save us!",
+    "comment": ""
+  },
+  {
+    "line": 143,
+    "key": "AUS_political_events.23.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Conditionally Offers a Guarantee",
+    "comment": ""
+  },
+  {
+    "line": 144,
+    "key": "AUS_political_events.23.desc",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] has responded to our request for aid with a request of their own. Since the time when this Treaty was put upon us we have strived to retake Alto Adige and Trentino for ourselves, as they do rightfully belong to us. [FROM.GetNameDef] regards these lands as theirs, and if they are to guarantee our independence they want us to renounce these claims once and for all.",
+    "comment": ""
+  },
+  {
+    "line": 145,
+    "key": "AUS_political_events.23.a",
+    "ver": "",
+    "en": "Our immediate safety is more important than those claims",
+    "comment": ""
+  },
+  {
+    "line": 146,
+    "key": "AUS_political_events.23.b",
+    "ver": "",
+    "en": "They are trying to make profit from our predicament, absolutely not.",
+    "comment": ""
+  },
+  {
+    "line": 148,
+    "key": "AUS_political_events.24.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Rejects Our Request For Support",
+    "comment": ""
+  },
+  {
+    "line": 149,
+    "key": "AUS_political_events.24.desc",
+    "ver": "",
+    "en": "By making use of a multitude of edge cases, fine prints and obscure clauses in the Treaty of Saint-Germain-En-Laye [FROM.GetNameDef] has somehow manage to weasel out of supporting us. It says clearly in the papers that we shall have external help in return for not being allowed a decent army but as it turns out [FROM.GetNameDef] has decided that this does not apply to them. We shall have to make do on our own.",
+    "comment": ""
+  },
+  {
+    "line": 150,
+    "key": "AUS_political_events.24.a",
+    "ver": "",
+    "en": "We pointed out this exact flaw to the other parties...",
+    "comment": ""
+  },
+  {
+    "line": 151,
+    "key": "AUS_political_events.24.b",
+    "ver": "",
+    "en": "We'll give them an incentive!",
+    "comment": ""
+  },
+  {
+    "line": 153,
+    "key": "AUS_political_events.25.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Revokes Claims on Our Territories",
+    "comment": ""
+  },
+  {
+    "line": 154,
+    "key": "AUS_political_events.25.desc",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] has responded to our demand that they revoke their claims on our territory by submitting to these demands. They have completely abolished the idea of taking these territories in return for our support.",
+    "comment": ""
+  },
+  {
+    "line": 155,
+    "key": "AUS_political_events.25.a",
+    "ver": "",
+    "en": "Great News!",
+    "comment": ""
+  },
+  {
+    "line": 157,
+    "key": "AUS_political_events.26.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Refuses to Revoke Their Claims",
+    "comment": ""
+  },
+  {
+    "line": 158,
+    "key": "AUS_political_events.26.desc",
+    "ver": "",
+    "en": "We thought that the [FROM.GetAdjective]s were a reasonable nation after they approached us for help just recently. It turns out that we were wrong about them. When prompted to revoke their claims on territory that is rightfully ours, they have blatantly refused.",
+    "comment": ""
+  },
+  {
+    "line": 159,
+    "key": "AUS_political_events.26.a",
+    "ver": "",
+    "en": "Absolutely no help for them then.",
+    "comment": ""
+  },
+  {
+    "line": 161,
+    "key": "AUS_political_events.27.t",
+    "ver": "",
+    "en": "[AUS.GetNameDefCap] Seeks to Rearm",
+    "comment": ""
+  },
+  {
+    "line": 162,
+    "key": "AUS_political_events.27.desc",
+    "ver": "",
+    "en": "[AUS.GetNameDefCap] has reached out to us seeking approval to rearm and abolish the Treaty of Saint-Germain-En-Laye. Stating that their neighboring area has become a lot more hostile recently they express that they no longer feel safe without an army of their own. The question has gone out to all three of the major powers that signed the treaty, [ITA.GetNameDef], [ENG.GetNameDef] and [FRA.GetNameDef] as well as [USA.GetNameDef] and as per the treaty either of us might veto, should we so wish.",
+    "comment": ""
+  },
+  {
+    "line": 163,
+    "key": "AUS_political_events.27.a",
+    "ver": "",
+    "en": "They won't cause any harm.",
+    "comment": ""
+  },
+  {
+    "line": 164,
+    "key": "AUS_political_events.27.b",
+    "ver": "",
+    "en": "Absolutely not.",
+    "comment": ""
+  },
+  {
+    "line": 166,
+    "key": "AUS_political_events.28.t",
+    "ver": "",
+    "en": "The Guarantors Agree to Rearmament",
+    "comment": ""
+  },
+  {
+    "line": 167,
+    "key": "AUS_political_events.28.desc",
+    "ver": "",
+    "en": "We have finally received the responses from the guarantors and it was well worth the wait. After many discussions and talks amongst them they have agreed that we may rearm and has declared the Treaty of Saint-Germain-En-Laye obsolete. No longer are we bound by the actions of our forefathers.",
+    "comment": ""
+  },
+  {
+    "line": 168,
+    "key": "AUS_political_events.28.a",
+    "ver": "",
+    "en": "Excellent!",
+    "comment": ""
+  },
+  {
+    "line": 170,
+    "key": "AUS_political_events.29.t",
+    "ver": "",
+    "en": "The Guarantors Reject Appeal for Rearmament",
+    "comment": ""
+  },
+  {
+    "line": 171,
+    "key": "AUS_political_events.29.desc",
+    "ver": "",
+    "en": "After long discussions and many a debate the guarantors have decided to not approve of our request of rearmament. We have tried to reason with them but their answer stands firm despite the obvious risk to our sovereignty and independence.",
+    "comment": ""
+  },
+  {
+    "line": 172,
+    "key": "AUS_political_events.29.a",
+    "ver": "",
+    "en": "Then we have no choice...",
+    "comment": ""
+  },
+  {
+    "line": 173,
+    "key": "AUS_political_events.29.a_tt",
+    "ver": "",
+    "en": "§RBy selecting this you will permanently get rid of the Treaty of Saint-Germain-En-Laye but there might be consequences§!",
+    "comment": ""
+  },
+  {
+    "line": 174,
+    "key": "AUS_political_events.29.b",
+    "ver": "",
+    "en": "We must negotiate this!",
+    "comment": ""
+  },
+  {
+    "line": 175,
+    "key": "AUS_political_events.29.c",
+    "ver": "",
+    "en": "They set us up for failure but what can we do?",
+    "comment": ""
+  },
+  {
+    "line": 176,
+    "key": "AUS_political_events.29.c_tt",
+    "ver": "",
+    "en": "§RBy selecting this you will have the Treaty of Saint-Germain-En-Laye active until 16th July 1940§!",
+    "comment": ""
+  },
+  {
+    "line": 178,
+    "key": "AUS_political_events.30.t",
+    "ver": "",
+    "en": "[AUS.GetNameDefCap] Breaks the Treaty of Saint-Germain-En-Laye",
+    "comment": ""
+  },
+  {
+    "line": 179,
+    "key": "AUS_political_events.30.desc",
+    "ver": "",
+    "en": "[GetTreatyStatus]",
+    "comment": ""
+  },
+  {
+    "line": 180,
+    "key": "AUS_treaty_asked_permission_key",
+    "ver": "",
+    "en": "Despite our best efforts to stop them the [AUS.GetAdjective] government has decided to order the rearmament of [AUS.GetNameDef] in clear breech of the treaty. We had hoped it would not come to this but there seems to be no stopping them from going down this path.",
+    "comment": ""
+  },
+  {
+    "line": 181,
+    "key": "AUS_treaty_no_permission_key",
+    "ver": "",
+    "en": "Without any warning whatsoever we have been informed that [AUS.GetNameDef] no longer will abide by the Treaty of Saint-Germain-En-Laye with all that it entails. Most importantly this means that they will now rearm freely with no regard for the limitations that was set upon them after the Great War. Why they so suddenly wish to rearm remains unclear.",
+    "comment": ""
+  },
+  {
+    "line": 182,
+    "key": "AUS_political_events.30.a",
+    "ver": "",
+    "en": "We can't stop them, but we can slow them down",
+    "comment": ""
+  },
+  {
+    "line": 183,
+    "key": "AUS_political_events.30.b",
+    "ver": "",
+    "en": "Fine, let them then.",
+    "comment": ""
+  },
+  {
+    "line": 184,
+    "key": "AUS_political_events.30.c",
+    "ver": "",
+    "en": "No more guarantees for them!",
+    "comment": ""
+  },
+  {
+    "line": 185,
+    "key": "AUS_broke_the_treaty",
+    "ver": "",
+    "en": "Broke our Treaty",
+    "comment": ""
+  },
+  {
+    "line": 186,
+    "key": "AUS_broke_the_treaty_democratic",
+    "ver": "",
+    "en": "Broke our Treaty",
+    "comment": ""
+  },
+  {
+    "line": 188,
+    "key": "AUS_political_events.31.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Seeks Compensation For Their Help",
+    "comment": ""
+  },
+  {
+    "line": 189,
+    "key": "AUS_political_events.31.desc",
+    "ver": "",
+    "en": "As the dust settles after the civil war we have been contacted by the [FROM.GetAdjective] about the matter of compensation for their efforts in the civil war. They seek some form of compensation for the work they did, the men they lost and the guns that were used and broken by their volunteers.",
+    "comment": ""
+  },
+  {
+    "line": 190,
+    "key": "AUS_political_events.31.a",
+    "ver": "",
+    "en": "We'll help industrially.",
+    "comment": ""
+  },
+  {
+    "line": 191,
+    "key": "AUS_political_events.31.b",
+    "ver": "",
+    "en": "They can have some of the equipment we captured",
+    "comment": ""
+  },
+  {
+    "line": 192,
+    "key": "AUS_political_events.31.c",
+    "ver": "",
+    "en": "Their support was negligible",
+    "comment": ""
+  },
+  {
+    "line": 194,
+    "key": "AUS_political_events.32.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Offers Help to Build a New Factory",
+    "comment": ""
+  },
+  {
+    "line": 195,
+    "key": "AUS_political_events.32.desc",
+    "ver": "",
+    "en": "Our request for compensation has been heard by the [FROM.GetAdjective] nationalists and as a way of thanking us they have lent us workers and materials to build a new factory in Niederösterreich. This will let us replace lost equipment and prove most helpful in the future too.",
+    "comment": ""
+  },
+  {
+    "line": 196,
+    "key": "AUS_political_events.32.a",
+    "ver": "",
+    "en": "Great!",
+    "comment": ""
+  },
+  {
+    "line": 198,
+    "key": "AUS_political_events.33.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Offers Captured Equipment",
+    "comment": ""
+  },
+  {
+    "line": 199,
+    "key": "AUS_political_events.33.desc",
+    "ver": "",
+    "en": "Our request for compensation has been heard by the [SPA.GetAdjective] and as a way of thanking us they have sent us some of the equipment that they captured from their opponents during the civil war to reimburse some of the equipment we lost by helping them.",
+    "comment": ""
+  },
+  {
+    "line": 200,
+    "key": "AUS_political_events.33.a",
+    "ver": "",
+    "en": "Great!",
+    "comment": ""
+  },
+  {
+    "line": 202,
+    "key": "AUS_political_events.34.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Refuses to Reimburse Us",
+    "comment": ""
+  },
+  {
+    "line": 203,
+    "key": "AUS_political_events.34.desc",
+    "ver": "",
+    "en": "After helping the [SPA.GetAdjective] in their civil war the least we expected was some sort of reimbursement and gratefulness but it seems we hoped for too much. Stating that our help was nothing major the leadership of [SPA.GetNameDef] rejects the idea that we should have any sort of compensation for the support we offered.",
+    "comment": ""
+  },
+  {
+    "line": 204,
+    "key": "AUS_political_events.34.a",
+    "ver": "",
+    "en": "How rude...",
+    "comment": ""
+  },
+  {
+    "line": 206,
+    "key": "AUS_political_events.35.t",
+    "ver": "",
+    "en": "Paramilitary Activities Causing Civil Unrest",
+    "comment": ""
+  },
+  {
+    "line": 207,
+    "key": "AUS_political_events.35.desc",
+    "ver": "",
+    "en": "Our recent cooperation with the [GetMilitiaName] has had some troubling side effects. As the organization has been legitimized by the country's leadership the [GetMilitiaName] has grown bolder in their actions against the civilian populace.\\n\\nThe unrest within the nation has grown as our people no longer feel entirely at ease with how the organization works. Questions are being raised to our leadership whether we truly are in control of the [GetMilitiaName], and if this decision truly will help keep the nation safe.",
+    "comment": ""
+  },
+  {
+    "line": 208,
+    "key": "AUS_political_events.35.a",
+    "ver": "",
+    "en": "The [GetMilitiaName] had their chance.",
+    "comment": ""
+  },
+  {
+    "line": 209,
+    "key": "AUS_political_events.35.b",
+    "ver": "",
+    "en": "The people just need to adjust.",
+    "comment": ""
+  },
+  {
+    "line": 210,
+    "key": "AUS_political_events.35.c",
+    "ver": "",
+    "en": "This will be the new [ROOT.GetName]!",
+    "comment": ""
+  },
+  {
+    "line": 212,
+    "key": "AUS_political_events.36.t",
+    "ver": "",
+    "en": "The Future of [ROOT.GetNameDef]",
+    "comment": ""
+  },
+  {
+    "line": 213,
+    "key": "AUS_political_events.36.desc",
+    "ver": "",
+    "en": "Our journey back from being a severely crippled minor power has been a long and arduous one. Looking back at where we started makes it all too clear that this journey has been worth it. Reborn and even stronger than before it is now time for us to decide what our future holds and how we wish to be known.",
+    "comment": ""
+  },
+  {
+    "line": 214,
+    "key": "AUS_political_events.36.a",
+    "ver": "",
+    "en": "In due time we shall be known as [GetGrossosterreichCosmeticIdeology]",
+    "comment": ""
+  },
+  {
+    "line": 215,
+    "key": "AUS_grossosterreich_fascism_key",
+    "ver": "",
+    "en": "Großösterreich",
+    "comment": ""
+  },
+  {
+    "line": 216,
+    "key": "AUS_grossosterreich_neutrality_key",
+    "ver": "",
+    "en": "the Greater Austrian Empire",
+    "comment": ""
+  },
+  {
+    "line": 217,
+    "key": "AUS_political_events.36.a_tt",
+    "ver": "",
+    "en": "§YUnlocks decisions§! to §YIntegrate German Cores§! over time.",
+    "comment": ""
+  },
+  {
+    "line": 218,
+    "key": "AUS_political_events.36.b",
+    "ver": "",
+    "en": "We shall be known as Süddeutschland",
+    "comment": ""
+  },
+  {
+    "line": 219,
+    "key": "AUS_political_events.36.c",
+    "ver": "",
+    "en": "We are perfect as we are",
+    "comment": ""
+  },
+  {
+    "line": 221,
+    "key": "AUS_political_events.37.t",
+    "ver": "",
+    "en": "Ultimatum From [FROM.GetNameDef]",
+    "comment": ""
+  },
+  {
+    "line": 222,
+    "key": "AUS_political_events.37.desc",
+    "ver": "",
+    "en": "[GetIntegrationEventTarget]",
+    "comment": ""
+  },
+  {
+    "line": 223,
+    "key": "AUS_integration_target_is_poland_key",
+    "ver": "",
+    "en": "A harsh message has been passed to us from the [FROM.GetAdjective] government. They demand that we hand over [Get37PuppetOrNotDesc] to them and warn us that there might be consequences should we attempt to resist.\\n\\nThis act of aggression from [FROM.GetNameDef] was not entirely unexpected following upon a series of similar demands made towards other countries in the vicinity.",
+    "comment": ""
+  },
+  {
+    "line": 224,
+    "key": "AUS_integration_target_is_not_poland_key",
+    "ver": "",
+    "en": "The [FROM.GetAdjective] government has reached out to us with an ultimatum. Submit [Get37PuppetOrNotDesc] willingly, or face the might of their now rebuilt war machine on the battlefield. No matter which course we chose to take in this question it seems that there will be no way forward without consequence.",
+    "comment": ""
+  },
+  {
+    "line": 225,
+    "key": "AUS_political_events.37.a",
+    "ver": "",
+    "en": "We will not submit to them!",
+    "comment": ""
+  },
+  {
+    "line": 226,
+    "key": "AUS_political_events.37.b",
+    "ver": "",
+    "en": "We stand no chance against them",
+    "comment": ""
+  },
+  {
+    "line": 227,
+    "key": "AUS_political_events.37_tt",
+    "ver": "",
+    "en": "We will hand over the states they claim to them.",
+    "comment": ""
+  },
+  {
+    "line": 228,
+    "key": "37DescIsPuppet",
+    "ver": "",
+    "en": "[FROM.FROM.OWNER.GetNameDef]",
+    "comment": ""
+  },
+  {
+    "line": 229,
+    "key": "37DescIsNotPuppet",
+    "ver": "",
+    "en": "their old states",
+    "comment": ""
+  },
+  {
+    "line": 231,
+    "key": "AUS_political_events.38.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Refuses Our Demands",
+    "comment": ""
+  },
+  {
+    "line": 232,
+    "key": "AUS_political_events.38.desc",
+    "ver": "",
+    "en": "We wanted to give the [FROM.GetAdjective] a chance [Get38PuppetOrNotDesc] into our society but it seems that our most generous offer was not taken up on. In the end we are very well aware that [FROM.GetNameDef] will fare much better under our leadership.",
+    "comment": ""
+  },
+  {
+    "line": 233,
+    "key": "AUS_political_events.38.a",
+    "ver": "",
+    "en": "They'll join us no matter what they think they want.",
+    "comment": ""
+  },
+  {
+    "line": 234,
+    "key": "AUS_political_events.38_tt",
+    "ver": "",
+    "en": "Creates a §YTake Claimed State§! Wargoal against §Y[FROM.FROM.OWNER.GetNameWithFlag]§!",
+    "comment": ""
+  },
+  {
+    "line": 235,
+    "key": "38DescIsPuppet",
+    "ver": "",
+    "en": "to hand over [FROM.FROM.OWNER.GetName] and let it integrate",
+    "comment": ""
+  },
+  {
+    "line": 236,
+    "key": "38DescIsNotPuppet",
+    "ver": "",
+    "en": "to peacefully integrate",
+    "comment": ""
+  },
+  {
+    "line": 238,
+    "key": "AUS_political_events.39.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Folds",
+    "comment": ""
+  },
+  {
+    "line": 239,
+    "key": "AUS_political_events.39.desc",
+    "ver": "",
+    "en": "The response from the [FROM.GetAdjective] leadership is one that is most welcome. They will lay down arms and not fight back as we integrate what is rightfully ours. Clearly they have seen the value of not plunging their nation into a meaningless war over matters such as this..",
+    "comment": ""
+  },
+  {
+    "line": 240,
+    "key": "AUS_political_events.39.a",
+    "ver": "",
+    "en": "Welcome to [ROOT.GetNameDef]!",
+    "comment": ""
+  },
+  {
+    "line": 242,
+    "key": "AUS_political_events.40.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Seeks to Join the [ROOT.GetFactionName]",
+    "comment": ""
+  },
+  {
+    "line": 243,
+    "key": "AUS_political_events.40.desc",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] has reached out to us asking to join our faction. They have started a militarization effort and express a wish to work together to make us both stronger. Historically the nation has been a major force to be reckoned with on the battlefield but though they have now been weakened they still ascertain that they will the most useful of allies to us.",
+    "comment": ""
+  },
+  {
+    "line": 244,
+    "key": "AUS_political_events.40.a",
+    "ver": "",
+    "en": "They are very welcome to join us",
+    "comment": ""
+  },
+  {
+    "line": 245,
+    "key": "AUS_political_events.40.b",
+    "ver": "",
+    "en": "We have no need of them.",
+    "comment": ""
+  },
+  {
+    "line": 247,
+    "key": "AUS_political_events.41.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Agrees to Let Us Join the [FROM.GetFactionName]",
+    "comment": ""
+  },
+  {
+    "line": 248,
+    "key": "AUS_political_events.41.desc",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] returned our request to join them with enthusiasm and has welcomed us into the faction. No longer will we fight alone against those who threatens us!",
+    "comment": ""
+  },
+  {
+    "line": 249,
+    "key": "AUS_political_events.41.a",
+    "ver": "",
+    "en": "We're stronger together!",
+    "comment": ""
+  },
+  {
+    "line": 251,
+    "key": "AUS_political_events.42.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Rejects to Let Us Join the [FROM.GetFactionName]",
+    "comment": ""
+  }
+]

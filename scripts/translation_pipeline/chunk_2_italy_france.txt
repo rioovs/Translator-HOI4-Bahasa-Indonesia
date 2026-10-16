@@ -1,0 +1,216 @@
+=== [71] italy.9.t (title) ===
+Request Balearic Islands from Spain
+
+=== [72] italy.9.d (desc) ===
+During the civil war, Italy offered volunteers to fight for the nationalist cause. Although ideological motivations were paramount, Italy also had a strategic stake in the outcome. The defense of the Balearic Islands, especially Majorca, was of special interest to Italy due to their position in the Mediterranean Sea, especially in relation to west European colonies.\n\nNow, [From.GetLeader] has suggested the islands to be transferred to Italian control permanently. Considering their contribution to our victory, there may be merits to the suggestions.
+
+=== [73] italy.10.t (title) ===
+Spain Gives Up Balearic Islands
+
+=== [74] italy.10.d (desc) ===
+Thankful of our support and defense of the fascist cause during the Spanish Civil War, [From.GetLeader] has agreed to make our temporary military installations on Majorca, Minorca and Ibiza permanent. Although these islands with their important strategic position are a welcome addition to our empire, it seems the Spaniards now consider the debt repaid.
+
+=== [75] italy.11.t (title) ===
+Spain Refuses to Give Up Islands
+
+=== [76] italy.11.d (desc) ===
+Despite the aid we gave them in the civil war, [From.GetLeader] has now refused to give us the Balearic Islands, which our countrymen fought to defend. Although they insist that they seek to maintain good relations with our nation, making us withdraw the military installations that kept these islands Spanish in the first place is a slight we won't forget.
+
+=== [77] italy.12.t (title) ===
+London Conference
+
+=== [78] italy.12.d (desc) ===
+Our friends in Yugoslavia have come under pressure from our northern neighbor. The corrupt and decadent western powers have shown why they are fading away by failing to stand up for the rights of Yugoslavia. This could be exactly the opening for a younger, more dynamic power who has the right leadership to stride purposely upon the world stage! The Commando Supremo reports they are almost ready to unleash our invincible legions.
+
+=== [79] italy.13.t (title) ===
+First Ljubljana Award
+
+=== [80] italy.13.d_dalmatia_montenegro (desc) ===
+As the Yugoslav state collapses under its own contradictions it is time for Italy to take her due. The fading powers in the West may be so afraid of Italy that they will deny her due but new powers are rising who see Italy's true worth. Not only have we secured what was denied to us in the Mutilated Victory but our protectorate of Albania has seen its territory grow too.
+
+=== [81] italy.13.d_montenegro (desc) ===
+Our decision to align with the rising power of Germany has paid off. The Yugoslav state is heading for dissolution and the German leadership has the foresight to see the benefits of Italian friendship. Montenegro will be passed to Albania as is only right
+
+=== [82] italy.13.d_dalmatia (desc) ===
+After the betrayal of our former allies in the west at the Paris peace conference, where we were promised northern Dalmatia, we chose to align ourselves with Berlin. Germany has wisely judged that Italian friendship is too valuable to ignore and our claims in Yugoslavia are to be recognized. The Adriatic will be an Italian lake and justice will be done.
+
+=== [83] italy.14.t (title) ===
+Germany Thwarts our Demands
+
+=== [84] italy.14.d (desc) ===
+Germany has seen fit to thwart our modest, fair and reasonable demands for Vichy territory. Should we leave [From.GetFactionName]?
+
+=== [85] italy.15.t (title) ===
+Germany Supports our Demands
+
+=== [86] italy.15.d (desc) ===
+Germany has seen the wisdom of supporting our demands for Vichy territory. Vichy has surrendered Savoy and Corsica to us.
+
+=== [87] italy.15.d_Corsica (desc) ===
+With a small amount of Germany support Vichy has surrendered Corsica to us
+
+=== [88] italy.16.t (title) ===
+Germany Almost Supports Us
+
+=== [89] italy.16.d (desc) ===
+Germany has seen fit to meddle in our dispute with Vichy France. They have blocked our attempt to gain Corsica but we still have Savoy.
+
+=== [90] france.1.t (title) ===
+Japan Demands Indochina
+
+=== [91] france.1.d (desc) ===
+Japanese forces are positioned along the borders of our colony in Indochina, and they are demanding total access to our bases and facilities! If we agree to their request, we are effectively signing over control of Indochina to them. On the other hand, we don't exactly have the means to fight them on this issue.
+
+=== [92] france.2.t (title) ===
+Extension of the Maginot Line
+
+=== [93] france.2.d (desc) ===
+Plans for the extension of the Maginot Line all the way to the English Channel have been finished, and construction orders placed. The Belgians have lodged an official protest after seeing our preparations from across the border, but work continues.
+
+=== [94] france.3.t (title) ===
+Extension of the Alpine Line
+
+=== [95] france.3.d (desc) ===
+We have begun work on improving the fortifications of the Alpine Line. When these new defenses are finished, the Italians would have to be mad to cross the border!
+
+=== [96] france.10.t (title) ===
+Defeat
+
+=== [97] france.10.d (desc) ===
+The battle is lost. Paris has fallen into German hands, and it is only a matter of time before the rest of the country is occupied. We must now think to the future. Elements within the government want an armistice with Germany, but many officers wish to continue the struggle from Britain.\n\nCertain members of the British War Cabinet have suggested another option - a merger of France and Great Britain into a single nation, which will fight on until all of France has been liberated.
+
+=== [98] france.11.t (title) ===
+France Proposes Union
+
+=== [99] france.11.d (desc) ===
+The situation in France is dire. Many in their government wish to seek an armistice with Germany, but some have responded favorably to a suggestion by members of the British War Cabinet to merge our two nations into one. This Franco-British Union will continue the fight against the Germans until victory is achieved. How should we respond?
+
+=== [100] france.12.t (title) ===
+Britain Agrees to Union
+
+=== [101] france.12.d (desc) ===
+Britain has agreed to merge our two nations into one. Even now, a new joint government is being formed in London.
+
+=== [102] france.13.t (title) ===
+Britain Refuses Union
+
+=== [103] france.13.d (desc) ===
+The British government has dismissed any possibility of merging our two nations into one. An armistice with Germany at this point is inevitable.
+
+=== [104] france.14.t (title) ===
+Triumph in France
+
+=== [105] france.14.d (desc) ===
+Our victory in France is nearly complete. The French government has asked for an armistice, and our diplomats have prepared terms which they have agreed to. They will retain control of southern France, while we are free to occupy the rest.
+
+=== [106] france.15.t (title) ===
+Germany Refuses Armistice!
+
+=== [107] france.15.d (desc) ===
+The Germans have refused our request for an armistice! They are evidently seeking to enslave us all... we have no choice but to fight to the last!
+
+=== [108] france.16.t (title) ===
+Stay Together, Stay Strong!
+
+=== [109] france.16.d (desc) ===
+As recent events in Paris had an impact on most of us, it is more important than ever that we come together as a nation. We must look at the state our country and not accept, but change the outcome of this war. \n\nForget the past and look to new horizons. We don't know what to expect these following months, but we will face it together!
+
+=== [110] france.17.t (title) ===
+Invitation to French Faction
+
+=== [111] france.17.d (desc) ===
+In an effort to strengthen the Little Entente - Czechoslovakia, Yugoslavia and Romania - and contain the possible resurgence of aggressive expansionism on part of the old Central Powers, France has requested that we join them in an alliance aiming to bring these nations together.
+
+=== [112] france.18.t (title) ===
+[From.GetName] Joins French Faction
+
+=== [113] france.18.d (desc) ===
+Our plan to stop the Little Entente alliance from falling apart and away from us is making progress. [From.GetLeader] approves of our efforts and has accepted our invitation to an alliance.
+
+=== [114] france.19.t (title) ===
+[From.GetName] Refuses French Alliance
+
+=== [115] france.19.d (desc) ===
+Despite our best efforts to offer support to the Little Entente, our most recent attempt to reach out to one of the nations has been met with skepticism. [From.GetLeader] has refused to join the alliance, perhaps doubting our motives, or perhaps being concerned that aligning too closely with us would make them a target.
+
+=== [116] france.20.t (title) ===
+Resistance to the armistice
+
+=== [117] france.20.d (desc) ===
+In the wake of the French armistice with Germany and establishment of a new government in Vichy France, a group of senior officers have rebelled against the new French government. Charles de Gaulle delivered a radio broadcast urging resistance against the collaborationist Vichy regime. De Gaulle effectively assumes leadership of the Free French Forces and continues the fight against the Germans.
+
+=== [118] france.21.t (title) ===
+Workers threaten with strikes
+
+=== [119] france.21.d (desc) ===
+Following the sacking of two workers at a large factory, struggles between workers and factory owners have erupted across the country. Workers backed by [Root.GetCommunistParty] have organized and are demanding better conditions, such as higher wages and shorter work weeks. This will greatly reduce the output of our factories and is viewed as a victory for [Root.GetCommunistParty]. We are invited to Matignon for negotiations. Do we give in to their demands or stand firm and risk a countrywide strike?
+
+=== [120] france.22.t (title) ===
+Revisit Matignon Agreements
+
+=== [121] france.22.d (desc) ===
+With the recently signed Matignon agreements our industry have no way of competing with the German. We are falling behind in production capacity with each passing day. Some factory owners have already started renegotiating some of the rights that were granted at the Matignon Agreements, with little to no resistance from the workers. We have an opportunity to officially revoke the newly gained worker rights countrywide, but risk them rallying behind [Root.GetCommunistParty] once again, in hopes that they will back another strike. Letting the workers keep their rights and focusing on optimizing the current workflow may help reunite the French people and let us grow together.
+
+=== [122] france.23.t (title) ===
+Strikes Are Over
+
+=== [123] france.23.d (desc) ===
+Most workers have now realized that their unreasonable demands will not be met. Their children go hungry and even though [Root.GetCommunistParty] are urging them to continue the strike, they do not possess the resources to continue. With each passing day workers are caving and return to the factories. Our industry will be back to full capacity and it is unlikely we will have strikes anytime soon.
+
+=== [124] france.24.t (title) ===
+The Communist Threat
+
+=== [125] france.24.d (desc) ===
+The threat that a united Germany and Soviet pose is too great to be ignored. After the two countries agreement for the partition of Poland we have a difficult choice to make. If we let [Root.GetCommunistParty] operate as they have so far we open ourselves to internal struggle as the Soviet grow in power. By proscribing any communist activities or affiliation with [Root.GetCommunistParty] we send a powerful signal to all citizens that we will not tolerate anyone who pose a threat to peace. \nTraditionally we have been able to include [Root.GetCommunistParty] in political discussions, but as they refuse to renounce their allegiance to Moscow it may be time to take drastic measures.
+
+=== [126] france.25.t (title) ===
+London Conference
+
+=== [127] france.25.d (desc) ===
+With the regime in Berlin ratcheting up the tension over the border between them and Yugoslavia, the British have chosen to give way. However, Yugoslavia is one of the three pillars on which the Eastern European settlement is built. If it weakens then France's security will suffer. Should prove that we are the greater power and risk fighting alone?
+
+=== [128] france.26.t (title) ===
+London Conference
+
+=== [129] france.26.d (desc) ===
+With the regime in Berlin ratcheting up the tension over the border between them and Yugoslavia, the British have made the decision to stand against German aggression. Yet the wounds of the last war are not yet healed and our country is deeply divided, are we strong enough to go it alone?
+
+=== [130] france.27.t (title) ===
+Germany Backs Italian Demands
+
+=== [131] france.27.d_1_state (desc) ===
+Germany has acceded to Italian demands for our territory. After our defeat we are really in no condition to contest it.
+
+=== [132] france.27.d_both (desc) ===
+Italy is to be given both Savoy and Corsica. This decision from Germany has caused worry in the colonial governors wondering who will be next. The governor of Syria has not waited to find out and has defected to Free France.
+
+=== [133] france.28.t (title) ===
+Syria Defects
+
+=== [134] france.28.d (desc) ===
+Following the German decision to grant Vichy lands to Italy the Syrian administration has chosen to join our side.
+
+=== [135] france.29.t (title) ===
+Britain accepts ally request
+
+=== [136] france.29.d (desc) ===
+'History has shown how much can be accomplished when our great nations stand side by side. In the spirit of the Entente Cordiale, we are proud to welcome you not only as friends, but as Allies. Together we will be a shining beacon of liberty in a world encroached by the darkness of oppression!'\n\nOur request to join Britain as Allies has been accepted. We can count on their full support in the turbulent times ahead.
+
+=== [137] france.30.t (title) ===
+Britain denies ally request
+
+=== [138] france.30.d (desc) ===
+'While we have enjoyed good relations in the past, we cannot risk an escalation of the conflicts across the channel. Germany has earned our trust in the honoring of our Naval Pact, and while we will defend ourselves should the fires spread we will not risk fanning the flames. Peace must always be the goal of any democratic nation.'\n\nOur request to join Britain as Allies has been denied. The British government is unwilling to antagonize Germany further, and will not jeopardize the current peace.
+
+=== [139] france.33.title (title) ===
+French Liberation
+
+=== [140] france.33.desc (desc) ===
+With the end of the war, the need to maintain a close union with the French nation is also passing. French political parties are increasingly calling for the establishment of a provisional government and a general election.
+
+=== [141] france.34.title (title) ===
+Franco-British Union Ends
+
+=== [142] france.34.desc (desc) ===
+With Britain at peace, [From.GetLeader] has agreed to the requests by French political parties for the restoration of a provisional French government. Their political integration has been halted, but no doubt the nations will continue to be close friends in the future.
+

@@ -1,0 +1,1402 @@
+[
+  {
+    "line": 1009,
+    "key": "WW_hungary.60.desc",
+    "ver": "",
+    "en": "Though not entirely unexpected, the foolish [FROM.GetLeader] of [FROM.GetNameDef] has put the nation's troops on high alert after receiving our ultimatum, and sent an envoy stating that they will not take one single step back regarding the dispute.",
+    "comment": ""
+  },
+  {
+    "line": 1010,
+    "key": "WW_hungary.60.a",
+    "ver": "",
+    "en": "They will come to regret their decision!",
+    "comment": ""
+  },
+  {
+    "line": 1011,
+    "key": "WW_hungary.60.b",
+    "ver": "",
+    "en": "We must let this go",
+    "comment": ""
+  },
+  {
+    "line": 1013,
+    "key": "WW_hungary.61.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Restores de Iturbide Rule",
+    "comment": ""
+  },
+  {
+    "line": 1014,
+    "key": "WW_hungary.61.desc",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] has assigned María Josepha Sophia de Iturbide as the new queen of our nation. This will surely strengthen our regime.",
+    "comment": ""
+  },
+  {
+    "line": 1015,
+    "key": "WW_hungary.61.a",
+    "ver": "",
+    "en": "Indeed",
+    "comment": ""
+  },
+  {
+    "line": 1017,
+    "key": "WW_hungary.62.t",
+    "ver": "",
+    "en": "[FROM.GetLeader] Demands we restore Imperial Rule",
+    "comment": ""
+  },
+  {
+    "line": 1018,
+    "key": "WW_hungary.62.desc",
+    "ver": "",
+    "en": "Emperor [FROM.GetLeader] of [FROM.GetNameDefCap] has demanded we restore Iturbide-Habsburg rule over our lands as was the case from 1821 to 1823 and 1864 to 1867, and once again crown a monarch. This would align us with them and let us join their alliance, without completely ending our independence.",
+    "comment": ""
+  },
+  {
+    "line": 1019,
+    "key": "WW_hungary.62.a",
+    "ver": "",
+    "en": "It was about time anyway",
+    "comment": ""
+  },
+  {
+    "line": 1020,
+    "key": "WW_hungary.62.b",
+    "ver": "",
+    "en": "Who do they think they are?",
+    "comment": ""
+  },
+  {
+    "line": 1022,
+    "key": "WW_hungary.63.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Accepts Imperial Rule",
+    "comment": ""
+  },
+  {
+    "line": 1023,
+    "key": "WW_hungary.63.desc",
+    "ver": "",
+    "en": "The wise leadership in [FROM.GetNameDef] has decided to crown María Josepha Sophia de Iturbide their new emperor in accordance to our demands, and step down in place of their new queen.",
+    "comment": ""
+  },
+  {
+    "line": 1024,
+    "key": "WW_hungary.63.a",
+    "ver": "",
+    "en": "They made the right choice",
+    "comment": ""
+  },
+  {
+    "line": 1026,
+    "key": "WW_hungary.64.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Rejects Imperial Rule",
+    "comment": ""
+  },
+  {
+    "line": 1027,
+    "key": "WW_hungary.64.desc",
+    "ver": "",
+    "en": "The decadent leadership in [FROM.GetNameDef] has decided not to step down from their positions, somehow believing that they are wiser than a monarch elected by god himself. We will cut them down and place María Josepha Sophia de Iturbide on their throne, whether they like it or not!",
+    "comment": ""
+  },
+  {
+    "line": 1028,
+    "key": "WW_hungary.64.a",
+    "ver": "",
+    "en": "They made the incorrect choice",
+    "comment": ""
+  },
+  {
+    "line": 1030,
+    "key": "WW_hungary.65.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Assigns us a Habsburg Monarch",
+    "comment": ""
+  },
+  {
+    "line": 1031,
+    "key": "WW_hungary.65.desc",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] has assigned Joseph Francis von Habsburg as the new king of our nation. This will surely strengthen our regime.",
+    "comment": ""
+  },
+  {
+    "line": 1032,
+    "key": "WW_hungary.65.a",
+    "ver": "",
+    "en": "Indeed",
+    "comment": ""
+  },
+  {
+    "line": 1034,
+    "key": "WW_hungary.66.t",
+    "ver": "",
+    "en": "[FROM.GetLeader] demands we restore Habsburg Rule",
+    "comment": ""
+  },
+  {
+    "line": 1035,
+    "key": "WW_hungary.66.desc",
+    "ver": "",
+    "en": "Emperor [FROM.GetLeader] of [FROM.GetNameDefCap] has demanded we restore Habsburg rule over our lands as was the case up until the dissolution of the Austro-Hungarian Empire, and once again crown a Habsburg as our own monarch. They promise us greater autonomy than before however, with great promises of a so called Triple Monarchy. What say we?",
+    "comment": ""
+  },
+  {
+    "line": 1036,
+    "key": "WW_hungary.66.a",
+    "ver": "",
+    "en": "It is what we've always wanted!",
+    "comment": ""
+  },
+  {
+    "line": 1037,
+    "key": "WW_hungary.66.b",
+    "ver": "",
+    "en": "Who do they think they are?",
+    "comment": ""
+  },
+  {
+    "line": 1039,
+    "key": "WW_hungary.67.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Accepts a Habsburg Monarch",
+    "comment": ""
+  },
+  {
+    "line": 1040,
+    "key": "WW_hungary.67.desc",
+    "ver": "",
+    "en": "The wise leadership in [FROM.GetNameDef] has decided to crown a Habsburg monarch in accordance to our demands, and step down in place of their new king.",
+    "comment": ""
+  },
+  {
+    "line": 1041,
+    "key": "WW_hungary.67.a",
+    "ver": "",
+    "en": "They made the right choice",
+    "comment": ""
+  },
+  {
+    "line": 1043,
+    "key": "WW_hungary.68.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Rejects a Habsburg Monarch",
+    "comment": ""
+  },
+  {
+    "line": 1044,
+    "key": "WW_hungary.68.desc",
+    "ver": "",
+    "en": "The decadent leadership in [FROM.GetNameDef] have decided to stay in their current positions, somehow believing that they are wiser than a monarch elected by god himself. We will cut them down and place Joseph Francis on their throne, whether they like it or not!",
+    "comment": ""
+  },
+  {
+    "line": 1045,
+    "key": "WW_hungary.68.a",
+    "ver": "",
+    "en": "They made an unwise choice...",
+    "comment": ""
+  },
+  {
+    "line": 1047,
+    "key": "WW_hungary.69.t",
+    "ver": "",
+    "en": "[FROM.GetLeader] demands we restore Habsburg Rule",
+    "comment": ""
+  },
+  {
+    "line": 1048,
+    "key": "WW_hungary.69.desc",
+    "ver": "",
+    "en": "Emperor [FROM.GetLeader] of [FROM.GetNameDefCap] has demanded we restore Habsburg rule over our lands as was the case up until our unification with Italy, and once again crown a Habsburg as our own monarch. They promise us greater autonomy than before however. What say we?",
+    "comment": ""
+  },
+  {
+    "line": 1049,
+    "key": "WW_hungary.69.a",
+    "ver": "",
+    "en": "We would gladly join",
+    "comment": ""
+  },
+  {
+    "line": 1050,
+    "key": "WW_hungary.69.b",
+    "ver": "",
+    "en": "Who do they think they are?",
+    "comment": ""
+  },
+  {
+    "line": 1052,
+    "key": "WW_hungary.70.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Accepts a Habsburg Monarch",
+    "comment": ""
+  },
+  {
+    "line": 1053,
+    "key": "WW_hungary.70.desc",
+    "ver": "",
+    "en": "The wise leadership in [FROM.GetNameDef] has decided to crown a Habsburg monarch in accordance to our demands, and step down in place of their new king.",
+    "comment": ""
+  },
+  {
+    "line": 1054,
+    "key": "WW_hungary.70.a",
+    "ver": "",
+    "en": "They made the right choice",
+    "comment": ""
+  },
+  {
+    "line": 1056,
+    "key": "WW_hungary.71.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Rejects a Habsburg Monarch",
+    "comment": ""
+  },
+  {
+    "line": 1057,
+    "key": "WW_hungary.71.desc",
+    "ver": "",
+    "en": "The decadent leadership in [FROM.GetNameDef] have decided to stay in their current positions, somehow believing that they are wiser than a monarch elected by god himself. We will cut them down and place Robert on their throne, whether they like it or not!",
+    "comment": ""
+  },
+  {
+    "line": 1058,
+    "key": "WW_hungary.71.a",
+    "ver": "",
+    "en": "They made an unwise choice...",
+    "comment": ""
+  },
+  {
+    "line": 1060,
+    "key": "WW_hungary.72.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Demands Control of our [SIL.GetAdjective] Territories",
+    "comment": ""
+  },
+  {
+    "line": 1061,
+    "key": "WW_hungary.72.desc",
+    "ver": "",
+    "en": "The rash [FROM.GetLeader] has recently denounced our, as he stated it, unlawful occupation of [FROM.GetAdjective] Silesia. Now, we have received a [FROM.GetAdjective] ultimatum, and their troops are amassing on our border. How should we respond?",
+    "comment": ""
+  },
+  {
+    "line": 1062,
+    "key": "WW_hungary.72.a",
+    "ver": "",
+    "en": "It is not worth shedding any blood over",
+    "comment": ""
+  },
+  {
+    "line": 1063,
+    "key": "WW_hungary.72.b",
+    "ver": "",
+    "en": "Then come and get it!",
+    "comment": ""
+  },
+  {
+    "line": 1065,
+    "key": "WW_hungary.73.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] hands over their [SIL.GetAdjective] Territories",
+    "comment": ""
+  },
+  {
+    "line": 1066,
+    "key": "WW_hungary.73.desc",
+    "ver": "",
+    "en": "The reasonable [FROM.GetLeader] of [FROM.GetNameDef] has agreed to hand over their territories in Silesia, and has told their troops to stand down and withdraw from the area. We stand victorious once again!",
+    "comment": ""
+  },
+  {
+    "line": 1067,
+    "key": "WW_hungary.73.a",
+    "ver": "",
+    "en": "This is a great day!",
+    "comment": ""
+  },
+  {
+    "line": 1069,
+    "key": "WW_hungary.74.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Stands Firm in Silesia",
+    "comment": ""
+  },
+  {
+    "line": 1070,
+    "key": "WW_hungary.74.desc",
+    "ver": "",
+    "en": "Though not entirely unexpected, the foolish [FROM.GetLeader] of [FROM.GetNameDef] has put the nation's troops on high alert after receiving our ultimatum, and sent an envoy stating that they will not take one single step back regarding the dispute.",
+    "comment": ""
+  },
+  {
+    "line": 1071,
+    "key": "WW_hungary.74.a",
+    "ver": "",
+    "en": "They will come to regret their decision!",
+    "comment": ""
+  },
+  {
+    "line": 1072,
+    "key": "WW_hungary.74.b",
+    "ver": "",
+    "en": "We must let this go",
+    "comment": ""
+  },
+  {
+    "line": 1074,
+    "key": "WW_hungary.75.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Demands the Holy Land",
+    "comment": ""
+  },
+  {
+    "line": 1075,
+    "key": "WW_hungary.75.desc",
+    "ver": "",
+    "en": "The rash [FROM.GetLeader] has called for the occupation of the Holy Lands by [FROM.GetAdjective] forces, and has demanded we hand over the territory and withdraw our own forces from the region. The situation could potentially spiral out of control if we are not careful. How should we respond?",
+    "comment": ""
+  },
+  {
+    "line": 1076,
+    "key": "WW_hungary.75.a",
+    "ver": "",
+    "en": "The defenders of Catholicism can have it",
+    "comment": ""
+  },
+  {
+    "line": 1077,
+    "key": "WW_hungary.75.b",
+    "ver": "",
+    "en": "How many crusades failed again?",
+    "comment": ""
+  },
+  {
+    "line": 1079,
+    "key": "WW_hungary.76.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] hands over the Holy Land",
+    "comment": ""
+  },
+  {
+    "line": 1080,
+    "key": "WW_hungary.76.desc",
+    "ver": "",
+    "en": "The reasonable [FROM.GetLeader] of [FROM.GetNameDef] has agreed to hand over Palestine to us, and has told their troops to stand down and withdraw from the area. We stand victorious once again!",
+    "comment": ""
+  },
+  {
+    "line": 1081,
+    "key": "WW_hungary.76.a",
+    "ver": "",
+    "en": "This is a great day!",
+    "comment": ""
+  },
+  {
+    "line": 1083,
+    "key": "WW_hungary.77.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Stands Firm in the Holy Land",
+    "comment": ""
+  },
+  {
+    "line": 1084,
+    "key": "WW_hungary.77.desc",
+    "ver": "",
+    "en": "Though not entirely unexpected, the foolish [FROM.GetLeader] of [FROM.GetNameDef] has put the nation's troops on high alert after receiving our ultimatum, and sent an envoy stating that they will not take one single step back regarding the dispute.",
+    "comment": ""
+  },
+  {
+    "line": 1085,
+    "key": "WW_hungary.77.a",
+    "ver": "",
+    "en": "They will come to regret their decision!",
+    "comment": ""
+  },
+  {
+    "line": 1086,
+    "key": "WW_hungary.77.b",
+    "ver": "",
+    "en": "We must let this go",
+    "comment": ""
+  },
+  {
+    "line": 1088,
+    "key": "WW_hungary.78.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Assigns us a New Leader",
+    "comment": ""
+  },
+  {
+    "line": 1089,
+    "key": "WW_hungary.78.desc",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] has assigned a new Pope as the leader of our nation. This will surely strengthen our regime.",
+    "comment": ""
+  },
+  {
+    "line": 1090,
+    "key": "WW_hungary.78.a",
+    "ver": "",
+    "en": "Indeed",
+    "comment": ""
+  },
+  {
+    "line": 1092,
+    "key": "WW_hungary.79.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Assigns us a New Leader",
+    "comment": ""
+  },
+  {
+    "line": 1093,
+    "key": "WW_hungary.79.desc",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] has assigned a new monarch as the leader of our nation. This will surely strengthen our regime.",
+    "comment": ""
+  },
+  {
+    "line": 1094,
+    "key": "WW_hungary.79.a",
+    "ver": "",
+    "en": "Indeed",
+    "comment": ""
+  },
+  {
+    "line": 1096,
+    "key": "WW_hungary.80.t",
+    "ver": "",
+    "en": "[HUN.GetNameDefCap] is looking to Integrate us",
+    "comment": ""
+  },
+  {
+    "line": 1097,
+    "key": "WW_hungary.80.desc",
+    "ver": "",
+    "en": "[HUN.GetNameDefCap] has decided that it is high time for our lands to be integrated back into the crown of Austria-Hungary. We cannot do much but accept this fact....",
+    "comment": ""
+  },
+  {
+    "line": 1098,
+    "key": "WW_hungary.80.a",
+    "ver": "",
+    "en": "It is as it should be",
+    "comment": ""
+  },
+  {
+    "line": 1099,
+    "key": "WW_hungary.80.b",
+    "ver": "",
+    "en": "They will never take us alive!",
+    "comment": ""
+  },
+  {
+    "line": 1101,
+    "key": "WW_hungary.81.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] accepts Integration",
+    "comment": ""
+  },
+  {
+    "line": 1102,
+    "key": "WW_hungary.81.desc",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] has decided to accept our demand for their lands to be integrated back into the crown of Austria-Hungary. Today is a great day for the empire!",
+    "comment": ""
+  },
+  {
+    "line": 1103,
+    "key": "WW_hungary.81.a",
+    "ver": "",
+    "en": "And all is well in the world",
+    "comment": ""
+  },
+  {
+    "line": 1105,
+    "key": "WW_hungary.82.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] denies Integration",
+    "comment": ""
+  },
+  {
+    "line": 1106,
+    "key": "WW_hungary.82.desc",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] has decided to deny our demand for their lands to be integrated back into the crown of Austria-Hungary. We will as such have to do it by force...",
+    "comment": ""
+  },
+  {
+    "line": 1107,
+    "key": "WW_hungary.82.a",
+    "ver": "",
+    "en": "We will make them pay",
+    "comment": ""
+  },
+  {
+    "line": 1109,
+    "key": "WW_hungary.83.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] offers to purchase [975.GetName]",
+    "comment": ""
+  },
+  {
+    "line": 1110,
+    "key": "WW_hungary.83.desc",
+    "ver": "",
+    "en": "The [HUN.GetAdjective] government still sees [975.GetName] as an integral region of their realm, stating that it used to be part of Hungary during the Empire and therefore should be returned. They have now approached us with an offer to buy the region back from us, for a good price that is.",
+    "comment": ""
+  },
+  {
+    "line": 1111,
+    "key": "WW_hungary.83.a",
+    "ver": "",
+    "en": "We will take all the money we can get",
+    "comment": ""
+  },
+  {
+    "line": 1112,
+    "key": "WW_hungary.83.b",
+    "ver": "",
+    "en": "[975.GetName] is [ROOT.GetAdjective]!",
+    "comment": ""
+  },
+  {
+    "line": 1114,
+    "key": "WW_hungary.84.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] sells us [975.GetName]",
+    "comment": ""
+  },
+  {
+    "line": 1115,
+    "key": "WW_hungary.84.desc",
+    "ver": "",
+    "en": "The reasonable [FROM.GetLeader] of [FROM.GetNameDef] has agreed to hand over [975.GetName] to us, and has received the payment as we promised. Today is a great day for the [ROOT.GetAdjective] people!",
+    "comment": ""
+  },
+  {
+    "line": 1116,
+    "key": "WW_hungary.84.a",
+    "ver": "",
+    "en": "Perfect",
+    "comment": ""
+  },
+  {
+    "line": 1118,
+    "key": "WW_hungary.85.t",
+    "ver": "",
+    "en": "[From.GetNameDefCap] Refuses our Offer",
+    "comment": ""
+  },
+  {
+    "line": 1119,
+    "key": "WW_hungary.85.desc",
+    "ver": "",
+    "en": "Though not entirely unexpected, the foolish [FROM.GetLeader] of [FROM.GetNameDef] has denied our request, and has sent an envoy stating that they will not take one single step back regarding the dispute in [975.GetName].",
+    "comment": ""
+  },
+  {
+    "line": 1120,
+    "key": "WW_hungary.85.a",
+    "ver": "",
+    "en": "They will come to regret their decision!",
+    "comment": ""
+  },
+  {
+    "line": 1121,
+    "key": "WW_hungary.85.b",
+    "ver": "",
+    "en": "They said no and we shall respect that",
+    "comment": ""
+  },
+  {
+    "line": 1123,
+    "key": "WW_hungary.86.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Stages an Uprising in [975.GetName]",
+    "comment": ""
+  },
+  {
+    "line": 1124,
+    "key": "WW_hungary.86.desc",
+    "ver": "",
+    "en": "Rebels belonging to [FROM.GetAdjective] paramilitary organizations have seized control of key buildings in the [975.GetName] region, hastily holding a referendum for it to rejoin [FROM.GetNameDef], with the clearly rigged results being heavily in favor of doing so. Our troops are on standby close by, but are awaiting orders to see if intervention is the right choice of action or not.",
+    "comment": ""
+  },
+  {
+    "line": 1125,
+    "key": "WW_hungary.86.a",
+    "ver": "",
+    "en": "We don't have the strength to fight them",
+    "comment": ""
+  },
+  {
+    "line": 1126,
+    "key": "WW_hungary.86.b",
+    "ver": "",
+    "en": "They will learn to regret their decision!",
+    "comment": ""
+  },
+  {
+    "line": 1128,
+    "key": "WW_hungary.87.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Wishes to Join Our Faction",
+    "comment": ""
+  },
+  {
+    "line": 1129,
+    "key": "WW_hungary.87.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] has approached us after a visit to our capital, claiming to speak on behalf of all [FROM.GetAdjective] people, wishing for the both of our nations to join each other in a military alliance, with the goal of protecting the people of both the [ROOT.GetAdjective] and [FROM.GetAdjective] nations.",
+    "comment": ""
+  },
+  {
+    "line": 1130,
+    "key": "WW_hungary.87.a",
+    "ver": "",
+    "en": "They are welcome to join us",
+    "comment": ""
+  },
+  {
+    "line": 1131,
+    "key": "WW_hungary.87.b",
+    "ver": "",
+    "en": "We have no use for them",
+    "comment": ""
+  },
+  {
+    "line": 1133,
+    "key": "WW_hungary.88.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Lets us Join Them",
+    "comment": ""
+  },
+  {
+    "line": 1134,
+    "key": "WW_hungary.88.desc",
+    "ver": "",
+    "en": "The [FROM.GetLeader] of [FROM.GetNameDef] has agreed to form a new military alliance, strengthening the connection between our nations. Our people have come out into the streets to celebrate this momentous occasion, as it marks the rebirth of the [ROOT.GetAdjective] state, and the beginning of a new, safer era for its people.",
+    "comment": ""
+  },
+  {
+    "line": 1135,
+    "key": "WW_hungary.88.a",
+    "ver": "",
+    "en": "Let us build our future together!",
+    "comment": ""
+  },
+  {
+    "line": 1137,
+    "key": "WW_hungary.89.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Doesn't Let us Join Them",
+    "comment": ""
+  },
+  {
+    "line": 1138,
+    "key": "WW_hungary.89.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] of [FROM.GetNameDef] has denied us our request, essentially barring all opportunities for cooperation between our states in the near future. We will as such have to seek other alliances, or stand on our own.",
+    "comment": ""
+  },
+  {
+    "line": 1139,
+    "key": "WW_hungary.89.a",
+    "ver": "",
+    "en": "It was not meant to be",
+    "comment": ""
+  },
+  {
+    "line": 1141,
+    "key": "WW_hungary.90.t",
+    "ver": "",
+    "en": "Crowning of an Apostolic King",
+    "comment": ""
+  },
+  {
+    "line": 1142,
+    "key": "WW_hungary.90.desc",
+    "ver": "",
+    "en": "Now it has been decided that the monarchy be officially reinstated, but we have an issue. No good candidates have appeared, yet the regent needs to choose soon. He could crown himself, though that would be widely unpopular, or perhaps go an alternative route and crown his son István Horthy, who is very popular among the people. Who should be chosen for the position?",
+    "comment": ""
+  },
+  {
+    "line": 1143,
+    "key": "WW_hungary.90.a",
+    "ver": "",
+    "en": "Miklós Horthy is the natural choice",
+    "comment": ""
+  },
+  {
+    "line": 1144,
+    "key": "WW_hungary.90.b",
+    "ver": "",
+    "en": "István Horthy has the people's support",
+    "comment": ""
+  },
+  {
+    "line": 1146,
+    "key": "WW_hungary.91.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Proposes a Union",
+    "comment": ""
+  },
+  {
+    "line": 1147,
+    "key": "WW_hungary.91.desc",
+    "ver": "",
+    "en": "The [HUN.GetAdjective] government has approached us with an interesting offer to unify our two countries as one. They of course want it to be one their terms, meaning it would be their government to rule both, but perhaps that is the safest option to go for?",
+    "comment": ""
+  },
+  {
+    "line": 1148,
+    "key": "WW_hungary.91.a",
+    "ver": "",
+    "en": "Very well, we accept",
+    "comment": ""
+  },
+  {
+    "line": 1149,
+    "key": "WW_hungary.91.b",
+    "ver": "",
+    "en": "They must be full of themselves",
+    "comment": ""
+  },
+  {
+    "line": 1151,
+    "key": "WW_hungary.92.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Accepts Union",
+    "comment": ""
+  },
+  {
+    "line": 1152,
+    "key": "WW_hungary.92.desc",
+    "ver": "",
+    "en": "The reasonable [FROM.GetLeader] of [FROM.GetNameDef] has agreed to hand over control of the government to us, beginning the process of unifying our both nations under one king. We stand victorious once again!",
+    "comment": ""
+  },
+  {
+    "line": 1153,
+    "key": "WW_hungary.92.a",
+    "ver": "",
+    "en": "Great!",
+    "comment": ""
+  },
+  {
+    "line": 1155,
+    "key": "WW_hungary.93.t",
+    "ver": "",
+    "en": "[From.GetNameDefCap] Rejects Union",
+    "comment": ""
+  },
+  {
+    "line": 1156,
+    "key": "WW_hungary.93.desc",
+    "ver": "",
+    "en": "Though not entirely unexpected, the foolish [FROM.GetLeader] of [FROM.GetNameDef] has put the nation's troops on high alert after receiving our proposal, and sent an envoy stating that they will not take one single step back, stating that 'Romania is Romania!'.",
+    "comment": ""
+  },
+  {
+    "line": 1157,
+    "key": "WW_hungary.93.a",
+    "ver": "",
+    "en": "It is their choice to make",
+    "comment": ""
+  },
+  {
+    "line": 1159,
+    "key": "WW_hungary.94.t",
+    "ver": "",
+    "en": "Electing a New [ROOT.GetAdjective] President",
+    "comment": ""
+  },
+  {
+    "line": 1160,
+    "key": "WW_hungary.94.desc",
+    "ver": "",
+    "en": "The nation is in dire need of an elected representative of the people, now that the dust of the civil war has settled. In one corner stands the popular Mihály Károlyi, conservative politician and prior prime minister of Hungary. On the other side are the communists, some of which support returning Bela Kun, leader of the former Hungarian Soviet Republic to power, and others which support the Stalinist Mátyás Rákosi, having recently earned praise by fighting on the front-lines. Who shall lead the country into the future?",
+    "comment": ""
+  },
+  {
+    "line": 1161,
+    "key": "WW_hungary.94.a",
+    "ver": "",
+    "en": "Béla Kun must return to power",
+    "comment": ""
+  },
+  {
+    "line": 1162,
+    "key": "WW_hungary.94.b",
+    "ver": "",
+    "en": "Mátyás Rákosi has earned the people's respect",
+    "comment": ""
+  },
+  {
+    "line": 1163,
+    "key": "WW_hungary.94.c",
+    "ver": "",
+    "en": "Mihály Károlyi should lead us",
+    "comment": ""
+  },
+  {
+    "line": 1165,
+    "key": "WW_hungary.95.t",
+    "ver": "",
+    "en": "The First Presidential Election of the Second Republic",
+    "comment": ""
+  },
+  {
+    "line": 1166,
+    "key": "WW_hungary.95.desc",
+    "ver": "",
+    "en": "The time has come to finally hold a presidential election for the nation, and secure that our democratic principles can shine as a bright beacon in the center of Europe. The main candidates taking part are Mihály Károlyi, president of the First Republic, Árpád Szakasits leader of the Hungarian social democrats, and János Zichy, leader of the Hungarian Christian Economic and Social Party, as well as a member of the Hungarian Academy of Sciences. What future awaits Hungary?",
+    "comment": ""
+  },
+  {
+    "line": 1167,
+    "key": "WW_hungary.95.a",
+    "ver": "",
+    "en": "Mihály Károlyi knows how to lead",
+    "comment": ""
+  },
+  {
+    "line": 1168,
+    "key": "WW_hungary.95.b",
+    "ver": "",
+    "en": "Árpád Szakasits can find a good middle-ground",
+    "comment": ""
+  },
+  {
+    "line": 1169,
+    "key": "WW_hungary.95.c",
+    "ver": "",
+    "en": "János Zichy can help us get back on our feet",
+    "comment": ""
+  },
+  {
+    "line": 1171,
+    "key": "WW_hungary.96.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Demands Control of our [SLO.GetAdjective] Territories",
+    "comment": ""
+  },
+  {
+    "line": 1172,
+    "key": "WW_hungary.96.desc",
+    "ver": "",
+    "en": "The rash [FROM.GetLeader] has recently denounced our, as he stated it, unlawful occupation of [FROM.GetAdjective] Slovakia. Now, we have received a [FROM.GetAdjective] ultimatum, and their troops are amassing on our border. How should we respond?",
+    "comment": ""
+  },
+  {
+    "line": 1173,
+    "key": "WW_hungary.96.a",
+    "ver": "",
+    "en": "It is not worth shedding any blood over",
+    "comment": ""
+  },
+  {
+    "line": 1174,
+    "key": "WW_hungary.96.b",
+    "ver": "",
+    "en": "Then come and get it!",
+    "comment": ""
+  },
+  {
+    "line": 1176,
+    "key": "WW_hungary.97.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] hands over their [SLO.GetAdjective] Territories",
+    "comment": ""
+  },
+  {
+    "line": 1177,
+    "key": "WW_hungary.97.desc",
+    "ver": "",
+    "en": "The reasonable [FROM.GetLeader] of [FROM.GetNameDef] has agreed to hand over their territories in Slovakia, and has told their troops to stand down and withdraw from the area. We stand victorious once again!",
+    "comment": ""
+  },
+  {
+    "line": 1178,
+    "key": "WW_hungary.97.a",
+    "ver": "",
+    "en": "This is a great day!",
+    "comment": ""
+  },
+  {
+    "line": 1180,
+    "key": "WW_hungary.98.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Stands Firm in Slovakia",
+    "comment": ""
+  },
+  {
+    "line": 1181,
+    "key": "WW_hungary.98.desc",
+    "ver": "",
+    "en": "Though not entirely unexpected, the foolish [FROM.GetLeader] of [FROM.GetNameDef] has put the nation's troops on high alert after receiving our ultimatum, and sent an envoy stating that they will not take one single step back regarding the dispute.",
+    "comment": ""
+  },
+  {
+    "line": 1182,
+    "key": "WW_hungary.98.a",
+    "ver": "",
+    "en": "They will come to regret their decision!",
+    "comment": ""
+  },
+  {
+    "line": 1183,
+    "key": "WW_hungary.98.b",
+    "ver": "",
+    "en": "We must let this go",
+    "comment": ""
+  },
+  {
+    "line": 1185,
+    "key": "WW_hungary.99.t",
+    "ver": "",
+    "en": "Hungary Demands Overlordship over Székely Land",
+    "comment": ""
+  },
+  {
+    "line": 1186,
+    "key": "WW_hungary.99.desc",
+    "ver": "",
+    "en": "The area comprising most of [76.GetName], known to the [HUN.GetAdjective] people as Székelyföld, is in large part inhabited by their brethren, the Székely Hungarians. They speak their own distinct dialect and have their own unique culture, and as such [HUN.GetLeader] has stated that they need not be an integrated part of their nation. However, they wish to be the guardians of this people, and requests of us overlordship over the area.",
+    "comment": ""
+  },
+  {
+    "line": 1187,
+    "key": "WW_hungary.99.a",
+    "ver": "",
+    "en": "For a more just world!",
+    "comment": ""
+  },
+  {
+    "line": 1188,
+    "key": "WW_hungary.99.b",
+    "ver": "",
+    "en": "They are clearly delusional",
+    "comment": ""
+  },
+  {
+    "line": 1190,
+    "key": "WW_hungary.100.t",
+    "ver": "",
+    "en": "[FROM.GetName] grants us a Székelyföld Protectorate",
+    "comment": ""
+  },
+  {
+    "line": 1191,
+    "key": "WW_hungary.100.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] of [FROM.GetNameDef] has accepted our demands and handed the region of Székelyföld as an autonomous region. We are now tasked with the protection and improvement of the region.",
+    "comment": ""
+  },
+  {
+    "line": 1192,
+    "key": "WW_hungary.100.a",
+    "ver": "",
+    "en": "Reunited at long last!",
+    "comment": ""
+  },
+  {
+    "line": 1194,
+    "key": "WW_hungary.101.t",
+    "ver": "",
+    "en": "[FROM.GetName] refuses us our Székelyföld Protectorate",
+    "comment": ""
+  },
+  {
+    "line": 1195,
+    "key": "WW_hungary.101.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] of [FROM.GetNameDef] has refused our demands for an autonomous Székely protectorate. The Székely people remain vulnerable and unprotected. Seeing as their current overlords care very little for them, should we step in and occupy the region?",
+    "comment": ""
+  },
+  {
+    "line": 1196,
+    "key": "WW_hungary.101.a",
+    "ver": "",
+    "en": "They will regret their actions",
+    "comment": ""
+  },
+  {
+    "line": 1197,
+    "key": "WW_hungary.101.b",
+    "ver": "",
+    "en": "There is not much we can do",
+    "comment": ""
+  },
+  {
+    "line": 1199,
+    "key": "WW_hungary.102.t",
+    "ver": "",
+    "en": "The March on Budapest",
+    "comment": ""
+  },
+  {
+    "line": 1200,
+    "key": "WW_hungary.102.desc",
+    "ver": "",
+    "en": "After months of campaigning and protesting against Regent Miklós Horthy, the fascist movements, inspired by the Scythe Cross rebellion and Mussolini's march on Rome, have now marched on our capital, demanding Horthy step down for the more favorable Gyula Gömbös take up his position.",
+    "comment": ""
+  },
+  {
+    "line": 1201,
+    "key": "WW_hungary.102.a",
+    "ver": "",
+    "en": "Gömbös must take up emergency powers!",
+    "comment": ""
+  },
+  {
+    "line": 1203,
+    "key": "WW_hungary.103.t",
+    "ver": "",
+    "en": "Ferenc Szálasi's coup d'etat",
+    "comment": ""
+  },
+  {
+    "line": 1204,
+    "key": "WW_hungary.103.desc",
+    "ver": "",
+    "en": "After having armed the Party of National Will in order to have them march on Budapest so that he could take national leadership; Gömbös no longer has any need for them, and has made moves to suppress them. This morning however, they surrounded Sándor Palace in Budapest, demanding he step down in favor of their leader, Ferenc Szálasi. The MOVE has in response started moving to envelop the city, and the country stands at the precipice of collapse. What should be done?",
+    "comment": ""
+  },
+  {
+    "line": 1205,
+    "key": "WW_hungary.103.a",
+    "ver": "",
+    "en": "Stand down and make Szálasi the new Nemzetvezető",
+    "comment": ""
+  },
+  {
+    "line": 1206,
+    "key": "WW_hungary.103.b",
+    "ver": "",
+    "en": "We will agree to their terms, on a condition",
+    "comment": ""
+  },
+  {
+    "line": 1208,
+    "key": "WW_hungary.104.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Demands Control of Croatia",
+    "comment": ""
+  },
+  {
+    "line": 1209,
+    "key": "WW_hungary.104.desc",
+    "ver": "",
+    "en": "The rash [FROM.GetLeader] has recently denounced our, as he stated it, unlawful occupation of our Croatian lands. Now, we have received a [FROM.GetAdjective] ultimatum, and their troops are amassing on our border. How should we respond?",
+    "comment": ""
+  },
+  {
+    "line": 1210,
+    "key": "WW_hungary.104.a",
+    "ver": "",
+    "en": "It is not worth shedding any blood over",
+    "comment": ""
+  },
+  {
+    "line": 1211,
+    "key": "WW_hungary.104.b",
+    "ver": "",
+    "en": "Then come and get it!",
+    "comment": ""
+  },
+  {
+    "line": 1213,
+    "key": "WW_hungary.105.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] hands over their Croatian Lands",
+    "comment": ""
+  },
+  {
+    "line": 1214,
+    "key": "WW_hungary.105.desc",
+    "ver": "",
+    "en": "The reasonable [FROM.GetLeader] of [FROM.GetNameDef] has agreed to hand over their territories in Croatia, and has told their troops to stand down and withdraw from the area. We stand victorious once again!",
+    "comment": ""
+  },
+  {
+    "line": 1215,
+    "key": "WW_hungary.105.a",
+    "ver": "",
+    "en": "This is a great day!",
+    "comment": ""
+  },
+  {
+    "line": 1217,
+    "key": "WW_hungary.106.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Stands Firm",
+    "comment": ""
+  },
+  {
+    "line": 1218,
+    "key": "WW_hungary.106.desc",
+    "ver": "",
+    "en": "Though not entirely unexpected, the foolish [FROM.GetLeader] of [FROM.GetNameDef] has put the nation's troops on high alert after receiving our ultimatum, and sent an envoy stating that they will not take one single step back regarding the dispute.",
+    "comment": ""
+  },
+  {
+    "line": 1219,
+    "key": "WW_hungary.106.a",
+    "ver": "",
+    "en": "They will come to regret their decision!",
+    "comment": ""
+  },
+  {
+    "line": 1220,
+    "key": "WW_hungary.106.b",
+    "ver": "",
+    "en": "We must let this go",
+    "comment": ""
+  },
+  {
+    "line": 1222,
+    "key": "WW_hungary.108.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] wants to Crown Hermann Göring King",
+    "comment": ""
+  },
+  {
+    "line": 1223,
+    "key": "WW_hungary.108.desc",
+    "ver": "",
+    "en": "\\nWith the [FROM.GetAdjective] leadership under [FROM.GetLeader] now closely aligned to us, they have requested to crown a German king to take up the now symbolic spot on the [FROM.GetAdjective] throne. For this they have selected Hermann Göring, and their historians have already begun writing up his connection to the old Hungarian leader Árpád. Should we allow him to leave for [FROM.GetNameDef]?",
+    "comment": ""
+  },
+  {
+    "line": 1224,
+    "key": "WW_hungary.108.a",
+    "ver": "",
+    "en": "We will allow it",
+    "comment": ""
+  },
+  {
+    "line": 1225,
+    "key": "WW_hungary.108.b",
+    "ver": "",
+    "en": "It would not be appropriate",
+    "comment": ""
+  },
+  {
+    "line": 1227,
+    "key": "WW_hungary.109.t",
+    "ver": "",
+    "en": "[FROM.GetLeader] Allows Göring to be Crowned",
+    "comment": ""
+  },
+  {
+    "line": 1228,
+    "key": "WW_hungary.109.desc",
+    "ver": "",
+    "en": "The great [GER.GetLeader] has allowed for Hermann Göring to move to our country and become the new constitutional king of our people. Our bonds grow ever closer, and at long last, the throne no longer stands empty.",
+    "comment": ""
+  },
+  {
+    "line": 1229,
+    "key": "WW_hungary.109.a",
+    "ver": "",
+    "en": "We are grateful",
+    "comment": ""
+  },
+  {
+    "line": 1231,
+    "key": "WW_hungary.110.t",
+    "ver": "",
+    "en": "[FROM.GetLeader] Disallows Göring being Crowned",
+    "comment": ""
+  },
+  {
+    "line": 1232,
+    "key": "WW_hungary.110.desc",
+    "ver": "",
+    "en": "The paranoid [FROM.GetLeader] has decided not to allow Hermann Göring to move to our country, despite constant pestering and well presented arguments. We will have to make do without a king, and have Szálasi become the one and only leader of the nation.",
+    "comment": ""
+  },
+  {
+    "line": 1233,
+    "key": "WW_hungary.110.a",
+    "ver": "",
+    "en": "A Kingdom no more it seems",
+    "comment": ""
+  },
+  {
+    "line": 1235,
+    "key": "WW_hungary.111.t",
+    "ver": "",
+    "en": "Referendum to join the [HUN.GetAdjective] State",
+    "comment": ""
+  },
+  {
+    "line": 1236,
+    "key": "WW_hungary.111.desc",
+    "ver": "",
+    "en": "A public referendum has been ongoing for the last month in [664.GetName], with the goal of deciding whether or not they wish to join [HUN.GetNameDef]. Being approved by international observers, it can be safe to assume that not much electoral fraud will have taken place. The results are in however, with a large portion of the people voting to leave our nation. Should we accept this?",
+    "comment": ""
+  },
+  {
+    "line": 1237,
+    "key": "WW_hungary.111.a",
+    "ver": "",
+    "en": "If it is what the people wish for",
+    "comment": ""
+  },
+  {
+    "line": 1238,
+    "key": "WW_hungary.111.b",
+    "ver": "",
+    "en": "The referendum was fraudulent",
+    "comment": ""
+  },
+  {
+    "line": 1240,
+    "key": "WW_hungary.112.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Accepts the Referendum",
+    "comment": ""
+  },
+  {
+    "line": 1241,
+    "key": "WW_hungary.112.desc",
+    "ver": "",
+    "en": "The leadership in [FROM.GetNameDef] have gone out in public stating their unyielding support for the self-determination of the people in the region of [664.GetName]. It is time that they got to choose in which state they wish to live, stated [FROm.GetLeader] earlier this week, essentially relinquishing their claims to the area.",
+    "comment": ""
+  },
+  {
+    "line": 1242,
+    "key": "WW_hungary.112.a",
+    "ver": "",
+    "en": "A reasonable response",
+    "comment": ""
+  },
+  {
+    "line": 1244,
+    "key": "WW_hungary.113.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Declares the Referendum Illegitimate",
+    "comment": ""
+  },
+  {
+    "line": 1245,
+    "key": "WW_hungary.113.desc",
+    "ver": "",
+    "en": "The leadership in [FROM.GetNameDef] have gone out in public declaring the results of the referendums held in the region of [664.GetName] earlier this month to be illegitimate, stating that the voter turnouts and international observers were highly fraudulent, clearly harboring a bias towards the [ROOT.GetAdjective] government.",
+    "comment": ""
+  },
+  {
+    "line": 1246,
+    "key": "WW_hungary.113.a",
+    "ver": "",
+    "en": "We will have to accept it",
+    "comment": ""
+  },
+  {
+    "line": 1248,
+    "key": "WW_hungary.114.t",
+    "ver": "",
+    "en": "Referendum to join the [HUN.GetAdjective] State",
+    "comment": ""
+  },
+  {
+    "line": 1249,
+    "key": "WW_hungary.114.desc",
+    "ver": "",
+    "en": "A public referendum has been ongoing for the last month in [73.GetName], with the goal of deciding whether or not they wish to join [HUN.GetNameDef]. Being approved by international observers, it can be safe to assume that not much electoral fraud will have taken place. The results are in however, with a large portion of the people voting to leave our nation. Should we accept this?",
+    "comment": ""
+  },
+  {
+    "line": 1250,
+    "key": "WW_hungary.114.a",
+    "ver": "",
+    "en": "If it is what the people wish for",
+    "comment": ""
+  },
+  {
+    "line": 1251,
+    "key": "WW_hungary.114.b",
+    "ver": "",
+    "en": "The referendum was fraudulent",
+    "comment": ""
+  },
+  {
+    "line": 1253,
+    "key": "WW_hungary.115.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Accepts the Referendum",
+    "comment": ""
+  },
+  {
+    "line": 1254,
+    "key": "WW_hungary.115.desc",
+    "ver": "",
+    "en": "The leadership in [FROM.GetNameDef] have gone out in public stating their unyielding support for the self-determination of the people in the region of [73.GetName]. It is time that they got to choose in which state they wish to live, stated [FROm.GetLeader] earlier this week, essentially relinquishing their claims to the area.",
+    "comment": ""
+  },
+  {
+    "line": 1255,
+    "key": "WW_hungary.115.a",
+    "ver": "",
+    "en": "A reasonable response",
+    "comment": ""
+  },
+  {
+    "line": 1257,
+    "key": "WW_hungary.116.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Declares the Referendum Illegitimate",
+    "comment": ""
+  },
+  {
+    "line": 1258,
+    "key": "WW_hungary.116.desc",
+    "ver": "",
+    "en": "The leadership in [FROM.GetNameDef] have gone out in public declaring the results of the referendums held in the region of [73.GetName] earlier this month to be illegitimate, stating that the voter turnouts and international observers were highly fraudulent, clearly harboring a bias towards the [ROOT.GetAdjective] government.",
+    "comment": ""
+  },
+  {
+    "line": 1259,
+    "key": "WW_hungary.116.a",
+    "ver": "",
+    "en": "We will have to accept it",
+    "comment": ""
+  },
+  {
+    "line": 1261,
+    "key": "WW_hungary.117.t",
+    "ver": "",
+    "en": "Referendum to join the [HUN.GetAdjective] State",
+    "comment": ""
+  },
+  {
+    "line": 1262,
+    "key": "WW_hungary.117.desc",
+    "ver": "",
+    "en": "A public referendum has been ongoing for the last month in [45.GetName], with the goal of deciding whether or not they wish to join [HUN.GetNameDef]. Being approved by international observers, it can be safe to assume that not much electoral fraud will have taken place. The results are in however, with a large portion of the people voting to leave our nation. Should we accept this?",
+    "comment": ""
+  },
+  {
+    "line": 1263,
+    "key": "WW_hungary.117.a",
+    "ver": "",
+    "en": "If it is what the people wish for",
+    "comment": ""
+  },
+  {
+    "line": 1264,
+    "key": "WW_hungary.117.b",
+    "ver": "",
+    "en": "The referendum was fraudulent",
+    "comment": ""
+  }
+]

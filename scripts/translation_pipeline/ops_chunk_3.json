@@ -1,0 +1,562 @@
+[
+  {
+    "line_num": 245,
+    "key": "OPERATION_VIEW_ERROR_NO_OPERATIVE_ON_NETWORK",
+    "ver": "",
+    "val": "§RThere is no Operative operating on this network§!",
+    "comm": ""
+  },
+  {
+    "line_num": 246,
+    "key": "OPERATION_VIEW_ERROR_INSUFFICIENT_OPERATIVES",
+    "ver": "",
+    "val": "§RYou do not have the minimum required amount of $NUM|H$ operatives.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 247,
+    "key": "OPERATION_VIEW_ERROR_INSUFFICIENT_RESOURCES",
+    "ver": "",
+    "val": "§RWe have not finished collecting the required resources yet.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 248,
+    "key": "OPERATION_VIEW_ERROR_INSUFFICIENT_REQUIREMENTS",
+    "ver": "",
+    "val": "§RWe have not fulfilled all the requirements for this operation yet.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 249,
+    "key": "OPERATION_VIEW_ERROR_MISSING_TOKEN",
+    "ver": "",
+    "val": "§RWe do not have the required infiltration asset: $TOKEN|H$§!",
+    "comm": ""
+  },
+  {
+    "line_num": 250,
+    "key": "OPERATION_VIEW_ERROR_NEEDS_TO_SELECT_TARGET",
+    "ver": "",
+    "val": "§RYou need to select a target state for this operation.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 251,
+    "key": "OPERATION_VIEW_REQUIREMENTS",
+    "ver": "",
+    "val": "Requirements",
+    "comm": ""
+  },
+  {
+    "line_num": 252,
+    "key": "OPERATION_VIEW_CIVILIAN_FACTORIES_PROGRESS",
+    "ver": "",
+    "val": "$PROGRESS|H$ of civilian factory work has been completed.",
+    "comm": ""
+  },
+  {
+    "line_num": 254,
+    "key": "OPERATION_VIEW_BASE_DURATION",
+    "ver": "",
+    "val": "Base duration: $DAYS|H$ days",
+    "comm": ""
+  },
+  {
+    "line_num": 255,
+    "key": "OPERATION_VIEW_DURATION_MALUS_REPETITION",
+    "ver": "",
+    "val": "Operation Repeated: $VALUE|=-%0$",
+    "comm": ""
+  },
+  {
+    "line_num": 256,
+    "key": "OPERATION_VIEW_DURATION_MALUS_DEFENSE",
+    "ver": "",
+    "val": "Enemy Counter Intelligence: $VALUE|=-%0$",
+    "comm": ""
+  },
+  {
+    "line_num": 258,
+    "key": "OPERATION_NOT_ALL_OPERATIVES_ASSIGNED",
+    "ver": "",
+    "val": "Not all operatives have been assigned yet",
+    "comm": ""
+  },
+  {
+    "line_num": 259,
+    "key": "OPERATION_VIEW_AUTO_COMMENCE",
+    "ver": "",
+    "val": "Commence when ready",
+    "comm": ""
+  },
+  {
+    "line_num": 260,
+    "key": "OPERATION_VIEW_AUTO_REPEAT",
+    "ver": "",
+    "val": "Automatically repeat",
+    "comm": ""
+  },
+  {
+    "line_num": 261,
+    "key": "OPERATION_VIEW_AUTO_REPEAT_FAIL",
+    "ver": "",
+    "val": "Automatic Repeat Failed",
+    "comm": ""
+  },
+  {
+    "line_num": 262,
+    "key": "OPERATION_VIEW_AUTO_REPEAT_FAIL_DESC",
+    "ver": "",
+    "val": "We have been unable to automatically repeat $OPERATION|H$ against $TARGET|H$",
+    "comm": ""
+  },
+  {
+    "line_num": 263,
+    "key": "OPERATION_VIEW_AUTO_REPEAT_TIP",
+    "ver": "",
+    "val": "Select to have the operation repeat again when completed as long as requirements are still fulfilled.",
+    "comm": ""
+  },
+  {
+    "line_num": 264,
+    "key": "OPERATION_VIEW_OPERATIVE_NOT_AVAILABLE",
+    "ver": "",
+    "val": "At least one of the assigned operatives are not currently available to start this operation",
+    "comm": ""
+  },
+  {
+    "line_num": 265,
+    "key": "OPERATION_VIEW_OPERATION_ALREADY_IN_PROGRESS",
+    "ver": "",
+    "val": "Operation is already in progress",
+    "comm": ""
+  },
+  {
+    "line_num": 266,
+    "key": "OPERATION_VIEW_OPERATION_NOT_POSSIBLE_OR_AVAILABLE",
+    "ver": "",
+    "val": "Operation no longer possible or available",
+    "comm": ""
+  },
+  {
+    "line_num": 267,
+    "key": "OPERATION_OPERATIVE_ASSIGNMENT_NOT_ANYMORE",
+    "ver": "",
+    "val": "Operatives cannot be unassigned once they have been sent away on an operation",
+    "comm": ""
+  },
+  {
+    "line_num": 268,
+    "key": "OPERATION_OPERATIVE_ASSIGNMENT_NOT_YET",
+    "ver": "",
+    "val": "Operatives can be assigned once you start collecting resources for the operation",
+    "comm": ""
+  },
+  {
+    "line_num": 269,
+    "key": "OPERATION_CIVILIAN_FACTORIES_NOT_PREPARED_YET",
+    "ver": "",
+    "val": "We have not yet finished preparing for the operation as our civilian factories are still in use.",
+    "comm": ""
+  },
+  {
+    "line_num": 270,
+    "key": "OPERATION_REQUIREMENT_FULFILLED",
+    "ver": "",
+    "val": "You have collected $HAS|H$/$NUM|H$ units of $NAME|H$.",
+    "comm": ""
+  },
+  {
+    "line_num": 271,
+    "key": "OPERATION_REQUIREMENT_NEEDED",
+    "ver": "",
+    "val": "You will need to collect $NUM|H$ units of $NAME|H$.",
+    "comm": ""
+  },
+  {
+    "line_num": 272,
+    "key": "OPERATION_REQUIREMENT_CIVILIAN_FACTORIES",
+    "ver": "",
+    "val": "$FACTORIES|H$ over $NUM|H$ days",
+    "comm": ""
+  },
+  {
+    "line_num": 273,
+    "key": "OPERATION_REQUIREMENT_CIVILIAN_FACTORIES_NOT_MET",
+    "ver": "",
+    "val": "Your progress is currently being slowed down because you do not have enough civilian factories available.",
+    "comm": ""
+  },
+  {
+    "line_num": 274,
+    "key": "EFFECT_FREE_RANDOM_OPERATIVE",
+    "ver": "",
+    "val": "We will rescue one of our operatives from captivity in $COUNTRY|H$",
+    "comm": ""
+  },
+  {
+    "line_num": 275,
+    "key": "EFFECT_FREE_RANDOM_OPERATIVE_SUCCESS",
+    "ver": "",
+    "val": "We have successfully freed our operative $OPERATIVE|H$ from captivity in $COUNTRY|H$",
+    "comm": ""
+  },
+  {
+    "line_num": 276,
+    "key": "EFFECT_FREE_RANDOM_OPERATIVE_ALL",
+    "ver": "",
+    "val": "We will rescue all of our operatives from captivity in $COUNTRY|H$",
+    "comm": ""
+  },
+  {
+    "line_num": 277,
+    "key": "EFFECT_FREE_RANDOM_OPERATIVE_ALL_SUCCESS",
+    "ver": "",
+    "val": "We have successfully freed all of our operatives from captivity in $COUNTRY|H$",
+    "comm": ""
+  },
+  {
+    "line_num": 278,
+    "key": "EFFECT_FREE_RANDOM_OPERATIVE_FAILURE",
+    "ver": "",
+    "val": "We were unable to rescue any of our operatives in time from captivity in $COUNTRY|H$",
+    "comm": ""
+  },
+  {
+    "line_num": 280,
+    "key": "OPERATION_ONMAP_CLICK_FOR_DETAILS",
+    "ver": "",
+    "val": "§GClick§! to view the details",
+    "comm": ""
+  },
+  {
+    "line_num": 281,
+    "key": "OPERATION_ONMAP_CLICK_FOR_MORE",
+    "ver": "",
+    "val": "§GClick§! to see more operations",
+    "comm": ""
+  },
+  {
+    "line_num": 282,
+    "key": "OPERATION_ONMAP_STATUS_COMPLETED",
+    "ver": "",
+    "val": "The operation has been completed.",
+    "comm": ""
+  },
+  {
+    "line_num": 283,
+    "key": "OPERATION_ONMAP_STATUS_IN_PROGRESS",
+    "ver": "",
+    "val": "The operation will be completed on $DATE|H$",
+    "comm": ""
+  },
+  {
+    "line_num": 284,
+    "key": "OPERATION_ONMAP_STATUS_NOT_READY",
+    "ver": "",
+    "val": "The operation is not ready yet to be launched.",
+    "comm": ""
+  },
+  {
+    "line_num": 285,
+    "key": "OPERATION_ONMAP_STATUS_READY",
+    "ver": "",
+    "val": "The operation is ready to be launched!",
+    "comm": ""
+  },
+  {
+    "line_num": 286,
+    "key": "SELECT_STATE_ON_CLICK",
+    "ver": "",
+    "val": "§GClick§! to select this State as target",
+    "comm": ""
+  },
+  {
+    "line_num": 287,
+    "key": "SELECT_STATE_ON_CLICK_DISABLED",
+    "ver": "",
+    "val": "§RYou can't choose this State as target.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 288,
+    "key": "SELECT_REGION_ON_CLICK",
+    "ver": "",
+    "val": "§GClick§! to select this Region as target",
+    "comm": ""
+  },
+  {
+    "line_num": 289,
+    "key": "SELECT_REGION_ON_CLICK_DISABLED",
+    "ver": "",
+    "val": "§RYou can't choose this Region as target.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 291,
+    "key": "OPERATION_HAS_TOKEN",
+    "ver": "",
+    "val": "Has $NAME|H$",
+    "comm": ""
+  },
+  {
+    "line_num": 292,
+    "key": "OPERATION_HAS_TOKEN_NOT",
+    "ver": "",
+    "val": "Does not have $NAME|H$",
+    "comm": ""
+  },
+  {
+    "line_num": 293,
+    "key": "OPERATION_EXPLANATION_FOR_TOKEN_ACCESS",
+    "ver": "",
+    "val": "§HThe infiltration assets that you can get will lead to the following operations:§!",
+    "comm": ""
+  },
+  {
+    "line_num": 294,
+    "key": "OPERATION_TOKEN_PLURAL",
+    "ver": "",
+    "val": "§HInfiltration Assets§!",
+    "comm": ""
+  },
+  {
+    "line_num": 295,
+    "key": "OPERATION_TOKEN_INFILTRATED_AIRFORCE",
+    "ver": "",
+    "val": "Air Force Infiltration",
+    "comm": ""
+  },
+  {
+    "line_num": 296,
+    "key": "OPERATION_TOKEN_INFILTRATED_AIRFORCE_DESC",
+    "ver": "",
+    "val": "Has infiltrated the country's air force.",
+    "comm": ""
+  },
+  {
+    "line_num": 297,
+    "key": "OPERATION_TOKEN_INFILTRATED_ARMY",
+    "ver": "",
+    "val": "Army Infiltration",
+    "comm": ""
+  },
+  {
+    "line_num": 298,
+    "key": "OPERATION_TOKEN_INFILTRATED_ARMY_DESC",
+    "ver": "",
+    "val": "Has infiltrated the country's army.",
+    "comm": ""
+  },
+  {
+    "line_num": 299,
+    "key": "OPERATION_TOKEN_INFILTRATED_CIVILIAN",
+    "ver": "",
+    "val": "Civilian Infiltration",
+    "comm": ""
+  },
+  {
+    "line_num": 300,
+    "key": "OPERATION_TOKEN_INFILTRATED_CIVILIAN_DESC",
+    "ver": "",
+    "val": "Has infiltrated the country's civilian government.",
+    "comm": ""
+  },
+  {
+    "line_num": 301,
+    "key": "OPERATION_TOKEN_INFILTRATED_NAVY",
+    "ver": "",
+    "val": "Navy Infiltration",
+    "comm": ""
+  },
+  {
+    "line_num": 302,
+    "key": "OPERATION_TOKEN_INFILTRATED_NAVY_DESC",
+    "ver": "",
+    "val": "Has infiltrated the country's navy.",
+    "comm": ""
+  },
+  {
+    "line_num": 303,
+    "key": "OPERATION_TOKEN_INFILTRATED_RESISTANCE_CONTACTS",
+    "ver": "",
+    "val": "Resistance Contacts",
+    "comm": ""
+  },
+  {
+    "line_num": 304,
+    "key": "OPERATION_TOKEN_INFILTRATED_RESISTANCE_CONTACTS_DESC",
+    "ver": "",
+    "val": "Has made contacts with the local resistance.",
+    "comm": ""
+  },
+  {
+    "line_num": 306,
+    "key": "PREPARED_OPERATION_REFUND_TOOLTIP",
+    "ver": "",
+    "val": "Operation will be refunded in $DAYS|R$ days.",
+    "comm": ""
+  },
+  {
+    "line_num": 308,
+    "key": "DIPLOMATIC_PRESSURE_OPINION_REQUIREMENTS_DRIFT",
+    "ver": "",
+    "val": "Changing the §Yopinion§! requirements by $DRIFT|H$ per day",
+    "comm": ""
+  },
+  {
+    "line_num": 309,
+    "key": "DIPLOMATIC_PRESSURE_TENSION_REQUIREMENTS_DRIFT",
+    "ver": "",
+    "val": "Changing the §Ytension§! requirements by $DRIFT|1%H$ per day",
+    "comm": ""
+  },
+  {
+    "line_num": 310,
+    "key": "QUIET_INTEL_NETWORK_IN_STATE_DESC",
+    "ver": "",
+    "val": "§RThe network is inactive§!\\nThe network is maintained but its effects are not available and it cannot be used to launch an operation.",
+    "comm": ""
+  },
+  {
+    "line_num": 311,
+    "key": "INTEL_NETWORK_IN_STATE",
+    "ver": "",
+    "val": "Intel Network in $STATE|H$ $FLAG$",
+    "comm": ""
+  },
+  {
+    "line_num": 312,
+    "key": "NO_INTEL_NETWORK_IN_STATE",
+    "ver": "",
+    "val": "No Intel Network in $STATE|H$ $FLAG$",
+    "comm": ""
+  },
+  {
+    "line_num": 313,
+    "key": "INTEL_NETWORK_STRENGTH",
+    "ver": "",
+    "val": "Network strength: $STRENGTH|H0%%$",
+    "comm": ""
+  },
+  {
+    "line_num": 314,
+    "key": "INTEL_NETWORK_DAILY_GROWTH",
+    "ver": "",
+    "val": "Daily growth: $GROWTH|H1$",
+    "comm": ""
+  },
+  {
+    "line_num": 315,
+    "key": "INTEL_NETWORK_STRENGTH_GROWTH_OVER_CAP",
+    "ver": "",
+    "val": "Over cap: $VALUE|=+1$",
+    "comm": ""
+  },
+  {
+    "line_num": 316,
+    "key": "INTEL_NETWORK_STRENGTH_GROWTH_FROM_OPERATIVE",
+    "ver": "",
+    "val": "From own Operatives: $VALUE|=+1$",
+    "comm": ""
+  },
+  {
+    "line_num": 317,
+    "key": "INTEL_NETWORK_STRENGTH_GROWTH_FROM_ADJACENCY",
+    "ver": "",
+    "val": "From adjacent states: $VALUE|=+1$",
+    "comm": ""
+  },
+  {
+    "line_num": 318,
+    "key": "INTEL_NETWORK_STRENGTH_GROWTH_ENEMY_FACTOR",
+    "ver": "",
+    "val": "Enemy garrison law: $VALUE|+%0$",
+    "comm": ""
+  },
+  {
+    "line_num": 319,
+    "key": "INTEL_NETWORK_STRENGTH_GROWTH_OUT_OF_RANGE",
+    "ver": "",
+    "val": "Out of range of any Operatives: $VALUE|=+1$",
+    "comm": ""
+  },
+  {
+    "line_num": 320,
+    "key": "INTEL_NETWORK_STRENGTH_GROWTH_AT_CAP",
+    "ver": "",
+    "val": "Reached cap",
+    "comm": ""
+  },
+  {
+    "line_num": 321,
+    "key": "INTEL_NETWORK_STRENGTH_CAP",
+    "ver": "",
+    "val": "Network strength cap: $CAP$",
+    "comm": ""
+  },
+  {
+    "line_num": 322,
+    "key": "INTEL_NETWORK_STRENGTH_CAP_FROM_OPERATIVE",
+    "ver": "",
+    "val": "From own Operatives: $VALUE|0+=$",
+    "comm": ""
+  },
+  {
+    "line_num": 323,
+    "key": "INTEL_NETWORK_STRENGTH_CAP_FROM_COUNTER_INTELLIGENCE",
+    "ver": "",
+    "val": "Target Counterintelligence: $VALUE|0+=$",
+    "comm": ""
+  },
+  {
+    "line_num": 324,
+    "key": "INTEL_NETWORK_NATIONAL_COVERAGE_FROM_CONTROLLED",
+    "ver": "",
+    "val": "From covered controlled states: $VALUE|%1H$",
+    "comm": ""
+  },
+  {
+    "line_num": 325,
+    "key": "INTEL_NETWORK_NATIONAL_COVERAGE_FROM_OWNED",
+    "ver": "",
+    "val": "From covered owned states: $VALUE|%1H$",
+    "comm": ""
+  },
+  {
+    "line_num": 326,
+    "key": "INTEL_NETWORK_NATIONAL_COVERAGE_FROM_OWNED_WORTH",
+    "ver": "",
+    "val": "From covered owned states worth: $VALUE|%1H$",
+    "comm": ""
+  },
+  {
+    "line_num": 327,
+    "key": "OPERATIVE_INTELIGENCE_AGENCY_DEFENSE_MODIFIER_ENTRY",
+    "ver": "",
+    "val": "$OPERATIVE|H$: $DEFENSE|+=0$",
+    "comm": ""
+  },
+  {
+    "line_num": 328,
+    "key": "CLICK_DISBAND_OPERATIVE",
+    "ver": "",
+    "val": "§GClick§! to dismiss this operative",
+    "comm": ""
+  },
+  {
+    "line_num": 329,
+    "key": "CLICK_DISBAND_OPERATIVE_DESC",
+    "ver": "",
+    "val": "Once dismissed, the operative will go back to the recruitment pool and will free its slot to hire a new one.",
+    "comm": ""
+  },
+  {
+    "line_num": 330,
+    "key": "OPERATIVE_CAPTURED_BY",
+    "ver": "",
+    "val": "§RCaptured by $CAPTURER|H$.§!",
+    "comm": ""
+  }
+]

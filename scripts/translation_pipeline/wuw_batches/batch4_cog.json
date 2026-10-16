@@ -1,0 +1,4619 @@
+[
+  {
+    "idx": 2294,
+    "indent": " ",
+    "key": "CONGO_belgian_congo",
+    "ver": "",
+    "val": "Belgian Congo",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2295,
+    "indent": " ",
+    "key": "CONGO_belgian_congo_desc",
+    "ver": "",
+    "val": "The colony was established in 1908, after the Congo Free State was annexed to the Belgian government, away from the exploitation by the Belgian crown. The Belgian Congo remains the jewel at the heart of Belgian colonial policy. ",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2297,
+    "indent": " ",
+    "key": "CONGO_expand_villages",
+    "ver": "",
+    "val": "Expand Villages",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2298,
+    "indent": " ",
+    "key": "CONGO_expand_villages_desc",
+    "ver": "",
+    "val": "Congo has a great deal of potential, but this can only be met by a large and vibrant labour force. We should establish new villages in areas we want to develop to encourage this growth.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2300,
+    "indent": " ",
+    "key": "CONGO_free_enterprise_fund",
+    "ver": "",
+    "val": "Free Enterprise Fund",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2301,
+    "indent": " ",
+    "key": "CONGO_free_enterprise_fund_desc",
+    "ver": "",
+    "val": "The Belgian colonial administration are well aware that they need to invest in order to elicit the most from the Congo. As such they are offering financial grants to small businesses to help get them started. ",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2303,
+    "indent": " ",
+    "key": "CONGO_secure_international_funding",
+    "ver": "",
+    "val": "Secure International Funding",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2304,
+    "indent": " ",
+    "key": "CONGO_secure_international_funding_desc",
+    "ver": "",
+    "val": "The Belgian colonial authority is not the only power aware of Congo's potential. We should look to international partners for investment with whom we can do business with or without [BEL.GetName].",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2305,
+    "indent": " ",
+    "key": "CONGO_secure_international_funding_tt",
+    "ver": "",
+    "val": "Unlocks decisions to §YInvest International Funding into Congolese Infrastructure and Industry§!",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2307,
+    "indent": " ",
+    "key": "CONGO_weapon_repair_workshops",
+    "ver": "",
+    "val": "Weapon Repair Workshops",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2308,
+    "indent": " ",
+    "key": "CONGO_weapon_repair_workshops_desc",
+    "ver": "",
+    "val": "Although most military production is handled in Belgium, there are still a number of small time workshops who can repair and repurpose old military hardware. We should ensure they have what they need to do this, in case we need to call on this equipment in the future.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2310,
+    "indent": " ",
+    "key": "CONGO_rawji_group",
+    "ver": "",
+    "val": "Rawji Group",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2311,
+    "indent": " ",
+    "key": "CONGO_rawji_group_desc",
+    "ver": "",
+    "val": "Growing from humble roots, the Rawji business has been expanding to encompass a variety of different industries and enterprises throughout the Congo.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2313,
+    "indent": " ",
+    "key": "CONGO_the_heart_of_africa",
+    "ver": "",
+    "val": "The Heart of Africa",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2314,
+    "indent": " ",
+    "key": "CONGO_the_heart_of_africa_desc",
+    "ver": "",
+    "val": "The vast territories of the Congo sits in the middle of Africa, and while relatively poor and underdeveloped, it's interior hides a vast wealth of resources and possibilities. All we have to do, is strike out and find them.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2316,
+    "indent": " ",
+    "key": "CONGO_establish_university_of_louvain",
+    "ver": "",
+    "val": "Establish Lovanium University",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2317,
+    "indent": " ",
+    "key": "CONGO_establish_university_of_louvain_desc",
+    "ver": "",
+    "val": "Initially formed as a medical college intended to study tropical medicine, we have the opportunity to expand the institute with a department of agricultural sciences, then once we designate it as a university proper, it will surely become the envy of Africa.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2319,
+    "indent": " ",
+    "key": "CONGO_congo_investments",
+    "ver": "",
+    "val": "Congo Investments",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2320,
+    "indent": " ",
+    "key": "CONGO_congo_investments_desc",
+    "ver": "",
+    "val": "The Belgian central government is well aware of the riches of Congo, and as such we could harness that wealth and turn it towards the further recovery of the Belgian economy. All it will take is a little up-front investment.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2322,
+    "indent": " ",
+    "key": "CONGO_societe_generale_de_belgique",
+    "ver": "",
+    "val": "Societe Generale de Belgique",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2323,
+    "indent": " ",
+    "key": "CONGO_societe_generale_de_belgique_desc",
+    "ver": "",
+    "val": "The megalithic company at the heart of much of the Belgian economy. If we want the organizational and financial muscle needed to develop an entire country, there is no-one better to turn to, to bolster our interests in the Congo.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2325,
+    "indent": " ",
+    "key": "CONGO_ccci",
+    "ver": "",
+    "val": "CCCI",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2326,
+    "indent": " ",
+    "key": "CONGO_ccci_desc",
+    "ver": "",
+    "val": "Compagnie du Congo pour le Commerce et l'Industrie is a major mining conglomerate active in the Congo. While they control a large number of mineral interests, it is primarily their metallurgical resources that we wish to help them develop.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2328,
+    "indent": " ",
+    "key": "CONGO_forminiere",
+    "ver": "",
+    "val": "Forminière",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2329,
+    "indent": " ",
+    "key": "CONGO_forminiere_desc",
+    "ver": "",
+    "val": "The Société internationale forestière et minière du Congo is an organization largely interested in forestry and mineral extraction within the Congo. While their forestry experience is valuable, nothing compares to how lucrative their diamond monopoly in Kasai is. This we must reinforce and expand!",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2331,
+    "indent": " ",
+    "key": "CONGO_ruanda_urundi",
+    "ver": "",
+    "val": "Ruanda-Urundi",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2332,
+    "indent": " ",
+    "key": "CONGO_ruanda_urundi_desc",
+    "ver": "",
+    "val": "Once part of German East Africa, it was ceded to [BEL.GetName] in trust by the League of Nations following the Great War. This is a region with access to some valuable resources such as cotton, coffee and tungsten.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2333,
+    "indent": " ",
+    "key": "COG_approached_ruanda_urundi_governor_flag",
+    "ver": "",
+    "val": "Approached the Governor of Ruanda-Urundi",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2335,
+    "indent": " ",
+    "key": "CONGO_jungle_industry",
+    "ver": "",
+    "val": "Jungle Industry",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2336,
+    "indent": " ",
+    "key": "CONGO_jungle_industry_desc",
+    "ver": "",
+    "val": "Investors are often left scratching their heads regarding the value of a huge jungle, but one simply needs to know where to look. We must find that expertise and provide them the tools to unlock those hidden riches.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2337,
+    "indent": " ",
+    "key": "CONGO_jungle_industry_available_tt",
+    "ver": "",
+    "val": "Controls any §YJungle State§! in the §YGreater Congo Basin§!",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2339,
+    "indent": " ",
+    "key": "CONGO_belgian_devaluation",
+    "ver": "",
+    "val": "Belgian Devaluation",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2340,
+    "indent": " ",
+    "key": "CONGO_belgian_devaluation_desc",
+    "ver": "",
+    "val": "The [BEL.GetAdjective] government enacted a policy of devaluation, and this has allowed the Governor-General to lower duties on imports and raise them on exports. This should significantly improve the colonial budget.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2342,
+    "indent": " ",
+    "key": "CONGO_french_congo",
+    "ver": "",
+    "val": "French Congo",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2343,
+    "indent": " ",
+    "key": "CONGO_french_congo_desc",
+    "ver": "",
+    "val": "The French have craved out a piece of the Congo basin, and separated our people from us. Now is an opportune time to undo this historical injustice. There can be only one!",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2345,
+    "indent": " ",
+    "key": "CONGO_force_publique",
+    "ver": "",
+    "val": "Force Publique",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2346,
+    "indent": " ",
+    "key": "CONGO_force_publique_desc",
+    "ver": "",
+    "val": "Initially envisioned to be the colonial police force, they were militarized during the Great War and fought against German Africa to great acclaim. Let us continue this empowerment, and bring this colonial force to more modern standards.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2347,
+    "indent": " ",
+    "key": "COG_force_publique_reformed_flag",
+    "ver": "",
+    "val": " The Force Publique has been reformed into the Armée Nationale Congolaise",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2348,
+    "indent": " ",
+    "key": "COG_comitted_to_our_overlords_war_flag",
+    "ver": "",
+    "val": "We have chosen to commit fully to our overlords war",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2350,
+    "indent": " ",
+    "key": "CONGO_symbiotic_industrialization",
+    "ver": "",
+    "val": "Symbiotic Industrialization",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2351,
+    "indent": " ",
+    "key": "CONGO_symbiotic_industrialization_desc",
+    "ver": "",
+    "val": "The one fuels the other, as we develop the Belgian industry, so to does the need for resources rise. These we can import from the Congo, and fuel even more rapid industrialization, thereby needing even more resources. The prosperity of both are closely connected.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2353,
+    "indent": " ",
+    "key": "CONGO_prince_leopold_mine",
+    "ver": "",
+    "val": "Prince Leopold Mine",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2354,
+    "indent": " ",
+    "key": "CONGO_prince_leopold_mine_desc",
+    "ver": "",
+    "val": "The Kipushi region has been mining copper for centuries, and while we have been working here for quite some time, the potential value of copper is expected to rise in line with global tensions. Let's be ready for that demand when it comes.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2356,
+    "indent": " ",
+    "key": "CONGO_bakwanga_mine",
+    "ver": "",
+    "val": "Bakwanga Mine",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2357,
+    "indent": " ",
+    "key": "CONGO_bakwanga_mine_desc",
+    "ver": "",
+    "val": "It has been discovered that the Bakwanga region is especially rich in diamonds. While these are not the same large gemstones found in South Africa and India, this is an exceptionally large deposit of the world's hardest mineral, and could be tapped for a wide variety of industrial purposes.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2359,
+    "indent": " ",
+    "key": "CONGO_expand_tungsten_mines",
+    "ver": "",
+    "val": "Expand the Tungsten Mines",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2360,
+    "indent": " ",
+    "key": "CONGO_expand_tungsten_mines_desc",
+    "ver": "",
+    "val": "With the growing interest in tungsten core munitions, it was important that we secure our own source of this important metal. Thankfully, it was found in our mandate territories of Ruanda-Urundi.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2362,
+    "indent": " ",
+    "key": "CONGO_rubber_plantations",
+    "ver": "",
+    "val": "Rubber Plantations",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2363,
+    "indent": " ",
+    "key": "CONGO_rubber_plantations_desc",
+    "ver": "",
+    "val": "Belgium has a particularly poor history when it comes to the extraction of rubber in the Congo. Despite this, we still need to develop production of this material, knowing that we are under the watchful eye of the international community.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2365,
+    "indent": " ",
+    "key": "CONGO_interfaith_school_subsidies",
+    "ver": "",
+    "val": "Interfaith School Subsidies",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2366,
+    "indent": " ",
+    "key": "CONGO_interfaith_school_subsidies_desc",
+    "ver": "",
+    "val": "There are already a number of Catholic missionary schools throughout the country, however, if we really want to cheaply improve the educational levels of the population, we will need to encourage more organizations into our borders.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2368,
+    "indent": " ",
+    "key": "CONGO_colonial_ambitions",
+    "ver": "",
+    "val": "Colonial Ambitions",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2369,
+    "indent": " ",
+    "key": "CONGO_colonial_ambitions_desc",
+    "ver": "",
+    "val": "Congo is an impressive piece of territory, but this continent is a big place. We should show the other colonial nations that the scramble for Africa is not truly over yet.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2371,
+    "indent": " ",
+    "key": "CONGO_congo_army",
+    "ver": "",
+    "val": "Army of the Congo",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2372,
+    "indent": " ",
+    "key": "CONGO_congo_army_desc",
+    "ver": "",
+    "val": "It has become increasingly clear that there are foreign powers interested in taking Congo, as such we should invest more heavily into the military so that Congo can more capably defend itself, and perhaps help [BEL.GetName] exert her influence abroad.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2374,
+    "indent": " ",
+    "key": "CONGO_modernize_force_publique",
+    "ver": "",
+    "val": "Modernize the Force Publique",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2375,
+    "indent": " ",
+    "key": "CONGO_modernize_force_publique_desc",
+    "ver": "",
+    "val": "Although it has performed admirably, it is not secret that the Force Publique badly needs modernization. This seems like the most opportune moment to put investment aside to this end.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2377,
+    "indent": " ",
+    "key": "CONGO_cheap_labor",
+    "ver": "",
+    "val": "Cheap Labor",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2378,
+    "indent": " ",
+    "key": "CONGO_cheap_labor_desc",
+    "ver": "",
+    "val": "There are a number of labor manipulation techniques that can be employed to get the most out of the work force, for example, ensure that there are as few labor protections as possible to make the risk of being fired an ever present one, and ensure that they remain dependent on the companies for sustenance.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2380,
+    "indent": " ",
+    "key": "CONGO_societe_miniere_de_bakwanga",
+    "ver": "",
+    "val": "Societé Minière de Bécéka",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2381,
+    "indent": " ",
+    "key": "CONGO_societe_miniere_de_bakwanga_desc",
+    "ver": "",
+    "val": "Although the diamond gemstone market is an exceptional lucrative one, in this era of major industrialization there are a large number of new uses to put this hard material to, for example saws and drills. ",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2383,
+    "indent": " ",
+    "key": "CONGO_kasai_secessionist_state",
+    "ver": "",
+    "val": "Kasaï Secessionist State",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2384,
+    "indent": " ",
+    "key": "CONGO_kasai_secessionist_state_desc",
+    "ver": "",
+    "val": "The Kasai region has always been more loosely controlled by [BEL.GetAdjective] forces, and with the right connections, we could secure a stronghold should Congo pursue independence.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2386,
+    "indent": " ",
+    "key": "CONGO_regional_specialization",
+    "ver": "",
+    "val": "Regional Specialization",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2387,
+    "indent": " ",
+    "key": "CONGO_regional_specialization_desc",
+    "ver": "",
+    "val": "The Congo is a large nation, consisting of a diverse geography, crossing a number of different biomes. We should ensure the proper resources, expertise and tools are dispatched to the areas they can best be used.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2389,
+    "indent": " ",
+    "key": "CONGO_expanded_rubber_plantations",
+    "ver": "",
+    "val": "Expanded Rubber Plantations",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2390,
+    "indent": " ",
+    "key": "CONGO_expanded_rubber_plantations_desc",
+    "ver": "",
+    "val": "The demand for rubber has become so great, that it has now become financially feasible to significantly expand the plantations. We can create specialized farms and import modern equipment to really get production going.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2392,
+    "indent": " ",
+    "key": "CONGO_separate_corporations_from_politics",
+    "ver": "",
+    "val": "Separate Corporations from Politics",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2393,
+    "indent": " ",
+    "key": "CONGO_separate_corporations_from_politics_desc",
+    "ver": "",
+    "val": "From as far back as the Congo Free State, the Congo has been at the disposal of major corporations. As a result, corporate interests have infested the political level. We must take actions to detach these groups from the reigns of power.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2395,
+    "indent": " ",
+    "key": "CONGO_belgian_officer_corps",
+    "ver": "",
+    "val": "Belgian Officer Corps",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2396,
+    "indent": " ",
+    "key": "CONGO_belgian_officer_corps_desc",
+    "ver": "",
+    "val": "Currently the Force Publique is lead by a Belgian officer cadre, however, as the Force has expanded in size, the officer corps has not grown to fit. We should request additional [BEL.GetAdjective] staff to ensure all these new recruits are properly led.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2398,
+    "indent": " ",
+    "key": "CONGO_appoint_van_overstraeten",
+    "ver": "",
+    "val": "Appoint van Overstraeten",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2399,
+    "indent": " ",
+    "key": "CONGO_appoint_van_overstraeten_desc",
+    "ver": "",
+    "val": "Raoul van Overstraeten is probably one of the most capable men in the [BEL.GetAdjective] army- the problem is that he himself knows it. His personality has made him unpopular in the home country, however he served in the Congo during the Great War. We can pull on that nostalgia to bring this most talented officer back.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2401,
+    "indent": " ",
+    "key": "CONGO_fuel_for_belgium",
+    "ver": "",
+    "val": "Fuel for Belgium",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2402,
+    "indent": " ",
+    "key": "CONGO_fuel_for_belgium_desc",
+    "ver": "",
+    "val": "Our efforts to expand the resource extraction in the Congo have met with such success, that [BEL.GetAdjective] companies unashamedly use these cheap materials to fuel their own factories in Belgium... and turn a significant profit while doing it.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2404,
+    "indent": " ",
+    "key": "CONGO_antwerp_diamond_district",
+    "ver": "",
+    "val": "Antwerp Diamond District",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2405,
+    "indent": " ",
+    "key": "CONGO_antwerp_diamond_district_desc",
+    "ver": "",
+    "val": "A welcome byproduct from being one of the premier producers of diamonds, has led to Antwerp becoming the primary hub for the distribution and sale of this mineral, and this in turn provides us with a very tangible source of revenue.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2407,
+    "indent": " ",
+    "key": "CONGO_shinkolobwe_mine",
+    "ver": "",
+    "val": "Shinkolobwe Mine",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2408,
+    "indent": " ",
+    "key": "CONGO_shinkolobwe_mine_desc",
+    "ver": "",
+    "val": "Shinkolobwe mine is one of the very, very few known sources of high-grade uranium in the world. Unfortunately the lower levels of the mine were heavily flooded, leading to its closure. It will take significant investment and effort to reopen it, and resume production.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2410,
+    "indent": " ",
+    "key": "CONGO_chefs_coutumiers",
+    "ver": "",
+    "val": "Chefs Coutumiers",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2411,
+    "indent": " ",
+    "key": "CONGO_chefs_coutumiers_desc",
+    "ver": "",
+    "val": "The Chefs Coutumiers are a class of tribal chiefs entrusted by the [BEL.GetAdjective] administration to oversee local governance. With the increased investment into the region of late, we must ensure that our tribal allies are properly incentivized and supported in continuing this important role.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2412,
+    "indent": " ",
+    "key": "COG_evolue_in_politics",
+    "ver": "",
+    "val": "The §YÉvolué§! have entered §Y[COG.GetAdjective]§! Politics",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2413,
+    "indent": " ",
+    "key": "CONGO_chefs_coutumiers_tt",
+    "ver": "",
+    "val": "An §YÉvolué§! middle class will begin to form.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2415,
+    "indent": " ",
+    "key": "CONGO_humanitarian_aid",
+    "ver": "",
+    "val": "Humanitarian Aid",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2416,
+    "indent": " ",
+    "key": "CONGO_humanitarian_aid_desc",
+    "ver": "",
+    "val": "There are many areas in the Congo which lie in poverty and starvation. We have a number of contacts with humanitarian organizations, and so should grant them access to help alleviate some of the suffering.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2418,
+    "indent": " ",
+    "key": "CONGO_purchasing_commission",
+    "ver": "",
+    "val": "Purchasing Commission",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2419,
+    "indent": " ",
+    "key": "CONGO_purchasing_commission_desc",
+    "ver": "",
+    "val": "With the Congo becoming increasingly reliant on modern equipment and hardware, it has become clear that we need to set up a department to handle the import of such goods.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2421,
+    "indent": " ",
+    "key": "CONGO_expand_force_publique_recruitment",
+    "ver": "",
+    "val": "Expand Force Publique Recruitment",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2422,
+    "indent": " ",
+    "key": "CONGO_expand_force_publique_recruitment_desc",
+    "ver": "",
+    "val": "The demands on the Force Publique grow ever greater, and as such so does the demand for new recruits. We should provide greater incentives to encourage new signups from the local population.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2424,
+    "indent": " ",
+    "key": "CONGO_jungle_fighting",
+    "ver": "",
+    "val": "Jungle Fighting",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2425,
+    "indent": " ",
+    "key": "CONGO_jungle_fighting_desc",
+    "ver": "",
+    "val": "Massive swathes of the Congo are covered in seemingly impenetrable jungle, and yet do live and prosper with them. We should recruit such people to serve as guides and instructors to better equip our armed forces for deployment in such terrain.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2426,
+    "indent": " ",
+    "key": "CONGO_jungle_figthing_random_generals_tt",
+    "ver": "",
+    "val": "§YTwo§! randomly selected army leaders will gain §YJungle Rat§!",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2428,
+    "indent": " ",
+    "key": "CONGO_requisition_funds",
+    "ver": "",
+    "val": "Requisition Funds",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2429,
+    "indent": " ",
+    "key": "CONGO_requisition_funds_desc",
+    "ver": "",
+    "val": "Although it might not necessarily be the most popular move, there are still untapped wealth in the Congo for those who know how to extract it. ",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2431,
+    "indent": " ",
+    "key": "CONGO_gold_and_diamonds",
+    "ver": "",
+    "val": "Gold And Diamonds",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2432,
+    "indent": " ",
+    "key": "CONGO_gold_and_diamonds_desc",
+    "ver": "",
+    "val": "We are in the rather fortunate position to control a large supply of gold and diamonds. We should leverage these resources to buy the supplies, expertise and tools for where they are needed most.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2434,
+    "indent": " ",
+    "key": "CONGO_uranium_development_trust",
+    "ver": "",
+    "val": "Uranium Development Trust",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2435,
+    "indent": " ",
+    "key": "CONGO_uranium_development_trust_desc",
+    "ver": "",
+    "val": "With uranium becoming increasingly important to a number of interested parties, it behooves us to work with our international partners, and support the creation of the Uranium Development Trust. This will be a body charged with the proper exploitation and allocation of this resource.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2437,
+    "indent": " ",
+    "key": "CONGO_smuggle_uranium",
+    "ver": "",
+    "val": "Smuggle Uranium",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2438,
+    "indent": " ",
+    "key": "CONGO_smuggle_uranium_desc",
+    "ver": "",
+    "val": "We have something valuable that a lot of people really, really want but we cannot always offer it freely. We should reach out to some back channel contacts, and see what deals can be made in the shadows.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2440,
+    "indent": " ",
+    "key": "CONGO_develop_infrastructure",
+    "ver": "",
+    "val": "Develop Infrastructure",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2441,
+    "indent": " ",
+    "key": "CONGO_develop_infrastructure_desc",
+    "ver": "",
+    "val": "We have for a long time faced the reality that the Congo is simply too big, and too impenetrable to allow for good infrastructure connections. This doesn't mean that we shouldn't try, however.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2443,
+    "indent": " ",
+    "key": "CONGO_new_vegetable_produce_markets",
+    "ver": "",
+    "val": "New Vegetable Produce Markets",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2444,
+    "indent": " ",
+    "key": "CONGO_new_vegetable_produce_markets_desc",
+    "ver": "",
+    "val": "Although most of the emphasis on the Congolese economy is on the mineral extraction and cash crops, we still have a strong and healthy agricultural sector. With global food shortages becoming more and more serious, the demand for simple food has never been higher. ",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2446,
+    "indent": " ",
+    "key": "CONGO_congolese_generals",
+    "ver": "",
+    "val": "Congolese Generals",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2447,
+    "indent": " ",
+    "key": "CONGO_congolese_generals_desc",
+    "ver": "",
+    "val": "The Force Publique has grown to such an extent that we cannot rely on colonial imports to properly lead. Africans are more than capable of doing so themselves, so we should do away with the exclusionary policies that restrict them, and allow locals of exceptional talent into the officer corps.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2449,
+    "indent": " ",
+    "key": "CONGO_even_a_hospital_can_do_better",
+    "ver": "",
+    "val": "Even A Hospital Can Do Better",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2450,
+    "indent": " ",
+    "key": "CONGO_even_a_hospital_can_do_better_desc",
+    "ver": "",
+    "val": "A number of smaller Congolese units have been serving in a variety of theatres all around the world. The efforts of the medical corps in particular have become something of a legend, even on the front lines in the face of overwhelming odds, to such an extent that a local commander was heard to berate his troops that \"even a hospital can do better!\".",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2452,
+    "indent": " ",
+    "key": "CONGO_expand_metallurgical_industry",
+    "ver": "",
+    "val": "Expand Metallurgical Industry",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2453,
+    "indent": " ",
+    "key": "CONGO_expand_metallurgical_industry_desc",
+    "ver": "",
+    "val": "Belgium has long been known for its excellent metallurgical industry, however, it did not always have the raw materials to properly thrive. Now with imported resources from the Congo, they have the means to prosper.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2455,
+    "indent": " ",
+    "key": "CONGO_smuggle_diamonds",
+    "ver": "",
+    "val": "Smuggle Diamonds",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2456,
+    "indent": " ",
+    "key": "CONGO_smuggle_diamonds_desc",
+    "ver": "",
+    "val": "Diamonds make for a valuable, virtually untraceable currency and as such has become extremely sought after in certain circles. We should inject some of our own into this underground movement, and reap the rewards.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2457,
+    "indent": " ",
+    "key": "CONGO_smuggle_diamonds_tt",
+    "ver": "",
+    "val": "Unlocks decisions to decrease our §YAutonomy§! in exchange for §YPolitical Power§!",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2459,
+    "indent": " ",
+    "key": "CONGO_office_des_transports_coloniaux",
+    "ver": "",
+    "val": "Office des Transports Coloniaux",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2460,
+    "indent": " ",
+    "key": "CONGO_office_des_transports_coloniaux_desc",
+    "ver": "",
+    "val": "The department responsible for colonial transportation and logistics has long been stretched to breaking, stuck between the massive distances and terrible terrain it must content with. Let us divert much needed funding to them, and make Congo a more connected place.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2462,
+    "indent": " ",
+    "key": "CONGO_improved_employment_contracts",
+    "ver": "",
+    "val": "Improved Employment Contracts",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2463,
+    "indent": " ",
+    "key": "CONGO_improved_employment_contracts_desc",
+    "ver": "",
+    "val": "The demand for raw materials has reached such levels, that we cannot manipulate the labor market in the way we used to. Miners themselves have become a valuable commodity, and they know this. In order to secure their continued productivity, we need to offer them better employment prospects.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2465,
+    "indent": " ",
+    "key": "CONGO_compagnie_belge_maritime_du_congo",
+    "ver": "",
+    "val": "Compagnie Belge Maritime du Congo",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2466,
+    "indent": " ",
+    "key": "CONGO_compagnie_belge_maritime_du_congo_desc",
+    "ver": "",
+    "val": "Compagnie Belge Maritime du Congo is the company responsible for shipping materials between Congo and [BEL.GetNameDef]. We should offer them subsidies to ensure that the arteries along which our vital trade remains open.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2468,
+    "indent": " ",
+    "key": "CONGO_heat_resistant_cobalt",
+    "ver": "",
+    "val": "Heat Resistant Cobalt",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2469,
+    "indent": " ",
+    "key": "CONGO_heat_resistant_cobalt_desc",
+    "ver": "",
+    "val": "We have long mined Cobalt in the Congo, however, the material found here is of a particularly high grade with heat resistant properties, vital for the development of the new jet engines.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2471,
+    "indent": " ",
+    "key": "CONGO_copper_cartridges",
+    "ver": "",
+    "val": "Copper Cartridges",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2472,
+    "indent": " ",
+    "key": "CONGO_copper_cartridges_desc",
+    "ver": "",
+    "val": "Shell casings. No modern war can be fought without them, and it just so happens that copper is the best material to make them out of. Copper is resistant to corrosion and is soft enough to be pliable. How fortuitous that we are sitting on a veritable mountain of the stuff!",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2474,
+    "indent": " ",
+    "key": "CONGO_research_grants",
+    "ver": "",
+    "val": "Research Grants",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2475,
+    "indent": " ",
+    "key": "CONGO_research_grants_desc",
+    "ver": "",
+    "val": "Resources are not the only thing the Congo is rich in, but also brain power. This most valuable resources has not yet been properly tapped. We should offer research grants to encourage the development of the intellectual industry.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2477,
+    "indent": " ",
+    "key": "CONGO_congos_place_in_the_world",
+    "ver": "",
+    "val": "Congo's Place in the World",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2478,
+    "indent": " ",
+    "key": "CONGO_congos_place_in_the_world_desc",
+    "ver": "",
+    "val": "The road thus far has been fraught with twists and turns, however, it is time for the Congo to take her place in the world. How much impact will the past have on our future? Now is the time to decide.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2480,
+    "indent": " ",
+    "key": "CONGO_legacy_of_lake_tanganyika",
+    "ver": "",
+    "val": "Legacy of Lake Tanganyika",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2481,
+    "indent": " ",
+    "key": "CONGO_legacy_of_lake_tanganyika_desc",
+    "ver": "",
+    "val": "One of the most amazing exploits of the Force Publique occurred during the Great War, where a number of ships were dismantled, carried through the jungles, and redeployed on the lake sitting in the heart of Africa- to then defeat the German ships stationed there.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2483,
+    "indent": " ",
+    "key": "CONGO_soviet_interest",
+    "ver": "",
+    "val": "Soviet Interest",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2484,
+    "indent": " ",
+    "key": "CONGO_soviet_interest_desc",
+    "ver": "",
+    "val": "There are a number of competing major powers all angling for influence within the Congo, none more so than the [SOV.GetNameDef]. We should at least hear what they have to offer!",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2486,
+    "indent": " ",
+    "key": "CONGO_whispers_of_independence",
+    "ver": "",
+    "val": "Whispers of Independence",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2487,
+    "indent": " ",
+    "key": "CONGO_whispers_of_independence_desc",
+    "ver": "",
+    "val": "We've heard them for some time now. The circulating murmurs of the dissatisfied. The hint of rebellion on the air. A low buzz of excitement for a different future. We should lend our ear then, and see where this undercurrent of discontent leads us.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2489,
+    "indent": " ",
+    "key": "CONGO_congo_free_state",
+    "ver": "",
+    "val": "Congo Free State",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2490,
+    "indent": " ",
+    "key": "CONGO_congo_free_state_desc",
+    "ver": "",
+    "val": "The colonial administration has been so effective at thwarting any dream of freedom, that the future of the Congo is all but set- a future once again quashed under the thumb of absolute rule from Brussels.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2492,
+    "indent": " ",
+    "key": "CONGO_overseas_department_of_belgium",
+    "ver": "",
+    "val": "Overseas Department of Belgium",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2493,
+    "indent": " ",
+    "key": "CONGO_overseas_department_of_belgium_desc",
+    "ver": "",
+    "val": "The model colony experiment has matured better than could have been hoped. Congo has become a model of efficiency and progress, such that a more official designation has been earned.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2495,
+    "indent": " ",
+    "key": "CONGO_dominion_of_congo",
+    "ver": "",
+    "val": "Dominion of Congo",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2496,
+    "indent": " ",
+    "key": "CONGO_dominion_of_congo_desc",
+    "ver": "",
+    "val": "Our position as a model colony has been worn well, and the nation has matured through the joint hardships shared between Congo and [BEL.GetName]. As such, a degree of equality has been reached.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2498,
+    "indent": " ",
+    "key": "CONGO_republic_of_congo",
+    "ver": "",
+    "val": "Republic of Congo",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2499,
+    "indent": " ",
+    "key": "CONGO_republic_of_congo_desc",
+    "ver": "",
+    "val": "The heady air of freedom can be felt throughout the new republic. Whether the future holds a place beside that of Belgium, or in opposition to the former colonial master, there is only one thing certain. This future is for the Congo alone to decide.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2501,
+    "indent": " ",
+    "key": "CONGO_african_union",
+    "ver": "",
+    "val": "African Union",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2502,
+    "indent": " ",
+    "key": "CONGO_african_union_desc",
+    "ver": "",
+    "val": "The ideas of Pan-Africanism have surged throughout the continent, and many free African people wish to stand united with a common cause. We should facilitate this, and found an organization which can bring all of our nations closer together.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2504,
+    "indent": " ",
+    "key": "CONGO_great_war_of_africa",
+    "ver": "",
+    "val": "Great War of Africa",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2505,
+    "indent": " ",
+    "key": "CONGO_great_war_of_africa_desc",
+    "ver": "",
+    "val": "The time has come for all people of the Greater Congo Basin to unite under one banner. We must undo the arbitrary borders carved out by the European powers, and take that which is ours.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2507,
+    "indent": " ",
+    "key": "CONGO_aviation_militaire_de_la_force_publique",
+    "ver": "",
+    "val": "Aviation Militaire de la Force Publique",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2508,
+    "indent": " ",
+    "key": "CONGO_aviation_militaire_de_la_force_publique_desc",
+    "ver": "",
+    "val": "It is no secret that the sheer size of Congo makes the military and policing of the territory a significant challenge. There is one form of transport however that can conquer the distances with ease: airplanes. It would behoove us to invest in this, and ensure we retain control of the skies.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2510,
+    "indent": " ",
+    "key": "CONGO_expand_matadi_seaport",
+    "ver": "",
+    "val": "Expand the Matadi Seaport",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2511,
+    "indent": " ",
+    "key": "CONGO_expand_matadi_seaport_desc",
+    "ver": "",
+    "val": "Matadi is the major seaport serving Leopoldville, and serves as the gateway to the interior of the continent via the many rivers. We should expand the maritime facilities at this location in accordance with its growing importance.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2513,
+    "indent": " ",
+    "key": "CONGO_expand_ndolo_and_elisabethville_airports",
+    "ver": "",
+    "val": "Expand N'Dolo and Elisabethville Airports",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2514,
+    "indent": " ",
+    "key": "CONGO_expand_ndolo_and_elisabethville_airports_desc",
+    "ver": "",
+    "val": "One of the benefits to the Congo being the heart of Africa, is that it has the potential to become a major transport hub by air for those who wish to cross the African expanse.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2516,
+    "indent": " ",
+    "key": "CONGO_establish_cometro",
+    "ver": "",
+    "val": "Establish Cométro",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2517,
+    "indent": " ",
+    "key": "CONGO_establish_cometro_desc",
+    "ver": "",
+    "val": "The Force Publique has served a vital role in securing [BEL.GetAdjective] interests in the Congo, however, this is not a professional military body set to the rigorous standards of European armed forces. It is time for the real army to step in.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2519,
+    "indent": " ",
+    "key": "COG_congolese_bussinessowners",
+    "ver": "",
+    "val": "Congolese Businessowners",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2520,
+    "indent": " ",
+    "key": "COG_congolese_bussinessowners_desc",
+    "ver": "",
+    "val": "In order for our society to heal from the many years of institutionalized oppression, and to make strides towards a more just society, we must start encouraging Congolese citizens to start their own businesses, in the hopes that they can make it into the market.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2522,
+    "indent": " ",
+    "key": "COG_desgregate_the_universites",
+    "ver": "",
+    "val": "Desegregate the Universities",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2523,
+    "indent": " ",
+    "key": "COG_desgregate_the_universites_desc",
+    "ver": "",
+    "val": "There are many bright minds in our nation who get stifled and trampled over by the universities policies of not allowing certain people to rise above a certain grade of education. We must put an end to this at once, for there are many who want to help our nation, but can't.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2525,
+    "indent": " ",
+    "key": "COG_shatter_the_roof",
+    "ver": "",
+    "val": "Shatter the Roof",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2526,
+    "indent": " ",
+    "key": "COG_shatter_the_roof_desc",
+    "ver": "",
+    "val": "The time has finally come to shatter the invisible roof that has been ever present above the heads of so many of our people, and finally let them experience the freedom to choose how they want to live their lives!",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2528,
+    "indent": " ",
+    "key": "COG_establish_the_anc",
+    "ver": "",
+    "val": "Establish the Armée Nationale Congolaise",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2529,
+    "indent": " ",
+    "key": "COG_establish_the_anc_desc",
+    "ver": "",
+    "val": "Our demands have been many, but not until now have they finally been met. Today is the day that we get to form a proper Congolese army, one that can stand tall against any future enemies we may encounter.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2531,
+    "indent": " ",
+    "key": "COG_marine_nationale",
+    "ver": "",
+    "val": "Marine Nationale",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2532,
+    "indent": " ",
+    "key": "COG_marine_nationale_desc",
+    "ver": "",
+    "val": "Though it has not been something we have invested heavily into previously, a marine force is a necessity for most modern nations. The only question is if we wish to construct it with the purpose of sending the force out into the Atlantic Ocean, or if we want to structure to better operate on the many rivers in the Congo basin.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2534,
+    "indent": " ",
+    "key": "COG_expand_shipping_industry",
+    "ver": "",
+    "val": "Expand the Shipping Industry",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2535,
+    "indent": " ",
+    "key": "COG_expand_shipping_industry_desc",
+    "ver": "",
+    "val": "Many places in our nation are difficult to reach without either taking the aerial route or the rivers. Another important thing would be connections to foreign countries across the seas, and as such we need to expand our shipping industries to meet the demands of our modernizing nation.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2537,
+    "indent": " ",
+    "key": "COG_south_atlantic_navy",
+    "ver": "",
+    "val": "A South-Atlantic Navy",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2538,
+    "indent": " ",
+    "key": "COG_south_atlantic_navy_desc",
+    "ver": "",
+    "val": "If we wish to secure our independence properly, we must make sure that colonial powers can never again land on our shores.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2540,
+    "indent": " ",
+    "key": "COG_brown_water_navy",
+    "ver": "",
+    "val": "A Brown-Water Navy",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2541,
+    "indent": " ",
+    "key": "COG_brown_water_navy_desc",
+    "ver": "",
+    "val": "The sea is of little concern to us. Our vast rivers and lakes however will need to be properly patrolled if we want to maintain the security of our nation.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2543,
+    "indent": " ",
+    "key": "COG_coastal_defence_fleet",
+    "ver": "",
+    "val": "Develop a Coastal-Defense Fleet",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2544,
+    "indent": " ",
+    "key": "COG_coastal_defence_fleet_desc",
+    "ver": "",
+    "val": "Boma and Matadi need to be properly protected. That can only be achieved by constructing powerful vessels with the core purpose of keeping close to our coast.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2546,
+    "indent": " ",
+    "key": "COG_supply_line_disruption_tactics",
+    "ver": "",
+    "val": "Supply-Line Disruption Tactics",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2547,
+    "indent": " ",
+    "key": "COG_supply_line_disruption_tactics_desc",
+    "ver": "",
+    "val": "Enemy supply lines can be broken with a single precision strike. This will be carried out by our submarines, and will be a crucial part of any future wars we partake in.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2549,
+    "indent": " ",
+    "key": "COG_command_post_matadi",
+    "ver": "",
+    "val": "Command Post Matadi",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2550,
+    "indent": " ",
+    "key": "COG_command_post_matadi_desc",
+    "ver": "",
+    "val": "We need to establish a command post in Matadi in order to better patrol our western rivers.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2552,
+    "indent": " ",
+    "key": "COG_command_post_albertville",
+    "ver": "",
+    "val": "Command Post Albertville",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2553,
+    "indent": " ",
+    "key": "COG_command_post_albertville_desc",
+    "ver": "",
+    "val": "We need to establish a command post in Albertville in order to better patrol our southeastern rivers.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2555,
+    "indent": " ",
+    "key": "COG_command_post_goma",
+    "ver": "",
+    "val": "Command Post Goma",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2556,
+    "indent": " ",
+    "key": "COG_command_post_goma_desc",
+    "ver": "",
+    "val": "We need to establish a command post in Goma in order to better patrol our northeastern rivers.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2558,
+    "indent": " ",
+    "key": "COG_force_arienne_congolaise",
+    "ver": "",
+    "val": "Force Aérienne Congolaise",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2559,
+    "indent": " ",
+    "key": "COG_force_arienne_congolaise_desc",
+    "ver": "",
+    "val": "In order to properly keep up with our enemies, we must reorganize our air-wings and establish a proper air force branch in our newly established military.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2561,
+    "indent": " ",
+    "key": "COG_procure_foriegn_equipment",
+    "ver": "",
+    "val": "Procure Foreign Equipment",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2562,
+    "indent": " ",
+    "key": "COG_procure_foriegn_equipment_desc",
+    "ver": "",
+    "val": "Seeing as we simply do not have the technical know-how nor the industry to back up developing and producing our own aircraft, it would prove wise to instead focus on borrowing designs and purchasing aircraft from our allies.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2564,
+    "indent": " ",
+    "key": "COG_aeronautical_research_department",
+    "ver": "",
+    "val": "Aeronautical Research Department",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2565,
+    "indent": " ",
+    "key": "COG_aeronautical_research_department_desc",
+    "ver": "",
+    "val": "It may not be something that we have previously invested heavily in, but it must not be forgotten that we can not rely too heavily on foreign actors. We must attempt to develop and produce our own aircraft, no matter the costs associated with it.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2567,
+    "indent": " ",
+    "key": "COG_scouting_the_terrain",
+    "ver": "",
+    "val": "Scouting the Terrain",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2568,
+    "indent": " ",
+    "key": "COG_scouting_the_terrain_desc",
+    "ver": "",
+    "val": "Our vast jungles make it hard to traverse our terrain, and what's more, it becomes difficult to spot the enemy before they are too close to our important cities. Therefore the air force will have to play a big role in providing aerial reconnaissance.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2570,
+    "indent": " ",
+    "key": "COG_expand_production_facilities",
+    "ver": "",
+    "val": "Expand Production Facilities",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2571,
+    "indent": " ",
+    "key": "COG_expand_production_facilities_desc",
+    "ver": "",
+    "val": "We need to increase our production of military equipment, and the only way to do so is to construct new facilities with the capabilities of doing so.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2573,
+    "indent": " ",
+    "key": "COG_forces_terrestres",
+    "ver": "",
+    "val": "Forces Terrestres",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2574,
+    "indent": " ",
+    "key": "COG_forces_terrestres_desc",
+    "ver": "",
+    "val": "The most important part of any army is the land warfare component, and ours leaves a lot to be desired. We must invest in it, so that it can stand tall against our foes.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2576,
+    "indent": " ",
+    "key": "COG_from_a_gendarmerie_to_a_fighting_force",
+    "ver": "",
+    "val": "From a Gendarmerie to a Fighting Force",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2577,
+    "indent": " ",
+    "key": "COG_from_a_gendarmerie_to_a_fighting_force_desc",
+    "ver": "",
+    "val": "It is high time we leave our Force Publique roots behind and restructure our army to look less like the gendarmerie it once was, and more like a proper fighting force.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2579,
+    "indent": " ",
+    "key": "COG_academie_militaire_de_kananga",
+    "ver": "",
+    "val": "Académie Militaire de Kananga",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2580,
+    "indent": " ",
+    "key": "COG_academie_militaire_de_kananga_desc",
+    "ver": "",
+    "val": "It is not only the regular soldiers who need training, but also officers and generals. We must invest in the Académie Militaire de Kananga so that our army can be better educated for the tasks to come.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2582,
+    "indent": " ",
+    "key": "COG_standardize_military_production",
+    "ver": "",
+    "val": "Standardize Military Production",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2583,
+    "indent": " ",
+    "key": "COG_standardize_military_production_desc",
+    "ver": "",
+    "val": "With our current hodgepodge of foreign and homemade equipment, our industries cannot produce the necessary replacements at a fast enough rate. We must therefore work to standardize the equipment used by our armed forces.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2585,
+    "indent": " ",
+    "key": "COG_societe_africaine_dexplosifs_congo",
+    "ver": "",
+    "val": "Société Africaine d'Explosifs Congo",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2586,
+    "indent": " ",
+    "key": "COG_societe_africaine_dexplosifs_congo_desc",
+    "ver": "",
+    "val": "Another thing that is needed to better procure our own weapons is a state owned company located within our own borders that can fulfill our demands. To that end we should form the Société Africaine d'Explosifs Congo, so that they can produce ammunition for us and us only.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2588,
+    "indent": " ",
+    "key": "COG_triga_i_project",
+    "ver": "",
+    "val": "TRIGA I Project",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2589,
+    "indent": " ",
+    "key": "COG_triga_i_project_desc",
+    "ver": "",
+    "val": "The future of energy lies in nuclear power, and as such our scientists have been hard at work producing Africa's first nuclear power plant, TRIGA I. When this has been accomplished, we should be able to re-purpose it's power for our military if we would see it as necessary.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2591,
+    "indent": " ",
+    "key": "COG_military_service_for_citizenship",
+    "ver": "",
+    "val": "Military Service for Citizenship",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2592,
+    "indent": " ",
+    "key": "COG_military_service_for_citizenship_desc",
+    "ver": "",
+    "val": "There are many in our nation who don't possess a citizenship or passport. We should therefore do as the Romans once did, and offer it to anyone who has been a part of our armed forces for a certain amount of time, thus hopefully attracting new potential recruits.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2594,
+    "indent": " ",
+    "key": "COG_guerilla_tactics_drills",
+    "ver": "",
+    "val": "Guerilla Tactics Drills",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2595,
+    "indent": " ",
+    "key": "COG_guerilla_tactics_drills_desc",
+    "ver": "",
+    "val": "Our terrain is perfect for hit and run tactics. As such we should aim to train our soldiers in using these techniques to their utmost advantage, and ensure that we can beat back any invader we encounter.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2597,
+    "indent": " ",
+    "key": "COG_french_as_martial_language",
+    "ver": "",
+    "val": "French as Martial Language",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2598,
+    "indent": " ",
+    "key": "COG_french_as_martial_language_desc",
+    "ver": "",
+    "val": "Traditionally, the Force Publique has used French as the primary language in the military. It has been proven to be a winning concept, and there is no reason for us to swap it out any time soon.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2600,
+    "indent": " ",
+    "key": "COG_adopt_lingala_and_swahili_as_martial_languages",
+    "ver": "",
+    "val": "Lingála and Swahili as Martial Languages",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2601,
+    "indent": " ",
+    "key": "COG_adopt_lingala_and_swahili_as_martial_languages_desc",
+    "ver": "",
+    "val": "Though the Force Publique used French as their main language, we must in an effort to distance ourselves from our former overlords attempt to introduce native Congolese languages into our armies. The main sections will use Lingála and Swahili, as they are the two largest ones at the moment.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2603,
+    "indent": " ",
+    "key": "COG_31e_brigade_parachutiste",
+    "ver": "",
+    "val": "31e Brigade Parachutiste",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2604,
+    "indent": " ",
+    "key": "COG_31e_brigade_parachutiste_desc",
+    "ver": "",
+    "val": "We should attempt to form an elite paratrooper unit capable of quickly capturing settlements and destroying hostiles within them, one who can also act as the elite guards of our nation's leader should they ever be under threat.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2606,
+    "indent": " ",
+    "key": "COG_peacekeeping_forces",
+    "ver": "",
+    "val": "Peacekeeping Forces",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2607,
+    "indent": " ",
+    "key": "COG_peacekeeping_forces_desc",
+    "ver": "",
+    "val": "Though war may not currently be present in the Congo, it rages ever on throughout the many corners of the world. We must fight for a better future, even if it means sending our troops to fight for foreign powers in distant lands.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2609,
+    "indent": " ",
+    "key": "COG_governor_general_pierre_ryckmans",
+    "ver": "",
+    "val": "Governor-General Pierre Ryckmans",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2610,
+    "indent": " ",
+    "key": "COG_governor_general_pierre_ryckmans_desc",
+    "ver": "",
+    "val": "Though the ministers back in [BEL.GetNameDef] have many plans for our state, they are not the only ones. Pierre Ryckmans also has a grand vision of his own, and it would prove wise to use his administrative knowledge to improve the state of the nation.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2612,
+    "indent": " ",
+    "key": "COG_invest_in_urban_centers",
+    "ver": "",
+    "val": "Invest in the Urban Centers",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2613,
+    "indent": " ",
+    "key": "COG_invest_in_urban_centers_desc",
+    "ver": "",
+    "val": "Our nation is vast, and our people many. There is however not enough money to go around, and if we are to invest anywhere, the countryside would lie neglected. This will however not stop us from investing into our two largest towns, Léopoldville and Élisabethville.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2615,
+    "indent": " ",
+    "key": "COG_uplift_the_apostolic_vicar_of_leopoldville",
+    "ver": "",
+    "val": "Uplift the Apostolic Vicar of Léopoldville",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2616,
+    "indent": " ",
+    "key": "COG_uplift_the_apostolic_vicar_of_leopoldville_desc",
+    "ver": "",
+    "val": "The Apostolic Vicariate of the Belgian Congo was established by Pope Leo XIII in 1888, and is the main Catholic institution in our state. It is led by it's Ordinary, the Apostolic Vicars of Léopoldville; Joris Six, should be represented in government if we wish to gain the support of the church.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2618,
+    "indent": " ",
+    "key": "COG_promote_marcel_maquet_to_provincial_commisioner",
+    "ver": "",
+    "val": "Promote Maquet to Provincial Commissioner",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2619,
+    "indent": " ",
+    "key": "COG_promote_marcel_maquet_to_provincial_commisioner_desc",
+    "ver": "",
+    "val": "Marcel Maquet has served us well as Junior colonial administrator and District commissioner. It would therefore prove wise to expand his roles to encompass a larger area, by promoting him to Provincial commissioner.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2621,
+    "indent": " ",
+    "key": "COG_cooperate_with_the_comite_special_du_katanga",
+    "ver": "",
+    "val": "The Special Committee of Katanga",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2622,
+    "indent": " ",
+    "key": "COG_cooperate_with_the_comite_special_du_katanga_desc",
+    "ver": "",
+    "val": "Auguste Tilkens, the previous governor of the Belgian Congo, now heads the Comité Spécial du Katanga, a parastatal body created in 1900 responsible for administering and exploiting the resources of Katanga province. It would prove wise to utilize this organization to its fullest extent.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2624,
+    "indent": " ",
+    "key": "COG_lecho_du_katanga",
+    "ver": "",
+    "val": "L'Écho du Katanga",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2625,
+    "indent": " ",
+    "key": "COG_lecho_du_katanga_desc",
+    "ver": "",
+    "val": "The Echo of Katanga is a newspaper published from Élisabethville by social-colonialist founder Jean Decoster and editor Albert Decoster. Together they promote European Settlement in the Congo, something which might be worth latching on to in order to more quickly develop our growing nation.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2627,
+    "indent": " ",
+    "key": "COG_strengthen_the_banque_du_congo_belge",
+    "ver": "",
+    "val": "Strengthen the Banque du Congo Belge",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2628,
+    "indent": " ",
+    "key": "COG_strengthen_the_banque_du_congo_belge_desc",
+    "ver": "",
+    "val": "No country can run efficiently without a proper bank, and we are no different. In order to have a stronger grip over the monetary situation within our nation, we should aim to strengthen the Belgian state-owned Banque du Congo Belge.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2630,
+    "indent": " ",
+    "key": "COG_contract_the_empain_group",
+    "ver": "",
+    "val": "Contract the Empain Group",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2631,
+    "indent": " ",
+    "key": "COG_contract_the_empain_group_desc",
+    "ver": "",
+    "val": "The Empain group was founded by Édouard Empain in 1881, and is one of the biggest corporations of our time. Responsible for tramways, railways, electricity generation, construction and mining among other things, it operates in Belgium, France, Russia, Egypt and China, and has already played a great part in the development of the eastern Belgian Congo. Their services are sorely needed!",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2633,
+    "indent": " ",
+    "key": "COG_invest_in_geomines",
+    "ver": "",
+    "val": "Invest in Géomines",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2634,
+    "indent": " ",
+    "key": "COG_invest_in_geomines_desc",
+    "ver": "",
+    "val": "The Compagnie Géologique et Minière des Ingénieurs et Industriels Belges has played a big role in the extraction and exploitation of massive deposits of metal ore in the southeast of our country, and is one of the largest tin producers in the world. They can surely aid our economy in the long run if we invest into them now.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2636,
+    "indent": " ",
+    "key": "COG_attempt_to_centralize_the_state",
+    "ver": "",
+    "val": "Attempt to Centralize the State",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2637,
+    "indent": " ",
+    "key": "COG_attempt_to_centralize_the_state_desc",
+    "ver": "",
+    "val": "Our vast nation is infinitely impossible to control from one central location. At least if we cannot invent better communications and transportation technologies. We should however do what we can at the moment to better centralize the state around our capital.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2639,
+    "indent": " ",
+    "key": "COG_allow_local_autonomy",
+    "ver": "",
+    "val": "Allow Local Autonomy",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2640,
+    "indent": " ",
+    "key": "COG_allow_local_autonomy_desc",
+    "ver": "",
+    "val": "Seeing as it is practically impossible to properly centralize, we should instead strive to allow the regions local autonomy, to better keep the many people of our nation supportive of us, despite us not having as great of control over them.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2642,
+    "indent": " ",
+    "key": "COG_closer_cooperation_with_eugene_jungers",
+    "ver": "",
+    "val": "Closer Cooperation with Eugène Jungers",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2643,
+    "indent": " ",
+    "key": "COG_closer_cooperation_with_eugene_jungers_desc",
+    "ver": "",
+    "val": "Eugène Jungers is the current governor of the colony of Ruanda-Urundi. If we can gain his favor, we might be able to work closer and eventually utilize the resources available in the colony to our benefit.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2645,
+    "indent": " ",
+    "key": "COG_found_the_congolese_national_movement",
+    "ver": "",
+    "val": "Found the Congolese National Movement",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2646,
+    "indent": " ",
+    "key": "COG_found_the_congolese_national_movement_desc",
+    "ver": "",
+    "val": "In order for the Congo to be able to work together despite the inter-ethnic and inter-religious struggles it experiences, we will have to create a united front organization dedicated to making the Congo the best it can be. To that end, Patrice Lumumba has suggested forming the Mouvement national Congolais.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2648,
+    "indent": " ",
+    "key": "COG_formally_recognize_the_kimbanguist_church",
+    "ver": "",
+    "val": "Formally Recognize the Kimbanguist Church",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2649,
+    "indent": " ",
+    "key": "COG_formally_recognize_the_kimbanguist_church_desc",
+    "ver": "",
+    "val": "Simon Kimbangu, self proclaimed special envoy of Jesus Christ himself, has been a thorn in the side of our administration for many years. With the amount of support from the local populace that his movement has garnered however, it may be the right time to formally recognize Jesus Christ's Church on earth by his special Envoy Simon Kimbangu as a legitimate religious group within our nation.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2651,
+    "indent": " ",
+    "key": "COG_found_the_parti_solidaire_africain",
+    "ver": "",
+    "val": "Found the Parti Solidaire Africain",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2652,
+    "indent": " ",
+    "key": "COG_found_the_parti_solidaire_africain_desc",
+    "ver": "",
+    "val": "The Pan-Africanist movement is growing stronger by the day, and as one of the largest states in Africa, we cannot be allowed to fall behind these developments. Thus, we must found the African Mutual Party with the goal of furthering cooperation between socialist and democratic states on our continent.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2654,
+    "indent": " ",
+    "key": "COG_the_intore_lion_dancers",
+    "ver": "",
+    "val": "The Intore Lion Dancers",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2655,
+    "indent": " ",
+    "key": "COG_the_intore_lion_dancers_desc",
+    "ver": "",
+    "val": "The Intore Lion Dancers are the elite royal guard of the Ruandan Mwami, being often referred to as the Chosen Ones within the traditional Ruandan army. It would be for the best to make sure that this armed force is under the command of the central government.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2657,
+    "indent": " ",
+    "key": "COG_improve_colonial_lawmaking",
+    "ver": "",
+    "val": "Improve Colonial Lawmaking",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2658,
+    "indent": " ",
+    "key": "COG_improve_colonial_lawmaking_desc",
+    "ver": "",
+    "val": "Our laws are many, and most of them are heavily outdated, still being in place since the times of the Free State. It would be for the best to employ the renowned colonial lawyer Robert de Mûelenaere to help rewrite many of the outdated laws in our nation.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2660,
+    "indent": " ",
+    "key": "COG_establish_new_sabena_air_routes",
+    "ver": "",
+    "val": "Establish New SABENA Air Routes",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2661,
+    "indent": " ",
+    "key": "COG_establish_new_sabena_air_routes_desc",
+    "ver": "",
+    "val": "The Societé Anonyme Belge d'Exploitation de la Navigation Aérienne has long been useful for us by providing aerial transport between the major population centers of our vast nation. Perhaps we could attempt to establish new routes to some of the more remote regions of the state, so that transport and communication can become a lot easier to manage.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2663,
+    "indent": " ",
+    "key": "COG_congo_and_the_war_in_europe",
+    "ver": "",
+    "val": "The Congo and the War in Europe",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2664,
+    "indent": " ",
+    "key": "COG_congo_and_the_war_in_europe_desc",
+    "ver": "",
+    "val": "Our overlord has found themselves under attack by a foreign power, and the war may eventually spread all the way to our borders. It is time that we prepare ourselves for battle, and assert that though they may, we shall never surrender!",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2666,
+    "indent": " ",
+    "key": "COG_emergency_powers_for_pierre_ryckmans",
+    "ver": "",
+    "val": "Emergency Powers for the Colonial Governor",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2667,
+    "indent": " ",
+    "key": "COG_emergency_powers_for_pierre_ryckmans_desc",
+    "ver": "",
+    "val": "Our administration has been at a complete standstill since communications got cut off with the government back in Belgium. We must therefore grant emergency powers to Ryckmans and Vleeschauwer so that we can act with more authority.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2669,
+    "indent": " ",
+    "key": "COG_an_independent_colonial_cabinet",
+    "ver": "",
+    "val": "An Independent Colonial Cabinet",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2670,
+    "indent": " ",
+    "key": "COG_an_independent_colonial_cabinet_desc",
+    "ver": "",
+    "val": "In order to properly run the country, we will have to set up a temporary cabinet of ministers, and our own parliament in Leopoldville. In the meantime, Vleeschauwer will make state visits to our various allies in the hopes of acquiring favorable trade deals with them.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2672,
+    "indent": " ",
+    "key": "COG_acquire_american_investments",
+    "ver": "",
+    "val": "Acquire American Investments",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2673,
+    "indent": " ",
+    "key": "COG_acquire_american_investments_desc",
+    "ver": "",
+    "val": "The Americans hold great interest in using our vast nation as a hub for setting up transportation of supplies and weapons, as we are strategically located in the center of Africa, whilst also being close-by to the American continent. We should use this to our advantage and try to attract American investors.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2675,
+    "indent": " ",
+    "key": "COG_make_use_of_the_british_proposal",
+    "ver": "",
+    "val": "Make Use of the British Proposal",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2676,
+    "indent": " ",
+    "key": "COG_make_use_of_the_british_proposal_desc",
+    "ver": "",
+    "val": "The British have offered that, seeing the weakness of the government back in Belgium, they would allow an independent Congolese state as part of their alliance, granted we allow them rights to several mines and rubber plantations. It is an offer that would be wise to take them up on!",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2678,
+    "indent": " ",
+    "key": "COG_prepare_for_offensive_action",
+    "ver": "",
+    "val": "Prepare for Offensive Action",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2679,
+    "indent": " ",
+    "key": "COG_prepare_for_offensive_action_desc",
+    "ver": "",
+    "val": "The politicians back home are indecisive on our role in this war, but we must not forget that we can be their salvation, and through heroic action, win our independence through this war. Every man for the front!",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2681,
+    "indent": " ",
+    "key": "COG_utilize_sabena_for_military_purposes",
+    "ver": "",
+    "val": "Utilize SABENA for Military Purposes",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2682,
+    "indent": " ",
+    "key": "COG_utilize_sabena_for_military_purposes_desc",
+    "ver": "",
+    "val": "SABENA has previously only been used for civilian transportation purposes. With the war closing on our backyard however, we must use them to train pilots, and refit their planes for aerial combat.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2684,
+    "indent": " ",
+    "key": "COG_raf_and_saaf_cooperation",
+    "ver": "",
+    "val": "RAF and SAAF Cooperation",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2685,
+    "indent": " ",
+    "key": "COG_raf_and_saaf_cooperation_desc",
+    "ver": "",
+    "val": "Many of our pilots have left to join the Royal Air Force. Though it pains us to cooperate further with the British Commonwealth, it will aid us greatly to learn their expertise and experience their tactics on the battlefield.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2687,
+    "indent": " ",
+    "key": "COG_enter_the_sterling_area",
+    "ver": "",
+    "val": "Enter the Sterling Area",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2688,
+    "indent": " ",
+    "key": "COG_enter_the_sterling_area_desc",
+    "ver": "",
+    "val": "The British have demanded that we, in exchange for being allowed to maintain our independence from them whilst our overlord is under foreign occupation, join the Sterling Area and pay subsidies to them, as well as follow their colonial market prices. It won't be great for us economically, but it is a price we will have to pay.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2690,
+    "indent": " ",
+    "key": "COG_safeguard_cabinda",
+    "ver": "",
+    "val": "Safeguard Portuguese Congo",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2691,
+    "indent": " ",
+    "key": "COG_safeguard_cabinda_desc",
+    "ver": "",
+    "val": "The province of Cabinda was once a part of the Kingdom of Kongo, and as the war rages on across the globe, it is high time we step in and protect our innocent brethren from any further harm. Their current occupiers may not enjoy this move, but it is necessary for protecting the future of Africa.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2693,
+    "indent": " ",
+    "key": "COG_central_bank_of_congo_ruanda_urundi",
+    "ver": "",
+    "val": "Central Bank of Congo and Ruanda-Urundi",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2694,
+    "indent": " ",
+    "key": "COG_central_bank_of_congo_ruanda_urundi_desc",
+    "ver": "",
+    "val": "It is high time that we establish a bank of our own, one which is not controlled by foreign powers or which lies overseas!",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2696,
+    "indent": " ",
+    "key": "COG_national_committee_for_liberation",
+    "ver": "",
+    "val": "National Committee for Liberation",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2697,
+    "indent": " ",
+    "key": "COG_national_committee_for_liberation_desc",
+    "ver": "",
+    "val": "The weak centrists of the Congolese National Movement seem content with compromising on an independence that may never come, in part agreeing to the thirty-year plan for the emancipation of Belgian Africa by Jef Van Bilsen. We must strike against the colonial authorities before they have a chance to smother our flames!",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2699,
+    "indent": " ",
+    "key": "COG_alliance_de_bakongo",
+    "ver": "",
+    "val": "The Alliance of Bakongo",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2700,
+    "indent": " ",
+    "key": "COG_alliance_de_bakongo_desc",
+    "ver": "",
+    "val": "The Alliance of Bakongo is headed by the great thinker Joseph Kasa-Vubu, a man who is sure to be a guiding light for an independent Congo. We should make sure that the ABAKO is allowed to operate without interference from the government.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2702,
+    "indent": " ",
+    "key": "COG_progressive_congolese_students",
+    "ver": "",
+    "val": "Progressive Congolese Students",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2703,
+    "indent": " ",
+    "key": "COG_progressive_congolese_students_desc",
+    "ver": "",
+    "val": "With many in our country beginning to believe socialist rhetoric, it may prove wise to establish youth organizations where these ideas can be spread and developed further. The youth are the future, and as such they must be taught what they need to lead us when their time comes.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2705,
+    "indent": " ",
+    "key": "COG_manifeste_convience_africaine",
+    "ver": "",
+    "val": "Le Manifeste de Conscience Africaine",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2706,
+    "indent": " ",
+    "key": "COG_manifeste_convience_africaine_desc",
+    "ver": "",
+    "val": "Congolese national awareness is beginning to take shape, and the évolué have begun to grow disillusioned with Jef Van Bilsen's thirty-year plan. It is time that the Congolese intellectuals make themselves heard, and show the world where the Congo is headed!",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2708,
+    "indent": " ",
+    "key": "COG_endorse_force_publique_mutinies",
+    "ver": "",
+    "val": "Endorse Force Publique Mutinies",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2709,
+    "indent": " ",
+    "key": "COG_endorse_force_publique_mutinies_desc",
+    "ver": "",
+    "val": "Though the Force Publique is a tool of the Colonial authorities, there are many within the organization that see the civilizing mission for what it truly is. We should convince them that the best course of action is a mutiny, and that only through such a thing, can we gain full independence.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2711,
+    "indent": " ",
+    "key": "COG_encourage_unionism",
+    "ver": "",
+    "val": "Encourage Unionism",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2712,
+    "indent": " ",
+    "key": "COG_encourage_unionism_desc",
+    "ver": "",
+    "val": "There are many in the Congo that do not get anywhere the same amount of pay as their theoretical equals. To solve this issue, we must encourage our people to unionize, since only by working together can we bring about a better future!",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2714,
+    "indent": " ",
+    "key": "COG_make_contact_with_irving_brown",
+    "ver": "",
+    "val": "Make Contact with Irving Brown",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2715,
+    "indent": " ",
+    "key": "COG_make_contact_with_irving_brown_desc",
+    "ver": "",
+    "val": "American trade unionist and leader in the American Federation of Labor Irving Brown has long had ties to Cyrille Adoula, and as a lieutenant of the US Army, he could be quite worthwhile swaying to our side. By using him as a contact, it is likely we could attempt to gain investments from Americans with connections to the trade unions.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2717,
+    "indent": " ",
+    "key": "COG_invite_the_general_labour_federation_of_belgium",
+    "ver": "",
+    "val": "The General Labour Federation of Belgium",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2718,
+    "indent": " ",
+    "key": "COG_invite_the_general_labour_federation_of_belgium_desc",
+    "ver": "",
+    "val": "The General Labour Federation of Belgium was established as a replacement for the Trade Union Commission, and is looking to expand it's influence further than the Belgian mainland. Thanks to our contacts, we could make sure that they root themselves in the Congo, providing a unified organization for our people to take part in.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2720,
+    "indent": " ",
+    "key": "COG_union_nationale_des_travailleurs_du_congo",
+    "ver": "",
+    "val": "Union Nationale des Travailleurs du Congo",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2721,
+    "indent": " ",
+    "key": "COG_union_nationale_des_travailleurs_du_congo_desc",
+    "ver": "",
+    "val": "We need to found a trade union centered in the Congo, one which is separate from both our and any other nation's government.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2723,
+    "indent": " ",
+    "key": "COG_approach_the_disfavored_mwami",
+    "ver": "",
+    "val": "Approach the Disfavored Mwami",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2724,
+    "indent": " ",
+    "key": "COG_approach_the_disfavored_mwami_desc",
+    "ver": "",
+    "val": "There are many who resent the Belgian occupiers. One of them is Yuhi V Musinga, former Mwami of Rwanda. We could gain his favor, and ensure he and his followers join us in our uprising when the time is right.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2726,
+    "indent": " ",
+    "key": "COG_the_simba_movement",
+    "ver": "",
+    "val": "The Simba Movement",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2727,
+    "indent": " ",
+    "key": "COG_the_simba_movement_desc",
+    "ver": "",
+    "val": "The best way to oust our colonial overlords is to be down to earth and gain the support of the common populace. To that end, Christophe Gbenye is organizing a group known as the Simbas, which is meant to represent the ferocity of a big lion with which they strike down their foes. They would be our best bet for gaining independence!",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2729,
+    "indent": " ",
+    "key": "COG_attempt_to_sway_moise_thsombe",
+    "ver": "",
+    "val": "Attempt to sway Moïse Tshombe",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2730,
+    "indent": " ",
+    "key": "COG_attempt_to_sway_moise_thsombe_desc",
+    "ver": "",
+    "val": "The province of Katanga doesn't seem very on board with our ideas of secession, and will likely secede themselves if we were to launch our revolt. We must therefore gain the support of one of their most prominent politicians, Moïse Tshombe, and have him convince them of our combined cause.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2732,
+    "indent": " ",
+    "key": "COG_secure_soviet_aid",
+    "ver": "",
+    "val": "Secure Soviet Aid",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2733,
+    "indent": " ",
+    "key": "COG_secure_soviet_aid_desc",
+    "ver": "",
+    "val": "There are many powers who would like to see us independent, or at least see our Belgian overlords weakened. The Soviet Union may be our best shot if we wish to gain an ally that we will be a able to rely on even after the war.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2735,
+    "indent": " ",
+    "key": "COG_secure_german_aid",
+    "ver": "",
+    "val": "Secure German Aid",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2736,
+    "indent": " ",
+    "key": "COG_secure_german_aid_desc",
+    "ver": "",
+    "val": "There are many powers who would like to see us independent, or at least see our Belgian overlords weakened. Though they have little to no interest in our independence as a whole, the Germans would like for nothing more than to see Belgium weakened. Thus, they will be a strong ally, at least during the war.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2738,
+    "indent": " ",
+    "key": "COG_approach_the_barotse_litunga",
+    "ver": "",
+    "val": "Approach the Barotse Litunga",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2739,
+    "indent": " ",
+    "key": "COG_approach_the_barotse_litunga_desc",
+    "ver": "",
+    "val": "The Litunga of the Barotse people to our south, Yeta II, shares many of our goals when it comes to anti-imperialism. Perhaps it would prove wise to gain his trust, and have his warriors aid in our liberation?",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2741,
+    "indent": " ",
+    "key": "COG_slander_the_colonial_authorities",
+    "ver": "",
+    "val": "Slander the Colonial Authorities",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2742,
+    "indent": " ",
+    "key": "COG_slander_the_colonial_authorities_desc",
+    "ver": "",
+    "val": "What we need to do now is begin a large-scale propaganda campaign against the colonial authorities, and expose to the public everything that they have done and are still doing towards us. Only by doing so, can we truly gain the support of the people.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2744,
+    "indent": " ",
+    "key": "COG_strike_while_the_rion_is_hot",
+    "ver": "",
+    "val": "Strike While the Iron is Hot",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2745,
+    "indent": " ",
+    "key": "COG_strike_while_the_rion_is_hot_desc",
+    "ver": "",
+    "val": "The time is now. It is now or never. We shall now strike down our enemies with ferocity, so that our country can be free from colonialist oppression once and for all!",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2747,
+    "indent": " ",
+    "key": "COG_the_lion_roars",
+    "ver": "",
+    "val": "The Lion Roars",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2748,
+    "indent": " ",
+    "key": "COG_the_lion_roars_desc",
+    "ver": "",
+    "val": "The people of Africa yearn for liberation from their oppressors, just as we once did. The Simba's have gained massive popularity as of late, and at this point in time, there is nothing that can be done to prevent them from taking up national leadership.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2750,
+    "indent": " ",
+    "key": "COG_proclaim_the_peoples_republic",
+    "ver": "",
+    "val": "Proclaim the People's Republic of the Congo",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2751,
+    "indent": " ",
+    "key": "COG_proclaim_the_peoples_republic_desc",
+    "ver": "",
+    "val": "If you asked our people years ago if they thought we would ever reach this day, they would have answered no. But we have done it. Today is the day that we can proclaim the creation of our long sought after People's Republic. Long live the chairman, and long live the state!",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2753,
+    "indent": " ",
+    "key": "COG_the_arme_populaire_de_liberation",
+    "ver": "",
+    "val": "Armée Populaire de Libération",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2754,
+    "indent": " ",
+    "key": "COG_the_arme_populaire_de_liberation_desc",
+    "ver": "",
+    "val": "The revolutionary arm needs to reach all, and be strong enough to protect our citizens. To that end we need to found our own Armée Populaire de Libération, so that our people will never again have to fear for their safety!",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2756,
+    "indent": " ",
+    "key": "COG_nationalization_of_foreign_industrial_assets",
+    "ver": "",
+    "val": "Nationalize Foreign Industrial Assets",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2757,
+    "indent": " ",
+    "key": "COG_nationalization_of_foreign_industrial_assets_desc",
+    "ver": "",
+    "val": "Throughout our history, many foreign companies and corporations have arrived in our nation to exploit our resources and people. We must nationalize these industries, and bring them in as our own.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2759,
+    "indent": " ",
+    "key": "COG_form_the_gecamines",
+    "ver": "",
+    "val": "Form the Gécamines",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2760,
+    "indent": " ",
+    "key": "COG_form_the_gecamines_desc",
+    "ver": "",
+    "val": "The next step is to nationalize the Géomines, by merging it into our newly founded state owned company La Générale des Carrières et des Mines. By doing this, the resources of our nation will finally be ours.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2762,
+    "indent": " ",
+    "key": "COG_societe_nationale_chemins_du_congo",
+    "ver": "",
+    "val": "Société Nationale des Chemins de fer du Congo",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2763,
+    "indent": " ",
+    "key": "COG_societe_nationale_chemins_du_congo_desc",
+    "ver": "",
+    "val": "Seeing how vast our country is, it would prove important to form a national agency that deals with our many railways, a vast majority of which currently stand in disrepair, so that our country can be more connected than it ever has been.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2765,
+    "indent": " ",
+    "key": "COG_cooperate_with_the_congolese_churches",
+    "ver": "",
+    "val": "Cooperate with the Congolese Churches",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2766,
+    "indent": " ",
+    "key": "COG_cooperate_with_the_congolese_churches_desc",
+    "ver": "",
+    "val": "The churches, though conservative in nature, do not oppose us, and are no big threat to our rule. Therefore it would prove best to instead make sure that we are on their good side, and have them instead be a part of our national apparatus.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2768,
+    "indent": " ",
+    "key": "COG_strict_anti_clericalism",
+    "ver": "",
+    "val": "Strict Anti-Clericalism",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2769,
+    "indent": " ",
+    "key": "COG_strict_anti_clericalism_desc",
+    "ver": "",
+    "val": "The priests of the Catholic and Kimbanguist churches are greedy men who only care about themselves. We must endeavor to cut their influence off from our society, if our people are to ever prosper.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2771,
+    "indent": " ",
+    "key": "COG_invite_kwame_to_the_capital",
+    "ver": "",
+    "val": "Invite Kwame Nkrumah to the Capital",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2772,
+    "indent": " ",
+    "key": "COG_invite_kwame_to_the_capital_desc",
+    "ver": "",
+    "val": "Kwame Nkrumah is an influential and popular Pan-Africanist Ghanaian politician. We should invite him to our capital to establish good relations with the movement, and perhaps he could be useful to us in more ways than one.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2774,
+    "indent": " ",
+    "key": "COG_liberation_by_force",
+    "ver": "",
+    "val": "Liberation by Force",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2775,
+    "indent": " ",
+    "key": "COG_liberation_by_force_desc",
+    "ver": "",
+    "val": "The people of Africa do not have the power to liberate themselves. We must instead strive to liberate them from their oppressors, so that they can once again experience freedom, as they did long ago.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2777,
+    "indent": " ",
+    "key": "COG_hold_the_pan_african_congress",
+    "ver": "",
+    "val": "Hold the Pan-African Congress",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2778,
+    "indent": " ",
+    "key": "COG_hold_the_pan_african_congress_desc",
+    "ver": "",
+    "val": "All influential African politicians must gather and decide the future of the continent together. On the agenda must be rebellion against the colonial states, and the emancipation of the African peoples.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2780,
+    "indent": " ",
+    "key": "COG_establish_the_west_african_national_secretariat",
+    "ver": "",
+    "val": "The African National Secretariat",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2781,
+    "indent": " ",
+    "key": "COG_establish_the_west_african_national_secretariat_desc",
+    "ver": "",
+    "val": "The time has come to enact that which was decided upon at the Pan-African congress. We must supply arms to revolutionaries, and aid in the global anti-colonialist struggle, so that this dark age can come to an end once and for all!",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2783,
+    "indent": " ",
+    "key": "COG_socialist_education_reforms",
+    "ver": "",
+    "val": "Socialist Education Reforms",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2784,
+    "indent": " ",
+    "key": "COG_socialist_education_reforms_desc",
+    "ver": "",
+    "val": "The people must be properly educated so that they can think for themselves, without falling back into the traps of tribalism and savagery. We must therefore strive to shape the educational systems and curriculum to fit our desired viewpoints.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2786,
+    "indent": " ",
+    "key": "COG_foster_a_personality_cult",
+    "ver": "",
+    "val": "Foster a Personality Cult",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2787,
+    "indent": " ",
+    "key": "COG_foster_a_personality_cult_desc",
+    "ver": "",
+    "val": "There is no-one other than [ROOT.GetLeader] who can bring prosperity to the people of Africa. He is the great leader who stands as the foundations to our independence, and must be treated accordingly.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2789,
+    "indent": " ",
+    "key": "COG_join_the_comitern",
+    "ver": "",
+    "val": "Join the Comintern",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2790,
+    "indent": " ",
+    "key": "COG_join_the_comitern_desc",
+    "ver": "",
+    "val": "We have ideological allies in the Soviet Union who wish for nothing more than to bring an end to the era of colonialism. We should therefore establish closer diplomatic ties to them, perhaps even seeking an alliance.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2792,
+    "indent": " ",
+    "key": "COG_african_research_and_development_department",
+    "ver": "",
+    "val": "African RTD Department",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2793,
+    "indent": " ",
+    "key": "COG_african_research_and_development_department_desc",
+    "ver": "",
+    "val": "In order to advance, we must establish a joint African research and technological development unit, which can pool the technical know-how of the many African states.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2795,
+    "indent": " ",
+    "key": "COG_organization_of_african_unity",
+    "ver": "",
+    "val": "The Organization of African Unity",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2796,
+    "indent": " ",
+    "key": "COG_organization_of_african_unity_desc",
+    "ver": "",
+    "val": "Until now, freedom from European colonization was seen as a matter of simply gaining independence. However, it seems we are all still potential targets for conquest in the eyes of many leaders outside of Africa. Only by standing together and cooperating can the people of Africa hope to resist ending up as subjects once again.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2798,
+    "indent": " ",
+    "key": "COG_mutual_defense",
+    "ver": "",
+    "val": "Mutual Defense",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2799,
+    "indent": " ",
+    "key": "COG_mutual_defense_desc",
+    "ver": "",
+    "val": "The people of Africa will never have lasting peace until the nations of the world realize the cost of attempting to colonize us is too great. To achieve this, the Organization of African Unity's members should create a mutual defense agreement, promising to protect each other if any of us are attacked.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2801,
+    "indent": " ",
+    "key": "COG_central_african_bank",
+    "ver": "",
+    "val": "The Central African Bank",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2802,
+    "indent": " ",
+    "key": "COG_central_african_bank_desc",
+    "ver": "",
+    "val": "With the creation of an [ETH_GetCentralBankName], we could begin the process of integrating the economies within the Organization of African Unity. This would allow us to more efficiently utilize our resources and infrastructure for the betterment of all member states.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2804,
+    "indent": " ",
+    "key": "COG_the_executive_council",
+    "ver": "",
+    "val": "The Executive Council",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2805,
+    "indent": " ",
+    "key": "COG_the_executive_council_desc",
+    "ver": "",
+    "val": "We should push for greater cooperation at the Organization of African Unity by creating an executive body to act on the will of the people and who can respond quickly to threats to stability in our region.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2807,
+    "indent": " ",
+    "key": "COG_the_african_union",
+    "ver": "",
+    "val": "The African Union",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2808,
+    "indent": " ",
+    "key": "COG_the_african_union_desc",
+    "ver": "",
+    "val": "The time has come for the people of Africa to be united in an African Union. Never again will we be threatened by imperialists or fascists as we strive to become Africa’s first superpower.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2810,
+    "indent": " ",
+    "key": "COG_kasa_vubus_first_cabinet",
+    "ver": "",
+    "val": "Kasa-Vubu's First Cabinet",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2811,
+    "indent": " ",
+    "key": "COG_kasa_vubus_first_cabinet_desc",
+    "ver": "",
+    "val": "The first free election has concluded, and Joseph Kasa-Vubu has come out on top. Now, he is working hard to assemble the first Congolese cabinet of ministers. Being vastly popular throughout the entire nation, and excellent at his job, he is sure to be remembered as a great president for many generations to come.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2813,
+    "indent": " ",
+    "key": "COG_national_insitute_of_agronomic_study",
+    "ver": "",
+    "val": "National Institute for Agronomic Study",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2814,
+    "indent": " ",
+    "key": "COG_national_insitute_of_agronomic_study_desc",
+    "ver": "",
+    "val": "We must establish an organization with the intent to analyze and improve our agricultural methods and lands. By doing this, we can make our nation truly flourish.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2816,
+    "indent": " ",
+    "key": "COG_the_ten_year_plan",
+    "ver": "",
+    "val": "The Ten Year Plan",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2817,
+    "indent": " ",
+    "key": "COG_the_ten_year_plan_desc",
+    "ver": "",
+    "val": "In order to get our industry back up and running, we should initiate the ten year plan for the economic and social development of the Congo.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2819,
+    "indent": " ",
+    "key": "COG_expanded_peasantry_program",
+    "ver": "",
+    "val": "Expanded Peasantry Programs",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2820,
+    "indent": " ",
+    "key": "COG_expanded_peasantry_program_desc",
+    "ver": "",
+    "val": "Our agricultural sector is the largest in our country, and will need to be invested heavily into in order to get modernized, and that is exactly what we will do.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2822,
+    "indent": " ",
+    "key": "COG_declaration_of_congolese_unity",
+    "ver": "",
+    "val": "Declaration of Congolese Unity",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2823,
+    "indent": " ",
+    "key": "COG_declaration_of_congolese_unity_desc",
+    "ver": "",
+    "val": "The Bakongo people currently live separated by international borders. We must endeavor to unite our people as soon as possible, and to that end ensure that the Bakongo can thrive for centuries to come.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2825,
+    "indent": " ",
+    "key": "COG_improve_the_civil_administration",
+    "ver": "",
+    "val": "Improve Civil Administration",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2826,
+    "indent": " ",
+    "key": "COG_improve_the_civil_administration_desc",
+    "ver": "",
+    "val": "The administration in many of our far-out regions leaves a lot to be desired. We must strive to improve this, if our country is to ever run as smoothly and seamlessly as we wish it would.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2828,
+    "indent": " ",
+    "key": "COG_mend_the_linguistic_divides",
+    "ver": "",
+    "val": "Mend the Linguistic Divides",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2829,
+    "indent": " ",
+    "key": "COG_mend_the_linguistic_divides_desc",
+    "ver": "",
+    "val": "There exists great divides within our nation, one of the biggest ones being the linguistic one between our major languages Kikongo, Lingala, Swahili, Tshiluba and French, and with hundreds of smaller languages existing within our nation. We must grant official statues to many of these, if we want to achieve true equality.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2831,
+    "indent": " ",
+    "key": "COG_women_in_the_military",
+    "ver": "",
+    "val": "Allow Women in the Military",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2832,
+    "indent": " ",
+    "key": "COG_women_in_the_military_desc",
+    "ver": "",
+    "val": "At the moment, the women of our nation aren't allowed to take part in military service, even though there are many patriotic women who wish to do so. We must rewrite our laws to allow for them to do so, in order for as many capable soldiers as possible to enlist into our armed forces.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2834,
+    "indent": " ",
+    "key": "COG_assemble_a_regency_council",
+    "ver": "",
+    "val": "Assemble a Regency Council",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2835,
+    "indent": " ",
+    "key": "COG_assemble_a_regency_council_desc",
+    "ver": "",
+    "val": "A solution to our political struggles is nowhere in sight. No specific party or politician has enough public support to take up national leadership, and the situation cannot be allowed to go on for much longer. We need to assemble a council that will attempt to offer leadership to certain tribal leaders and monarchs, to gather as much legitimacy for our new government as possible.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2837,
+    "indent": " ",
+    "key": "COG_the_kingdom_of_kongo_focus",
+    "ver": "",
+    "val": "The House of Água Rosada",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2838,
+    "indent": " ",
+    "key": "COG_the_kingdom_of_kongo_focus_desc",
+    "ver": "",
+    "val": "The House of Água Rosada was the last ruling house of the Kingdom of Kongo during the 19th and 20th centuries, and it was also one of the main factions during the Kongo Civil War. Dom Pedro VII, it's current claimant, has now once again been crowned the King of Kongo.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2840,
+    "indent": " ",
+    "key": "COG_the_nyim_of_kuba_focus",
+    "ver": "",
+    "val": "The Nyim of Kuba",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2841,
+    "indent": " ",
+    "key": "COG_the_nyim_of_kuba_focus_desc",
+    "ver": "",
+    "val": "The Kuba Kingdom has existed since 1625, and was in 1884 turned into a regional chiefdom in the International Association of the Congo. Their ruler is the Nyim, who currently is Mbóp Mábíínc maMbéky, and he will be able to restore our nation to it's former glory!",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2843,
+    "indent": " ",
+    "key": "COG_the_ma_loango_focus",
+    "ver": "",
+    "val": "The Mâ Loango",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2844,
+    "indent": " ",
+    "key": "COG_the_ma_loango_focus_desc",
+    "ver": "",
+    "val": "The Mâ Loango is the traditional ruler of the Kingdom of Loango. Now that we have adopted this title, we should strive towards reintegrating the old territories once held by the kingdom.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2846,
+    "indent": " ",
+    "key": "COG_the_mwami_of_burundi_focus",
+    "ver": "",
+    "val": "The Mwami of Burundi",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2847,
+    "indent": " ",
+    "key": "COG_the_mwami_of_burundi_focus_desc",
+    "ver": "",
+    "val": "Now with Mwambutsa IV Bangiricenge's ascension to our throne, we can claim the title of the Kingdom of Burundi. By doing so, we will be able to legitimize our claim to the small kingdom in the east, and perhaps we can go even further.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2849,
+    "indent": " ",
+    "key": "COG_the_umwami_of_rwanda_focus",
+    "ver": "",
+    "val": "The Umwami of Rwanda",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2850,
+    "indent": " ",
+    "key": "COG_the_umwami_of_rwanda_focus_desc",
+    "ver": "",
+    "val": "Now with Mutara III Rudahigwa's ascension to our throne, we can claim the title of the Kingdom of Rwanda. By doing so, we will be able to legitimize our claim to the small kingdom in the east, and perhaps we can go even further.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2852,
+    "indent": " ",
+    "key": "COG_the_pro_german_mwami_focus",
+    "ver": "",
+    "val": "The Pro-German Mwami",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2853,
+    "indent": " ",
+    "key": "COG_the_pro_german_mwami_focus_desc",
+    "ver": "",
+    "val": "The German collaborator Yuhi V Musinga of Rwanda has now taken control of the country after being elected by our regency council. In an unexpected turn of events however, he has proclaimed the Congo to be a continuation of the German colonial empire, exclaiming that he is the ruler of the Mittelafrikan Kingdom!",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2855,
+    "indent": " ",
+    "key": "COG_uniao_dos_povos_do_norte_de_angola",
+    "ver": "",
+    "val": "União dos Povos do Norte de Angola",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2856,
+    "indent": " ",
+    "key": "COG_uniao_dos_povos_do_norte_de_angola_desc",
+    "ver": "",
+    "val": "União dos Povos do Norte de Angola is a guerilla movement currently operating in Northern Angola, with the goal of rejoining our former territories back into the Kingdom of Kongo. It would be wise to fund this group.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2858,
+    "indent": " ",
+    "key": "COG_bundu_dia_kongo",
+    "ver": "",
+    "val": "Bundu dia Kongo",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2859,
+    "indent": " ",
+    "key": "COG_bundu_dia_kongo_desc",
+    "ver": "",
+    "val": "In order for our state to truly go back to what it was, we must cast off the shackles of Christianity that were introduced to us by the Portuguese all those years ago. It is time to once again embrace Bukongo!",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2861,
+    "indent": " ",
+    "key": "COG_devout_catholic_kingdom",
+    "ver": "",
+    "val": "A Devout Catholic Kingdom",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2862,
+    "indent": " ",
+    "key": "COG_devout_catholic_kingdom_desc",
+    "ver": "",
+    "val": "As one of the first Catholic kingdoms in Africa, we know the importance of the religion and the legitimacy of the Pope. If we are to recover from the centuries of strife we have experienced, we must stay loyal to our christian ideals.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2864,
+    "indent": " ",
+    "key": "COG_reestablish_the_royal_council",
+    "ver": "",
+    "val": "Reestablish the Royal Council",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2865,
+    "indent": " ",
+    "key": "COG_reestablish_the_royal_council_desc",
+    "ver": "",
+    "val": "The Royal Council of the Kingdom of Kongo, often referred to as the top of the top, was the governing body of officials and nobles back in the day. We should reestablish this, as no king can truly rule alone.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2867,
+    "indent": " ",
+    "key": "COG_bakongo_military_might",
+    "ver": "",
+    "val": "Bakongo Military Might",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2868,
+    "indent": " ",
+    "key": "COG_bakongo_military_might_desc",
+    "ver": "",
+    "val": "Now that we have once again stabilized the situation in our kingdom, it is time we lay claim to and conquer all that which is ours, and bring Africa under our dominion!",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2870,
+    "indent": " ",
+    "key": "COG_royal_university_of_higher_education",
+    "ver": "",
+    "val": "Royal University for Higher Education",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2871,
+    "indent": " ",
+    "key": "COG_royal_university_of_higher_education_desc",
+    "ver": "",
+    "val": "In order to be able to progress as a nation, we need to educate our people in a way that enables them to make scientific breakthroughs. To that end we should establish a university for higher education.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2873,
+    "indent": " ",
+    "key": "COG_invest_in_the_textile_industry",
+    "ver": "",
+    "val": "Invest in the Textile Industry",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2874,
+    "indent": " ",
+    "key": "COG_invest_in_the_textile_industry_desc",
+    "ver": "",
+    "val": "In order to make our nation prosper, we must invest into the creation of traditional Kuba textiles, and sell them on the international market.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2876,
+    "indent": " ",
+    "key": "COG_traditional_masks_and_armor",
+    "ver": "",
+    "val": "Traditional Masks and Armor",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2877,
+    "indent": " ",
+    "key": "COG_traditional_masks_and_armor_desc",
+    "ver": "",
+    "val": "In order to raise the morale of our troops, we should equip them with traditional Kuba armor. We can also intimidate our foes using our traditional masks.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2879,
+    "indent": " ",
+    "key": "COG_children_of_woot",
+    "ver": "",
+    "val": "The Children of Woot",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2880,
+    "indent": " ",
+    "key": "COG_children_of_woot_desc",
+    "ver": "",
+    "val": "Woot is a supernatural being who named the animals and other living things, and was also the first human and bringer of civilization. We are their children, and must act in a way to live up to their expectations.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2882,
+    "indent": " ",
+    "key": "COG_spirit_of_loko_yima",
+    "ver": "",
+    "val": "The Spirit of Loko Yima",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2883,
+    "indent": " ",
+    "key": "COG_spirit_of_loko_yima_desc",
+    "ver": "",
+    "val": "[ROOT.GetLeader] carries the spirit of the pure white Loko Yima, the god upon the earth who was vomited out by the sky father Bumba during the creation, within him. Thus, all must follow the will of [ROOT.GetLeader].",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2885,
+    "indent": " ",
+    "key": "COG_a_society_of_trade",
+    "ver": "",
+    "val": "A Society Built on Trade",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2886,
+    "indent": " ",
+    "key": "COG_a_society_of_trade_desc",
+    "ver": "",
+    "val": "Our society has long been able to continue going due to the trade routes going through the Congo. We must keep this up if we wish to gain a stronger economic foundation.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2888,
+    "indent": " ",
+    "key": "COG_a_multiethnic_conglomeration",
+    "ver": "",
+    "val": "A Multiethnic Conglomeration",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2889,
+    "indent": " ",
+    "key": "COG_a_multiethnic_conglomeration_desc",
+    "ver": "",
+    "val": "Our society has always been made up of multiple ethnic and linguistic groups, and it has been better for it. We should encourage more of this behavior, and change the relationship between the conqueror and the conquered.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2891,
+    "indent": " ",
+    "key": "COG_reclaim_loango",
+    "ver": "",
+    "val": "Reclaim Loango",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2892,
+    "indent": " ",
+    "key": "COG_reclaim_loango_desc",
+    "ver": "",
+    "val": "While it is not currently the case, our true capital Loango lies in [772.GetName], and must be remade into a great city the likes of which the world has never before seen. The first step will have to be to secure it however.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2894,
+    "indent": " ",
+    "key": "COG_the_kings_divine_power",
+    "ver": "",
+    "val": "The King's Divine Power",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2895,
+    "indent": " ",
+    "key": "COG_the_kings_divine_power_desc",
+    "ver": "",
+    "val": "The king has the divine right to rule, and must be allowed to do as such. He knows what is best for his loyal subjects, and will rule with an iron fist.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2897,
+    "indent": " ",
+    "key": "COG_appoint_a_royal_council",
+    "ver": "",
+    "val": "Appoint a Royal Council",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2898,
+    "indent": " ",
+    "key": "COG_appoint_a_royal_council_desc",
+    "ver": "",
+    "val": "The king may know much, but not all. Therefore he need as royal council of advisors that can help guide his hand when ruling over the kingdom.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2900,
+    "indent": " ",
+    "key": "COG_occupy_cabinda",
+    "ver": "",
+    "val": "Occupy Cabinda",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2901,
+    "indent": " ",
+    "key": "COG_occupy_cabinda_desc",
+    "ver": "",
+    "val": "The province of Cabinda lies between our provinces of Loango and Boma, and as the war rages on across the globe, it is high time we step in and protect our innocent brethren from any further harm. Their current occupiers may not enjoy this move, but it is necessary for protecting the future of Africa.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2903,
+    "indent": " ",
+    "key": "COG_reestablish_the_bouvandji",
+    "ver": "",
+    "val": "Reestablish the Bouvandji",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2904,
+    "indent": " ",
+    "key": "COG_reestablish_the_bouvandji_desc",
+    "ver": "",
+    "val": "During the 11th century the Bouvandji were a brotherhood of blacksmiths from the Woyo people. They possessed a mastery of fire and iron, and led the State of Ngoyo to domination over us. With our triumph in recent years however, it may be time for us to make use of them instead.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2906,
+    "indent": " ",
+    "key": "COG_invest_in_rubber_plantations",
+    "ver": "",
+    "val": "Invest in Rubber Plantations",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2907,
+    "indent": " ",
+    "key": "COG_invest_in_rubber_plantations_desc",
+    "ver": "",
+    "val": "Rubber is the fuel of our economy, and can help us establish beneficial trade deals with foreign powers. It is therefore a sector that we must invest heavily into.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2909,
+    "indent": " ",
+    "key": "COG_friendship_with_france",
+    "ver": "",
+    "val": "Friendship Treaty with [FRA.GetName]",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2910,
+    "indent": " ",
+    "key": "COG_friendship_with_france_desc",
+    "ver": "",
+    "val": "[FRA.GetNameDefCap] may have colonized us once, but they allowed our nominal independence, and we are thankful for that. We should try to right any past wrongs, and establish an alliance with them.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2912,
+    "indent": " ",
+    "key": "COG_attempt_to_ally_the_portuguese",
+    "ver": "",
+    "val": "Attempt to Ally the [POR.GetAdjective]",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2913,
+    "indent": " ",
+    "key": "COG_attempt_to_ally_the_portuguese_desc",
+    "ver": "",
+    "val": "Our relationship with [POR.GetNameDef] and their explorers has been back and forth, but it is time we remedy the past and look forward. We should therefore seek to establish an alliance with them.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2915,
+    "indent": " ",
+    "key": "COG_reclaim_bujumbura",
+    "ver": "",
+    "val": "Reclaim Bujumbura",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2916,
+    "indent": " ",
+    "key": "COG_reclaim_bujumbura_desc",
+    "ver": "",
+    "val": "We cannot possibly claim ourselves to be the new Kingdom of Burundi if we do not control our old capital. We must do all in our power to retake the region!",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2918,
+    "indent": " ",
+    "key": "COG_the_embodiment_of_god",
+    "ver": "",
+    "val": "The Embodiment of God",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2919,
+    "indent": " ",
+    "key": "COG_the_embodiment_of_god_desc",
+    "ver": "",
+    "val": "[ROOT.GetLeader] is the embodiment of god himself, and has the uniquely divine right to rule over all lands around the Great Lakes. Long live his majesty!",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2921,
+    "indent": " ",
+    "key": "COG_claim_the_great_lakes",
+    "ver": "",
+    "val": "Claim the Great Lakes Kingdoms",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2922,
+    "indent": " ",
+    "key": "COG_claim_the_great_lakes_desc",
+    "ver": "",
+    "val": "The various great lakes kingdoms, one of which we once were, have now all been subjugated by foreign powers. By being one of these old kingdoms, we have a much more legitimate claim to the area, more than any imperialist powers, and must thus take it for ourselves as soon as possible.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2924,
+    "indent": " ",
+    "key": "COG_new_empire_of_kitara",
+    "ver": "",
+    "val": "The New Empire of Kitara",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2925,
+    "indent": " ",
+    "key": "COG_new_empire_of_kitara_desc",
+    "ver": "",
+    "val": "The great and ancient Empire of Kitara is spoken about by many of the inhabitants in our eastern region. By taking up the mantle of this mystical and legendary state, we can fully legitimize our claims to the great lakes kingdoms.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2927,
+    "indent": " ",
+    "key": "COG_south_to_lake_malawi",
+    "ver": "",
+    "val": "South to Lake Malawi",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2928,
+    "indent": " ",
+    "key": "COG_south_to_lake_malawi_desc",
+    "ver": "",
+    "val": "One final push will have to be made towards another great lake, one which was not on the map for the old Empire of Kitara. That lake is lake Malawi, and will be claimed as ours, just like all the other great lakes in the region.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2930,
+    "indent": " ",
+    "key": "COG_reclaim_kigali",
+    "ver": "",
+    "val": "Reclaim Kigali",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2931,
+    "indent": " ",
+    "key": "COG_reclaim_kigali_desc",
+    "ver": "",
+    "val": "We cannot possibly claim ourselves to be the new Kingdom of Rwanda if we do not control our old capital. We must do all in our power to retake the region!",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2933,
+    "indent": " ",
+    "key": "COG_centralize_military_structure",
+    "ver": "",
+    "val": "Centralize Military Structure",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2934,
+    "indent": " ",
+    "key": "COG_centralize_military_structure_desc",
+    "ver": "",
+    "val": "In order to better coordinate our armies, we must establish a centralized military structure, the same thing that back in the day allowed us to easily conquer all of our neighboring kingdoms.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2936,
+    "indent": " ",
+    "key": "COG_an_expansionist_state",
+    "ver": "",
+    "val": "An Expansionist State",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2937,
+    "indent": " ",
+    "key": "COG_an_expansionist_state_desc",
+    "ver": "",
+    "val": "Every state needs to constantly grow if it wishes to keep up with the demands of it's population, and we are no different. We must rapidly expand our borders so that we can satisfy those who constantly yearn for more.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2939,
+    "indent": " ",
+    "key": "COG_great_military_chiefs",
+    "ver": "",
+    "val": "Great Military Chiefs",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2940,
+    "indent": " ",
+    "key": "COG_great_military_chiefs_desc",
+    "ver": "",
+    "val": "What made us stand out back in the day were our great military commanders. We should enforce strict training regimens so that our current ones can live up to those of the past.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2942,
+    "indent": " ",
+    "key": "COG_great_cattle_chiefs",
+    "ver": "",
+    "val": "Great Cattle Chiefs",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2943,
+    "indent": " ",
+    "key": "COG_great_cattle_chiefs_desc",
+    "ver": "",
+    "val": "What made us stand out back in the day were our great chiefs who had a knack for organizing and administrating. They could make our agricultural field stronger than any other's, and it is something that we desperately need to bring back.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2945,
+    "indent": " ",
+    "key": "COG_expand_banana_plantations",
+    "ver": "",
+    "val": "Expand Banana Plantations",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2946,
+    "indent": " ",
+    "key": "COG_expand_banana_plantations_desc",
+    "ver": "",
+    "val": "Bananas are the lifeblood of any healthy economy. We should strive to tenfold our production of bananas so that our people and economy can both be satisfied.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2948,
+    "indent": " ",
+    "key": "COG_tutsi_warrior_training",
+    "ver": "",
+    "val": "Tutsi Warrior Training",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2949,
+    "indent": " ",
+    "key": "COG_tutsi_warrior_training_desc",
+    "ver": "",
+    "val": "Our great Tutsi warriors helped us conquer the neighboring kingdoms so many years ago. We should tighten up our conscription so that only the most fit and well trained men can join our armed forces.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2951,
+    "indent": " ",
+    "key": "COG_unify_east_africa",
+    "ver": "",
+    "val": "Unify East Africa",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2952,
+    "indent": " ",
+    "key": "COG_unify_east_africa_desc",
+    "ver": "",
+    "val": "Now, we can finally achieve the dreams of the Rwandan kings of old, by attempting to unify East Africa. This is a great achievement, and will bring us great glory!",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2954,
+    "indent": " ",
+    "key": "COG_a_german_protectorate",
+    "ver": "",
+    "val": "A German Protectorate",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2955,
+    "indent": " ",
+    "key": "COG_a_german_protectorate_desc",
+    "ver": "",
+    "val": "In order to bring legitimacy to our new state, as well as protect it from hungry vultures such as the British and the French, we should attempt to become a protectorate of our old friends, [GER.GetNameDef].",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2957,
+    "indent": " ",
+    "key": "COG_invite_german_kasierist_exiles",
+    "ver": "",
+    "val": "Invite German Monarchists",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2958,
+    "indent": " ",
+    "key": "COG_invite_german_kasierist_exiles_desc",
+    "ver": "",
+    "val": "It seems as though the Germans have given up on their glorious Kaiser and settled for true mediocrity. We should endeavor to invite loyal German monarchists to our nation, and attempt to establish a true Mittelafrika!",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2960,
+    "indent": " ",
+    "key": "COG_colonial_administration",
+    "ver": "",
+    "val": "Colonial Administration",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2961,
+    "indent": " ",
+    "key": "COG_colonial_administration_desc",
+    "ver": "",
+    "val": "We should use what we have learned from the German colonial administration over our nation back in the day to better administrate Africa ourselves.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2963,
+    "indent": " ",
+    "key": "COG_prussia_of_africa",
+    "ver": "",
+    "val": "The Prussia of Africa",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2964,
+    "indent": " ",
+    "key": "COG_prussia_of_africa_desc",
+    "ver": "",
+    "val": "We, Mittelafrika, are true conquerors, who will bring all of Africa under our dominion. Our army has been heavily prussianized, and it is not uncommon to hear us referred to as the Prussia of Africa.",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2966,
+    "indent": " ",
+    "key": "COG_german_west_africa",
+    "ver": "",
+    "val": "German West Africa",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2967,
+    "indent": " ",
+    "key": "COG_german_west_africa_desc",
+    "ver": "",
+    "val": "We must push towards the old territories of German West Africa, so that they can once again be brought back into the fold!",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2969,
+    "indent": " ",
+    "key": "COG_german_east_africa",
+    "ver": "",
+    "val": "German East Africa",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2970,
+    "indent": " ",
+    "key": "COG_german_east_africa_desc",
+    "ver": "",
+    "val": "We must push towards the old territories of German East Africa, so that they can once again be brought back into the fold!",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2972,
+    "indent": " ",
+    "key": "COG_german_south_west_africa",
+    "ver": "",
+    "val": "German South West Africa",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2973,
+    "indent": " ",
+    "key": "COG_german_south_west_africa_desc",
+    "ver": "",
+    "val": "We must push towards the old territories of German South West Africa, so that they can once again be brought back into the fold!",
+    "comment": "",
+    "section": "### CONGO SHARED FOCUS TREE ###"
+  },
+  {
+    "idx": 2978,
+    "indent": " ",
+    "key": "CONGO_bakwanga_mine_tt",
+    "ver": "",
+    "val": "Unlocks decisions to §YExpand the Mines§!",
+    "comment": "",
+    "section": "### CONGO TOOLTIPS ###"
+  },
+  {
+    "idx": 2979,
+    "indent": " ",
+    "key": "CONGO_kasai_secessionist_state_tt",
+    "ver": "",
+    "val": "If a §YWar for Independence§! against our Overlord were to happen, we would gain 2 §YInfantry§! units with 5 battalions in §Y[888.GetName]§!",
+    "comment": "",
+    "section": "### CONGO TOOLTIPS ###"
+  },
+  {
+    "idx": 2980,
+    "indent": " ",
+    "key": "CONGO_kasai_secessionist_state_2_tt",
+    "ver": "",
+    "val": "If a Congolese §YWar for Independence§! happens, they will gain 2 §YInfantry§! units with 5 battalions in §Y[888.GetName]§!",
+    "comment": "",
+    "section": "### CONGO TOOLTIPS ###"
+  },
+  {
+    "idx": 2981,
+    "indent": " ",
+    "key": "CONGO_at_least_six_focuses_done_tt",
+    "ver": "",
+    "val": "At least §Y6§! focuses stemming from §YSociété Générale de Belgique§! and §YThe Heart of Africa§! have been completed",
+    "comment": "",
+    "section": "### CONGO TOOLTIPS ###"
+  },
+  {
+    "idx": 2982,
+    "indent": " ",
+    "key": "CONGO_at_least_fourteen_focuses_done_tt",
+    "ver": "",
+    "val": "At least §Y14§! focuses stemming from §YSociété Générale de Belgique§! and §YThe Heart of Africa§! have been completed",
+    "comment": "",
+    "section": "### CONGO TOOLTIPS ###"
+  },
+  {
+    "idx": 2983,
+    "indent": " ",
+    "key": "CONGO_cobalt_mine_tt",
+    "ver": "",
+    "val": "Unlocks decisions to §YExpand the Cobalt Mines§!",
+    "comment": "",
+    "section": "### CONGO TOOLTIPS ###"
+  },
+  {
+    "idx": 2984,
+    "indent": " ",
+    "key": "CONGO_requisition_funds_tt",
+    "ver": "",
+    "val": "Unlocks a repeatable decision to gain §YPolitical Power§! in exchange for increased §YCongolese Autonomy§!",
+    "comment": "",
+    "section": "### CONGO TOOLTIPS ###"
+  },
+  {
+    "idx": 2985,
+    "indent": " ",
+    "key": "CONGO_gold_and_diamonds_tt",
+    "ver": "",
+    "val": "Unlocks decisions to §YUtilize Congolese Gold and Diamonds§! for §YInvestments§! and §YConstruction§!",
+    "comment": "",
+    "section": "### CONGO TOOLTIPS ###"
+  },
+  {
+    "idx": 2986,
+    "indent": " ",
+    "key": "CONGO_establish_cometro_tt",
+    "ver": "",
+    "val": "If a §YWar for Independence§! against our Overlord were to happen, §Y[KAT.GetNameDef]§! would join our overlords side, and they would gain 2 §YInfantry§! units with 5 battalions in §Y[889.GetName]§!",
+    "comment": "",
+    "section": "### CONGO TOOLTIPS ###"
+  },
+  {
+    "idx": 2987,
+    "indent": " ",
+    "key": "CONGO_establish_cometro_2_tt",
+    "ver": "",
+    "val": "If a Congolese §YWar for Independence§! happens, §Y[KAT.GetNameDef]§! would join our side, and gain 2 §YInfantry§! units with 5 battalions in §Y[889.GetName]§!",
+    "comment": "",
+    "section": "### CONGO TOOLTIPS ###"
+  },
+  {
+    "idx": 2988,
+    "indent": " ",
+    "key": "CONGO_overseas_department_of_belgium_tt",
+    "ver": "",
+    "val": "§Y[COG.GetNameDefCap]§! will no longer be able to §YIncrease their Autonomy Level§!",
+    "comment": "",
+    "section": "### CONGO TOOLTIPS ###"
+  },
+  {
+    "idx": 2989,
+    "indent": " ",
+    "key": "CONGO_overseas_department_of_belgium_2_tt",
+    "ver": "",
+    "val": "We will no longer be able to §YIncrease our Autonomy Level§!",
+    "comment": "",
+    "section": "### CONGO TOOLTIPS ###"
+  },
+  {
+    "idx": 2990,
+    "indent": " ",
+    "key": "CONGO_dominion_of_congo_tt",
+    "ver": "",
+    "val": "§Y[COG.GetNameDefCap]§! will no longer be able to §YIncrease§! their §YAutonomy Level§! and §Y[BEL.GetNameDef]§! will no longer be able to §RDecrease§! it",
+    "comment": "",
+    "section": "### CONGO TOOLTIPS ###"
+  },
+  {
+    "idx": 2991,
+    "indent": " ",
+    "key": "COG_the_invisible_roof_tt",
+    "ver": "",
+    "val": "Has national spirit §YThe Invisible Roof§!",
+    "comment": "",
+    "section": "### CONGO TOOLTIPS ###"
+  },
+  {
+    "idx": 2992,
+    "indent": " ",
+    "key": "COG_establish_the_anc_locking_tt",
+    "ver": "",
+    "val": "§RLocks any Force Publique focuses from being taken in the future§!",
+    "comment": "",
+    "section": "### CONGO TOOLTIPS ###"
+  },
+  {
+    "idx": 2993,
+    "indent": " ",
+    "key": "COG_establish_the_anc_modifier_tt",
+    "ver": "",
+    "val": "Removes the §YForce Publique§! national spirit and replaces it with the §YArmée Nationale Congolaise§!, retaining around half of the previously gained bonuses",
+    "comment": "",
+    "section": "### CONGO TOOLTIPS ###"
+  },
+  {
+    "idx": 2994,
+    "indent": " ",
+    "key": "COG_closer_cooperation_with_eugene_jungers_tt",
+    "ver": "",
+    "val": "Unlocks the focuses §YRuanda-Urundi§! and §YExpand the Tungsten Mines§!",
+    "comment": "",
+    "section": "### CONGO TOOLTIPS ###"
+  },
+  {
+    "idx": 2995,
+    "indent": " ",
+    "key": "COG_intore_infantry_recruitment",
+    "ver": "",
+    "val": "Gain one elite unit with 7 §YInfantry§! battalions",
+    "comment": "",
+    "section": "### CONGO TOOLTIPS ###"
+  },
+  {
+    "idx": 2996,
+    "indent": " ",
+    "key": "COG_contract_the_empain_group_tt",
+    "ver": "",
+    "val": "Unlocks decisions to §YExpand Mines§! and §YInvest in Companies§! operated by the Empain Group",
+    "comment": "",
+    "section": "### CONGO TOOLTIPS ###"
+  },
+  {
+    "idx": 2997,
+    "indent": " ",
+    "key": "COG_increased_powers_for_colonial_governors",
+    "ver": "",
+    "val": "Increased Powers for Colonial Governors",
+    "comment": "",
+    "section": "### CONGO TOOLTIPS ###"
+  },
+  {
+    "idx": 2998,
+    "indent": " ",
+    "key": "COG_make_use_of_the_british_proposal_tt",
+    "ver": "",
+    "val": "If Belgium has not completed the focus §YKing of the Belgians§!, we will gain the ability to use British support when negotiating our independence from Belgium. If however they have §YEmpowered the Collaborator King§!, we will be able to declare independence immediately using British support. \\n\\nCurrent effects:",
+    "comment": "",
+    "section": "### CONGO TOOLTIPS ###"
+  },
+  {
+    "idx": 2999,
+    "indent": " ",
+    "key": "COG_make_use_of_the_british_proposal_in_negotations",
+    "ver": "",
+    "val": "We will be able to use §YBritish Support§! to push for independence during future negotiations with our colonial overlords in exchange for resource rights to §Y[538.GetName]§! and §Y[890.GetName]§!.",
+    "comment": "",
+    "section": "### CONGO TOOLTIPS ###"
+  },
+  {
+    "idx": 3000,
+    "indent": " ",
+    "key": "COG_occupy_cabinda_tt",
+    "ver": "",
+    "val": "§RThis may lead to war with the owner of [796.GetName]!§!",
+    "comment": "",
+    "section": "### CONGO TOOLTIPS ###"
+  },
+  {
+    "idx": 3001,
+    "indent": " ",
+    "key": "COG_national_committee_for_liberation_tt",
+    "ver": "",
+    "val": "§RWe will no longer be able to attempt to negotiate our independence peacefully, and will be committed to armed revolution§!",
+    "comment": "",
+    "section": "### CONGO TOOLTIPS ###"
+  },
+  {
+    "idx": 3002,
+    "indent": " ",
+    "key": "COG_endorse_force_publique_mutinies_tt",
+    "ver": "",
+    "val": "If the mutinies are either over or still ongoing when the focus §YStrike While the Iron is Hot§! is completed, the spirit will gravely affect our enemy in the civil war",
+    "comment": "",
+    "section": "### CONGO TOOLTIPS ###"
+  },
+  {
+    "idx": 3003,
+    "indent": " ",
+    "key": "COG_the_simba_movement_tt",
+    "ver": "",
+    "val": "When the war for liberation begins, we will gain 3 §YSimba Movement Divisions§!, and they will be able to coup the government and take national leadership if the popularity of §YCommunism§! becomes high enough",
+    "comment": "",
+    "section": "### CONGO TOOLTIPS ###"
+  },
+  {
+    "idx": 3004,
+    "indent": " ",
+    "key": "COG_approach_the_disfavored_mwami_tt",
+    "ver": "",
+    "val": "When the war for liberation begins, we will gain 2 §YRwandan Divisions§!, and monarchist sentiments in our country will start to grow stronger with time",
+    "comment": "",
+    "section": "### CONGO TOOLTIPS ###"
+  },
+  {
+    "idx": 3005,
+    "indent": " ",
+    "key": "COG_approach_the_barotse_litunga_tt",
+    "ver": "",
+    "val": "When the war for liberation begins, we will gain 2 §YBarotse Divisions§!, and gain a core on §Y[981.GetName]§!",
+    "comment": "",
+    "section": "### CONGO TOOLTIPS ###"
+  },
+  {
+    "idx": 3006,
+    "indent": " ",
+    "key": "COG_slander_the_colonial_authorities_tt",
+    "ver": "",
+    "val": "§RThis national spirit will be removed upon the conclusion of our war for independence!§!",
+    "comment": "",
+    "section": "### CONGO TOOLTIPS ###"
+  },
+  {
+    "idx": 3007,
+    "indent": " ",
+    "key": "COG_strike_while_the_iron_is_hot_tt",
+    "ver": "",
+    "val": "Our troops will begin their march toward Léopoldville, officially starting the war for independence. We will be able to force peace with our former overlords and gain full independence if we control §YLéopoldville§!, §YÉlisabethville§! and §YStanleyville§!, or if we can properly capitulate our enemy and force a peace. \\n\\nSimilarly, they will be able to force peace with us and retain control over our country by controlling §YLéopoldville§!, §YÉlisabethville§! and §YStanleyville§!.",
+    "comment": "",
+    "section": "### CONGO TOOLTIPS ###"
+  },
+  {
+    "idx": 3008,
+    "indent": " ",
+    "key": "COG_when_the_war_for_independence_starts_tt",
+    "ver": "",
+    "val": "When the §YWar for Independence§! starts:",
+    "comment": "",
+    "section": "### CONGO TOOLTIPS ###"
+  },
+  {
+    "idx": 3009,
+    "indent": " ",
+    "key": "COG_the_lion_roars_1_tt",
+    "ver": "",
+    "val": "We will become §YCommunist§!, and be able to choose between electing §YCyrille Adoula§! or §YChristophe Gbenye§! as our country leader",
+    "comment": "",
+    "section": "### CONGO TOOLTIPS ###"
+  },
+  {
+    "idx": 3010,
+    "indent": " ",
+    "key": "COG_the_lion_roars_2_tt",
+    "ver": "",
+    "val": "We will be able to choose if we wish to keep §YCyrille Adoula§! as our country leader, or if we wish to replace him with §YChristophe Gbenye§!",
+    "comment": "",
+    "section": "### CONGO TOOLTIPS ###"
+  },
+  {
+    "idx": 3011,
+    "indent": " ",
+    "key": "CONGO_expanded_rubber_plantations_available_tt",
+    "ver": "",
+    "val": "An enemy of ours has seized control of all of §YFrench Indochina§!",
+    "comment": "",
+    "section": "### CONGO TOOLTIPS ###"
+  },
+  {
+    "idx": 3012,
+    "indent": " ",
+    "key": "CONGO_expanded_rubber_plantations_available_malaya_tt",
+    "ver": "",
+    "val": "An enemy of ours has seized control of §YMalaya§!",
+    "comment": "",
+    "section": "### CONGO TOOLTIPS ###"
+  },
+  {
+    "idx": 3013,
+    "indent": " ",
+    "key": "CONGO_expand_ndolo_and_elisabethville_airports_tt",
+    "ver": "",
+    "val": "This effect will be upgraded further if the focus is completed while in a faction with §Y[USA.GetNameDef]§!",
+    "comment": "",
+    "section": "### CONGO TOOLTIPS ###"
+  },
+  {
+    "idx": 3014,
+    "indent": " ",
+    "key": "CONGO_appoint_van_overstraeten_tt",
+    "ver": "",
+    "val": "§YRaoul van Overstraeten§! is sent to become a §YField Marshal§! for the §YBelgian Congo§!",
+    "comment": "",
+    "section": "### CONGO TOOLTIPS ###"
+  },
+  {
+    "idx": 3015,
+    "indent": " ",
+    "key": "congo_more_options_to_threaten_tt",
+    "ver": "",
+    "val": "Should we have gained foreign support previously, we would be able to take a more aggressive stance in negotiations.",
+    "comment": "",
+    "section": "### CONGO TOOLTIPS ###"
+  },
+  {
+    "idx": 3016,
+    "indent": " ",
+    "key": "COG_BEL_negotiations_ongoing_flag",
+    "ver": "",
+    "val": " Congolese Independence Negotiations Ongoing",
+    "comment": "",
+    "section": "### CONGO TOOLTIPS ###"
+  },
+  {
+    "idx": 3017,
+    "indent": " ",
+    "key": "CONGO_independence_war_ongoing",
+    "ver": "",
+    "val": " Congolese Independence War Ongoing",
+    "comment": "",
+    "section": "### CONGO TOOLTIPS ###"
+  },
+  {
+    "idx": 3018,
+    "indent": " ",
+    "key": "COG_african_union_faction",
+    "ver": "",
+    "val": "Organisation of African Unity",
+    "comment": "",
+    "section": "### CONGO TOOLTIPS ###"
+  },
+  {
+    "idx": 3019,
+    "indent": " ",
+    "key": "COG_pan_african_congress",
+    "ver": "",
+    "val": "The Pan-African Congress",
+    "comment": "",
+    "section": "### CONGO TOOLTIPS ###"
+  },
+  {
+    "idx": 3020,
+    "indent": " ",
+    "key": "COG_kasa_vubus_first_cabinet_1_tt",
+    "ver": "",
+    "val": "We will become §YDemocratic§!, and §YJoseph Kasa-Vubu§! will gain the trait §YFounding Father of the Congolese Nation§!",
+    "comment": "",
+    "section": "### CONGO TOOLTIPS ###"
+  },
+  {
+    "idx": 3021,
+    "indent": " ",
+    "key": "COG_kasa_vubus_first_cabinet_2_tt",
+    "ver": "",
+    "val": "§YJoseph Kasa-Vubu§! will gain the trait §YFounding Father of the Congolese Nation§!, and we will gain §YStability§! and §YPolitical Power§!",
+    "comment": "",
+    "section": "### CONGO TOOLTIPS ###"
+  },
+  {
+    "idx": 3022,
+    "indent": " ",
+    "key": "COG_declaration_of_congolese_unity_tt",
+    "ver": "",
+    "val": "Unlocks decisions to §YIntegrate Occupied Congolese Territories§!",
+    "comment": "",
+    "section": "### CONGO TOOLTIPS ###"
+  },
+  {
+    "idx": 3023,
+    "indent": " ",
+    "key": "COG_assemble_a_regency_council_tt",
+    "ver": "",
+    "val": "Once a leader has been picked, §YNew Focuses§! will appear below §YDepending on Who was Chosen§!",
+    "comment": "",
+    "section": "### CONGO TOOLTIPS ###"
+  },
+  {
+    "idx": 3024,
+    "indent": " ",
+    "key": "COG_assemble_a_regency_council_2_tt",
+    "ver": "",
+    "val": "The council will begin looking for candidates to lead our nation, prioritizing the ones with the greatest legitimacy",
+    "comment": "",
+    "section": "### CONGO TOOLTIPS ###"
+  },
+  {
+    "idx": 3025,
+    "indent": " ",
+    "key": "COG_monarchism_didnt_work_out_flag",
+    "ver": "",
+    "val": "The Council could not decide on a ruler",
+    "comment": "",
+    "section": "### CONGO TOOLTIPS ###"
+  },
+  {
+    "idx": 3026,
+    "indent": " ",
+    "key": "COG_uniao_dos_povos_do_norte_de_angola_tt",
+    "ver": "",
+    "val": "If the breakaway state secures it's independence, it will be §YIntegrated§! into us",
+    "comment": "",
+    "section": "### CONGO TOOLTIPS ###"
+  },
+  {
+    "idx": 3027,
+    "indent": " ",
+    "key": "COG_to_be_annexed_angola_flag",
+    "ver": "",
+    "val": "Kingdom of Kongo Loyalists",
+    "comment": "",
+    "section": "### CONGO TOOLTIPS ###"
+  },
+  {
+    "idx": 3028,
+    "indent": " ",
+    "key": "COG_time_until_annex_angola_rebellion",
+    "ver": "",
+    "val": "Support for the Separatist Movement still solidifying",
+    "comment": "",
+    "section": "### CONGO TOOLTIPS ###"
+  },
+  {
+    "idx": 3029,
+    "indent": " ",
+    "key": "COG_days_left_for_rebellion_tt",
+    "ver": "",
+    "val": "Current days are: [?COG_time_until_annex_angola_rebellion:days|Y0]",
+    "comment": "",
+    "section": "### CONGO TOOLTIPS ###"
+  },
+  {
+    "idx": 3030,
+    "indent": " ",
+    "key": "COG_boma_accords_faction",
+    "ver": "",
+    "val": "The Boma Accords",
+    "comment": "",
+    "section": "### CONGO TOOLTIPS ###"
+  },
+  {
+    "idx": 3031,
+    "indent": " ",
+    "key": "COG_south_to_lake_malawi_tt",
+    "ver": "",
+    "val": "Unlocks decisions to §YIntegrate Malawi and Zambezia-Moçambique§!",
+    "comment": "",
+    "section": "### CONGO TOOLTIPS ###"
+  },
+  {
+    "idx": 3032,
+    "indent": " ",
+    "key": "COG_invite_german_kasierist_exiles_tt",
+    "ver": "",
+    "val": "§YCarl Friedrich Goerdeler§!, §YPaul von Lettow-Vorbeck§! and §YAlfred Hugenberg§! travel to Africa to join us",
+    "comment": "",
+    "section": "### CONGO TOOLTIPS ###"
+  },
+  {
+    "idx": 3033,
+    "indent": " ",
+    "key": "COG_colonial_administration_tt",
+    "ver": "",
+    "val": "Unlocks decisions to §YIntegrate States§! in §YMiddle Africa§!",
+    "comment": "",
+    "section": "### CONGO TOOLTIPS ###"
+  }
+]

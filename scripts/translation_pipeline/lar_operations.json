@@ -1,0 +1,2424 @@
+[
+  {
+    "line_num": 2,
+    "key": "operation_boost_resistance",
+    "ver": "",
+    "val": "Strengthen Resistance",
+    "comm": ""
+  },
+  {
+    "line_num": 3,
+    "key": "operation_boost_resistance_desc",
+    "ver": "",
+    "val": "§LPartisans in enemy-occupied territory are desperate for support to continue the fight. They are tying down significant amounts of enemy troops, and would be a very effective investment.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 4,
+    "key": "operation_capture_cipher",
+    "ver": "",
+    "val": "Capture Cipher",
+    "comm": ""
+  },
+  {
+    "line_num": 5,
+    "key": "operation_capture_cipher_desc",
+    "ver": "",
+    "val": "§LCapturing an enemy codebook, or acquiring it by other means, would give our codebreakers a decisive advantage in their efforts.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 6,
+    "key": "infiltration_paradrop",
+    "ver": "",
+    "val": "Infiltration via Parachute",
+    "comm": ""
+  },
+  {
+    "line_num": 7,
+    "key": "infiltration_paradrop_desc",
+    "ver": "",
+    "val": "Agents will be dropped into the area via parachute. Flying low and at night will avoid any interference from enemy fighters.",
+    "comm": ""
+  },
+  {
+    "line_num": 8,
+    "key": "infiltration_submarine",
+    "ver": "",
+    "val": "Deployment via Submarine",
+    "comm": ""
+  },
+  {
+    "line_num": 9,
+    "key": "infiltration_submarine_desc",
+    "ver": "",
+    "val": "Agents will be delivered close to the shore by one of our submarines. We have already reconnoitred possible landing sites and the timing of enemy patrols to avoid detection.",
+    "comm": ""
+  },
+  {
+    "line_num": 10,
+    "key": "infiltration_border",
+    "ver": "",
+    "val": "Infiltration across a neutral border",
+    "comm": ""
+  },
+  {
+    "line_num": 11,
+    "key": "infiltration_border_desc",
+    "ver": "",
+    "val": "Agents will infiltrate across a neutral border. Border guards in the area are expected to be less alert and we have already identified a number of areas where border patrols are very infrequent.",
+    "comm": ""
+  },
+  {
+    "line_num": 12,
+    "key": "infiltration_diplomatic",
+    "ver": "",
+    "val": "Diplomatic Passports",
+    "comm": ""
+  },
+  {
+    "line_num": 13,
+    "key": "infiltration_diplomatic_desc",
+    "ver": "",
+    "val": "Agents will use diplomatic passports to enter the country and move around. We expect enemy counter-intelligence to try and tail them, but this can be overcome with sufficient training.",
+    "comm": ""
+  },
+  {
+    "line_num": 14,
+    "key": "resistance_support_arms_depots",
+    "ver": "",
+    "val": "Create Supply Caches",
+    "comm": ""
+  },
+  {
+    "line_num": 15,
+    "key": "resistance_support_arms_depots_desc",
+    "ver": "",
+    "val": "Our agents will set up a number of hidden caches of explosives and other equipment, in preparation of a general uprising once the resistance is strong enough.",
+    "comm": ""
+  },
+  {
+    "line_num": 16,
+    "key": "resistance_support_distribute_weapons",
+    "ver": "",
+    "val": "Distribute Weapons",
+    "comm": ""
+  },
+  {
+    "line_num": 17,
+    "key": "resistance_support_distribute_weapons_desc",
+    "ver": "",
+    "val": "Our agents will organize and coordinate a series of weapon drops. The weapons will then be handed to trusted members of the local resistance.",
+    "comm": ""
+  },
+  {
+    "line_num": 18,
+    "key": "resistance_support_organize_training",
+    "ver": "",
+    "val": "Organize Training Camps",
+    "comm": ""
+  },
+  {
+    "line_num": 19,
+    "key": "resistance_support_organize_training_desc",
+    "ver": "",
+    "val": "Our agents will hold courses in escape & evasion skills as well as basic fieldcraft. The most promising students will then proceed to basic firearms training.",
+    "comm": ""
+  },
+  {
+    "line_num": 20,
+    "key": "resistance_support_coordinate_groups",
+    "ver": "",
+    "val": "Coordinate Resistance Groups",
+    "comm": ""
+  },
+  {
+    "line_num": 21,
+    "key": "resistance_support_coordinate_groups_desc",
+    "ver": "",
+    "val": "Our agents will travel around to coordinate various resistance groups. Forging an alliance between the politically fractured units will take some doing.",
+    "comm": ""
+  },
+  {
+    "line_num": 22,
+    "key": "exfiltration_air_pickup",
+    "ver": "",
+    "val": "Pickup by Airplane",
+    "comm": ""
+  },
+  {
+    "line_num": 23,
+    "key": "exfiltration_air_pickup_desc",
+    "ver": "",
+    "val": "One of our airplanes will cross into enemy territory at night, find a marked field, land, and pick up our agents.",
+    "comm": ""
+  },
+  {
+    "line_num": 24,
+    "key": "exfiltration_submarine_pickup",
+    "ver": "",
+    "val": "Pickup by Submarine",
+    "comm": ""
+  },
+  {
+    "line_num": 25,
+    "key": "exfiltration_submarine_pickup_desc",
+    "ver": "",
+    "val": "One of our Submarines will be on station at a designated pickup point along the coast. Timing will be of the essence as enemy naval patrols do cover the area.",
+    "comm": ""
+  },
+  {
+    "line_num": 26,
+    "key": "exfiltration_border",
+    "ver": "",
+    "val": "Hiking across the border",
+    "comm": ""
+  },
+  {
+    "line_num": 27,
+    "key": "exfiltration_border_desc",
+    "ver": "",
+    "val": "Our agents will escape by crossing the border at night in a remote location. Local guides are standing by to assist in navigating the treacherous area.",
+    "comm": ""
+  },
+  {
+    "line_num": 28,
+    "key": "exfiltration_go_to_ground",
+    "ver": "",
+    "val": "Going to ground",
+    "comm": ""
+  },
+  {
+    "line_num": 29,
+    "key": "exfiltration_go_to_ground_desc",
+    "ver": "",
+    "val": "Our agents will lay low and blend into the population until they are ready for the next mission. Should an opportunity arise to exfiltrate by other means, they will take it.",
+    "comm": ""
+  },
+  {
+    "line_num": 30,
+    "key": "operation_make_resistance_contacts",
+    "ver": "",
+    "val": "Make Resistance Contacts",
+    "comm": ""
+  },
+  {
+    "line_num": 31,
+    "key": "operation_make_resistance_contacts_desc",
+    "ver": "",
+    "val": "§LAny support we can offer to the partisans active behind enemy lines would become far more effective if we had a way to communicate and coordinate with them.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 32,
+    "key": "capture_cyphers_bribe",
+    "ver": "",
+    "val": "Bribe Soldier",
+    "comm": ""
+  },
+  {
+    "line_num": 33,
+    "key": "capture_cyphers_bribe_desc",
+    "ver": "",
+    "val": "We have a man on the inside and will provide him with the necessary funds to steal a codebook and turn it over to our agent.",
+    "comm": ""
+  },
+  {
+    "line_num": 34,
+    "key": "capture_cyphers_raid",
+    "ver": "",
+    "val": "Commando Raid",
+    "comm": ""
+  },
+  {
+    "line_num": 35,
+    "key": "capture_cyphers_raid_desc",
+    "ver": "",
+    "val": "Our Agent will scout the area and signal a commando unit to land and capture codebooks and encryption equipment. We will also try to capture one or two encryption specialists for interrogation.",
+    "comm": ""
+  },
+  {
+    "line_num": 36,
+    "key": "capture_cyphers_seduction",
+    "ver": "",
+    "val": "Use Seduction",
+    "comm": ""
+  },
+  {
+    "line_num": 37,
+    "key": "capture_cyphers_seduction_desc",
+    "ver": "",
+    "val": "Our Agent will contact a person with access to the cyphers and use their charm  - or other means - to secure a copy.",
+    "comm": ""
+  },
+  {
+    "line_num": 38,
+    "key": "capture_cyphers_reverse_engineer",
+    "ver": "",
+    "val": "Reverse Engineer",
+    "comm": ""
+  },
+  {
+    "line_num": 39,
+    "key": "capture_cyphers_reverse_engineer_desc",
+    "ver": "",
+    "val": "A simpler version of the country's primary encryption machine is commercially available. We will acquire a version legally and then use it to help us reverse-engineer a decryption machine.",
+    "comm": ""
+  },
+  {
+    "line_num": 40,
+    "key": "resistance_contacts_radio_circuits",
+    "ver": "",
+    "val": "Create Radio Circuits",
+    "comm": ""
+  },
+  {
+    "line_num": 41,
+    "key": "resistance_contacts_radio_circuits_desc",
+    "ver": "",
+    "val": "The team will distribute radios to resistance members and teach basic radio protocol, especially with an eye towards avoiding enemy radio-direction finding.",
+    "comm": ""
+  },
+  {
+    "line_num": 42,
+    "key": "resistance_support_pidgeons",
+    "ver": "",
+    "val": "Distribute Pigeons",
+    "comm": ""
+  },
+  {
+    "line_num": 43,
+    "key": "resistance_support_pidgeons_desc",
+    "ver": "",
+    "val": "The team will distribute trained homing pigeons to various breeders connected to the resistance. They will be used to carry messages back to our lines.",
+    "comm": ""
+  },
+  {
+    "line_num": 44,
+    "key": "resistance_contacts_briefings",
+    "ver": "",
+    "val": "Strategy Briefings",
+    "comm": ""
+  },
+  {
+    "line_num": 45,
+    "key": "resistance_contacts_briefings_desc",
+    "ver": "",
+    "val": "Our Agent will brief the leaders of various resistance groups on planned operations to coordinate resistance support.",
+    "comm": ""
+  },
+  {
+    "line_num": 46,
+    "key": "capture_cyphers_smuggle",
+    "ver": "",
+    "val": "Smuggle Cyphers",
+    "comm": ""
+  },
+  {
+    "line_num": 47,
+    "key": "capture_cyphers_smuggle_desc",
+    "ver": "",
+    "val": "One of our double agents will request a new copy of the currently active cypher to be transferred. Coordination with other services is underway to ensure that the drop-off is not interrupted.",
+    "comm": ""
+  },
+  {
+    "line_num": 48,
+    "key": "operation_steal_tech_airforce",
+    "ver": "",
+    "val": "Steal Aviation Industry Blueprints",
+    "comm": ""
+  },
+  {
+    "line_num": 49,
+    "key": "operation_steal_tech_airforce_desc",
+    "ver": "",
+    "val": "§LWe have received a number of very worrying reports that the enemy is ahead of us in several areas of aircraft design. If this is the case, we could attempt to gain insights into exactly how far ahead they are and utilize these findings to advance our own research.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 50,
+    "key": "operation_infiltrate_armed_forces_navy",
+    "ver": "",
+    "val": "Infiltrate Navy",
+    "comm": ""
+  },
+  {
+    "line_num": 51,
+    "key": "operation_infiltrate_armed_forces_navy_desc",
+    "ver": "",
+    "val": "§LWhile the close-knit crews of [From.GetAdjective] ships offer few avenues of infiltration, the support staff back home is another matter. Getting someone on the inside would give us valuable information as well as the opportunity to support more difficult operations later.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 52,
+    "key": "operation_infiltrate_civilian",
+    "ver": "",
+    "val": "Infiltrate Civilian Administration",
+    "comm": ""
+  },
+  {
+    "line_num": 53,
+    "key": "operation_infiltrate_civilian_desc",
+    "ver": "",
+    "val": "§LThe [From.GetAdjective] government has numerous weakpoints through which we might infiltrate an agent into its operations. Doing so would give us valuable insight into the internal workings of [From.GetNameDef] as well as giving us an opportunity to utilize this agent in future operations against [From.GetNameDef].§!",
+    "comm": ""
+  },
+  {
+    "line_num": 54,
+    "key": "operation_infiltrate_armed_forces_airforce",
+    "ver": "",
+    "val": "Infiltrate Air Force",
+    "comm": ""
+  },
+  {
+    "line_num": 55,
+    "key": "operation_infiltrate_armed_forces_airforce_desc",
+    "ver": "",
+    "val": "§LThe [From.getAdjective] Air Force is the youngest of the [From.GetAdjective] armed forces. As such, it has in its ranks many people of unusual backgrounds. We could exploit some of them to get a man on the inside.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 56,
+    "key": "operation_infiltrate_armed_forces_army",
+    "ver": "",
+    "val": "Infiltrate Army",
+    "comm": ""
+  },
+  {
+    "line_num": 57,
+    "key": "operation_infiltrate_armed_forces_army_desc",
+    "ver": "",
+    "val": "§LThe [From.GetAdjective] Army has a number of individuals in its ranks that could be turned to provide additional information and support for future operations.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 58,
+    "key": "operation_steal_tech_army",
+    "ver": "",
+    "val": "Steal Military Blueprints",
+    "comm": ""
+  },
+  {
+    "line_num": 59,
+    "key": "operation_steal_tech_army_desc",
+    "ver": "",
+    "val": "§LOur intelligence analysts believe that [From.GetNameDef] has made significant advances in the field of Ground Warfare and military engineering. A more thorough investigation, coupled with some more direct methods, might yield some valuable insight for our own research projects.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 60,
+    "key": "operation_steal_tech_civilian",
+    "ver": "",
+    "val": "Steal Industrial Blueprints",
+    "comm": ""
+  },
+  {
+    "line_num": 61,
+    "key": "operation_steal_tech_civilian_desc",
+    "ver": "",
+    "val": "§LIt appears that our industry is lagging behind [From.GetNameDef] in several areas. With a bit of cunning and a little subterfuge, we may be able to close the gap considerably.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 62,
+    "key": "operation_steal_tech_navy",
+    "ver": "",
+    "val": "Steal Naval Blueprints",
+    "comm": ""
+  },
+  {
+    "line_num": 63,
+    "key": "operation_steal_tech_navy_desc",
+    "ver": "",
+    "val": "§LThe have been reports that the [From.GetAdjective] seem to be ahead of us in some areas of naval engineering. We might be in a position to acquire some of that tech for reverse-engineering.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 64,
+    "key": "infiltrate_military_bribe",
+    "ver": "",
+    "val": "Offer Bribe",
+    "comm": ""
+  },
+  {
+    "line_num": 65,
+    "key": "infiltrate_military_bribe_desc",
+    "ver": "",
+    "val": "Our agent will identify a person in financial difficulties and offer a substantial sum to provide us with support. Funds will be made available from the treasury.",
+    "comm": ""
+  },
+  {
+    "line_num": 66,
+    "key": "infiltrate_military_seduction",
+    "ver": "",
+    "val": "Apply Charms",
+    "comm": ""
+  },
+  {
+    "line_num": 67,
+    "key": "infiltrate_military_seduction_desc",
+    "ver": "",
+    "val": "Our Agent will enter into a very close and intimate relationship with someone on the inside to gain information and leverage on them.",
+    "comm": ""
+  },
+  {
+    "line_num": 68,
+    "key": "infiltrate_military_turned_pow",
+    "ver": "",
+    "val": "Turn Prisoner of War",
+    "comm": ""
+  },
+  {
+    "line_num": 69,
+    "key": "infiltrate_military_turned_pow_desc",
+    "ver": "",
+    "val": "We will identify a usable Prisoner of War in our care, turn him to our side, and then repatriate him. He will no doubt be interrogated, but with proper training he will be able to overcome this.",
+    "comm": ""
+  },
+  {
+    "line_num": 70,
+    "key": "infiltrate_military_ideological_supporter",
+    "ver": "",
+    "val": "Contact Ideological Supporter",
+    "comm": ""
+  },
+  {
+    "line_num": 71,
+    "key": "infiltrate_military_ideological_supporter_desc",
+    "ver": "",
+    "val": "We will use diplomatic back-channels to identify and contact members of the [From.GetAdjective] administration with political views not shared by their government and encourage them to work for us.",
+    "comm": ""
+  },
+  {
+    "line_num": 72,
+    "key": "steal_blueprints_bribe",
+    "ver": "",
+    "val": "Offer Bribe",
+    "comm": ""
+  },
+  {
+    "line_num": 73,
+    "key": "steal_blueprints_bribe_desc",
+    "ver": "",
+    "val": "Our Agent will offer a substantial sum to an engineer involved in the project.",
+    "comm": ""
+  },
+  {
+    "line_num": 74,
+    "key": "steal_blueprints_seduction",
+    "ver": "",
+    "val": "Apply Charms",
+    "comm": ""
+  },
+  {
+    "line_num": 75,
+    "key": "steal_blueprints_seduction_desc",
+    "ver": "",
+    "val": "Our Agent will get close to a person involved with the project and apply their charms to gain additional insights. While we don't expect anyone to hand over a full set of blueprints for some quality company time, pillow talk is often unguarded.",
+    "comm": ""
+  },
+  {
+    "line_num": 76,
+    "key": "steal_blueprints_infiltrate_naval_design_office",
+    "ver": "",
+    "val": "Infiltrate Naval Design Office",
+    "comm": ""
+  },
+  {
+    "line_num": 77,
+    "key": "steal_blueprints_infiltrate_naval_design_office_desc",
+    "ver": "",
+    "val": "Our Agent will enter a smaller supplier in naval construction as a minor employee and use this position to make copies of available plans.",
+    "comm": ""
+  },
+  {
+    "line_num": 78,
+    "key": "steal_blueprints_steal_prototype",
+    "ver": "",
+    "val": "Steal Prototype",
+    "comm": ""
+  },
+  {
+    "line_num": 79,
+    "key": "steal_blueprints_steal_prototype_desc",
+    "ver": "",
+    "val": "After undergoing basic flight training, and accompanied by a test pilot of our air force, our agent will gain access to a prototype and fly it to our lines. A fighter escort will be arranged to ensure the prototype reaches us intact.",
+    "comm": ""
+  },
+  {
+    "line_num": 80,
+    "key": "steal_blueprints_middle_manager",
+    "ver": "",
+    "val": "Infiltrate Middle Management",
+    "comm": ""
+  },
+  {
+    "line_num": 81,
+    "key": "steal_blueprints_middle_manager_desc",
+    "ver": "",
+    "val": "Our Agent will utilize provided references and a doctored CV to gain employment in the middle management in a major company. From this position, they should be able to provide information on that company as well as the industry as a whole.",
+    "comm": ""
+  },
+  {
+    "line_num": 82,
+    "key": "lar_communist_uprising_organise_cells",
+    "ver": "",
+    "val": "Organise Revolutionary Cells",
+    "comm": ""
+  },
+  {
+    "line_num": 83,
+    "key": "lar_communist_uprising_organise_cells_desc",
+    "ver": "",
+    "val": "Our agents will work with a few select workers to create Revolutionary Action Committees to carry the seeds of the revolution into every factory.",
+    "comm": ""
+  },
+  {
+    "line_num": 84,
+    "key": "lar_communist_uprising_infiltrate_civil_service",
+    "ver": "",
+    "val": "Infiltrate the Civil Service",
+    "comm": ""
+  },
+  {
+    "line_num": 85,
+    "key": "lar_communist_uprising_infiltrate_civil_service_desc",
+    "ver": "",
+    "val": "Our agent will ensure that several trustworthy people enter the civil service, to form the core for a civilian administration after the revolution succeeds.",
+    "comm": ""
+  },
+  {
+    "line_num": 86,
+    "key": "lar_communist_uprising_train_workers_militia",
+    "ver": "",
+    "val": "Train Workers Militia",
+    "comm": ""
+  },
+  {
+    "line_num": 87,
+    "key": "lar_communist_uprising_train_workers_militia_desc",
+    "ver": "",
+    "val": "Our agent will organize basic training for a number of hand-picked comrades, who will then form the cadre of militia units.",
+    "comm": ""
+  },
+  {
+    "line_num": 88,
+    "key": "lar_communist_uprising_organize_strikes",
+    "ver": "",
+    "val": "Organize Strikes",
+    "comm": ""
+  },
+  {
+    "line_num": 89,
+    "key": "lar_communist_uprising_organize_strikes_desc",
+    "ver": "",
+    "val": "Our agent will reach out to trade unions and other politically reliable people working in key industries and help them organize a strike, to be executed when the war starts.",
+    "comm": ""
+  },
+  {
+    "line_num": 90,
+    "key": "lar_fra_coup_pre_position_units",
+    "ver": "",
+    "val": "Pre-Position Units",
+    "comm": ""
+  },
+  {
+    "line_num": 91,
+    "key": "lar_fra_coup_pre_position_units_desc",
+    "ver": "",
+    "val": "Our agent will take charge of a number of sympathetic army units in the area and assign them objectives to be seized when the operation commences.",
+    "comm": ""
+  },
+  {
+    "line_num": 92,
+    "key": "lar_fra_launch_coup",
+    "ver": "",
+    "val": "Launch Coup",
+    "comm": ""
+  },
+  {
+    "line_num": 93,
+    "key": "lar_fra_launch_coup_desc",
+    "ver": "",
+    "val": "Operations will commence upon reception of a coded radio signal.",
+    "comm": ""
+  },
+  {
+    "line_num": 94,
+    "key": "FRA_instigate_workers_revolution_britain",
+    "ver": "",
+    "val": "Instigate Workers Revolution in Britain",
+    "comm": ""
+  },
+  {
+    "line_num": 95,
+    "key": "FRA_instigate_workers_revolution_italy",
+    "ver": "",
+    "val": "Instigate Workers Revolution in Italy",
+    "comm": ""
+  },
+  {
+    "line_num": 96,
+    "key": "FRA_instigate_workers_revolution_spain",
+    "ver": "",
+    "val": "Instigate Workers Revolution in Spain",
+    "comm": ""
+  },
+  {
+    "line_num": 97,
+    "key": "FRA_instigate_workers_revolution_germany",
+    "ver": "",
+    "val": "Instigate Workers Revolution in Germany",
+    "comm": ""
+  },
+  {
+    "line_num": 98,
+    "key": "FRA_coup_in_north_africa",
+    "ver": "",
+    "val": "Prepare Coup in North Africa",
+    "comm": ""
+  },
+  {
+    "line_num": 99,
+    "key": "FRA_coup_in_north_africa_flag",
+    "ver": "",
+    "val": "Prepare Coup in North Africa",
+    "comm": ""
+  },
+  {
+    "line_num": 100,
+    "key": "FRA_coup_in_north_africa_desc",
+    "ver": "",
+    "val": "Many Frenchmen in North Africa are still eager to get back in the fight against the invaders. We just need to reach out to them.",
+    "comm": ""
+  },
+  {
+    "line_num": 101,
+    "key": "FRA_coup_in_syria",
+    "ver": "",
+    "val": "Prepare Coup in Syria",
+    "comm": ""
+  },
+  {
+    "line_num": 102,
+    "key": "FRA_coup_in_syria_flag",
+    "ver": "",
+    "val": "Prepare Coup in Syria",
+    "comm": ""
+  },
+  {
+    "line_num": 103,
+    "key": "FRA_coup_in_syria_desc",
+    "ver": "",
+    "val": "Many Frenchmen in Syria are still eager to get back in the fight against the invaders. We just need to reach out to them.",
+    "comm": ""
+  },
+  {
+    "line_num": 104,
+    "key": "FRA_coup_in_indochina",
+    "ver": "",
+    "val": "Prepare Coup in Indochina",
+    "comm": ""
+  },
+  {
+    "line_num": 105,
+    "key": "FRA_coup_in_indochina_flag",
+    "ver": "",
+    "val": "Prepare Coup in Indochina",
+    "comm": ""
+  },
+  {
+    "line_num": 106,
+    "key": "FRA_coup_in_indochina_desc",
+    "ver": "",
+    "val": "Many Frenchmen in Indochina are still eager to get back in the fight against the invaders. We just need to reach out to them.",
+    "comm": ""
+  },
+  {
+    "line_num": 107,
+    "key": "FRA_coup_in_central_africa",
+    "ver": "",
+    "val": "Prepare Coup in Central Africa",
+    "comm": ""
+  },
+  {
+    "line_num": 108,
+    "key": "FRA_coup_in_central_africa_flag",
+    "ver": "",
+    "val": "Prepare Coup in Central Africa",
+    "comm": ""
+  },
+  {
+    "line_num": 109,
+    "key": "FRA_coup_in_central_africa_desc",
+    "ver": "",
+    "val": "Many Frenchmen in Central Africa are still eager to get back in the fight against the invaders. We just need to reach out to them.",
+    "comm": ""
+  },
+  {
+    "line_num": 110,
+    "key": "FRA_coup_in_west_africa",
+    "ver": "",
+    "val": "Prepare Coup in West Africa",
+    "comm": ""
+  },
+  {
+    "line_num": 111,
+    "key": "FRA_coup_in_west_africa_flag",
+    "ver": "",
+    "val": "Prepare Coup in West Africa",
+    "comm": ""
+  },
+  {
+    "line_num": 112,
+    "key": "FRA_coup_in_west_africa_desc",
+    "ver": "",
+    "val": "Many Frenchmen in West Africa are still eager to get back in the fight against the invaders. We just need to reach out to them.",
+    "comm": ""
+  },
+  {
+    "line_num": 113,
+    "key": "FRA_coup_in_madagascar",
+    "ver": "",
+    "val": "Prepare Coup in Madagascar",
+    "comm": ""
+  },
+  {
+    "line_num": 114,
+    "key": "FRA_coup_in_madagascar_flag",
+    "ver": "",
+    "val": "Prepare Coup in Madagascar",
+    "comm": ""
+  },
+  {
+    "line_num": 115,
+    "key": "FRA_coup_in_madagascar_desc",
+    "ver": "",
+    "val": "Many Frenchmen in Madagascar are still eager to get back in the fight against the invaders. We just need to reach out to them.",
+    "comm": ""
+  },
+  {
+    "line_num": 116,
+    "key": "targeted_sabotage_plant_explosives",
+    "ver": "",
+    "val": "Plant Explosives",
+    "comm": ""
+  },
+  {
+    "line_num": 117,
+    "key": "targeted_sabotage_plant_explosives_desc",
+    "ver": "",
+    "val": "Working with local resistance members, our operatives will infiltrate the plant in the dead of night, place explosives near load-bearing structures, and thus collapse the entire factory hall on top of the production equipment.",
+    "comm": ""
+  },
+  {
+    "line_num": 118,
+    "key": "targeted_sabotage_organize_more_meetings",
+    "ver": "",
+    "val": "Organize More Meetings",
+    "comm": ""
+  },
+  {
+    "line_num": 119,
+    "key": "targeted_sabotage_organize_more_meetings_desc",
+    "ver": "",
+    "val": "Interviews with workers have shown that holding extensive meetings to discuss minor issues has the effect of dramatically slowing down production, at minimal cost for our operatives.",
+    "comm": ""
+  },
+  {
+    "line_num": 120,
+    "key": "targeted_sabotage_destroy_bridge",
+    "ver": "",
+    "val": "Destroy Bridge",
+    "comm": ""
+  },
+  {
+    "line_num": 121,
+    "key": "targeted_sabotage_destroy_bridge_desc",
+    "ver": "",
+    "val": "Local resistance has identified a bridge forming a lynchpin of enemy supply efforts in the region. Our operatives will bring down the span with a few pounds of high explosives.",
+    "comm": ""
+  },
+  {
+    "line_num": 122,
+    "key": "targeted_sabotage_collapse_tunnel",
+    "ver": "",
+    "val": "Collapse Tunnel",
+    "comm": ""
+  },
+  {
+    "line_num": 123,
+    "key": "targeted_sabotage_collapse_tunnel_desc",
+    "ver": "",
+    "val": "The main railway line in the state runs through a narrow tunnel. Our operatives have identified the structural weakpoints in the construction and will utilize explosives to collapse the tunnel.",
+    "comm": ""
+  },
+  {
+    "line_num": 124,
+    "key": "targeted_sabotage_remove_roadsigns",
+    "ver": "",
+    "val": "Remove Roadsigns",
+    "comm": ""
+  },
+  {
+    "line_num": 125,
+    "key": "targeted_sabotage_remove_roadsigns_desc",
+    "ver": "",
+    "val": "Our operatives will knock down street signs and turn others around in an effort to make navigation by occupation troops more difficult.",
+    "comm": ""
+  },
+  {
+    "line_num": 126,
+    "key": "targeted_sabotage_immobilize_rolling_stock",
+    "ver": "",
+    "val": "Immobilize Rolling Stock",
+    "comm": ""
+  },
+  {
+    "line_num": 127,
+    "key": "targeted_sabotage_immobilize_rolling_stock_desc",
+    "ver": "",
+    "val": "A handful of sand in the lubrication points of a railway carriage will eventually make it grind to a halt, thus blocking a rail line until it can be repaired. Even a small number of disabled cars could collapse the entire system.",
+    "comm": ""
+  },
+  {
+    "line_num": 128,
+    "key": "targeted_sabotage_burn_storage",
+    "ver": "",
+    "val": "Burn Storage",
+    "comm": ""
+  },
+  {
+    "line_num": 129,
+    "key": "targeted_sabotage_burn_storage_desc",
+    "ver": "",
+    "val": "Local resistance have identified storage units that contain highly flammable compounds. Under the cover of night, our operatives will set fire to the storage and then withdraw in the ensuing confusion.",
+    "comm": ""
+  },
+  {
+    "line_num": 130,
+    "key": "targeted_sabotage_destroy_mining_equipment",
+    "ver": "",
+    "val": "Destroy Mining Equipment",
+    "comm": ""
+  },
+  {
+    "line_num": 131,
+    "key": "targeted_sabotage_destroy_mining_equipment_desc",
+    "ver": "",
+    "val": "Local resistance groups have pointed out that a lot of the heavy equipment used in mining is extremely vulnerable. Our agents will utilize explosives to disable a number of critical pieces to grind the entire mining operation to a halt.",
+    "comm": ""
+  },
+  {
+    "line_num": 132,
+    "key": "operation_targeted_sabotage_industry",
+    "ver": "",
+    "val": "Sabotage Industry",
+    "comm": ""
+  },
+  {
+    "line_num": 133,
+    "key": "operation_targeted_sabotage_industry_desc",
+    "ver": "",
+    "val": "§LResistance in enemy territory has requested support in disabling a local industrial plant.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 134,
+    "key": "operation_targeted_sabotage_infrastructure",
+    "ver": "",
+    "val": "Sabotage Infrastructure",
+    "comm": ""
+  },
+  {
+    "line_num": 135,
+    "key": "operation_targeted_sabotage_infrastructure_desc",
+    "ver": "",
+    "val": "§LResistance in enemy territory has been waging a low-key effort against enemy infrastructure, but has so far lacked the resources to make a heavy impact.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 136,
+    "key": "operation_targeted_sabotage_resources",
+    "ver": "",
+    "val": "Sabotage Resources",
+    "comm": ""
+  },
+  {
+    "line_num": 137,
+    "key": "operation_targeted_sabotage_resources_desc",
+    "ver": "",
+    "val": "§LResistance in enemy territory has informed us of enemy efforts to extract resources in the state. A well-placed wrench thrown into those plans would prevent that.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 138,
+    "key": "operation_rescue_operative",
+    "ver": "",
+    "val": "Rescue Captured Operative",
+    "comm": ""
+  },
+  {
+    "line_num": 139,
+    "key": "operation_rescue_operative_desc",
+    "ver": "",
+    "val": "§LOne of our assets has been taken off the board by the enemy. We must get it back, and quickly, before it is permanently removed from play.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 140,
+    "key": "free_operative_free_in_transit",
+    "ver": "",
+    "val": "Free In Transit",
+    "comm": ""
+  },
+  {
+    "line_num": 141,
+    "key": "free_operative_free_in_transit_desc",
+    "ver": "",
+    "val": "Our operative is moved by car between the prison they are kept in and the place where they are being interrogated. We know the route, and will send a small unit to lay an ambush, kill the guards, and free our operative.",
+    "comm": ""
+  },
+  {
+    "line_num": 142,
+    "key": "free_operative_liberate_camp",
+    "ver": "",
+    "val": "Liberate Camp",
+    "comm": ""
+  },
+  {
+    "line_num": 143,
+    "key": "free_operative_liberate_camp_desc",
+    "ver": "",
+    "val": "While under interrogation, our operative is kept in a camp with other important prisoners. We will mount an attack on the camp with a small unit, overpower any guards present, and liberate our agent.",
+    "comm": ""
+  },
+  {
+    "line_num": 144,
+    "key": "free_operative_smuggle_in_escape_gear",
+    "ver": "",
+    "val": "Smuggle in escape gear",
+    "comm": ""
+  },
+  {
+    "line_num": 145,
+    "key": "free_operative_smuggle_in_escape_gear_desc",
+    "ver": "",
+    "val": "Our scientists have developed a set of escape tools. We have a local contact that has agreed to take the package. Our operative will then utilize the tools given and make their way to the rendezvous for exfiltration.",
+    "comm": ""
+  },
+  {
+    "line_num": 146,
+    "key": "operation_outcome_consumes_token_tt",
+    "ver": "",
+    "val": "This operation might burn an §YInfiltrated Asset§!.",
+    "comm": ""
+  },
+  {
+    "line_num": 147,
+    "key": "operation_outcome_sabotage_industry_tt",
+    "ver": "",
+    "val": "Focuses local resistance on targeting industry and increases the chance of successful attacks.",
+    "comm": ""
+  },
+  {
+    "line_num": 148,
+    "key": "operation_outcome_sabotage_infrastructure_tt",
+    "ver": "",
+    "val": "Focuses local resistance on targeting infrastructure and increases the chance of successful attacks.",
+    "comm": ""
+  },
+  {
+    "line_num": 149,
+    "key": "operation_outcome_sabotage_resources_tt",
+    "ver": "",
+    "val": "Focuses local resistance on targeting resource extraction and increases the chance of successful attacks.",
+    "comm": ""
+  },
+  {
+    "line_num": 150,
+    "key": "operation_coup_government",
+    "ver": "",
+    "val": "Orchestrate Coup",
+    "comm": ""
+  },
+  {
+    "line_num": 151,
+    "key": "operation_coup_government_desc",
+    "ver": "",
+    "val": "§L[From.GetNameDefCap] is ripe for a regime change. A few good, reliable people - with proper support - could topple the rotten structure propping up the [From.GetAdjective] government.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 152,
+    "key": "collaboration_government_set_up_planning_committees",
+    "ver": "",
+    "val": "Set up Planning Committees",
+    "comm": ""
+  },
+  {
+    "line_num": 153,
+    "key": "collaboration_government_set_up_planning_committees_desc",
+    "ver": "",
+    "val": "Our team will meet with some sympathetic politicians to discuss the possibility of a new government being formed to administer [From.GetNameDef] after we occupy it, and form some small work groups that will work out the details.",
+    "comm": ""
+  },
+  {
+    "line_num": 154,
+    "key": "collaboration_government_train_paramilitary_forces",
+    "ver": "",
+    "val": "Train Paramilitary Forces",
+    "comm": ""
+  },
+  {
+    "line_num": 155,
+    "key": "collaboration_government_train_paramilitary_forces_desc",
+    "ver": "",
+    "val": "Our team will organize and train some units to aid the new government in maintaining law and order. Until the new government is organized, they will help with keeping the rear areas secured.",
+    "comm": ""
+  },
+  {
+    "line_num": 156,
+    "key": "collaboration_government_contact_military_officers",
+    "ver": "",
+    "val": "Contact Military Officers",
+    "comm": ""
+  },
+  {
+    "line_num": 157,
+    "key": "collaboration_government_contact_military_officers_desc",
+    "ver": "",
+    "val": "Our team will follow some leads that indicate that some retired military officers are deeply unhappy with the current [From.GetAdjective] government and would be willing to help us create a new government following our occupation.",
+    "comm": ""
+  },
+  {
+    "line_num": 158,
+    "key": "operation_collaboration_government",
+    "ver": "",
+    "val": "Prepare Collaboration Government",
+    "comm": ""
+  },
+  {
+    "line_num": 159,
+    "key": "operation_collaboration_government_desc",
+    "ver": "",
+    "val": "§LHaving a friendly government in charge of [From.GetNameDef] would allow us to concentrate on our other enemies and free up troops to pursue other objectives.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 160,
+    "key": "fake_intel_decoy_tanks",
+    "ver": "",
+    "val": "Decoy Tanks",
+    "comm": ""
+  },
+  {
+    "line_num": 161,
+    "key": "fake_intel_decoy_tanks_desc",
+    "ver": "",
+    "val": "We have invented cheap decoys that look like tanks from a distance. We will place these in easily observable locations and make sure the enemy has plenty of time to notice them.",
+    "comm": ""
+  },
+  {
+    "line_num": 162,
+    "key": "fake_intel_radio_deception",
+    "ver": "",
+    "val": "Radio Deception",
+    "comm": ""
+  },
+  {
+    "line_num": 163,
+    "key": "fake_intel_radio_deception_desc",
+    "ver": "",
+    "val": "We will set up a small unit of radio specialists, pretending to be the signals detachment for a much larger formation. They will also be using an older version of our cyphers, to make it easier for the enemy to read their messages.",
+    "comm": ""
+  },
+  {
+    "line_num": 164,
+    "key": "fake_intel_deliberate_leaks",
+    "ver": "",
+    "val": "Deliberate Leaks",
+    "comm": ""
+  },
+  {
+    "line_num": 165,
+    "key": "fake_intel_deliberate_leaks_desc",
+    "ver": "",
+    "val": "Some of our agents in foreign countries will ensure that they are being indiscreet around the right people, thus making sure the enemy gets the desired information through 'trustworthy' sources.",
+    "comm": ""
+  },
+  {
+    "line_num": 166,
+    "key": "fake_intel_press_releases",
+    "ver": "",
+    "val": "Press Releases",
+    "comm": ""
+  },
+  {
+    "line_num": 167,
+    "key": "fake_intel_press_releases_desc",
+    "ver": "",
+    "val": "We will invite reporters to write very detailed stories about some of the things we would like the enemy to know about.",
+    "comm": ""
+  },
+  {
+    "line_num": 168,
+    "key": "fake_intel_utilize_double_agents",
+    "ver": "",
+    "val": "Utilize Double Agents",
+    "comm": ""
+  },
+  {
+    "line_num": 169,
+    "key": "fake_intel_utilize_double_agents_desc",
+    "ver": "",
+    "val": "We have turned a number of junior informants of the enemy intelligence service. They will be encouraged to supply the other side with the right kind of information.",
+    "comm": ""
+  },
+  {
+    "line_num": 170,
+    "key": "fake_intel_plant_evidence",
+    "ver": "",
+    "val": "Plant Evidence",
+    "comm": ""
+  },
+  {
+    "line_num": 171,
+    "key": "fake_intel_plant_evidence_desc",
+    "ver": "",
+    "val": "We will mount a small operation at a location the enemy controls but which we are not currently interested in, and make sure that we leave plenty of evidence behind.",
+    "comm": ""
+  },
+  {
+    "line_num": 172,
+    "key": "fake_intel_release_pow",
+    "ver": "",
+    "val": "Release Pow",
+    "comm": ""
+  },
+  {
+    "line_num": 173,
+    "key": "fake_intel_release_pow_desc",
+    "ver": "",
+    "val": "A captured enemy officer is due to be repatriated home on humanitarian grounds. Before he leaves, we will make sure that he accidentally sees a number of things.",
+    "comm": ""
+  },
+  {
+    "line_num": 174,
+    "key": "operation_fake_intel",
+    "ver": "",
+    "val": "Plant False Intelligence",
+    "comm": ""
+  },
+  {
+    "line_num": 175,
+    "key": "operation_fake_intel_desc",
+    "ver": "",
+    "val": "§LWe know that [From.GetAdjective] Intelligence is active in our country. Sometimes, it is better to give someone looking for information just what they want to hear.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 176,
+    "key": "heavy_water_raid",
+    "ver": "",
+    "val": "Operation Gunnerside",
+    "comm": ""
+  },
+  {
+    "line_num": 177,
+    "key": "heavy_water_raid_desc",
+    "ver": "",
+    "val": "§LThe Germans have begun producing Heavy Water in a plant in Norway, possibly connected to a program to develop an atomic bomb. Even if the Heavy Water produced is not enough to enable them to build such a weapon, it would no doubt greatly help them in their research.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 178,
+    "key": "heavy_water_infiltration",
+    "ver": "",
+    "val": "Airdrop assault team and supplies",
+    "comm": ""
+  },
+  {
+    "line_num": 179,
+    "key": "heavy_water_infiltration_desc",
+    "ver": "",
+    "val": "A modified bomber will drop a small team of Norwegian commandos in the area to link up with an advance team and local resistance.",
+    "comm": ""
+  },
+  {
+    "line_num": 180,
+    "key": "heavy_water_attack",
+    "ver": "",
+    "val": "Sabotage Heavy Water Plant",
+    "comm": ""
+  },
+  {
+    "line_num": 181,
+    "key": "heavy_water_attack_desc",
+    "ver": "",
+    "val": "Security at the plant is reported to be lax. We have a resistance member on the inside who has provided us with patrol schedules. Once inside, our team will plant explosives and leave evidence that this was a regular military operation.",
+    "comm": ""
+  },
+  {
+    "line_num": 182,
+    "key": "heavy_water_exfiltration",
+    "ver": "",
+    "val": "Exfiltration",
+    "comm": ""
+  },
+  {
+    "line_num": 183,
+    "key": "heavy_water_exfiltration_desc",
+    "ver": "",
+    "val": "The team will split up and either join local resistance units or try to make their way back to friendly lines.",
+    "comm": ""
+  },
+  {
+    "line_num": 184,
+    "key": "bruneval_raid",
+    "ver": "",
+    "val": "Operation Biting",
+    "comm": ""
+  },
+  {
+    "line_num": 185,
+    "key": "bruneval_raid_desc",
+    "ver": "",
+    "val": "§LIt appears that the enemy is ahead of us in the development of radar. We have identified an enemy radar installation in a vulnerable location that we believe could be taken by a sufficiently determined assault by a small force to acquire more intelligence.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 186,
+    "key": "bruneval_infiltration",
+    "ver": "",
+    "val": "Paradrop assault force",
+    "comm": ""
+  },
+  {
+    "line_num": 187,
+    "key": "bruneval_infiltration_desc",
+    "ver": "",
+    "val": "A company of airborne troops will be assembled, to be dropped at night from low altitude near the objective.",
+    "comm": ""
+  },
+  {
+    "line_num": 188,
+    "key": "bruneval_attack",
+    "ver": "",
+    "val": "Capture Radar installation",
+    "comm": ""
+  },
+  {
+    "line_num": 189,
+    "key": "bruneval_attack_desc",
+    "ver": "",
+    "val": "The assault force will split into four units to capture the installation and clear the evacuation beach. A specialist will disassemble and photograph the radar set. The unit will also attempt to capture an enemy technician for interrogation.",
+    "comm": ""
+  },
+  {
+    "line_num": 190,
+    "key": "bruneval_exfiltration",
+    "ver": "",
+    "val": "Evacuation via landing craft",
+    "comm": ""
+  },
+  {
+    "line_num": 191,
+    "key": "bruneval_exfiltration_desc",
+    "ver": "",
+    "val": "A flottilla of landing craft, carrying troops to cover the evacuation, will land and pick up the assault force. Escort by friendly naval forces will be arranged.",
+    "comm": ""
+  },
+  {
+    "line_num": 192,
+    "key": "capture_tito",
+    "ver": "",
+    "val": "Unternehmen Rösselsprung",
+    "comm": ""
+  },
+  {
+    "line_num": 193,
+    "key": "capture_tito_desc",
+    "ver": "",
+    "val": "§LYugoslav partisans have grown in strength and are making increasingly bold advances. In many areas, they effectively control the countryside, blocking roads and operating with impunity. The key to this is the Partisan leader Tito, who has been coordinating and controlling these operations. To take him out would deal a serious blow to the resistance in these areas.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 194,
+    "key": "capture_tito_infiltration",
+    "ver": "",
+    "val": "Land airborne forces",
+    "comm": ""
+  },
+  {
+    "line_num": 195,
+    "key": "capture_tito_infiltration_desc",
+    "ver": "",
+    "val": "The first wave of paratroopers will be inserted via glider almost on top of Tito's suspected hideout. Utilizing speed and surprise, they will then overwhelm Tito's guards and either capture or kill Tito himself.",
+    "comm": ""
+  },
+  {
+    "line_num": 196,
+    "key": "capture_tito_attack",
+    "ver": "",
+    "val": "Main assault",
+    "comm": ""
+  },
+  {
+    "line_num": 197,
+    "key": "capture_tito_attack_desc",
+    "ver": "",
+    "val": "A motorized column will advance to link up with the airborne units and in the process destroy all major partisan units that stand and fight.",
+    "comm": ""
+  },
+  {
+    "line_num": 198,
+    "key": "capture_tito_exfiltration",
+    "ver": "",
+    "val": "Secure the area",
+    "comm": ""
+  },
+  {
+    "line_num": 199,
+    "key": "capture_tito_exfiltration_desc",
+    "ver": "",
+    "val": "Once the two assault forces have linked up, they will consolidate and mop up and surviving enemies.",
+    "comm": ""
+  },
+  {
+    "line_num": 200,
+    "key": "rescue_mussolini",
+    "ver": "",
+    "val": "Rescue Benito Mussolini",
+    "comm": ""
+  },
+  {
+    "line_num": 201,
+    "key": "rescue_mussolini_desc",
+    "ver": "",
+    "val": "§LAfter being deposed by [ITA.GetLeader], Mussolini has been put under arrest in a small hotel in the Apennine mountains. We have a small window to rescue him and return him to our lines, where he would no doubt help in administering the Italian territories after our victory.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 202,
+    "key": "rescue_mussolini_infiltration",
+    "ver": "",
+    "val": "Land gliders near prison",
+    "comm": ""
+  },
+  {
+    "line_num": 203,
+    "key": "rescue_mussolini_infiltration_desc",
+    "ver": "",
+    "val": "A specially selected unit will board gliders and land as close to the place where our intelligence service indicates Mussolini is held.",
+    "comm": ""
+  },
+  {
+    "line_num": 204,
+    "key": "rescue_mussolini_attack",
+    "ver": "",
+    "val": "Assault the prison",
+    "comm": ""
+  },
+  {
+    "line_num": 205,
+    "key": "rescue_mussolini_attack_desc",
+    "ver": "",
+    "val": "The assault unit will attack and capture the hotel and free Mussolini. Ideally, the garrison will stand down rather than fight it out. Speed and surprise are of the essence.",
+    "comm": ""
+  },
+  {
+    "line_num": 206,
+    "key": "rescue_mussolini_exfiltration",
+    "ver": "",
+    "val": "Extraction via airplane",
+    "comm": ""
+  },
+  {
+    "line_num": 207,
+    "key": "rescue_mussolini_exfiltration_desc",
+    "ver": "",
+    "val": "A small plane with excellent short field capability will land and pick up Mussolini, then turn around and fly him to a friendly airfield.",
+    "comm": ""
+  },
+  {
+    "line_num": 208,
+    "key": "GER_rescued_mussolini",
+    "ver": "",
+    "val": "Rescued Mussolini",
+    "comm": ""
+  },
+  {
+    "line_num": 209,
+    "key": "infiltration_paradrop_outcome",
+    "ver": "",
+    "val": "Despite some trouble with finding the dropzone in the dark, the team landed safely.",
+    "comm": ""
+  },
+  {
+    "line_num": 210,
+    "key": "infiltration_submarine_outcome",
+    "ver": "",
+    "val": "With a first attempt dashed by high waves, a second landing attempt the next day was met with success and delivered the team safely to shore.",
+    "comm": ""
+  },
+  {
+    "line_num": 211,
+    "key": "infiltration_border_outcome",
+    "ver": "",
+    "val": "Under the cover of very adverse weather, our team found the previously scouted trail and proceeded across the border without further problems.",
+    "comm": ""
+  },
+  {
+    "line_num": 212,
+    "key": "infiltration_diplomatic_outcome",
+    "ver": "",
+    "val": "The team had no trouble getting into the country and deftly avoided the tail enemy counter-intelligence put on them.",
+    "comm": ""
+  },
+  {
+    "line_num": 213,
+    "key": "exfiltration_air_pickup_outcome",
+    "ver": "",
+    "val": "The small courier plane managed to find the pickup point with little issue, and delivered the team safely back to our lines.",
+    "comm": ""
+  },
+  {
+    "line_num": 214,
+    "key": "exfiltration_submarine_pickup_outcome",
+    "ver": "",
+    "val": "After several tense days of playing hide and seek with a local enemy patrol, our team managed to arrange a pickup and leave the area undetected.",
+    "comm": ""
+  },
+  {
+    "line_num": 215,
+    "key": "exfiltration_border_outcome",
+    "ver": "",
+    "val": "The team escaped by crossing the border under the cover of night, utilizing a local guide to help them find a way through the border defenses.",
+    "comm": ""
+  },
+  {
+    "line_num": 216,
+    "key": "exfiltration_go_to_ground_outcome",
+    "ver": "",
+    "val": "Our team has blended in with local civilians and is currently making plans to either make their way back to our lines or stay in the area for further assignments.",
+    "comm": ""
+  },
+  {
+    "line_num": 217,
+    "key": "fake_intel_decoy_tanks_outcome",
+    "ver": "",
+    "val": "While the enemy conducted a few recon sorties in the area, we can not be certain that they spotted the decoys and were convinced by them. We are awaiting confirmation from other sources that they took the bait.",
+    "comm": ""
+  },
+  {
+    "line_num": 218,
+    "key": "fake_intel_radio_deception_outcome",
+    "ver": "",
+    "val": "Our radio operators produced a lot of traffic. Whether the enemy actually monitored any of it is hard to tell.",
+    "comm": ""
+  },
+  {
+    "line_num": 219,
+    "key": "fake_intel_deliberate_leaks_outcome",
+    "ver": "",
+    "val": "We made sure that enemy agents were supplied with a number of small leaks that paint an altogether different picture of reality. Whether the other side bought it remains to be seen.",
+    "comm": ""
+  },
+  {
+    "line_num": 220,
+    "key": "fake_intel_press_releases_outcome",
+    "ver": "",
+    "val": "Our Department for Public Information has ensured that press coverage in friendly and neutral papers is roughly how we want it to look.",
+    "comm": ""
+  },
+  {
+    "line_num": 221,
+    "key": "fake_intel_utilize_double_agents_outcome",
+    "ver": "",
+    "val": "Our double agents have supplied the other side with a generous helping of information - some of it even correct, to ensure that the enemy continues to trust them.",
+    "comm": ""
+  },
+  {
+    "line_num": 222,
+    "key": "fake_intel_plant_evidence_outcome",
+    "ver": "",
+    "val": "The raid we conducted was a complete success, and the other side recovered plenty of evidence of our operation. Early reports indicate that there have been a number of troop movements in response to it already.",
+    "comm": ""
+  },
+  {
+    "line_num": 223,
+    "key": "fake_intel_release_pow_outcome",
+    "ver": "",
+    "val": "The officer was driven close to several military encampments and was allowed to notice a variety of unit patches for divisions that don't actually exist.",
+    "comm": ""
+  },
+  {
+    "line_num": 224,
+    "key": "targeted_sabotage_plant_explosives_outcome",
+    "ver": "",
+    "val": "The team planted the explosives successfully and brought down the building. Damage to the machine tools is reportedly light, but it will still take a lot of time to rebuild.",
+    "comm": ""
+  },
+  {
+    "line_num": 225,
+    "key": "targeted_sabotage_organize_more_meetings_outcome",
+    "ver": "",
+    "val": "Our agent successfully infiltrated the middle management of the target company, and has aggressively restructured processes to find greater synergies by driving engagement with key stakeholders. Productivity has dropped significantly.",
+    "comm": ""
+  },
+  {
+    "line_num": 226,
+    "key": "targeted_sabotage_destroy_bridge_outcome",
+    "ver": "",
+    "val": "The team planted the explosives and set the fuze to coincide with a passing train. Between the explosion and the damage of the derailed train, the entire span has dropped into the river.",
+    "comm": ""
+  },
+  {
+    "line_num": 227,
+    "key": "targeted_sabotage_collapse_tunnel_outcome",
+    "ver": "",
+    "val": "After identifying structural weakpoints, the team placed explosives and withdrew. While damage to the tunnel is repairable, it will take some time until the tunnel is fully usable again.",
+    "comm": ""
+  },
+  {
+    "line_num": 228,
+    "key": "targeted_sabotage_remove_roadsigns_outcome",
+    "ver": "",
+    "val": "The team successfully removed roadsigns at a number of important intersections and replaced signs on other locations, creating great confusion amongst drivers unfamiliar with the area.",
+    "comm": ""
+  },
+  {
+    "line_num": 229,
+    "key": "targeted_sabotage_immobilize_rolling_stock_outcome",
+    "ver": "",
+    "val": "The team infiltrated a railway depot and successfully sabotaged a number of vehicles. The effects should only become apparent after the vehicle has run for a couple of kilometers, stranding it on the open track.",
+    "comm": ""
+  },
+  {
+    "line_num": 230,
+    "key": "targeted_sabotage_burn_storage_outcome",
+    "ver": "",
+    "val": "The team successfully set fire to the local storage areas, destroying hundreds of tons of stored resources and severely impacting the ability to maintain a stockpile.",
+    "comm": ""
+  },
+  {
+    "line_num": 231,
+    "key": "targeted_sabotage_destroy_mining_equipment_outcome",
+    "ver": "",
+    "val": "The team managed to sabotage most of the heavy mining equipment. While some of the damage may be superficial, it will still create some serious bottlenecks in the production flow.",
+    "comm": ""
+  },
+  {
+    "line_num": 232,
+    "key": "steal_blueprints_bribe_outcome",
+    "ver": "",
+    "val": "We made contact with an engineer in financial difficulties and convinced him to part with some secret papers in return for some convertible currency.",
+    "comm": ""
+  },
+  {
+    "line_num": 233,
+    "key": "steal_blueprints_seduction_outcome",
+    "ver": "",
+    "val": "Our agent found an engineer in need of some personal company, who has been very open about his work.",
+    "comm": ""
+  },
+  {
+    "line_num": 234,
+    "key": "steal_blueprints_infiltrate_naval_design_office_outcome",
+    "ver": "",
+    "val": "Our agent successfully infiltrated a naval equipment supplier and made copies of a number of key component blueprints.",
+    "comm": ""
+  },
+  {
+    "line_num": 235,
+    "key": "steal_blueprints_steal_prototype_outcome",
+    "ver": "",
+    "val": "The prototype was successfully recovered and flown to a friendly airfield. Our engineers are now taking it apart.",
+    "comm": ""
+  },
+  {
+    "line_num": 236,
+    "key": "steal_blueprints_middle_manager_outcome",
+    "ver": "",
+    "val": "The time spent by our agent in the management of a small company has significantly increased our understanding of the enemy economy. We are still investigating reports that productivity increased while our agent was working there.",
+    "comm": ""
+  },
+  {
+    "line_num": 237,
+    "key": "capture_cyphers_bribe_outcome",
+    "ver": "",
+    "val": "Our agent obtained a full copy of the codebook from an unnamed source in exchange for some valuables.",
+    "comm": ""
+  },
+  {
+    "line_num": 238,
+    "key": "capture_cyphers_raid_outcome",
+    "ver": "",
+    "val": "A small Commando unit successfully raided a radio station and managed to obtain copies of the current cypher before it could be destroyed.",
+    "comm": ""
+  },
+  {
+    "line_num": 239,
+    "key": "capture_cyphers_seduction_outcome",
+    "ver": "",
+    "val": "Our agent was able to convince a person in possession of the cyphers to part with them.",
+    "comm": ""
+  },
+  {
+    "line_num": 240,
+    "key": "capture_cyphers_smuggle_outcome",
+    "ver": "",
+    "val": "Our agent managed to convince their contact in [From.GetNameDef] to send them a full copy of the cyphers used to communicate with them.",
+    "comm": ""
+  },
+  {
+    "line_num": 241,
+    "key": "capture_cyphers_reverse_engineer_outcome",
+    "ver": "",
+    "val": "Our agent has successfully obtained an example of the enemy's encryption machine. While less capable than the military models, it will still allow us a great deal of insight into their operations.",
+    "comm": ""
+  },
+  {
+    "line_num": 242,
+    "key": "collaboration_government_set_up_planning_committees_outcome",
+    "ver": "",
+    "val": "The team set up a number of planning groups to organize the new government and ensure a smooth transition of power once combat operations are over.",
+    "comm": ""
+  },
+  {
+    "line_num": 243,
+    "key": "collaboration_government_train_paramilitary_forces_outcome",
+    "ver": "",
+    "val": "The team has organized a number of reliable men, some with military experience, into small paramilitary units, which will help in guarding the rear of our advancing army.",
+    "comm": ""
+  },
+  {
+    "line_num": 244,
+    "key": "collaboration_government_contact_military_officers_outcome",
+    "ver": "",
+    "val": "Our team has made a few contacts with retired military officers, who may be convinced to help in organizing a new government so long as they may play a role in it.",
+    "comm": ""
+  },
+  {
+    "line_num": 245,
+    "key": "free_operative_free_in_transit_outcome",
+    "ver": "",
+    "val": "With the support of a small Commando unit, our team was able to execute an ambush and recover our agent while they were being moved to a new location.",
+    "comm": ""
+  },
+  {
+    "line_num": 246,
+    "key": "free_operative_liberate_camp_outcome",
+    "ver": "",
+    "val": "Mere hours before the prisoners were due to be moved, a small Commando unit managed to liberate the prison where our agent was being held.",
+    "comm": ""
+  },
+  {
+    "line_num": 247,
+    "key": "free_operative_smuggle_in_escape_gear_outcome",
+    "ver": "",
+    "val": "Our agent received the escape tools and successfully broke out of the prison under the cover of night, evading search teams and patrols for several days before being able to make contact.",
+    "comm": ""
+  },
+  {
+    "line_num": 248,
+    "key": "infiltrate_military_bribe_outcome",
+    "ver": "",
+    "val": "Our agent successfully convinced a soldier on active duty to work for us in return for a significant sum of money.",
+    "comm": ""
+  },
+  {
+    "line_num": 249,
+    "key": "infiltrate_military_seduction_outcome",
+    "ver": "",
+    "val": "Our agent has begun a relationship with an active soldier, who has become a quite reliable source of information.",
+    "comm": ""
+  },
+  {
+    "line_num": 250,
+    "key": "infiltrate_military_turned_pow_outcome",
+    "ver": "",
+    "val": "Our Department of Psychological Operations has successfully convinced a prisoner of war about the justice of our cause and sent him back to the other side.",
+    "comm": ""
+  },
+  {
+    "line_num": 251,
+    "key": "infiltrate_military_ideological_supporter_outcome",
+    "ver": "",
+    "val": "Our agent has made contact with a number of officers who no longer support the current [From.GetAdjective] regime.",
+    "comm": ""
+  },
+  {
+    "line_num": 252,
+    "key": "resistance_contacts_radio_circuits_outcome",
+    "ver": "",
+    "val": "The team has made contact with several resistance units and instructed them in radio technique, leaving a radio operator with each one.",
+    "comm": ""
+  },
+  {
+    "line_num": 253,
+    "key": "resistance_support_pidgeons_outcome",
+    "ver": "",
+    "val": "A number of pigeons were dropped behind enemy lines with instructions on how to feed and care for them.",
+    "comm": ""
+  },
+  {
+    "line_num": 254,
+    "key": "resistance_contacts_briefings_outcome",
+    "ver": "",
+    "val": "The team instructed resistance members of planned operations in their sector, set priorities for intelligence gathering, and arranged supply drops.",
+    "comm": ""
+  },
+  {
+    "line_num": 255,
+    "key": "resistance_support_arms_depots_outcome",
+    "ver": "",
+    "val": "The team set ups several arms and munitions depots in concealed locations to improve the striking power of the resistance.",
+    "comm": ""
+  },
+  {
+    "line_num": 256,
+    "key": "resistance_support_distribute_weapons_outcome",
+    "ver": "",
+    "val": "The team distributed weapons to a number of resistance cells and instructed the members in their use.",
+    "comm": ""
+  },
+  {
+    "line_num": 257,
+    "key": "resistance_support_organize_training_outcome",
+    "ver": "",
+    "val": "The team held courses in basic fieldcraft, small-arms maintenance and demolitions.",
+    "comm": ""
+  },
+  {
+    "line_num": 258,
+    "key": "resistance_support_coordinate_groups_outcome",
+    "ver": "",
+    "val": "The team gathered representatives of the largest resistance groups to properly coordinate operations on a larger scale and ensuring supplies were directed where they are most needed.",
+    "comm": ""
+  },
+  {
+    "line_num": 259,
+    "key": "heavy_water_raid_outcome_tt",
+    "ver": "",
+    "val": "We will attempt to destroy the German Heavy Water Plant, preventing a breakthrough in their nuclear research project.",
+    "comm": ""
+  },
+  {
+    "line_num": 260,
+    "key": "bruneval_raid_outcome_tt",
+    "ver": "",
+    "val": "We will attempt to secure components of enemy radar technology to aid our own research.",
+    "comm": ""
+  },
+  {
+    "line_num": 261,
+    "key": "capture_tito_outcome_tt",
+    "ver": "",
+    "val": "We will attempt to capture or kill Tito. This is a risky operation which might fail.",
+    "comm": ""
+  },
+  {
+    "line_num": 262,
+    "key": "rescue_mussolini_outcome_tt",
+    "ver": "",
+    "val": "We will attempt to liberate Mussolini. This is a risky operation which might fail.",
+    "comm": ""
+  },
+  {
+    "line_num": 263,
+    "key": "coordinated_strike_scout_target",
+    "ver": "",
+    "val": "Scout Targets",
+    "comm": ""
+  },
+  {
+    "line_num": 264,
+    "key": "coordinated_strike_scout_target_desc",
+    "ver": "",
+    "val": "The team will reconnoitre the targets, take photographs and provide the latest information on the location of high-value targets.",
+    "comm": ""
+  },
+  {
+    "line_num": 265,
+    "key": "coordinated_strike_scout_target_outcome",
+    "ver": "",
+    "val": "The team provided accurate information on the location of enemy headquarters and other important locations only hours before the attack commenced.",
+    "comm": ""
+  },
+  {
+    "line_num": 266,
+    "key": "coordinate_strike_mark_targets",
+    "ver": "",
+    "val": "Mark Targets",
+    "comm": ""
+  },
+  {
+    "line_num": 267,
+    "key": "coordinate_strike_mark_targets_desc",
+    "ver": "",
+    "val": "The team will use pre-arranged signals and markers to allow our forces to more easily detect high-value targets.",
+    "comm": ""
+  },
+  {
+    "line_num": 268,
+    "key": "coordinate_strike_mark_targets_outcome",
+    "ver": "",
+    "val": "Despite having to be done at short notice and in darkness, the markings were very successful at directing our forces to the most important targets.",
+    "comm": ""
+  },
+  {
+    "line_num": 269,
+    "key": "coordinated_strike_sabotage_communications",
+    "ver": "",
+    "val": "Sabotage Communications",
+    "comm": ""
+  },
+  {
+    "line_num": 270,
+    "key": "coordinated_strike_sabotage_communications_desc",
+    "ver": "",
+    "val": "Our team will cut telephone lines and ambush messengers to disrupt enemy communications in the crucial first few hours.",
+    "comm": ""
+  },
+  {
+    "line_num": 271,
+    "key": "coordinated_strike_sabotage_communications_outcome",
+    "ver": "",
+    "val": "Our team successfully disrupted enemy communications, leading to a slow response to our attack.",
+    "comm": ""
+  },
+  {
+    "line_num": 272,
+    "key": "coordinated_strike_direct_units",
+    "ver": "",
+    "val": "Direct Units",
+    "comm": ""
+  },
+  {
+    "line_num": 273,
+    "key": "coordinated_strike_direct_units_desc",
+    "ver": "",
+    "val": "When the attack begins, our team will direct our units to the most valuable targets by radio.",
+    "comm": ""
+  },
+  {
+    "line_num": 274,
+    "key": "coordinated_strike_direct_units_outcome",
+    "ver": "",
+    "val": "Our team has been very successful at directing our units, increasing the damage done to the enemy.",
+    "comm": ""
+  },
+  {
+    "line_num": 275,
+    "key": "coordinated_strike_occupy_bridges",
+    "ver": "",
+    "val": "Occupy Bridges",
+    "comm": ""
+  },
+  {
+    "line_num": 276,
+    "key": "coordinated_strike_occupy_bridges_desc",
+    "ver": "",
+    "val": "Our team will seize bridges in the area, preventing their destruction and blocking enemy counter-attacks.",
+    "comm": ""
+  },
+  {
+    "line_num": 277,
+    "key": "coordinated_strike_occupy_bridges_outcome",
+    "ver": "",
+    "val": "The team successfully overpowered the guards at a key bridge and cut the wires for the demolition charges, allowing our forces to proceed unhindered.",
+    "comm": ""
+  },
+  {
+    "line_num": 278,
+    "key": "operation_coordinated_strike",
+    "ver": "",
+    "val": "Coordinated Strike",
+    "comm": ""
+  },
+  {
+    "line_num": 279,
+    "key": "operation_coordinated_strike_desc",
+    "ver": "",
+    "val": "§LTo achieve victory over [From.GetNameDef], we must strike a crushing surprise blow.§!\\n\\nPrepare §YPort Strike§! and §YStrategic Bombing§! air missions in the target region and they will strike as the operation completes and initiate war between us.",
+    "comm": ""
+  },
+  {
+    "line_num": 280,
+    "key": "coordinated_strike_tt",
+    "ver": "",
+    "val": "We will declare war on §Y[From.GetNameDef]§! through a surprise attack. When activated all prepared Port Strike and Strategic Bombing in the target region will execute multiple times without air defence being able to intercept them.",
+    "comm": ""
+  },
+  {
+    "line_num": 281,
+    "key": "exfiltration_air_pickup_outcome_fail",
+    "ver": "",
+    "val": "§ROur pilot found the designated landing place lit up brightly with floodlights from several enemy anti-air units, and decided that the operation was compromised.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 282,
+    "key": "exfiltration_submarine_pickup_outcome_fail",
+    "ver": "",
+    "val": "§RThe submarine waited at the agreed-upon extraction point for several hours, but no message was received from shore indicating that our team was ready for extraction. The crew reported increased enemy activity on the shore during that period.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 283,
+    "key": "exfiltration_border_outcome_fail",
+    "ver": "",
+    "val": "§RThe guide on the other side of the border waited in vain for our team to appear, until he had to abandon his post due to an approaching enemy patrol.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 284,
+    "key": "exfiltration_go_to_ground_outcome_fail",
+    "ver": "",
+    "val": "§RThe team has so far failed to make contact during the pre-arranged schedule. We have no further information on what happened to them.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 285,
+    "key": "OPERATION_OUTLOOK_LABEL",
+    "ver": "",
+    "val": "Outlook",
+    "comm": ""
+  },
+  {
+    "line_num": 286,
+    "key": "OPERATION_RISK_HEADER",
+    "ver": "",
+    "val": "§HRisk:§! $VAL|-%0$",
+    "comm": ""
+  },
+  {
+    "line_num": 287,
+    "key": "OPERATION_OUTCOME_HEADER",
+    "ver": "",
+    "val": "§HBonus Outcome:§! $VAL|+%0$",
+    "comm": ""
+  },
+  {
+    "line_num": 288,
+    "key": "OPERATION_BASE",
+    "ver": "",
+    "val": "Operation: ",
+    "comm": ""
+  },
+  {
+    "line_num": 289,
+    "key": "RISK_LOW",
+    "ver": "",
+    "val": "§GSAFE§!",
+    "comm": ""
+  },
+  {
+    "line_num": 290,
+    "key": "RISK_MID",
+    "ver": "",
+    "val": "§RRISKY§!",
+    "comm": ""
+  },
+  {
+    "line_num": 291,
+    "key": "RISK_HIGH",
+    "ver": "",
+    "val": "§RDEADLY§!",
+    "comm": ""
+  },
+  {
+    "line_num": 292,
+    "key": "OUTCOME_BASE",
+    "ver": "",
+    "val": "§YROUTINE§!",
+    "comm": ""
+  },
+  {
+    "line_num": 293,
+    "key": "OUTCOME_GOOD",
+    "ver": "",
+    "val": "§GGOOD§!",
+    "comm": ""
+  },
+  {
+    "line_num": 294,
+    "key": "OUTCOME_VGOOD",
+    "ver": "",
+    "val": "§GEXCELLENT§!",
+    "comm": ""
+  },
+  {
+    "line_num": 295,
+    "key": "enemy_has_equal_or_better_radar_tech_trigger_tt",
+    "ver": "",
+    "val": "The enemy has equal or better radar technology.",
+    "comm": ""
+  },
+  {
+    "line_num": 296,
+    "key": "OPERATION_BONUS_REWARD",
+    "ver": "",
+    "val": "The operation was an immense success, and yielded §Gbonus rewards§!!",
+    "comm": ""
+  },
+  {
+    "line_num": 297,
+    "key": "intelligency_agency_resistance_boost_tt",
+    "ver": "",
+    "val": "Intelligence Operations: $VALUE|=-%0$",
+    "comm": ""
+  },
+  {
+    "line_num": 298,
+    "key": "targeted_sabotage_resources_2_tt",
+    "ver": "",
+    "val": "Local Resistance in [From.From.GetName] will focus more of their efforts on sabotaging local resource extraction.",
+    "comm": ""
+  },
+  {
+    "line_num": 299,
+    "key": "targeted_sabotage_resources_3_tt",
+    "ver": "",
+    "val": "Local Resistance in [From.From.GetName] will make a large effort to sabotage local resource extraction.",
+    "comm": ""
+  },
+  {
+    "line_num": 300,
+    "key": "targeted_sabotage_industry_2_tt",
+    "ver": "",
+    "val": "Local Resistance in [From.From.GetName] will focus more of their efforts on sabotaging local factories.",
+    "comm": ""
+  },
+  {
+    "line_num": 301,
+    "key": "targeted_sabotage_industry_3_tt",
+    "ver": "",
+    "val": "Local Resistance in [From.From.GetName] will make a large effort to sabotage local factories.",
+    "comm": ""
+  },
+  {
+    "line_num": 302,
+    "key": "targeted_sabotage_infrastructure_2_tt",
+    "ver": "",
+    "val": "Local Resistance in [From.From.GetName] will focus more of their efforts on sabotaging local infrastructure.",
+    "comm": ""
+  },
+  {
+    "line_num": 303,
+    "key": "targeted_sabotage_infrastructure_3_tt",
+    "ver": "",
+    "val": "Local Resistance in [From.From.GetName] will make a large effort to sabotage local infrastructure",
+    "comm": ""
+  },
+  {
+    "line_num": 304,
+    "key": "GER_heavy_water_production_underway",
+    "ver": "",
+    "val": "Heavy Water Production underway",
+    "comm": ""
+  },
+  {
+    "line_num": 305,
+    "key": "heavy_water_infiltration_outcome",
+    "ver": "",
+    "val": "The team successfully parachuted into the area.",
+    "comm": ""
+  },
+  {
+    "line_num": 306,
+    "key": "heavy_water_attack_outcome",
+    "ver": "",
+    "val": "The team successfully infiltrated the plant, avoiding all guards. Less than an hour later, a major explosion wrecked the plant.",
+    "comm": ""
+  },
+  {
+    "line_num": 307,
+    "key": "heavy_water_exfiltration_outcome",
+    "ver": "",
+    "val": "We have not heard anything from the team since the raid, but this is expected.",
+    "comm": ""
+  },
+  {
+    "line_num": 308,
+    "key": "heavy_water_exfiltration_outcome_fail",
+    "ver": "",
+    "val": "German sources have announced the capture of the Operation Gunnerside team. It appears that the team ran into trouble while making its getaway from the plant.",
+    "comm": ""
+  },
+  {
+    "line_num": 309,
+    "key": "bruneval_infiltration_outcome",
+    "ver": "",
+    "val": "The assault unit landed successfully, with minimal scattering from the paradrop.",
+    "comm": ""
+  },
+  {
+    "line_num": 310,
+    "key": "bruneval_attack_outcome",
+    "ver": "",
+    "val": "The paratroopers moved towards the objective and destroyed the weak garrison in a short but fierce firefight.",
+    "comm": ""
+  },
+  {
+    "line_num": 311,
+    "key": "bruneval_exfiltration_outcome",
+    "ver": "",
+    "val": "The force embarked on landing craft for transportation back to our lines, taking with it an enemy radar technician for interrogation.",
+    "comm": ""
+  },
+  {
+    "line_num": 312,
+    "key": "bruneval_exfiltration_outcome_fail",
+    "ver": "",
+    "val": "Following the evacuation to Britain, it was discovered that our agent was not amongst those recovered from the beach. It is unclear when exactly contact was lost, but we must assume the worst.",
+    "comm": ""
+  },
+  {
+    "line_num": 313,
+    "key": "capture_tito_attack_outcome",
+    "ver": "",
+    "val": "See attached operation report for further information on the operation's outcome.",
+    "comm": ""
+  },
+  {
+    "line_num": 314,
+    "key": "organise_cells_outcome",
+    "ver": "",
+    "val": "Several revolutionary cells were organized and have begun operating in the enemy rear.",
+    "comm": ""
+  },
+  {
+    "line_num": 315,
+    "key": "infiltrate_civil_service_outcome",
+    "ver": "",
+    "val": "We have placed a number of reliable people in positions of power, allowing them to quickly take over administrating liberated territories.",
+    "comm": ""
+  },
+  {
+    "line_num": 316,
+    "key": "workers_militia_outcome",
+    "ver": "",
+    "val": "Several battalions of worker militia stand ready to guard critical installations.",
+    "comm": ""
+  },
+  {
+    "line_num": 317,
+    "key": "organize_strikes_outcome",
+    "ver": "",
+    "val": "Our agent has successfully convinced trade unionists and workers to begin a major strike.",
+    "comm": ""
+  },
+  {
+    "line_num": 318,
+    "key": "preposition_units_outcome",
+    "ver": "",
+    "val": "Our assets in the country have been placed to capture critical infrastructure when the uprising begins.",
+    "comm": ""
+  },
+  {
+    "line_num": 319,
+    "key": "launch_coup_exfiltration_outcome",
+    "ver": "",
+    "val": "On receipt of the start signal, our agent led several units to capture their assigned objectives. The rebels have successfully taken control of a slice of territory.",
+    "comm": ""
+  },
+  {
+    "line_num": 320,
+    "key": "launch_coup_exfiltration_outcome_fail",
+    "ver": "",
+    "val": "In the confusion of the uprising, we have lost contact with our operative. We may never find out what happened.",
+    "comm": ""
+  },
+  {
+    "line_num": 321,
+    "key": "free_agency_upgrade_tt",
+    "ver": "",
+    "val": "Gain one random §YAgency Upgrade§!",
+    "comm": ""
+  },
+  {
+    "line_num": 323,
+    "key": "operation_warsaw_uprising",
+    "ver": "",
+    "val": "The Warsaw Uprising",
+    "comm": ""
+  },
+  {
+    "line_num": 324,
+    "key": "operation_warsaw_uprising_desc",
+    "ver": "",
+    "val": "The brave resistance fighters of Poland long to liberate Warsaw our nation from our enemies. We just need to give them the signal and Poland will live once again!",
+    "comm": ""
+  },
+  {
+    "line_num": 325,
+    "key": "warsaw_uprising_operation_tt",
+    "ver": "",
+    "val": "Trigger a national uprising in Poland, creating new units in its states.",
+    "comm": ""
+  },
+  {
+    "line_num": 327,
+    "key": "raid_trotskys_villa",
+    "ver": "",
+    "val": "Raid Trotsky's Villa",
+    "comm": ""
+  },
+  {
+    "line_num": 328,
+    "key": "raid_trotskys_villa_desc",
+    "ver": "",
+    "val": "Trotsky has been holed up in his villa, corresponding with other party members to plot against the Soviet state. We can send a small team to attack his house and put this to an end.",
+    "comm": ""
+  },
+  {
+    "line_num": 329,
+    "key": "raid_trotskys_villa_outcome_tt",
+    "ver": "",
+    "val": "A small group of assassins will be sent to Trotsky's villa to try and kill him.",
+    "comm": ""
+  },
+  {
+    "line_num": 330,
+    "key": "raid_trotskys_villa_attack",
+    "ver": "",
+    "val": "Storm the Villa",
+    "comm": ""
+  },
+  {
+    "line_num": 331,
+    "key": "raid_trotskys_villa_attack_desc",
+    "ver": "",
+    "val": "A small group led by a NKVD officer will breach the villa, overpower any guards, find Trotsky, and execute him for crimes against the state.",
+    "comm": ""
+  },
+  {
+    "line_num": 332,
+    "key": "raid_trotskys_villa_attack_outcome",
+    "ver": "",
+    "val": "The team made its way into the villa and engaged in a firefight with Trotsky's guards.",
+    "comm": ""
+  },
+  {
+    "line_num": 333,
+    "key": "murder_trotsky",
+    "ver": "",
+    "val": "Subtle Assassination",
+    "comm": ""
+  },
+  {
+    "line_num": 334,
+    "key": "murder_trotsky_desc",
+    "ver": "",
+    "val": "A direct assault is unlikely to succeed. We should use more subtle means to get close to Trotsky, and then strike him down while his back is turned.",
+    "comm": ""
+  },
+  {
+    "line_num": 335,
+    "key": "murder_trotsky_outcome_tt",
+    "ver": "",
+    "val": "We will attempt to assassinate Trotsky using an agent we have placed in his circle.",
+    "comm": ""
+  },
+  {
+    "line_num": 336,
+    "key": "murder_trotsky_infiltration",
+    "ver": "",
+    "val": "Forged Documents",
+    "comm": ""
+  },
+  {
+    "line_num": 337,
+    "key": "murder_trotsky_infiltration_desc",
+    "ver": "",
+    "val": "Using a forged Canadian passport, our Agent will travel to Trotsky's location and befriend his guards.",
+    "comm": ""
+  },
+  {
+    "line_num": 338,
+    "key": "murder_trotsky_infiltration_outcome",
+    "ver": "",
+    "val": "Our agent successfully gained the trust of Trotsky and his guards, using the access provided by his forged passport.",
+    "comm": ""
+  },
+  {
+    "line_num": 339,
+    "key": "murder_trotsky_attack",
+    "ver": "",
+    "val": "Assassination",
+    "comm": ""
+  },
+  {
+    "line_num": 340,
+    "key": "murder_trotsky_attack_desc",
+    "ver": "",
+    "val": "Our agent will isolate Trotsky from his guards by showing him an article he wants to discuss in private. Once alone, he will assassinate Trotsky with an ice pick.",
+    "comm": ""
+  },
+  {
+    "line_num": 341,
+    "key": "murder_trotsky_attack_outcome",
+    "ver": "",
+    "val": "The agent managed to get Trotsky alone and struck a heavy blow with an ice pick. This did not immediately kill Trotsky, but he died later in hospital.",
+    "comm": ""
+  },
+  {
+    "line_num": 342,
+    "key": "murder_trotsky_exfiltration",
+    "ver": "",
+    "val": "Escape",
+    "comm": ""
+  },
+  {
+    "line_num": 343,
+    "key": "murder_trotsky_exfiltration_desc",
+    "ver": "",
+    "val": "Our agent will try to use the confusion and chaos to escape and avoid interrogation.",
+    "comm": ""
+  },
+  {
+    "line_num": 344,
+    "key": "murder_trotsky_exfiltration_outcome",
+    "ver": "",
+    "val": "In the confusion following the attack, our agent managed to get away without anyone getting a good view of his face.",
+    "comm": ""
+  },
+  {
+    "line_num": 345,
+    "key": "murder_trotsky_exfiltration_outcome_fail",
+    "ver": "",
+    "val": "Our agent was apprehended by Trotsky's guard detail and turned over to the authorities. He has been charged with murder.",
+    "comm": ""
+  },
+  {
+    "line_num": 346,
+    "key": "nuclear_espionage",
+    "ver": "",
+    "val": "Infiltrate Atomic Program",
+    "comm": ""
+  },
+  {
+    "line_num": 347,
+    "key": "nuclear_espionage_desc",
+    "ver": "",
+    "val": "Our nuclear weapons program is behind other countries. We should plan an operation to infiltrate foreign atomic weapons programs and acquire vital blueprints and data.",
+    "comm": ""
+  },
+  {
+    "line_num": 348,
+    "key": "nuclear_espionage_outcome_tt",
+    "ver": "",
+    "val": "We will place an agent inside the [FROM.GetAdjective] nuclear research program who will attempt to pass technical documentation that can be used in our own atomic project.",
+    "comm": ""
+  },
+  {
+    "line_num": 349,
+    "key": "SWI_boost_resistance_buff",
+    "ver": "",
+    "val": "\\nThe §YStrengthen Resistance§! Operation becomes significantly more effective.",
+    "comm": ""
+  }
+]

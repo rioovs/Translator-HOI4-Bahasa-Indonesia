@@ -1,0 +1,2378 @@
+[
+  {
+    "lineNum": 401,
+    "key": "GER_see_to_the_eastern_front_tt2",
+    "val": "Add 8 §YLand Forts§! in 4 provinces on the eastern border.\\n",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 402,
+    "key": "GER_danzig_for_guarantees",
+    "val": "Danzig for Guarantees",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 403,
+    "key": "GER_danzig_for_guarantees_desc",
+    "val": "The Poles surely must feel the danger of the [GER.GetDanzigGuaranteesBolsheviksDesc]. Perhaps we could come to an agreement regarding the return of Danzig, Poznan, and the Silesian Voivodeship, in exchange for guarantees of military support in case of an invasion [GER.GetDanzigGuaranteesRedsDesc].",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 404,
+    "key": "SOV_DANZIG_GUARANTEES_BOLSHEVIKS_DESC_COMMUNIST",
+    "val": "Bolsheviks",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 405,
+    "key": "SOV_DANZIG_GUARANTEES_BOLSHEVIKS_DESC_FASCISM",
+    "val": "Fascists to the East",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 406,
+    "key": "SOV_DANZIG_GUARANTEES_BOLSHEVIKS_DESC_NEUTRALITY",
+    "val": "Russians",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 407,
+    "key": "SOV_DANZIG_GUARANTEES_REDS_DESC_COMMUNIST",
+    "val": "of the Reds",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 408,
+    "key": "SOV_DANZIG_GUARANTEES_REDS_DESC_NEUTRALITY",
+    "val": "from the East",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 409,
+    "key": "GER_safeguard_the_baltic",
+    "val": "Safeguard the Baltic",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 410,
+    "key": "GER_safeguard_the_baltic_desc",
+    "val": "The Baltics were a part of the Russian Empire until a few decades ago, and it stands to reason the [GER.GetRussiansDemonym] may once more try to annex them. We must prevent this, and offer our military support in case of [SOV.GetAdjective] invasion.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 411,
+    "key": "GER_support_the_finns",
+    "val": "Support the Finns",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 412,
+    "key": "GER_support_the_finns_desc",
+    "val": "The Finns find themselves in the firing line of the [GER.GetRussiansDemonym]. We will offer them a guarantee against the communist threat, and give them some modest industrial aid.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 413,
+    "key": "GER_anti_comintern_pact_unaligned",
+    "val": "Ideological Defenses",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 414,
+    "key": "GER_anti_comintern_pact_unaligned_desc",
+    "val": "The military threat is not the only danger we are subjected to. We must look to ways to keep communism at bay, itself, and to that end we will create a pact with our fellow non-communists, resolving to combating its advance.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 415,
+    "key": "GER_anti_soviet_pact_unaligned",
+    "val": "Formalize the Treaty",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 416,
+    "key": "GER_anti_soviet_pact_unaligned_desc",
+    "val": "We should prepare for a military conflict with communism by inviting all signatories of the anti-comintern pact to agree to an additional clause calling for military support against any Soviet aggression. As we are already committed to each other in so many ways, this should be no more than a formalization.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 417,
+    "key": "GER_tackle_the_communist_threat",
+    "val": "Tackle the [GER.GetTackleCommunistThreatName] Threat",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 418,
+    "key": "GER_tackle_the_communist_threat_desc",
+    "val": "As long as [SOV.GetNameDef] exists, it will be a threat to us. Rather than waiting for them to strike, we shall take the initiative in our own hands.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 419,
+    "key": "SOV_TACKLE_COMMUNIST_THREAT_NAME_COMMUNIST",
+    "val": "Communist",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 420,
+    "key": "SOV_TACKLE_COMMUNIST_THREAT_NAME_EXILES",
+    "val": "Eastern",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 421,
+    "key": "GER_the_iberian_problem",
+    "val": "The Iberian Problem",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 422,
+    "key": "GER_the_iberian_problem_desc",
+    "val": "Bastions of communism still remain. We must ensure all are rooted out, beginning with communist Spain.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 423,
+    "key": "GER_spain_wargoal_tt",
+    "val": "Gains §YAnnex§! war goal against §YRepublican Spain§!.\\n",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 424,
+    "key": "GER_reestablish_free_elections",
+    "val": "Re-establish Free Elections",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 425,
+    "key": "GER_reestablish_free_elections_desc",
+    "val": "We will make a return to democratic ideals, by re-instating free elections, to be held at a point in the near future.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 426,
+    "key": "GER_the_monarchy_compromise",
+    "val": "The Monarchy Compromise",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 427,
+    "key": "GER_the_monarchy_compromise_desc",
+    "val": "The military that fought for our freedom from Nazi tyranny have clear royalist leanings. To ensure their satisfaction with the path the nation is taking, we must make a compromise and allow the return of the monarchy.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 428,
+    "key": "GER_the_great_red_menace",
+    "val": "The Great [GER.GetGreatRedMenaceName] Menace",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 429,
+    "key": "GER_the_great_red_menace_desc",
+    "val": "Our actions in the previous war are still in recent memory with many. We must refocus the fears of the continent on the true danger: the great [GER.GetGreatRedMenaceDesc] that looms in the East. We will begin a massive propaganda campaign to open the eyes of the continent.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 430,
+    "key": "SOV_GREAT_RED_MENACE_NAME_COMMUNIST",
+    "val": "Red",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 431,
+    "key": "SOV_GREAT_RED_MENACE_NAME_EXILES",
+    "val": "Eastern",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 432,
+    "key": "SOV_GREAT_RED_MENACE_DESC_COMMUNIST",
+    "val": "communist threat",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 433,
+    "key": "SOV_GREAT_RED_MENACE_DESC_EXILES",
+    "val": "threat of Russian imperialism",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 434,
+    "key": "GER_central_european_alliance",
+    "val": "Central European Alliance",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 435,
+    "key": "GER_central_european_alliance_desc",
+    "val": "Now that we have focused the attention of the continent on the problem, we must offer the solution: we will lead an alliance for all minor nations in Europe, which will ensure protection against this most lethal threat to our way of life.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 436,
+    "key": "GER_central_european_alliance_tt",
+    "val": "If not in a faction:\\n",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 437,
+    "key": "GER_danubian_membership",
+    "val": "Danubian Membership",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 438,
+    "key": "GER_danubian_membership_desc",
+    "val": "The Danubian successor nations to the Austro-Hungarian Empire have not forgotten what it means to be our ally. We shall offer them membership and protection against the threat of [GER.GetDanubianMembershipDesc].",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 439,
+    "key": "SOV_DANUBIAN_MEMBERSHIP_DESC_COMMUNIST",
+    "val": "communism",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 440,
+    "key": "SOV_DANUBIAN_MEMBERSHIP_DESC_EXILES",
+    "val": "eastern aggression",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 441,
+    "key": "GER_danubian_expansion",
+    "val": "Danubian Expansion",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 442,
+    "key": "GER_danubian_expansion_desc",
+    "val": "We must seek to expand our influence to those Balkan nations prone to [SOV.GetAdjective] aggression. We shall offer the remaining nations on the Danube membership and protection against the threat of [GER.GetDanubianMembershipDesc].",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 443,
+    "key": "invite_non_fascist_communist_only_TT",
+    "val": "Requires potential member states to not be fascist or communist and not being in a faction already.\\n",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 444,
+    "key": "GER_no_balkan_communism",
+    "val": "No Balkan Communism",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 445,
+    "key": "GER_no_balkan_communism_desc",
+    "val": "Communist influences have crept into the Balkans, which we cannot allow. It must be destroyed before it takes root.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 446,
+    "key": "GER_no_balkan_communism_tt",
+    "val": "Gains §YTopple Government§! war goals against communist nations in the Balkans.\\n",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 447,
+    "key": "GER_no_balkan_communism_HUN_tt",
+    "val": "Gains §YTopple Government§! war goal against §YHungarian People's Republic§!.\\n",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 448,
+    "key": "GER_no_balkan_communism_ROM_tt",
+    "val": "Gains §YTopple Government§! war goal against §YRomanian People's Republic§!.\\n",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 449,
+    "key": "GER_no_balkan_communism_YUG_tt",
+    "val": "Gains §YTopple Government§! war goal against §YSFR Yugoslavia§!.\\n",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 450,
+    "key": "GER_no_balkan_communism_BUL_tt",
+    "val": "Gains §YTopple Government§! war goal against §YSocialist Republic of Bulgaria§!.\\n",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 451,
+    "key": "GER_low_countries_membership",
+    "val": "Low Countries Membership",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 452,
+    "key": "GER_low_countries_membership_desc",
+    "val": "Though far removed from the Eastern borders of Europe, the Low Countries nevertheless know that if Central Europe falls, they shall be next. We shall offer them membership so that they may stand with us against the threat of communism.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 453,
+    "key": "GER_no_reds_in_western_europe",
+    "val": "No Reds in Western Europe",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 454,
+    "key": "GER_no_reds_in_western_europe_desc",
+    "val": "Communist influences have crept into Western Europe, which we cannot allow. It must be destroyed before it takes root.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 455,
+    "key": "GER_no_reds_in_western_europe_tt",
+    "val": "Gains §YTopple Government§! war goals against communist nations in the Low Countries and France.\\n",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 456,
+    "key": "GER_no_reds_in_western_europe_FRA_tt",
+    "val": "Gains §YTopple Government§! war goal against §YFrench Commune§!.\\n",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 457,
+    "key": "GER_no_reds_in_western_europe_HOL_tt",
+    "val": "Gains §YTopple Government§! war goal against §YPeople's United Provinces§!.\\n",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 458,
+    "key": "GER_no_reds_in_western_europe_BEL_tt",
+    "val": "Gains §YTopple Government§! war goal against §YCo-operative of Belgium§!.\\n",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 459,
+    "key": "GER_no_reds_in_western_europe_LUX_tt",
+    "val": "Gains §YTopple Government§! war goal against §YRosa Luxembourg§!.\\n",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 460,
+    "key": "GER_scandinavian_membership",
+    "val": "Scandinavian Membership",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 461,
+    "key": "GER_scandinavian_membership_desc",
+    "val": "Mountains and the cold are no protection against the [GER.GetGreatRedMenaceName] Menace, and the Scandinavians must know this. We shall offer them membership and protection against the threat of [GER.GetDanubianMembershipDesc].",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 462,
+    "key": "GER_baltic_membership",
+    "val": "Baltic Membership",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 463,
+    "key": "GER_baltic_membership_desc",
+    "val": "For two decades, the Baltics have lived under the mortal dual dangers of re-annexation and [GER.GetBalticMembershipDesc]. We shall offer them membership and protection against the threat of [GER.GetDanubianMembershipDesc].",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 464,
+    "key": "SOV_BALTIC_MEMBERSHIP_DESC_COMMUNIST",
+    "val": "communism",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 465,
+    "key": "SOV_BALTIC_MEMBERSHIP_DESC_EXILES",
+    "val": "[SOV.GetAdjective] imperialism",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 466,
+    "key": "GER_polish_membership",
+    "val": "Polish Membership",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 467,
+    "key": "GER_polish_membership_desc",
+    "val": "The Poles have much to distrust all neighbors for, but they know the greatest threat emanates from the East. We shall offer them membership and protection against the threat of [GER.GetDanubianMembershipDesc].",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 468,
+    "key": "GER_finnish_membership",
+    "val": "Finnish Membership",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 469,
+    "key": "GER_finnish_membership_desc",
+    "val": "Far removed from the center of Europe, the Finns risk facing the [GER.GetFinnishMembershipDesc] alone. But they need not to. We shall offer them membership and protection against the threat of [GER.GetDanubianMembershipDesc].",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 470,
+    "key": "SOV_FINNISH_MEMBERSHIP_DESC_COMMUNIST",
+    "val": "Reds",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 471,
+    "key": "SOV_FINNISH_MEMBERSHIP_DESC_EXILES",
+    "val": "Russians",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 472,
+    "key": "GER_strike_at_the_source",
+    "val": "Strike at the Source",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 473,
+    "key": "GER_strike_at_the_source_desc",
+    "val": "A life lived in fear is no life at all; we must end this threat to our way of life once and for all. The source of [GER.GetStrikeAtTheSourceDesc] in Europe must be destroyed.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 474,
+    "key": "GER_swedish_trade_agreement",
+    "val": "German-Swedish Trade Agreement",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 475,
+    "key": "GER_swedish_trade_agreement_desc",
+    "val": "Our steel is of poor grade, and to fuel our war-machine we need the best material. Luckily [SWE.GetName] in the north is an ideal partner; available high-grade resources, neutral and unlikely to put too much of a fuzz when our future plans materialize.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 476,
+    "key": "SOV_STRIKE_AT_THE_SOURCE_DESC_COMMUNIST",
+    "val": "communist influence",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 477,
+    "key": "SOV_STRIKE_AT_THE_SOURCE_DESC_EXILES",
+    "val": "Russian imperialism",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 478,
+    "key": "GER_reverse_the_brain_drain",
+    "val": "Reverse the Brain Drain",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 479,
+    "key": "GER_reverse_the_brain_drain_desc",
+    "val": "Now that the oppressors and authoritarian regimes have been vanquished, we can attempt making it attractive for those scientists who fled the country to return and once more work in their homeland.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 480,
+    "key": "GER_shared_rd_programs",
+    "val": "Shared R&D Programs",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 481,
+    "key": "GER_shared_rd_programs_desc",
+    "val": "For the good of our cause, we must pool our scientific knowledge, and share our technological advances with our new allies.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 482,
+    "key": "GER_the_mannheim_project",
+    "val": "The Mannheim Project",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 483,
+    "key": "GER_the_mannheim_project_desc",
+    "val": "With the Heavy Water plants in Norway now under our control, we can redouble our efforts in cracking the secrets of the atom, and looking into weaponizing it against the [GER.GetDanzigGuaranteesBolsheviksDesc].",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 484,
+    "key": "GER_the_mannheim_project_tt",
+    "val": "This focus gives different rewards depending on the current level of Atomic Research:\\n\\n",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 485,
+    "key": "GER_pool_technical_know_how",
+    "val": "Pool Technical Know-How",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 486,
+    "key": "GER_pool_technical_know_how_desc",
+    "val": "Every nation has their own methods of managing industry and maintaining equipment. We can learn from each other by sending technical teams to disseminate this knowledge among the other members of the alliance.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 487,
+    "key": "GER_pool_technical_know_how_tt",
+    "val": "Every §YNation§! in our §YFaction§! will also receive this §YNational Spirit§!.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 488,
+    "key": "ITA_ethiopian_war_logistics",
+    "val": "Ethiopian War Logistics",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 489,
+    "key": "ITA_ethiopian_war_logistics_desc",
+    "val": "We might have misjudged the logistics situation for our glorious conquest of Ethiopia. We must make it our primary goal to provide our brave troops with the necessary supplies.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 490,
+    "key": "ITA_fortification_effort",
+    "val": "Fortification Effort",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 491,
+    "key": "ITA_fortification_effort_desc",
+    "val": "We must defend our shores and borders against aggression by the fading and decadent imperial powers France and Britain.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 492,
+    "key": "ITA_fortification_effort_forts",
+    "val": "Add §Y15 Land Forts§! on the French border.\\n",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 493,
+    "key": "ITA_army_primacy",
+    "val": "Army Primacy",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 494,
+    "key": "ITA_army_primacy_desc",
+    "val": "Industrially, Italy is still lagging behind the decadent colonial empires. We must choose whether to prioritize the army or the navy. The choice seems obvious; like the ancient Roman Empire depended on its legions, so must the new Italian Empire!",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 495,
+    "key": "ITA_modernized_artillery",
+    "val": "Modernized Artillery",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 496,
+    "key": "ITA_modernized_artillery_desc",
+    "val": "The Regio Esercito is, in theory, one of the largest armies in the world. Unfortunately, there is no way we can equip all those men properly. Worst of all, most of our artillery is from 1918!",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 497,
+    "key": "ITA_modernized_army",
+    "val": "Modernized Army",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 498,
+    "key": "ITA_modernized_army_desc",
+    "val": "Better artillery will increase our fighting efficiency greatly, but we also have need of new tactics and doctrines.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 499,
+    "key": "ITA_armored_effort",
+    "val": "Armored Effort",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 500,
+    "key": "ITA_armored_effort_desc",
+    "val": "Fighting in Ethiopia is well and good, but our tanks are simply not up to the standard needed to fight against the decadent - though still powerful - plutodemocracies of Europe.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 501,
+    "key": "ITA_mare_nostrum",
+    "val": "Mare Nostrum",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 502,
+    "key": "ITA_mare_nostrum_desc",
+    "val": "Our resources are limited and we must make some painful choices, but the British Empire has us caged in the Mediterranean. Breaking out will require a navy to rival even theirs...",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 503,
+    "key": "ITA_carrier_effort",
+    "val": "Carrier Effort",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 504,
+    "key": "ITA_carrier_effort_desc",
+    "val": "Modern battle fleets will be centered on aircraft carriers, not battleships. The supremacy of air power over ships was demonstrated by the Americans back in 1921!",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 505,
+    "key": "ITA_capital_ships",
+    "val": "Capital Ship Effort",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 506,
+    "key": "ITA_capital_ships_desc",
+    "val": "The nation with the most battleships will rule the oceans. We must not allow the Royal Navy to outgun us in the Mediterranean...",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 507,
+    "key": "ITA_bomber_effort",
+    "val": "Bomber Effort",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 508,
+    "key": "ITA_bomber_effort_desc",
+    "val": "The era is past when armies could win wars without looking to the skies. We must develop our tactical bombers to provide our soldiers with the air support they need.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 509,
+    "key": "ITA_atlantic_fleet",
+    "val": "Atlantic Fleet",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 510,
+    "key": "ITA_atlantic_fleet_desc",
+    "val": "Once we have broken out of the British cage, we will need to project our power across the oceans. This must be our first priority.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 511,
+    "key": "ITA_marines_and_landing_craft",
+    "val": "Marines and Landing Craft",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 512,
+    "key": "ITA_marines_and_landing_craft_desc",
+    "val": "Wars are not won by naval power alone; we must also be able to transport our armies across the waves and put them ashore safely...",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 513,
+    "key": "ITA_jet_engine_effort",
+    "val": "Jet Engine Effort",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 514,
+    "key": "ITA_jet_engine_effort_desc",
+    "val": "Italy should be at the forefront of jet engine development thanks to the brilliant work of Secondo Campini. We should give him all the resources he needs to further improve his designs for the Regio Aeronautica.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 515,
+    "key": "ITA_light_ship_effort",
+    "val": "Light Ship Effort",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 516,
+    "key": "ITA_light_ship_effort_desc",
+    "val": "The convoys to our overseas territories need protection. We need to develop new doctrines as well as more modern destroyers.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 517,
+    "key": "ITA_escort_effort",
+    "val": "Escort Effort",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 518,
+    "key": "ITA_escort_effort_desc",
+    "val": "We should make further efforts to protect our vulnerable convoys in the Mediterranean.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 519,
+    "key": "ITA_sea_wolves",
+    "val": "Sea Wolves",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 520,
+    "key": "ITA_sea_wolves_desc",
+    "val": "Our German allies have developed terrifyingly efficient submarines and the 'wolf pack' doctrines to employ them. We should learn from them.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 521,
+    "key": "ITA_slovenia_dalmatia_claims",
+    "val": "Claims on Yugoslavia",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 522,
+    "key": "ITA_slovenia_dalmatia_claims_desc",
+    "val": "There is still a significant Italian population in Yugoslavia, dating back to the glory days of Venice at least. Restoring these regions to Italian rule is an important step towards recreating the Roman Empire!",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 523,
+    "key": "ITA_slovenia_dalmatia_claims_threat",
+    "val": "Italian Claims on Yugoslavia",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 524,
+    "key": "ITA_yugoslavia_friend",
+    "val": "Befriend Yugoslavia",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 525,
+    "key": "ITA_yugoslavia_friend_desc",
+    "val": "Rather than antagonizing Yugoslavia now, we can put off its eventual conquest until a more opportune time. Instead, we could befriend the regime and bring the country into our sphere of influence.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 526,
+    "key": "ITA_support_nationalist_spain",
+    "val": "Support Nationalist Spain",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 527,
+    "key": "ITA_support_nationalist_spain_desc",
+    "val": "Spain is in the midst of a civil war which will determine whether it will be a future possible fascist ally or remain a useless republic - or worse yet, fall to communism or anarchy. We must provide support to the true Spaniards before it is too late!",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 528,
+    "key": "ITA_demand_balearic_islands",
+    "val": "Demand Balearic Islands",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 529,
+    "key": "ITA_demand_balearic_islands_desc",
+    "val": "Having proven our support for Franco's new regime, we are in a position to request one of the important territories we fought to defend, the Balearic Islands, be ceded to Italy to strengthen our strategic hold of the Mediterranean.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 530,
+    "key": "ITA_bulgaria_friend",
+    "val": "Befriend Bulgaria",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 531,
+    "key": "ITA_bulgaria_friend_desc",
+    "val": "Bulgaria is in our sphere of influence. Their secure alignment with Italy is key to our Balkan ambitions.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 532,
+    "key": "ITA_albania_war_goal",
+    "val": "Albanian Occupation",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 533,
+    "key": "ITA_albania_war_goal_desc",
+    "val": "Albania paints an easy target for our troops to occupy. We are unlikely to be met with much resistance. We must show the world the might of Italy and restore the glory of the Roman Empire!",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 534,
+    "key": "ITA_pact_of_steel",
+    "val": "Pact of Steel",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 535,
+    "key": "ITA_pact_of_steel_desc",
+    "val": "Our relationship with Nazi Germany is troubled by ideological differences and conflicting aims; Il Duce is extremely wary of German ambitions in Austria and the Balkans. However, realities do change...",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 536,
+    "key": "ITA_germ_italy_same_tt",
+    "val": "§YItaly§! and §YGermany§! are the same §YIdeology§!.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 537,
+    "key": "ITA_german_millitary_cooperation",
+    "val": "German Military Cooperation",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 538,
+    "key": "ITA_german_millitary_cooperation_desc",
+    "val": "Through tight cooperation with the powerful German military we can combine the best part of German efficiency and Italian innovation. We will have a strategic advantage over anyone who dares face us.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 539,
+    "key": "ITA_claims_on_france",
+    "val": "Claims On France",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 540,
+    "key": "ITA_claims_on_france_desc",
+    "val": "Take land from Vichy France. With the German Conquest of Paris and a new government formed in France, it is time for us to claim our rightful piece of Southern Europe. Germany has expanded heavily in the north, and it is only fair that we are granted a slice of our own.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 541,
+    "key": "ITA_claims_on_france_tt",
+    "val": "§YVichy France§! exists and controls §YSavoy§! and §YCorsica§!",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 542,
+    "key": "ITA_go_after_france",
+    "val": "Go After France",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 543,
+    "key": "ITA_go_after_france_desc",
+    "val": "France... yet another reactionary democracy of the west who, at every moment seeks to hinder the advance and have often endangered the very existence of the Italian people. We go to battle for the good of Italy and the future of the Empire.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 544,
+    "key": "ITA_claims_on_turkey",
+    "val": "Claims On Turkey",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 545,
+    "key": "ITA_claims_on_turkey_desc",
+    "val": "The 1915 treaty of London promised Italy Turkish lands in Anatolia in exchange for the Western powers gains in the Levant. They took their due, claiming that they were merely League of Nations mandates, while Italy was denied. The new Italy is much stronger than the old and we will force the Turks to keep the British promises.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 546,
+    "key": "ITA_italy_first",
+    "val": "Italy First",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 547,
+    "key": "ITA_italy_first_desc",
+    "val": "Our glorious Duce will never play second fiddle to Hitler! We must heed the lessons of the Roman Empire; Teutonic interference in Italian affairs never ends well...",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 548,
+    "key": "ITA_romania_friend",
+    "val": "Befriend Romania",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 549,
+    "key": "ITA_romania_friend_desc",
+    "val": "It would be in our best interest to bring our distant kindred in Romania into our sphere of influence. Il Duce sees great potential in their 'Iron Guard'.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 550,
+    "key": "ITA_german_rd_treaty",
+    "val": "Treaty with Germany",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 551,
+    "key": "ITA_german_rd_treaty_desc",
+    "val": "We should ask the Germans to exchange technological secrets for the benefit of both of our great nations.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 552,
+    "key": "ITA_spanish_italian_faction",
+    "val": "Spanish-Italian Alliance",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 553,
+    "key": "ITA_spanish_italian_faction_desc",
+    "val": "Franco and the Spanish nationalists are our natural allies, united by religion, culture and ideology. Together, we could seize Gibraltar and make life very difficult for the Royal Navy...",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 554,
+    "key": "ITA_italian_highways",
+    "val": "Italian Highways",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 555,
+    "key": "ITA_italian_highways_desc",
+    "val": "We need to expand our infrastructure to ensure easy mobility of troops throughout our empire. With enemies at every corner of the world this is a crucial part of being able to defend all Italian soil.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 556,
+    "key": "ITA_libyan_infrastructure",
+    "val": "Libyan Infrastructure",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 557,
+    "key": "ITA_libyan_infrastructure_desc",
+    "val": "Our vast lands in Northern Africa still lack behind the remainder of our empire in terms of infrastructure. We should focus our efforts on bringing them up to par.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 558,
+    "key": "ITA_greece_war_goal",
+    "val": "War with Greece",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 559,
+    "key": "ITA_greece_war_goal_desc",
+    "val": "What kind of Roman Empire are we restoring if we do not include Greece? It should be an easy target...",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 560,
+    "key": "ITA_greece_friend",
+    "val": "Befriend Greece",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 561,
+    "key": "ITA_greece_friend_desc",
+    "val": "The Greeks are a fellow ancient people and the cradle of Western civilization. It should not be impossible to align their aims with ours...",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 562,
+    "key": "ITA_turkey_friend",
+    "val": "Befriend Turkey",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 563,
+    "key": "ITA_turkey_friend_desc",
+    "val": "The Turks have no reason to love us after the Italian-Turkish war and the Great War. However, Realpolitik takes precedence over old gripes, and the current situation in the Mediterranean could bring our two stars into alignment.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 564,
+    "key": "ITA_portugal_friend",
+    "val": "Befriend Portugal",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 565,
+    "key": "ITA_portugal_friend_desc",
+    "val": "Portugal is, along with Spain, natural allies of the Italian people. We must strengthen these bonds of friendship.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 566,
+    "key": "ITA_anti_uk_war_goals",
+    "val": "War with the UK",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 567,
+    "key": "ITA_anti_uk_war_goals_desc",
+    "val": "The decaying British Empire has us caged in the Mediterranean and will never voluntarily give us the keys. We must strike at the English as soon as the time is right!",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 568,
+    "key": "ITA_japan_friend",
+    "val": "Befriend Japan",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 569,
+    "key": "ITA_japan_friend_desc",
+    "val": "The Japanese are much like us; a young, hungry power with a positive demography, held ransom by trade from waning plutodemocracies like the UK and the Netherlands. We should unite with them to form a vibrant Naval Axis across the oceans!",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 570,
+    "key": "soviet_focus",
+    "val": "Soviet National Focus",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 573,
+    "key": "SOV_move_industry_to_urals",
+    "val": "Move Industry To the Urals",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 574,
+    "key": "SOV_move_industry_to_urals_desc",
+    "val": "The backstabbing Hitlerists must not be allowed to seize our precious factories in the western part of the USSR. With supreme effort and sacrifice, we should be able to quickly move the most valuable heavy equipment and facilities to Chelyabinsk and other locations in the Urals.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 575,
+    "key": "SOV_defense_of_moscow",
+    "val": "Defense of Moscow",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 576,
+    "key": "SOV_defense_of_moscow_desc",
+    "val": "The Fascists are knocking at the gates of the capital! Moscow must not be allowed to fall at any cost. Mobilize everyone, from children to old people to hastily erect what defenses we can!",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 577,
+    "key": "SOV_defense_of_moscow_forts",
+    "val": "Add §Y28 Land Forts§! in and around Moscow.\\n",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 578,
+    "key": "SOV_infrastructure_effort",
+    "val": "Infrastructure Effort",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 579,
+    "key": "SOV_infrastructure_effort_desc",
+    "val": "[ROOT.GetNameDefCap] is vast but mostly empty. We must ensure the ability to transport goods and equipment across the width of the country quickly.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 580,
+    "key": "SOV_tranformation_of_nature",
+    "val": "Transformation of Nature",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 581,
+    "key": "SOV_tranformation_of_nature_desc",
+    "val": "Stalin's Great Plan for the Transformation of Nature must be put into action. The environment must be shaped and molded on a massive scale to work in the People's favor.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 582,
+    "key": "SOV_stalin_constitution",
+    "val": "Stalin Constitution",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 583,
+    "key": "SOV_stalin_constitution_desc",
+    "val": "It is time to update our old constitution and impress the world with the rights enjoyed by the workers and peasants of the Soviet Union!",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 586,
+    "key": "SOV_militarized_schools",
+    "val": "Militarized Schools",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 587,
+    "key": "SOV_militarized_schools_desc",
+    "val": "Soviet children should be inculcated in military discipline and Socialist virtues like self-sacrifice and solidarity. Young minds are more easily molded.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 588,
+    "key": "SOV_workers_culture",
+    "val": "Workers' Culture",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 589,
+    "key": "SOV_workers_culture_desc",
+    "val": "Socialism is not just an economic system and Marxism is not just a science; we must transform the very fabric of Soviet society to extirpate all remnants of bourgeois mores and traditions.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 590,
+    "key": "SOV_new_soviet_man",
+    "val": "New Soviet Man",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 591,
+    "key": "SOV_new_soviet_man_desc",
+    "val": "The New Soviet Man is selfless, learned, disciplined and healthy; a living triumph over base instincts and false consciousness. Men will gladly lay down their lives for the good of all, and women will bear many children for the future of Soviet society.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 594,
+    "key": "SOV_progress_cult",
+    "val": "Progress Cult",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 595,
+    "key": "SOV_progress_cult_desc",
+    "val": "We should celebrate the innovations of outstanding Soviet scientists and encourage the correct kind of free thinking. The USSR will always be ahead of the decadent West when it comes to daring new fields of science; just look at the brilliant work of comrade Lysenko!",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 596,
+    "key": "SOV_socialist_science",
+    "val": "Socialist Science",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 597,
+    "key": "SOV_socialist_science_desc",
+    "val": "The world, like the mind, is in constant motion. Nature is in a state of constant progress; revolution even. The principles of dialectical materialism can be applied to the natural sciences as well as the social...",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 598,
+    "key": "SOV_aviation_cult",
+    "val": "Aviation Cult",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 599,
+    "key": "SOV_aviation_cult_desc",
+    "val": "The Soviet Union will impress the world with astounding feats of aviation. Our heroic pilots are the knights of Bolshevik culture and progress, demonstrating our technological mastery over nature. How far we have come since the days of the Tsar!",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 600,
+    "key": "SOV_women_pilots",
+    "val": "Women in Aviation",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 601,
+    "key": "SOV_women_pilots_desc",
+    "val": "Comrade Raskova, our heroic long distance aviator, should be allowed to form some all-female air regiments through her Aviation Group 122 program.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 602,
+    "key": "SOV_night_witches_tt",
+    "val": "The 588. Night Bomber Regiment becomes active in Moscow.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 605,
+    "key": "SOV_improve_railway_network",
+    "val": "Improve Railway Network",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 606,
+    "key": "SOV_improve_railway_network_desc",
+    "val": "Our First Five year plan proved to be too successful. The massive expansion in heavy industry has left the Soviet Union in a much stronger position to defend herself but the soviet railway network has hit some critical bottlenecks. The People's Commissariat of Railways (NKPS) has an ambitious plan to close these bottlenecks and ensure that we can defend the motherland.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 607,
+    "key": "SOV_transpolar_flights",
+    "val": "Transpolar Flights",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 608,
+    "key": "SOV_transpolar_flights_desc",
+    "val": "Our bravest pilots are just beginning to prove that daring routes across the arctic are possible. By using unexpected shortcuts like these in our planning of aerial warfare, we will be able to surprise the enemy.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 609,
+    "key": "SOV_ocean_going_navy",
+    "val": "An Oceangoing Navy",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 610,
+    "key": "SOV_ocean_going_navy_desc",
+    "val": "Although the Union encompasses a greater land area than any nation on the planet, the oceans of the world are yet to be ruled by our ships. Heavily armored battleships will be a part of our future ocean going fleet.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 611,
+    "key": "SOV_peoples_commissariat",
+    "val": "Found the PCDI",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 612,
+    "key": "SOV_peoples_commissariat_desc",
+    "val": "The People's Commissariat of Defense Industry of the USSR will be a heavy industry ministry focusing on our military industrial projects. In the long term, the work load may require further divisions of the ministry.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 613,
+    "key": "SOV_anti_fascist_diplomacy",
+    "val": "Anti-Fascist Diplomacy",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 614,
+    "key": "SOV_anti_fascist_diplomacy_desc",
+    "val": "Though all Western regimes are repressive and corrupt, there are none worse than those who pretend to be progressive; or even Socialist! By promoting such false consciousness among the proletariat, they are attempting to delay the Revolution and keep the workers in perpetual bondage.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 615,
+    "key": "SOV_operation_zet",
+    "val": "Operation Zet",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 616,
+    "key": "SOV_operation_zet_desc",
+    "val": "Though the Kuomintang is reactionary, it seems unlikely that Mao and his brand of communism will prevail in China. We should strive to improve relations with Chiang; the ridiculously anachronistic Empire of Japan is bound to collapse soon anyway.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 617,
+    "key": "SOV_annex_tannu_tuva",
+    "val": "Annex Tannu Tuva",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 618,
+    "key": "SOV_annex_tannu_tuva_desc",
+    "val": "While it hardly matters economically, for political reasons we should formally annex the People's Republic of Tannu Tuva as an autonomous oblast within the Soviet Union.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 619,
+    "key": "SOV_improve_stalin_line",
+    "val": "Improve the Stalin Line",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 620,
+    "key": "SOV_improve_stalin_line_desc",
+    "val": "Our western border must be better protected from fascist aggression. The Stalin Line should be extended and modernized.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 623,
+    "key": "SOV_far_east_fortification_forts_1",
+    "val": "Add §Y6 Land Forts§! on the Japanese border.\\n",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 624,
+    "key": "SOV_far_east_fortification_forts_2",
+    "val": "Add §Y8 Land Forts§! on the Japanese border.\\n",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 625,
+    "key": "SOV_far_east_fortification_forts_3",
+    "val": "Add §Y4 Land Forts§! on the Japanese border.\\n",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 626,
+    "key": "SOV_xian_incident",
+    "val": "Xi'an Incident",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 627,
+    "key": "SOV_xian_incident_desc",
+    "val": "Through our contacts with prominent Kuomintang officials, we should be able to abduct Chiang Kai-Shek and force him to share power with Mao, effectively putting an end to their destructive quarrel so that China can better resist the predations of Japan.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 628,
+    "key": "SOV_xian_incident_tt",
+    "val": "If both parties agree, will force a truce between Nationalist and Communist China.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 629,
+    "key": "SOV_anti_capitalist_diplomacy",
+    "val": "Anti-Capitalist Diplomacy",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 630,
+    "key": "SOV_anti_capitalist_diplomacy_desc",
+    "val": "The worst obstacles to global revolution are, without a doubt, the fat bankers of the USA and the ruthless colonialist oppressors of the United Kingdom. It must always be our primary aim to slap their grasping hands and undermine their liberalist propaganda.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 631,
+    "key": "SOV_expand_red_fleet",
+    "val": "Expand the Red Fleet",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 632,
+    "key": "SOV_expand_red_fleet_desc",
+    "val": "The Red Fleet is pathetically weak compared to the navies of the imperialist powers. We must make its expansion a national priority!",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 633,
+    "key": "SOV_anti_colonialist_rebels",
+    "val": "The Comintern",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 634,
+    "key": "SOV_anti_colonialist_rebels_desc",
+    "val": "With the capitalist system entering its period of final collapse, the correct stance for all Communist parties must be a highly aggressive, militant, ultra-left line. In particular, we urge the Communist parties of the world to devote their energies to the destruction of the moderate left.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 635,
+    "key": "SOV_southern_thrust",
+    "val": "Southern Thrust",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 636,
+    "key": "SOV_southern_thrust_desc",
+    "val": "Annexing Iran and Iraq would both secure their vast oil reserves for the Revolution and put direct pressure on the British imperialists in Egypt and India.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 639,
+    "key": "SOV_claim_on_sinkiang",
+    "val": "Claim Sinkiang",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 640,
+    "key": "SOV_claim_on_sinkiang_desc",
+    "val": "Under Comrade Sheng Shicai's rule, Sinkiang is already a virtual Soviet puppet state. We should make it official...",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 641,
+    "key": "SOV_claim_on_sinkiang_threat",
+    "val": "Soviet Claimed Sinkiang",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 642,
+    "key": "SOV_pan_slavic_rhetoric",
+    "val": "Pan-Slavic Rhetoric",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 643,
+    "key": "SOV_pan_slavic_rhetoric_desc",
+    "val": "Comrade Lenin went too far in his abandonment of a Russian, Slavic identity in his pursuit of World Revolution. A certain degree of nationalism should serve us well, and a revival of a kind of Pan-Slavism might help bring us closer to the other Slavic nations.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 644,
+    "key": "SOV_claims_on_baltic",
+    "val": "Claims in Baltic",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 645,
+    "key": "SOV_claims_on_baltic_desc",
+    "val": "Peter the Great was right in seeking access to ports in the west. The Baltic States, which were lost after the revolution, should be reintegrated into the Soviet Union.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 646,
+    "key": "SOV_claim_bessarabia",
+    "val": "Claim on Bessarabia",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 647,
+    "key": "SOV_claim_bessarabia_desc",
+    "val": "The Black Sea is even more important to our economy than the Baltic. We must do everything we can to secure control of the Bosphorus and the Dardanelles.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 648,
+    "key": "SOV_claims_on_turkey",
+    "val": "Claims on Turkey",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 649,
+    "key": "SOV_claims_on_turkey_desc",
+    "val": "The Turks have not just consistently refused our demands for mutual control of the Bosphorus straits, they also refuse to discuss any border adjustments in the east. Perhaps it is time to teach them a lesson!",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 658,
+    "key": "SOV_offer_poland_protection_tt",
+    "val": "§YPoland will be given states claimed through this agreement in the event of Soviet conquest.§!\\n",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 659,
+    "key": "SOV_great_purge",
+    "val": "The Great Purge",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 660,
+    "key": "SOV_great_purge_bypass_tt",
+    "val": "Trotsky becomes the leader of The Soviet Union",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 661,
+    "key": "SOV_great_purge_desc",
+    "val": "There is a dangerous Trotskyist plot brewing among the officers; even in the highest ranks. Though Trotsky's personal involvement remains unknown, the threat is great. The USSR could even be thrown into another civil war... unless we are prepared to break some eggs.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 662,
+    "key": "SOV_great_purge_tt",
+    "val": "A series of §Yshow trials§! will be held to purge suspected Trotskyite ministers and leaders.\\n",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 663,
+    "key": "SOV_great_purge_tt2",
+    "val": "The number of purges completed will affect the likelihood of renewed §Ycivil war§! and scale the effect from §HOfficers Purged§!.\\nNot picking this focus will lead to §Ycivil war§! and the potential return of §YLev Trotsky§! from exile.\\n\\n",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 664,
+    "key": "SOV_permanent_revolution",
+    "val": "Permanent Revolution",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 665,
+    "key": "SOV_permanent_revolution_tt",
+    "val": "Trotsky has returned",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 666,
+    "key": "SOV_permanent_revolution_tt2",
+    "val": "§YTrotsky§! gains a better leader trait.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 667,
+    "key": "SOV_permanent_revolution_desc",
+    "val": "The oppressive demagogue is gone! True power has been restored to the people of our nation. All are now able to pursue their interests independently and without compromise. We are forever changing. The permanent revolution is a triumphant revolution.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 674,
+    "key": "SOV_nkvd_divisions",
+    "val": "NKVD Divisions",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 675,
+    "key": "SOV_nkvd_divisions_desc",
+    "val": "The NKVD should be given some divisions of its own to act as Internal Troops, protecting railways and important installations.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 680,
+    "key": "SOV_smersh_tt",
+    "val": "§YNullifies the risk of a coup.§!\\n",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 681,
+    "key": "SOV_partisan_suppression",
+    "val": "Partisan Suppression",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 682,
+    "key": "SOV_partisan_suppression_desc",
+    "val": "SMERSH should be expanded to better be able to infiltrate and ruthlessly suppress all forms of partisan activity in occupied territory.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 683,
+    "key": "SOV_war_with_germany",
+    "val": "War With Germany",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 684,
+    "key": "SOV_war_with_germany_desc",
+    "val": "The German threat continues to grow. We can and must destroy the German army and make them bow to their new overlords.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 685,
+    "key": "SOV_war_with_germany_tt",
+    "val": "Molotov Ribbentrop Pact not in effect",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 686,
+    "key": "SOV_war_with_japan",
+    "val": "War With Japan",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 687,
+    "key": "SOV_has_not_officers_purged_tt",
+    "val": "Does not have national spirit §YOfficers Purged§!",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 688,
+    "key": "SOV_war_with_japan_desc",
+    "val": "It seems the Japanese have no plans to back down. The only effective deterrent is going to be war. They will regret having resisted our demands when The Red Army tramples them down.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 689,
+    "key": "SOV_war_with_uk",
+    "val": "War With UK",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 690,
+    "key": "SOV_war_with_uk_desc",
+    "val": "The imperialistic British have never had any respect for us. There is no doubt that they will turn to The Soviet Union when they are finished with the rest of the world. There is only one way to prevent their aggressive expansion. War!",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 691,
+    "key": "SOV_claim_on_the_straits",
+    "val": "Claim the Straits",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 692,
+    "key": "SOV_claim_on_the_straits_desc",
+    "val": "The straits leading from The Black Sea to the Aegean Sea is a key strategic point. We cannot allow this territory to be controlled by foreign powers. To ensure relevance of The Red Fleet we need to secure the straits.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 693,
+    "key": "SOV_ultimatum_to_greece",
+    "val": "Ultimatum to Greece",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 694,
+    "key": "SOV_ultimatum_to_greece_desc",
+    "val": "The Aegean Islands is the last strategic piece we need to make sure The Red Fleet can operate freely. The Greeks are pressured from all sides and will most likely give up a little territory to avoid an all-out war.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 695,
+    "key": "SOV_diversify_the_programme",
+    "val": "Diversify the Program",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 696,
+    "key": "SOV_diversify_the_programme_desc",
+    "val": "We have learned much from the last years and progress have been made in fields of traditional warfare. We are a nation of great scientists who have the capacity to uncover methods of war giving tremendous advantages. We must make sure they have the best conditions to work under if we want to see results.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 697,
+    "key": "SOV_research_city_experiment",
+    "val": "Research City Experiment",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 698,
+    "key": "SOV_research_city_experiment_desc",
+    "val": "One of our foremost scientists, Kurchatov, has noted that when breaking up of kernels in a kilogram of uranium, the energy released must be equal to the explosion of 20,000 tons of trotyl. We need to harness this power before our enemies to ensure the survival of the Motherland.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 699,
+    "key": "SOV_closed_city_network",
+    "val": "Closed City Network",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 700,
+    "key": "SOV_closed_city_network_desc",
+    "val": "We should set up closed cities for research that require more space than we have available in our military bases. Restricting access to the cities ensures that our research remains secret, while giving our scientists plenty of space for large scale experiments.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 701,
+    "key": "strike_usa_focus",
+    "val": "Strike the USA!",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 702,
+    "key": "strike_usa_focus_desc",
+    "val": "The perfidious Americans have us at their mercy, controlling our supply of oil and other desperately needed resources. Their industry is vastly superior to ours, so if we strike, we had better strike hard! We cannot hope to win a prolonged war against the USA...",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 703,
+    "key": "chinese_puppet_focus",
+    "val": "Chinese Puppet",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 704,
+    "key": "chinese_puppet_focus_desc",
+    "val": "China has proven that it seeks to avoid war with us. Perhaps their leaders consider the internal divide a greater threat. We could offer them our protection from communists and warlords, as subjects in the Greater East Asia Co-Prosperity Sphere.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 705,
+    "key": "chinese_war_focus",
+    "val": "War with China",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 706,
+    "key": "chinese_war_focus_desc",
+    "val": "The Marco Polo Bridge incident proved that the Chinese are not interested in cooperation. With increasing tension threatening the ensuing ceasefire, war may be the only means to bring the order to the Chinese nation.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 707,
+    "key": "subdue_warlords_focus",
+    "val": "Subdue the Warlords",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 708,
+    "key": "subdue_warlords_focus_desc",
+    "val": "The Chinese have allowed their once proud empire to be shattered, brought to pieces by radicals and military cliques. The Empire of Japan will not stand for such divisions, even of its subjects.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 709,
+    "key": "oust_germans_focus",
+    "val": "Sever Sino-German Ties",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 710,
+    "key": "oust_germans_focus_desc",
+    "val": "German military advisors have been present in China since at least the twenties, providing critical support to the Kuomintang. This can no longer be tolerated. We are within our rights to demand the immediate withdrawal of all German support to the Chinese. It is time for the Germans to choose sides.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 711,
+    "key": "found_own_faction_focus",
+    "val": "Found our Faction",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 712,
+    "key": "found_own_faction_focus_desc",
+    "val": "We have already made efforts towards the creation of the Greater East Asia Co-Prosperity Sphere. To ensure lasting victory, Japan must be strong enough to lead alone, in Asia and beyond.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 713,
+    "key": "axis_leanings_focus",
+    "val": "Axis Leanings",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 714,
+    "key": "axis_leanings_focus_desc",
+    "val": "We have many interests and values in common with the new Germany, which is building a power base in Europe. Joining them as allies would give us a powerful friend distant enough not to rival our rule of Asia.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 715,
+    "key": "subvert_india_focus",
+    "val": "Indian National Army",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 716,
+    "key": "subvert_india_focus_desc",
+    "val": "If Britain judges our efforts to build an empire, we will show them that their own is already crumbling. Indian prisoners of war and expatriates will form the foundation of a movement that can overthrow the British Raj.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 717,
+    "key": "jap_improved_sprit_focus",
+    "val": "Improved National Spirit",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 718,
+    "key": "jap_improved_sprit_focus_desc",
+    "val": "Nationalist pride and support for the war overcomes every subject of the Emperor, driving them to ever-greater heights of devotion!",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 719,
+    "key": "befriend_siam_focus",
+    "val": "Befriend Siam",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 720,
+    "key": "befriend_siam_focus_desc",
+    "val": "Siam has avoided European colonization and is not used to being a subject nation. Instead of subjugating them, we should convince them to cooperate with us for it to stay that way.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 721,
+    "key": "army_primancy_focus",
+    "val": "Army Primacy",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 722,
+    "key": "army_primancy_focus_desc",
+    "val": "Of the two main service arms, it is truly the Army which is the strong right arm of the Empire! Its ability to take and hold ground far outweighs the minor services the Navy can provide. By recognizing this simple, self-evident fact and devoting more resources to the Army the possibilities are limitless.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 723,
+    "key": "JAP_army_primancy_focus_bypass_tt",
+    "val": "Not enough building slots for §YMilitary Factories§! in home area.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 724,
+    "key": "jap_sia_love",
+    "val": "Japanese-Siamese Diplomacy",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 725,
+    "key": "jap_sia_love_desc",
+    "val": "Japan has focused its diplomatic efforts on improving relations with Siam.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 726,
+    "key": "navy_primancy_focus",
+    "val": "Navy Primacy",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 727,
+    "key": "JAP_navy_primancy_focus_bypass_tt",
+    "val": "Not enough building slots for §YNaval Dockyards§! in home area.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 728,
+    "key": "navy_primancy_focus_desc",
+    "val": "Of the two main service arms, it is truly the Navy which is the strong right arm of the Empire! Its ability to control the seas far outweighs the minor services the Army can provide. By recognizing this simple, self-evident fact and devoting more resources to the Navy the possibilities are limitless.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 729,
+    "key": "army_innovations_focus",
+    "val": "Army Innovation",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 730,
+    "key": "army_innovations_focus_desc",
+    "val": "Now that the Army is the recognized premier service of the Empire, it behooves us to devote more resources to the study of Land Doctrines.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 731,
+    "key": "army_air_innovations_focus",
+    "val": "Army Air Innovation",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 732,
+    "key": "army_air_innovations_focus_desc",
+    "val": "The Air force's primary mission must be the support of our vaunted Army!",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 733,
+    "key": "army_motorization_focus",
+    "val": "Army Motorization",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 734,
+    "key": "army_motorization_focus_desc",
+    "val": "A greater focus on motorization will increase the speed at which Infantry can reach the battlefield, in areas with good roads at least.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 735,
+    "key": "air_base_expansion_focus",
+    "val": "Air Base Expansion",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 736,
+    "key": "air_base_expansion_focus_desc",
+    "val": "To better support our Army, the Air force requires larger Air bases.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 737,
+    "key": "armor_innovations_focus",
+    "val": "Armor Innovation",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 738,
+    "key": "armor_innovations_focus_desc",
+    "val": "With our Army ascendant, some Generals have suggested we invest in a number of modern armored vehicles.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 739,
+    "key": "naval_innovations_focus",
+    "val": "Naval Innovations",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 740,
+    "key": "naval_innovations_focus_desc",
+    "val": "Now that the Navy is the recognized premier service of the Empire, it behooves us to devote more resources to the design of new ship classes.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 741,
+    "key": "naval_air_innovations_focus",
+    "val": "Naval Air Innovations",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 742,
+    "key": "naval_air_innovations_focus_desc",
+    "val": "The Air force's primary mission must be the support of our vaunted Navy!",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 743,
+    "key": "convoy_protection_focus",
+    "val": "Convoy Protection",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 744,
+    "key": "convoy_protection_focus_desc",
+    "val": "Although a cowardly and dishonorable tactic, it is possible that enemy nations might target the merchant ships that move supplies and resources around our Empire. We must study how best to protect these ships, should this come to pass.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 745,
+    "key": "advanced_torpedoes_focus",
+    "val": "Advanced Torpedoes",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 746,
+    "key": "advanced_torpedoes_focus_desc",
+    "val": "By using compressed oxygen rather than compressed air in the propulsion systems our torpedoes will be able to travel further and carry a larger warhead than any previous types.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 747,
+    "key": "shbb_focus",
+    "val": "Super-heavy Battleships",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 748,
+    "key": "shbb_focus_desc",
+    "val": "In the short term it is unlikely we can out-build either Britain or the United States in numbers of Battleships, but perhaps we do not need to. Instead, it may be possible to build vastly more powerful Battleships than the Westerners Washington treaty allows them to construct.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 749,
+    "key": "naval_base_focus",
+    "val": "Naval Base Expansion",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 750,
+    "key": "naval_base_focus_desc",
+    "val": "Naval expansion requires more Naval bases.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 751,
+    "key": "carrier_focus",
+    "val": "Carrier Focus",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 752,
+    "key": "carrier_focus_desc",
+    "val": "Japan requires a powerful navy, and the Aircraft Carrier must be the core of our Fleet's strength. The day of the Battleship is at an end, as our enemies will soon discover!",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 753,
+    "key": "battleship_focus",
+    "val": "Battleship Focus",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 754,
+    "key": "battleship_focus_desc",
+    "val": "Japan requires a powerful navy, and the Battleship must be the core of our Fleet's strength. Let other nations waste their wealth on untested Aircraft Carriers, only Battleships can dominate the seas!",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 755,
+    "key": "spiritual_mobilization_focus",
+    "val": "Spiritual Mobilization",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 756,
+    "key": "spiritual_mobilization_focus_desc",
+    "val": "Our entire nation, not only our soldiers, need to be spiritually prepared for war. To this end, nationalists have been brought together in the National Spiritual Mobilization Movement to boost patriotism and support for the government.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 757,
+    "key": "warrior_traditions_focus",
+    "val": "Warrior Traditions",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 758,
+    "key": "warrior_traditions_focus_desc",
+    "val": "Throughout history, Japan has retained a unique set of traditions among the warrior class. These values must be revitalized and treasured by every soldier, regardless of rank.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 759,
+    "key": "divine_wind_focus",
+    "val": "The Divine Wind",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 760,
+    "key": "divine_wind_focus_desc",
+    "val": "Fearlessly facing the prospect of death is expected of any soldier, but our people must go beyond this, preparing to sacrifice themselves with no hope of survival for the glory of the emperor and the nation.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 761,
+    "key": "imperial_glory_focus",
+    "val": "Imperial Glory",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 762,
+    "key": "imperial_glory_focus_effect",
+    "val": "Enables production of §HYokosuka MXY7 Ohka§!",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 763,
+    "key": "imperial_glory_focus_desc",
+    "val": "Kamikaze, the tactics of the Special Attack Unit, have changed suicide attacks from an improvised last measure to an established doctrine. With new planes, essentially manned missiles, these attacks will be unstoppable.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 764,
+    "key": "student_movement_focus",
+    "val": "The Student Movement",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 765,
+    "key": "student_movement_focus_desc",
+    "val": "The Ministry of Education is as important a part of the Spiritual Mobilization as any other, and having educators and students rally behind the nation will build a lasting military-oriented education system.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 766,
+    "key": "extra_tech_focus",
+    "val": "Extra Research",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 767,
+    "key": "synth_oil_focus",
+    "val": "Synthetic Oil Focus",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 768,
+    "key": "synth_oil_focus_desc",
+    "val": "Our own oil production is very limited and importing oil puts us at the mercy of foreign interests. The safest solution would be to perfect our synthetic oil technology.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 769,
+    "key": "JAP_synth_oil_focus_tt",
+    "val": "Idemitsu Kosan available as industry concern",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 770,
+    "key": "secret_weapon_focus",
+    "val": "Advanced Weapons",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 771,
+    "key": "secret_weapon_focus_desc",
+    "val": "As an island Empire we must ever be at the forefront of Naval research, but long-range rocketry cannot hurt either.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 772,
+    "key": "industrial_effort_focus",
+    "val": "Imperial Austerity",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 773,
+    "key": "industrial_effort_focus_desc",
+    "val": "Every subject of the Emperor must sacrifice for the good of the Empire.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 774,
+    "key": "industrial_effort_focus2",
+    "val": "Industrial Effort",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 775,
+    "key": "industrial_effort_focus2_desc",
+    "val": "Japan is newly industrialized, and is not yet as powerful as some Western nations. We must take steps to close the gap between our capabilities.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 776,
+    "key": "infra_effort_focus",
+    "val": "Infrastructure Effort",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 777,
+    "key": "infra_effort_focus_desc",
+    "val": "It has not been easy to build Infrastructure in our mountainous country, nonetheless efforts must continue.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 778,
+    "key": "fortress_japan_focus",
+    "val": "Fortress Japan",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 779,
+    "key": "fortress_japan_focus_desc",
+    "val": "Should our enemies ever overwhelm our Navy, our fortifications will make any attempted invasion cost far more than most nations can afford to pay.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 780,
+    "key": "crypto_bomb_focus",
+    "val": "Cryptologic Bomb",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 781,
+    "key": "crypto_bomb_focus_desc",
+    "val": "The Poles have been developing a brilliant machine they call the 'Cryptologic Bomb' which can break the German Enigma ciphers. We have the resources to develop it further at our Bletchley Park facility.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 782,
+    "key": "tizard_mission_focus",
+    "val": "The Tizard Mission",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 783,
+    "key": "tizard_mission_focus_desc",
+    "val": "We have produced many breakthroughs in technology that we cannot fully exploit ourselves due to our lack of resources and industrial capacity. Henry Tizard would like to head a delegation to negotiate a technology sharing treaty with the USA.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 784,
+    "key": "maud_focus",
+    "val": "The MAUD Committee",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 785,
+    "key": "maud_focus_desc",
+    "val": "The 'Military Application of Uranium Detonation' committee is convinced that it is theoretically possible to construct a bomb of unbelievable power by employing uranium to achieve an uncontrolled nuclear fission reaction. However, we might not be able to develop this technology in time on our own. We should speak with the Americans.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 786,
+    "key": "general_rearmament_focus",
+    "val": "General Rearmament",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 787,
+    "key": "general_rearmament_focus_desc",
+    "val": "[Root.GetGeneralRearmamentDesc]",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 788,
+    "key": "ENG_GENERAL_REARMAMENT_DESC_HISTORICAL",
+    "val": "It is starting to look like another Great War is inevitable. If it isn't Hitler it will be the Mikado, or even the Soviets... Public opinion has swung enough that we can initiate a program of general rearmament.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 789,
+    "key": "ENG_GENERAL_REARMAMENT_DESC_AHISTORICAL",
+    "val": "Our predecessors have neglected our military situation too much. We must initiate a program of general rearmament to resolve the scathing inadequacies of our armed forces.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 790,
+    "key": "air_defense_focus",
+    "val": "Air Defense",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 791,
+    "key": "air_defense_focus_tt",
+    "val": "Add maximum §YAnti-Air§! in §YEast Anglia§!, §YSussex§! and §YSouth-West England§!",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 792,
+    "key": "air_defense_focus_bypass_tt",
+    "val": "Not enough building slots for §YAnti-Air§!",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 793,
+    "key": "air_defense_focus_desc",
+    "val": "There is no question of where the enemy will be coming from; we must protect the coast with extensive anti-air batteries.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 794,
+    "key": "radar_focus",
+    "val": "RADAR",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 795,
+    "key": "radar_focus_desc",
+    "val": "The ability to detect enemy bombers will be crucial to the war effort. We should spare no resources in further developing Radar technology and constructing a network of detection stations along the coasts.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 796,
+    "key": "royal_ordinance_focus",
+    "val": "[Root.GetRoyalOrdnanceFactoriesName]",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 797,
+    "key": "royal_ordinance_focus_desc",
+    "val": "[Root.GetRoyalOrdnanceFactoriesDesc]",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 798,
+    "key": "ENG_ROYAL_ORDNANCE_FACTORIES_NAME_HISTORICAL",
+    "val": "Royal Ordnance Factories",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 799,
+    "key": "ENG_ROYAL_ORDNANCE_FACTORIES_NAME_COMMUNIST",
+    "val": "Revolutionary Ordnance Factories",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 800,
+    "key": "ENG_ROYAL_ORDNANCE_FACTORIES_DESC_HISTORICAL",
+    "val": "The Royal Arsenal at Woolwich is woefully insufficient to produce all the munitions and small arms we need. We should establish many more factories around the country, preferably in relatively safe areas.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 801,
+    "key": "ENG_ROYAL_ORDNANCE_FACTORIES_DESC_COMMUNIST",
+    "val": "The Revolutionary Arsenal at Woolwich is woefully insufficient to produce all the munitions and small arms we need. We should establish many more factories around the country, preferably in relatively safe areas.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 802,
+    "key": "shadow_scheme_focus",
+    "val": "The Shadow Scheme",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 803,
+    "key": "shadow_scheme_focus_desc",
+    "val": "The Air Ministry has come up with a brilliant suggestion for easier conversion of civilian factories into military ones. With the appropriate grants and loans to various key companies, their factories can be extended and adapted in advance to make the transition to military applications much smoother.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 804,
+    "key": "shadow_scheme_focus_tt",
+    "val": "Grants §G4§! Building Slots and §Y4 Military Factories§! in total in two states when entering a war.\\n",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 805,
+    "key": "uk_small_arms_focus",
+    "val": "BSA Company",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 806,
+    "key": "uk_small_arms_focus_desc",
+    "val": "[Root.GetBSACompanyDesc]",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 807,
+    "key": "ENG_BSA_COMPANY_DESC_HISTORICAL",
+    "val": "The Royal Ordnance Factories are not producing enough small arms, but, like we did in the Great War, we could contract the Birmingham Small Arms Company and expand their capacity.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 808,
+    "key": "ENG_BSA_COMPANY_DESC_COMMUNIST",
+    "val": "The Revolutionary Ordnance Factories are not producing enough small arms, but, like we did in the Great War, we could contract the Birmingham Small Arms Company and expand their capacity.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 809,
+    "key": "UK_secret_focus",
+    "val": "Secret Weapons",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 810,
+    "key": "UK_secret_focus_desc",
+    "val": "We now possess the knowledge and the infrastructure to focus on the development of various secret weapons projects that used to belong in the realm of science fiction.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 811,
+    "key": "air_rearmament_focus",
+    "val": "Air Rearmament",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 812,
+    "key": "air_rearmament_focus_desc",
+    "val": "[Root.GetAirRearmamentDesc]",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 813,
+    "key": "ENG_AIR_REARMAMENT_DESC_HISTORICAL",
+    "val": "In any war with a continental enemy, the Royal Air Force will prove the key to victory. First, we must ensure that our airbases can support our rearmament plans!",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 814,
+    "key": "ENG_AIR_REARMAMENT_DESC_COMMUNIST",
+    "val": "In any war with a continental enemy, the People's Air Force will prove the key to victory. First, we must ensure that our airbases can support our rearmament plans!",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 815,
+    "key": "fighter_command_focus",
+    "val": "Fighter Command",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 816,
+    "key": "fighter_command_focus_desc",
+    "val": "Our first priority must be to control our own skies! It is hard to discern a more important area of military research than fighter development.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 817,
+    "key": "bomber_command_focus",
+    "val": "Bomber Command",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 818,
+    "key": "bomber_command_focus_desc",
+    "val": "Like Giulio Douhet always said; 'The bomber will always get through!'. Advances in radar technology and anti-air defenses notwithstanding, we should prioritize the development of better bombers.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 819,
+    "key": "coastal_command_focus",
+    "val": "Coastal Command",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 820,
+    "key": "coastal_command_focus_desc",
+    "val": "[Root.GetCoastalCommandDesc]",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 821,
+    "key": "ENG_COASTAL_COMMAND_DESC_HISTORICAL",
+    "val": "Our industry is driven by resources shipped to Britain from many distant parts of the Empire. Our convoys are our lifeblood and must be protected by both the Royal Navy and the Royal Air Force. We should set up a special RAF formation to protect the approaches to our ports!",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 822,
+    "key": "ENG_COASTAL_COMMAND_DESC_COMMUNIST",
+    "val": "Our industry is driven by resources shipped to Britain from many distant parts of the Empire. Our convoys are our lifeblood and must be protected by both the Workers' Liberation Navy and the People's Air Force. We should set up a special PAF formation to protect the approaches to our ports!",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 823,
+    "key": "aircraft_production_focus",
+    "val": "Aircraft Production Group",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 824,
+    "key": "aircraft_production_focus_desc",
+    "val": "Aircraft production remains our highest priority. The London Aircraft Production Group (LAPG) should be created to manage and coordinate all available aircraft related production.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 825,
+    "key": "uk_jet_focus",
+    "val": "Jet Aircraft",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 826,
+    "key": "uk_jet_focus_desc",
+    "val": "It seems almost certain that the jet engine will come to replace propeller engines on airplanes. The potential is enormous, and we must not allow Britain to lag behind in this crucial area of research.",
+    "isPureVar": false
+  }
+]

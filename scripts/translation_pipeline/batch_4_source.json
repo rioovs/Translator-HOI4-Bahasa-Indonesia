@@ -1,0 +1,1616 @@
+[
+  {
+    "key": "soviet.1.t",
+    "version": "",
+    "type": "title",
+    "en": "Japanese Build-Up"
+  },
+  {
+    "key": "soviet.1.d",
+    "version": "",
+    "type": "desc",
+    "en": "Tensions along the Manchurian border have been tense for some time, and now we are receiving reports from our Mongolian comrades that the Japanese are massing forces in Heilungkiang. Backing down may be seen as a sign of weakness, but if we respond with force the situation could escalate. What are your orders, tovarisch komandir?"
+  },
+  {
+    "key": "soviet.2.t",
+    "version": "",
+    "type": "title",
+    "en": "Successful Raid"
+  },
+  {
+    "key": "soviet.2.d",
+    "version": "",
+    "type": "desc",
+    "en": "Our raid across the Manchurian border against the Japanese forces massing there was a success! We caught them before they had finished their preparations, and our brave soldiers gave them a good beating in the violent skirmish that ensued."
+  },
+  {
+    "key": "soviet.3.t",
+    "version": "",
+    "type": "title",
+    "en": "Failed Raid"
+  },
+  {
+    "key": "soviet.3.d",
+    "version": "",
+    "type": "desc",
+    "en": "Our raid across the Manchurian border against the Japanese forces massing there was a failure! The enemy caught our forces in a pincer movement and we took heavy casualties before we managed to disengage."
+  },
+  {
+    "key": "soviet.4.t",
+    "version": "",
+    "type": "title",
+    "en": "[FROM.GetNameDefCap] Surrenders Bessarabia"
+  },
+  {
+    "key": "soviet.4.d",
+    "version": "",
+    "type": "desc",
+    "en": "The [FROM.GetAdjective]s have wisely folded to our demands and withdrawn all of their forces from Bessarabia. We will incorporate the territory into the union as the Moldavian Soviet Socialist Republic. Its citizenry will now enjoy the benefits of socialism. "
+  },
+  {
+    "key": "soviet.5.t",
+    "version": "",
+    "type": "title",
+    "en": "Romania Refuses Our Demands"
+  },
+  {
+    "key": "soviet.5.d",
+    "version": "",
+    "type": "desc",
+    "en": "The Romanians have refused to give in to our demands! It looks like we will have to expel their occupying forces from Bessarabia with force."
+  },
+  {
+    "key": "soviet.6.t",
+    "version": "",
+    "type": "title",
+    "en": "[FROM.GetNameDefCap] Submits"
+  },
+  {
+    "key": "soviet.6.d",
+    "version": "",
+    "type": "desc",
+    "en": "[FROM.GetNameDefCap] has surrendered to our demands. We have replaced the decadent government in Tallinn with a People's Parliament, which has unanimously voted to convert [FROM.GetNameDef] into a Soviet Socialist Republic. After deliberations, the Supreme Soviet has decided to accept this request."
+  },
+  {
+    "key": "soviet.7.t",
+    "version": "",
+    "type": "title",
+    "en": "[FROM.GetNameDefCap] Refuses Our Offer"
+  },
+  {
+    "key": "soviet.7.d",
+    "version": "",
+    "type": "desc",
+    "en": "[FROM.GetNameDefCap] has outrageously decided to refuse our generous offer of a mutual assistance pact! The capitalists and sycophants in Tallinn have further had the gall to issue a statement demanding that we respect the territorial integrity of their nation!"
+  },
+  {
+    "key": "soviet.8.t",
+    "version": "",
+    "type": "title",
+    "en": "[FROM.GetNameDefCap] Submits"
+  },
+  {
+    "key": "soviet.8.d",
+    "version": "",
+    "type": "desc",
+    "en": "The [FROM.GetAdjective] government in Riga has agreed to our demands, and we have replaced their corrupt rule with a People's Assembly. This body has unanimously voted to request membership in our great union as a Soviet Socialist Republic. We have graciously agreed to fulfill this request."
+  },
+  {
+    "key": "soviet.9.t",
+    "version": "",
+    "type": "title",
+    "en": "[FROM.GetNameDefCap] Refuses Our Offer"
+  },
+  {
+    "key": "soviet.9.d",
+    "version": "",
+    "type": "desc",
+    "en": "The bourgeoisie oppressors ruling [FROM.GetNameDef] have chosen to abandon all reason. They have rejected our generous mutual assistance pact, and are demanding the immediate withdrawal of all Soviet forces 'massing' along their border."
+  },
+  {
+    "key": "soviet.10.t",
+    "version": "",
+    "type": "title",
+    "en": "[FROM.GetNameDefCap] Submits"
+  },
+  {
+    "key": "soviet.10.d",
+    "version": "",
+    "type": "desc",
+    "en": "Our request for military bases in [FROM.GetNameDef] has been granted, but unfortunately their government has collapsed. We have established a People's Parliament to avoid anarchy, and they have unanimously voted to petition the Supreme Soviet for membership in our union. This request has been granted."
+  },
+  {
+    "key": "soviet.11.t",
+    "version": "",
+    "type": "title",
+    "en": "[FROM.GetNameDefCap] Refuses Our Offer"
+  },
+  {
+    "key": "soviet.11.d",
+    "version": "",
+    "type": "desc",
+    "en": "[FROM.GetNameDefCap] seems bent on self-destruction, and the fools in their government are denying our forces access to their country. Do they think they would be better off under the Germans? Their selfish leaders are committing a crime against the people by denying their citizens true socialism."
+  },
+  {
+    "key": "soviet.12.t",
+    "version": "",
+    "type": "title",
+    "en": "[FROM.GetNameDefCap] Accepts Our Demands"
+  },
+  {
+    "key": "soviet.12.d",
+    "version": "",
+    "type": "desc",
+    "en": "The overwhelming forces we massed along their borders have convinced the [FROM.GetAdjective] government to accept our modest request for a revision of their borders. We have gained control of Karelia, and the position of [195.GetName] is now much more secure."
+  },
+  {
+    "key": "soviet.13.t",
+    "version": "",
+    "type": "title",
+    "en": "[FROM.GetNameDefCap] Rejects Our Demands"
+  },
+  {
+    "key": "soviet.13.d",
+    "version": "",
+    "type": "desc",
+    "en": "The [FROM.GetAdjective] government has rejected our demands, but this was to be expected. If we want Karelia, we will have to take it by force. It is time to teach the stubborn Finns a lesson they won't forget!"
+  },
+  {
+    "key": "soviet.14.t",
+    "version": "",
+    "type": "title",
+    "en": "Membership in the USSR"
+  },
+  {
+    "key": "soviet.14.d",
+    "version": "",
+    "type": "desc",
+    "en": "We are under pressure from Moscow to officially join the USSR. Should we agree to this?"
+  },
+  {
+    "key": "soviet.15.t",
+    "version": "",
+    "type": "title",
+    "en": "Tannu Tuva Refuses!"
+  },
+  {
+    "key": "soviet.15.d",
+    "version": "",
+    "type": "desc",
+    "en": "The Tuvans have outrageously refused to merge with the Soviet Union! What such a pitiful nation could possibly hope to accomplish on its own is a mystery that may never be answered."
+  },
+  {
+    "key": "soviet.16.t",
+    "version": "",
+    "type": "title",
+    "en": "The Annexation of Tannu Tuva"
+  },
+  {
+    "key": "soviet.16.d",
+    "version": "",
+    "type": "desc",
+    "en": "The Supreme Soviet has received a formal request from the Tuvan parliament for membership in the Soviet Union. They will be organized as the Tuvan Autonomous Oblast in the Russian SFSR."
+  },
+  {
+    "key": "soviet.17.t",
+    "version": "",
+    "type": "title",
+    "en": "Improving the Stalin Line"
+  },
+  {
+    "key": "soviet.17.d",
+    "version": "",
+    "type": "desc",
+    "en": "A thorough revision of the defensive fortifications along our western border regions has been completed, and convicts from our corrective labor camps stand ready to begin work. Soon the Stalin Line will live up to its glorious namesake!"
+  },
+  {
+    "key": "soviet.60.t",
+    "version": "",
+    "type": "title",
+    "en": "The Partitioning of Poland"
+  },
+  {
+    "key": "soviet.60.d",
+    "version": "",
+    "type": "desc",
+    "en": "Poland is ours, but the western parts fall under the [GER.GetAdjective] sphere of influence according to the stipulations of the Molotov-Ribbentrop Pact. Should we withdraw our forces and let the [GER.GetAdjective]s occupy this territory? Failure to do so would render our treaty void."
+  },
+  {
+    "key": "soviet.61.t",
+    "version": "",
+    "type": "title",
+    "en": "Soviets honor the pact"
+  },
+  {
+    "key": "soviet.61.d",
+    "version": "",
+    "type": "desc",
+    "en": "In accordance with the treaty, the [SOV.GetAdjective]s have turned over the western parts of Poland to our administration. German troops have moved in to provide security."
+  },
+  {
+    "key": "soviet.62.t",
+    "version": "",
+    "type": "title",
+    "en": "Soviets violate the pact"
+  },
+  {
+    "key": "soviet.62.d",
+    "version": "",
+    "type": "desc",
+    "en": "Despite repeated assurances, the Soviets have so far not pulled back their troops, nor have they made any move to turn over the territories and return to the borders we have agreed on. It appears that they have no intention of following the treaty."
+  },
+  {
+    "key": "soviet.70.t",
+    "version": "",
+    "type": "title",
+    "en": "Pressure from [SOV.GetNameDef]"
+  },
+  {
+    "key": "soviet.70.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Despite the liberation of our homeland from [GER.GetAdjective] occupation, we still have the ever present [SOV.GetName] to contend with. They are now refusing to acknowledge the legitimacy of our government unless the [SOV.GetAdjective] aligned communists in the country are allowed to take a more prominent role in the administration. In reality, this is a thinly veiled threat from the [SOV.GetAdjective]s that they expect us to align ourselves with them. Meanwhile, our partners in the west seem unwilling to offer us any support in resisting [SOV.GetLeader]’s demands."
+  },
+  {
+    "key": "soviet.71.t",
+    "version": "",
+    "type": "title",
+    "en": "[POL.GetAdjective] Alignment Secured"
+  },
+  {
+    "key": "soviet.71.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Following recent pressure from our administration and the ever present threat of the mighty Red Army, the bourgeois administration of [POL.GetNameDef] has agreed to respect the authority of the communist party as the only legitimate representative of the people. While we could have enforced our will by force, that will now be unnecessary as we can safely rely on [POL.GetName] being part of our sphere of influence from now on."
+  },
+  {
+    "key": "soviet.72.t",
+    "version": "",
+    "type": "title",
+    "en": "[POL.GetNameDefCap] Continues to Suppress the Proletariat"
+  },
+  {
+    "key": "soviet.72.desc",
+    "version": "",
+    "type": "desc",
+    "en": "In a foolish display of bourgeois arrogance, the illegitimate administration of [POL.GetName] are refusing to acknowledge the authority of the communist party. We can not allow these fools to once again turn Poland into a staging ground for fascist incursions into [SOV.GetNameDef]. It is a matter of utmost national security that we bring [POL.GetName] into our sphere of influence immediately."
+  },
+  {
+    "key": "soviet.73.t",
+    "version": "",
+    "type": "title",
+    "en": "[SOV.GetNameDefCap] Backs Down"
+  },
+  {
+    "key": "soviet.73.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Recent tension surrounding [POL.GetName]’s foreign policy alignment has subdued recently as [SOV.GetNameDef] backs away from its earlier aggressive rhetoric. Although the chance of another invasion has reduced, we should remain vigilant with regards to our eastern neighbor and their pawns."
+  },
+  {
+    "key": "soviet.74.t",
+    "version": "",
+    "type": "title",
+    "en": "[FROM.GetNameDefCap] to Return [ROOT.GetAdjective] territory"
+  },
+  {
+    "key": "soviet.74.d",
+    "version": "",
+    "type": "desc",
+    "en": "As a gesture of goodwill and friendship between the [FROM.GetAdjective] and [ROOT.GetAdjective] countries, [FROM.GetLeader] has offered to return some of the territory they hold, that was historically part of Poland."
+  },
+  {
+    "key": "soviet.75.t",
+    "version": "",
+    "type": "title",
+    "en": "[FROM.GetLeader] Accepted our Offer."
+  },
+  {
+    "key": "soviet.75.d",
+    "version": "",
+    "type": "desc",
+    "en": "Our offer to return territory was accepted by the [FROM.GetAdjective] government. This should hopefully make everyone satisfied for the foreseeable future, and reduce the risk of internal conflicts."
+  },
+  {
+    "key": "soviet.76.t",
+    "version": "",
+    "type": "title",
+    "en": "[FROM.GetLeader] Refused our Offer."
+  },
+  {
+    "key": "soviet.76.d",
+    "version": "",
+    "type": "desc",
+    "en": "For some reason, our offer to return territory was declined by the [FROM.GetAdjective] government. What they are up to is hard to tell at this point, but at least it means they will find it harder to press claims on the territory later."
+  },
+  {
+    "key": "usa.1.t",
+    "version": "",
+    "type": "title",
+    "en": "Earhart Wants to Enlist"
+  },
+  {
+    "key": "usa.1.d",
+    "version": "",
+    "type": "desc",
+    "en": "As American mobilizes for war, we have received an unusual request. Amelia Earhart, the famous aviator who successfully circumvented the globe not long ago, wishes to enlist in the Army Air Corps as a fighter pilot. She has demonstrated considerable skill in mock dogfights, but there are many within the military establishment who frown on the idea of a having a woman flying combat missions. Should we make an exception in her case and let her join?"
+  },
+  {
+    "key": "usa.2.t",
+    "version": "",
+    "type": "title",
+    "en": "Manifest Destiny"
+  },
+  {
+    "key": "usa.2.d",
+    "version": "",
+    "type": "desc",
+    "en": "The unique foundation and history of the United States makes it our duty to preserve democracy and freedom in the world. The last decade has proven that this mission cannot be fulfilled without taking up arms against those who seek to destroy it. From now on, every oppressor will have to answer to us, and our armed forces will liberate people across the globe."
+  },
+  {
+    "key": "usa.3.t",
+    "version": "",
+    "type": "title",
+    "en": "American Fleet in Pearl Harbor"
+  },
+  {
+    "key": "usa.3.d",
+    "version": "",
+    "type": "desc",
+    "en": "The diplomatic and economic sanctions we have suffered from the United States appears to have been the beginning of something more threatening. The American Pacific Fleet has been stationed in the naval base in Pearl Harbor, Hawaii, clearly signaling that the Americans will maintain a strong presence in the Pacific and continue supporting our enemies. Striking against the base at this point may give us the element of surprise."
+  },
+  {
+    "key": "usa.4.t",
+    "version": "",
+    "type": "title",
+    "en": "Destroyers for Bases Agreement"
+  },
+  {
+    "key": "usa.4.d",
+    "version": "",
+    "type": "desc",
+    "en": "Having taken a stance against the Germans, the US appear interested in ensuring Britain stands strong against the German threat. They are, however, also concerned with maintaining their own naval presence in the Atlantic. In exchange for several of our naval bases, they will supply our nation with destroyer ships. The ships have been in reserve, but accepting will still strengthen the military bonds between our nations, and may be a wise decision."
+  },
+  {
+    "key": "usa.5.t",
+    "version": "",
+    "type": "title",
+    "en": "Britain refuses offer"
+  },
+  {
+    "key": "usa.5.d",
+    "version": "",
+    "type": "desc",
+    "en": "Despite our preparations and good intentions, Britain has refused our offer of old Destroyers in exchange for their naval bases."
+  },
+  {
+    "key": "usa.6.t",
+    "version": "",
+    "type": "title",
+    "en": "Election of [GetYear]"
+  },
+  {
+    "key": "usa.6.d",
+    "version": "",
+    "type": "desc",
+    "en": "The day of the presidential election has arrived. Incumbent Franklin Delano Roosevelt has already implemented several of the programs referred collectively to as the New Deal, intended to take the US out of the Great Depression.\\n\\nWhile many of the efforts have been popular, his plans to further extend the role and power of the government have been met with criticism from his opponent, Republican Alf Landon. Coming from the oil industry, Landon wants to see greater economic freedom, while Roosevelt and the Democratic Party want to expand Social Security and ensure economic stability. The election may be a close call, or a major victory for the Democrats."
+  },
+  {
+    "key": "usa.7.t",
+    "version": "",
+    "type": "title",
+    "en": "Roosevelt vs Willkie"
+  },
+  {
+    "key": "usa.7.d",
+    "version": "",
+    "type": "desc",
+    "en": "Since the office of President of the United States was first established, no president has ruled for three consecutive terms. However, in light of the precarious state of the world and international developments in the last few years, President Roosevelt has decided to break with tradition and run for a third term. Republican Wendell Willkie, characterized as a dark horse candidate with a background as an industrialist with limited political experience, has been critical both of Roosevelt's economic interventionism and his justifications for running for a third term.\\n\\nAlthough the candidates have much in common in their foreign policies and Willkie wants to retain some form of the New Deal, many still consider this election a determining point for the future of American democracy."
+  },
+  {
+    "key": "usa.8.t",
+    "version": "",
+    "type": "title",
+    "en": "Landon vs Roosevelt"
+  },
+  {
+    "key": "usa.8.d",
+    "version": "",
+    "type": "desc",
+    "en": "President Landon put a stop to the Democrats' continued New Deal reforms four years ago, choosing to rely on the nation's strength lying in industrial companies such as those he helped establish prior to his presidency. Roosevelt, who has continued to campaign in favor of completing the programs he originally planned for his second term, is now running for president again. While he remains a popular candidate, Landon has continued to criticize his efforts to concentrate power in the hands of the president, and has accordingly avoided similar policies himself.\\n\\nThreats abroad, both to our own nation and others, remain a reality and neither candidate is in favor of the United States turning a blind eye to them. The question is who will lead the arsenal of democracy through these dire times."
+  },
+  {
+    "key": "usa.9.t",
+    "version": "",
+    "type": "title",
+    "en": "Roosevelt vs Dewey"
+  },
+  {
+    "key": "usa.9.d",
+    "version": "",
+    "type": "desc",
+    "en": "The presidency of Franklin D. Roosevelt has already been exceptional in many ways. Despite his declining health and the unprecedented length of his presidency, he aspires to continue leading our country through the war effort. The Republicans have been limited in their choices of candidates due to many potential nominees serving in the war, but have chosen Governor Thomas E. Dewey to represent them.\\n\\nRoosevelt continues to have popular support, but many suspect he may not live to see the end of his term. But is that sufficient to grant Dewey a victory over the man who has taken us this far?"
+  },
+  {
+    "key": "usa.10.t",
+    "version": "",
+    "type": "title",
+    "en": "[Root.GetLeader] vs Roosevelt"
+  },
+  {
+    "key": "usa.10.d",
+    "version": "",
+    "type": "desc",
+    "en": "Although many aspects of the New Deal were retained by [Root.GetLeader], Roosevelt still sees the opportunity to make his original plans for continued development of the programs reality. Despite declining health, he has managed to retain much of the support which landed him the presidency previously, and is now campaigning for the Democrats again.\\n\\n[Root.GetLeader] is arguing that a change of leadership in America's sensitive situation would be irresponsible, which is somewhat ironic since the same claim was made before his previous victory over Roosevelt. Despite this, he may have a point."
+  },
+  {
+    "key": "usa.11.t",
+    "version": "",
+    "type": "title",
+    "en": "Roosevelt vs MacArthur"
+  },
+  {
+    "key": "usa.11.d",
+    "version": "",
+    "type": "desc",
+    "en": "With the continued threat of being drawn into a war, both Democrats and Republicans have aspired to find a candidate from the military. General Douglas MacArthur, normally devoted to his military duties, has taken the opportunity to campaign for the Republican nomination while our nation is at peace and won. He is now challenging Roosevelt, supporting the conservative coalition.\\n\\nRoosevelt continues to be popular, but MacArthur's charisma and sense of duty has made a strong impression on voters. Does the military really know best?"
+  },
+  {
+    "key": "usa.12.t",
+    "version": "",
+    "type": "title",
+    "en": "Campaign of Douglas MacArthur"
+  },
+  {
+    "key": "usa.12.d",
+    "version": "",
+    "type": "desc",
+    "en": "To challenge Roosevelt's record-length presidency, the Republicans have looked to respected military commanders, hoping to find a potential candidate to take America through this war. General Douglas MacArthur has been a popular nominee among the conservatives, but he is also an indispensable asset in the ongoing conflict and has been reluctant to spend his time campaigning for the presidency.\\n\\nHe nevertheless remains one of the more promising conservative candidates and can perhaps be convinced to campaign to avoid getting a moderate Republican president. Is it worth the sacrifice?"
+  },
+  {
+    "key": "usa.13.t",
+    "version": "",
+    "type": "title",
+    "en": "Roosevelt Passes Away"
+  },
+  {
+    "key": "usa.13.d",
+    "version": "",
+    "type": "desc",
+    "en": "Although President Roosevelt's health has been in decline for some time, his strong presidential campaign convinced many that he had many years left. However, the possibility of FDR's death while still in office has remained, and today he passed away after suffering a stroke. Vice-President Harry S. Truman has now taken the oath of office, requesting the support and prayers of the people. The old cabinet remains, and Truman has vowed to continue many of the policies of his predecessor."
+  },
+  {
+    "key": "soviet.18.t",
+    "version": "",
+    "type": "title",
+    "en": "The Xi'an Incident"
+  },
+  {
+    "key": "soviet.18.d",
+    "version": "",
+    "type": "desc",
+    "en": "External pressure from [SOV.GetNameDef] for the end of the hostilities between us and the Chinese Red Army has led to people in our ranks taking matters into their own hands. Two generals have had [Root.GetLeader] arrested, attempting to force a truce between us and the communists to unite China against external threats. International pressure for a peaceful solution, along with the weakness of China divided in this era are factors in favor of establishing a united front. What course should we take?"
+  },
+  {
+    "key": "soviet.19.t",
+    "version": "",
+    "type": "title",
+    "en": "Nationalists Offer Truce"
+  },
+  {
+    "key": "soviet.19.d",
+    "version": "",
+    "type": "desc",
+    "en": "Disagreements within the Nationalist ranks have led to a precarious situation. Their leader, [From.GetLeader] has been arrested in an effort to force our enemies to accept a truce with us to unite China against foreign enemies. Although we would like to see the Kuomintang leadership facing punishment for their crimes against us, this is a rare opportunity to cooperate and ensure that China does not fall in the hands of foreign imperialists."
+  },
+  {
+    "key": "soviet.20.t",
+    "version": "",
+    "type": "title",
+    "en": "Nationalist China Refuses Negotiations"
+  },
+  {
+    "key": "soviet.20.d",
+    "version": "",
+    "type": "desc",
+    "en": "Despite the kidnapping of [From.GetLeader], the Nationalists have refused to enter negotiations for a truce with the Communists. Sadly, the Chinese will remain in violent conflict with their own people, making them easy prey for their enemies."
+  },
+  {
+    "key": "soviet.21.t",
+    "version": "",
+    "type": "title",
+    "en": "Truce in Chinese Civil War"
+  },
+  {
+    "key": "soviet.21.d",
+    "version": "",
+    "type": "desc",
+    "en": "The negotiations in Xi'an have borne results. Both Nationalists and Communists have agreed to a truce, putting an at least temporary end to the hostilities and allowing the parties to cooperate against foreign threats."
+  },
+  {
+    "key": "soviet.22.t",
+    "version": "",
+    "type": "title",
+    "en": "Communist China Refuses Negotiations"
+  },
+  {
+    "key": "soviet.22.d",
+    "version": "",
+    "type": "desc",
+    "en": "Despite the best efforts of Kuomintang generals to achieve a truce with the Communist Party leaders, the communists refuse to make even a temporary peace as long as the leader of the Nationalists is alive. It appears that the hostilities will not end so easily."
+  },
+  {
+    "key": "soviet.23.t",
+    "version": "",
+    "type": "title",
+    "en": "[SOV.GetNameDefCap] Cedes Land"
+  },
+  {
+    "key": "soviet.23.d",
+    "version": "",
+    "type": "desc",
+    "en": "[SOV.GetNameDefCap] has other threats to worry about and does not wish to further increase hostilities with our Empire. As a sign of desiring peace between our nations, they have ceded some territory to us, hoping that this will strengthen our diplomatic ties."
+  },
+  {
+    "key": "soviet.24.t",
+    "version": "",
+    "type": "title",
+    "en": "The Fifth Column"
+  },
+  {
+    "key": "soviet.24.d",
+    "version": "",
+    "type": "desc",
+    "en": "The persecution of enemies of the people, those who would reverse or subvert the revolution, has been ongoing policy since the Party came to power. The internal power struggles that followed have shifted our focus, and purging the Party ranks themselves has been given more emphasis since Trotsky's exile. Stalin has made himself an icon, but at the cost of making many real enemies and innumerable imaginary ones.\\n\\nHaving seen the worst of internal power struggles, the General Secretary is prone to act on the slightest suspicion. Being purged from the Party means imprisonment or death. Dark times lie ahead for those who show disloyalty - or just a bit too much loyalty to seem credible."
+  },
+  {
+    "key": "soviet.25.t",
+    "version": "",
+    "type": "title",
+    "en": "Trial of the Anti-Soviet Trotskyist Center"
+  },
+  {
+    "key": "soviet.25.d",
+    "version": "",
+    "type": "desc",
+    "en": "Despite Lev Trotsky being forced into exile, $SOV_iosif_stalin$ fears that he has secret supporters within the party. A series of rapid arrests and brutal interrogations have yielded confessions and testimonies conveniently pointing to some of Stalin's rivals. However, the more questions are asked and the deeper the secret police delves into letters and journals, the more people are implicated, if indirectly.\\n\\nParty members are beginning to believe that Stalin's absolute power and the death of his wife have isolated him to the point where he perceives anyone as a threat, but isn't that exactly what a traitor would say?"
+  },
+  {
+    "key": "soviet.26.t",
+    "version": "",
+    "type": "title",
+    "en": "Secret Trial of the Generals"
+  },
+  {
+    "key": "soviet.26.d",
+    "version": "",
+    "type": "desc",
+    "en": "The Red Army has always been home to subversive elements, ever since Trotsky himself was Commissar of War. Documents acquired by the NKVD have implicated several high-ranking officers as not only traitors, but spies. Mikhail Tukhachevsky is among the most prominent of the suspects, and one Stalin is keen to rid the army of. Meanwhile, the navy's frequent contact with foreigners has led to many of them being arrested as well.\\n\\nAlthough there are documents from our enemies proving their guilt, there is no telling if they fabricated them, or if they were given false information by those who wanted this purge in motion to begin with."
+  },
+  {
+    "key": "soviet.27.t",
+    "version": "",
+    "type": "title",
+    "en": "Trial of the 21"
+  },
+  {
+    "key": "soviet.27.d",
+    "version": "",
+    "type": "desc",
+    "en": "After several rounds of arrests and trials, the Great Purge has weaved a narrative that led up to this trial. Among the accused are not only old leaders like Nikolai Bukharin, but a number of diplomats, politicians, military officials and even many high-ranking NKVD officers. The charges are also more extensive than previously, including decade-old plots to murder Soviet leaders and sell the Union to its enemies.\\n\\nThe fact that the NKVD themselves are now among the targets of the purge has in a sense brought the proceedings in full circle. Threats and beatings have led to many confessing to all charges, even the most outlandish ones. The leading defendants face execution."
+  },
+  {
+    "key": "soviet.28.t",
+    "version": "",
+    "type": "title",
+    "en": "Trotskyist Coup"
+  },
+  {
+    "key": "soviet.28.d",
+    "version": "",
+    "type": "desc",
+    "en": "The world may never know if Stalin's purges were targeting the right people, or whether he made more enemies trying to exterminate every Trotskyist in the Party. What is known is that what he feared eventually came to pass. Today, Lev Trotsky reemerged as having returned from his exile, and with the support of several influential party members and NKVD officers, launched a coup overthrowing Stalin's rule.\\n\\nThe former General Secretary was attacked in his home with an ice axe, and was swiftly executed along with several of his supporters. Tearing down the cult of personality he built up will take time, but the people know now at least that he was not immortal.\\n\\n One of the few survivors who managed to escape was Ivan Konev. The fierce supporter of Stalin has managed to gather some support and declared war on the Trotsky government, in an attempt to take back power and 'fulfill the vision of Comrade Stalin'."
+  },
+  {
+    "key": "soviet.29.t",
+    "version": "",
+    "type": "title",
+    "en": "France wants to join the Comintern."
+  },
+  {
+    "key": "soviet.29.d",
+    "version": "",
+    "type": "desc",
+    "en": "Our comrades in Parti Communiste Français have made great progress. The nation of France is ready to join the Comintern."
+  },
+  {
+    "key": "soviet.100.t",
+    "version": "",
+    "type": "title",
+    "en": "Communists relent"
+  },
+  {
+    "key": "soviet.100.d",
+    "version": "",
+    "type": "desc",
+    "en": "Due to [SOV.GetNameDef] and ourselves being at war with a common enemy, they seem to have toned down support to our domestic communist parties."
+  },
+  {
+    "key": "war_justification.1.t",
+    "version": "",
+    "type": "title",
+    "en": "[ROOT.GetLeader] Speaks Against [From.GetName]"
+  },
+  {
+    "key": "war_justification.1.d",
+    "version": "",
+    "type": "desc",
+    "en": "'Does [From.GetName] belong to the [From.GetAdjective]? Let us ask ourselves a better question: Does the future belong to the [From.GetAdjective] or does it belong to [ROOT.GetNameDef]?'\\n\\n[ROOT.GetLeader]'s speech today suggested that [ROOT.GetName] is on the path to war. Political tensions have been building over the past month and it seems the [ROOT.GetAdjective] people are coming to accept that war is inevitable."
+  },
+  {
+    "key": "war_justification.2.t",
+    "version": "",
+    "type": "title",
+    "en": "[ROOT.GetLeader] Denounces [From.GetAdjective] Ideals"
+  },
+  {
+    "key": "war_justification.2.d",
+    "version": "",
+    "type": "desc",
+    "en": "'The [From.GetAdjective] claim to have liberty and democracy, claim to want peace, but all of these things they pride themselves on are hollow. Their democracy divides the people where it should stand united and their liberty only betrays a lack of discipline. We [ROOT.GetAdjective]s see through these lies... and we can see that this peace, peace on their terms, is a lie as well.'\\n\\n[ROOT.GetRulingParty] has long derided the weakness of the [From.GetAdjective] nation, but lately the rhetoric has grown more aggressive. The day of armed conflict grows closer."
+  },
+  {
+    "key": "war_justification.3.t",
+    "version": "",
+    "type": "title",
+    "en": "[ROOT.GetLeader] Warns Against [From.GetAdjective] Communism"
+  },
+  {
+    "key": "war_justification.3.d",
+    "version": "",
+    "type": "desc",
+    "en": "'Is there a bigger threat to our way of life, or indeed the way of life itself, than communism? This plague that threatens to make the slaves, not the masters, rule every nation, to abolish the nation itself, to abolish people and their history. We will take [From.GetName] and abolish the communist plague.'\\n\\n[ROOT.GetLeader]'s hatred of communists has been well known since before [ROOT.GetRulingParty]'s rise to power, but it appears to have intensified recently in the specific case of the [From.GetAdjective] government. Our quest to purge Marxism off the face of the Earth may start there."
+  },
+  {
+    "key": "war_justification.4.t",
+    "version": "",
+    "type": "title",
+    "en": "[ROOT.GetName] Prepares for Great Struggle"
+  },
+  {
+    "key": "war_justification.4.d",
+    "version": "",
+    "type": "desc",
+    "en": "'The [From.GetAdjective] are a people who will not part easily with power. However, they must also realize that the trajectory of our two nations can only end in a clash. We must steel ourselves for the struggle to come. For [From.GetName] will not be taken without a fight.'\\n\\nThe possibility of an understanding between the similarly minded governments of [From.GetName] and [ROOT.GetName] has given way to a campaign to take their territory by force."
+  },
+  {
+    "key": "war_justification.5.t",
+    "version": "",
+    "type": "title",
+    "en": "[ROOT.GetLeader] Brings Revolution to [From.GetName]"
+  },
+  {
+    "key": "war_justification.5.d",
+    "version": "",
+    "type": "desc",
+    "en": "'While we have consolidated the socialist society in [ROOT.GetName], many nations still suffer under the despots of old. The workers of [From.GetName] have no voice, no means to organize, and any attempts to institute socialism will be crushed savagely by the [From.GetLeader] regime. We cannot wait for the gears of the international revolution to turn for the [From.GetAdjective] people. With the revolution we have proven that we could crush the capitalist oppressors here, and we will crush the oppressors in [From.Capital.GetName] as well!'\\n\\n[ROOT.GetLeader] has abandoned all attempts at diplomatic rhetoric towards [From.GetRulingParty]-controlled [From.GetName]. The quest to eradicate all borders is now strictly focused on eradicating their borders."
+  },
+  {
+    "key": "war_justification.6.t",
+    "version": "",
+    "type": "title",
+    "en": "[ROOT.GetLeader] Calls to Aid [From.GetAdjective] Workers"
+  },
+  {
+    "key": "war_justification.6.d",
+    "version": "",
+    "type": "desc",
+    "en": "'Is there a greater lie than the supposed liberty of the [From.GetAdjective] people? Where they once slaved under the princes and dukes who claimed ownership of the soil, they are now forced to sell their labor to those who claim ownership of the factories. Their freedom to choose one master over the other can hardly be called liberty. Likewise, their freedom to elect their leaders is a false choice, as propaganda would never allow the true socialists to take power. A people so thoroughly indoctrinated can only be saved by a [ROOT.GetAdjective] intervention.'\\n\\n[ROOT.GetLeader] has polemicized against the government in [From.GetName] for a long time in party meetings, but this rhetoric is now used more frequently in public. There is little reason to believe that this conflict could be resolved peacefully."
+  },
+  {
+    "key": "war_justification.7.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetAdjective] Communism Failing"
+  },
+  {
+    "key": "war_justification.7.d",
+    "version": "",
+    "type": "desc",
+    "en": "'Comrades, although the greatest revolutionaries have once been called traitors, it has become plain to see that the revolution itself has been betrayed. How else would you explain the rule of the [From.GetRulingParty] of [From.GetName], who have cast aside every hint of Marxist ideas to build a degenerated worker's state where they can reign under false premises? In strengthening their own power at the price of the international revolution, they have shown that they care little for the ideals they claim to hold. We must bring the true revolution to them.'\\n\\nAlthough initially supportive of the [From.GetAdjective] revolution, [ROOT.GetLeader] has expressed increased disappointment with how it has developed. The [ROOT.GetRulingParty] may have to intervene before it is too late."
+  },
+  {
+    "key": "war_justification.8.t",
+    "version": "",
+    "type": "title",
+    "en": "[ROOT.GetLeader] Calls for Crushing [From.GetAdjective] Nationalism"
+  },
+  {
+    "key": "war_justification.8.d",
+    "version": "",
+    "type": "desc",
+    "en": "'Is there any society more repugnant to the future of the revolution, any more alien to the plight of the worker, than the fascist regime of [From.GetName]? Calling upon the people to devote themselves fanatically to the decrepit institution of the nation state, they have dressed up age-old ways of savagery in a modern costume, trying to present themselves as an alternative future to the inevitable international victory of the working class. It is only a matter of time until they strike against us or our allies. Let us strike first.'\\n\\nNo one has expected less than mutual contempt between us and the [From.GetAdjective], but the animosity has intensified lately. It now appears that conflict will arise sooner rather than later."
+  },
+  {
+    "key": "war_justification.9.t",
+    "version": "",
+    "type": "title",
+    "en": "Diplomacy with [From.GetName] Breaks Down"
+  },
+  {
+    "key": "war_justification.9.d",
+    "version": "",
+    "type": "desc",
+    "en": "'Despite our attempts to find a diplomatic solution to our conflict with [From.GetName], negotiations have once again broken down, leaving us with limited options. The authoritarian [From.GetLeader] regime has displayed the unreasonable approach to this matter typical of leaders who are not accountable to their people. Barring a complete turnaround in the policies of [From.GetAdjective] leadership, we will be left with no recourse but to fight.'\\n\\n[ROOT.GetAdjective] intervention in [From.GetName] has been a hot issue, with some politicians in the opposition claiming that [ROOT.GetRulingParty] has pursued a hawkish policy from the start. Whatever their original intent, a future war now suddenly seems very real and inevitable."
+  },
+  {
+    "key": "war_justification.10.t",
+    "version": "",
+    "type": "title",
+    "en": "[ROOT.GetLeader] Calls for Intervention in [From.GetName]"
+  },
+  {
+    "key": "war_justification.10.d",
+    "version": "",
+    "type": "desc",
+    "en": "'It is with heavy heart that we must confront the reality of our situation: An invasion of [From.GetName] may be our only recourse. It is of too great a strategic advantage to attempt any other solution in our current situation. Although we trust that neither the [ROOT.GetAdjective] nor the [From.GetAdjective] people want war, but history has led us to this point and our options are limited. We can only hope that through this assertion of our military power, we can avoid further bloodshed in the future.'\\n\\nAlthough it is a popular theory that democracies do not go to war against other democracies, recent developments have pointed to a [ROOT.GetAdjective] invasion of [From.GetName] in the future. History may surprise us yet."
+  },
+  {
+    "key": "war_justification.11.t",
+    "version": "",
+    "type": "title",
+    "en": "[ROOT.GetLeader] Speaks Against Red Menace"
+  },
+  {
+    "key": "war_justification.11.d",
+    "version": "",
+    "type": "desc",
+    "en": "'Without a doubt, [From.GetName] communism is one of the greatest threats to liberty and order in this era. Relentless and ruthless, it threatens to devour not only the [From.GetAdjective] people's hope of a prosperous, democratic society, but that of its neighbors as well. If we do not act now, we may well see this first domino fall too late, leaving more failed social experiments in its wake. How many more need die before we intervene?'\\n\\nThe threat of subversive activity undermining our democracy, fueled by [From.GetAdjective] ambitions, has become a hotly debated topic recently. While representatives in opposition have called this a Red Scare aimed at pursuing war with [From.GetName], the rhetoric of the [ROOT.GetRulingParty] has been highly successful so far."
+  },
+  {
+    "key": "war_justification.12.t",
+    "version": "",
+    "type": "title",
+    "en": "[ROOT.GetLeader] Confronts [From.GetAdjective] Fascism"
+  },
+  {
+    "key": "war_justification.12.d",
+    "version": "",
+    "type": "desc",
+    "en": "'In modern history, perhaps even in history as a whole, there has been no worse tyranny than the iron grip in which [From.GetRulingParty] now holds [From.GetName]. People may argue that we should not provoke conflict, that we should trust [From.GetLeader] to honor treaties and promises in the future, but these people fail to see that treaties made under the reign of fascism are useless. To these dishonorable liars, might makes right, and the paper on which an agreement is written burns just as easily as the books of their detractors.'\\n\\nPeople who have long hoped to avoid a direct confrontation with [From.GetName] have now been strongly opposed by [ROOT.GetLeader], who argues that we in Machiavellian terms are merely postponing war to the advantage of the enemy. At this rate, we may strike the first blow after all."
+  },
+  {
+    "key": "war_justification.13.t",
+    "version": "",
+    "type": "title",
+    "en": "[ROOT.GetLeader] Calls for War Against [From.GetName]"
+  },
+  {
+    "key": "war_justification.13.d",
+    "version": "",
+    "type": "desc",
+    "en": "'Although we may be a peaceful people, our nature alone does not determine the course we must take in history. This is a time of war. For too long, the [From.GetAdjective] have possessed the means that we need to make it through the trials we may face, and it's apparent that they will not part with them peacefully. Despite our best efforts to build a modern state, some matters can only be settled through the old trials of battle.'\\n\\n[ROOT.GetLeader]'s hostile rhetoric towards [From.GetName] has gone to great lengths to justify an invasion. Some portion of the population support this course, but the decision lies in the lands of our leader."
+  },
+  {
+    "key": "war_justification.14.t",
+    "version": "",
+    "type": "title",
+    "en": "[ROOT.GetLeader] Challenges [From.GetAdjective] Pretensions"
+  },
+  {
+    "key": "war_justification.14.d",
+    "version": "",
+    "type": "desc",
+    "en": "'[From.GetName] may think themselves more modern and advanced than us, but the truth is that their nation has not been tested as ours has, nor are they prepared for the threats now plain to see on the horizon. By their disdain towards us, and preventing us to seize that which is rightfully ours, they have made us one of those threats to themselves. Their weak and divided nation will hardly resist our claims.'\\n\\nThe derisive opinion of [From.GetName] long held by the [ROOT.GetRulingParty] has developed from criticism to hostility. Although popular opinion is that the [From.GetAdjective] people want to avoid war, [ROOT.GetLeader] claims that their elected leaders have provoked it through their arrogance."
+  },
+  {
+    "key": "war_justification.15.t",
+    "version": "",
+    "type": "title",
+    "en": "[ROOT.GetLeader] Wants to Restore Order in [From.GetName]"
+  },
+  {
+    "key": "war_justification.15.d",
+    "version": "",
+    "type": "desc",
+    "en": "'The [ROOT.GetAdjective] national spirit is strong, but not all nations are so fortunate. [From.GetName] has had its traditions destroyed and rightful rulers long since murdered and buried, all in the name of the idea of the great Marxist revolution. It is our duty to restore order to this world led astray by bloodthirsty usurpers and to assert the strength of [ROOT.GetName] against this threat.'\\n\\nWhile the [ROOT.GetRulingParty] has always opposed communism, [From.GetName] has been a target of particular attacks in recent speeches. Whether or not the attack on the [ROOT.GetAdjective] nation from communists is a real threat, the preemptive attack on [From.GetAdjective] communism is already in the works."
+  },
+  {
+    "key": "war_justification.16.t",
+    "version": "",
+    "type": "title",
+    "en": "[ROOT.GetLeader] Calls Out [From.GetAdjective] Oppressors"
+  },
+  {
+    "key": "war_justification.16.d",
+    "version": "",
+    "type": "desc",
+    "en": "'My opponents would have you believe that my rule is like that of the [From.GetRulingParty] in [From.GetName]. They could not be more wrong. While [From.GetLeader]'s successes are the result of a recent fad, a destructive mass movement bent on bullying other nations into submission, the [ROOT.GetRulingParty] stands in opposition to that movement as the ones who will not submit. I am prepared to do whatever is necessary to eliminate this threat, even if it means war.'\\n\\nThe [ROOT.GetLeader] regime has adopted a hostile policy towards the [From.GetAdjective] nation. Whatever our leaders may be called, fascist is a word reserved for our enemies."
+  },
+  {
+    "key": "war_justification.17.t",
+    "version": "",
+    "type": "title",
+    "en": "[ROOT.GetLeader] Questions [From.GetAdjective] Sovereignty"
+  },
+  {
+    "key": "war_justification.17.d",
+    "version": "",
+    "type": "desc",
+    "en": "'Who determines the borders of a nation and how are they determined? Whatever way people may have found in the past to justify where [ROOT.GetName] ends and [From.GetName] begins, we live in a new era. The strategic importance of this border cannot be overstated, and we are well within our rights to shift it to ensure the continued security of our people.'\\n\\nListening to [ROOT.GetLeader]'s recent speeches, an invasion of [From.GetName] appears imminent. Dissenting voices have objected, but public support for war is on the rise."
+  },
+  {
+    "key": "war_justification.18.t",
+    "version": "",
+    "type": "title",
+    "en": "[ROOT.GetLeader] Questions the Motives of [From.GetName]"
+  },
+  {
+    "key": "war_justification.18.d",
+    "version": "",
+    "type": "desc",
+    "en": "'There is no doubt that [From.GetName] is preparing for war. The changes in economic policy make it plain to see that the [From.GetAdjective] are not a people of peace, but rather waiting for the right opportunity to strike against us. Will we stand idly by and watch them arm themselves while [ROOT.GetName] is undefended? Or will we disarm this threat before it grows beyond our power?'\\n\\nThe hawks in the [ROOT.GetRulingParty] have turned their eyes towards [From.GetName], arguing that attack is the best defense. Their viewpoint is gaining traction and [ROOT.GetName] is preparing for war."
+  },
+  {
+    "key": "war_justification.19.t",
+    "version": "",
+    "type": "title",
+    "en": "[ROOT.GetLeader] Angered by [From.GetAdjective] Posturing"
+  },
+  {
+    "key": "war_justification.19.d",
+    "version": "",
+    "type": "desc",
+    "en": "'Those naïve citizens of [ROOT.GetName] who imagine the [From.GetAdjective] as a people of peace are entirely out of touch with reality. Those who live at our border do not have the luxury of such delusions, seeing their troops closing in on us just across it. This is a threat we cannot leave unanswered. With every passing day, [From.GetName] is preparing for war. It would be madness for us not to do the same.'\\n\\nThe [From.GetAdjective] military presence close to our territory has sparked increased concern as this nation appears more and more to be the enemy of the [ROOT.GetRulingParty]. Whether it is the cause or the effect of their polemic is a matter of contention."
+  },
+  {
+    "key": "war_justification.20.t",
+    "version": "",
+    "type": "title",
+    "en": "[ROOT.GetLeader] Advocates Invasion of [From.GetName]"
+  },
+  {
+    "key": "war_justification.20.d",
+    "version": "",
+    "type": "desc",
+    "en": "'If we want to have the strategic advantage in the foreseeable, not to say inevitable war with [From.GetName], there is no room to hesitate. This is about safeguarding our children's futures and ensuring that [ROOT.GetName] has a place in the world tomorrow. This is a matter of devotion to our cause and the ideals we take for granted. It's time to act.'\\n\\nA series of rousing speeches from [ROOT.GetRulingParty] leaders, most prominently [ROOT.GetLeader], has been calling the public to support an invasion of [From.GetName]. The geopolitical motives behind the invasion are less prominent in the rhetoric to patriotic sentiments, but this campaign appears highly efficient in convincing the public of its necessity."
+  },
+  {
+    "key": "war_justification.201.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetLeader] Speaks Against [ROOT.GetName]"
+  },
+  {
+    "key": "war_justification.201.d",
+    "version": "",
+    "type": "desc",
+    "en": "'Does [ROOT.GetName] belong to the [ROOT.GetAdjective]? Let us ask ourselves a better question: Does the future belong to the [ROOT.GetAdjective] or does it belong to [From.GetName]?'\\n\\n[From.GetLeader]'s speech today, suggested that [From.GetName] is on the path to war. Political tensions have been building over the past month and it seems the [From.GetAdjective] people have accepted that war is inevitable. [ROOT.GetName] must also prepare."
+  },
+  {
+    "key": "war_justification.202.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetLeader] Denounces [ROOT.GetAdjective] Ideals"
+  },
+  {
+    "key": "war_justification.202.d",
+    "version": "",
+    "type": "desc",
+    "en": "'The [ROOT.GetAdjective] claim to have liberty and democracy, claim to want peace, but all of these things they pride themselves on are hollow. Their democracy divides the people where it should stand united and their liberty only betrays a lack of discipline. We [From.GetAdjective]s see through these lies... and we can see that this peace, peace on their terms, is a lie as well.'\\n\\n[From.GetRulingParty] has long derided the weakness of the [ROOT.GetAdjective] nation, but lately the rhetoric has grown more aggressive. The day of armed conflict grows closer."
+  },
+  {
+    "key": "war_justification.203.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetLeader] Warns Against [ROOT.GetAdjective] Communism"
+  },
+  {
+    "key": "war_justification.203.d",
+    "version": "",
+    "type": "desc",
+    "en": "'Is there a bigger threat to our way of life, or indeed the way of life itself, than communism? This plague that threatens to make the slaves, not the masters, rule every nation, to abolish the nation itself, to abolish people and their history. We will take [From.GetName] and abolish the communist plague.'\\n\\n[From.GetLeader]'s hatred of communists has been well known since before [From.GetRulingParty]'s rise to power, but it appears to have intensified recently in the specific case of the [ROOT.GetAdjective] government. Our quest to purge Marxism off the face of the Earth may start there."
+  },
+  {
+    "key": "war_justification.204.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetName] Prepares for Great Struggle"
+  },
+  {
+    "key": "war_justification.204.d",
+    "version": "",
+    "type": "desc",
+    "en": "'The [ROOT.GetAdjective] are a people, who will not part easily with power. However, they must also realize that the trajectory of our two nations can only end in a clash. We must steel ourselves for the struggle to come. For [ROOT.GetName] will not be taken without a fight.'\\n\\nThe possibility of an understanding between the similarly minded governments of [ROOT.GetName] and [From.GetName] has given way to a campaign to take their territory by force."
+  },
+  {
+    "key": "war_justification.205.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetLeader] Bring Revolution to [ROOT.GetName]"
+  },
+  {
+    "key": "war_justification.205.d",
+    "version": "",
+    "type": "desc",
+    "en": "'While we have consolidated the socialist society in [From.GetName], many nations still suffer under the despots of old. The workers of [ROOT.GetName] have no voice, no means to organize, and any attempts to institute socialism will be crushed savagely by the [ROOT.GetLeader] regime. We cannot wait for the gears of the international revolution to turn for the [ROOT.GetAdjective] people. We have proven that we could crush the capitalist oppressors here, and we will crush the oppressors in [ROOT.Capital.GetName] as well!'\\n\\n[From.GetLeader] has abandoned all attempts at diplomacy with our government. The communist task of eradicating all borders is now strictly focused on eradicating our borders."
+  },
+  {
+    "key": "war_justification.206.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetLeader] Calls to Aid [ROOT.GetAdjective] Workers"
+  },
+  {
+    "key": "war_justification.206.d",
+    "version": "",
+    "type": "desc",
+    "en": "'Is there a greater lie than the supposed liberty of the [ROOT.GetAdjective] people? Where they once slaved under the princes and dukes who claimed ownership of the soil, they are now forced to sell their labor to those who claim ownership of the factories. Their freedom to choose one master over the other can hardly be called liberty. Likewise, their freedom to elect their leaders is a false choice, as propaganda would never allow the true socialists to take power. A people so thoroughly indoctrinated can only be saved by a [From.GetAdjective] intervention.'\\n\\nUnwilling to accept that our people may be satisfied without their social experiments, the communist regime in [From.GetName] has openly threatened to attack our nation. There is little reason to believe that this conflict could be resolved peacefully."
+  },
+  {
+    "key": "war_justification.207.t",
+    "version": "",
+    "type": "title",
+    "en": "[ROOT.GetAdjective] Communism Failing"
+  },
+  {
+    "key": "war_justification.207.d",
+    "version": "",
+    "type": "desc",
+    "en": "'Comrades, although the greatest revolutionaries have once been called traitors, it has become plain to see that the revolution itself has been betrayed. How else would you explain the rule of the [ROOT.GetRulingParty] of [ROOT.GetName], who have cast aside every hint of Marxist ideas to build a degenerated worker's state where they can reign under false premises? In strengthening their own power at the price of the international revolution, they have shown that they care little for the ideals they claim to hold. We must bring the true revolution to them.'\\n\\nAlthough initially supportive of [ROOT.GetRulingParty]'s victory in [ROOT.Capital.GetName], [From.GetLeader] has drifted away from [ROOT.GetLeader]'s philosophy. The conflict has escalated to the point where they are preparing to invade to enforce their brand of socialism on us."
+  },
+  {
+    "key": "war_justification.208.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetLeader] Calls for Crushing [ROOT.GetAdjective] Nationalism"
+  },
+  {
+    "key": "war_justification.208.d",
+    "version": "",
+    "type": "desc",
+    "en": "'Is there any society more repugnant to the future of the revolution, any more alien to the plight of the worker, than the fascist regime of [ROOT.GetName]? Calling upon the people to devote themselves fanatically to the decrepit institution of the nation state, they have dressed up age-old ways of savagery in a modern costume, trying to present themselves as an alternative future to the inevitable international victory of the working class. It is only a matter of time until they strike against us or our allies. Let us strike first.'\\n\\nNo one has expected less than mutual contempt between us and the [ROOT.GetAdjective], but the animosity has intensified lately. Hearing [From.GetLeader] speak, it appears that conflict will arise sooner rather than later."
+  },
+  {
+    "key": "war_justification.209.t",
+    "version": "",
+    "type": "title",
+    "en": "Diplomacy with [ROOT.GetName] Breaks Down"
+  },
+  {
+    "key": "war_justification.209.d",
+    "version": "",
+    "type": "desc",
+    "en": "'Despite our attempts to find a diplomatic solution to our conflict with [ROOT.GetName], negotiations have once again broken down, leaving us with limited options. The authoritarian [ROOT.GetLeader] regime has displayed the unreasonable approach to this matter typical of leaders who are not accountable to their people. Barring a complete turnaround in the policies of [ROOT.GetAdjective] leadership, we will be left with no recourse but to fight.'\\n\\n[From.GetAdjective] intervention in our domestic affairs has been a hot issue, with some politicians in their opposition claiming that [From.GetRulingParty] has pursued a hawkish policy from the start. Whatever their original intent, a future war now suddenly seems very real and inevitable."
+  },
+  {
+    "key": "war_justification.210.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetLeader] Calls for Intervention in [ROOT.GetName]"
+  },
+  {
+    "key": "war_justification.210.d",
+    "version": "",
+    "type": "desc",
+    "en": "'It is with heavy heart that we must confront the reality of our situation: An invasion of [ROOT.GetName] may be our only recourse. It is of too great a strategic advantage to attempt any other solution in our current situation. Although we trust that neither the [From.GetAdjective] nor the [ROOT.GetAdjective] people want war, but history has led us to this point and our options are limited. We can only hope that through this assertion of our military power, we can avoid further bloodshed in the future.'\\n\\nAlthough it is a popular theory that democracies do not go to war against other democracies, recent developments have pointed to a [From.GetAdjective] invasion of [ROOT.GetName] in the future. History may surprise us yet."
+  },
+  {
+    "key": "war_justification.211.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetLeader] Speaks Against Red Menace"
+  },
+  {
+    "key": "war_justification.211.d",
+    "version": "",
+    "type": "desc",
+    "en": "'Without a doubt, [ROOT.GetName] communism is one of the greatest threats to liberty and order in this era. Relentless and ruthless, it threatens to devour not only the [ROOT.GetAdjective] people's hope of a prosperous, democratic society, but that of its neighbors as well. If we do not act now, we may well see this first domino fall too late, leaving more failed social experiments in its wake. How many more need die before we intervene?'\\n\\nThe nascent worker's movement has intimidated [From.GetAdjective] leaders. While representatives in their opposition have called this a Red Scare aimed at pursuing war with us, the rhetoric of the [From.GetRulingParty] has been highly successful so far."
+  },
+  {
+    "key": "war_justification.212.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetLeader] Confronts [ROOT.GetAdjective] Fascism"
+  },
+  {
+    "key": "war_justification.212.d",
+    "version": "",
+    "type": "desc",
+    "en": "'In modern history, perhaps even in history as a whole, there has been no worse tyranny than the iron grip in which [ROOT.GetRulingParty] now holds [ROOT.GetName]. People may argue that we should not provoke conflict, that we should trust [ROOT.GetLeader] to honor treaties and promises in the future, but these people fail to see that treaties made under the reign of fascism are useless. To these dishonorable liars, might makes right, and the paper on which an agreement is written burns just as easily as the books of their detractors.'\\n\\nJealous of the glorious society we are building and the legacy it is founded upon, the [From.GetAdjective] seem prepared to start a war to destroy it. So much for their pretensions of peace."
+  },
+  {
+    "key": "war_justification.213.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetLeader] Calls for War Against [ROOT.GetName]"
+  },
+  {
+    "key": "war_justification.213.d",
+    "version": "",
+    "type": "desc",
+    "en": "'Although we may be a peaceful people, our nature alone does not determine the course we must take in history. This is a time of war. For too long, the [ROOT.GetAdjective] have possessed the means that we need to make it through the trials we may face, and it's apparent that they will not part with them peacefully. Despite our best efforts to build a modern state, some matters can only be settled through the old trials of battle.'\\n\\nIn a recent speech to the [From.GetAdjective] people the hostile rhetoric towards [ROOT.GetName] has intensified and [From.GetLeader] has gone to great lengths to justify an invasion. Some portion of the population support this course, but the decision lies in the lands of their leader."
+  },
+  {
+    "key": "war_justification.214.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetLeader] Challenges [ROOT.GetAdjective] Pretensions"
+  },
+  {
+    "key": "war_justification.214.d",
+    "version": "",
+    "type": "desc",
+    "en": "'[ROOT.GetName] may think themselves more modern and advanced than us, but the truth is that their nation has not been tested as ours has, nor are they prepared for the threats now plain to see on the horizon. By their disdain towards us, and preventing us to seize that which is rightfully ours, they have made us one of those threats to themselves. Their weak and divided nation will hardly resist our claims.'\\n\\nThe derisive opinion of [ROOT.GetName] long held by the [From.GetRulingParty] has developed from criticism to hostility. Although popular opinion is that the [ROOT.GetAdjective] people want to avoid war, [From.GetLeader] claims that our elected leaders have provoked it through their arrogance."
+  },
+  {
+    "key": "war_justification.215.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetLeader] Wants to Restore Order in [ROOT.GetName]"
+  },
+  {
+    "key": "war_justification.215.d",
+    "version": "",
+    "type": "desc",
+    "en": "'The [From.GetAdjective] national spirit is strong, but not all nations are so fortunate. [ROOT.GetName] has had its traditions destroyed and rightful rulers long since murdered and buried, all in the name of the idea of the great Marxist revolution. It is our duty to restore order to this world led astray by bloodthirsty usurpers and to assert the strength of [From.GetName] against this threat.'\\n\\nWhile the [From.GetRulingParty] has always opposed communism, [ROOT.GetName] has been a target of particular attacks in recent speeches. Fearing their nation's inevitable progress to the next stage of history, a preemptive attack on [ROOT.GetAdjective] communism is already in the works."
+  },
+  {
+    "key": "war_justification.216.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetLeader] Calls Out [ROOT.GetAdjective] Oppressors"
+  },
+  {
+    "key": "war_justification.216.d",
+    "version": "",
+    "type": "desc",
+    "en": "'My opponents would have you believe that my rule is like that of the [ROOT.GetRulingParty] in [ROOT.GetName]. They could not be more wrong. While [ROOT.GetLeader]'s successes are the result of a recent fad, a destructive mass movement bent on bullying other nations into submission, the [From.GetRulingParty] stands in opposition to that movement as the ones who will not submit. I am prepared to do whatever is necessary to eliminate this threat, even if it means war.'\\n\\nThe [From.GetLeader] regime has adopted a hostile policy towards the [ROOT.GetAdjective] nation. Our visionary plans for future greatness have put their nation to shame, and unsurprisingly, they feel threatened."
+  },
+  {
+    "key": "war_justification.217.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetLeader] Questions [ROOT.GetAdjective] Sovereignty"
+  },
+  {
+    "key": "war_justification.217.d",
+    "version": "",
+    "type": "desc",
+    "en": "'Who determines the borders of a nation and how are they determined? Whatever way people may have found in the past to justify where [From.GetName] ends and [ROOT.GetName] begins, we live in a new era. The strategic importance of this border cannot be overstated, and we are well within our rights to shift it to ensure the continued security of our people.'\\n\\nListening to [From.GetLeader]'s recent speeches, an invasion of [ROOT.GetName] appears imminent. Dissenting voices have objected, but public support for war is on the rise."
+  },
+  {
+    "key": "war_justification.218.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetLeader] Questions the Motives of [ROOT.GetName]"
+  },
+  {
+    "key": "war_justification.218.d",
+    "version": "",
+    "type": "desc",
+    "en": "'There is no doubt that [ROOT.GetName] is preparing for war. The changes in economic policy make it plain to see that the [ROOT.GetAdjective] are not a people of peace, but rather waiting for the right opportunity to strike against us. Will we stand idly by and watch them arm themselves while [From.GetName] is undefended? Or will we disarm this threat before it grows beyond our power?'\\n\\nThe hawks in the [From.GetRulingParty] have turned their eyes towards [ROOT.GetName], arguing that attack is the best defense. Their viewpoint is gaining traction and [From.GetName] is preparing for war."
+  },
+  {
+    "key": "war_justification.219.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetLeader] Angered by [ROOT.GetAdjective] Posturing"
+  },
+  {
+    "key": "war_justification.219.d",
+    "version": "",
+    "type": "desc",
+    "en": "'Those naïve citizens of [From.GetName] who imagine the [ROOT.GetAdjective] as a people of peace are entirely out of touch with reality. Those who live at our border do not have the luxury of such delusions, seeing their troops closing in on us just across it. This is a threat we cannot leave unanswered. With every passing day, [ROOT.GetName] is preparing for war. It would be madness for us not to do the same.'\\n\\nOur military presence close to [From.GetAdjective] territory has sparked increased concern, since they interpret our troop movements as proof hostile intent. They hardly seem to have considered that their aggressive rhetoric is the reason for our defensive measures."
+  },
+  {
+    "key": "war_justification.220.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetLeader] Advocates Invasion of [ROOT.GetName]"
+  },
+  {
+    "key": "war_justification.220.d",
+    "version": "",
+    "type": "desc",
+    "en": "'If we want to have the strategic advantage in the foreseeable, not to say inevitable war with [ROOT.GetName], there is no room to hesitate. This is about safeguarding our children's futures and ensuring that [From.GetName] has a place in the world tomorrow. This is a matter of devotion to our cause and the ideals we take for granted. It's time to act.'\\n\\nA series of rousing speeches from [From.GetRulingParty] leaders, most prominently [From.GetLeader], has been calling the public to support an invasion of [ROOT.GetName]. The geopolitical motives behind the invasion are less prominent in the rhetoric to patriotic sentiments, but this campaign appears highly efficient in convincing the public of its necessity."
+  },
+  {
+    "key": "war_justification.301.t",
+    "version": "",
+    "type": "title",
+    "en": "[ROOT.GetLeader] Criticized for Weak Foreign Policy"
+  },
+  {
+    "key": "war_justification.301.d",
+    "version": "",
+    "type": "desc",
+    "en": "'We had the chance to strike against our enemies, but the [ROOT.GetRulingParty] let it pass by. Not only is this yet another damning case in a string of missed opportunities to strengthen [ROOT.GetName]'s position internationally, it is a sign that their claim to be acting in the interest of the [ROOT.GetAdjective] people is mostly empty rhetoric. It is time for a change in policy.'\\n\\nOur failure to pursue the war many had expected has been the target of scathing criticism from our political opponents. Not following through on our military plans will make it more difficult for us to convince the people in which direction we're taking [ROOT.GetName]."
+  },
+  {
+    "key": "soviet.30.t",
+    "version": "",
+    "type": "title",
+    "en": "Demand Bessarabia"
+  },
+  {
+    "key": "soviet.30.d",
+    "version": "",
+    "type": "desc",
+    "en": "Romania cannot expect to withstand the might of the Red Army, if we send them a demand for our rightfully claimed land in Bessarabia they may just hand it over without a fight."
+  },
+  {
+    "key": "soviet.31.t",
+    "version": "",
+    "type": "title",
+    "en": "Demand Karjala"
+  },
+  {
+    "key": "soviet.31.d",
+    "version": "",
+    "type": "desc",
+    "en": "Finland cannot expect to withstand the might of the Red Army, if we send them a demand for our rightfully claimed land in Karjala they may just hand it over without a fight."
+  },
+  {
+    "key": "soviet.32.t",
+    "version": "",
+    "type": "title",
+    "en": "Oppress Estonia"
+  },
+  {
+    "key": "soviet.32.d",
+    "version": "",
+    "type": "desc",
+    "en": "Estonia cannot expect to withstand the might of the Red Army, if we send them a demand for basing rights and control of their border security we can effectively annex them without fighting."
+  },
+  {
+    "key": "soviet.33.t",
+    "version": "",
+    "type": "title",
+    "en": "Oppress Latvia"
+  },
+  {
+    "key": "soviet.33.d",
+    "version": "",
+    "type": "desc",
+    "en": "Latvia cannot expect to withstand the might of the Red Army, if we send them a demand for basing rights and control of their border security we can effectively annex them without fighting."
+  },
+  {
+    "key": "soviet.34.t",
+    "version": "",
+    "type": "title",
+    "en": "Oppress Lithuania"
+  },
+  {
+    "key": "soviet.34.d",
+    "version": "",
+    "type": "desc",
+    "en": "Lithuania cannot expect to withstand the might of the Red Army, if we send them a demand for basing rights and control of their border security we can effectively annex them without fighting."
+  },
+  {
+    "key": "soviet.35.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetNameDefCap] seeks to join [SOV.GetNameDef]"
+  },
+  {
+    "key": "soviet.35.d",
+    "version": "",
+    "type": "desc",
+    "en": "Recent political turmoil in [From.GetName] has left their government with a strong vision for the future that aligns with our own. They have seen the good a powerful Soviet Union can do for the world and are willing to give everything for the Motherland."
+  },
+  {
+    "key": "soviet.36.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetName] wants our rule."
+  },
+  {
+    "key": "soviet.36.d",
+    "version": "",
+    "type": "desc",
+    "en": "Recent political turmoil in [From.GetName] has left their government with a strong vision for the future that aligns with our own plans. They seek our protection and offer their unconditional support. Officially they will continue as a nation of their own, but they will follow the Motherland in every move."
+  },
+  {
+    "key": "soviet.37.t",
+    "version": "",
+    "type": "title",
+    "en": "Talented new officers."
+  },
+  {
+    "key": "soviet.37.d",
+    "version": "",
+    "type": "desc",
+    "en": "Our new officers are proving up to the task and are adapting to their new roles in the military high command. With a loyal officer corps in charge of our military [Root.GetLeader]'s purge seems to have some of the effect we hoped for. The Red Army is regaining its power and will soon be stronger than ever."
+  },
+  {
+    "key": "soviet.46.t",
+    "version": "",
+    "type": "title",
+    "en": "Great Patriotic War"
+  },
+  {
+    "key": "soviet.46.d",
+    "version": "",
+    "type": "desc",
+    "en": "Although we still have a lot of work left in rebuilding our military high command, the advancement of the [From.GetAdjective] army on our borders has sparked ingenuity and a patriotic will to fight within our new officer corps. We grow stronger with each blow we take as we prepare to rise up and strike back with all the might of the [Prev.GetName]. Every soldier is willing to throw down their lives and stand firm against our enemies. We expect this to greatly benefit the training and commitment of our new officers even after this war is won!"
+  },
+  {
+    "key": "soviet.48.t",
+    "version": "",
+    "type": "title",
+    "en": "The Permanent Revolution"
+  },
+  {
+    "key": "soviet.48.d",
+    "version": "",
+    "type": "desc",
+    "en": "Although countless people have been executed and imprisoned as traitors and counterrevolutionaries over the past years, leading positions have been largely safe. They have not been exempt from suspicion, however. With the creation of the Fourth International, Stalin appears possessed by the thought that those closest to him were never truly on his side. Those who try to gain his trust have further fueled this idea to cast themselves in a better light.\\n\\nThe current situation is one of exceptional irony: the distrust within the current administration has rendered it unsustainable, and a coup is now imminent. Some party members are arguing that re-inviting Trotsky and turning the purges on the Stalinists could minimize the damage of the civil war that will ensue. Can this plan, which has been the General Secretary's greatest fear for years, truly be executed?"
+  },
+  {
+    "key": "soviet.49.t",
+    "version": "",
+    "type": "title",
+    "en": "The Second Russian Civil War"
+  },
+  {
+    "key": "soviet.49.d",
+    "version": "",
+    "type": "desc",
+    "en": "With Stalin's increasing paranoia, the Party and military have become divided. Those who have managed to earn his trust - at least temporarily - want to keep him in power and retain the cult of personality he has built up, but many others have been informally cut out of the loop. Some of them believe that Stalin's rule has failed, others suspect they are simply waiting for the day when the NKVD will find or make an excuse to have them arrested.\\n\\nTogether, they have formed a faction powerful enough to challenge the current administration. Their stated goal is to overthrow Stalin's tyranny and transition from a totalitarian state, with a board of military officers overseeing the process.\\n\\nStalin's supporters in the military and the Party have rallied to retain the current regime, calling their opponents counterrevolutionary traitors. A new civil war is at hand."
+  },
+  {
+    "key": "soviet.50.t",
+    "version": "",
+    "type": "title",
+    "en": "Russian Liberation Army Founded"
+  },
+  {
+    "key": "soviet.50.d",
+    "version": "",
+    "type": "desc",
+    "en": "The foundation of the Fourth International has reawakened Stalin's fear of traitors in the Party and military command. Having seen the trials and executions in the Great Purge, many suspect another one is incoming. In response, a number of generals led by Andrey Vlasov have formed the Committee for the Liberation of the People of Russia, with the goal of overthrowing Stalin's regime before it can do any more damage.\\n\\nAlthough the stated long-term goal is a transition to democracy, the exact form is unclear as of yet. All that is clear is that they intend to remove Stalin from power and end the rule of the Bolsheviks."
+  },
+  {
+    "key": "soviet.51.t",
+    "version": "",
+    "type": "title",
+    "en": "NKVD Launch Coup"
+  },
+  {
+    "key": "soviet.51.d",
+    "version": "",
+    "type": "desc",
+    "en": "The foundation of the Fourth International has reawakened Stalin's fear of traitors in the Party and military command. Having seen the trials and executions in the Great Purge, many suspect another one is incoming. The NKVD, which has been a crucial tool in the purges, has also been acutely aware of the fact that the agency itself a potential target. Rather than waiting to be imprisoned, executed and replaced, its leaders have decided to strike first and launch a coup with support from the similarly concerned military officials.\\n\\nHowever, despite its influential position, the NKVD has found it difficult to gain the trust of military leaders. The coup has only succeeded in gaining control of a limited area of the Union, but with the remnants of the old agency now facing certain execution, they are unlikely to surrender."
+  },
+  {
+    "key": "soviet.52.t",
+    "version": "",
+    "type": "title",
+    "en": "The Survivors' Coup"
+  },
+  {
+    "key": "soviet.52.d",
+    "version": "",
+    "type": "desc",
+    "en": "The foundation of the Fourth International has reawakened Stalin's fear of traitors in the Party and military command. Having seen the trials and executions in the Great Purge, many suspect another one is incoming. With so many gone, there are only a few under suspicion who managed to avoid execution. Having been brutally interrogated and in some cases imprisoned, they know very well that they will be the first victims of another purge. In an act of desperation, these generals have decided to attempt to overthrow Stalin's regime before this happens.\\n\\nAlthough unlikely to succeed in the attempt, some survivors of the Great Purge have managed to seize control in some areas of the Union. The reign of the General Secretary has at the very least been destabilized."
+  },
+  {
+    "key": "soviet.53.t",
+    "version": "",
+    "type": "title",
+    "en": "The Successful Purge"
+  },
+  {
+    "key": "soviet.53.d",
+    "version": "",
+    "type": "desc",
+    "en": "In the wake of the foundation of the Fourth International the hunt for Trotsky's supporters was intensified and several people close to Stalin were executed. Left with no one but himself, Stalin has retreated to his mansion. With every treacherous friend and family member finally dealt with he can now find some rest and focus fully on bringing glory to [SOV.GetNameDef]."
+  },
+  {
+    "key": "soviet.54.t",
+    "version": "",
+    "type": "title",
+    "en": "Under New Leadership"
+  },
+  {
+    "key": "soviet.54.d_nopurge",
+    "version": "",
+    "type": "desc",
+    "en": "With the waning power of the communist party, it has long been clear that the Stalinist system is unsustainable.\\nNew forces have risen up to seize power, invoking Russian ideals to guide our country along a new path.\\n\\nSymbolising this transition, [Root.GetLeader] has had Stalin deposed and placed in house arrest, far from the halls of power where he devised so many of his dangerous projects.\\nAs a new Russian system grows to replace the decaying corpse of the Party, the secrecy, paranoia and political plotting of the old General Secretary is at an end."
+  },
+  {
+    "key": "soviet.54.d_purge",
+    "version": "",
+    "type": "desc",
+    "en": "It has become clear that the greatest threat to the Russian state is not conspirators against the Communist Party, but the Party itself. With the disillusionment of the communist dream in Russia, new forces have seized power in order to bring our country into the future.\\n\\nFollowing the deposition of Stalin by [Root.GetLeader], the old General Secretary was given an expedient trial. His paranoid witch hunts being described as the destruction of the nation's leadership at a time of desperate need, Stalin was sentenced to death for treason. The old system goes with him into an unmarked grave."
+  },
+  {
+    "key": "usa.14.t",
+    "version": "",
+    "type": "title",
+    "en": "The Fascist Twilight"
+  },
+  {
+    "key": "usa.14.d",
+    "version": "",
+    "type": "desc",
+    "en": "Our great role-model, Nazi Germany, has betrayed their deepest principles and has allied themselves to the great enemy: The Communists. As the knowledge spreads, unrest follows in its wake. The people were willing to follow us this far, through fear of a Communist revolution, but with Germany's defection our great revival is being questioned."
+  },
+  {
+    "key": "usa.24.t",
+    "version": "",
+    "type": "title",
+    "en": "The Red Twilight"
+  },
+  {
+    "key": "usa.24.d",
+    "version": "",
+    "type": "desc",
+    "en": "[SOV.GetNameDefCap], the inspiration that convinced many of how overthrowing capitalism was possible, has betrayed the international revolution and aligned itself with Nazi Germany. Between socialism in one country and this alliance with fascists, people are beginning to doubt the sincerity of the communist ideals worldwide. Is American communism just another tool [Root.GetLeader] has used to consolidate power?"
+  },
+  {
+    "key": "usa.17.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.From.GetName] has declared war on [From.GetName]"
+  },
+  {
+    "key": "usa.17.d",
+    "version": "",
+    "type": "desc",
+    "en": "The world is already an unsafe place. Can we really allow war in our own region or should we ensure that the peace is kept? We can send [From.From.GetName] an ultimatum to make peace with [From.GetName] or leave them to fight it out."
+  },
+  {
+    "key": "usa.18.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetName] intervenes in war against [being_attacked.GetName]"
+  },
+  {
+    "key": "usa.18.d",
+    "version": "",
+    "type": "desc",
+    "en": "[From.GetName] is displeased with our conflict war against [being_attacked.GetName]. They threaten us with a war of their own if we do not immediately sign a peace deal with [being_attacked.GetName]. \\nShould we back down?"
+  },
+  {
+    "key": "usa.19.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetNameWithFlag] gains Puppet (focus) war goal against [Root.GetName]"
+  },
+  {
+    "key": "usa.20.t",
+    "version": "",
+    "type": "title",
+    "en": "US Influence"
+  },
+  {
+    "key": "usa.20.d",
+    "version": "",
+    "type": "desc",
+    "en": "The [From.GetName]'s advocation for democracy is starting to affect our country. Radio broadcasts allow speeches from [From.GetLeader] to reach our people and we have found many [Root.GetAdjective]'s being attracted to the [From.GetAdjective] way of life. [Root.GetName] is no puppet, nor will we allow our politics to be dictated by The [From.GetName]. However, we cannot deny the influence that [From.GetAdjective] politics have on our country."
+  },
+  {
+    "key": "usa.21.d",
+    "version": "",
+    "type": "desc",
+    "en": "The [From.GetName]'s advocation for communism is starting to affect our country. Radio broadcasts allow speeches from [From.GetLeader] to reach our people. We have even found propaganda leaflets encouraging [Root.GetAdjective] workers to organize and promoting the [From.GetAdjective] way of life. [Root.GetName] is no puppet, nor will we allow our politics to be dictated by The [From.GetName]. However, we cannot deny the influence that [From.GetAdjective] politics have on our country."
+  },
+  {
+    "key": "usa.22.d",
+    "version": "",
+    "type": "desc",
+    "en": "The [From.GetName]'s advocation for fascism is starting to affect our country. Radio broadcasts allow speeches from [From.GetLeader] to reach our people and we have even found propaganda leaflets promoting the [From.GetAdjective] way of life being distributed in some parts of the country. [Root.GetName] is no puppet, nor will we allow our politics to be dictated by The [From.GetName]. However, we cannot deny the influence that [From.GetAdjective] politics have on our country."
+  },
+  {
+    "key": "usa.23.t",
+    "version": "",
+    "type": "title",
+    "en": "US Protection"
+  },
+  {
+    "key": "usa.23.d",
+    "version": "",
+    "type": "desc",
+    "en": "The [From.GetName] are now enforcing the Monroe doctrine much more strictly. Besides the political influence they already have on our country, [From.GetName] officials now declare that they are prepared to intervene in any conflict between American countries."
+  },
+  {
+    "key": "usa.30.t",
+    "version": "",
+    "type": "title",
+    "en": "Elections to Congress"
+  },
+  {
+    "key": "usa.30.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Every two years, a third of the Senate seats and all seats in the House of Representatives are up for election. While often overshadowed by world events, the local situation in each constituency can sometimes make the difference. \\n\\nAfter all the votes were counted, the faction in support of the government [USA.GetSenateElectionOutcome] in the Senate and [USA.GetHouseElectionOutcome] in the House."
+  },
+  {
+    "key": "usa.31.t",
+    "version": "",
+    "type": "title",
+    "en": "A Shift in the Political Landscape"
+  },
+  {
+    "key": "usa.31.desc",
+    "version": "",
+    "type": "desc",
+    "en": "With a new president now in office, the former opposition in Congress has largely shifted to support the new administration. President [USA.GetLeader] can count on the support of [?senators_support] Senators and [?representatives_support] Representatives."
+  },
+  {
+    "key": "usa.32.t",
+    "version": "",
+    "type": "title",
+    "en": "Government Faction wins Majority in Congress"
+  },
+  {
+    "key": "usa.32.desc",
+    "version": "",
+    "type": "desc",
+    "en": "It appears that the reforms of the electoral system we instituted have been most successful, as a large number of our supporters were elected to Congress in the last election. With a solid majority, we should have little trouble pushing through our political agenda."
+  },
+  {
+    "key": "usa.40.t",
+    "version": "",
+    "type": "title",
+    "en": "Senator votes for Government Proposal"
+  },
+  {
+    "key": "usa.40.desc",
+    "version": "",
+    "type": "desc",
+    "en": "In a recent vote, a senator has surprisingly switched sides to vote for a government proposal. While the issue itself was fairly minor, the public vote of support from a previously outspoken critic of [USA.GetLeader] has raised many eyebrows around Washington.\\n\\nSome analysts believe that this example will lead additional senators to reconsider their stance."
+  },
+  {
+    "key": "usa.41.t",
+    "version": "",
+    "type": "title",
+    "en": "Representative speaks passionately in support of Government"
+  },
+  {
+    "key": "usa.41.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Asked about her stance on a number of policy issues at a fund-raising dinner, a representative spoke out in support of President [USA.GetLeader]'s policies. She further claimed that many of her fellow representatives had similar views, but were merely held back by \"idiotic short-sightedness, thinking no further than the next election\" instead of doing what was right for the American people. \\n\\nHer comments have been widely reported by the press and put several of her colleagues in hot water as they had to explain where they stood on these issues."
+  },
+  {
+    "key": "usa.42.t",
+    "version": "",
+    "type": "title",
+    "en": "Senator speaks out against Government Policy"
+  },
+  {
+    "key": "usa.42.desc",
+    "version": "",
+    "type": "desc",
+    "en": "A Senator has given an interview in a major newspaper, saying that he can no longer support the \"foolish and dangerous\" policies of President [USA.GetLeader]. He further claimed that he knew several other Senators who thought similarly and would abandon the President in short order."
+  },
+  {
+    "key": "usa.43.t",
+    "version": "",
+    "type": "title",
+    "en": "Representative criticizes President"
+  },
+  {
+    "key": "usa.43.desc",
+    "version": "",
+    "type": "desc",
+    "en": "During a recent debate on tax reform, a Representative launched into a long-winded speech about the many failings of the Administration. According to him, no right-thinking American could possibly want to support the policies of the President, whatever their party affiliation may be. \\n\\nHis harsh words seem to have had an effect, as a number of Representatives previously thought firmly behind the policies of [USA.GetLeader] made noises of support."
+  },
+  {
+    "key": "usa.44.t",
+    "version": "",
+    "type": "title",
+    "en": "Opposition suffers defeat in the Senate"
+  },
+  {
+    "key": "usa.44.desc",
+    "version": "",
+    "type": "desc",
+    "en": "A motion to censure President [USA.GetLeader] has been defeated in the Senate. While even its most ardent supporters had little hope that it would pass, the amount of votes against it came as a shock even to the most pessimistic of observers. It appears that the President enjoys a far greater level of support in the Senate than most believed, which should help in advancing his legislative agenda."
+  },
+  {
+    "key": "usa.45.t",
+    "version": "",
+    "type": "title",
+    "en": "House Committee supports Presidential Policy"
+  },
+  {
+    "key": "usa.45.desc",
+    "version": "",
+    "type": "desc",
+    "en": "The latest round of hearings in the House Committee on Ways and Means has resulted in a report crediting the President's policies with a major improvements in all available metrics of the economy. While stopping short of outright praise, the report nevertheless comes as a blow to those that were criticizing the President and demanding reforms.\\n\\nA number of Representatives have already publicly declared that although they still harbour doubts about the President's agenda, they will now vote in support."
+  },
+  {
+    "key": "usa.46.t",
+    "version": "",
+    "type": "title",
+    "en": "Senator retires"
+  },
+  {
+    "key": "usa.46.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Following a minor heart attack, a senior Senator announced today that he will be retiring for health reasons. With more than two decades in Congress, the Senator built a large network of supporters and his influence carried a lot of weight. While technically only one man with one vote, Washington insiders nonetheless counted him as worth several votes as he was the key to secure several others. \\n\\nWith the seat most likely going to an avowed critic of President [USA.GetLeader], the Administration will find it a lot harder to secure the necessary votes to pass bills."
+  },
+  {
+    "key": "usa.47.t",
+    "version": "",
+    "type": "title",
+    "en": "House hearings into Presidential misconduct"
+  },
+  {
+    "key": "usa.47.desc",
+    "version": "",
+    "type": "desc",
+    "en": "A minor scandal originating in the White House has started to gain momentum. Following weeks of media reports implying that a minor administrative official had been taking bribes in return for lucrative government contracts, the House Committee on Expenditures in the Executive has begun to hold hearings to determine if the President was aware of this. While most observers don't believe that this will lead to any major trouble for President [USA.GetLeader], it will no doubt mean that many of the president's supporters will have to lay low for a while."
+  },
+  {
+    "key": "usa.61.t",
+    "version": "",
+    "type": "title",
+    "en": "Senator from [USA_congress_investment_state.GetName] offers Support"
+  },
+  {
+    "key": "usa.61.desc",
+    "version": "",
+    "type": "desc",
+    "en": "The senior Senator from [USA_congress_investment_state.GetName] has approached the government with an offer of support. His state suffers from critical under-investment, and a government-initiated economic stimulus program would certainly make him reconsider his stance on certain proposed government policies. The senator sits on several important committees, and is quite famous for being able to cut deals, making his vote worth several more in both houses."
+  },
+  {
+    "key": "usa.62.desc",
+    "version": "",
+    "type": "desc",
+    "en": "The Senators from [USA_congress_investment_state.GetName] have approached the government, offering their support for the President in return for an informal guarantee that [USA_congress_investment_state.GetName] would be the site of a new munitions plant for the Army. They argue that building a plant in the area would create a lot of jobs and provide the Army with much needed support in an increasingly dangerous world. The two Senators also mentioned their excellent working relationship with several influential members of the House."
+  },
+  {
+    "key": "usa.63.t",
+    "version": "",
+    "type": "title",
+    "en": "Representatives from [USA_congress_investment_state.GetName] offer Support"
+  },
+  {
+    "key": "usa.63.desc",
+    "version": "",
+    "type": "desc",
+    "en": "The congressional Delegation from [USA_congress_investment_state.GetName] have approached the government with several suggestions to improve the infrastructure of the state. Federal funding should be made available to upgrade roads and bridges in order to promote commerce between the states. They also noted that support from the government in this would certainly make them more inclined to support the President more directly in his agenda."
+  },
+  {
+    "key": "usa.64.t",
+    "version": "",
+    "type": "title",
+    "en": "Senate Committee investigates shipbuilding in [USA_congress_investment_state.GetName]"
+  },
+  {
+    "key": "usa.64.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Prodded by the senior Senator from [USA_congress_investment_state.GetName], the Senate Commerce Committee has begun hearings into the state of the local shipbuilding industry. According to experts, a significant percentage of US trade depends on overseas trade, and the country is desperately lacking in shipbuilding capacity. [USA_congress_investment_state.GetName] has been identified as a region in which a major investment should be made, and several committee members have expressed an expectation that the administration of [USA.GetLeader] will set funds aside for this."
+  },
+  {
+    "key": "usa.65.t",
+    "version": "",
+    "type": "title",
+    "en": "A Surprising Display of [GER.GetAdjective] Mercy."
+  },
+  {
+    "key": "usa.65.desc",
+    "version": "",
+    "type": "desc",
+    "en": "We have been reached by a remarkable story from the Air Force. After a botched bomb run on [GER.GetAdjective] military industry, our bomber ''Ye Olde Pub'' had suffered severe damage, lost one crewmember and saw the rest badly injured. The crew, led by 2nd Lt. Charles ''Charlie'' Brown, had refused to bail and leave behind those that could not make a safe landing to go down with the plane.\\n\\nAs the straggling plane once again found itself intercepted by a hostile fighter with barely any functioning armaments left to defend herself, the crew was shocked to see the fighter would not open fire. Through gestures and mouthing of words the [GER.GetAdjective] pilot attempted to communicate with the crew. Despite great efforts on both sides no means of communication were possible. The fighter accompanied ''Ye Olde Pub'' out of [GER.GetAdjective] airspace and as the crew turned their one remaining gun on the fighter to signal that they no longer needed his support, the fighter pilot gave a salute, and returned back to [GER.GetNameDef].\\n\\nThe story brings hope that there are still good people, even on our opponents side, but allowing this story to spread free among our population and our troops may have unwanted side effects."
+  },
+  {
+    "key": "usa.401.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetNameDefCap] accepts Destroyers for Bases Agreement"
+  },
+  {
+    "key": "usa.401.desc",
+    "version": "",
+    "type": "desc",
+    "en": "British Prime Minister [From.GetLeader] has signaled his acceptance of the terms of the Destroyers for Bases Agreement. A group of [From.GetAdjective] naval officers has arrived to inspect the destroyers and oversee the transfer.\\n\\n There is evidently still some work to do as several [From.GetAdjective] officers seem a little concerned about the sheer amount and thickness of guano and rust on the ships to be transferred."
+  }
+]

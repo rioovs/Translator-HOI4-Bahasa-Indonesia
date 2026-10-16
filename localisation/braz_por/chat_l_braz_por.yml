@@ -1,0 +1,6 @@
+﻿l_braz_por:
+ CHAT_USERJOINEDCHANNEL: "$ bergabung."
+ CHAT_USERDISCONNECTED: "$ terputus."
+ CHAT_USERWASBANNED: "$ telah diblokir."
+ CHAT_USERLEFTCHANNEL: "$ meninggalkan saluran."
+ CHAT_CHANNEL_GENERAL: "Umum"

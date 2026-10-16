@@ -1,0 +1,177 @@
+000: INS_nationalize_companies_tt | All Military Industrial Organizations and Industrial Concerns will be nationalized and given a new name.
+001: INS_is_union_tt | Has formed the Netherlands-Indonesia Union
+002: INS_is_union_tt_NOT | Has not formed the Netherlands-Indonesia Union
+003: INS_denounce_soetardjo | Denounce Soetardjo
+004: INS_denounce_soetardjo_tt | We will begin planning an underground revolution, infiltrating the government and establishing guerilla cells across the archipelago. Once we are sufficiently prepared, we will begin a guerilla war of independence against the Dutch.
+005: INS_soetardjo_petition_debate_done_tt | The Volksraad debate on Soetardjo's petition for autonomy has concluded
+006: INS_tkr_tt | Modifies §YThe People's Security Army§! by:
+007: INS_commander_sudirman_tt | §YSudirman§!([INS.GetFlag]) Gets promoted to §YField Marshal§!
+008: INS_the_declaration_of_independence | The Declaration of Independence
+009: INS_the_declaration_of_independence_desc | We cannot risk waiting any longer, we must strike while the iron is hot! We should send our militias to seize control of ports, cities, and industrial centres quickly enough that the Dutch authorities will not have time to react. Then, we will declare independence, proclaiming the Republic of Indonesia.
+010: INS_the_declaration_of_independence_tt | We will declare §YIndependence§!. Every state where we established a §YMilitia Base§! or §YHeadquarters§! will be under our control, with the rest staying with [HOL.GetNameDef]\n\n[HOL.GetNameDefCap] will not recognize our sovereignty and a low-intensity conflict will commence. This could escalate to a §Rwar§!.\n\nUnlocks land raids to take over states.
+011: INS_laskar_rakjat | Laskar Rakyat
+012: INS_laskar_rakjat_desc | The revolution is made up of many various militias across Indonesia, some big and some small. Organizing the militias is a necessary step to achieve victory. We mustn't be too hasty, however, as empowering militias with ties to our political rivals could pose catastrophe.
+013: INS_militia_tt | Creates a new §YFreedom Fighter§! militia division template and unlocks decisions to manage them.
+014: INS_militia_warning_tt | Militias are §Ysemi-autonomous§! groups of freedom fighters. They will fight for us, but their help is not free. They will expect to receive compensation for their efforts. §RStability will be drastically impacted if demands are not met!§!
+015: INS_usa_tanks_opinion_mod | Purchased Our Tanks
+016: INS_republic_add_generals_tt | (§Y$INS_sudirman$§!([INS.GetFlag]), §Y$INS_soengkono$§!([INS.GetFlag]), §Y$INS_supriyadi$§!([INS.GetFlag]), §Y$INS_djatikoesoemo$§!([INS.GetFlag]), §Y$INS_maludin_simbolan$§!([INS.GetFlag])) becomes a General.
+017: INS_big_militia_presence_tt | Will be controlled by our Militias upon declaring independence.
+018: INS_prepare_raiding_bases | Prepare Raiding Bases
+019: INS_prepare_raiding_bases_desc | We will utilize our network of spies to establish bunkers across the entire archipelago in secret, ensuring we are prepared to strike once the revolution begins.
+020: INS_netherlands_can_remove_autonomy_tt_50 | \nIf [HOL.GetFlag]§Y[HOL.GetNameDefCap]§! completes this focus first:\n    ([INS.GetFlag]§Y[INS.GetName]§!): Add §Y£autonomy_texticon -50.00§!
+021: INS_netherlands_can_remove_autonomy_tt_75 | \nIf [HOL.GetFlag]§Y[HOL.GetNameDefCap]§! completes this focus first:\n    ([INS.GetFlag]§Y[INS.GetName]§!): Add §Y£autonomy_texticon -75.00§!
+022: INS_netherlands_can_remove_autonomy_tt_100 | \nIf [HOL.GetFlag]§Y[HOL.GetNameDefCap]§! completes this focus first:\n    ([INS.GetFlag]§Y[INS.GetName]§!): Add §Y£autonomy_texticon -100.00§!
+023: INS_netherlands_can_remove_autonomy_tt_150 | \nIf [HOL.GetFlag]§Y[HOL.GetNameDefCap]§! completes this focus first:\n    ([INS.GetFlag]§Y[INS.GetName]§!): Add §Y£autonomy_texticon -150.00§!
+024: INS_netherlands_can_remove_autonomy_tt_200 | \nIf [HOL.GetFlag]§Y[HOL.GetNameDefCap]§! completes this focus first:\n    ([INS.GetFlag]§Y[INS.GetName]§!): Add §Y£autonomy_texticon -200.00§!
+025: INS_netherlands_can_remove_autonomy_tt_250 | \nIf [HOL.GetFlag]§Y[HOL.GetNameDefCap]§! completes this focus first:\n    ([INS.GetFlag]§Y[INS.GetName]§!): Add §Y£autonomy_texticon -250.00§!
+026: INS_cannot_become_independent_tt | §W§Y[INS.GetFlag][INS.GetNameDefCap]§! will be §Rpermanently locked out of becoming independent§! without foreign intervention.§!
+027: INS_loans_timer | \nIn §Y365§! days:
+028: INS_expand_batavia_med_school_tt | §Y$INS_dutch_east_indies$§!: Research Speed modifier is at least §G1.00%§!.
+029: INS_subsidize_local_business | Subsidize Local Businesses
+030: INS_subsidize_local_business_desc | We should give subsidies to local businesses to stimulate economic growth, boosting our economy in the long run.
+031: INS_expand_batavia_med_school | Expand Batavia Medical School
+032: INS_expand_batavia_med_school_desc | Expanding the Batavia Medical School by building new campus facilities and hiring more professors will make further education much more accessible, which is vital for our long term economic growth.
+033: INS_prepare_for_policy_shift | Prepare for a Policy Shift
+034: INS_prepare_for_policy_shift_desc | The political landscape in the Indies has been impacted by the national awakening of the past decades, and our current policies are clearly outdated. We should consider making some changes in our governing structure.
+035: INS_reallocate_rubber_industry_funding | Reallocate Rubber Industry Funding
+036: INS_reallocate_rubber_industry_funding_desc | Our reliance on selling rubber has had a disastrous effect on our economy. We should diversify our economy by prospecting for resources and opening mines and factories across the archipelago. This will not be a cheap endeavour, so we will have to reduce the budget for maintaining rubber plantations.
+037: INS_reallocate_rubber_industry_funding_tt | Unlocks a decision to §Yremove rubber from a state§! and replace it with smaller quantities of §Yother resources§!.
+038: INS_underground_revolution | Underground Revolution
+039: INS_underground_revolution_desc | We will begin planning a revolution from the shadows, slowly increasing membership and militia activity until we are ready to strike.
+040: INS_infiltrate_the_media | Infiltrate the Media
+041: INS_infiltrate_the_media_desc | Our movement has secured the membership of several high-ranking members of media organizations in the Indies. We can use this to our advantage to subtly plant pro-revolutionary sentiment in the minds of citizens.
+042: INS_infiltrate_the_army | Infiltrate the Army
+043: INS_infiltrate_the_army_desc | Many of our members are enlisted in the KNIL, from low ranking soldiers to majors. We should collect as many secrets as possible, while elevating our own to high positions. Once we pull the trigger, we can stir chaos in the KNIL.
+044: INS_privately_owned_military_industry | Privately Owned Military Industry
+045: INS_privately_owned_military_industry_desc | We will establish several shadow corporations in the military industrial sector, ensuring we will retain control over military industry once the revolution has begun.
+046: INS_privately_owned_military_industry_tt | Add §G2§! §YMilitary Factory§! in your HQ
+047: INS_instigate_chaos_sulawesi | Instigate Chaos in Sulawesi
+048: INS_instigate_chaos_sulawesi_desc | We will cooperate with local nationalists in Sulawesi, organizing strikes, riots, and radicalizing the population.
+049: INS_instigate_chaos_sulawesi_tt | Once we declare independence, we will gain a §Gcore§! on §Y[673.GetName]§! and §Y[1056.GetName]§!. They will continue to be uncored by the Dutch East Indies.
+050: INS_instigate_chaos_medan | Instigate Chaos in Medan
+051: INS_instigate_chaos_medan_desc | We will cooperate with local nationalists in Medan and Riouw, organizing strikes, riots, and radicalizing the population.
+052: INS_instigate_chaos_medan_tt | Once we declare independence, we will get a §Gcore§! on §Y[1049.GetName]§!. It will continue to be uncored by the Dutch East Indies.
+053: INS_embezzlement_scheme_in_batavia | Embezzlement Scheme in Batavia
+054: INS_embezzlement_scheme_in_batavia_desc | We will setup a scheme to move our production from Batavia to republican territory upon declaring independence.
+055: INS_embezzlement_scheme_in_batavia_tt | Upon declaring independence, half of all factories in §Y[1058.GetName]§! will be relocated to our §YRevolutionary Headquarters§!.
+056: INS_volksraad_rumors | Rumors in The Volksraad
+057: INS_volksraad_rumors_desc | We will begin discreetly discussing the revolution within the Volksraad. If we are successful, we can convince the Indonesian Volksraad members to join our cause.
+058: INS_volksraad_rumors_tt | All §YIndonesian §!Volksraad advisors will be §Gkept§! after declaring independence.
+059: INS_railway_youth_force | Cooperate With the Railway Youth Force
+060: INS_railway_youth_force_desc | The railway youth force is an Islamic youth militia group primarily active in Central Java, named after their strategy of seizing railways. They would make for a valuable ally, however, they are energetic and want to engage in combat. They will become unhappy with the government if we stay in a ceasefire for too long.
+061: INS_sleeper_informant_network | [GetInformantNetworkName]
+062: INS_Sleeper_Informant_Network_name | Sleeper Informant Network
+063: INS_KNIL_Informant_Network_name | KNIL Informant Network
+064: INS_sleeper_informant_network_desc | We will create an informant network that is embedded throughout the KNIL administrative apparatus, giving us advance warning of enemy plans.
+065: INS_sleeper_informant_network_tt | §RWhen Independence is declared:§!\n
+066: INS_the_peoples_security_army | The People's Security Army
+067: INS_the_peoples_security_army_desc | Our members, which are primarily young Indonesians are growing impatient, eager to contribute and fight for our Independence. We should establish a Revolutionary Armed Forces and begin training our future soldiers.
+068: INS_commander_sudirman | Sudirman's Army
+069: INS_commander_sudirman_desc | Sudirman, despite being a young up-and-comer has shown great potential and is very popular among the young members of the resistance. He should guide the path of the People's Security Army and lead us to victory.
+070: INS_commander_oerip | Oerip's Army
+071: INS_commander_oerip_desc | Oerip has served decades in the army and is the only Indonesian to ever be promoted to Major in the KNIL. His knowledge and experience far outreaches that of any other member. He should guide the path of the People's Security Army and lead us to victory.
+072: INS_sudirmans_promotion | Sudirmans Promotion
+073: INS_sudirmans_promotion_desc | Sudirman has shown great leadership skills, and has orchestrated several successful assaults. It is time we recognize our Commander's efforts by giving him the title of General that he deserves.
+074: INS_tkr_steal_general | Poach KNIL Generals
+075: INS_tkr_steal_general_desc | If we can convince high-ranking members of the East Indies Army to join our cause, we'll simultaneously improve our army while sabotaging theirs.
+076: INS_tkr_supply | Every Revolutionary Must Fight
+077: INS_tkr_supply_desc | We will ensure every member of our movement receives formal military training, no exceptions.
+078: INS_tkr_professional_army | A Professional Army
+079: INS_tkr_professional_army_desc | We mustn't rely only on militias, we should develop a professional Republican army to maintain order.
+080: INS_arm_the_revolutionaries | Arm the Revolutionaries
+081: INS_arm_the_revolutionaries_desc | We must begin with the revolutionaries and nationalists who are full of energy and ready to give everything they have for Indonesia. We will provide them with training and equipment they need to fight for their country.
+082: INS_arm_the_youth | Arm the Youth
+083: INS_arm_the_youth_desc | Beyond the revolutionaries, we must arm the youth. Still full of energy and hope, they will carry the flame of the revolution. We must ensure as many Indonesian young adults as possible are trained and equipped for combat. If fighting reaches their homes, they will be ready to act.
+084: INS_arm_the_students | Arm the Students
+085: INS_arm_the_students_desc | Students have built the foundation of the revolution since decades ago, and they will continue to lead it forward.
+086: INS_guerilla_industry | Guerilla Industry
+087: INS_guerilla_industry_desc | We will utilize our guerilla forces across the archipelago in order to seize control of factories, allowing us to produce new guns to arm our militias with.
+088: INS_indonesian_assault_doctrine | The Indonesian Assault Doctrine
+089: INS_indonesian_assault_doctrine_desc | Soldiers are not all there is to a war. A million men means nothing if they do not have guns to fight with. We must prioritize obtaining high-quality artillery in order to push deeper into enemy-controlled territory.
+090: INS_tighter_tkr_integration | Tighter TKR-Laskar Integration
+091: INS_tighter_tkr_integration_desc | The People’s Security Army and the various militia forces do not operate in unity, and coordination is limited. This is only going to cause more and more problems as the war continues, we need to intertwine the armed forces and militias into one unified organization, despite the inevitable protests from militia officers." 
+  INS_quality_over_quantity: "Quality Over Quantity
+092: INS_quality_over_quantity_desc | One well trained soldier with a thought-out strategy and modern equipment will beat five students with pistols. We must prioritize high-quality, well-armed soldiers and special forces over mobilizing as many soldiers as possible.
+093: INS_add_militia_cap_1_tt | §YFreedom Fighter§! division cap increases by §Y1§!.\n
+094: INS_add_militia_cap_2_tt | §YFreedom Fighter§! division cap increases by §Y2§!.\n
+095: INS_add_militia_cap_3_tt | §YFreedom Fighter§! division cap increases by §Y3§!.\n
+096: INS_add_3_militia_unit_tt | Create three §YFreedom Fighter§! units, which can be used in §Yraids§! to increase §Gmilitia presence§! in Dutch states.
+097: INS_add_fully_trained_militia_unit_tt | Create one trained §YFreedom Fighter§! unit.\n
+098: INS_expand_resistance_membership | Expand Resistance Membership
+099: INS_expand_resistance_membership_desc | Centering our entire movement in one base will guarantee failure. We will draft members into groups of militias to send as envoys that will increase our popularity and control in various regions.
+100: INS_deploy_the_kris | Indonesian People's Service of Sulawesi
+101: INS_deploy_the_kris_desc | The Indonesian People's Service of Sulawesi, known in Indonesian as the KRIS are an active group of Militias and form the majority of militia presence in Sulawesi and Manado. We should recruit them to formally fight alongside the TKR.
+102: INS_assist_the_pemuda | Assist the Pemuda
+103: INS_assist_the_pemuda_desc | Java is full of various Pemuda student militias. Joining forces with them and providing military assistance in their missions against the Dutch might secure us a useful ally.
+104: INS_mobilize_the_pemuda | Mobilize the Pemuda
+105: INS_mobilize_the_pemuda_desc | Now that we have successfully earned the trust of the largest Pemuda groups, we should begin plans to mobilize them into the TKR.
+106: INS_organize_jakarta_pemuda | Organize the Jakarta Pemudas
+107: INS_organize_jakarta_pemuda_desc | Java has many Pemuda groups of all sizes. While we have mobilized and recruited most of them, there are dozens of small ones in Jakarta still acting independently. We must contact them and establish collaboration.
+108: INS_recognize_moestopos_batallion | Recognition of Moestopo's Batallion
+109: INS_recognize_moestopos_batallion_desc | A revolutionary named Moestopo has declared himself as the self-proclaimed 'Acting Minister of Defense' in Surabaya, maintaining control of the militia forces in Surabaya. His efforts deserve formal recognition, we should formally promote him to Major General of the TKR.
+110: INS_darul_islam_focus | Darul Islam
+111: INS_darul_islam_focus_desc | Kartosoewirjo's hizbullah have proved themselves in the hills of West Java, and we cannot afford to leave such fighters outside our ranks. Let his irregulars stand among our own, and let the man himself bear the rank he has earned. The faithful will press their case in the Republic soon enough.
+112: INS_just_a_fisherman | Just a Fisherman
+113: INS_just_a_fisherman_desc | Fighting a war in an archipelago without a Navy is a difficult task and not one we can sustain much longer. We will try a possibly naive strategy, wherein we will send militias on fishing boats disguised as fishermen to Dutch-controlled ports.
+114: INS_a_cheap_navy | A Cheap Navy
+115: INS_a_cheap_navy_desc | We do not have the time or money to build a big modern navy. We must make due with what we have, and scrap together anything we can find.
+116: INS_divert_army_funds_to_navy | Divert Army Funds to the Navy
+117: INS_divert_army_funds_to_navy_desc | Indonesia is an archipelago, our infantry are nothing without ships to transport them. It is a worthy sacrifice to divert funding from the TKR to our new Navy.
+118: INS_indonesian_naval_doctrine | Indonesian Naval Doctrine
+119: INS_indonesian_naval_doctrine_desc | Now that we are building a navy of our own, it is important to consider the doctrine by which we will fight and train. We should prioritize forming and adopting a Naval Doctrine as soon as possible.
+120: INS_domestic_shipbuilding | Domestic Shipbuilding
+121: INS_domestic_shipbuilding_desc | We cannot rely on captured and purchased ships forever, it will not be long until there are no more Dutch ships left for us to capture. We should start building our own ships early.
+122: INS_acquire_modern_blueprints | Acquire Modern Blueprints
+123: INS_acquire_modern_blueprints_desc | We will purchase blueprints from other countries and private corporations that we will use to construct our new Navy.
+124: INS_reclaiming_the_dutch_navy | Reclaiming the Dutch Indies Navy
+125: INS_reclaiming_the_dutch_navy_desc | The Dutch have left plenty of ships stationed in ports we now occupy. We should claim these ships for ourselves while we have the chance.
+126: INS_admiral_mas_pardi | Admiral Mas Pardi
+127: INS_admiral_mas_pardi_desc | Any good navy needs an Admiral to command it. Mas Pardi is the obvious choice.
+128: INS_akademi_angkatan_laut | Construct Akademi Angkatan Laut
+129: INS_akademi_angkatan_laut_desc | We will construct a Naval Academy with facilities for Naval research, while educating more citizens into Engineers and Admirals.
+130: INS_pki_militia_tt | Tan Malaka has a very powerful militia, however, they fight not only for the will of Indonesia but for the will of §Rcommunism§! and the Soviet. §REventually, they will oppose any non-communist government violently.§!
+131: INS_increase_laskar_funding_tt | §WGain§! 1§Y Military Factory§! for every demand successfully granted to a militia (maximum of §G6§!)" 
+  INS_subsidize_laskar_armament: "Subsidize Laskar Armament
+132: INS_subsidize_laskar_armament_desc | Militias fighting with bamboo spears are not going to survive for long against heavily armed units. We need to prioritize producing more guns and ammunition for these militias.
+133: INS_loot_knil_weapons_caches | Loot KNIL Weapons Caches
+134: INS_loot_knil_weapons_caches_desc | There are plenty of weapons caches the KNIL deposited before the revolution. Many of our members are former members of the KNIL, and we may be able to find and loot these caches.
+135: INS_utilize_tan_malakas_militia | Utilize Tan Malaka's Militia
+136: INS_utilize_tan_malakas_militia_desc | Tan Malaka's Red Militia is perhaps the strongest singular militia in all of Indonesia, and it would be a huge boon to mobilize them in the TKR. This does not come without risks, giving a powerful militia with strong political motives this much influence will make it much easier for them to seize power for themselves.
+137: INS_increase_laskar_funding | Increase Laskar Funding
+138: INS_increase_laskar_funding_desc | Our Militias make up the majority of our forces. We need to acknowledge this and fund them accordingly, even if they are not completely loyal to [INS.GetLeader].
+139: INS_develop_a_functioning_airforce | Develop a Proper Airforce
+140: INS_develop_a_functioning_airforce_desc | An Air force has a big impact on an army, we should prioritize creating one.
+141: INS_political_stabilization | The Central Indonesian National Committee
+142: INS_political_stabilization_desc | In order to end the infighting between the many political factions in Indonesia, we must grant concessions to the other factions, allowing us to focus on the ongoing conflict. We will establish a semi-democratic committee overseen by the President, serving as a parliamentary body for Indonesia.
+143: INS_nationalize | Nationalize!
+144: INS_nationalize_desc | Our newly independent republic is still plagued with remnants of Dutch rule. The military industrial companies, the oil companies, the agricultural companies, and many others are all tied to the Netherlands, be it directly or indirectly. For our Republic to truly be independent, we must establish our own national institutions to inherit the Indonesian assets from these corporations.
+145: INS_restore_order | Restore Order
+146: INS_restore_order_desc | Our nation is becoming more unstable for each passing day. If we do not react soon a civil war is all but inevitable. We must start negotiations between the National Committee, President, and Militia leaders to find a solution.
+147: INS_vice_presidential_edict | Sign Vice Presidential Edict X
+148: INS_vice_presidential_edict_desc | The National Committee is almost unanimous in its demand for real legislative power. A petition has been handed to the President proposing a Hybrid system, where the National Committee will become an independent parliament, sharing joint legislative powers with the President. The offer is enticing, but there is a risk of Presidential power becoming negligible.
+149: INS_local_cooperatives | Establish Local Cooperatives
+150: INS_local_cooperatives_desc | We should not create a capitalist system like that in the west, but we should not disregard the economic benefit privatization provides. We will allow for the creation of local cooperatives, wherein their success will grant riches to their owners. However, they will be overseen by the government, and will be forbidden from expanding outside of their locality.
+151: INS_local_unity | Partial Princely Autonomy
+152: INS_local_unity_desc | We will grant partial autonomy to Princely States, as a temporary measure to decrease infighting during these already hectic times.
+153: INS_education_subsidies | Education Subsidies
+154: INS_education_subsidies_desc | Investing in the future of the nations youths is absolutely necessary if we want an economically successful state. We will construct affordable schools across the republic.
+155: INS_land_reform | Land Reform
+156: INS_land_reform_desc | The Netherlands directly owned large quantities of land before we declared independence. We should distribute this land to any Indonesian who will make use of it for low prices in order to encourage economic growth.
+157: INS_dominion_of_atjeh | The Dominion of Atjeh
+158: INS_dominion_of_atjeh_desc | The separatist movement in Atjeh is large, and growing. There is no reason to escalate the situation, we should instead negotiate a compromise wherein they stay a part of Indonesia, while being mostly autonomous.
+159: INS_dissolve_national_party | Dissolve the National Party
+160: INS_dissolve_national_party_desc | The Hybrid system was created as a necessary compromise to avoid chaos. We should not allow the President to hold this much power undemocratically. The president must be deposed by parliament or else we will never achieve democracy.
+161: INS_womens_sufferage | Women's Suffrage
+162: INS_womens_sufferage_desc | Extending the vote to women will lead to short term instability, but is necessary for long term stability and democracy.
+163: INS_women_in_military | Women in the Military
+164: INS_women_in_military_desc | Allowing women to serve in the military is necessary to ensure our armed forces are as powerful as possible.
+165: INS_fair_election | A Fair Election
+166: INS_fair_election_desc | With the President deposed, and the revolution over, we can finally hold the first truly fair election, with no authoritarian influence.
+167: INS_continue_hybrid_politics | Continue the Hybrid Politics
+168: INS_continue_hybrid_politics_desc | Hybrid politics is a necessary evil. While the end goal is true democracy, Indonesia is far too young and unstable for all power to be handed to the people. The President and Parliament will continue to moderate each other, ensuring neither body becomes too powerful.
+169: INS_guided_economy | Guided Economy
+170: INS_guided_economy_desc | We will oversee the economy of Indonesia directly to ensure we maintain control. We will nationalize all banks, as well as the oil and agricultural sectors.
+171: INS_reform_education_system | Mandatory Ideological Education
+172: INS_reform_education_system_desc | The revolution was proof that students and youths upset with the social order will always lead the rebellion. For the safety of our government and nation, we will require that schools teach according to our government ideology.
+173: INS_reform_education_system_2 | Education Reform
+174: INS_reform_education_system_2_desc | If we want Indonesia to become a wealthy nation in the future, all Indonesians, regardless of birthplace must be entitled to an education.

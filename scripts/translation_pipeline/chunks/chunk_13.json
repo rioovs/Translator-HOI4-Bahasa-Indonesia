@@ -1,0 +1,800 @@
+[
+  {
+    "line": 3376,
+    "key": "GOT_GER_integrated_puppet_economies.02.a",
+    "ver": "",
+    "en": "We must make this work in our favor",
+    "comment": ""
+  },
+  {
+    "line": 3377,
+    "key": "GER_idea_added_for_limited_time",
+    "ver": "",
+    "en": "The following idea will be added for §Y$TIME$§! days: \\n$IDEA$",
+    "comment": ""
+  },
+  {
+    "line": 3379,
+    "key": "wuw_GER_the_battle_of_britain.01.t",
+    "ver": "",
+    "en": "The Battle of Britain",
+    "comment": ""
+  },
+  {
+    "line": 3380,
+    "key": "wuw_GER_the_battle_of_britain.01.desc",
+    "ver": "",
+    "en": "$GER_hermann_goring$ is eager to showcase the superiority of the Luftwaffe and to break the spirit of the [ENG.GetAdjective] people. He aims to do this by bombing London's iconic landmark, the Big Ben. He argues that this will bring [ENG.GetNameDef] to heel and shorten the war. He also personally guarantees that not a single bomb will hit Berlin during this campaign, or you can call him Hermann 'Meier'.",
+    "comment": ""
+  },
+  {
+    "line": 3381,
+    "key": "wuw_GER_the_battle_of_britain.01.a",
+    "ver": "",
+    "en": "Let him try",
+    "comment": ""
+  },
+  {
+    "line": 3382,
+    "key": "wuw_GER_the_battle_of_britain.01.b",
+    "ver": "",
+    "en": "He promises too much",
+    "comment": ""
+  },
+  {
+    "line": 3383,
+    "key": "GER_unlocks_big_ben_raid_tt",
+    "ver": "",
+    "en": "Unlocks §YAir Raid§! on §Ythe Big Ben§!",
+    "comment": ""
+  },
+  {
+    "line": 3385,
+    "key": "wuw_GER_uncertain_future.01.t",
+    "ver": "",
+    "en": "$GER_growing_public_dissent_mission$",
+    "comment": ""
+  },
+  {
+    "line": 3386,
+    "key": "wuw_GER_uncertain_future.01.desc",
+    "ver": "",
+    "en": "With the Civil War finally at an end, we are slowly rebuilding the nation, while the people are longing for stability and security but have a growing feeling of being adrift without an overall goal or aim. The populace is growing weary of this uncertainty and is demanding a steady course.",
+    "comment": ""
+  },
+  {
+    "line": 3387,
+    "key": "wuw_GER_uncertain_future.01.a",
+    "ver": "",
+    "en": "We need to act swiftly!",
+    "comment": ""
+  },
+  {
+    "line": 3388,
+    "key": "wuw_GER_uncertain_future.02.t",
+    "ver": "",
+    "en": "[ROOT.GetNameDefCap] Faces an Uncertain Future",
+    "comment": ""
+  },
+  {
+    "line": 3389,
+    "key": "wuw_GER_uncertain_future.02.desc",
+    "ver": "",
+    "en": "With the Civil War finally at an end, the German nation is slowly rebuilding, but its people are longing for stability and security. [ROOT.GetLeader] has made no effort to move forward and seems uninterested in deciding what the future of the new German state should look like. This has caused great concern in the population who are eager to move away from its broken past.",
+    "comment": ""
+  },
+  {
+    "line": 3390,
+    "key": "wuw_GER_uncertain_future.02.a",
+    "ver": "",
+    "en": "A disturbance in the folks, is it?",
+    "comment": ""
+  },
+  {
+    "line": 3392,
+    "key": "wuw_GER_german_politics.01.t",
+    "ver": "",
+    "en": "The Return of Democracy",
+    "comment": ""
+  },
+  {
+    "line": 3393,
+    "key": "wuw_GER_german_politics.01.desc",
+    "ver": "",
+    "en": "With the return of free elections, the [ROOT.GetAdjective] people have flocked to the polling stations to determine the future of Germany. A sense of euphoria is running rampant through the streets with a widespread feeling of finally leaving the dark days behind, making this day feel more like a celebration than a national election.",
+    "comment": ""
+  },
+  {
+    "line": 3394,
+    "key": "wuw_GER_german_politics.01.a",
+    "ver": "",
+    "en": "We need a cautious traditionalist",
+    "comment": ""
+  },
+  {
+    "line": 3395,
+    "key": "wuw_GER_german_politics.01.b",
+    "ver": "",
+    "en": "We need a forward looking socialist",
+    "comment": ""
+  },
+  {
+    "line": 3396,
+    "key": "wuw_GER_german_politics.02.t",
+    "ver": "",
+    "en": "A Leader for the People",
+    "comment": ""
+  },
+  {
+    "line": 3397,
+    "key": "wuw_GER_german_politics.02.desc",
+    "ver": "",
+    "en": "With the return towards the ideals of the Spartacus League comes a wish to involve the people a bit more actively. An election to chose the person to represent us has been called and as all ballots have been counted it seems that the results are very even. The people clearly think both candidates apt leaders for [ROOT.GetNameDef], alas we can only appoint one.",
+    "comment": ""
+  },
+  {
+    "line": 3398,
+    "key": "wuw_GER_german_politics.02.a",
+    "ver": "",
+    "en": "Heinrich Brandler is the right choice!",
+    "comment": ""
+  },
+  {
+    "line": 3399,
+    "key": "wuw_GER_german_politics.02.b",
+    "ver": "",
+    "en": "Keep Ernst Thälmann in power!",
+    "comment": ""
+  },
+  {
+    "line": 3400,
+    "key": "wuw_GER_german_politics.02.c",
+    "ver": "",
+    "en": "We need a pragmatic Socialist!",
+    "comment": ""
+  },
+  {
+    "line": 3402,
+    "key": "GOT_GER_amerikabomber.01.t",
+    "ver": "",
+    "en": "The Amerikabomber Project",
+    "comment": ""
+  },
+  {
+    "line": 3403,
+    "key": "GOT_GER_amerikabomber.01.desc",
+    "ver": "",
+    "en": "With the decision to build a long-range bomber already set in motion, designs from different teams have been submitted, each promising to deliver a machine capable of carrying the war across the Atlantic, the only remaining step is to choose the team that will bring this ambitious plan to life.",
+    "comment": ""
+  },
+  {
+    "line": 3404,
+    "key": "GOT_GER_amerikabomber.01.a",
+    "ver": "",
+    "en": "$GER_focke_wulf_organization$",
+    "comment": ""
+  },
+  {
+    "line": 3405,
+    "key": "GOT_GER_amerikabomber.01.b",
+    "ver": "",
+    "en": "$GER_heinkel_organization$",
+    "comment": ""
+  },
+  {
+    "line": 3406,
+    "key": "GOT_GER_amerikabomber.01.c",
+    "ver": "",
+    "en": "$GER_junkers_organization$",
+    "comment": ""
+  },
+  {
+    "line": 3407,
+    "key": "GOT_GER_amerikabomber.01.d",
+    "ver": "",
+    "en": "$GER_messerschmitt_organization$",
+    "comment": ""
+  },
+  {
+    "line": 3408,
+    "key": "when_intercontinental_bomber_project_is_completed_tt",
+    "ver": "",
+    "en": "When Special Project §Y$sp_air_intercontinental_bomber$§! is completed:",
+    "comment": ""
+  },
+  {
+    "line": 3409,
+    "key": "GER_amerikabomber_focke_wulf_flag",
+    "ver": "",
+    "en": "§Y$GER_focke_wulf_organization$§! has been assigned to the development of the §YAmerikabomber§!",
+    "comment": ""
+  },
+  {
+    "line": 3410,
+    "key": "GER_amerikabomber_heinkel_flag",
+    "ver": "",
+    "en": "§Y$GER_heinkel_organization$§! has been assigned to the development of the §YAmerikabomber§!",
+    "comment": ""
+  },
+  {
+    "line": 3411,
+    "key": "GER_amerikabomber_messerschmitt_flag",
+    "ver": "",
+    "en": "§Y$GER_messerschmitt_organization$§! has been assigned to the development of the §YAmerikabomber§!",
+    "comment": ""
+  },
+  {
+    "line": 3412,
+    "key": "GER_amerikabomber_junkers_flag",
+    "ver": "",
+    "en": "§Y$GER_junkers_organization$§! has been assigned to the development of the §YAmerikabomber§!",
+    "comment": ""
+  },
+  {
+    "line": 3416,
+    "key": "GER_operation_panzerfaust_events.01.t",
+    "ver": "",
+    "en": "A Question of Horthy's Loyalty",
+    "comment": ""
+  },
+  {
+    "line": 3417,
+    "key": "GER_operation_panzerfaust_events.01.desc",
+    "ver": "",
+    "en": "The possibility of our ally Miklós Horthy engaging in secret peace talks with our enemies has presented itself to us. We must put pressure on him to ensure that Hungary remains loyal to the cause.",
+    "comment": ""
+  },
+  {
+    "line": 3418,
+    "key": "GER_operation_panzerfaust_events.01.a",
+    "ver": "",
+    "en": "Demand his subservience to the Führer",
+    "comment": ""
+  },
+  {
+    "line": 3419,
+    "key": "GER_operation_panzerfaust_events.01.b",
+    "ver": "",
+    "en": "This is an overreaction, Horthy is loyal!",
+    "comment": ""
+  },
+  {
+    "line": 3422,
+    "key": "GER_operation_panzerfaust_events.02.t",
+    "ver": "",
+    "en": "[GER.GetLeader] Demands Horthy's Resignation",
+    "comment": ""
+  },
+  {
+    "line": 3423,
+    "key": "GER_operation_panzerfaust_events.02.desc",
+    "ver": "",
+    "en": "Today we have received news that the Germans have demanded that Miklós Horthy step down in favor of Ferenc Szálasi, someone who they feel to be more trustworthy. They have also stated that if they do not get their way intervention into our country may be a necessity.",
+    "comment": ""
+  },
+  {
+    "line": 3424,
+    "key": "GER_operation_panzerfaust_events.02.a",
+    "ver": "",
+    "en": "We are in no position to oppose them",
+    "comment": ""
+  },
+  {
+    "line": 3425,
+    "key": "GER_operation_panzerfaust_events.02.b",
+    "ver": "",
+    "en": "They have no power here",
+    "comment": ""
+  },
+  {
+    "line": 3428,
+    "key": "GER_operation_panzerfaust_events.03.t",
+    "ver": "",
+    "en": "Hungary Folds",
+    "comment": ""
+  },
+  {
+    "line": 3429,
+    "key": "GER_operation_panzerfaust_events.03.desc",
+    "ver": "",
+    "en": "Miklós Horthy has folded and Hungary is now fully within our grasp. It seems our intimidation was successful.",
+    "comment": ""
+  },
+  {
+    "line": 3430,
+    "key": "GER_operation_panzerfaust_events.03.a",
+    "ver": "",
+    "en": "Fantastic",
+    "comment": ""
+  },
+  {
+    "line": 3433,
+    "key": "GER_operation_panzerfaust_events.04.t",
+    "ver": "",
+    "en": "Horthy Remains Defiant",
+    "comment": ""
+  },
+  {
+    "line": 3434,
+    "key": "GER_operation_panzerfaust_events.04.desc",
+    "ver": "",
+    "en": "Miklós Horthy has today announced that he will not fold to German pressure and that Hungary shall remain outside of German hands. As mere diplomatic pressure does not seem to be enough we must now decide our course of action.",
+    "comment": ""
+  },
+  {
+    "line": 3435,
+    "key": "GER_operation_panzerfaust_events.04.a",
+    "ver": "",
+    "en": "This has gone too far. Launch operation Margarethe!",
+    "comment": ""
+  },
+  {
+    "line": 3436,
+    "key": "GER_operation_panzerfaust_events.04.b",
+    "ver": "",
+    "en": "We will not play along with his games",
+    "comment": ""
+  },
+  {
+    "line": 3437,
+    "key": "GER_operation_panzerfaust_events.04.c",
+    "ver": "",
+    "en": "Then we will leave this to our operatives...",
+    "comment": ""
+  },
+  {
+    "line": 3440,
+    "key": "GER_operation_panzerfaust_events.05.t",
+    "ver": "",
+    "en": "Germany launches Operation Margarethe",
+    "comment": ""
+  },
+  {
+    "line": 3441,
+    "key": "GER_operation_panzerfaust_events.05.desc",
+    "ver": "",
+    "en": "The Führer holds true to his claim and has now announced the commencement of operation Margarethe, an invasion of our country with the goal of subjugation. We must stand defiant!",
+    "comment": ""
+  },
+  {
+    "line": 3442,
+    "key": "GER_operation_panzerfaust_events.05.a",
+    "ver": "",
+    "en": "Let them come",
+    "comment": ""
+  },
+  {
+    "line": 3445,
+    "key": "GER_operation_panzerfaust_events.06.t",
+    "ver": "",
+    "en": "Germany Attempts Deescalation",
+    "comment": ""
+  },
+  {
+    "line": 3446,
+    "key": "GER_operation_panzerfaust_events.06.desc",
+    "ver": "",
+    "en": "Despite all threats to our borders and sovereignty, Germany has now attempted to deescalate the situation by backing down on their claims.",
+    "comment": ""
+  },
+  {
+    "line": 3447,
+    "key": "GER_operation_panzerfaust_events.06.a",
+    "ver": "",
+    "en": "Then so be it",
+    "comment": ""
+  },
+  {
+    "line": 3450,
+    "key": "GER_operation_panzerfaust_events.07.t",
+    "ver": "",
+    "en": "Operation Panzerfaust is a Failure",
+    "comment": ""
+  },
+  {
+    "line": 3451,
+    "key": "GER_operation_panzerfaust_events.07.desc",
+    "ver": "",
+    "en": "While we had hoped that this would be the final blow to the ever more rebellious Hungarians, Operation Panzerfaust was today foiled after our agents were arrested just outside Horthy's residence.",
+    "comment": ""
+  },
+  {
+    "line": 3452,
+    "key": "GER_operation_panzerfaust_events.07.a",
+    "ver": "",
+    "en": "They will have to remain outside our grasp, for now",
+    "comment": ""
+  },
+  {
+    "line": 3455,
+    "key": "GER_operation_panzerfaust_events.08.t",
+    "ver": "",
+    "en": "Operation Panzerfaust is a Success",
+    "comment": ""
+  },
+  {
+    "line": 3456,
+    "key": "GER_operation_panzerfaust_events.08.desc",
+    "ver": "",
+    "en": "We have successfully captured Horthy and his son, and have subsequently handed over the power to Ferenc Szálasi. With this Hungary shall now be loyal to the cause.",
+    "comment": ""
+  },
+  {
+    "line": 3457,
+    "key": "GER_operation_panzerfaust_events.08.a",
+    "ver": "",
+    "en": "Most excellent",
+    "comment": ""
+  },
+  {
+    "line": 3460,
+    "key": "GER_operation_panzerfaust_events.09.t",
+    "ver": "",
+    "en": "Plot on Horthy Foiled",
+    "comment": ""
+  },
+  {
+    "line": 3461,
+    "key": "GER_operation_panzerfaust_events.09.desc",
+    "ver": "",
+    "en": "Today we received news that a plot from the Germans to depose and kidnap Horthy and his son has failed after their agents were captured outside their residence.",
+    "comment": ""
+  },
+  {
+    "line": 3462,
+    "key": "GER_operation_panzerfaust_events.09.a",
+    "ver": "",
+    "en": "We are safe, for now",
+    "comment": ""
+  },
+  {
+    "line": 3465,
+    "key": "GER_operation_panzerfaust_events.10.t",
+    "ver": "",
+    "en": "Horthy Kidnapped",
+    "comment": ""
+  },
+  {
+    "line": 3466,
+    "key": "GER_operation_panzerfaust_events.10.desc",
+    "ver": "",
+    "en": "Today the Germans rolled in Tanks to the Castle hill and seized Miklós Horthy. It is rumored that they have taken Miklós Horthy Jr. and brought him to Austria. They have broadcasted the message that we must surrender or they will force us to.",
+    "comment": ""
+  },
+  {
+    "line": 3467,
+    "key": "GER_operation_panzerfaust_events.10.a",
+    "ver": "",
+    "en": "We will have to accept their conditions.",
+    "comment": ""
+  },
+  {
+    "line": 3468,
+    "key": "GER_operation_panzerfaust_events.10.b",
+    "ver": "",
+    "en": "We shall never surrender!",
+    "comment": ""
+  },
+  {
+    "line": 3470,
+    "key": "GOT_GER_fading_eagle.01.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Demands Our Subjugation",
+    "comment": ""
+  },
+  {
+    "line": 3471,
+    "key": "GOT_GER_fading_eagle.01.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] of [FROM.GetNameDef] has demanded that we submit to their authority amidst a campaign to regain control over the Balkans and the former Italian Empire. We do not really have the power to resist them at this moment, but perhaps this could be the opportunity for freedom that we have been waiting for?",
+    "comment": ""
+  },
+  {
+    "line": 3472,
+    "key": "GOT_GER_fading_eagle.01.a",
+    "ver": "",
+    "en": "We must allow it for now",
+    "comment": ""
+  },
+  {
+    "line": 3473,
+    "key": "GOT_GER_fading_eagle.01.b",
+    "ver": "",
+    "en": "We will never give up our sovereignty!",
+    "comment": ""
+  },
+  {
+    "line": 3475,
+    "key": "GOT_GER_fading_eagle.02.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Accepts our Demands",
+    "comment": ""
+  },
+  {
+    "line": 3476,
+    "key": "GOT_GER_fading_eagle.02.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] of [FROM.GetNameDef] has announced that the [FROM.GetAdjective] nation will hand over itself to us, and stay loyal to our cause to the end.",
+    "comment": ""
+  },
+  {
+    "line": 3477,
+    "key": "GOT_GER_fading_eagle.02.a",
+    "ver": "",
+    "en": "We are regaining control!",
+    "comment": ""
+  },
+  {
+    "line": 3479,
+    "key": "GOT_GER_fading_eagle.03.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Rejects our Demands",
+    "comment": ""
+  },
+  {
+    "line": 3480,
+    "key": "GOT_GER_fading_eagle.03.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] of [FROM.GetNameDef] has declared that they will not accept subjugation once again, and that if we want their lands, we will have to take it by force.",
+    "comment": ""
+  },
+  {
+    "line": 3481,
+    "key": "GOT_GER_fading_eagle.03.a",
+    "ver": "",
+    "en": "They will regret their decision",
+    "comment": ""
+  },
+  {
+    "line": 3482,
+    "key": "GOT_GER_fading_eagle.03.b",
+    "ver": "",
+    "en": "We cannot afford another enemy",
+    "comment": ""
+  },
+  {
+    "line": 3491,
+    "key": "GER_inner_circle_himmler.00.t",
+    "ver": "",
+    "en": "Himmler's Duties",
+    "comment": ""
+  },
+  {
+    "line": 3492,
+    "key": "GER_inner_circle_himmler.00.desc",
+    "ver": "",
+    "en": "Himmler has amassed significant influence over German politics and policymaking after taking control of both the SS and the Gestapo. While this makes him a powerful figure in German affairs, he only has limited time to strengthen one of these organizations. The question is, which one will take precedence?",
+    "comment": ""
+  },
+  {
+    "line": 3493,
+    "key": "GER_inner_circle_himmler.00.a",
+    "ver": "",
+    "en": "The Waffen-SS is our priority",
+    "comment": ""
+  },
+  {
+    "line": 3494,
+    "key": "GER_inner_circle_himmler.00.b",
+    "ver": "",
+    "en": "Focus on improving our intelligence",
+    "comment": ""
+  },
+  {
+    "line": 3495,
+    "key": "GER_inner_circle_himmler_ss_tt",
+    "ver": "",
+    "en": "§Y$GER_heinrich_himmler$§! will soon begin work towards the focus §Y$GER_expand_ss_security_duties$§!.",
+    "comment": ""
+  },
+  {
+    "line": 3496,
+    "key": "GER_inner_circle_himmler_gestapo_tt",
+    "ver": "",
+    "en": "§Y$GER_heinrich_himmler$§! will soon begin work towards the focus §Y$GER_expand_gestapo$§!.",
+    "comment": ""
+  },
+  {
+    "line": 3497,
+    "key": "GER_inner_circle.01.t",
+    "ver": "",
+    "en": "The Rise of [GetAscendingAdvisorName]",
+    "comment": ""
+  },
+  {
+    "line": 3498,
+    "key": "GER_inner_circle.01.desc",
+    "ver": "",
+    "en": "[GetAscendingAdvisorName] has demonstrated strong ambition and gained influence within the Party. However, his efforts to assert more control have led to objections from other members, resulting in a power struggle. The question is whether [GetAscendingAdvisorName] has impressed [GER.GetLeader] enough to secure a place in the Inner Circle.",
+    "comment": ""
+  },
+  {
+    "line": 3499,
+    "key": "GER_inner_circle.01.a",
+    "ver": "",
+    "en": "Replace [GetAscendedAdvisorName1]",
+    "comment": ""
+  },
+  {
+    "line": 3500,
+    "key": "GER_inner_circle.01.b",
+    "ver": "",
+    "en": "Replace [GetAscendedAdvisorName2]",
+    "comment": ""
+  },
+  {
+    "line": 3501,
+    "key": "GER_inner_circle.01.c",
+    "ver": "",
+    "en": "Replace [GetAscendedAdvisorName3]",
+    "comment": ""
+  },
+  {
+    "line": 3502,
+    "key": "GER_inner_circle.01.d",
+    "ver": "",
+    "en": "[GetAscendingAdvisorName] is not worthy of the Führer's trust",
+    "comment": ""
+  },
+  {
+    "line": 3503,
+    "key": "GER_inner_circle.02.t",
+    "ver": "",
+    "en": "A New Führer Ascends",
+    "comment": ""
+  },
+  {
+    "line": 3504,
+    "key": "GER_inner_circle.02.desc",
+    "ver": "",
+    "en": "The Reichsleiters closest to [GER.GetLeader] have come to question [GER.GetLeader.GetHersHis] leadership and the vision [GER.GetLeader.GetSheHe] holds for the future of [GER.GetNameDef]. They now plot to oust [GER.GetLeader] from power and seize the title of Führer for themselves. The question is, who will rise above the others and lead the way to a glorious future?",
+    "comment": ""
+  },
+  {
+    "line": 3505,
+    "key": "GER_inner_circle.02.a",
+    "ver": "",
+    "en": "[GetAscendedAdvisorName1] shall lead the nation.",
+    "comment": ""
+  },
+  {
+    "line": 3506,
+    "key": "GER_inner_circle.02.b",
+    "ver": "",
+    "en": "[GetAscendedAdvisorName2] is the most suited for this task.",
+    "comment": ""
+  },
+  {
+    "line": 3507,
+    "key": "GER_inner_circle.02.c",
+    "ver": "",
+    "en": "[GetAscendedAdvisorName3] will be a true leader of the [ROOT.GetAdjective] people.",
+    "comment": ""
+  },
+  {
+    "line": 3508,
+    "key": "GER_inner_circle.02.d",
+    "ver": "",
+    "en": "We are not ready for a change in leadership.",
+    "comment": ""
+  },
+  {
+    "line": 3509,
+    "key": "GER_inner_circle.03.t",
+    "ver": "",
+    "en": "[GetIntrigueCharacterName]'s Industrial Plan Questioned",
+    "comment": ""
+  },
+  {
+    "line": 3510,
+    "key": "GER_inner_circle.03.desc",
+    "ver": "",
+    "en": "A bitter power struggle has broken out between rivals within [GER.GetLeader]'s Inner Circle. Tensions have risen as [GetIntrigueCharacterName] has gained influence and increased authority. [GetIndustrialReichsleiterNames] have been vocal about each other's methods over how to best manage German industries and arms production, all the while vying for [GER.GetLeader]'s favor.",
+    "comment": ""
+  },
+  {
+    "line": 3511,
+    "key": "GER_inner_circle.03.a",
+    "ver": "",
+    "en": "[GetIntrigueCharacterName] has the complete trust of the Führer.",
+    "comment": ""
+  },
+  {
+    "line": 3512,
+    "key": "GER_inner_circle.03.b",
+    "ver": "",
+    "en": "$GER_fritz_todt$ has the necessary experience to handle this.",
+    "comment": ""
+  },
+  {
+    "line": 3513,
+    "key": "GER_inner_circle.03.c",
+    "ver": "",
+    "en": "$GER_albert_speer$ will take over industrial business.",
+    "comment": ""
+  },
+  {
+    "line": 3514,
+    "key": "GER_inner_circle.03.d",
+    "ver": "",
+    "en": "$GER_hermann_goring$ is the Führer's right-hand man, appoint him!",
+    "comment": ""
+  },
+  {
+    "line": 3515,
+    "key": "GER_inner_circle_industrial_reichsleiter",
+    "ver": "",
+    "en": "[GetIndustrialReichsleiterNames]",
+    "comment": ""
+  },
+  {
+    "line": 3516,
+    "key": "GER_inner_circle_industrial_reichsleiter_all",
+    "ver": "",
+    "en": "$GER_fritz_todt$, $GER_albert_speer$, and $GER_hermann_goring$",
+    "comment": ""
+  },
+  {
+    "line": 3517,
+    "key": "GER_inner_circle_industrial_reichsleiter_no_goring",
+    "ver": "",
+    "en": "$GER_fritz_todt$ and $GER_albert_speer$",
+    "comment": ""
+  },
+  {
+    "line": 3525,
+    "key": "GOT_guarantee_events.01.t",
+    "ver": "",
+    "en": "Guaranteeing Polish Sovereignty",
+    "comment": ""
+  },
+  {
+    "line": 3526,
+    "key": "GOT_guarantee_events.01.desc",
+    "ver": "",
+    "en": "It is clear that [GER.GetLeader] cannot be reasoned with and will not stop short of world domination. [GER.GetLeader.GetSheHe] has become convinced that no one dares to stand in the way of [GER.GetNameDef] and its growing ambitions and hunger for territory.",
+    "comment": ""
+  },
+  {
+    "line": 3527,
+    "key": "GOT_guarantee_events.01.a",
+    "ver": "",
+    "en": "We must offer the Polish our protection!",
+    "comment": ""
+  },
+  {
+    "line": 3528,
+    "key": "GOT_guarantee_events.01.b",
+    "ver": "",
+    "en": "Let [GER.GetLeader] do as [GER.GetLeader.GetSheHe] pleases.",
+    "comment": ""
+  },
+  {
+    "line": 3532,
+    "key": "GOT_newsevents.1.t",
+    "ver": "",
+    "en": "The Rise of [FROM.GetNameDef]",
+    "comment": ""
+  },
+  {
+    "line": 3533,
+    "key": "GOT_newsevents.1.desc",
+    "ver": "",
+    "en": "The [FROM.GetAdjective]s have managed to subdue the Europeans and establish themselves as the hegemon over the continent and have made moves to integrate the newly conquered territories. The [FROM.GetAdjective] government has attempted to rally the people behind the state and socialist ideals, launching several pan-nationalist propaganda campaigns to increase the support of the proletariat.\\n\\n[FROM.GetLeader] has declared that the united Proletarians of Europe will from now on be known as '[From.GetNameDef]'.",
+    "comment": ""
+  },
+  {
+    "line": 3534,
+    "key": "GOT_newsevents.1.a",
+    "ver": "",
+    "en": "We rise together",
+    "comment": ""
+  },
+  {
+    "line": 3535,
+    "key": "GOT_newsevents.1.b",
+    "ver": "",
+    "en": "This does not bode well",
+    "comment": ""
+  }
+]

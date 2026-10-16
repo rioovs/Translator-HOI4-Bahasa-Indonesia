@@ -1,0 +1,151 @@
+# -*- coding: utf-8 -*-
+import json
+
+trans = {
+    # 0 - 6: Battle of Britain & Göring Meier
+    "GOT_GER_integrated_puppet_economies.02.a": "Kita harus memanfaatkan situasi ini demi keuntungan kita",
+    "GER_idea_added_for_limited_time": "Gagasan berikut akan ditambahkan selama §Y$TIME$§! hari: \\n$IDEA$",
+    "wuw_GER_the_battle_of_britain.01.t": "Pertempuran Britania (Battle of Britain)",
+    "wuw_GER_the_battle_of_britain.01.desc": "$GER_hermann_goring$ sangat berhasrat membuktikan keunggulan mutlak Luftwaffe dan mematahkan semangat juang rakyat [ENG.GetAdjective]. Ia bertekad mencapainya dengan membom tengara ikonik London, jam raksasa Big Ben. Ia berargumen bahwa kehancuran simbol tersebut akan memaksa [ENG.GetNameDef] bertekuk lutut dan mempercepat akhir perang. Ia bahkan secara pribadi menjamin bahwa tidak akan ada satu bom pun yang mampu menjatuhi Berlin selama kampanye ini, atau Anda boleh memanggilnya Hermann 'Meier'.",
+    "wuw_GER_the_battle_of_britain.01.a": "Biarkan ia membuktikannya",
+    "wuw_GER_the_battle_of_britain.01.b": "Janjinya terlalu muluk dan berlebihan",
+    "GER_unlocks_big_ben_raid_tt": "Membuka §YSerangan Udara§! ke §YBig Ben§!",
+
+    # 7 - 21: Uncertain Future & Return of Democracy / Spartacus League
+    "wuw_GER_uncertain_future.01.t": "$GER_growing_public_dissent_mission$",
+    "wuw_GER_uncertain_future.01.desc": "Dengan Perang Saudara yang akhirnya usai, kita perlahan membangun kembali bangsa ini, sementara rakyat mendambakan stabilitas dan keamanan namun kian merasa terombang-ambing tanpa haluan atau tujuan pasti. Masyarakat kian jenuh dengan ketidakpastian ini dan menuntut arah kebijakan yang mantap.",
+    "wuw_GER_uncertain_future.01.a": "Kita harus bertindak cepat!",
+    "wuw_GER_uncertain_future.02.t": "[ROOT.GetNameDefCap] Menghadapi Masa Depan yang Penuh Ketidakpastian",
+    "wuw_GER_uncertain_future.02.desc": "Dengan Perang Saudara yang akhirnya usai, bangsa Jerman perlahan menata kembali negerinya, namun rakyatnya sangat merindukan kestabilan dan rasa aman. [ROOT.GetLeader] belum mengambil langkah tegas untuk melangkah maju dan tampak tidak peduli dalam menentukan akan seperti apa rupa negara Jerman baru kelak. Hal ini menimbulkan kecemasan mendalam di kalangan rakyat yang ingin segera meninggalkan masa lalu kelam mereka.",
+    "wuw_GER_uncertain_future.02.a": "Gejolak keresahan di kalangan rakyat jelata, benarkah?",
+    "wuw_GER_german_politics.01.t": "Kembalinya Demokrasi",
+    "wuw_GER_german_politics.01.desc": "Dengan kembalinya pemilihan umum yang bebas, rakyat [ROOT.GetAdjective] berbondong-bondong mendatangi tempat pemungutan suara untuk menentukan masa depan Jerman. Gelombang euforia meluap di jalan-jalan dengan perasaan lega bahwa hari-hari kelam akhirnya telah berlalu, menjadikan hari ini terasa lebih menyerupai festival perayaan ketimbang sekadar pemilu nasional.",
+    "wuw_GER_german_politics.01.a": "Kita membutuhkan sosok tradisionalis yang berhati-hati",
+    "wuw_GER_german_politics.01.b": "Kita membutuhkan sosialis berpandangan maju",
+    "wuw_GER_german_politics.02.t": "Pemimpin bagi Rakyat Jelata",
+    "wuw_GER_german_politics.02.desc": "Dengan kembalinya cita-cita Liga Spartakus, muncul kehendak untuk melibatkan rakyat secara lebih aktif. Pemilihan umum untuk memilih sosok yang mewakili kita telah digelar, dan saat seluruh surat suara dihitung, hasilnya tampak sangat berimbang. Rakyat jelas memandang kedua kandidat sebagai figur yang cakap memimpin [ROOT.GetNameDef], sayangnya kita hanya dapat mengangkat satu orang saja.",
+    "wuw_GER_german_politics.02.a": "Heinrich Brandler adalah pilihan yang tepat!",
+    "wuw_GER_german_politics.02.b": "Pertahankan Ernst Thälmann di tampuk kekuasaan!",
+    "wuw_GER_german_politics.02.c": "Kita membutuhkan seorang Sosialis yang pragmatis!",
+
+    # 22 - 32: Amerikabomber Project
+    "GOT_GER_amerikabomber.01.t": "Proyek Pengebom Amerika (Amerikabomber)",
+    "GOT_GER_amerikabomber.01.desc": "Dengan ditetapkannya keputusan merancang pengebom strategis jarak jauh antarkontinental, rancangan dari berbagai konsorsium penerbangan telah diajukan ke meja komando. Masing-masing menjanjikan mampu memproduksi mesin perang yang sanggup membawa kobaran perang melintasi Samudra Atlantik. Kini satu-satunya langkah tersisa adalah menentukan tim mana yang akan mewujudkan rencana ambisius ini.",
+    "GOT_GER_amerikabomber.01.a": "$GER_focke_wulf_organization$",
+    "GOT_GER_amerikabomber.01.b": "$GER_heinkel_organization$",
+    "GOT_GER_amerikabomber.01.c": "$GER_junkers_organization$",
+    "GOT_GER_amerikabomber.01.d": "$GER_messerschmitt_organization$",
+    "when_intercontinental_bomber_project_is_completed_tt": "Ketika Proyek Khusus §Y$sp_air_intercontinental_bomber$§! selesai diteliti:",
+    "GER_amerikabomber_focke_wulf_flag": "§Y$GER_focke_wulf_organization$§! telah ditugaskan untuk pengembangan §YAmerikabomber§!",
+    "GER_amerikabomber_heinkel_flag": "§Y$GER_heinkel_organization$§! telah ditugaskan untuk pengembangan §YAmerikabomber§!",
+    "GER_amerikabomber_messerschmitt_flag": "§Y$GER_messerschmitt_organization$§! telah ditugaskan untuk pengembangan §YAmerikabomber§!",
+    "GER_amerikabomber_junkers_flag": "§Y$GER_junkers_organization$§! telah ditugaskan untuk pengembangan §YAmerikabomber§!",
+
+    # 33 - 69: Operation Panzerfaust & Margarethe in Hungary
+    "GER_operation_panzerfaust_events.01.t": "Keraguan atas Loyalitas Horthy",
+    "GER_operation_panzerfaust_events.01.desc": "Kecurigaan bahwa sekutu kita Miklós Horthy tengah menjalin perundingan damai rahasia dengan musuh-musuh kita telah sampai ke telinga pimpinan Reich. Kita harus melancarkan tekanan keras kepadanya demi memastikan Hongaria tetap setia pada perjuangan Poros.",
+    "GER_operation_panzerfaust_events.01.a": "Tuntut ketundukan mutlaknya kepada sang Führer",
+    "GER_operation_panzerfaust_events.01.b": "Ini reaksi berlebihan, Horthy adalah sekutu setia!",
+    "GER_operation_panzerfaust_events.02.t": "[GER.GetLeader] Menuntut Pengunduran Diri Horthy",
+    "GER_operation_panzerfaust_events.02.desc": "Hari ini kita menerima kabar bahwa pihak Jerman menuntut Miklós Horthy meletakkan jabatan demi digantikan oleh Ferenc Szálasi, sosok yang mereka nilai jauh lebih dapat dipercaya. Mereka juga menegaskan bahwa jika tuntutan mereka tidak dipenuhi, intervensi militer ke negara kita mutlak akan terjadi.",
+    "GER_operation_panzerfaust_events.02.a": "Kita tidak dalam posisi sanggup menentang mereka",
+    "GER_operation_panzerfaust_events.02.b": "Mereka tidak memiliki kuasa apa pun di tanah air kita",
+    "GER_operation_panzerfaust_events.03.t": "Hongaria Tunduk",
+    "GER_operation_panzerfaust_events.03.desc": "Miklós Horthy telah menyerah dan Hongaria kini sepenuhnya berada dalam cengkeraman kita. Tampaknya intimidasi tegas kita membuahkan hasil manis.",
+    "GER_operation_panzerfaust_events.03.a": "Luar biasa",
+    "GER_operation_panzerfaust_events.04.t": "Horthy Tetap Membangkang",
+    "GER_operation_panzerfaust_events.04.desc": "Miklós Horthy hari ini mengumumkan secara terbuka bahwa ia tidak akan tunduk pada gertakan Jerman dan Hongaria akan tetap merdeka di luar kendali Jerman. Mengingat tekanan diplomatik semata tidak mempan, kita kini harus menentukan langkah militer kita.",
+    "GER_operation_panzerfaust_events.04.a": "Ini sudah kelewat batas. Luncurkan Operasi Margarethe!",
+    "GER_operation_panzerfaust_events.04.b": "Kita tidak akan terpancing permainan politiknya",
+    "GER_operation_panzerfaust_events.04.c": "Kalau begitu kita serahkan urusan ini kepada para agen intelijen kita...",
+    "GER_operation_panzerfaust_events.05.t": "Jerman Melancarkan Operasi Margarethe",
+    "GER_operation_panzerfaust_events.05.desc": "Sang Führer membuktikan ancamannya dan kini secara resmi mengumumkan dimulainya Operasi Margarethe: invasi kilat terhadap tanah air kita demi penundukan paksa. Kita harus berdiri melawan dengan gagah berani!",
+    "GER_operation_panzerfaust_events.05.a": "Biarkan mereka datang menghadapi perlawanan kita",
+    "GER_operation_panzerfaust_events.06.t": "Jerman Mencoba Menurunkan Ketegangan",
+    "GER_operation_panzerfaust_events.06.desc": "Terlepas dari segala ancaman terhadap perbatasan dan kedaulatan kita, pihak Jerman kini berupaya meredakan ketegangan dengan menarik kembali tuntutan keras mereka.",
+    "GER_operation_panzerfaust_events.06.a": "Baguslah kalau begitu",
+    "GER_operation_panzerfaust_events.07.t": "Operasi Panzerfaust Mengalami Kegagalan",
+    "GER_operation_panzerfaust_events.07.desc": "Semula kita berharap operasi rahasia ini menjadi pukulan pamungkas bagi kaum Hongaria yang kian memberontak, namun Operasi Panzerfaust hari ini digagalkan setelah agen-agen komando kita diringkus persis di luar kediaman Horthy.",
+    "GER_operation_panzerfaust_events.07.a": "Mereka terpaksa berada di luar kendali kita, untuk saat ini",
+    "GER_operation_panzerfaust_events.08.t": "Operasi Panzerfaust Meraih Keberhasilan Gemilang",
+    "GER_operation_panzerfaust_events.08.desc": "Kita berhasil menculik Horthy beserta putranya, dan segera menyerahkan tampuk kekuasaan kepada Ferenc Szálasi. Dengan demikian Hongaria kini akan patuh dan setia pada perjuangan Poros.",
+    "GER_operation_panzerfaust_events.08.a": "Kemenangan mutlak",
+    "GER_operation_panzerfaust_events.09.t": "Operasi Margarethe Berhasil",
+    "GER_operation_panzerfaust_events.09.desc": "Pasukan Wehrmacht telah menduduki titik-titik strategis di Budapest dan mengamankan pemerintahan militer di Hongaria.",
+    "GER_operation_panzerfaust_events.09.a": "Hongaria telah diamankan.",
+    "GER_operation_panzerfaust_events.10.t": "Szálasi Mengambil Alih Kekuasaan",
+    "GER_operation_panzerfaust_events.10.desc": "Ferenc Szálasi dan Partai Salib Panah kini memegang kendali penuh atas pemerintahan Hongaria di bawah perlindungan Jerman.",
+    "GER_operation_panzerfaust_events.10.a": "Sekutu yang setia telah berkuasa.",
+    "GER_operation_panzerfaust_events.10.b": "Kami tidak akan pernah menyerah!",
+
+    # 70 - 78: Fading Eagle (Reich yang Memudar)
+    "GOT_GER_fading_eagle.01.t": "Tuntutan Jerman atas Wilayah Pendudukan",
+    "GOT_GER_fading_eagle.01.desc": "Pemerintah Jerman menuntut kontrol penuh atas administrasi dan sumber daya di wilayah pendudukan demi menyokong perang yang kian memburuk.",
+    "GOT_GER_fading_eagle.01.a": "Kita terpaksa mengizinkannya untuk saat ini",
+    "GOT_GER_fading_eagle.01.b": "Kita tidak akan pernah menyerahkan kedaulatan kita!",
+    "GOT_GER_fading_eagle.02.t": "[FROM.GetNameDefCap] Menerima Tuntutan Kita",
+    "GOT_GER_fading_eagle.02.desc": "[FROM.GetLeader] dari [FROM.GetNameDef] telah mengumumkan bahwa bangsa [FROM.GetAdjective] akan menyerahkan diri ke bawah kepemimpinan kita, dan berikrar setia pada perjuangan kita hingga akhir hayat.",
+    "GOT_GER_fading_eagle.02.a": "Kita kembali merebut kendali!",
+    "GOT_GER_fading_eagle.03.t": "[FROM.GetNameDefCap] Menolak Tuntutan Kita",
+    "GOT_GER_fading_eagle.03.desc": "[FROM.GetLeader] dari [FROM.GetNameDef] menegaskan bahwa mereka tidak akan menerima penundukan sekali lagi, dan jika kita menginginkan wilayah mereka, kita harus merebutnya dengan kekerasan senjata.",
+    "GOT_GER_fading_eagle.03.a": "Mereka akan menyesali keputusan mereka",
+    "GOT_GER_fading_eagle.03.b": "Kita tidak sanggup menambah satu musuh lagi",
+
+    # 79 - 105: Inner Circle (Himmler, Göring, Goebbels, Speer, Todt, Bormann, Heydrich)
+    "GER_inner_circle_himmler.00.t": "Kewajiban-Kewajiban Himmler",
+    "GER_inner_circle_himmler.00.desc": "Himmler telah menghimpun pengaruh kekuasaan yang luar biasa besar dalam perpolitikan dan pembuatan kebijakan Jerman setelah mengambil alih komando penuh atas SS sekaligus Gestapo. Kendati posisi ini menjadikannya figur paling digdaya dalam urusan Reich, ia hanya memiliki waktu terbatas untuk memperkuat salah satu dari organisasi raksasa ini. Pertanyaannya adalah: organisasi mana yang akan diprioritaskan?",
+    "GER_inner_circle_himmler.00.a": "Waffen-SS adalah prioritas utama kita",
+    "GER_inner_circle_himmler.00.b": "Fokus pada peningkatan aparat intelijen kita",
+    "GER_inner_circle_himmler_ss_tt": "§Y$GER_heinrich_himmler$§! akan segera memulai pekerjaan menuju fokus §Y$GER_expand_ss_security_duties$§!.",
+    "GER_inner_circle_himmler_gestapo_tt": "§Y$GER_heinrich_himmler$§! akan segera memulai pekerjaan menuju fokus §Y$GER_expand_gestapo$§!.",
+    "GER_inner_circle.01.t": "Kebangkitan [GetAscendingAdvisorName]",
+    "GER_inner_circle.01.desc": "[GetAscendingAdvisorName] telah menunjukkan ambisi besar dan memupuk pengaruh kuat di tubuh Partai. Namun demikian, upayanya menancapkan kekuasaan lebih dalam telah memicu keberatan keras dari para petinggi lainnya, bermuara pada intrik persaingan kekuasaan yang sengit. Pertanyaannya adalah apakah [GetAscendingAdvisorName] telah cukup memukau [GER.GetLeader] demi mengamankan satu kursi prestisius di Lingkaran Dalam (Inner Circle)?",
+    "GER_inner_circle.01.a": "Gantikan [GetAscendedAdvisorName1]",
+    "GER_inner_circle.01.b": "Gantikan [GetAscendedAdvisorName2]",
+    "GER_inner_circle.01.c": "Gantikan [GetAscendedAdvisorName3]",
+    "GER_inner_circle.01.d": "[GetAscendingAdvisorName] tidak layak menyandang kepercayaan sang Führer",
+    "GER_inner_circle.02.t": "Seorang Führer Baru Bangkit",
+    "GER_inner_circle.02.desc": "Para Reichsleiter terdekat dengan [GER.GetLeader] mulai meragukan kepemimpinannya dan visi masa depan yang ia canangkan bagi [GER.GetNameDef]. Mereka kini merajut konspirasi untuk menggulingkan [GER.GetLeader] dari tampuk kekuasaan dan merebut gelar Führer bagi diri mereka sendiri. Pertanyaannya adalah: siapakah yang akan mengungguli para rivalnya dan memimpin jalan menuju masa depan yang gemilang?",
+    "GER_inner_circle.02.a": "[GetAscendedAdvisorName1] yang akan memimpin bangsa.",
+    "GER_inner_circle.02.b": "[GetAscendedAdvisorName2] adalah sosok yang paling cakap untuk tugas ini.",
+    "GER_inner_circle.02.c": "[GetAscendedAdvisorName3] akan menjadi pemimpin sejati bagi rakyat [ROOT.GetAdjective].",
+    "GER_inner_circle.02.d": "Kita belum siap menghadapi pergantian pucuk kepemimpinan.",
+    "GER_inner_circle.03.t": "Rencana Industri [GetIntrigueCharacterName] Dipertanyakan",
+    "GER_inner_circle.03.desc": "Perebutan kekuasaan yang sengit meletus di antara para rival di dalam Lingkaran Dalam [GER.GetLeader]. Ketegangan kian memuncak seiring [GetIntrigueCharacterName] menggalang pengaruh dan memperluas otoritasnya. [GetIndustrialReichsleiterNames] saling melontarkan kritik pedas mengenai metode terbaik mengelola industri Jerman dan produksi persenjataan, seraya bersaing memperebutkan restu [GER.GetLeader].",
+    "GER_inner_circle.03.a": "[GetIntrigueCharacterName] memegang kepercayaan mutlak dari sang Führer.",
+    "GER_inner_circle.03.b": "$GER_fritz_todt$ memiliki pengalaman matang yang dibutuhkan untuk menangani hal ini.",
+    "GER_inner_circle.03.c": "$GER_albert_speer$ yang akan mengambil alih urusan perindustrian.",
+    "GER_inner_circle.03.d": "$GER_hermann_goring$ adalah tangan kanan sang Führer, angkat dia!",
+    "GER_inner_circle_industrial_reichsleiter": "[GetIndustrialReichsleiterNames]",
+    "GER_inner_circle_industrial_reichsleiter_all": "$GER_fritz_todt$, $GER_albert_speer$, dan $GER_hermann_goring$",
+    "GER_inner_circle_industrial_reichsleiter_no_goring": "$GER_fritz_todt$ dan $GER_albert_speer$",
+
+    # 106 - 113: Guarantee of Polish Sovereignty & Pan-European Proletarian Rise
+    "GOT_guarantee_events.01.t": "Menjamin Kedaulatan Polandia",
+    "GOT_guarantee_events.01.desc": "Jelas terlihat bahwa [GER.GetLeader] tidak lagi dapat diajak bernalar sehat dan tidak akan berhenti sebelum mendominasi dunia. Ia kian yakin bahwa tiada satu kekuatan pun yang berani merintangi jalan [GER.GetNameDef] beserta ambisi ekspansinya yang rakus akan wilayah baru.",
+    "GOT_guarantee_events.01.a": "Kita wajib menawarkan perlindungan nyata bagi bangsa Polandia!",
+    "GOT_guarantee_events.01.b": "Biarkan [GER.GetLeader] berbuat sesuka hatinya.",
+    "GOT_newsevents.1.t": "Kebangkitan [FROM.GetNameDef]",
+    "GOT_newsevents.1.desc": "Bangsa [FROM.GetAdjective] telah berhasil menundukkan bangsa-bangsa Eropa dan menempatkan diri sebagai hegemon mutlak di benua tersebut, serta mulai mengintegrasikan wilayah-wilayah taklukan baru. Pemerintah [FROM.GetAdjective] berupaya menggalang persatuan rakyat di belakang negara dan cita-cita sosialisme, melancarkan berbagai kampanye propaganda pan-nasionalis demi mendulang dukungan kaum proletar.\\n\\n[FROM.GetLeader] telah memproklamasikan bahwa persatuan Kaum Proletar Eropa mulai hari ini akan dikenal resmi sebagai '[From.GetNameDef]'.",
+    "GOT_newsevents.1.a": "Kita bangkit bersatu bersama",
+    "GOT_newsevents.1.b": "Ini pertanda yang sangat mencemaskan"
+}
+
+# Verify and save
+with open('scripts/chunks/chunk_13.json', 'r', encoding='utf-8') as f:
+    chunk_items = json.load(f)
+
+missing = []
+for it in chunk_items:
+    k = it['key']
+    if k not in trans:
+        missing.append(k)
+
+if missing:
+    print(f"Warning: {len(missing)} missing keys in chunk 13: {missing[:10]}")
+else:
+    print(f"Success! All {len(chunk_items)} keys in chunk 13 are translated!")
+
+with open('scripts/chunks/trans_chunk_13.json', 'w', encoding='utf-8') as f:
+    json.dump(trans, f, indent=2, ensure_ascii=False)
+print("Saved scripts/chunks/trans_chunk_13.json")

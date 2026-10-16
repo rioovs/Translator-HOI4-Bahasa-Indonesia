@@ -1,0 +1,352 @@
+[
+  {
+    "line_num": 2,
+    "key": "DECISIONVIEW_TITLE",
+    "ver": "",
+    "val": "Events and Decisions",
+    "comm": ""
+  },
+  {
+    "line_num": 3,
+    "key": "DECISIONSVIEW_EVENT_HEADER",
+    "ver": "",
+    "val": "Events",
+    "comm": ""
+  },
+  {
+    "line_num": 4,
+    "key": "POPUP_NEWS",
+    "ver": "",
+    "val": "News Popup",
+    "comm": ""
+  },
+  {
+    "line_num": 5,
+    "key": "POPUP_EVENTS",
+    "ver": "",
+    "val": "Event Popup",
+    "comm": ""
+  },
+  {
+    "line_num": 6,
+    "key": "CATEGORY_COLLAPSE_DESC",
+    "ver": "",
+    "val": "§GClick§! to collapse",
+    "comm": ""
+  },
+  {
+    "line_num": 7,
+    "key": "CATEGORY_EXPAND_DESC",
+    "ver": "",
+    "val": "§GClick§! to expand",
+    "comm": ""
+  },
+  {
+    "line_num": 8,
+    "key": "DECISION_KEEP_NOTIFIED",
+    "ver": "",
+    "val": "§HNotify§!\\n\\n§GClick§! to §Rnot be notified§! when it is possible to take this decision.\\n",
+    "comm": ""
+  },
+  {
+    "line_num": 9,
+    "key": "DECISION_NOT_KEEP_NOTIFIED",
+    "ver": "",
+    "val": "§HNotify§!\\n\\n§GClick§! to §Gbe notified§! when it is possible to take this decision.\\n",
+    "comm": ""
+  },
+  {
+    "line_num": 10,
+    "key": "TAKE_DECISION_HEADER",
+    "ver": "",
+    "val": "§HTake decision§!\\n\\n",
+    "comm": ""
+  },
+  {
+    "line_num": 11,
+    "key": "NEWS_POPUP_CHECKBOX_TOOLTIP",
+    "ver": "",
+    "val": "§GClick§! to toggle News notifications",
+    "comm": ""
+  },
+  {
+    "line_num": 12,
+    "key": "EVENT_POPUP_CHECKBOX_TOOLTIP",
+    "ver": "",
+    "val": "§GClick§! to toggle Event notifications",
+    "comm": ""
+  },
+  {
+    "line_num": 13,
+    "key": "MINOR_EVENT_POPUP_CHECKBOX_TOOLTIP",
+    "ver": "",
+    "val": "§GClick§! to toggle minor event notifications, such as Ace Pilot events.",
+    "comm": ""
+  },
+  {
+    "line_num": 14,
+    "key": "POPUP_MINOR_EVENTS",
+    "ver": "",
+    "val": "Minor Popup",
+    "comm": ""
+  },
+  {
+    "line_num": 15,
+    "key": "DECISION_COST_DESC",
+    "ver": "",
+    "val": "It costs £pol_power $VAL|H0$ to take the decision",
+    "comm": ""
+  },
+  {
+    "line_num": 16,
+    "key": "DECISION_COST_NOT_ENOUGH",
+    "ver": "",
+    "val": "It costs £pol_power $VAL|HR0$ to take the decision",
+    "comm": ""
+  },
+  {
+    "line_num": 17,
+    "key": "ON_MAP_DECISION_NAME_DEFAULT",
+    "ver": "",
+    "val": "Find decisions on the map.",
+    "comm": ""
+  },
+  {
+    "line_num": 18,
+    "key": "ADD_DAYS_TO_DECISION",
+    "ver": "",
+    "val": "Add $DAYS|H$ days to Decision $DECISION|H$",
+    "comm": ""
+  },
+  {
+    "line_num": 19,
+    "key": "REMOVE_DAYS_TO_DECISION",
+    "ver": "",
+    "val": "Remove $DAYS|H$ days from Decision $DECISION|H$",
+    "comm": ""
+  },
+  {
+    "line_num": 20,
+    "key": "ADD_DAYS_TO_MISSION",
+    "ver": "",
+    "val": "Add $DAYS|H$ days to Mission $MISSION|H$",
+    "comm": ""
+  },
+  {
+    "line_num": 21,
+    "key": "REMOVE_DAYS_TO_MISSION",
+    "ver": "",
+    "val": "Remove $DAYS|H$ days from Mission $MISSION|H$",
+    "comm": ""
+  },
+  {
+    "line_num": 22,
+    "key": "CLICK_TO_TOGGLE_ALL_CATEGORY_DECISION_TRACKING",
+    "ver": "",
+    "val": "§GClick§! to toggle notification status for all decisions under this category.",
+    "comm": ""
+  },
+  {
+    "line_num": 23,
+    "key": "banned_communism_flag",
+    "ver": "",
+    "val": "Has banned communist parties",
+    "comm": ""
+  },
+  {
+    "line_num": 24,
+    "key": "FRA_civil_unrest_category",
+    "ver": "",
+    "val": "Civil Unrest",
+    "comm": ""
+  },
+  {
+    "line_num": 25,
+    "key": "FRA_communist_civil_war_decision",
+    "ver": "",
+    "val": "Imminent Communist Uprising",
+    "comm": ""
+  },
+  {
+    "line_num": 26,
+    "key": "FRA_communist_civil_war_decision_desc",
+    "ver": "",
+    "val": "The rising furore of radical politics is becoming harder to appease - eventually we must confront it one way or another.",
+    "comm": ""
+  },
+  {
+    "line_num": 27,
+    "key": "FRA_fascist_civil_war_decision",
+    "ver": "",
+    "val": "Imminent Fascist Uprising",
+    "comm": ""
+  },
+  {
+    "line_num": 28,
+    "key": "FRA_fascist_civil_war_decision_desc",
+    "ver": "",
+    "val": "The rising populist sentiment is proving to be an unstoppable tide. There is no avoiding the inevitable.",
+    "comm": ""
+  },
+  {
+    "line_num": 29,
+    "key": "ETH_defeat_italy",
+    "ver": "",
+    "val": "Defeat the Colonizers",
+    "comm": ""
+  },
+  {
+    "line_num": 30,
+    "key": "ETH_defeat_italy_category",
+    "ver": "",
+    "val": "The Second Italian-Ethiopian War",
+    "comm": ""
+  },
+  {
+    "line_num": 31,
+    "key": "ETH_defeat_italy_category_desc",
+    "ver": "",
+    "val": "Italy once again seeks to see Ethiopia subjugated into a mere colony. We defeated these invaders last time, and we can defeat them again if only we can remove them from our border for good!",
+    "comm": ""
+  },
+  {
+    "line_num": 32,
+    "key": "seize_some_trains_woo",
+    "ver": "",
+    "val": "Commandeer Civilian Trains",
+    "comm": ""
+  },
+  {
+    "line_num": 33,
+    "key": "seize_some_trains_woo_desc",
+    "ver": "",
+    "val": "The merchant rail companies hold sway over our infrastructure. With war looming, we are well within our rights to commandeer equipment for state use.",
+    "comm": ""
+  },
+  {
+    "line_num": 34,
+    "key": "random_general_monarchy_tt",
+    "ver": "",
+    "val": "A random [FROM.GetAdjective] general will gain secret monarchist sympathies.",
+    "comm": ""
+  },
+  {
+    "line_num": 35,
+    "key": "removed_when_cancelled_war_prop",
+    "ver": "",
+    "val": "Propaganda campaigns have been ended.",
+    "comm": ""
+  },
+  {
+    "line_num": 36,
+    "key": "war_propaganda_casualties",
+    "ver": "",
+    "val": "Exhort Heroism",
+    "comm": ""
+  },
+  {
+    "line_num": 37,
+    "key": "war_propaganda_casualties_desc",
+    "ver": "",
+    "val": "Although the death toll rises, our people must be taught that only in battle are heroes forged.",
+    "comm": ""
+  },
+  {
+    "line_num": 38,
+    "key": "war_propaganda_convoys",
+    "ver": "",
+    "val": "Encourage Frugality",
+    "comm": ""
+  },
+  {
+    "line_num": 39,
+    "key": "war_propaganda_convoys_desc",
+    "ver": "",
+    "val": "Even civilians can help win the war - by care and attention to our material usage, every gram of steel can be made twice as valuable to the war effort.",
+    "comm": ""
+  },
+  {
+    "line_num": 40,
+    "key": "war_propaganda_bombing",
+    "ver": "",
+    "val": "Bolster Spirits",
+    "comm": ""
+  },
+  {
+    "line_num": 41,
+    "key": "war_propaganda_bombing_desc",
+    "ver": "",
+    "val": "Though bombs fall all around us, our brave workers soldier on. It is by this spirit that we will be victorious.",
+    "comm": ""
+  },
+  {
+    "line_num": 42,
+    "key": "war_support_during_war",
+    "ver": "",
+    "val": "War Support",
+    "comm": ""
+  },
+  {
+    "line_num": 43,
+    "key": "CHI_occupation_actions",
+    "ver": "",
+    "val": "Anti-Occupation Measures",
+    "comm": ""
+  },
+  {
+    "line_num": 44,
+    "key": "CHI_breach_the_yellow_river",
+    "ver": "",
+    "val": "Breach the Yellow River Dikes",
+    "comm": ""
+  },
+  {
+    "line_num": 45,
+    "key": "CHI_breach_the_yellow_river_desc",
+    "ver": "",
+    "val": "The Yellow River is the lifeblood of the surrounding regions, but stands in the path of the oncoming invasion. As a last resort to slow invading forces, the suggestion to blow the complex system of dikes and dams has been made.\\n\\nThe efficacy of this action is difficult to determine, but the consequences will be severe.",
+    "comm": ""
+  },
+  {
+    "line_num": 46,
+    "key": "yellow_river_blown",
+    "ver": "",
+    "val": "Extreme Flooding",
+    "comm": ""
+  },
+  {
+    "line_num": 47,
+    "key": "yellow_river_blown_desc",
+    "ver": "",
+    "val": "This region is heavily flooded due to the sabotage of the yellow river flood defenses.",
+    "comm": ""
+  },
+  {
+    "line_num": 49,
+    "key": "decision_cost_CP_15",
+    "ver": "",
+    "val": "£command_power  §Y15§!",
+    "comm": ""
+  },
+  {
+    "line_num": 50,
+    "key": "decision_cost_CP_15_blocked",
+    "ver": "",
+    "val": "£command_power  §R15§!",
+    "comm": ""
+  },
+  {
+    "line_num": 51,
+    "key": "decision_cost_CP_15_tooltip",
+    "ver": "",
+    "val": "It costs £command_power  §Y15§! to take the decision",
+    "comm": ""
+  },
+  {
+    "line_num": 53,
+    "key": "decision_cost_CP_25",
+    "ver": "",
+    "val": "£command_power  §Y25§!",
+    "comm": ""
+  }
+]

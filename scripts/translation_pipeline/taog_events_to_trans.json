@@ -1,0 +1,2857 @@
+[
+  {
+    "key": "INS_political_events.1.t",
+    "version": "",
+    "en": "The New Governor General for [INS.GetNameDef]"
+  },
+  {
+    "key": "INS_political_events.1.desc",
+    "version": "",
+    "en": "The five-year term of [INS.GetLeader] is approaching its end, and thus we must decide on a suitable leader to take his place. Queen Wilhelmina has recommended Alidius Tjarda van Starkenborgh Stachouwer, who has shown great promise as Extraordinary Ambassador and Minister Plenipotentiary."
+  },
+  {
+    "key": "INS_political_events.1.a",
+    "version": "",
+    "en": "As the Queen wants."
+  },
+  {
+    "key": "INS_political_events.1.b",
+    "version": "",
+    "en": "[INS.GetLeader] has done well, he should serve another term."
+  },
+  {
+    "key": "INS_political_events.2.t",
+    "version": "",
+    "en": "[FROM.GetName] demands ownership of [721.GetName]"
+  },
+  {
+    "key": "INS_political_events.2.desc",
+    "version": "",
+    "en": "The new Republican government in the former Indies has declared the entire archipelago as their territory. [FROM.GetLeader] has sent us an official demand to give up [721.GetName], threatening military action upon refusal."
+  },
+  {
+    "key": "INS_political_events.2.a",
+    "version": "",
+    "en": "Fine, it is not worth causing an incident."
+  },
+  {
+    "key": "INS_political_events.2.b",
+    "version": "",
+    "en": "Absolutely not!"
+  },
+  {
+    "key": "INS_political_events.3.t",
+    "version": "",
+    "en": "[FROM.GetName] agrees to give up [721.GetName]"
+  },
+  {
+    "key": "INS_political_events.3.desc",
+    "version": "",
+    "en": "As expected, [FROM.GetLeader] has agreed to our demands and has begun moving troops out of [721.GetName]. TKR forces have entered the region together with several government envoys. [INS.GetLeader] himself gave a speech in Dili declaring freedom from colonial influence."
+  },
+  {
+    "key": "INS_political_events.3.a",
+    "version": "",
+    "en": "Wonderful!"
+  },
+  {
+    "key": "INS_political_events.4.t",
+    "version": "",
+    "en": "[FROM.GetName] refuses to give up [721.GetName]"
+  },
+  {
+    "key": "INS_political_events.4.desc",
+    "version": "",
+    "en": "Negotiations with [FROM.GetName] did not go well. [FROM.GetLeader] refused to give up [721.GetName] for any reason, ending the meeting early."
+  },
+  {
+    "key": "INS_political_events.4.a",
+    "version": "",
+    "en": "Then it is war."
+  },
+  {
+    "key": "INS_political_events.5.t",
+    "version": "",
+    "en": "The Indonesian General Election"
+  },
+  {
+    "key": "INS_political_events.5.desc",
+    "version": "",
+    "en": "Today marks a historical milestone for Indonesia. With the revolution officially over, Prime Minister [INS.GetLeader] has declared that Indonesia will hold its first free and democratic election. The outcome of this election will have a lasting impact on Indonesia."
+  },
+  {
+    "key": "INS_political_events.5.a",
+    "version": "",
+    "en": "Sutan Sjahrir has led our country to this point, he will guide us further!"
+  },
+  {
+    "key": "INS_political_events.5.b",
+    "version": "",
+    "en": "Amir Sjarifuddin is a fair compromise between the Socialists and Nationalists."
+  },
+  {
+    "key": "INS_political_events.5.c",
+    "version": "",
+    "en": "Mohammad Hatta started the revolution, and he will complete it."
+  },
+  {
+    "key": "INS_political_events.6.t",
+    "version": "",
+    "en": "Our preparations pay off"
+  },
+  {
+    "key": "INS_political_events.6.desc",
+    "version": "",
+    "en": "With the revolution underway, our guerillas which have infiltrated the Indies administration no longer need to operate in secrecy, and will begin to carry out their sabotage missions before the Netherlands has time to react."
+  },
+  {
+    "key": "INS_political_events.6.a",
+    "version": "",
+    "en": "We must continue to act fast."
+  },
+  {
+    "key": "INS_political_events.7.t",
+    "version": "",
+    "en": "The Soetardjo Petition"
+  },
+  {
+    "key": "INS_political_events.7.desc",
+    "version": "",
+    "en": "The Volksraad petition organized by Soetardjo which requests a round table conference to be held between Dutch and Indonesian representatives to discuss the Indonesian desire for autonomy has finished internal debate, and the petition has gone to the Governor General for approval. While many advisors insist the status quo must be maintained, and therefore the petition should be vetoed, there is no denying that nationalist movements are only getting stronger and more radicalized. If we continue to refuse every peaceful request for autonomy, the nationalists may begin trying more violent alternatives instead."
+  },
+  {
+    "key": "INS_political_events.7.a",
+    "version": "",
+    "en": "We must begin negotiations in order to avoid an inevitable civil war."
+  },
+  {
+    "key": "INS_political_events.7.b",
+    "version": "",
+    "en": "The status quo must continue."
+  },
+  {
+    "key": "INS_political_events.7.c",
+    "version": "",
+    "en": "Perhaps the nationalists have a point?"
+  },
+  {
+    "key": "INS_political_events.8.t",
+    "version": "",
+    "en": "[?event_target:INS_invasion_event_invader.GetAdjective] Occupation Imminent"
+  },
+  {
+    "key": "INS_political_events.8.desc",
+    "version": "",
+    "en": "Soldiers from [?event_target:INS_invasion_event_invader.GetName] have arrived at [?event_target:INS_invasion_event_invaded_state.GetName], and our soldiers in the area, being greatly outnumbered, have been ordered to engage a full military evacuation of [?event_target:INS_invasion_event_invaded_state.GetName]. The [?event_target:INS_invasion_event_invader.GetAdjective] forces are continuing to advance in the Indies and our chance of avoiding occupation are looking bleak."
+  },
+  {
+    "key": "INS_political_events.8.a",
+    "version": "",
+    "en": "We will arrest the nationalists and defend our home until the death!"
+  },
+  {
+    "key": "INS_political_events.9.t",
+    "version": "",
+    "en": "Indonesians Declare Independence"
+  },
+  {
+    "key": "INS_political_events.9.desc",
+    "version": "",
+    "en": "As [JAP.GetNameDef] began to withdraw their forces from the East Indies, we sent soldiers to Batavia in order to reestablish the colonial government. However, our soldiers discovered that the political landscape in the Indies has significantly changed since the occupation. Before our troops even made it to Batavia, [INS.GetLeader] had already signed a declaration of independence, proclaiming the Republic of Indonesia as an independent nation, with shocking amounts of support from the public."
+  },
+  {
+    "key": "INS_political_events.9.a",
+    "version": "",
+    "en": "Send in the tanks!"
+  },
+  {
+    "key": "INS_political_events.9.b",
+    "version": "",
+    "en": "This is hopeless, more fighting is not what we need. We should focus on rebuilding the homeland."
+  },
+  {
+    "key": "INS_political_events.11.t",
+    "version": "",
+    "en": "[HOL.GetNameDefCap] recognizes Indonesian sovereignty"
+  },
+  {
+    "key": "INS_political_events.11.desc",
+    "version": "",
+    "en": "Upon declaring independence, our militias immediately moved to defend our territory from the Dutch invasion we expected. However, to the surprise of many, [HOL.GetLeader] announced he will not call for an invasion, instead prioritizing rebuilding the Dutch homeland and avoiding further conflict."
+  },
+  {
+    "key": "INS_political_events.11.a",
+    "version": "",
+    "en": "A surprise, but a welcome one."
+  },
+  {
+    "key": "INS_political_events.12.t",
+    "version": "",
+    "en": "Meeting with Indonesian Nationalists"
+  },
+  {
+    "key": "INS_political_events.12.desc",
+    "version": "",
+    "en": "Our troops have landed in [?event_target:INS_invasion_event_invaded_state.GetName] and victory on the Indonesian front is imminent. We need to settle on how we should go about occupying Indonesia. While direct occupation would get us the resources we need, it’s going to be expensive and difficult. We’ve negotiated with Sukarno, a leading revolutionary, and have created a plan wherein we will establish an Indonesian puppet state, officially led partly by Sukarno, but under our command. This will keep the Indonesian civilians calm, and will be much cheaper than total occupation."
+  },
+  {
+    "key": "INS_political_events.12.a",
+    "version": "",
+    "en": "We should continue negotiations with Sukarno"
+  },
+  {
+    "key": "INS_political_events.12.b",
+    "version": "",
+    "en": "We are not interested in cooperating with revolutionaries."
+  },
+  {
+    "key": "INS_political_events.13.t",
+    "version": "",
+    "en": "[?event_target:INS_invasion_event_invader.GetAdjective] Occupation Imminent"
+  },
+  {
+    "key": "INS_political_events.13.desc",
+    "version": "",
+    "en": "Soldiers from [?event_target:INS_invasion_event_invader.GetName] have arrived at [?event_target:INS_invasion_event_invaded_state.GetName], and our soldiers in the area, being greatly outnumbered, have been ordered to engage a full military evacuation of [?event_target:INS_invasion_event_invaded_state.GetName]. The [?event_target:INS_invasion_event_invader.GetAdjective] forces are continuing to advance in the Indies and our chance of avoiding occupation are looking bleak. Additionally, our spies report that [?event_target:INS_invasion_event_invader.GetLeader] has been seen negotiating with Sukarno and other nationalist leaders, aiming to create an Indonesian puppet state led by Sukarno under the Co-Prosperity Sphere."
+  },
+  {
+    "key": "INS_political_events.13.a",
+    "version": "",
+    "en": "We will arrest the nationalists and defend our home until the death!"
+  },
+  {
+    "key": "INS_political_events.13.b",
+    "version": "",
+    "en": "It's dangerous, but perhaps this is a real chance to become independent?"
+  },
+  {
+    "key": "INS_peta_explain_tt",
+    "version": "",
+    "en": "We will be able to use the chaos of the occupation to declare total independence if [JAP.GetName] gets pushed back."
+  },
+  {
+    "key": "INS_peta_explain_tt_jap",
+    "version": "",
+    "en": "§R[INS.GetName] may stay loyal to us, but if we begin to lose control of territory, they may call our bluff and declare independence§!."
+  },
+  {
+    "key": "INS_political_events.14.t",
+    "version": "",
+    "en": "Nationalist Leaders Arrested"
+  },
+  {
+    "key": "INS_political_events.14.desc",
+    "version": "",
+    "en": "Sukarno, as well as several other top revolutionaries in Indonesia have been arrested by Dutch military police, before we were able to establish the puppet regime."
+  },
+  {
+    "key": "INS_political_events.14.a",
+    "version": "",
+    "en": "Shame, he would've been a valuable ally."
+  },
+  {
+    "key": "INS_political_events.15.t",
+    "version": "",
+    "en": "Defenders of the Homeland"
+  },
+  {
+    "key": "INS_political_events.15.desc",
+    "version": "",
+    "en": "Negotiations with Sukarno have concluded, and the puppet regime in Indonesia is under way. Sukarno has used his connections together with our military presence to destabilize the Dutch government and establish de-facto control over the archipelago."
+  },
+  {
+    "key": "INS_political_events.15.a",
+    "version": "",
+    "en": "We have not only secured cheap resources, we have secured a valuable ally."
+  },
+  {
+    "key": "INS_political_events.16.t",
+    "version": "",
+    "en": "[?event_target:INS_invasion_event_invader.GetAdjective] occupation of the Indies"
+  },
+  {
+    "key": "INS_political_events.16.desc",
+    "version": "",
+    "en": "The [?event_target:INS_invasion_event_invader.GetAdjective] forces in the Indies have cooperated with Indonesian nationalists to destabilize our colonial administration, and have fully occupied the indies. Dutch flags have been lowered and replaced with Indonesian flags, and the native citizens of the Indies appear to be embracing the [?event_target:INS_invasion_event_invader.GetAdjective] occupiers. It is not looking good for our colonial empire."
+  },
+  {
+    "key": "INS_political_events.16.a",
+    "version": "",
+    "en": "They have won the battle, but they have not won the war."
+  },
+  {
+    "key": "INS_political_events.17.t",
+    "version": "",
+    "en": "[INS.GetName] declares independence"
+  },
+  {
+    "key": "INS_political_events.17.desc",
+    "version": "",
+    "en": "Word has reached the Imperial General Headquarters from Batavia. Sukarno and his clique, raised up by our own hand to govern the islands in the Emperor's name, have proclaimed the [FROM.GetAdjective] Republic as a response to our repeated territorial losses, believing we are stretched too thin to do anything about it."
+  },
+  {
+    "key": "INS_political_events.17.a",
+    "version": "",
+    "en": "Unfortunately, they may be correct."
+  },
+  {
+    "key": "INS_political_events.18.t",
+    "version": "",
+    "en": "Tan Malaka Returns to Indonesia"
+  },
+  {
+    "key": "INS_political_events.18.desc",
+    "version": "",
+    "en": "Tan Malaka, the Indonesian communist who has served these past years as a trusted advisor to our government, has announced his immediate departure. With [INS.GetNameDef] now standing as a free republic, he intends to return at last to the country he last set foot in as a fugitive over two decades ago. He thanks us for the refuge offered him and the freedom to continue his work, and says only that his place is now at home."
+  },
+  {
+    "key": "INS_political_events.18.a",
+    "version": "",
+    "en": "We will wish him good luck."
+  },
+  {
+    "key": "INS_political_events.19.t",
+    "version": "",
+    "en": "[HOL.GetName] Recalls Admiral Helfrich"
+  },
+  {
+    "key": "INS_political_events.19.desc",
+    "version": "",
+    "en": "Word has reached [1058.GetName] that Admiral Conrad Helfrich, commander of our naval forces and the most capable officer we have in these waters, has been ordered home. The Hague cites pressing needs in the metropole, and offers little further explanation. His departure leaves the archipelago thinly defended at a moment when our position here is far from secure, and the wardroom in Surabaya is said to be in a sour mood."
+  },
+  {
+    "key": "INS_political_events.19.a",
+    "version": "",
+    "en": "A grim day for the fleet"
+  },
+  {
+    "key": "INS_industrial_events.4.t",
+    "version": "",
+    "en": "Budget Reallocation in [FROM.FROM.GetName]"
+  },
+  {
+    "key": "INS_industrial_events.4.desc",
+    "version": "",
+    "en": "By shutting down rubber plantations in [FROM.FROM.GetName], we have made room in the budget for new industrial projects in the region."
+  },
+  {
+    "key": "INS_industrial_events.4.a",
+    "version": "",
+    "en": "We will construct oil wells in [FROM.FROM.GetName]"
+  },
+  {
+    "key": "INS_industrial_events.4.b",
+    "version": "",
+    "en": "We should open an aluminium smelter in [FROM.FROM.GetName]"
+  },
+  {
+    "key": "INS_industrial_events.4.c",
+    "version": "",
+    "en": "We should prospect for resources we lack production of"
+  },
+  {
+    "key": "INS_industrial_events.4.d",
+    "version": "",
+    "en": "We can open coal mines in [FROM.FROM.GetName]"
+  },
+  {
+    "key": "INS_industrial_events.5.t",
+    "version": "",
+    "en": "[INS_industrial_events_5_t_scripted]"
+  },
+  {
+    "key": "INS_industrial_events_5_t_colonial",
+    "version": "",
+    "en": "Fate of De Javasche Bank"
+  },
+  {
+    "key": "INS_industrial_events_5_t_independent",
+    "version": "",
+    "en": "Fate of Bank Indonesia"
+  },
+  {
+    "key": "INS_industrial_events.5.desc",
+    "version": "",
+    "en": "[INS_industrial_events_5_desc_scripted]"
+  },
+  {
+    "key": "INS_industrial_events_5_desc_colonial",
+    "version": "",
+    "en": "De Javasche Bank's reserves have fallen to their lowest point in a decade. The Guilder buys less every month, and plantation owners are demanding payment in foreign currency. Our financial advisors agree that the Bank alone cannot reverse the decline, but they disagree sharply on the remedy."
+  },
+  {
+    "key": "INS_industrial_events_5_desc_independent",
+    "version": "",
+    "en": "Bank Indonesia has reported that the Rupiah lost nearly a fifth of its value in the last quarter alone. Rice traders in Surabaya have begun refusing it outright in favor of foreign notes. Our finance minister insists the currency can be saved, but only if we act decisively and soon."
+  },
+  {
+    "key": "INS_industrial_events.5.a",
+    "version": "",
+    "en": "We should try to strengthen the Guilder, not replace it."
+  },
+  {
+    "key": "INS_industrial_events.5.b",
+    "version": "",
+    "en": "We will peg the Indies Guilder to the Dutch Guilder."
+  },
+  {
+    "key": "INS_industrial_events.5.c",
+    "version": "",
+    "en": "We will peg the Indies Guilder to the US Dollar."
+  },
+  {
+    "key": "INS_industrial_events.6.t",
+    "version": "",
+    "en": "A More Lucrative Agreement"
+  },
+  {
+    "key": "INS_industrial_events.6.desc",
+    "version": "",
+    "en": "The Cinchona Bureau has accepted our terms. With malaria ravaging half the tropics and no substitute for quinine in sight, they had little choice. The new agreement guarantees us a substantially larger share of the profits from every gram of quinine that leaves our shores. The question now is where to direct this windfall."
+  },
+  {
+    "key": "INS_industrial_events.6.a",
+    "version": "",
+    "en": "Invest in our cities."
+  },
+  {
+    "key": "INS_industrial_events.6.b",
+    "version": "",
+    "en": "Develop the outer islands."
+  },
+  {
+    "key": "INS_industrial_events.6.c",
+    "version": "",
+    "en": "Strengthen our military industry."
+  },
+  {
+    "key": "INS_industrial_events.28.t",
+    "version": "",
+    "en": "Rubber Shipment Dispatched"
+  },
+  {
+    "key": "INS_industrial_events.28.desc",
+    "version": "",
+    "en": "The convoys have loaded the last of the rubber and put to sea. Our buyers will have what they paid for, and our books will reflect the agreed compensation in due course. For the next two years the cost of this transaction will sit on our balance sheets, a reminder of what the Depression demands of us."
+  },
+  {
+    "key": "INS_industrial_events.28.a",
+    "version": "",
+    "en": "Acknowledged."
+  },
+  {
+    "key": "INS_industrial_events.28.b",
+    "version": "",
+    "en": "Arrange another shipment."
+  },
+  {
+    "key": "INS_industrial_events.36.t",
+    "version": "",
+    "en": "Oil Shipment Dispatched"
+  },
+  {
+    "key": "INS_industrial_events.36.desc",
+    "version": "",
+    "en": "The tankers have departed our refineries, their holds bound for the buyer's ports. The compensation has been agreed and will be received in full, though the burden of the sale will weigh on our economy for two years to come. Such are the terms the world offers us in these lean years."
+  },
+  {
+    "key": "INS_industrial_events.36.a",
+    "version": "",
+    "en": "Acknowledged."
+  },
+  {
+    "key": "INS_industrial_events.36.b",
+    "version": "",
+    "en": "Arrange another shipment."
+  },
+  {
+    "key": "INS_volksraad_events.2.t",
+    "version": "",
+    "en": "[HOL.GetLeader] has vetoed the Volksraad petition."
+  },
+  {
+    "key": "INS_volksraad_events.2.desc",
+    "version": "",
+    "en": "While the petition was approved by [INS.GetLeader], it was vetoed after being reviewed by [HOL.GetLeader], and we will therefore be unable to continue implementation at this time."
+  },
+  {
+    "key": "INS_volksraad_events.2.a",
+    "version": "",
+    "en": "Perhaps we can try again in the future with a ratified petition."
+  },
+  {
+    "key": "INS_volksraad_events.10.t",
+    "version": "",
+    "en": "Motion in the Volksraad to allow the Indonesian language in Schools"
+  },
+  {
+    "key": "INS_volksraad_events.10.desc",
+    "version": "",
+    "en": "[INS.GetLeader] has approved a Volksraad petition to foster the creation of Indonesian-language schools and universities in [INS.GetNameDef], and it has been sent to [HOL.GetLeader] for final approval."
+  },
+  {
+    "key": "INS_volksraad_events.10.a",
+    "version": "",
+    "en": "The Volksraad is serving its purpose."
+  },
+  {
+    "key": "INS_volksraad_events.10.b",
+    "version": "",
+    "en": "Absolutely not. Veto it!"
+  },
+  {
+    "key": "INS_volksraad_events.11.t",
+    "version": "",
+    "en": "Indonesian-language education will be established."
+  },
+  {
+    "key": "INS_volksraad_events.11.desc",
+    "version": "",
+    "en": "The petition has been signed by [HOL.GetLeader], and is now officially mandated. Implementation of the petition will begin shortly once final details are decided."
+  },
+  {
+    "key": "INS_volksraad_events.11.a",
+    "version": "",
+    "en": "The Volksraad is serving its purpose."
+  },
+  {
+    "key": "INS_volksraad_events.20.t",
+    "version": "",
+    "en": "Motion in the Volksraad to allow the Indonesian language in Government"
+  },
+  {
+    "key": "INS_volksraad_events.20.desc",
+    "version": "",
+    "en": "Governmental roles in the Indies, including the Volksraad all require fluency in the Dutch language, which has led to many members of the Volksraad, especially representatives of native communities, to question the validity of its democracy. They have put together a motion which insists that government positions should be able to be filled by Indonesian speakers when possible."
+  },
+  {
+    "key": "INS_volksraad_events.21.t",
+    "version": "",
+    "en": "The Indonesian Language is now permitted in Government!"
+  },
+  {
+    "key": "INS_volksraad_events.21.desc",
+    "version": "",
+    "en": "The petition has been signed by [HOL.GetLeader], and is now officially mandated. Implementation of the petition will begin shortly once final details are decided."
+  },
+  {
+    "key": "INS_volksraad_events.30.t",
+    "version": "",
+    "en": "Motion in the Volksraad to abolish the Education-Quota System"
+  },
+  {
+    "key": "INS_volksraad_events.30.desc",
+    "version": "",
+    "en": "[INS.GetLeader] has approved a Volksraad petition to abolish the education-quota system in [INS.GetNameDef], in order to end the long-lasting arguments within the Volksraad over its implementation and fairness. It has been sent to [HOL.GetLeader] for final approval."
+  },
+  {
+    "key": "INS_volksraad_events.31.t",
+    "version": "",
+    "en": "The Education-Quota System has been abolished."
+  },
+  {
+    "key": "INS_volksraad_events.31.desc",
+    "version": "",
+    "en": "The petition has been signed by [HOL.GetLeader], and is now officially mandated. Implementation of the petition will begin shortly once final details are decided."
+  },
+  {
+    "key": "INS_volksraad_events.40.t",
+    "version": "",
+    "en": "Motion in the Volksraad to reduce export tax on Rubber"
+  },
+  {
+    "key": "INS_volksraad_events.40.desc",
+    "version": "",
+    "en": "[INS.GetLeader] has signed and approved a Volksraad petition to reduce the high taxes imposed on privately owned rubber plantations. These taxes have historically allowed for a very lucrative government monopoly on rubber, however, international protectionism has made this a much less lucrative system. [INS.GetLeader] has stated he no longer believes the taxes make up for the economic consequences they cause."
+  },
+  {
+    "key": "INS_volksraad_events.40.a",
+    "version": "",
+    "en": "[INS.GetLeader] has a point."
+  },
+  {
+    "key": "INS_volksraad_events.40.b",
+    "version": "",
+    "en": "The taxes will stay."
+  },
+  {
+    "key": "INS_volksraad_events.41.t",
+    "version": "",
+    "en": "The private tax on Rubber Exports has been reduced."
+  },
+  {
+    "key": "INS_volksraad_events.41.desc",
+    "version": "",
+    "en": "The petition has been signed by [HOL.GetLeader], and is now officially mandated. Implementation of the petition will begin shortly once final details are decided."
+  },
+  {
+    "key": "INS_volksraad_events.60.t",
+    "version": "",
+    "en": "Motion in the Volksraad to lift the unwritten rank-limit on Indonesian officers"
+  },
+  {
+    "key": "INS_volksraad_events.60.desc",
+    "version": "",
+    "en": "[INS.GetLeader] has approved a Volksraad petition to lift the unwritten rule that limits the rank non-Dutch KNIL officers can hold, and to promote Indonesian officers who are deemed underranked for their accomplishments. The petition has been sent to [HOL.GetLeader] for final approval."
+  },
+  {
+    "key": "INS_volksraad_events.61.t",
+    "version": "",
+    "en": "The invisible rank-ceiling on [INS.GetAdjective] Generals is lifted."
+  },
+  {
+    "key": "INS_volksraad_events.61.desc",
+    "version": "",
+    "en": "The petition has been signed by [HOL.GetLeader], and is now officially mandated. Implementation of the petition will begin shortly once final details are decided."
+  },
+  {
+    "key": "INS_volksraad_events.70.t",
+    "version": "",
+    "en": "Motion in the Volksraad to legalize public display of nationalist flags and imagery"
+  },
+  {
+    "key": "INS_volksraad_events.70.desc",
+    "version": "",
+    "en": "[INS.GetLeader] has approved a Volksraad petition to lift the restrictions of displaying nationalist flags and imagery in public spaces in [INS.GetNameDef], largely in order to reduce the radicalization of many young nationalists. [INS.GetLeader] insists we should take a defensive stance on the issue, cooperating with peaceful nationalist leaders while rooting out revolutionary movements, however the decision ultimately rests with us."
+  },
+  {
+    "key": "INS_volksraad_events.71.t",
+    "version": "",
+    "en": "The Red/White Flag is no longer illegal to display!"
+  },
+  {
+    "key": "INS_volksraad_events.71.desc",
+    "version": "",
+    "en": "The petition has been signed by [HOL.GetLeader], and is now officially mandated. Implementation of the petition will begin shortly once final details are decided."
+  },
+  {
+    "key": "INS_volksraad_events.100.t",
+    "version": "",
+    "en": "Motion in the Volksraad to allow education subsidies for non-Dutch residents"
+  },
+  {
+    "key": "INS_volksraad_events.100.desc",
+    "version": "",
+    "en": "[INS.GetLeader] has approved a Volksraad petition to allow non-Dutch residents of [INS.GetNameDef] to apply for education subsidies. The petition has been sent to [HOL.GetLeader] for final approval."
+  },
+  {
+    "key": "INS_volksraad_events.101.t",
+    "version": "",
+    "en": "[INS.GetAdjective]'s are now able to apply for Education Subsidies"
+  },
+  {
+    "key": "INS_volksraad_events.101.desc",
+    "version": "",
+    "en": "The petition has been signed by [HOL.GetLeader], and is now officially mandated. Implementation of the petition will begin shortly once final details are decided."
+  },
+  {
+    "key": "INS_dutch_events.1.t",
+    "version": "",
+    "en": "[INS.GetNameDefCap] Requests Command of Our Navy"
+  },
+  {
+    "key": "INS_dutch_events.1.desc",
+    "version": "",
+    "en": "Following the fall of our homeland, [INS.GetNameDef] has petitioned us to transfer command of our naval forces to [INS.GetNameDef]. They argue that a unified command will allow for better coordination during this unprecedented time."
+  },
+  {
+    "key": "INS_dutch_events.1.a",
+    "version": "",
+    "en": "If it strengthens the cause, we must concede."
+  },
+  {
+    "key": "INS_dutch_events.1.b",
+    "version": "",
+    "en": "Our ships will answer only to The Hague."
+  },
+  {
+    "key": "INS_dutch_events.2.t",
+    "version": "",
+    "en": "[HOL.GetNameDefCap] Accepts Our Naval Command Proposal"
+  },
+  {
+    "key": "INS_dutch_events.2.desc",
+    "version": "",
+    "en": "[HOL.GetNameDefCap] has accepted our proposal to let us assume command of the combined naval forces. The transition is proceeding smoothly, and both [HOL.GetAdjective] and [INS.GetAdjective] officers are working side by side to strengthen our position in the Pacific."
+  },
+  {
+    "key": "INS_dutch_events.2.a",
+    "version": "",
+    "en": "Together, we will hold the Pacific."
+  },
+  {
+    "key": "INS_dutch_events.3.t",
+    "version": "",
+    "en": "[HOL.GetNameDefCap] Declines Our Naval Command Proposal"
+  },
+  {
+    "key": "INS_dutch_events.3.desc",
+    "version": "",
+    "en": "[HOL.GetNameDefCap] has declined our offer for a unified naval command, citing logistical and administrative concerns. While disappointing, our cooperation continues through other channels of the war effort."
+  },
+  {
+    "key": "INS_dutch_events.3.a",
+    "version": "",
+    "en": "We will find another way to strengthen our Naval influence."
+  },
+  {
+    "key": "INS_dutch_events.4.t",
+    "version": "",
+    "en": "[HOL.GetNameDefCap] Establishes the [HOL.GetName]-[INS.GetName] Naval Program"
+  },
+  {
+    "key": "INS_dutch_events.4.desc",
+    "version": "",
+    "en": "[HOL.GetNameDefCap] has announced the creation of the [HOL.GetName]-[INS.GetName] Naval Program, a joint initiative to reorganize and expand our maritime forces. [HOL.GetAdjective] expertise and [INS.GetAdjective] manpower will together form the backbone of a new Pacific defense network."
+  },
+  {
+    "key": "INS_dutch_events.4.a",
+    "version": "",
+    "en": "A firm step toward mutual survival."
+  },
+  {
+    "key": "INS_union_events.1.t",
+    "version": "",
+    "en": "[HOL.GetNameDefCap] Requests to Relocate Government to [1058.GetName]"
+  },
+  {
+    "key": "INS_union_events.1.desc",
+    "version": "",
+    "en": "With the homeland lost, [HOL.GetNameDef] has informed us that their government and royal household will relocate to [1058.GetName]. They write of necessity, continuity, and the need to keep the Kingdom alive where the flag still flies."
+  },
+  {
+    "key": "INS_union_events.1.a",
+    "version": "",
+    "en": "The war will continue from [1058.GetName]."
+  },
+  {
+    "key": "INS_union_events.1.b",
+    "version": "",
+    "en": "Who do they think they are! This is nothing but an attempt at reasserting colonial dominance!"
+  },
+  {
+    "key": "INS_union_events.2.t",
+    "version": "",
+    "en": "[INS.GetNameDefCap] Accepts the Relocation Proposal"
+  },
+  {
+    "key": "INS_union_events.2.desc",
+    "version": "",
+    "en": "[INS.GetNameDefCap] has agreed to host our government-in-exile in [1058.GetName]. Preparations for relocation are underway, and both administrations are coordinating the integration of offices and personnel. Together, we will carry the torch of the Kingdom forward from the East."
+  },
+  {
+    "key": "INS_union_events.2.a",
+    "version": "",
+    "en": "A united front against our common foes."
+  },
+  {
+    "key": "INS_union_events.3.t",
+    "version": "",
+    "en": "[INS.GetNameDefCap] Declines the Relocation Proposal"
+  },
+  {
+    "key": "INS_union_events.3.desc",
+    "version": "",
+    "en": "[INS.GetNameDefCap] has outright refused our request to relocate to [1058.GetName]. [INS.GetLeader] stated we have no right to demand this level of aid when they are already spread thin enough as it is."
+  },
+  {
+    "key": "INS_union_events.3.a",
+    "version": "",
+    "en": "It seems they have forgotten whose banner still binds us."
+  },
+  {
+    "key": "INS_union_events.4.t",
+    "version": "",
+    "en": "[HOL.GetNameDefCap] Relocates Armed Forces to [1058.GetName]"
+  },
+  {
+    "key": "INS_union_events.4.desc",
+    "version": "",
+    "en": "The first transports have arrived from the homeland. Ships crowded with officers, soldiers, and the remnants of our arsenals. As expected, some convoys did not reach port. What survives will form the spine of our forces in [1058.GetName]."
+  },
+  {
+    "key": "INS_union_events.4.a",
+    "version": "",
+    "en": "Enough to keep the flag flying."
+  },
+  {
+    "key": "INS_union_events.5.t",
+    "version": "",
+    "en": "[INS.GetNameDefCap] Proposes the Netherlands–Indonesia Union"
+  },
+  {
+    "key": "INS_union_events.5.desc",
+    "version": "",
+    "en": "It is clear to the world that the war is not looking in our favor. Our country has fallen and our base of operations has moved to the east. Ministers in [INS.GetName] have sent us a proposal to form a joint union state led by Queen Wilhelmina in order to guarantee as much cooperation as possible. While it seems nobody is particularly happy with the proposal, it may be our key for survival."
+  },
+  {
+    "key": "INS_union_events.5.a",
+    "version": "",
+    "en": "It is a risk we must undertake. Long live the Queen!"
+  },
+  {
+    "key": "INS_union_events.5.b",
+    "version": "",
+    "en": "We cannot agree to this."
+  },
+  {
+    "key": "INS_union_events.6.t",
+    "version": "",
+    "en": "[HOL.GetNameDefCap] Accepts the Union Proposal"
+  },
+  {
+    "key": "INS_union_events.6.desc",
+    "version": "",
+    "en": "After urgent debate within the cabinet, [HOL.GetLeader] has approved the [INS.GetAdjective] proposal. The decree is brief and without ceremony. Our governments shall act henceforth as one under the Crown until the war’s end."
+  },
+  {
+    "key": "INS_union_events.6.a",
+    "version": "",
+    "en": "A historic accord for both nations."
+  },
+  {
+    "key": "INS_union_events.7.t",
+    "version": "",
+    "en": "[HOL.GetNameDefCap] Declines the Union Proposal"
+  },
+  {
+    "key": "INS_union_events.7.desc",
+    "version": "",
+    "en": "The council in [HOL.GetNameDef] has turned down the proposal for a joint union. Their message is firm, cooperation will continue, but sovereignty will not be shared."
+  },
+  {
+    "key": "INS_union_events.7.a",
+    "version": "",
+    "en": "It is unlikely to have worked out regardless."
+  },
+  {
+    "key": "INS_union_events.8.t",
+    "version": "",
+    "en": "[HOL.GetNameDefCap] Proposes the Netherlands–Indonesia Union"
+  },
+  {
+    "key": "INS_union_events.8.desc",
+    "version": "",
+    "en": "It is clear to the world that the war is not looking in our favor. [HOL.GetNameDef] has fallen and their base of operations has moved to the east. [HOL.GetAdjective] leaders have sent us a proposal to form a joint union state led by Queen Wilhelmina in order to guarantee as much cooperation as possible. While it seems nobody is particularly happy with the proposal, it may be our key for survival."
+  },
+  {
+    "key": "INS_union_events.8.a",
+    "version": "",
+    "en": "It must be done."
+  },
+  {
+    "key": "INS_union_events.8.b",
+    "version": "",
+    "en": "This is all but an attempt at reasserting colonial dominance."
+  },
+  {
+    "key": "INS_union_events.9.t",
+    "version": "",
+    "en": "[INS.GetNameDefCap] Accepts the Union Proposal"
+  },
+  {
+    "key": "INS_union_events.9.desc",
+    "version": "",
+    "en": "[INS.GetNameDefCap] has agreed to our proposal. It is unclear how this will turn out, but we must keep our focus on the war effort."
+  },
+  {
+    "key": "INS_union_events.9.a",
+    "version": "",
+    "en": "If we are to endure, we must endure together."
+  },
+  {
+    "key": "INS_union_events.10.t",
+    "version": "",
+    "en": "[INS.GetNameDefCap] Declines the Union Proposal"
+  },
+  {
+    "key": "INS_union_events.10.desc",
+    "version": "",
+    "en": "[INS.GetNameDefCap] has declined the proposal for union. The [INS.GetAdjective] people and leaders do not see this working out long term, and oppose any proposal of giving up power."
+  },
+  {
+    "key": "INS_union_events.10.a",
+    "version": "",
+    "en": "It is unlikely to have worked out regardless."
+  },
+  {
+    "key": "INS_exile_accepted_flag",
+    "version": "",
+    "en": "Is hosting [HOL.GetNameDef] in exile"
+  },
+  {
+    "key": "INS_hey_btw_you_are_gonna_die_just_know_that_yeah_tt",
+    "version": "",
+    "en": "§RThis will end the game for you.§!"
+  },
+  {
+    "key": "INS_revolution_events.1.t",
+    "version": "",
+    "en": "[HOL.GetNameDefCap] moves to crush the Republic"
+  },
+  {
+    "key": "INS_revolution_events.1.desc",
+    "version": "",
+    "en": "As expected, the Dutch government has reacted to our demand for independence by sending soldiers to [1058.GetName] and distributing anti-republican propaganda through the media."
+  },
+  {
+    "key": "INS_revolution_events.1.a",
+    "version": "",
+    "en": "We must act fast."
+  },
+  {
+    "key": "INS_revolution_events.2.t",
+    "version": "",
+    "en": "[HOL.GetNameDefCap] requests additional help"
+  },
+  {
+    "key": "INS_revolution_events.2.desc",
+    "version": "",
+    "en": "[HOL.GetLeader] has called an emergency meeting with our leaders, requesting that we provide further help in the reconquest of the Indies, to the extent of directly joining the conflict. [HOL.GetLeader] stated that the situation is dire, and Dutch forces are unable to push back the revolutionary militias. [HOL.GetLeader] promises that if we help them, we will be given Borneo as payment."
+  },
+  {
+    "key": "INS_revolution_events.2.a",
+    "version": "",
+    "en": "We'll do it for Borneo."
+  },
+  {
+    "key": "INS_revolution_events.2.b",
+    "version": "",
+    "en": "We are not interested."
+  },
+  {
+    "key": "INS_revolution_events.3.t",
+    "version": "",
+    "en": "[ENG.GetNameDefCap] agrees to the London-Batavia Accord"
+  },
+  {
+    "key": "INS_revolution_events.3.desc",
+    "version": "",
+    "en": "[ENG.GetNameDefCap] has agreed to directly join the conflict, sending several divisions to fight in Batavia. While we will have to give up Borneo, this moves the odds heavily in our favor."
+  },
+  {
+    "key": "INS_revolution_events.3.a",
+    "version": "",
+    "en": "Borneo will be a necessary sacrifice."
+  },
+  {
+    "key": "INS_revolution_events.4.t",
+    "version": "",
+    "en": "[ENG.GetNameDefCap] rejects the London-Batavia Accord"
+  },
+  {
+    "key": "INS_revolution_events.4.desc",
+    "version": "",
+    "en": "[ENG.GetNameDefCap] has refused any further help in the conflict, despite the urgency and reward offered. [ENG.GetLeader] stated that while it is in their best interest that we preserve our colonial empire, the risk of global escalation following their involvement is too high, and that we will need to handle this ourselves."
+  },
+  {
+    "key": "INS_revolution_events.4.a",
+    "version": "",
+    "en": "This is not looking good."
+  },
+  {
+    "key": "INS_revolution_events.5.t",
+    "version": "",
+    "en": "[HOL.GetNameDefCap] requests our help"
+  },
+  {
+    "key": "INS_revolution_events.5.desc",
+    "version": "",
+    "en": "Revolutionaries in the Dutch East Indies have declared independence from [HOL.GetNameDef] and occupied major cities. [HOL.GetLeader] has reached out to us with urgency, requesting that we help them militarily while they prepare an invasion."
+  },
+  {
+    "key": "INS_revolution_events.5.a",
+    "version": "",
+    "en": "If the revolutionaries succeed, citizens in our colonies may be inspired to do the same."
+  },
+  {
+    "key": "INS_revolution_events.5.b",
+    "version": "",
+    "en": "We are not interested."
+  },
+  {
+    "key": "INS_revolution_events.6.t",
+    "version": "",
+    "en": "[ENG.GetNameDefCap] agrees to help us"
+  },
+  {
+    "key": "INS_revolution_events.6.desc",
+    "version": "",
+    "en": "[ENG.GetNameDefCap] has agreed to send volunteer troops and equipment to [1058.GetName] to help us take back control over the Indies."
+  },
+  {
+    "key": "INS_revolution_events.6.a",
+    "version": "",
+    "en": "This will be easy."
+  },
+  {
+    "key": "INS_revolution_events.7.t",
+    "version": "",
+    "en": "[ENG.GetNameDefCap] refuses to help us"
+  },
+  {
+    "key": "INS_revolution_events.7.desc",
+    "version": "",
+    "en": "[ENG.GetNameDefCap] has refused to help us reassert control over the Indies, insisting that the Indies is not their concern, despite their proximity to the conflict. We will have to rearm the KNIL on our own."
+  },
+  {
+    "key": "INS_revolution_events.7.a",
+    "version": "",
+    "en": "This is unacceptable!"
+  },
+  {
+    "key": "INS_revolution_events.8.t",
+    "version": "",
+    "en": "Revolutionary militias plotting in the Indies"
+  },
+  {
+    "key": "INS_revolution_events.8.desc",
+    "version": "",
+    "en": "Our Colonial Police in the East Indies have arrested and questioned several members of a rising revolutionary movement in Indonesia. It appears they are trying to establish a military presence in order to prepare for launching a national independence campaign. We do not know for sure yet, but they may be plotting an armed revolution."
+  },
+  {
+    "key": "INS_revolution_events.8.a",
+    "version": "",
+    "en": "We must watch closely."
+  },
+  {
+    "key": "INS_revolution_events.9.t",
+    "version": "",
+    "en": "Indonesian Declaration of Independence"
+  },
+  {
+    "key": "INS_revolution_events.9.desc",
+    "version": "",
+    "en": "A Speech was given today in Java by [INS.GetLeader], declaring independence of the newly founded Republic of Indonesia. While we do not recognize this new republic, their militias have occupied territory and our police are failing to govern these areas. If we do not take this situation seriously, it may turn into all-out warfare."
+  },
+  {
+    "key": "INS_revolution_events.9.a",
+    "version": "",
+    "en": "Unacceptable!"
+  },
+  {
+    "key": "INS_revolution_events.9.b",
+    "version": "",
+    "en": "This isn't worth the energy, if they want independence so bad, then so be it."
+  },
+  {
+    "key": "INS_revolution_events.11.t",
+    "version": "",
+    "en": "Indies Military Forces successfully stop Militia Campaign"
+  },
+  {
+    "key": "INS_revolution_events.11.desc",
+    "version": "",
+    "en": "A team of Republican militias have launched a military operation to occupy [?event_target:INS_temp_occupied_state.GetName]. Our brave soldiers in the Indies successfully managed to push the militia forces out, and we maintain full control over the region."
+  },
+  {
+    "key": "INS_revolution_events.11.a",
+    "version": "",
+    "en": "Another victory for [HOL.GetNameDef]."
+  },
+  {
+    "key": "INS_revolution_events.12.t",
+    "version": "",
+    "en": "Militias attempt to occupy [?event_target:INS_temp_occupied_state.GetName]"
+  },
+  {
+    "key": "INS_revolution_events.12.desc",
+    "version": "",
+    "en": "A team of Republican militias have launched a military operation to occupy [?event_target:INS_temp_occupied_state.GetName]. Our police and soldiers eventually managed to contain the situation, but the situation has sparked dissent within [?event_target:INS_temp_occupied_state.GetName], with many civilians supporting the militias and publicly speaking against the [HOL.GetAdjective] government."
+  },
+  {
+    "key": "INS_revolution_events.12.a",
+    "version": "",
+    "en": "We cannot let this escalate."
+  },
+  {
+    "key": "INS_revolution_events.14.t",
+    "version": "",
+    "en": "Militias occupy [?event_target:INS_temp_occupied_state.GetName]"
+  },
+  {
+    "key": "INS_revolution_events.14.desc",
+    "version": "",
+    "en": "Despite the best efforts of our Colonial Police and Soldiers, Republican militias have successfully launched a military operation to occupy [?event_target:INS_temp_occupied_state.GetName]. Our police and soldiers have had to evacuate and have declared a state of failure to govern the region due to Militia resistance. If we let the militias continue to push us around, we risk losing our great Colony forever."
+  },
+  {
+    "key": "INS_revolution_events.14.a",
+    "version": "",
+    "en": "This is outrageous!"
+  },
+  {
+    "key": "INS_revolution_no_effect_tt",
+    "version": "",
+    "en": "No effects"
+  },
+  {
+    "key": "INS_revolution_events.19.t",
+    "version": "",
+    "en": "Peace Negotiations in the Indies"
+  },
+  {
+    "key": "INS_revolution_events.19.desc",
+    "version": "",
+    "en": "[HOL.GetLeader] has been called to a meeting with [INS.GetLeader] in order to discuss a potential peace agreement. [INS.GetLeader] has stated that far too many lives have been lost, and has proposed a two-state-solution where borders will be kept as they are now, with slight adjustments, and for fighting to stop permanently."
+  },
+  {
+    "key": "INS_revolution_events.19.a",
+    "version": "",
+    "en": "We must agree. Too many lives have already been lost."
+  },
+  {
+    "key": "INS_revolution_events.19.b",
+    "version": "",
+    "en": "If you want peace so badly then you can surrender!"
+  },
+  {
+    "key": "INS_revolution_events.20.t",
+    "version": "",
+    "en": "[HOL.GetNameDefCap] agrees to the two state solution!"
+  },
+  {
+    "key": "INS_revolution_events.20.desc",
+    "version": "",
+    "en": "[INS.GetLeader] has returned from his meeting with [HOL.GetLeader] with good news. A two state solution has been agreed on by both sides, and we will begin moving our troops in accordance with the new borders immediately. While nobody is happy that we had to leave our fellow Indonesians behind, the decision to end the fighting is ultimately for the best."
+  },
+  {
+    "key": "INS_revolution_events.20.a",
+    "version": "",
+    "en": "The bloodshed will finally end."
+  },
+  {
+    "key": "INS_revolution_events.21.t",
+    "version": "",
+    "en": "[HOL.GetNameDefCap] refuses to stop fighting"
+  },
+  {
+    "key": "INS_revolution_events.21.desc",
+    "version": "",
+    "en": "[INS.GetLeader]’s meeting with [HOL.GetLeader] did not go to plan, with both parties getting visibly angry and refusing to compromise, causing the meeting to be cut short."
+  },
+  {
+    "key": "INS_revolution_events.21.a",
+    "version": "",
+    "en": "How many more lives must be lost?"
+  },
+  {
+    "key": "INS_revolution_events.22.t",
+    "version": "",
+    "en": "[HOL.GetNameDefCap] requests our help"
+  },
+  {
+    "key": "INS_revolution_events.22.desc",
+    "version": "",
+    "en": "[HOL.GetLeader] has called for a meeting with [FRA.GetLeader] in Amsterdam to discuss the ongoing situation in the Indies. During the meeting, [HOL.GetLeader] explained how the revolutionaries have begun arming militias at a pace the Dutch army cannot match, and that [HOL.GetNameDef] is at risk of losing their colonial hegemony. [HOL.GetLeader.GetHeShe] has requested that we formally join the conflict on the Dutch side, and send divisions to Batavia to help reconquer the Indies. In exchange, we will be entitled to northeastern Sumatra once order is restored."
+  },
+  {
+    "key": "INS_revolution_events.22.a",
+    "version": "",
+    "en": "While helping will be expensive, Sumatra might just make it worth it."
+  },
+  {
+    "key": "INS_revolution_events.22.b",
+    "version": "",
+    "en": "This is asking too much of us."
+  },
+  {
+    "key": "INS_revolution_events.23.t",
+    "version": "",
+    "en": "[FRA.GetNameDefCap] agrees to help us!"
+  },
+  {
+    "key": "INS_revolution_events.23.desc",
+    "version": "",
+    "en": "[FRA.GetNameDefCap] has agreed to our call for help, and has sent many French divisions to Batavia to help us immediately."
+  },
+  {
+    "key": "INS_revolution_events.23.a",
+    "version": "",
+    "en": "The odds are now in our favor."
+  },
+  {
+    "key": "INS_revolution_events.24.t",
+    "version": "",
+    "en": "[FRA.GetNameDefCap] refuses to help."
+  },
+  {
+    "key": "INS_revolution_events.24.desc",
+    "version": "",
+    "en": "[FRA.GetNameDefCap] has refused to help us with the revolution, despite the urgency. We must begin to rearm rapidly, or else we will soon be outnumbered."
+  },
+  {
+    "key": "INS_revolution_events.24.a",
+    "version": "",
+    "en": "This is not looking good."
+  },
+  {
+    "key": "INS_revolution_events.25.t",
+    "version": "",
+    "en": "The end of the war in Indonesia"
+  },
+  {
+    "key": "INS_revolution_events.25.desc",
+    "version": "",
+    "en": "[HOL.GetAdjective] forces have destroyed the major militia bases and toppled the Republican government. Republican elite and commanders have been arrested, and the Indies government is reestablishing their operations in former-republic territory. As promised for our contributions, the agreed upon territory has been given to us."
+  },
+  {
+    "key": "INS_revolution_events.25.a",
+    "version": "",
+    "en": "Wonderful!"
+  },
+  {
+    "key": "INS_revolution_events.26.t",
+    "version": "",
+    "en": "The end of the war in Indonesia"
+  },
+  {
+    "key": "INS_revolution_events.26.desc",
+    "version": "",
+    "en": "[HOL.GetAdjective] forces and Republican militias have been fighting for much longer than either side anticipated, and [HOL.GetLeader] has agreed to sign a peace agreement which imposes a two-state-solution. However, as we still held up our end of the agreement, [HOL.GetLeader] has confirmed we will still be given the territory which we were promised."
+  },
+  {
+    "key": "INS_revolution_events.26.a",
+    "version": "",
+    "en": "An interesting development."
+  },
+  {
+    "key": "INS_revolution_events.27.t",
+    "version": "",
+    "en": "The end of the war in Indonesia"
+  },
+  {
+    "key": "INS_revolution_events.27.desc",
+    "version": "",
+    "en": "[HOL.GetAdjective] forces and Republican militias have been fighting for much longer than either side anticipated, and despite the efforts of [HOL.GetNameDef] and our own military involvement, the sheer number of militia forces and the guerilla nature of their army has made the conflict reach a stalemate heavily in the Republican favor. Thus, [HOL.GetLeader] announced today that [HOL.GetLeader.GetHeShe] has signed a peace-agreement with the Republic imposing a two state solution in the Republican favor. What is left of the Indies is a shell of its former glory. [HOL.GetLeader] stated that as the conflict ended in a loss, he will be unable to give us the promised territory for our military contributions."
+  },
+  {
+    "key": "INS_revolution_events.27.a",
+    "version": "",
+    "en": "This is insanity!"
+  },
+  {
+    "key": "INS_revolution_events.28.t",
+    "version": "",
+    "en": "The fall of the Indies"
+  },
+  {
+    "key": "INS_revolution_events.28.desc",
+    "version": "",
+    "en": "Despite the heavy military spending done by [HOL.GetNameDef], and our own direct contributions to the conflict, the sheer number of militias in the Indies have managed to overwhelm our forces, and have occupied all major cities, toppling the Dutch administration and forcing a surrender."
+  },
+  {
+    "key": "INS_revolution_events.28.a",
+    "version": "",
+    "en": "But we were promised territory!"
+  },
+  {
+    "key": "INS_revolution_events.29.t",
+    "version": "",
+    "en": "The fall of the Indies"
+  },
+  {
+    "key": "INS_revolution_events.29.desc",
+    "version": "",
+    "en": "Despite our best efforts, the revolutionaries in the Indies have taken control of our major cities and have destroyed the colonial government from within. Our generals have been captured and our communications lines have been cut. We have no choice but to accept our defeat."
+  },
+  {
+    "key": "INS_revolution_events.29.a",
+    "version": "",
+    "en": "This is a tragedy."
+  },
+  {
+    "key": "INS_revolution_events.30.t",
+    "version": "",
+    "en": "[INS.GetLeader] proposes local ceasefire agreement"
+  },
+  {
+    "key": "INS_revolution_events.30.desc",
+    "version": "",
+    "en": "[INS.GetLeader] has proposed a local ceasefire in [FROM.GetName], promising to withdraw his troops from [FROM.GetName] if we agree, allowing our troops to reassert control over the region. However, this is on the condition that we delay our major military operations temporarily, giving the revolutionaries time to plan."
+  },
+  {
+    "key": "INS_revolution_events.30.a",
+    "version": "",
+    "en": "We will agree to this."
+  },
+  {
+    "key": "INS_revolution_events.30.b",
+    "version": "",
+    "en": "We refuse, we will take [FROM.GetName] back by force!"
+  },
+  {
+    "key": "INS_revolution_events.31.t",
+    "version": "",
+    "en": "[HOL.GetNameDefCap] agrees to ceasefire in [FROM.GetName]"
+  },
+  {
+    "key": "INS_revolution_events.31.desc",
+    "version": "",
+    "en": "The ceasefire negotiations have gone well, with [HOL.GetLeader] agreeing to our terms. We have ordered the militia commanders in [FROM.GetName] to withdraw their forces immediately."
+  },
+  {
+    "key": "INS_revolution_events.31.a",
+    "version": "",
+    "en": "Hopefully they hold up their end of the agreement."
+  },
+  {
+    "key": "INS_revolution_events.32.t",
+    "version": "",
+    "en": "[HOL.GetNameDefCap] refuses a ceasefire"
+  },
+  {
+    "key": "INS_revolution_events.32.desc",
+    "version": "",
+    "en": "The ceasefire negotiations did not go as planned, and [HOL.GetLeader] refused to sign the agreement and cut negotiations short before a compromise could be found."
+  },
+  {
+    "key": "INS_revolution_events.32.a",
+    "version": "",
+    "en": "This is unacceptable!"
+  },
+  {
+    "key": "INS_revolution_events.33.t",
+    "version": "",
+    "en": "[INS.GetNameDefCap] Requests Mediation"
+  },
+  {
+    "key": "INS_revolution_events.33.desc",
+    "version": "",
+    "en": "The Indonesian republicans have formally requested our assistance in brokering a settlement with the Dutch. Our advisors in the region report that the situation is deteriorating rapidly, and that continued Dutch military operations risk driving the nationalists into the arms of the Soviets. The Netherlands is a valued ally in Europe, but we cannot ignore the political realities in Southeast Asia. If Indonesia falls to communism because we stood idle, it will be our failure."
+  },
+  {
+    "key": "INS_revolution_events.33.a",
+    "version": "",
+    "en": "Dispatch the mediators."
+  },
+  {
+    "key": "INS_revolution_events.33.b",
+    "version": "",
+    "en": "We cannot risk our relationship with the Dutch."
+  },
+  {
+    "key": "INS_revolution_events.34.t",
+    "version": "",
+    "en": "[FROM.GetNameDefCap] Agrees to Mediate"
+  },
+  {
+    "key": "INS_revolution_events.34.desc",
+    "version": "",
+    "en": "Washington has agreed to mediate between our government and the Dutch. American envoys are en route, and a formal ceasefire will be proposed. This is an enormous opportunity. With the world's foremost power backing negotiations, the Dutch will find it far more difficult to stall or resort to force. We must hold firm at the table and let the Americans do what they do best."
+  },
+  {
+    "key": "INS_revolution_events.34.a",
+    "version": "",
+    "en": "Let us hope the Dutch see reason."
+  },
+  {
+    "key": "INS_revolution_events.35.t",
+    "version": "",
+    "en": "[USA.GetNameDefCap] Announces Mediation"
+  },
+  {
+    "key": "INS_revolution_events.35.desc",
+    "version": "",
+    "en": "The Americans have inserted themselves into the Indonesian question. Washington claims to be acting as a neutral mediator, but the implications are clear. If we cannot resolve this conflict to their satisfaction, they will use their considerable leverage against us. Our negotiators must tread carefully. American goodwill is not something we can afford to squander."
+  },
+  {
+    "key": "INS_revolution_events.35.a",
+    "version": "",
+    "en": "We will settle this on our own terms."
+  },
+  {
+    "key": "INS_revolution_events.36.t",
+    "version": "",
+    "en": "[FROM.GetNameDefCap] Declines to Intervene"
+  },
+  {
+    "key": "INS_revolution_events.36.desc",
+    "version": "",
+    "en": "The Americans have refused our request for mediation. Washington has chosen to stand with their European allies rather than support our struggle for self-determination. We are on our own. This is a bitter blow, but the revolution did not begin because we expected foreign powers to hand us our freedom."
+  },
+  {
+    "key": "INS_revolution_events.36.a",
+    "version": "",
+    "en": "We will win this war without them."
+  },
+  {
+    "key": "INS_revolution_events.37.t",
+    "version": "",
+    "en": "[USA.GetNameDefCap] Issues Ultimatum"
+  },
+  {
+    "key": "INS_revolution_events.37.desc",
+    "version": "",
+    "en": "The Americans have lost patience. Washington has delivered an ultimatum demanding the immediate cessation of all military operations in Indonesia and the recognition of Indonesian sovereignty. The threat is barely veiled. Our standing in the international community will not survive a public break with the Americans, and our economy cannot absorb the consequences. Our generals insist the campaign can still be won, but at what cost?"
+  },
+  {
+    "key": "INS_revolution_events.37.a",
+    "version": "",
+    "en": "We have no choice but to comply."
+  },
+  {
+    "key": "INS_revolution_events.37.b",
+    "version": "",
+    "en": "Indonesia is ours. We will not yield."
+  },
+  {
+    "key": "INS_revolution_events.38.t",
+    "version": "",
+    "en": "The Dutch Concede"
+  },
+  {
+    "key": "INS_revolution_events.38.desc",
+    "version": "",
+    "en": "It is over. The Dutch government has accepted the American ultimatum and recognized our sovereignty. Three hundred and fifty years of colonial rule, ended not on the battlefield alone, but at the negotiating table with the weight of the world's greatest power behind our cause. The republic is ours, truly and completely, at last."
+  },
+  {
+    "key": "INS_revolution_events.38.a",
+    "version": "",
+    "en": "Merdeka!"
+  },
+  {
+    "key": "INS_revolution_events.39.t",
+    "version": "",
+    "en": "The Dutch Refuse"
+  },
+  {
+    "key": "INS_revolution_events.39.desc",
+    "version": "",
+    "en": "Against all expectations, the Dutch have rejected the American ultimatum. Their generals must believe they can win this war before Washington acts. They are wrong. With the Americans now openly committed to our cause, the balance of power has shifted decisively. Let them come. We are no longer fighting alone."
+  },
+  {
+    "key": "INS_revolution_events.39.a",
+    "version": "",
+    "en": "The world stands with us."
+  },
+  {
+    "key": "INS_revolution_events.40.t",
+    "version": "",
+    "en": "The Dutch Accept Our Terms"
+  },
+  {
+    "key": "INS_revolution_events.40.desc",
+    "version": "",
+    "en": "The Hague has accepted our ultimatum. Dutch forces in Indonesia will stand down, and sovereignty will be transferred to the Indonesian republic. It is a satisfactory conclusion to an unfortunate episode. Our interests in the region are now far better served by a stable, independent Indonesia than by propping up a colonial enterprise the Dutch could no longer sustain."
+  },
+  {
+    "key": "INS_revolution_events.40.a",
+    "version": "",
+    "en": "A sensible outcome."
+  },
+  {
+    "key": "INS_revolution_events.41.t",
+    "version": "",
+    "en": "The Dutch Defy Us"
+  },
+  {
+    "key": "INS_revolution_events.41.desc",
+    "version": "",
+    "en": "The Hague has rejected our ultimatum outright. Dutch forces in Indonesia continue their operations in open defiance of American demands. This is an extraordinary miscalculation. The Netherlands cannot prosecute a colonial war in Asia and depend on American aid in Europe at the same time. They have forced our hand."
+  },
+  {
+    "key": "INS_revolution_events.41.a",
+    "version": "",
+    "en": "So be it."
+  },
+  {
+    "key": "INS_revolution_events.42.t",
+    "version": "",
+    "en": "A Final Throw of the Dice"
+  },
+  {
+    "key": "INS_revolution_events.42.desc",
+    "version": "",
+    "en": "Reports from our intelligence services in Batavia describe an enemy preperation unlike anything we have ever seen from the Republicans. It appears they are preparing a destabilization operation to storm Java and destroy all of our communications infrastructure, effectively guaranteeing their victory. However, this operation is extremely risky, and requires them moving nearly all of their resources toward it. Our generals estimate they are only able to hold this position for around two years, and cannot easily back out of it. If we hold them back for long enough, we will be able to crush their government and revolution like an overripe tomato."
+  },
+  {
+    "key": "INS_revolution_events.42.a",
+    "version": "",
+    "en": "Thus begins the final battle."
+  },
+  {
+    "key": "INS_revolution_events.43.t",
+    "version": "",
+    "en": "Militia Base in [FROM.GetName] has been established"
+  },
+  {
+    "key": "INS_revolution_events.43.desc",
+    "version": "",
+    "en": "Our efforts in [FROM.GetName] have been successful, and our local militia leaders have confirmed they are prepared to act when it is time."
+  },
+  {
+    "key": "INS_revolution_events.43.a",
+    "version": "",
+    "en": "We must continue our efforts."
+  },
+  {
+    "key": "INS_chaos_events.1.t",
+    "version": "",
+    "en": "Battle in Surabaya"
+  },
+  {
+    "key": "INS_chaos_events.1.desc",
+    "version": "",
+    "en": "After the declaration of Independence, power in Surabaya has become unstable. Today, a group of Dutch loyalists raised the old colonial flag atop the former Hotel Yamato. Local pemuda youths stormed the building and removed the flags, raising the red-and-white Indonesian flag instead. The incident has escalated into violent, unorganized combat."
+  },
+  {
+    "key": "INS_chaos_events.1.a",
+    "version": "",
+    "en": "As they should!"
+  },
+  {
+    "key": "INS_chaos_events.1.b",
+    "version": "",
+    "en": "Order a ceasefire, we cannot risk escalation."
+  },
+  {
+    "key": "INS_chaos_events.2.t",
+    "version": "",
+    "en": "Socialist Parties Merge"
+  },
+  {
+    "key": "INS_chaos_events.2.desc",
+    "version": "",
+    "en": "The two largest Socialist parties in Indonesia, led by Amir Sjarifuddin and Sutan Sjahrir announced a merger today, forming a unified Socialist Party of Indonesia. This significantly increases the political influence of the party, potentially putting our administration at risk."
+  },
+  {
+    "key": "INS_chaos_events.2.a",
+    "version": "",
+    "en": "Allow it."
+  },
+  {
+    "key": "INS_chaos_events.2.b",
+    "version": "",
+    "en": "There is no time for politics, declare martial law!"
+  },
+  {
+    "key": "INS_chaos_events.3.t",
+    "version": "",
+    "en": "Failed Attempt on Sukarno's Life"
+  },
+  {
+    "key": "INS_chaos_events.3.desc",
+    "version": "",
+    "en": "An attempt was made on Sukarno's life today by a Dutch soldier, who fired at Sukarno's car. Thankfully Sukarno was not in the vehicle, however his chauffeur was wounded severely. While this attempt was unsuccessful, it is clear this will not be the last attempt, both from Dutch soldiers and Indonesian opposition."
+  },
+  {
+    "key": "INS_chaos_events.3.a",
+    "version": "",
+    "en": "We must restore order!"
+  },
+  {
+    "key": "INS_chaos_events.4.t",
+    "version": "",
+    "en": "Sukarno's Assassination"
+  },
+  {
+    "key": "INS_chaos_events.4.desc",
+    "version": "",
+    "en": "A tragic day has befallen Indonesia today. Sukarno has faced another assassination attempt, this time successfully. We mustn't let a succession crisis come out of this, order must be restored quickly or the republic will collapse."
+  },
+  {
+    "key": "INS_chaos_events.4.a",
+    "version": "",
+    "en": "Vice President Hatta will take over."
+  },
+  {
+    "key": "INS_chaos_events.4.b",
+    "version": "",
+    "en": "The Socialist Party will take over."
+  },
+  {
+    "key": "INS_chaos_events.4.c",
+    "version": "",
+    "en": "Abolish the Republic, Tan Malaka will lead us to victory!"
+  },
+  {
+    "key": "INS_loyalist_events.1.t",
+    "version": "",
+    "en": "[INS.GetLeader] requests a transfer of Henri Winkelman"
+  },
+  {
+    "key": "INS_loyalist_events.1.desc",
+    "version": "",
+    "en": "[INS.GetLeader] has contacted us concerning the ongoing conflicts around the world and the dangerous position [INS.GetNameDef] finds itself in. [INS.GetLeader] has proposed that Henri Winkelman, former Commander of the Royal Netherlands East Indies Army be formally transferred back to [INS.GetNameDef], in order to ensure the security of the colony."
+  },
+  {
+    "key": "INS_loyalist_events.1.a",
+    "version": "",
+    "en": "We will arrange for his immediate transfer."
+  },
+  {
+    "key": "INS_loyalist_events.1.b",
+    "version": "",
+    "en": "Henri Winkelman is needed in the homeland."
+  },
+  {
+    "key": "INS_loyalist_events.2.t",
+    "version": "",
+    "en": "[HOL.GetLeader] agrees to transfer Henri Winkelman."
+  },
+  {
+    "key": "INS_loyalist_events.2.desc",
+    "version": "",
+    "en": "[INS.GetLeader] has returned from [HOL.GetNameDef] where he met with [HOL.GetLeader]. The meeting went well, with [HOL.GetLeader] acknowledging the situation and agreeing to Winkelman's immediate transfer. Henri Winkelman is on his way to [1058.GetName] where he will await our orders."
+  },
+  {
+    "key": "INS_loyalist_events.2.a",
+    "version": "",
+    "en": "This will be very helpful."
+  },
+  {
+    "key": "INS_loyalist_events.3.t",
+    "version": "",
+    "en": "[HOL.GetLeader] refuses to transfer Henri Winkelman"
+  },
+  {
+    "key": "INS_loyalist_events.3.desc",
+    "version": "",
+    "en": "[INS.GetLeader] has returned from [HOL.GetNameDef] where he met with [HOL.GetLeader]. Unfortunately, Henri Winkelman will not be sent to the Indies, and we will have to defend ourselves without him."
+  },
+  {
+    "key": "INS_loyalist_events.3.a",
+    "version": "",
+    "en": "We must figure out a new plan at haste."
+  },
+  {
+    "key": "INS_henri_winkelman_tt",
+    "version": "",
+    "en": "Henri Winkelman Transfer Refused"
+  },
+  {
+    "key": "INS_loyalist_events.4.t",
+    "version": "",
+    "en": "[FROM.GetNameDefCap] Proposes Unification"
+  },
+  {
+    "key": "INS_loyalist_events.4.desc",
+    "version": "",
+    "en": "An [FROM.GetAdjective] delegation has arrived in [ROOT.Capital.GetCapitalVictoryPointName] with a proposal for unification. They point to the shared Malay heritage of our peoples and note that the boundaries between our nations were established by European colonial administrators, not by the peoples who inhabit these lands. The proposal would see both governments dissolved and reformed as a single state."
+  },
+  {
+    "key": "INS_loyalist_events.4.a",
+    "version": "",
+    "en": "We accept the proposal."
+  },
+  {
+    "key": "INS_loyalist_events.4.b",
+    "version": "",
+    "en": "We must decline."
+  },
+  {
+    "key": "INS_loyalist_events.5.t",
+    "version": "",
+    "en": "[FROM.GetNameDefCap] Accepts Unification"
+  },
+  {
+    "key": "INS_loyalist_events.5.desc",
+    "version": "",
+    "en": "Our diplomats have returned from [FROM.Capital.GetCapitalVictoryPointName] with excellent news. The [FROM.GetAdjective] government has accepted our proposal, and their officials are already making arrangements for the integration of their territories into our administration."
+  },
+  {
+    "key": "INS_loyalist_events.5.a",
+    "version": "",
+    "en": "Together, we are stronger!"
+  },
+  {
+    "key": "INS_loyalist_events.6.t",
+    "version": "",
+    "en": "[FROM.GetNameDefCap] Rejects Unification"
+  },
+  {
+    "key": "INS_loyalist_events.6.desc",
+    "version": "",
+    "en": "Our diplomats have returned from [FROM.Capital.GetCapitalVictoryPointName] empty-handed. The [FROM.GetAdjective] government was unwilling to entertain the proposal. Few reasons were given, and our delegation was sent home with little more than polite formalities."
+  },
+  {
+    "key": "INS_loyalist_events.6.a",
+    "version": "",
+    "en": "Their loss."
+  },
+  {
+    "key": "INS_loyalist_events.7.t",
+    "version": "",
+    "en": "[FROM.GetNameDefCap] Demands Referendum in [MAL.GetName]"
+  },
+  {
+    "key": "INS_loyalist_events.7.desc",
+    "version": "",
+    "en": "[FROM.GetNameDefCap] has formally requested that we permit a referendum in [MAL.GetName] on the question of unification with their state. Their ambassador was forthright about the likely outcome, stating that the Malay people on both sides of the border consider themselves one nation. Permitting the vote would almost certainly mean losing [MAL.GetName]."
+  },
+  {
+    "key": "INS_loyalist_events.7.a",
+    "version": "",
+    "en": "Let the people decide."
+  },
+  {
+    "key": "INS_loyalist_events.7.b",
+    "version": "",
+    "en": "We will not allow it."
+  },
+  {
+    "key": "INS_loyalist_events.8.t",
+    "version": "",
+    "en": "[FROM.GetNameDefCap] Approves Unification Referendum"
+  },
+  {
+    "key": "INS_loyalist_events.8.desc",
+    "version": "",
+    "en": "Our overlord has granted [FROM.FROM.GetNameDef] permission to hold a referendum in our country. [FROM.FROM.GetAdjective] campaigners have arrived in force, and balloting is to begin within the month. The question put to our people is a simple one. Do we wish to join [FROM.FROM.GetNameDef], or do we wish to remain as we are?"
+  },
+  {
+    "key": "INS_loyalist_events.8.a",
+    "version": "",
+    "en": "We will join them."
+  },
+  {
+    "key": "INS_loyalist_events.8.b",
+    "version": "",
+    "en": "We would rather stay."
+  },
+  {
+    "key": "INS_loyalist_events.9.t",
+    "version": "",
+    "en": "[FROM.GetNameDefCap] Votes Against Unification"
+  },
+  {
+    "key": "INS_loyalist_events.9.desc",
+    "version": "",
+    "en": "The referendum in [FROM.GetName] has concluded. The [FROM.GetAdjective] people have voted to remain under our administration. The [FROM.FROM.GetAdjective] campaigners have departed."
+  },
+  {
+    "key": "INS_loyalist_events.9.a",
+    "version": "",
+    "en": "As expected."
+  },
+  {
+    "key": "INS_loyalist_events.10.t",
+    "version": "",
+    "en": "[FROM.GetNameDefCap] Votes for Unification"
+  },
+  {
+    "key": "INS_loyalist_events.10.desc",
+    "version": "",
+    "en": "The referendum in [FROM.GetName] has concluded with a decisive vote in favour of unification with [FROM.FROM.GetNameDef]. Our administrators in the region report that the result was expected. We are obligated to honour it."
+  },
+  {
+    "key": "INS_loyalist_events.10.a",
+    "version": "",
+    "en": "We gave our word."
+  },
+  {
+    "key": "INS_loyalist_events.11.t",
+    "version": "",
+    "en": "Malayan Referendum Succeeds"
+  },
+  {
+    "key": "INS_loyalist_events.11.desc",
+    "version": "",
+    "en": "The people of [MAL.GetName] have voted to join our nation. [MAL.GetAdjective] officials are cooperating with our administration to begin the transfer of authority. There will be one fewer border on the map of the Malay world."
+  },
+  {
+    "key": "INS_loyalist_events.11.a",
+    "version": "",
+    "en": "Welcome home."
+  },
+  {
+    "key": "INS_loyalist_events.12.t",
+    "version": "",
+    "en": "Malayan Unification Rejected"
+  },
+  {
+    "key": "INS_loyalist_events.12.desc",
+    "version": "",
+    "en": "Our proposal for unification with [MAL.GetName] has been turned down. The [MAL.GetAdjective] government, or those above them, have decided against it. We shall have to revisit the matter at a more opportune time."
+  },
+  {
+    "key": "INS_loyalist_events.12.a",
+    "version": "",
+    "en": "We will not forget this."
+  },
+  {
+    "key": "INS_loyalist_events.13.t",
+    "version": "",
+    "en": "[FROM.GetNameDefCap] Proposes Compromise Over Singapore"
+  },
+  {
+    "key": "INS_loyalist_events.13.desc",
+    "version": "",
+    "en": "The [FROM.GetAdjective] government has approached us with a proposal regarding Singapore. They request sovereignty over the island, citing its place within the Malay world. In return, they are prepared to guarantee our continued access to the port, its military installations, and all resource extraction rights currently in effect."
+  },
+  {
+    "key": "INS_loyalist_events.13.a",
+    "version": "",
+    "en": "A fair arrangement."
+  },
+  {
+    "key": "INS_loyalist_events.13.b",
+    "version": "",
+    "en": "Singapore is not for sale."
+  },
+  {
+    "key": "INS_loyalist_events.14.t",
+    "version": "",
+    "en": "Singapore Compromise Accepted"
+  },
+  {
+    "key": "INS_loyalist_events.14.desc",
+    "version": "",
+    "en": "The deal has been accepted. Singapore will be transferred to our control, while the former controllers retain their commercial and military access to the port. Our flag now flies over one of the most important harbours in Asia."
+  },
+  {
+    "key": "INS_loyalist_events.14.a",
+    "version": "",
+    "en": "The straits are ours."
+  },
+  {
+    "key": "INS_loyalist_events.15.t",
+    "version": "",
+    "en": "Singapore Compromise Rejected"
+  },
+  {
+    "key": "INS_loyalist_events.15.desc",
+    "version": "",
+    "en": "Our proposal has been refused. The controllers of Singapore are unwilling to part with the island under any terms. We offered them everything short of continued sovereignty, and it was not enough."
+  },
+  {
+    "key": "INS_loyalist_events.15.a",
+    "version": "",
+    "en": "So be it."
+  },
+  {
+    "key": "INS_loyalist_events.16.t",
+    "version": "",
+    "en": "[FROM.GetNameDefCap] Requests Transfer of Ceylon"
+  },
+  {
+    "key": "INS_loyalist_events.16.desc",
+    "version": "",
+    "en": "The [FROM.GetAdjective] government has made a formal request for the transfer of Ceylon. Their diplomats cite long-standing trade and ethnic connections between the island and the Malay world. The claim is tenuous, to be frank, but [FROM.GetNameDef] has grown powerful enough that such requests must be given serious consideration."
+  },
+  {
+    "key": "INS_loyalist_events.16.a",
+    "version": "",
+    "en": "Very well, let them have it."
+  },
+  {
+    "key": "INS_loyalist_events.16.b",
+    "version": "",
+    "en": "Ceylon will remain under our control."
+  },
+  {
+    "key": "INS_loyalist_events.17.t",
+    "version": "",
+    "en": "Ceylon Transferred"
+  },
+  {
+    "key": "INS_loyalist_events.17.desc",
+    "version": "",
+    "en": "The transfer of Ceylon is complete. Our administration has begun moving officials to the island, and the handover has proceeded without incident. We now hold a position on both sides of the strait."
+  },
+  {
+    "key": "INS_loyalist_events.17.a",
+    "version": "",
+    "en": "Excellent."
+  },
+  {
+    "key": "INS_loyalist_events.18.t",
+    "version": "",
+    "en": "Ceylon Request Denied"
+  },
+  {
+    "key": "INS_loyalist_events.18.desc",
+    "version": "",
+    "en": "Our request for the transfer of Ceylon has been denied. The current controllers have no intention of parting with the island, and our diplomats report that further discussion on the matter would be fruitless."
+  },
+  {
+    "key": "INS_loyalist_events.18.a",
+    "version": "",
+    "en": "Another time, perhaps."
+  },
+  {
+    "key": "INS_loyalist_events.19.t",
+    "version": "",
+    "en": "[FROM.GetNameDefCap] Demands Referendum in Papua"
+  },
+  {
+    "key": "INS_loyalist_events.19.desc",
+    "version": "",
+    "en": "[FROM.GetNameDefCap] has demanded that we permit a referendum in eastern Papua. On the [FROM.GetAdjective] side of the border, there are new roads running through the jungle, clinics staffed with government doctors, and schools teaching in the local languages. On ours, the last governor visited Port Moresby twice in three years. The [FROM.GetAdjective] ambassador did not need to say much more than that."
+  },
+  {
+    "key": "INS_loyalist_events.19.a",
+    "version": "",
+    "en": "Let them hold their vote."
+  },
+  {
+    "key": "INS_loyalist_events.19.b",
+    "version": "",
+    "en": "We will not permit this."
+  },
+  {
+    "key": "INS_loyalist_events.20.t",
+    "version": "",
+    "en": "Papua Referendum Approved"
+  },
+  {
+    "key": "INS_loyalist_events.20.desc",
+    "version": "",
+    "en": "The Australians agreed to hold the referendum. Every district in eastern Papua returned the same result. Our investment in the western half of the island spoke louder than any campaign poster could have."
+  },
+  {
+    "key": "INS_loyalist_events.20.a",
+    "version": "",
+    "en": "The island is whole at last."
+  },
+  {
+    "key": "INS_loyalist_events.21.t",
+    "version": "",
+    "en": "Papua Referendum Denied"
+  },
+  {
+    "key": "INS_loyalist_events.21.desc",
+    "version": "",
+    "en": "The Australians refused. Their governor in Port Moresby issued a statement calling the request an affront to Australian sovereignty. The Papuan people themselves were not consulted."
+  },
+  {
+    "key": "INS_loyalist_events.21.a",
+    "version": "",
+    "en": "We will remember this."
+  },
+  {
+    "key": "INS_loyalist_events.22.t",
+    "version": "",
+    "en": "[FROM.GetNameDefCap] Demands Eastern Timor"
+  },
+  {
+    "key": "INS_loyalist_events.22.desc",
+    "version": "",
+    "en": "The [FROM.GetAdjective] government has issued a formal demand for the surrender of Eastern Timor. Their ambassador noted that our garrison there numbers fewer than two hundred men and that Lisbon has allocated almost nothing to the territory in years. He then asked what exactly we think we are holding onto."
+  },
+  {
+    "key": "INS_loyalist_events.22.a",
+    "version": "",
+    "en": "It is not worth fighting over."
+  },
+  {
+    "key": "INS_loyalist_events.22.b",
+    "version": "",
+    "en": "Timor is ours and will remain so."
+  },
+  {
+    "key": "INS_loyalist_events.23.t",
+    "version": "",
+    "en": "Eastern Timor Surrendered"
+  },
+  {
+    "key": "INS_loyalist_events.23.desc",
+    "version": "",
+    "en": "The controllers of Eastern Timor have begun withdrawing their garrison and packing up the colonial administration. The entire island will soon be under [INS.GetAdjective] authority."
+  },
+  {
+    "key": "INS_loyalist_events.23.a",
+    "version": "",
+    "en": "As it should be."
+  },
+  {
+    "key": "INS_loyalist_events.24.t",
+    "version": "",
+    "en": "Eastern Timor Demand Refused"
+  },
+  {
+    "key": "INS_loyalist_events.24.desc",
+    "version": "",
+    "en": "The colonial governor in Dili has personally written to reject our demand, insisting that Eastern Timor remains sovereign territory of his government. Our general staff has drawn up contingency plans should the cabinet wish to pursue the matter further."
+  },
+  {
+    "key": "INS_loyalist_events.24.a",
+    "version": "",
+    "en": "Begin preparations."
+  },
+  {
+    "key": "INS_loyalist_events.25.t",
+    "version": "",
+    "en": "[FROM.GetNameDefCap] Proposes Unification"
+  },
+  {
+    "key": "INS_loyalist_events.25.desc",
+    "version": "",
+    "en": "An [FROM.GetAdjective] delegation has arrived with a proposal for the unification of our two republics. They argue that our peoples share common Austronesian roots far older than the colonial boundaries that separate us, and that a single state spanning the archipelago would be the foremost power in Southeast Asia. Accepting would mean dissolving our government and integrating into theirs."
+  },
+  {
+    "key": "INS_loyalist_events.25.a",
+    "version": "",
+    "en": "We accept."
+  },
+  {
+    "key": "INS_loyalist_events.25.b",
+    "version": "",
+    "en": "We fought too hard for this republic."
+  },
+  {
+    "key": "INS_loyalist_events.26.t",
+    "version": "",
+    "en": "[FROM.GetNameDefCap] Accepts Unification"
+  },
+  {
+    "key": "INS_loyalist_events.26.desc",
+    "version": "",
+    "en": "The [FROM.GetAdjective] government has accepted our proposal. Their officials are already coordinating with ours to begin the process of integration. From Aceh to Luzon, from Borneo to Mindanao, our nation now spans the full breadth of the Malay archipelago."
+  },
+  {
+    "key": "INS_loyalist_events.26.a",
+    "version": "",
+    "en": "A new era begins."
+  },
+  {
+    "key": "INS_loyalist_events.27.t",
+    "version": "",
+    "en": "[FROM.GetNameDefCap] Rejects Unification"
+  },
+  {
+    "key": "INS_loyalist_events.27.desc",
+    "version": "",
+    "en": "The [FROM.GetAdjective] government has declined. Their own struggle for independence is too recent, and too costly, for them to surrender their sovereignty to another state. The proposal has been shelved."
+  },
+  {
+    "key": "INS_loyalist_events.27.a",
+    "version": "",
+    "en": "A shame."
+  },
+  {
+    "key": "INS_loyalist_events.28.t",
+    "version": "",
+    "en": "[FROM.GetNameDefCap] Requests Referendum in [PHI.GetName]"
+  },
+  {
+    "key": "INS_loyalist_events.28.desc",
+    "version": "",
+    "en": "[FROM.GetNameDefCap] has formally requested that we permit a referendum in [PHI.GetName] on the question of unification. Their diplomats stress the shared Austronesian ancestry of both peoples and the artificial nature of the colonial borders separating them. If the vote goes ahead, the result is likely to favour [FROM.GetNameDef]."
+  },
+  {
+    "key": "INS_loyalist_events.28.a",
+    "version": "",
+    "en": "The people should have their say."
+  },
+  {
+    "key": "INS_loyalist_events.28.b",
+    "version": "",
+    "en": "Out of the question."
+  },
+  {
+    "key": "INS_loyalist_events.29.t",
+    "version": "",
+    "en": "Unification Referendum Approved"
+  },
+  {
+    "key": "INS_loyalist_events.29.desc",
+    "version": "",
+    "en": "[FROM.FROM.GetNameDefCap] has proposed the unification of our two nations on the basis of shared Austronesian heritage. Our overlord has granted them permission to hold a referendum on the matter, and [FROM.FROM.GetAdjective] campaigners have already begun arriving. The result will determine whether our republic joins [FROM.FROM.GetNameDef] or continues under its current arrangements."
+  },
+  {
+    "key": "INS_loyalist_events.29.a",
+    "version": "",
+    "en": "This is an interesting proposal."
+  },
+  {
+    "key": "INS_loyalist_events.29.b",
+    "version": "",
+    "en": "Absolutely not."
+  },
+  {
+    "key": "INS_loyalist_events.30.t",
+    "version": "",
+    "en": "[FROM.GetNameDefCap] Votes Against Unification"
+  },
+  {
+    "key": "INS_loyalist_events.30.desc",
+    "version": "",
+    "en": "The ballot boxes have been counted and the [FROM.FROM.GetAdjective] campaigners sent packing. The [FROM.GetAdjective] people voted to stay. Independence, it seems, still means something in [FROM.Capital.GetCapitalVictoryPointName]."
+  },
+  {
+    "key": "INS_loyalist_events.30.a",
+    "version": "",
+    "en": "That is the end of it."
+  },
+  {
+    "key": "INS_loyalist_events.31.t",
+    "version": "",
+    "en": "[FROM.GetNameDefCap] Votes for Unification"
+  },
+  {
+    "key": "INS_loyalist_events.31.desc",
+    "version": "",
+    "en": "The ballot boxes have been counted. The [FROM.GetAdjective] people have chosen [FROM.FROM.GetNameDef] over us, and the margin was not close. Our administrators are already receiving instructions to begin the handover."
+  },
+  {
+    "key": "INS_loyalist_events.31.a",
+    "version": "",
+    "en": "The people have spoken."
+  },
+  {
+    "key": "INS_loyalist_events.32.t",
+    "version": "",
+    "en": "[PHI.GetNameDefCap] Votes to Unify"
+  },
+  {
+    "key": "INS_loyalist_events.32.desc",
+    "version": "",
+    "en": "The [PHI.GetAdjective] referendum has concluded in our favour. Their government has accepted the result and initiated contact with our foreign ministry to arrange the transfer of authority."
+  },
+  {
+    "key": "INS_loyalist_events.32.a",
+    "version": "",
+    "en": "Together at last."
+  },
+  {
+    "key": "INS_loyalist_events.33.t",
+    "version": "",
+    "en": "[PHI.GetNameDefCap] Refuses Unification"
+  },
+  {
+    "key": "INS_loyalist_events.33.desc",
+    "version": "",
+    "en": "The [PHI.GetAdjective] government has declined our proposal for unification. Their parliament voted it down without so much as a second reading. We offered them a place in the greatest nation in Southeast Asia, and they spat on it."
+  },
+  {
+    "key": "INS_loyalist_events.33.a",
+    "version": "",
+    "en": "A setback, nothing more."
+  },
+  {
+    "key": "INS_communist_events.6.t",
+    "version": "",
+    "en": "[FROM.GetAdjective] Agents Agitating in [ROOT.GetName]"
+  },
+  {
+    "key": "INS_communist_events.6.desc",
+    "version": "",
+    "en": "Our intelligence services have confirmed what we long suspected. [FROM.GetNameDefCap] has been conducting a sustained campaign of subversion within our borders, funding radical cells, distributing seditious pamphlets, and organizing strikes among the workers. Their agents have embedded themselves in the trade unions and rural cooperatives, and are now openly calling for the overthrow of our government. The situation has reached a critical point, and we must act decisively before it spirals beyond our control."
+  },
+  {
+    "key": "INS_communist_events.6.a",
+    "version": "",
+    "en": "This cannot be tolerated!"
+  },
+  {
+    "key": "INS_communist_events.7.t",
+    "version": "",
+    "en": "Communist Subversion in [FROM.GetName]"
+  },
+  {
+    "key": "INS_communist_events.7.desc",
+    "version": "",
+    "en": "Troubling reports have reached us from [FROM.FROM.GetName]. Agents operating on behalf of [FROM.GetNameDef] have been stirring up revolutionary sentiment among the local population, exploiting grievances against our administration to build support for a communist takeover. If left unchecked, [FROM.FROM.GetNameDef] could be lost entirely to the radicals, and the rot may well spread further into our other holdings."
+  },
+  {
+    "key": "INS_communist_events.7.a",
+    "version": "",
+    "en": "We must stamp this out before it spreads!"
+  },
+  {
+    "key": "INS_communist_events.8.t",
+    "version": "",
+    "en": "[FROM.GetAdjective] Propaganda Circulating in [ROOT.GetName]"
+  },
+  {
+    "key": "INS_communist_events.8.desc",
+    "version": "",
+    "en": "Pamphlets and leaflets of [FROM.GetAdjective] origin have been appearing in our factories, markets, and universities with increasing frequency. They preach the gospel of class warfare and promise liberation through revolution, and our police report that they are finding a receptive audience among the discontented. The material is crude but effective, and its spread shows no signs of slowing."
+  },
+  {
+    "key": "INS_communist_events.8.a",
+    "version": "",
+    "en": "Find out who is distributing this filth!"
+  },
+  {
+    "key": "INS_communist_events.1.t",
+    "version": "",
+    "en": "Revolution in [ROOT.GetName]"
+  },
+  {
+    "key": "INS_communist_events.1.desc",
+    "version": "",
+    "en": "The situation has deteriorated beyond recovery. Months of [FROM.GetAdjective] agitation have done their work, and the communist movement in [ROOT.GetName] can no longer be contained through ordinary measures. General strikes have paralyzed the cities, armed partisans hold sway over whole provinces, and the [FROM.GetAdjective] government has thrown its full weight behind the revolutionaries. Our security forces are stretched thin and their loyalty is no longer certain. We must decide now whether to fight for the survival of the state or accept the inevitable before more blood is spilled."
+  },
+  {
+    "key": "INS_communist_events.1.a",
+    "version": "",
+    "en": "Rally the army. We will not go quietly."
+  },
+  {
+    "key": "INS_communist_events.1.b",
+    "version": "",
+    "en": "Further resistance will only bring ruin upon our people."
+  },
+  {
+    "key": "INS_communist_events.1.c",
+    "version": "",
+    "en": "Perhaps if we grant them a seat at the table, we can still control this."
+  },
+  {
+    "key": "INS_communist_events.2.t",
+    "version": "",
+    "en": "[FROM.GetNameDefCap] Chooses to Fight"
+  },
+  {
+    "key": "INS_communist_events.2.desc",
+    "version": "",
+    "en": "The government in [FROM.GetName] has refused to yield, and has ordered its armed forces to suppress the revolutionary movement by force. Our comrades there are already taking up positions and seizing key strongholds. The struggle will not be a short one, but the people of [FROM.GetName] have made their choice, and we shall see to it that they do not stand alone."
+  },
+  {
+    "key": "INS_communist_events.2.a",
+    "version": "",
+    "en": "The revolution marches forward."
+  },
+  {
+    "key": "INS_communist_events.3.t",
+    "version": "",
+    "en": "[FROM.GetNameDefCap] Has Fallen"
+  },
+  {
+    "key": "INS_communist_events.3.desc",
+    "version": "",
+    "en": "The old government in [FROM.GetName] has capitulated. Faced with the full scale of the revolutionary movement and the certain knowledge that [ROOT.GetNameDef] stood behind it, they saw no path forward but submission. Power has been transferred to the local communist party, and the new government has already begun reaching out to us for guidance. Another nation has been freed from the grip of the old order."
+  },
+  {
+    "key": "INS_communist_events.3.a",
+    "version": "",
+    "en": "A great victory for the working peoples of the world."
+  },
+  {
+    "key": "INS_communist_events.4.t",
+    "version": "",
+    "en": "Civil War Erupts in [FROM.GetName]"
+  },
+  {
+    "key": "INS_communist_events.4.desc",
+    "version": "",
+    "en": "Communist revolutionaries, armed and organized with the backing of [FROM.FROM.GetNameDef], have launched an open insurrection in [FROM.GetName]. The colonial administration has lost control of large swathes of the territory, and the governor reports that the local garrison cannot restore order without reinforcement."
+  },
+  {
+    "key": "INS_communist_events.4.a",
+    "version": "",
+    "en": "Send in the troops. [FROM.GetName] is ours!"
+  },
+  {
+    "key": "INS_communist_events.5.t",
+    "version": "",
+    "en": "[FROM.GetName] Lost to the Communists"
+  },
+  {
+    "key": "INS_communist_events.5.desc",
+    "version": "",
+    "en": "The administration in [FROM.GetName] has surrendered to the communist insurgents without a fight. The governor and his staff have been placed under arrest, our flag hauled down, and a revolutionary government proclaimed in its place. All of this orchestrated by [FROM.FROM.GetNameDef] and their agents, who have been working to undermine our authority there for months. This is nothing short of theft, and it will not go unanswered."
+  },
+  {
+    "key": "INS_communist_events.5.a",
+    "version": "",
+    "en": "This is an outrage!"
+  },
+  {
+    "key": "INS_communist_events.9.t",
+    "version": "",
+    "en": "[FROM.GetAdjective] Officers Seen Meeting with Dissidents"
+  },
+  {
+    "key": "INS_communist_events.9.desc",
+    "version": "",
+    "en": "[FROM.GetAdjective] operatives have been spotted in the company of known agitators and militant leaders throughout the country. Student organizers who once handed out leaflets on street corners are now holding meetings behind closed doors with men carrying [FROM.GetAdjective] diplomatic papers. Banned publications are being printed faster than the police can confiscate them, and protests that once fizzled out in an afternoon now shut down entire districts for days. These communists are learning how to organize in larger groups every day, if we do not act fast we may lose control of them."
+  },
+  {
+    "key": "INS_communist_events.9.a",
+    "version": "",
+    "en": "Root out these foreign agents at once!"
+  },
+  {
+    "key": "INS_communist_events.10.t",
+    "version": "",
+    "en": "[FROM.GetAdjective] Rhetoric Gaining Traction"
+  },
+  {
+    "key": "INS_communist_events.10.desc",
+    "version": "",
+    "en": "[FROM.GetAdjective] pamphlets have been circulating in the barracks and the civil service, and confiscation efforts have done little to stem the tide. They speak of nations unshackled, of peoples who threw off their colonial governors and built something of their own. It would be easier to suppress if the sentiment did not ring true. Even loyal officials have begun to ask, quietly, whether our present arrangement serves our people or merely our masters."
+  },
+  {
+    "key": "INS_communist_events.10.a",
+    "version": "",
+    "en": "We must tread carefully."
+  },
+  {
+    "key": "taog_news.1.t",
+    "version": "",
+    "en": "The Dawn of the Netherlands-Indonesia Union"
+  },
+  {
+    "key": "taog_news.1.desc",
+    "version": "",
+    "en": "Queen Wilhelmina held an announcement in [1058.GetName] yesterday, announcing the unexpected creation of a Netherlands–Indonesia Union state. With the homeland under occupation, the [HOL.GetAdjective] government-in-exile and the [INS.GetAdjective] administration have agreed to govern as one body under the Crown. Officials of both countries describe the move as a measure of necessity rather than choice, a desperate effort to preserve the unity and authority of the Kingdom across two continents."
+  },
+  {
+    "key": "taog_news.1.a",
+    "version": "",
+    "en": "An interesting development."
+  },
+  {
+    "key": "taog_news.2.t",
+    "version": "",
+    "en": "The Indonesian Declaration of Independence"
+  },
+  {
+    "key": "taog_news.2.desc",
+    "version": "",
+    "en": "[INS.GetAdjective] revolutionary [INS.GetLeader] held a speech in Java today declaring the independence of the newly formed Republic of Indonesia. [HOL.GetNameDef] does not recognize the sovereignty of this newfound republic, but Republican militias already hold de-facto control over certain territory."
+  },
+  {
+    "key": "taog_news.2.a",
+    "version": "",
+    "en": "This could set off a large shift globally."
+  },
+  {
+    "key": "INS_limited_war_events.1.t",
+    "version": "",
+    "en": "Crush Malaya!"
+  },
+  {
+    "key": "INS_limited_war_events.1.desc",
+    "version": "",
+    "en": "The enemy lines have broken and our men press forward unopposed. Across the Strait, the British client state crumbles beneath the weight of the people's anger. The puppets of London thought their bayonets would shield them from history. They were wrong."
+  },
+  {
+    "key": "INS_limited_war_events.1.a",
+    "version": "",
+    "en": "Merdeka!"
+  },
+  {
+    "key": "INS_limited_war_events.1.b",
+    "version": "",
+    "en": "A fine day for the Republic."
+  },
+  {
+    "key": "INS_limited_war_events.2.t",
+    "version": "",
+    "en": "[FROM.GetAdjective] Counter-Stroke"
+  },
+  {
+    "key": "INS_limited_war_events.2.desc",
+    "version": "",
+    "en": "What was promised as a swift strike against the puppet regime has soured. The [FROM.GetAdjective] forces, stiffened by their imperial paymasters, have driven our men from the contested ground and now sit upon it as occupiers. Every day the wireless carries word of their boasting. To press on invites further humiliation, but to withdraw is to confess defeat before the whole archipelago."
+  },
+  {
+    "key": "INS_limited_war_events.2.a",
+    "version": "",
+    "en": "Withdraw the men. Save what we can."
+  },
+  {
+    "key": "INS_limited_war_events.2.b",
+    "version": "",
+    "en": "We will not yield to the puppets!"
+  },
+  {
+    "key": "INS_limited_war_events.3.t",
+    "version": "",
+    "en": "[FROM.GetName] Bows to the Republic"
+  },
+  {
+    "key": "INS_limited_war_events.3.desc",
+    "version": "",
+    "en": "Word has come from Kuala Lumpur. The puppet government, abandoned at the decisive hour by its London masters, has accepted our terms rather than see its towns burn. The disputed lands are ours. The lesson will not be lost on the other client states of the region."
+  },
+  {
+    "key": "INS_limited_war_events.3.a",
+    "version": "",
+    "en": "Indonesia rises."
+  },
+  {
+    "key": "INS_limited_war_events.4.t",
+    "version": "",
+    "en": "[FROM.GetName] Spurns Our Terms"
+  },
+  {
+    "key": "INS_limited_war_events.4.desc",
+    "version": "",
+    "en": "[FROM.GetName] has thrown our offer back in our faces. The puppet ministers, reading from a script written in Whitehall, declare that no inch of soil shall be surrendered and that the Republic itself must be brought to heel before the guns fall silent."
+  },
+  {
+    "key": "INS_limited_war_events.4.a",
+    "version": "",
+    "en": "Then let the guns speak."
+  },
+  {
+    "key": "INS_limited_war_events.5.t",
+    "version": "",
+    "en": "[FROM.GetNameDef] Calls for Our Destruction"
+  },
+  {
+    "key": "INS_limited_war_events.5.desc",
+    "version": "",
+    "en": "[FROM.GetNameDefCap] has cast off the last pretense of measured war. Their broadcasts now speak openly of dismembering the Republic and parceling its islands among the old colonial masters. There will be no quiet ending to this affair. Either Indonesia stands at the close of it, or it does not stand at all."
+  },
+  {
+    "key": "INS_limited_war_events.5.a",
+    "version": "",
+    "en": "We stand or we fall together."
+  },
+  {
+    "key": "INS_limited_war_events.6.t",
+    "version": "",
+    "en": "The [FROM.GetAdjective] Advance Falters"
+  },
+  {
+    "key": "INS_limited_war_events.6.desc",
+    "version": "",
+    "en": "The [FROM.GetAdjective] thrust caught us unprepared and for a season we feared the worst. Yet their drive has run itself into the mud. Their men are tired, their lines are long, and the bluster from London grows thinner with each communique. The Republic may yet be magnanimous and offer the puppets a way to bow out of this affair, though many would say a clean victory serves the cause better than a measured one."
+  },
+  {
+    "key": "INS_limited_war_events.6.a",
+    "version": "",
+    "en": "Offer them terms."
+  },
+  {
+    "key": "INS_limited_war_events.6.b",
+    "version": "",
+    "en": "No mercy for the puppets."
+  },
+  {
+    "key": "INS_limited_war_events.7.t",
+    "version": "",
+    "en": "Our Offensive Grinds to a Halt"
+  },
+  {
+    "key": "INS_limited_war_events.7.desc",
+    "version": "",
+    "en": "Our advance has stalled, and worse than that, the enemy knows it. A demand has come from across the Strait. Lay down arms now and accept their terms, or watch the casualty lists grow longer for the same outcome. The choice they offer is the size of the funeral."
+  },
+  {
+    "key": "INS_limited_war_events.7.a",
+    "version": "",
+    "en": "Better a poor peace than a worse war."
+  },
+  {
+    "key": "INS_limited_war_events.7.b",
+    "version": "",
+    "en": "The Republic does not surrender."
+  },
+  {
+    "key": "INS_limited_war_events.8.t",
+    "version": "",
+    "en": "[FROM.GetName] Refuses to Bend"
+  },
+  {
+    "key": "INS_limited_war_events.8.desc",
+    "version": "",
+    "en": "[FROM.GetName] has answered our offer with defiance. Their ministers proclaim that they would sooner see every kampong from Penang to Johor put to the torch than yield a single concession to the Republic. So the war goes on."
+  },
+  {
+    "key": "INS_limited_war_events.8.a",
+    "version": "",
+    "en": "Then so be it."
+  },
+  {
+    "key": "INS_limited_war_events.9.t",
+    "version": "",
+    "en": "[FROM.GetName] Means to Break the Republic!"
+  },
+  {
+    "key": "INS_limited_war_events.9.desc",
+    "version": "",
+    "en": "Wireless intercepts from the enemy command have confirmed the worst. There will be no settlement, no measured peace, no return to the lines we held before. The puppets and their London masters demand the total surrender of the Republic, that Indonesia be broken on the wheel and her islands handed back to the imperialist boot from which we tore them. To this there is only one answer."
+  },
+  {
+    "key": "INS_limited_war_events.9.a",
+    "version": "",
+    "en": "Indonesia stands!"
+  },
+  {
+    "key": "INS_martial_law_events.1.t",
+    "version": "",
+    "en": "[INS.GetNameDefCap] wants to strengthen trade relations with us"
+  },
+  {
+    "key": "INS_martial_law_events.1.desc",
+    "version": "",
+    "en": "The President of [INS.GetName] has reached out to us to express their wishes to strengthen the trade relationship between us, and for [INS.GetName] to have a bigger role in the co-prosperity sphere. [INS.GetName]’s president, [INS.GetLeader] has offered an enticing deal wherein rubber and other resources will be sold to us without any fees or taxes, with market controls ensuring low prices."
+  },
+  {
+    "key": "INS_martial_law_events.1.a",
+    "version": "",
+    "en": "Of course!"
+  },
+  {
+    "key": "INS_martial_law_events.1.b",
+    "version": "",
+    "en": "We are not interested."
+  },
+  {
+    "key": "INS_martial_law_events.2.t",
+    "version": "",
+    "en": "[FROM.GetName] agrees to trade agreement"
+  },
+  {
+    "key": "INS_martial_law_events.2.desc",
+    "version": "",
+    "en": "[ROOT.GetLeader] has returned from his meeting with the [JAP.GetAdjective] government in [JAP.GetCapitalVictoryPointName] today with good news; The trade agreement proposed in [JAP.GetCapitalVictoryPointName] was agreed to by all parties and will be put into effect shortly."
+  },
+  {
+    "key": "INS_martial_law_events.2.a",
+    "version": "",
+    "en": "This will greatly benefit both of our economies!"
+  },
+  {
+    "key": "INS_martial_law_events.3.t",
+    "version": "",
+    "en": "[FROM.GetName] rejects trade agreement"
+  },
+  {
+    "key": "INS_martial_law_events.3.desc",
+    "version": "",
+    "en": "[ROOT.GetLeader] has returned from his meeting with the [JAP.GetAdjective] government in [JAP.GetCapitalVictoryPointName] today with the unfortunate news that the negotiations went stale after both sides refused to concede on certain topics, resulting in no trade agreement being passed."
+  },
+  {
+    "key": "INS_martial_law_events.3.a",
+    "version": "",
+    "en": "A shame."
+  },
+  {
+    "key": "INS_martial_law_events.4.t",
+    "version": "",
+    "en": "[FROM.GetName] requests we recognize their Malay claims"
+  },
+  {
+    "key": "INS_martial_law_events.4.desc",
+    "version": "",
+    "en": "An envoy from [FROM.GetNameDef] has presented our government with a formal request. President [FROM.GetLeader], who has proclaimed the unification of the Malay world to be his government's foremost goal, asks that we recognize the [INS.GetAdjective] claim to all ethnically Malay lands, from Sri Lanka to the Philippines."
+  },
+  {
+    "key": "INS_martial_law_events.4.a",
+    "version": "",
+    "en": "We will recognize their right to their historical lands."
+  },
+  {
+    "key": "INS_martial_law_events.4.b",
+    "version": "",
+    "en": "This is not our concern."
+  },
+  {
+    "key": "INS_martial_law_events.5.t",
+    "version": "",
+    "en": "[FROM.GetName] recognizes our claims"
+  },
+  {
+    "key": "INS_martial_law_events.5.desc",
+    "version": "",
+    "en": "The government of [FROM.GetName] has formally recognized our claim to the Malay lands. With the blessing of our most powerful ally, the unification of the Malay world is looking much more feasible."
+  },
+  {
+    "key": "INS_martial_law_events.5.a",
+    "version": "",
+    "en": "Unity!"
+  },
+  {
+    "key": "INS_martial_law_events.6.t",
+    "version": "",
+    "en": "[FROM.GetName] refuses to recognize our claims"
+  },
+  {
+    "key": "INS_martial_law_events.6.desc",
+    "version": "",
+    "en": "The government of [FROM.GetName] has refused to recognize our claim to the Malay world. It seems our so-called allies would rather keep the Malay peoples divided than see us grow strong. We will remember this insult when the time comes."
+  },
+  {
+    "key": "INS_martial_law_events.6.a",
+    "version": "",
+    "en": "This is but a roadblock, we will persevere, we will succeed!"
+  },
+  {
+    "key": "INS_martial_law_events.7.t",
+    "version": "",
+    "en": "[FROM.GetName] demands control over Northern Malay"
+  },
+  {
+    "key": "INS_martial_law_events.7.desc",
+    "version": "",
+    "en": "[FROM.GetName] has sent out a formal request that we honor our recognition of their Malay claims by organizing the transfer of Northern Malay to [FROM.GetName], which is currently controlled by [SIA.GetName]. This move may anger the [SIA.GetAdjective] leadership, however it would severely strengthen our ties with [INS.GetName]."
+  },
+  {
+    "key": "INS_martial_law_events.7.a",
+    "version": "",
+    "en": "We must honor the agreement."
+  },
+  {
+    "key": "INS_martial_law_events.7.b",
+    "version": "",
+    "en": "This is not worth creating conflict within the faction."
+  },
+  {
+    "key": "INS_martial_law_events.8.t",
+    "version": "",
+    "en": "[FROM.GetName] refuses our request"
+  },
+  {
+    "key": "INS_martial_law_events.8.desc",
+    "version": "",
+    "en": "Despite their official recognition of our claims, the [JAP.GetAdjective] government has refused to mediate the transfer of Northern Malay, with [JAP.GetLeader] insisting they cannot risk conflict within the faction. It is clear their promises are empty and their words hold little meaning in the face of urgency."
+  },
+  {
+    "key": "INS_martial_law_events.8.a",
+    "version": "",
+    "en": "They have demonstrated an inability to follow through."
+  },
+  {
+    "key": "INS_martial_law_events.9.t",
+    "version": "",
+    "en": "[FROM.GetName] requests we transfer Northern Malay to [INS.GetNameDef]"
+  },
+  {
+    "key": "INS_martial_law_events.9.desc",
+    "version": "",
+    "en": "[FROM.GetName] has informed us that [INS.GetName] has demanded we transfer Northern Malay to [INS.GetName] as part of their claim on all ethnically Malay territory. The [JAP.GetAdjective] government is officially backing the [INS.GetAdjective] claims, and [JAP.GetAdjective] advisors warn we may risk an armed conflict if we refuse."
+  },
+  {
+    "key": "INS_martial_law_events.9.a",
+    "version": "",
+    "en": "It is not as though we have a choice."
+  },
+  {
+    "key": "INS_martial_law_events.9.b",
+    "version": "",
+    "en": "We will not fall to imperialism!"
+  },
+  {
+    "key": "INS_martial_law_events.9.a.tt",
+    "version": "",
+    "en": "§W§RWe risk being percieved as weak, which may lead to future concessions being demanded.§!§!"
+  },
+  {
+    "key": "INS_martial_law_events.10.t",
+    "version": "",
+    "en": "[JAP.GetName] and [FROM.GetName] agree to the transfer"
+  },
+  {
+    "key": "INS_martial_law_events.10.desc",
+    "version": "",
+    "en": "[JAP.GetName] has agreed to mediate the transfer of Northern Malay, and has sent envoys to negotiate in [SIA.GetCapitalVictoryPointName], together with [INS.GetAdjective] envoys. An agreement has been reached between the three parties, concluding that Northern Malay is, effective immediately, [INS.GetAdjective] territory."
+  },
+  {
+    "key": "INS_martial_law_events.10.a",
+    "version": "",
+    "en": "Wonderful!"
+  },
+  {
+    "key": "INS_martial_law_events.11.t",
+    "version": "",
+    "en": "[FROM.GetName] refuses the transfer"
+  },
+  {
+    "key": "INS_martial_law_events.11.desc",
+    "version": "",
+    "en": "[SIA.GetLeader] has refused to participate in a meeting, making it clear he has no intention of giving up Northern Malay regardless of the consequences. When we stated the severity of this decision, [SIA.GetLeader] was not persuaded and called our bluff, refusing to comply with any demands. Unfortunately, this leaves us without many options to continue."
+  },
+  {
+    "key": "INS_martial_law_events.11.a",
+    "version": "",
+    "en": "Then it is war."
+  },
+  {
+    "key": "INS_martial_law_events.12.t",
+    "version": "",
+    "en": "[FROM.GetName] informs us [SIA.GetName] has refused to comply"
+  },
+  {
+    "key": "INS_martial_law_events.12.desc",
+    "version": "",
+    "en": "Envoys from [FROM.GetName] have arrived at [ROOT.GetCapitalVictoryPointName] bringing the unfortunate news that the [SIA.GetAdjective] has refused outright to comply to any transfer or negotiation, and that [JAP.GetNameDef] has formally kicked [SIA.GetNameDef] out of the faction."
+  },
+  {
+    "key": "INS_martial_law_events.12.a",
+    "version": "",
+    "en": "Then it is war."
+  },
+  {
+    "key": "INS_martial_law_events.13.t",
+    "version": "",
+    "en": "[FROM.GetName] requests overlordship of [SIA.GetName]"
+  },
+  {
+    "key": "INS_martial_law_events.13.desc",
+    "version": "",
+    "en": "[FROM.GetName] has informed us of their wish to secure overlordship over [SIA.GetName], due to [FROM.GetLeader]’s belief that [SIA.GetName] is a weak nation unable to stand up for itself, which was made abundantly clear by their immediate submission to the request of Northern Malay. The value [INS.GetName] has provided to the faction is not insignificant, and it seems we risk losing them as an ally if we do not comply with their request."
+  },
+  {
+    "key": "INS_martial_law_events.13.a",
+    "version": "",
+    "en": "They have earned it."
+  },
+  {
+    "key": "INS_martial_law_events.13.b",
+    "version": "",
+    "en": "Absolutely not."
+  },
+  {
+    "key": "INS_martial_law_events.14.t",
+    "version": "",
+    "en": "[FROM.GetName] agrees to the transfer"
+  },
+  {
+    "key": "INS_martial_law_events.14.desc",
+    "version": "",
+    "en": "The government of [FROM.GetName] has agreed to place [SIA.GetNameDef] under our authority effective immediately."
+  },
+  {
+    "key": "INS_martial_law_events.14.a",
+    "version": "",
+    "en": "Wonderful."
+  },
+  {
+    "key": "INS_martial_law_events.15.t",
+    "version": "",
+    "en": "[FROM.GetName] refuses the transfer"
+  },
+  {
+    "key": "INS_martial_law_events.15.desc",
+    "version": "",
+    "en": "The government of [FROM.GetName] has refused to transfer overlordship over [SIA.GetName] to us despite their demonstrated inability to defend themselves."
+  },
+  {
+    "key": "INS_martial_law_events.15.a",
+    "version": "",
+    "en": "A shame."
+  },
+  {
+    "key": "INS_martial_law_events.16.t",
+    "version": "",
+    "en": "A new leadership for [ROOT.GetName]"
+  },
+  {
+    "key": "INS_martial_law_events.16.desc",
+    "version": "",
+    "en": "With the restructuring of our government to the Union of Indonesian Provinces, the previous system of a Presidential body overseeing a democratically elected council will be replaced with a new federal presidential system. We must elect a new President"
+  },
+  {
+    "key": "INS_martial_law_events.16.a",
+    "version": "",
+    "en": "This is just an internal restructuring, keep the same leadership."
+  },
+  {
+    "key": "INS_martial_law_events.16.b",
+    "version": "",
+    "en": "Hatta will take over"
+  },
+  {
+    "key": "INS_martial_law_events.16.c",
+    "version": "",
+    "en": "Kartosoewirjo is a popular choice!"
+  },
+  {
+    "key": "INS_martial_law_events.16.d",
+    "version": "",
+    "en": "A military governance is needed for now."
+  },
+  {
+    "key": "ABDA_events.1.t",
+    "version": "",
+    "en": "An Invitation to a New Supreme Command"
+  },
+  {
+    "key": "ABDA_events.1.desc",
+    "version": "",
+    "en": "[FROM.GetNameDef] has established a joint supreme command for the Pacific theatre and has extended an invitation for us to join. The initiative — known as ABDACOM — seeks to pool the naval, air, and ground forces of allied nations operating in the region under a unified command structure. Membership would mean closer coordination with [FROM.GetNameDef] and the other partners already committed to the effort. We must decide whether to accept."
+  },
+  {
+    "key": "ABDA_events.1.a",
+    "version": "",
+    "en": "We will stand together."
+  },
+  {
+    "key": "ABDA_events.1.b",
+    "version": "",
+    "en": "We cannot commit to this at the present time."
+  },
+  {
+    "key": "ABDA_events.2.t",
+    "version": "",
+    "en": "[FROM.GetName] Joins the ABDACOM"
+  },
+  {
+    "key": "ABDA_events.2.desc",
+    "version": "",
+    "en": "[FROM.GetNameDef] has accepted our invitation to join the ABDACOM Supreme Command. Their forces will now operate under the joint command structure, strengthening our position in the Pacific theatre."
+  },
+  {
+    "key": "ABDA_events.2.a",
+    "version": "",
+    "en": "A welcome development."
+  },
+  {
+    "key": "ABDA_events.3.t",
+    "version": "",
+    "en": "[FROM.GetName] Declines to Join"
+  },
+  {
+    "key": "ABDA_events.3.desc",
+    "version": "",
+    "en": "[FROM.GetNameDef] has declined our invitation to join the ABDACOM Supreme Command. Their forces will not be committed to the joint effort at this time, though the door may yet remain open."
+  },
+  {
+    "key": "ABDA_events.3.a",
+    "version": "",
+    "en": "Unfortunate, but noted."
+  },
+  {
+    "key": "ABDA_events.5.t",
+    "version": "",
+    "en": "An Invitation to Join ABDACOM"
+  },
+  {
+    "key": "ABDA_events.5.desc",
+    "version": "",
+    "en": "[FROM.GetNameDef] has extended an invitation for us to join the American-British-Dutch-Australian Command. ABDACOM has already established itself as the supreme coordinating authority for Allied forces in the Pacific theatre, bringing together the navies and armies of the major Allied powers under one command. Membership would bring our forces into this unified structure, with access to shared intelligence, coordinated doctrine, and the full weight of Allied support. We must decide."
+  },
+  {
+    "key": "ABDA_events.5.a",
+    "version": "",
+    "en": "We will stand together."
+  },
+  {
+    "key": "ABDA_events.5.b",
+    "version": "",
+    "en": "We cannot commit to this at the present time."
+  },
+  {
+    "key": "ABDA_events.4.t",
+    "version": "",
+    "en": "The Defences of Singapore"
+  },
+  {
+    "key": "ABDA_events.4.desc",
+    "version": "",
+    "en": "With Singapore designated as a linchpin of the ABDACOM defensive perimeter, our commanders must decide how to invest in its fortifications. We can prioritise the naval approaches and harbour defences, harden the landward approaches against an overland assault, or spread our resources across both. Each course of action will shape how Singapore can be defended when the enemy comes."
+  },
+  {
+    "key": "ABDA_events.4.a",
+    "version": "",
+    "en": "Reinforce the naval approaches. Singapore's strength is its harbour."
+  },
+  {
+    "key": "ABDA_events.4.b",
+    "version": "",
+    "en": "Fortify the landward perimeter. The real threat will come overland."
+  },
+  {
+    "key": "ABDA_events.4.c",
+    "version": "",
+    "en": "A balanced approach. No single avenue of attack must go undefended."
+  },
+  {
+    "key": "ABDA_fortress_singapore_choice_tt",
+    "version": "",
+    "en": "Completing this focus will present a choice for how to fortify Singapore."
+  },
+  {
+    "key": "ABDA_faction_membership_requirement_tt",
+    "version": "",
+    "en": "Eligible faction members will receive invites to join."
+  }
+]

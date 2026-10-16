@@ -1,0 +1,2036 @@
+[
+  {
+    "key": "spain.1.t",
+    "version": "",
+    "type": "title",
+    "en": "Civil War!"
+  },
+  {
+    "key": "spain.1.d",
+    "version": "",
+    "type": "desc",
+    "en": "A group of powerful generals in the Armed Forces have issued a pronunciamento, denouncing the current government of Spain! They have launched a right-wing coup with the support of conservative monarchists and the clergy. A significant portion of the military has sided with these Nationalists, but so far they have failed to capture any of Spain's major cities with the exception of Sevilla.\\n\\nLeftist volunteers are meanwhile flocking to the banners of the Republican government, ready to support it against the rebels. These loyalists may be poorly trained, but no one can question their enthusiasm.\\n\\nThe battle-lines have been drawn - which faction should we support?"
+  },
+  {
+    "key": "spain.10.d",
+    "version": "",
+    "type": "desc",
+    "en": "After the peaceful election of General Francisco Franco as president of Spain, there was hope that recent years violent uprisings and political turmoil would be put to an end. Rumors that Franco would attempt to create a one-party dictatorship with himself as chief of state has been fueled by the sudden disappearances of several opposition leaders.\\nAfter a swift trial, Carabineros officer José Galánfor was convicted of treason and his public execution followed shortly after. Though it was meant as a move to stamp out any will to resist the rise of Nationalist Spain it had the opposite effect. Leftist volunteers and even a group of generals have flocked to the banners of the newly formed People's Army, ready to support the fight against the oppressive Nationalists. Though most are poorly trained, they have managed to capture several key cities in the chaos that ensued the uprising.\\n\\nThe battle-lines have been drawn - which faction should we support?"
+  },
+  {
+    "key": "spain.2.t",
+    "version": "",
+    "type": "title",
+    "en": "Seek International Support?"
+  },
+  {
+    "key": "spain.2.d",
+    "version": "",
+    "type": "desc",
+    "en": "The coup has not been a complete success, but Carlists, Falangists and the Confederation of the Autonomous Right have managed to mobilize a large part of the army to overthrow the Republic, which has too long allowed our proud Christian nation to fall apart into anarchy. The outcome is still uncertain, with the world watching with concern which side will emerge victorious.\\n\\nWe did not execute this coup by standing idly by, however, and neither should the world if it wants to crush the red threat. Other nations in the same process of restoring their national glory should be willing to come to our aid."
+  },
+  {
+    "key": "spain.3.d",
+    "version": "",
+    "type": "desc",
+    "en": "Reactionary and fascist forces in the military have sought to crush the Republic in one swift blow, but did not expect the resistance they met in major cities nor the rapid mobilization of workers' militias. Rather than a coup, they have started a war, war on progress and the future the Spanish people wanted.\\n\\nDemocratic and socialist nations alike voice support for the Republic, but few dare commit to direct involvement. We could ask them to support our endeavor, or the oppressors will come for their liberty and solidarity next."
+  },
+  {
+    "key": "spain.4.t",
+    "version": "",
+    "type": "title",
+    "en": "Nationalist Spain Wants Our Help"
+  },
+  {
+    "key": "spain.4.d",
+    "version": "",
+    "type": "desc",
+    "en": "The Spanish Civil War has become a sort of microcosm for our view of the global situation: Communists and liberals seek to destroy old values, and we take up arms to revive them. It is not surprising that the Nationalists in Spain have reached out to us and others to equip them for the coming conflict."
+  },
+  {
+    "key": "spain.5.t",
+    "version": "",
+    "type": "title",
+    "en": "Republican Spain Wants Our Help"
+  },
+  {
+    "key": "spain.5.d",
+    "version": "",
+    "type": "desc",
+    "en": "The attempt to overthrow the Second Spanish Republic is a clear signal that the fascists will not allow the flowers of progress to grow even where they naturally take root. The Republicans and their allies, a mix of democrats, communists and anarchists, have turned to us and other parts of the international community for help. Many nations who claim to defend democracy and liberty have withheld their support for fear of being dragged into the war. How do we respond?"
+  },
+  {
+    "key": "spain.6.t",
+    "version": "",
+    "type": "title",
+    "en": "Nationalist Spain Appreciates our Help"
+  },
+  {
+    "key": "spain.6.d",
+    "version": "",
+    "type": "desc",
+    "en": "Our lend-lease to Nationalist Spain has not gone unnoticed. Should they emerge victorious, we may find ourselves with a strong ally once Spain is rebuilt."
+  },
+  {
+    "key": "spain.7.t",
+    "version": "",
+    "type": "title",
+    "en": "Republican Spain Appreciates our Help"
+  },
+  {
+    "key": "spain.7.d",
+    "version": "",
+    "type": "desc",
+    "en": "Our lend-lease to Republican Spain has not gone unnoticed. If the Republic is restored, we can trust they will support our continued efforts to rid the world of fascist scum."
+  },
+  {
+    "key": "spain.8.t",
+    "version": "",
+    "type": "title",
+    "en": "Madrid Reclaimed"
+  },
+  {
+    "key": "spain.8.d",
+    "version": "",
+    "type": "desc",
+    "en": "The war is won. Madrid is ours again and we have opportunity to make the age old city the center of Spain once again. It has seen much battle and will require rebuilding. What better way to do this than making it our capital?"
+  },
+  {
+    "key": "spain.9.t",
+    "version": "",
+    "type": "title",
+    "en": "Spanish Election of 1936"
+  },
+  {
+    "key": "spain.9.d",
+    "version": "",
+    "type": "desc",
+    "en": "The Second Republic has proven to be a fragile existence. [Root.GetLeader] can be president with the backing of the Popular Front, a broad coalition of left-wing groups supported by republicans, communists and anarchists.\\n\\nBut the right-wing opposition, encompassing conservatives, monarchists and fascists, is also beginning to unite for the cause of bringing down the Popular Front. Whichever coalition falls apart, their opponents are likely to take advantage of their internal conflicts to launch a revolution. This election is not the final test Spain will have to endure to resolve this conflict."
+  },
+  {
+    "key": "low.1.t",
+    "version": "",
+    "type": "title",
+    "en": "France Extends Maginot Line"
+  },
+  {
+    "key": "low.1.d",
+    "version": "",
+    "type": "desc",
+    "en": "The French have decided to extend their Maginot Line west all the way to the English Channel! This clearly shows their intention to abandon us in case of a German invasion. Our embassy in Paris has lodged an official complaint, but it is doubtful whether it will have much impact."
+  },
+  {
+    "key": "finland.1.t",
+    "version": "",
+    "type": "title",
+    "en": "The [FROM.GetAdjective]s Demand [146.GetName]"
+  },
+  {
+    "key": "finland.1.d",
+    "version": "",
+    "type": "desc",
+    "en": "Citing the need to create a security buffer for [195.GetName], officials from [FROM.GetNameDef] have asked for a revision of our borders. They want us to cede Karelia to them, and judging by the build-up of [FROM.GetAdjective] forces along our border, they will not take no for an answer. How should we respond?"
+  },
+  {
+    "key": "finland.2.t",
+    "version": "",
+    "type": "title",
+    "en": "Request Swedish Assistance in War"
+  },
+  {
+    "key": "finland.2.d",
+    "version": "",
+    "type": "desc",
+    "en": "Finland and the Soviet Union are at war. After only a few decades of sovereignty, we now risk once again becoming the subject of one of our neighbors.\\n\\nThe threat of our enemy extends beyond our borders, however. Our neighbors in Sweden are still retaining a neutral stance towards the Soviet Union, but could perhaps be convinced to join us in defending our mutual legacy and secure their own strategic buffer."
+  },
+  {
+    "key": "finland.3.t",
+    "version": "",
+    "type": "title",
+    "en": "Finland Seeks Swedish Support"
+  },
+  {
+    "key": "finland.3.d",
+    "version": "",
+    "type": "desc",
+    "en": "Our neighbor Finland has refused to give in to pressures from the Soviet Union, and the nations are now in a state of war. Although no formal alliance has been agreed upon between our countries, the Finnish government has requested that Sweden contribute to a joint defense of Åland, which remains largely Swedish-speaking and strategically important to both countries.\\n\\nWhile the government remains divided on what steps we should take to help Finland, the public support for their defense is notable. How far are we willing to go to protect our fellow Nordic counties from eastern aggression?"
+  },
+  {
+    "key": "finland.4.t",
+    "version": "",
+    "type": "title",
+    "en": "Sweden Rejects Request"
+  },
+  {
+    "key": "finland.4.d",
+    "version": "",
+    "type": "desc",
+    "en": "The Swedish government has responded negatively to our request for aid in the war against the Soviet Union. Preferring to remain neutral to avoid international and internal repercussions, they are so far opposed to contributing to the war in any way."
+  },
+  {
+    "key": "finland.5.t",
+    "version": "",
+    "type": "title",
+    "en": "Sweden Sends Volunteers"
+  },
+  {
+    "key": "finland.5.d",
+    "version": "",
+    "type": "desc",
+    "en": "The Swedish government has been unwilling to join us in the war against the Soviet Union, but public support among our neighbors is still high, and many volunteers from the other Nordic countries have offered to join our ranks to aid the war effort. Although less than we hoped, at least there is some popular awareness about the threat we are facing."
+  },
+  {
+    "key": "finland.6.t",
+    "version": "",
+    "type": "title",
+    "en": "Sweden Joins Our War"
+  },
+  {
+    "key": "finland.6.d",
+    "version": "",
+    "type": "desc",
+    "en": "Our request to the Swedish government for a joint defense of Åland has been met above expectations. Sweden has joined us in war against the Soviet Union, refusing to remain neutral in the face of such a blatant threat. Despite internal disagreements, they will now fight with us side by side to secure continued Finnish sovereignty."
+  },
+  {
+    "key": "finland.7.t",
+    "version": "",
+    "type": "title",
+    "en": "Peace Negotiations With [SOV.GetNameDef]"
+  },
+  {
+    "key": "finland.7.d",
+    "version": "",
+    "type": "desc",
+    "en": "[Root.GetAdjective] communist Hella Wuolijoki has contacted our government and offered her help in establishing contact with the [SOV.GetAdjective] regime. A meeting has been set up in a secret location in Sweden, where we will be offered the opportunity to cede territory in return for continued [Root.GetAdjective] sovereignty. \\n\\nThe Finnish forces are rapidly depleting, and previous attempts to open a line of communication has been unsuccessful. This may be our only hope for a peaceful resolution to the conflict."
+  },
+  {
+    "key": "finland.8.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetNameDefCap] Offers Concessions"
+  },
+  {
+    "key": "finland.8.d",
+    "version": "",
+    "type": "desc",
+    "en": "The war with [From.GetNameDef] has been a costly affair, but as we have been able to push back the [From.GetAdjective] army, they have presented us with a compelling offer. We are given control of strategically important areas, but need to withdraw our troops and cease further hostilities.\\nThis will end our offensive on [From.GetNameDef] without full control over the region, but will in turn allow us to focus on extending our sphere of influence in other parts of the world."
+  },
+  {
+    "key": "finland.9.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetNameDefCap] Refuses"
+  },
+  {
+    "key": "finland.9.d",
+    "version": "",
+    "type": "desc",
+    "en": "The negotiations initiated with [From.GetNameDef] has broken down. It was obviously a ruse to waste our time while the [From.GetAdjective] army positioned for yet another assault on [Root.GetAdjective] territory.\\n\\n[Root.GetNameDef] will stand tall and fight till the bitter end."
+  },
+  {
+    "key": "finland.10.t",
+    "version": "",
+    "type": "title",
+    "en": "The Winter War"
+  },
+  {
+    "key": "finland.10.d",
+    "version": "",
+    "type": "desc",
+    "en": "Finally, the territorial ambitions of [SOV.GetNameDef] have culminated in the invasion of our country by this most vile enemy. We must take all measures in our power to form a solid defense against this ruthless attack. Let them pay for every step forward in our land!"
+  },
+  {
+    "key": "romania.1.t",
+    "version": "",
+    "type": "title",
+    "en": "[FROM.GetNameDefCap] Demands Bessarabia"
+  },
+  {
+    "key": "romania.1.d",
+    "version": "",
+    "type": "desc",
+    "en": "[FROM.GetAdjective] forces are concentrating on the other side of our border, and their diplomats have demanded that we cede all of Bessarabia to them! We cannot expect the Germans to intervene, as their pact with the Russians apparently contained a secret protocol that put us inside the [FROM.GetAdjective] sphere of interest. Should we resist?"
+  },
+  {
+    "key": "romania.2.t",
+    "version": "",
+    "type": "title",
+    "en": "Second Vienna Award"
+  },
+  {
+    "key": "romania.2.d",
+    "version": "",
+    "type": "desc",
+    "en": "Germany has been brought in to mediate our territorial dispute with Hungary, and at the Second Vienna Award they decided that Northern Transylvania should be returned to Hungarian control. Should we accept this decision?"
+  },
+  {
+    "key": "romania.3.d",
+    "version": "",
+    "type": "desc",
+    "en": "Germany has been brought in to mediate our territorial dispute with Hungary, and at the Second Vienna Award they outrageously decided that all of Transylvania should be restored to Hungarian rule! Should we accept this decision?"
+  },
+  {
+    "key": "romania.4.t",
+    "version": "",
+    "type": "title",
+    "en": "Germany Mediates Dispute"
+  },
+  {
+    "key": "romania.4.d",
+    "version": "",
+    "type": "desc",
+    "en": "Germany has been brought in to mediate our territorial dispute with Hungary, and they have wisely decided that Transylvania should remain under Romanian control. The Hungarians are not pleased, but hopefully this will settle the matter once and for all."
+  },
+  {
+    "key": "romania.5.t",
+    "version": "",
+    "type": "title",
+    "en": "Treaty of Craiova"
+  },
+  {
+    "key": "romania.5.d",
+    "version": "",
+    "type": "desc",
+    "en": "Bulgarian diplomats have come forward, with German backing, requesting the return of Southern Dobrudja - territory we annexed from them in 1913 after the Second Balkan War. The concessions we have already been forced to make seem to have spurred this request."
+  },
+  {
+    "key": "romania.6.t",
+    "version": "",
+    "type": "title",
+    "en": "A Hard Choice"
+  },
+  {
+    "key": "romania.6.d",
+    "version": "",
+    "type": "desc",
+    "en": "We have lost so much territory to our rapacious neighbors. Still, there are opportunities to recover some of the lost land, with interest. All we have to do is pick the right side. "
+  },
+  {
+    "key": "baltic.1.t",
+    "version": "",
+    "type": "title",
+    "en": "[FROM.GetAdjective] Ultimatum"
+  },
+  {
+    "key": "baltic.1.d",
+    "version": "",
+    "type": "desc",
+    "en": "[FROM.GetNameDefCap] is pressuring us to sign a 'mutual assistance' treaty with them, which would give them the right to station forces inside our territory! This is nothing but a thinly veiled attempt to annex our country, but we can offer little resistance to the forces they have stationed on our border."
+  },
+  {
+    "key": "baltic.4.t",
+    "version": "",
+    "type": "title",
+    "en": "Germany Demands Memel"
+  },
+  {
+    "key": "baltic.4.d",
+    "version": "",
+    "type": "desc",
+    "en": "German forces are massing in Ostpreussen, and their Foreign Ministry has presented us with an ultimatum! We are to immediately cede the Memel territory to them, or face the threat of military action. Should we agree to their demands?"
+  },
+  {
+    "key": "baltic.5.t",
+    "version": "",
+    "type": "title",
+    "en": "Communists In Control."
+  },
+  {
+    "key": "baltic.5.d",
+    "version": "",
+    "type": "desc",
+    "en": "[Root.GetName] has chosen solidarity and political power has been wrenched from the bourgeois. Many within the new government suggest that we fulfill our communist duties and become one with the Soviet Union."
+  },
+  {
+    "key": "baltic.7.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetName] Requests [Root.GetAdjective] Participation in the [From.GetFactionName]"
+  },
+  {
+    "key": "baltic.7.d",
+    "version": "",
+    "type": "desc",
+    "en": "With the signing of a treaty of friendship between our nations, [From.GetName] has requested that [Root.GetName] joins them in their [From.GetFactionName], to unite against the growing threats that surround our nations. Whether communist or fascist, [From.GetName] promises to stand up for [Root.GetAdjective] interests."
+  },
+  {
+    "key": "baltic.8.t",
+    "version": "",
+    "type": "title",
+    "en": "[SOV.GetNameDefCap] extends our control of the Baltic territories"
+  },
+  {
+    "key": "baltic.8.desc",
+    "version": "",
+    "type": "desc",
+    "en": "It is a great day for [ROOT.GetNameDef]! After the valiant campaign fought by our comrades, [SOV.GetNameDefCap] has rightfully declared that the newly liberated Baltic territory, along with its brave workers, will fall under our jurisdiction.\\n\\nThis brings us yet another step closer to a united Baltic State powerful enough to fight off the enemies of the working class."
+  },
+  {
+    "key": "hungary.1.t",
+    "version": "",
+    "type": "title",
+    "en": "German Arbitration"
+  },
+  {
+    "key": "hungary.1.d",
+    "version": "",
+    "type": "desc",
+    "en": "Despite our rightful claim, Germany has decided that Transylvania should remain under Romanian control. They say they are eager to right all the wrongs created at Versailles, but evidently this only holds true where their own borders are concerned."
+  },
+  {
+    "key": "hungary.2.t",
+    "version": "",
+    "type": "title",
+    "en": "Second Vienna Award"
+  },
+  {
+    "key": "hungary.2.d",
+    "version": "",
+    "type": "desc",
+    "en": "Germany has recognized the validity of our claim, as we knew they would, and Northern Transylvania has been returned to Hungary. This is a historic moment!"
+  },
+  {
+    "key": "hungary.3.d",
+    "version": "",
+    "type": "desc",
+    "en": "Germany has not only recognized the validity of our claim, but they have decided that all of Transylvania is to be returned to Hungarian control! This is more than we had dared hope for."
+  },
+  {
+    "key": "hungary.4.d",
+    "version": "",
+    "type": "desc",
+    "en": "Germany recognized the validity of our claim and awarded Northern Transylvania to us, but Romania has stubbornly refused to accept their decision!"
+  },
+  {
+    "key": "hungary.5.d",
+    "version": "",
+    "type": "desc",
+    "en": "Germany recognized the validity of our claim and awarded all of Transylvania to us, but Romania has stubbornly refused to accept this decision!"
+  },
+  {
+    "key": "hungary.6.t",
+    "version": "",
+    "type": "title",
+    "en": "First Ljubljana Award"
+  },
+  {
+    "key": "hungary.6.d",
+    "version": "",
+    "type": "desc",
+    "en": "The Germans may complain about the Treaty of Versailles but they got off lightly compared to the injustice of the Treaty of Trianon. Although they claimed it was about national self-determination, it condemned so many true sons of Hungary to foreign rule. One such wound on Hungarian pride is the province Vojvodina. The return of the lands back to Hungary have righted a wrong inflicted upon us."
+  },
+  {
+    "key": "bulgaria.1.t",
+    "version": "",
+    "type": "title",
+    "en": "Treaty of Craiova - Romania Agrees"
+  },
+  {
+    "key": "bulgaria.1.d",
+    "version": "",
+    "type": "desc",
+    "en": "The Romanian government has accepted German Arbitration in our dispute. Southern Dobrudja has been reunited with Bulgaria!"
+  },
+  {
+    "key": "bulgaria.2.t",
+    "version": "",
+    "type": "title",
+    "en": "Treaty of Craiova - Romania Refuses"
+  },
+  {
+    "key": "bulgaria.2.d",
+    "version": "",
+    "type": "desc",
+    "en": "The Romanian government has refused our offer to end all disputes! They claim that Southern Dobrudja now forms an integral part of their nation which they will never give up."
+  },
+  {
+    "key": "bulgaria.3.t",
+    "version": "",
+    "type": "title",
+    "en": "First Ljubljana Award"
+  },
+  {
+    "key": "bulgaria.3.d",
+    "version": "",
+    "type": "desc",
+    "en": "Long have we dreamt of a greater Bulgaria and long have we been treated as second class. Denied our just due at the London Conference, betrayed by our allies in 1913, punished for wanting justice in 1918. Well no longer, Germany seeks to right the wrongs of that so called peace, not just for herself but others too. Bulgaria will now see the return of Macedonia from Yugoslavia."
+  },
+  {
+    "key": "bulgaria.4.t",
+    "version": "",
+    "type": "title",
+    "en": "Treaty Of Craiova"
+  },
+  {
+    "key": "bulgaria.4.d",
+    "version": "",
+    "type": "desc",
+    "en": "We have not forgotten on how Romania stabbed us the back in 1913 and cowardly took Southern Dobrudja while our armies were occupied elsewhere. Hungary has used her friendship with Germany to gain revenge on Romania, is it our time now?"
+  },
+  {
+    "key": "bulgaria.5.t",
+    "version": "",
+    "type": "title",
+    "en": "Treaty Of Craiova"
+  },
+  {
+    "key": "bulgaria.5.d",
+    "version": "",
+    "type": "desc",
+    "en": "Germany has chosen to side with despicable Romanians in our quest for justice. [Root.GetLeader] has let the German ambassador know that Bulgarian expects more from her friends. "
+  },
+  {
+    "key": "ace_promoted.1.t",
+    "version": "",
+    "type": "title",
+    "en": "Ace Pilot Promoted"
+  },
+  {
+    "key": "ace_promoted.2.t",
+    "version": "",
+    "type": "title",
+    "en": "A Wild Ace Appears"
+  },
+  {
+    "key": "ace_promoted.1.d",
+    "version": "",
+    "type": "desc",
+    "en": "Few take as many risks as the brave pilots of the [Root.GetAdjective] air force. [From.GetName] [From.GetSurname], a skilled pilot known under the callsign [From.GetCallsign], has distinguished [From.GetHerselfHimself] in not only returning alive from the recent mission over [From.GetMissionRegion], but living through significant victories in many critical encounters.\\n\\nHeld up as a shining example of [Root.GetAdjective] courage, [From.GetName]'s recent promotion has been highly publicized. Although the people may view war as more hell than glory, many are glad to see that there are still heroes to rally behind."
+  },
+  {
+    "key": "ace_promoted.1.d_major",
+    "version": "",
+    "type": "desc",
+    "en": "Few take as many risks as the brave pilots of the [Root.GetAdjective] air force. [From.GetName] [From.GetSurname], a skilled pilot known under the callsign [From.GetCallsign], has distinguished [From.GetHerselfHimself] in not only returning alive, but piloting [From.GetHerHis] [From.GetWing] with immense skill. Recently, [From.GetName] was on a mission over [From.GetMissionRegion] and was instrumental to the success of this critical encounter.\\n\\nHeld up as a shining example of [Root.GetAdjective] courage, [From.GetName]'s recent promotion has been highly publicized. Although the people may view war as more hell than glory, many are glad to see that there are still heroes to rally behind."
+  },
+  {
+    "key": "ace_died.1.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetCallsign] Killed Over [From.GetMissionRegion]"
+  },
+  {
+    "key": "ace_died.1.d",
+    "version": "",
+    "type": "desc",
+    "en": "One of [From.Owner.GetName]'s most famous [From.GetAceType] aces, [From.GetFullName], has gone down in flames in the line of duty, during a mission over [From.GetMissionRegion]. Unfortunately, since [From.GetSheHe] has long since been a public figure, the demise of [From.GetCallsign] is severely demoralizing to the many people who looked up to [From.GetHerHim].\\n\\nWhile we wish there was a way to hide this event from the people, the lack of public appearances from [From.GetName] would soon raise suspicion. Ultimately, [From.GetHerHis] death is another part of a legend that will hopefully live on long past our current troubles."
+  },
+  {
+    "key": "ace_died.1.d_major",
+    "version": "",
+    "type": "desc",
+    "en": "One of [From.Owner.GetName]'s most famous [From.GetAceType] aces, [From.GetFullName], has gone down in the line of duty. Pilots returning from the mission report having spotted [From.GetHerHis] [From.GetWingShort] going down in flames over [From.GetMissionRegion] after taking heavy enemy fire. Unfortunately, since [From.GetSheHe] has long since been a public figure, the demise of [From.GetCallsign] is severely demoralizing to the many people who looked up to [From.GetHerHim].\\n\\nWhile we wish there was a way to hide this event from the people, the lack of public appearances from [From.GetName] would soon raise suspicion. Ultimately, [From.GetHerHis] death is another part of a legend that will hopefully live on long past our current troubles."
+  },
+  {
+    "key": "ace_killed_by_ace.1.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetFullName] Shot Down By [Prev.GetCallsign]"
+  },
+  {
+    "key": "ace_killed_by_ace.1.d",
+    "version": "",
+    "type": "desc",
+    "en": "Pilots returning from [From.GetMissionRegion] report that a squadron of [Prev.Owner.GetAdjective] aircraft, led by the infamous [Prev.GetCallsign], focused on chasing down [From.GetCallsign]. After dodging several burst from the [Prev.Owner.GetAdjective]s and taking down a number of enemy aircraft, [From.GetCallsign] was overwhelmed by [Prev.GetCallsign], who reportedly outmaneuvered [From.GetHerHim] and ripped the fuel tanks open with a clean hit. [From.GetName] [From.GetSurname]'s plane caught fire and went spiraling down over [From.GetMissionRegion] in a violent inferno.\\n\\n[From.GetFullName] has shown great courage throughout [From.GetHerHis] service and was looked up to by many. The loss of this national hero is a great blow to the [From.Owner.GetAdjective] air force and is a devastating blow to our nation as a whole. Knowing that while we grieve, [Prev.Owner.GetName] is celebrating [Prev.GetFullName] as a hero, makes the tragedy even greater."
+  },
+  {
+    "key": "ace_killed_by_ace.1.d_major",
+    "version": "",
+    "type": "desc",
+    "en": "Pilots returning from [From.GetMissionRegion] report that, a squadron of [Prev.Owner.GetAdjective] aircraft led by the infamous [Prev.GetCallsign] focused on chasing down [From.GetCallsign]. After taking down a number of enemy aircraft and dodging several burst from the [Prev.Owner.GetAdjective]s, [From.GetCallsign] was overwhelmed by [Prev.GetCallsign] in his [Prev.GetWingShort], who reportedly outmaneuvered [From.GetHerHim] and ripped the fuel tanks open with a clean hit. [From.GetName] [From.GetSurname]'s [From.GetWingShort] caught fire and went spiraling down over [From.GetMissionRegion] in a violent inferno.\\n\\n[From.GetFullName] has shown great courage throughout [From.GetHerHis] service and was looked up to by many. The loss of this national hero is a great blow to the [From.Owner.GetAdjective] air force and is a devastating blow to our nation as a whole. Knowing that while we grieve, [Prev.Owner.GetName] is celebrating [Prev.GetFullName] as a hero, makes the tragedy even greater."
+  },
+  {
+    "key": "ace_killed_other_ace.1.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetFullName] Shot Down [Prev.GetCallsign]"
+  },
+  {
+    "key": "ace_killed_other_ace.1.d",
+    "version": "",
+    "type": "desc",
+    "en": "Our latest mission over [From.GetMissionRegion] was a great success for the [From.Owner.GetAdjective] air force in more than one aspect. Reports have come in highlighting [From.GetFullName]'s heroic deed, managing to outwit the [Prev.Owner.GetAdjective] pilot, [Prev.GetName] [Prev.GetSurname], known as [Prev.GetCallsign]. [From.GetCallsign] used [From.GetHerselfHimself] as bait and lured [Prev.GetCallsign] into a trap where the [From.Owner.GetAdjective] pilots were able to dive on [Prev.GetCallsign]'s squadron. [From.GetCallsign] proceeded to outmaneuver the [Prev.Owner.GetAdjective] aircraft and with a single burst sent [Prev.GetCallsign] spiraling from the skies of [From.GetMissionRegion].\\n\\n[Prev.GetFullName] was a feared pilot with many [From.Owner.GetAdjective] lives on [Prev.GetHerHis] conscience. This is a great victory and shows that when we rally behind great heroes, they perform great deeds."
+  },
+  {
+    "key": "ace_killed_other_ace.1.d_major",
+    "version": "",
+    "type": "desc",
+    "en": "Our latest mission over [From.GetMissionRegion] was a great success for the [From.Owner.GetAdjective] air force in more than one aspect. Reports have come in highlighting [From.GetFullName]'s heroic deed, managing to outwit the [Prev.Owner.GetAdjective] pilot, [Prev.GetName] [Prev.GetSurname], known as [Prev.GetCallsign]. [From.GetCallsign] used [From.GetHerselfHimself] as bait and lured [Prev.GetCallsign] into a trap where the [From.Owner.GetAdjective] pilots were able to dive on [Prev.GetCallsign]'s squadron. [From.GetCallsign] proceeded to outmaneuver the [Prev.Owner.GetAdjective] aircraft and with a single burst sent [Prev.GetCallsign] spiraling from the skies of [From.GetMissionRegion].\\n\\n[Prev.GetFullName] was a feared pilot with many [From.Owner.GetAdjective] lives on [Prev.GetHerHis] conscience. This is a great victory and shows that when we rally behind great heroes, they perform great deeds."
+  },
+  {
+    "key": "aces_killed_each_other.1.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetFullName] has gone down"
+  },
+  {
+    "key": "aces_killed_each_other.1.d",
+    "version": "",
+    "type": "desc",
+    "en": "During the latest mission our famous [From.GetAceType] ace [From.GetFullname] ended up in a prolonged fight with the feared ace pilot, [Prev.GetFullName]. Being low on munitions and with no possibility of escape, [From.GetCallsign] maneuvered through the fire from the [Prev.Owner.GetAdjective] aircraft and proceeded to ram [Prev.GetCallsign].\\nBoth [From.GetCallsign]'s and [Prev.GetCallsign]'s planes were spotted going down in pieces over [From.GetMissionRegion].\\n\\nWhile it is a small consolation that the [Prev.Owner.GetAdjective] menace, [Prev.GetCallsign], will no longer be a nuisance to us, we have lost a valued public figure and inspiration to all [From.Owner.GetAdjective]."
+  },
+  {
+    "key": "aces_killed_each_other.1.d_major",
+    "version": "",
+    "type": "desc",
+    "en": "During the latest mission our famous [From.GetAceType] ace [From.GetFullname] ended up in a prolonged fight with the feared ace pilot, [Prev.GetFullName]. Being low on munitions and with no possibility of escape, [From.GetCallsign] maneuvered [From.GetHerHis] [From.GetWingShort] through the fire from the [Prev.Owner.GetAdjective] aircraft and proceeded to ram [Prev.GetCallsign].\\nBoth [From.GetCallsign]'s [From.GetWingShort] and [Prev.GetCallsign]'s [Prev.GetWingShort] were spotted going down in pieces over [From.GetMissionRegion].\\n\\nWhile it is a small consolation that the [Prev.Owner.GetAdjective] menace, [Prev.GetCallsign], will no longer be a nuisance to us, we have lost a valued public figure and inspiration to all [From.Owner.GetAdjective]."
+  },
+  {
+    "key": "election.1.t",
+    "version": "",
+    "type": "title",
+    "en": "GENERIC ELECTION"
+  },
+  {
+    "key": "election.1.d",
+    "version": "",
+    "type": "desc",
+    "en": ""
+  },
+  {
+    "key": "election.2.t",
+    "version": "",
+    "type": "title",
+    "en": "Election: Public Opposes Rearmament"
+  },
+  {
+    "key": "election.2.d",
+    "version": "",
+    "type": "desc",
+    "en": "In the upcoming election, support for [Root.GetRulingParty] is still high, the people having confidence in [Root.GetLeader]'s leadership. However, the party's pursuit of increasing [Root.GetName]'s focus on military matters has not been entirely popular with the public, with a significant segment of the citizens considering this ill-advised jingoism. War is yet to reach our border and few would like to see [Root.GetName] take aggressive action. Cooperating with other major parties who share our concerns for the safety of the nation, we will still be able to rule after the election, albeit with diminished support."
+  },
+  {
+    "key": "election.3.t",
+    "version": "",
+    "type": "title",
+    "en": "Election: Public Demands Rearmament"
+  },
+  {
+    "key": "election.3.d",
+    "version": "",
+    "type": "desc",
+    "en": "The ongoing war approaching our borders has loomed over the upcoming election, with many voters being concerned that [Root.GetName] is not prepared for being thrown into this conflict or whatever may arise from it. They demand we increase our precautions and ensure that our nation is ready for war. While the majority still support [Root.GetRulingParty], we may lose them to more radical elements if we don't alleviate their apprehensions."
+  },
+  {
+    "key": "election.4.t",
+    "version": "",
+    "type": "title",
+    "en": "Election: Fascists in Government?"
+  },
+  {
+    "key": "election.4.d",
+    "version": "",
+    "type": "desc",
+    "en": "An aggressively nationalist sentiment has grown in [Root.GetName], giving rise to several parties promoting fascist ideals: a state enforcing its power through force. One of these in particular has won favor in the current election, leading to discussions within the [Root.GetRulingParty] party about whether or not we should try to cooperate with them in forming our government. While they openly reject the democratic ideals that are the foundation of our state, the fact that they choose to participate in the election itself lends some credibility to our views and acknowledging their public support may keep them away from taking violent action."
+  },
+  {
+    "key": "election.5.t",
+    "version": "",
+    "type": "title",
+    "en": "Election: Communists in Government?"
+  },
+  {
+    "key": "election.5.d",
+    "version": "",
+    "type": "desc",
+    "en": "The communist movement in [Root.GetName], fueled by broad dissatisfaction among the working class and radical trends among academics, has grown large enough to lead to the formation of several parties. After one of these has gained considerable support in the current election, politicians in [Root.GetRulingParty] have started debating whether or not to seek their support in forming a government. Although they consider our democratic institutions to be little more than bourgeois tyranny, they seem eager to make the changes they want to see through cooperating with the government rather than overthrowing it."
+  },
+  {
+    "key": "election.6.t",
+    "version": "",
+    "type": "title",
+    "en": "Election: Democratic Parties in Minority"
+  },
+  {
+    "key": "election.6.d",
+    "version": "",
+    "type": "desc",
+    "en": "Politics in [Root.GetName] have grown increasingly radicalized. Where there was once broad support for the parties which supported democratic ideals and [Root.GetName]'s representative institutions, more voters have turned to the political extremes in this election. The parties in the political middle, even if they choose to set aside their differences, no longer form a majority. To avoid a weak minority government, we have no choice but to cooperate with either fascists or communists."
+  },
+  {
+    "key": "election.7.t",
+    "version": "",
+    "type": "title",
+    "en": "Fascists Influence Foreign Policy"
+  },
+  {
+    "key": "election.7.d",
+    "version": "",
+    "type": "desc",
+    "en": "Accepting the fascists into our political coalition has had an impact on our foreign policy. Despite their vehement nationalism, they have sympathizers abroad who approve of the influence they've been given in [Root.GetName]. Totalitarian governments of similar ideological leanings see us as potential allies. Maintaining ties to these nations, no matter the distaste [Root.GetRulingParty] may have for their ideals, may be necessary to retain the support of the fascists backing our government."
+  },
+  {
+    "key": "election.8.t",
+    "version": "",
+    "type": "title",
+    "en": "Communists Influence Foreign Policy"
+  },
+  {
+    "key": "election.8.d",
+    "version": "",
+    "type": "desc",
+    "en": "Communists often consider themselves to be part of an international revolution, and our choice to accept them as partners in our government has drawn the attention of many of their international allies. Representatives of communist parties maintain close ties to nations which have abandoned our form of government in favor of a dictatorship of the proletariat, ties which we may need to acknowledge in [Root.GetAdjective] foreign policy if we wish to retain their support."
+  },
+  {
+    "key": "election.11.t",
+    "version": "",
+    "type": "title",
+    "en": "Election: Fascist Majority"
+  },
+  {
+    "key": "election.11.d",
+    "version": "",
+    "type": "desc",
+    "en": "This election has been devastating for the very institution it represents. The majority of the [Root.GetAdjective] population have cast their vote in favor of a fascist party that seeks to abolish elections and install an autocratic ruler. While many consider taking up arms against this violation of the democratic ideals that allowed them this mandate to begin with, others consider the use of violence to only confirm their ideals further."
+  },
+  {
+    "key": "election.12.t",
+    "version": "",
+    "type": "title",
+    "en": "Election: Communist Majority"
+  },
+  {
+    "key": "election.12.d",
+    "version": "",
+    "type": "desc",
+    "en": "The current election has resulted in victory for the communist parties, with mixed reactions from the former administration. While the new rulers claim to represent the people as a whole, they view many of the democratic institutions we cherish as attempts to manipulate and oppress the working class, leading to discussion about what truly constitutes a 'rule of the people'. In some nations, the revolution began in rivers of blood. In [Root.GetName] it didn't, but it may yet end in them."
+  },
+  {
+    "key": "election.13.t",
+    "version": "",
+    "type": "title",
+    "en": "Election: Magnate Favors Fascism"
+  },
+  {
+    "key": "election.13.d",
+    "version": "",
+    "type": "desc",
+    "en": "An influential industrialist behind one of the companies we have chosen to work with for our industrial production has recently made a number of statements on politics that members of the administration found troubling. He has openly advocated an authoritarian government and praised foreign administrations that identify as fascist, implicitly suggesting that [Root.GetName] would benefit from such rulership. Denouncing the magnate and his ideals might sour our relationship with the company, but leaving them unchecked would give him a platform for spreading propaganda that erodes all that [Root.GetRulingParty] stands for."
+  },
+  {
+    "key": "election.14.t",
+    "version": "",
+    "type": "title",
+    "en": "Election: Wartime Exception"
+  },
+  {
+    "key": "election.14.d",
+    "version": "",
+    "type": "desc",
+    "en": "[Root.GetName] is in a state of war. Normally, an election would be held at this time, but being in the midst of an important conflict many argue that cannot afford to spend time on political campaigning, or a change of leadership if that should come about. Meanwhile, others claim that declaring the ongoing war a valid reason for skipping elections is the first step towards eroding [Root.GetAdjective] democracy. After all, letting military matters take precedence over the people's influence could be a slippery slope."
+  },
+  {
+    "key": "election.15.t",
+    "version": "",
+    "type": "title",
+    "en": "Election: Government Contested"
+  },
+  {
+    "key": "election.15.d",
+    "version": "",
+    "type": "desc",
+    "en": "With an upcoming election, people are beginning to question the capability of the current administration to pursue the ongoing war. [Root.GetName] has suffered greatly and popular opinion has turned against those who seem to be leading our nation to defeat. While our people are determined to see the war to the end, they would rather see another government ending it."
+  },
+  {
+    "key": "election.16.t",
+    "version": "",
+    "type": "title",
+    "en": "[Root.GetLeader] Enjoys Public Support"
+  },
+  {
+    "key": "election.16.d",
+    "version": "",
+    "type": "desc",
+    "en": "With the present election, the opposition, insofar as it exists, has criticized the increasingly authoritarian reign of [Root.GetRulingParty]. They question whether the electorate has any power at all, or if it's all just for show.\\n\\nHowever, the support for [Root.GetLeader] appears to remain high, and although the circumstances of the election are questioned by international community, it has not been contested domestically. It appears that even if [Root.GetName] is no longer ruled by the people, the people support their ruler... at least the ones who made it to the ballots."
+  },
+  {
+    "key": "election.17.t",
+    "version": "",
+    "type": "title",
+    "en": "Election Results Questioned"
+  },
+  {
+    "key": "election.17.d",
+    "version": "",
+    "type": "desc",
+    "en": "Although the [Root.GetLeader] regime has strong-armed most of its opponents into silence, some have still spoken out about the recent election, accusing the [Root.GetRulingParty] of rigging the results and ignoring the clear efforts to elect a parliament opposed to their policies.\\n\\nThe government brushes these objections aside as an effort to divide the people against itself. However, the fact remains that the majority of the people seem to have reservations about their rule, and the opposition, although silenced for now, has made its point."
+  },
+  {
+    "key": "yugoslavia.1.t",
+    "version": "",
+    "type": "title",
+    "en": "Back Coup in Yugoslavia"
+  },
+  {
+    "key": "yugoslavia.1.d",
+    "version": "",
+    "type": "desc",
+    "en": "The anti-Axis sentiment in Yugoslavia, which we have long tried to balance in an effort to make the country remain neutral and continue our cooperation with the current leadership, has reached a critical point with the nation's new efforts to cooperate with Germany. Despite several of Germany's allies having territorial interests in Yugoslavia, the leadership has chosen to allow German troops into their country.\\n\\nAn initiative in the Yugoslav Air Force is seeking to overthrow the German-friendly government. Although this could risk destabilizing the region further, it would put a stop to their cooperation with Germany. Should our intelligence operatives support the coup, or try to convince the anti-German faction to hold it off?"
+  },
+  {
+    "key": "yugoslavia.2.t",
+    "version": "",
+    "type": "title",
+    "en": "Coup d'état"
+  },
+  {
+    "key": "yugoslavia.2.d",
+    "version": "",
+    "type": "desc",
+    "en": "As [Root.GetLeader] has tried to remain on friendly terms with Germany, domestic resentment for cooperation with the Germans has grown. Serb nationalists in particular have opposed this diplomatic direction, and popular opposition has been vocal. Today, military officials in the air force attempted a coup, pronouncing the young King Peter II to be of age and putting him on the throne. Encouraged by the intelligence agencies of Germany's enemies, the coup aims to cut short our agreements. This may mean war."
+  },
+  {
+    "key": "yugoslavia.3.t",
+    "version": "",
+    "type": "title",
+    "en": "London Conference"
+  },
+  {
+    "key": "yugoslavia.3.d",
+    "version": "",
+    "type": "desc",
+    "en": "Our hope that we would not face German threats alone have been realized. The might of the British Empire and her allies will stand with us."
+  },
+  {
+    "key": "yugoslavia.3.d_FRA_abandoned_yugoslavia",
+    "version": "",
+    "type": "desc",
+    "en": "Our hope that we would not face German threats alone have been realized. The might of the British Empire and her allies will stand with us. Sadly France has chosen the coward's path."
+  },
+  {
+    "key": "yugoslavia.4.d",
+    "version": "",
+    "type": "desc",
+    "en": "Our hope that we would not face German threats alone have been realized. Although the waning might of the British Empire is not with us, the powerful French Empire will stand alongside us."
+  },
+  {
+    "key": "yugoslavia.5.t",
+    "version": "",
+    "type": "title",
+    "en": "London Diktat!"
+  },
+  {
+    "key": "yugoslavia.5.d",
+    "version": "",
+    "type": "desc",
+    "en": "In the face of a resurgent Germany who tears up the treaties that kept have the peace. The cowards in the west throw us to the wolves in hope that we will appease their hunger. History will judge them unkindly, but now we must choose our fate."
+  },
+  {
+    "key": "yugoslavia.6.t",
+    "version": "",
+    "type": "title",
+    "en": "London Conference"
+  },
+  {
+    "key": "yugoslavia.6.d",
+    "version": "",
+    "type": "desc",
+    "en": "When all others have deserted us only Italy stands with us. This is now our truest friend and we will fight together."
+  },
+  {
+    "key": "yugoslavia.7.t",
+    "version": "",
+    "type": "title",
+    "en": "Fate Of Yugoslavia"
+  },
+  {
+    "key": "yugoslavia.7.d",
+    "version": "",
+    "type": "desc",
+    "en": "[From.GetNameDefCap] demands that we hand over full control of our country to them. All citizens of Yugoslavia will in essence become German and we will no longer have any influence. We can chose to stand our ground here and hope that help will come, but this may very well be the only way to avoid a slaughter of the Yugoslav people."
+  },
+  {
+    "key": "yugoslavia.8.d",
+    "version": "",
+    "type": "desc",
+    "en": "[From.GetNameDefCap] demands that we hand over full control of our country. The citizens of Yugoslavia will in essence become citizens of [From.GetNameDef] or one of their puppet states. We can chose to stand our ground here and hope that help will come, but this may very well be the only way to avoid a slaughter of the Yugoslav people."
+  },
+  {
+    "key": "yugoslavia.9.d",
+    "version": "",
+    "type": "desc",
+    "en": "[From.GetNameDefCap] demands that we cede territory to a newly formed Croatian government, controlled by [From.GetNameDef]. They also demand we implement major government reforms, which will allow us to govern the citizens of Yugoslavia, but with heavy [From.GetAdjective] influence on our politics. We can chose to stand our ground here and hope that help will come, but this may very well be the only way to avoid a slaughter of the Yugoslav people."
+  },
+  {
+    "key": "nuke_dropped.1.t",
+    "version": "",
+    "type": "title",
+    "en": "Atomic Bombing of [From.From.GetName]"
+  },
+  {
+    "key": "nuke_dropped.1.d",
+    "version": "",
+    "type": "desc",
+    "en": "For the first and hopefully last time in history, a nuclear bomb has been detonated in [From.From.GetName] as part of international warfare conducted by [?global.nukecountry.GetNameDef]. The unprecedented destruction stands as a testament to the devastating power of this new weapon, which is feared not only for what it can do to its targets, but what implications it has for the one who deploys it and for humanity itself.\\n\\nThe world holds its breath waiting for what will come next. Will this force [From.From.Owner.GetNameDef] to surrender to avoid further terror, or will it only strengthen their resolve to strike back against those who would resort to such measures?"
+  },
+  {
+    "key": "nuke_dropped.2.t",
+    "version": "",
+    "type": "title",
+    "en": "Atomic Bombing of Hiroshima"
+  },
+  {
+    "key": "nuke_dropped.2.d",
+    "version": "",
+    "type": "desc",
+    "en": "\"The streets were like a scene from hell.\"\\n - Kuniyoshi Aikawa\\n\\nToday, a nuclear bomb was detonated over the city of Hiroshima at an altitude of 580 meters, launched by [?global.nukecountry.GetNameDef]. More than two thirds of the city were instantly destroyed. Despite the city being built to withstand earthquakes, only a few sturdy structures survived the blast.\\n\\nWhile the power of the atomic bomb has been played up in the public mind, the human cost of the weapon has been played down. Neither side wants to contemplate the horror of the event, but its legacy will be one of lives lost in the blink of an eye and lasting fallout."
+  },
+  {
+    "key": "nuke_dropped.3.t",
+    "version": "",
+    "type": "title",
+    "en": "Atomic Bombing of Nagasaki"
+  },
+  {
+    "key": "nuke_dropped.3.d",
+    "version": "",
+    "type": "desc",
+    "en": "A nuclear bomb, originally intended for Kokura, was detonated today over the Nagasaki. Weather conditions forced the planes to divert their mission, a combination of smoke, clouds and technical difficulties being deciding factors in an event that may well change history.\\n\\nThe effects of the bomb were contained somewhat by the city's location in a valley, but the damage is still severe. Some military installations were struck, but the catastrophic civilian losses overshadow them by far. It may take decades before we know the long-term effects of this weapon with certainty. The threat posed by [?global.nukecountry.GetNameDef] knows no bounds."
+  },
+  {
+    "key": "nuke_dropped.4.t",
+    "version": "",
+    "type": "title",
+    "en": "Atomic Bombing of Berlin"
+  },
+  {
+    "key": "nuke_dropped.4.d",
+    "version": "",
+    "type": "desc",
+    "en": "Today, at [GetDateText], the German capital of Berlin was struck by a nuclear explosion, launched by [?global.nukecountry.GetNameDef]. The city has suffered several attacks, in this war and the last, but all else pale in comparison to this. Not since the Thirty Years' War has Berlin seen comparable devastation - considering its growth, this was seen as an impossibility.\\n\\nThe Führerbunker appears to have survived the blast at least partially due to the bomb detonating away from its planned epicenter, and [From.From.Owner.GetLeader] is rumored to still be alive, if outraged. How [From.From.Owner.GetAdjective] leaders should be evacuated and if they can be protected from the fallout is another matter, however."
+  },
+  {
+    "key": "nuke_dropped.5.t",
+    "version": "",
+    "type": "title",
+    "en": "Atomic Bombing of London"
+  },
+  {
+    "key": "nuke_dropped.5.d",
+    "version": "",
+    "type": "desc",
+    "en": "A nuclear explosion has devastated the city of London today. Despite the city's anti-air defenses, [From.From.Owner.GetNameDef] was not prepared for this attack initiated by [?global.nukecountry.GetNameDef]. At [GetDateText], Big Ben chimed for the last time, having been melted by the blast. Early reports suggest Buckingham Palace has been completely leveled and the whereabouts of the royal family are currently unknown.\\n\\n[From.From.Owner.GetLeader] has nevertheless been confirmed to have survived and is preparing a rousing speech for the radio later today. With morale at an all-time low, the British people is in dire need of this - or a very eloquent surrender."
+  },
+  {
+    "key": "nuke_dropped.6.t",
+    "version": "",
+    "type": "title",
+    "en": "Atomic Bombing of Kyoto"
+  },
+  {
+    "key": "nuke_dropped.6.d",
+    "version": "",
+    "type": "desc",
+    "en": "The city of Kyoto, a prominent [From.From.Owner.GetAdjective] industrial center, was struck today by a nuclear bomb launched by [?global.nukecountry.GetNameDef]. It is speculated that the city was chosen as a target because it has been regarded as an intellectual center.\\n\\nThe beauty and historical significance of the Kyoto led many to assume it would be spared from the bomb, but it appears the terror of raining destruction on such a place has rather been seen as a benefit, increasing the psychological impact of the attack. The city's location in the valley somewhat limited the blast, but the old Imperial Palace and many industrial buildings have been completely destroyed."
+  },
+  {
+    "key": "nuke_dropped.7.t",
+    "version": "",
+    "type": "title",
+    "en": "Atomic Bombing of Tokyo"
+  },
+  {
+    "key": "nuke_dropped.7.d",
+    "version": "",
+    "type": "desc",
+    "en": "Today, a nuclear strike was directed at the heart of the Japanese Empire by [?global.nukecountry.GetNameDef]. The capital of Tokyo, although expected to be the target of firebombing, was never assumed to be a prioritized target of this new weapon. Yet ultimately, perhaps due to the significance of the new capital and Imperial Palace which has now been destroyed, an even more all-consuming fire has fallen on the city.\\n\\nAlthough [From.From.Owner.GetLeader] is reported to have survived, the event has raised questions about how far Japan's enemies are willing to go. If the war does not end with this, what targets remain? What is left to threaten with?"
+  },
+  {
+    "key": "nuke_dropped.8.t",
+    "version": "",
+    "type": "title",
+    "en": "Atomic Bombing of Washington D.C."
+  },
+  {
+    "key": "nuke_dropped.8.d",
+    "version": "",
+    "type": "desc",
+    "en": "A nuclear bomb was detonated today over the capital of the United States. In an attack clearly directed at the political center and historical legacy of the US, the White House, the Capitol and a number of monuments and memorials were wiped off the face of the Earth by their enemy, [?global.nukecountry.GetNameDef]. Even the Burning of Washington over a century ago pales in comparison to the destruction visited upon the city by this devastating weapon.\\n\\nAlthough President [From.From.Owner.GetLeader] has been brought to safety, the nation has been shaken to its core. No doubt, the US hoped to be the first and only country to wield such a weapon. Those hopes have now been shattered in the worst possible way."
+  },
+  {
+    "key": "nuke_dropped.9.t",
+    "version": "",
+    "type": "title",
+    "en": "Atomic Bombing of Rome"
+  },
+  {
+    "key": "nuke_dropped.9.d",
+    "version": "",
+    "type": "desc",
+    "en": "A nuclear explosion struck the city of Rome today, shocking people around the world, in an unprecedented attack by [?global.nukecountry.GetNameDef]. Due to its historical and artistic treasures, many had never thought the ancient city would be the target of such indiscriminate destruction. With the Vatican City also partially destroyed and the whereabouts of the Pope unknown, the event has horrified not only Italians, but Catholics around the world.\\n\\nRome's rapid growth in the past decade has been nearly completely undone by the attack. For a while, it looked like the city could aid the nation's recovery after the war was over. Those hopes have now been turned to dust, along with many people."
+  },
+  {
+    "key": "nuke_dropped.10.t",
+    "version": "",
+    "type": "title",
+    "en": "Atomic Bombing of Paris"
+  },
+  {
+    "key": "nuke_dropped.10.d",
+    "version": "",
+    "type": "desc",
+    "en": "Today, a nuclear device launched by [?global.nukecountry.GetNameDef] was detonated over the city of Paris, causing widespread destruction and countless casualties. France was in shock as its capital suffered what may be the most devastating attack it ever experienced, despite centuries of wars and revolutions. The Parisians had perhaps expected conquest, but not utter, brutal desolation.\\n\\nAny victory parades at Champs-Élysées past the remains of the Arc de Triomphe seem unlikely in the city's current state. Perhaps the coming decades will see the birth of a new Paris, but Paris in the public mind, the city built in the Belle Époque, is gone forever."
+  },
+  {
+    "key": "nuke_dropped.11.t",
+    "version": "",
+    "type": "title",
+    "en": "Atomic Bombing of Moscow"
+  },
+  {
+    "key": "nuke_dropped.11.d",
+    "version": "",
+    "type": "desc",
+    "en": "A city many have tried and failed to conquer, Moscow was the target of a nuclear attack by [?global.nukecountry.GetNameDef] today. The explosion was directed at the heart of [From.From.Owner.GetAdjective] leadership, the Kremlin having been nearly completely destroyed by the blast.\\n\\n[From.From.Owner.GetLeader], having grown more aware and fearful of all possible and impossible threats recently, evacuated in time and survived. However, even the vastness of [From.From.Owner.GetName] may not be enough to escape such a ruthless enemy. Indeed, if this continues, the nation will soon consist only of two kinds of wastelands: Those which were there in the first place, and those created by its enemies."
+  },
+  {
+    "key": "nuke_dropped.12.t",
+    "version": "",
+    "type": "title",
+    "en": "Atomic Bombing of Copenhagen"
+  },
+  {
+    "key": "nuke_dropped.12.d",
+    "version": "",
+    "type": "desc",
+    "en": "Today, the city of Copenhagen was struck by a nuclear explosion, launched by [?global.nukecountry.GetNameDef]. Having grown after escaping destruction in the Great War thanks to Denmark's neutrality, the capital has never experienced an attack close to this devastating since the Napoleonic Wars. The surrounding area of Öresund has also seen significant fallout and survivors have begun escaping to Fyn and the mainland in fear of further attacks.\\n\\nKing Christian X's whereabouts are currently unknown, and the nation's morale has been severely damaged by the attack. It remains to be seen if this is the beginning of the end for one of Europe's oldest nations."
+  },
+  {
+    "key": "nuke_dropped.13.t",
+    "version": "",
+    "type": "title",
+    "en": "Atomic Bombing of Stockholm"
+  },
+  {
+    "key": "nuke_dropped.13.d",
+    "version": "",
+    "type": "desc",
+    "en": "The beautiful city of Stockholm, proud Venice of the North, was struck by a nuclear bomb launched by [?global.nukecountry.GetNameDef] today. Despite their best efforts to stay neutral in the past, the Swedes have now paid the ultimate price for international conflict. The epicenter of the blast was in the middle of south central Stockholm, an area intended for future development and grand construction projects, now irreversibly destroyed.\\n\\nMuch of the city is beyond recognition, but the old structures at Slussen seem to have survived the blast better than expected. It has been decided that it should stand untouched forever as a monument to the city's resilience."
+  },
+  {
+    "key": "poland.1.t",
+    "version": "",
+    "type": "title",
+    "en": "Eastward Expansion"
+  },
+  {
+    "key": "poland.1.d",
+    "version": "",
+    "type": "desc",
+    "en": "Having been forced to cede Gdansk to the Germans, we are now locked in a vise between two empires threatening our sovereignty. As we're losing territory in the west, not being able to trust the Allies to protect us from German aggression, we could consider aligning with the German ambitions and reclaim portions of our old Commonwealth now absorbed into [SOV.GetNameDef]. We will be easy prey if we remain neutral, and have fought too hard to see another partition of Poland."
+  },
+  {
+    "key": "poland.2.t",
+    "version": "",
+    "type": "title",
+    "en": "[FROM.GetNameDefCap] Demands the East"
+  },
+  {
+    "key": "poland.2.d",
+    "version": "",
+    "type": "desc",
+    "en": "Having reasserted their claims on our eastern territories, [FROM.GetNameDef] has now put pressure on us to cede this land to them, suggesting that this is the only way to avoid another invasion and possible annexation or partition.\\n\\nOrdinarily, giving in to such threats easily would be out of the question, but [FROM.GetNameDef] is far from our only concern. If we agree to their demands, we may have less to worry about on the eastern front, although it would also position the eastern front significantly further to the west."
+  },
+  {
+    "key": "poland.3.t",
+    "version": "",
+    "type": "title",
+    "en": "[FROM.GetName] Cedes the East"
+  },
+  {
+    "key": "poland.3.d",
+    "version": "",
+    "type": "desc",
+    "en": "After we put pressure on [FROM.GetNameDef] to give in to our rightful claims on its eastern territories, they have agreed to cede what we demanded without further conflict. However, we can probably abandon any hopes of forming a stronger bond with the nation in the future. Having given us our due, they seem to hope we'll have as little contact as possible."
+  },
+  {
+    "key": "poland.4.t",
+    "version": "",
+    "type": "title",
+    "en": "[FROM.GetName] Refuses to Cede the East"
+  },
+  {
+    "key": "poland.4.d",
+    "version": "",
+    "type": "desc",
+    "en": "Despite our effort to resolve the dispute with [FROM.GetNameDef] peacefully, they have refused to cede their eastern territories and forced us into a position where the only option for claiming them is through war. Clearly, this troublesome country won't avoid a partition even when they are given the chance."
+  },
+  {
+    "key": "poland.5.t",
+    "version": "",
+    "type": "title",
+    "en": "[FROM.GetNameDefCap] Offers Protection"
+  },
+  {
+    "key": "poland.5.d",
+    "version": "",
+    "type": "desc",
+    "en": "After [FROM.GetNameDef] claimed their right to eastern Poland, we assumed another attack as impending. However, a recent offer from the [FROM.GetAdjective]s indicate otherwise. Apparently, provided we cede the claimed territory, they are willing to let us join them in an alliance. Furthermore, they promise that in the event of a war with Germany, we will be compensated for the loss by being granted new land in the west.\\n\\nWhile this may be a better offer than we expected, we can't know if this supposed future war will ever be pursued. Perhaps [FROM.GetNameDef] is only looking for an easy land grab and forcing us into their sphere of influence. Nevertheless, it may be the best protection we can count on."
+  },
+  {
+    "key": "poland.6.t",
+    "version": "",
+    "type": "title",
+    "en": "[FROM.GetNameDefCap] Accepts Protection"
+  },
+  {
+    "key": "poland.6.d",
+    "version": "",
+    "type": "desc",
+    "en": "Offering to take [FROM.GetNameDef] under our wing and guide them to future conquest in the west in exchange for territory in the east turned out to be a successful approach. Being promised a share of Germany in case of a successful war and our protection, they agreed to cede their eastern territories peacefully."
+  },
+  {
+    "key": "poland.7.t",
+    "version": "",
+    "type": "title",
+    "en": "[FROM.GetNameDefCap] Refuses Protection"
+  },
+  {
+    "key": "poland.7.d",
+    "version": "",
+    "type": "desc",
+    "en": "Despite making the most generous offer we possibly could, attempting an agreement where [FROM.GetNameDef] would cede its eastern territory for a promise of a future share of Germany, [From.GetLeader] has rejected our diplomatic efforts. [FROM.GetNameDefCap] has chosen the hard path, for us, but even more so for themselves."
+  },
+  {
+    "key": "poland.8.t",
+    "version": "",
+    "type": "title",
+    "en": "[POL.GetName] Granted Eastern Germany"
+  },
+  {
+    "key": "poland.8.d",
+    "version": "",
+    "type": "desc",
+    "en": "As previously agreed upon, after the annexation of eastern Germany territories by [SOV.GetNameDef], some of these will be come under [POL.GetAdjective] control as recompense for the past transfer of eastern Poland to [SOV.GetNameDef]."
+  },
+  {
+    "key": "poland.10.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetName] Joins the [Root.GetFactionName]!"
+  },
+  {
+    "key": "poland.10.d",
+    "version": "",
+    "type": "desc",
+    "en": "Acknowledging the need for unity against the threats surrounding our countries on every side, [From.GetLeader] today announced to the world that [From.GetName] has entered a treaty with [Root.GetName] for the sake of our mutual safety."
+  },
+  {
+    "key": "poland.11.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetName] Refuses to Join [Root.GetFactionName]"
+  },
+  {
+    "key": "poland.11.d",
+    "version": "",
+    "type": "desc",
+    "en": "In a foolish act of imagined self-preservation, [From.GetLeader] today announced that [From.GetName] will refrain from any diplomatic action that may be seen as threatening to their powerful neighbors. It has therefore declined our request that they join the [Root.GetFactionName]."
+  },
+  {
+    "key": "poland.12.t",
+    "version": "",
+    "type": "title",
+    "en": "Wojtek Never Drops A Crate"
+  },
+  {
+    "key": "poland.12.d",
+    "version": "",
+    "type": "desc",
+    "en": "Private Wojtek has proven himself a uniquely valuable member of our supply lines. Even during the heat of combat, small arms fire brushing the hair on his head, arms and legs, he did not drop a single crate of munitions. This brave soldier ensured our artillery could keep firing, and was thereby instrumental in defeating the enemy. As a result of this it has been decided that Wojtek should be promoted."
+  },
+  {
+    "key": "greece.1.t",
+    "version": "",
+    "type": "title",
+    "en": "Soviet Ultimatum"
+  },
+  {
+    "key": "greece.1.d",
+    "version": "",
+    "type": "desc",
+    "en": "We are under pressure from the Soviet to give up territory. They are threatening with an all-out war in case we don't give in. Giving in may save the lives of many Greek soldiers, but will this be the last time they ask for land?"
+  },
+  {
+    "key": "greece.2.t",
+    "version": "",
+    "type": "title",
+    "en": "Second Ljubljana Award"
+  },
+  {
+    "key": "greece.2.d_GER_demand",
+    "version": "",
+    "type": "desc",
+    "en": "Germany is seeking to bully Greece into handing over territory for 'bases'"
+  },
+  {
+    "key": "greece.2.d_ITA",
+    "version": "",
+    "type": "desc",
+    "en": "The Germans are seeking land for their Italian friends at our expense."
+  },
+  {
+    "key": "greece.2.d_BUL",
+    "version": "",
+    "type": "desc",
+    "en": "The Germans are demanding that we hand over lands to their Bulgarian lackeys."
+  },
+  {
+    "key": "greece.2.d_ITA_BUL",
+    "version": "",
+    "type": "desc",
+    "en": "The Germans are pushing the demands of both Italy and Bulgaria on our territory."
+  },
+  {
+    "key": "greece.3.t",
+    "version": "",
+    "type": "title",
+    "en": "Fate Of Greece"
+  },
+  {
+    "key": "greece.3.d",
+    "version": "",
+    "type": "desc",
+    "en": "Germany has demand that we accept 'coordination' for Germany. This would effectively turn us into a puppet of Germany."
+  },
+  {
+    "key": "greece.4.t",
+    "version": "",
+    "type": "title",
+    "en": "War On Turkey"
+  },
+  {
+    "key": "greece.4.d",
+    "version": "",
+    "type": "desc",
+    "en": "Our Italian friends are planning to make their move on Turkey. This is the perfect opportunity for us to secure our position in the Aegean Sea. Let's take Izmir for ourselves and help the Italians chase the Turks far away from Europe."
+  },
+  {
+    "key": "turkey.1.t",
+    "version": "",
+    "type": "title",
+    "en": "The Death of Mustafa Kemal Atatürk"
+  },
+  {
+    "key": "turkey.1.d",
+    "version": "",
+    "type": "desc",
+    "en": "\\n The Republic grieves.\\n\\n War hero, revolutionary, president and Father of the Turks, Mustafa Kemal Atatürk has passed away.\\n\\nHe maintained his duty to the Turkish people and the republic he founded up until the very end. Thousands of mourners have paid their respects in Istanbul, before his body was transferred by caisson, ship and train to Ankara. There his state funeral was held with the entire parliament and dignitaries from all over the world in attendance.\\n\\nWith the father of the modern Turkish nation now gone, the Republic must move on. The Grand National Assembly has elected [Root.GetLeader] as his successor."
+  },
+  {
+    "key": "generic.1.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetName] Is Influencing Our Politics"
+  },
+  {
+    "key": "generic.1.d_neutral_good",
+    "version": "",
+    "type": "desc",
+    "en": "For a long time the [From.GetAdjective] government has sought to align the path of our countries, and has expressed a great interest in [Root.GetAdjective] politics. Recently this intensified when [From.GetRulingParty] started pushing their [From.GetRulingIdeology] propaganda with a number of speeches and reading material distributed to the [Root.GetAdjective] people. \\n\\nNow even a number of politicians and other officials are being swayed by the [From.GetAdjective] propaganda, and have started advocating for [From.GetRulingIdeologyNoun] in [Root.GetName]."
+  },
+  {
+    "key": "generic.1.d_bad",
+    "version": "",
+    "type": "desc",
+    "en": "For a long time the [From.GetAdjective] government has sought to align the path of our countries, and has often tried to meddle in [Root.GetName]'s politics. Recently this has intensified, as [From.GetRulingParty] started pushing their [From.GetRulingIdeology] propaganda with no respect for [Root.GetAdjective] political traditions. A number of speeches and other [From.GetRulingIdeology] material is already being distributed to the [Root.GetAdjective] people. It seems that even a number of politicians and other officials are being swayed by the [From.GetAdjective] propaganda and have begun advocating for [From.GetRulingIdeologyNoun] in [Root.GetName]."
+  },
+  {
+    "key": "country_capitulated.0.t",
+    "version": "",
+    "type": "title",
+    "en": "[Root.GetName] has capitulated"
+  },
+  {
+    "key": "country_capitulated.0.d_positive_both_no_faction",
+    "version": "",
+    "type": "desc",
+    "en": "\\n[From.From.GetLeader] has announced that the cowardly [Root.GetAdjective] nation could no longer withstand the pressure from the overwhelming presence of [From.From.GetAdjective] forces throughout the country. The [Root.GetAdjective] government chose to flee the country and has gone into exile. Their main forces have capitulated, and [From.From.GetNameDef] is now in control of their home area.\\nThough the war continues elsewhere, this is a great victory for [From.From.GetNameDef]."
+  },
+  {
+    "key": "country_capitulated.0.d_positive_prev_no_faction",
+    "version": "",
+    "type": "desc",
+    "en": "\\n[From.From.GetLeader] has announced that the cowardly [Root.GetAdjective] nation could no longer withstand the pressure from the overwhelming presence of [From.From.GetAdjective] forces throughout the country. The [Root.GetAdjective] government chose to flee the country and has gone into exile. Their main forces have capitulated, and [From.From.GetNameDef] is now in control of their home area.\\nThough the war against what remains of the [Root.GetFactionName] continues elsewhere this is a great victory for [From.From.GetNameDef]."
+  },
+  {
+    "key": "country_capitulated.0.d_positive_prev_faction",
+    "version": "",
+    "type": "desc",
+    "en": "\\n[From.From.GetLeader] has announced that the cowardly [Root.GetAdjective] nation could no longer withstand the pressure from the overwhelming presence of [From.From.GetAdjective] forces throughout the country. The [Root.GetAdjective] government chose to flee the country and has gone into exile. Their main forces have capitulated, and [From.From.GetNameDef] is now in control of their home area.\\nThough the war against what remains of the [Root.GetFactionName] continues elsewhere this is a great victory for all of the [From.From.GetFactionName]."
+  },
+  {
+    "key": "country_capitulated.0.d_negative_both_no_faction",
+    "version": "",
+    "type": "desc",
+    "en": "\\n[Root.GetLeader] has announced that the [Root.GetAdjective] nation can no longer withstand the pressure from the occupying [From.From.GetAdjective] forces, committing travesties throughout the country. The [Root.GetAdjective] government has gone into exile. Their main forces have capitulated, and [From.From.GetNameDef] is now in control of their home area.\\nDespite this devastating loss the war against [From.From.GetNameDef] is far from over."
+  },
+  {
+    "key": "country_capitulated.0.d_negative_prev_no_faction",
+    "version": "",
+    "type": "desc",
+    "en": "\\n[Root.GetLeader] has announced that the [Root.GetAdjective] nation can no longer withstand the pressure from the occupying [From.From.GetAdjective] forces, committing travesties throughout the country. The [Root.GetAdjective] government has gone into exile. Their main forces have capitulated, and [From.From.GetNameDef] is now in control of their home area.\\nThough the war against [From.From.GetNameDef] continues, this is an unfortunate setback for all of the [Root.GetFactionName]."
+  },
+  {
+    "key": "country_capitulated.0.d_negative_prev_faction",
+    "version": "",
+    "type": "desc",
+    "en": "\\n[Root.GetLeader] has announced that the [Root.GetAdjective] nation can no longer withstand the pressure from the occupying [From.From.GetAdjective] forces, committing travesties throughout the country. The [Root.GetAdjective] government has gone into exile. Their main forces have capitulated, and [From.From.GetNameDef] is now in control of their home area.\\nThough the war against [From.From.GetNameDef] and the rest of the [From.From.GetFactionName] continues, this is an unfortunate setback for all of the [Root.GetFactionName]."
+  },
+  {
+    "key": "country_capitulated.0.d_neutral_both_no_faction",
+    "version": "",
+    "type": "desc",
+    "en": "\\nThe [Root.GetAdjective] government has gone into exile and their main forces have capitulated to [From.From.GetNameDef], who is now in control of their home area.\\n\\nAlthough the struggles between [From.From.GetName] and [Root.GetName] are over, [From.From.GetNameDef] is still at all-out war, and the fighting continues elsewhere."
+  },
+  {
+    "key": "country_capitulated.0.d_neutral_prev_no_faction",
+    "version": "",
+    "type": "desc",
+    "en": "\\nThe [Root.GetAdjective] government has gone into exile and their main forces have capitulated to [From.From.GetNameDef], who is now in control of their home area.\\n\\nThe struggle in [Root.GetName] was only a small part of the conflict. The war between [From.From.GetNameDef] and what remains of the [Root.GetFactionName] continues elsewhere."
+  },
+  {
+    "key": "country_capitulated.0.d_neutral_prev_faction",
+    "version": "",
+    "type": "desc",
+    "en": "\\nThe [Root.GetAdjective] government has gone into exile and their main forces have capitulated to [From.From.GetNameDef], who is now in control of their home area.\\n\\nThe struggle between [From.From.GetNameDef] and [Root.GetNameDef] was only a small part of the conflict. The war between the [From.From.GetFactionName] and what remains of the [Root.GetFactionName] continues elsewhere."
+  },
+  {
+    "key": "country_capitulated.0.d_positive_collab_diff_ideology",
+    "version": "",
+    "type": "desc",
+    "en": "\\n[Root.GetNameDef] has announced its total surrender to [From.From.GetNameDef]. The [From.From.GetAdjective] forces along with a number of independent [Root.GetAdjective] [From.From.GetRulingIdeology] supporters have forced [Root.GetLeader] and his government into exile as a new government has been established to rule [Root.GetNameDef] in cooperation with [From.From.GetNameDef]. [From.From.GetLeader] has remarked that this mutual agreement will bring a new age of prosperity and cooperation to [Root.GetNameDef].\\n[Root.GetLeader] responded by stating that even in exile, he shall continue to fight for [Root.GetNameDef] and support all resistance efforts in his homeland."
+  },
+  {
+    "key": "country_capitulated.0.d_positive_collab_invaded_same_ideology",
+    "version": "",
+    "type": "desc",
+    "en": "\\n[Root.GetNameDef] has announced its total surrender to [From.From.GetNameDef]. A number of [Root.GetAdjective] citizens dissatisfied with the brand of [From.From.GetRulingIdeologyNoun] brought to [Root.GetNameDef] by [Root.GetLeader] joined the [From.From.GetAdjective] soldiers in removing him from power and forming a new government under the guidance of [From.From.GetNameDef]. [From.From.GetLeader] has remarked that this mutual agreement will bring a new age of prosperity and cooperation to [From.From.GetNameDef]\\n[Root.GetLeader] responded by stating that [From.From.GetLeader] is no true [From.From.GetRulingIdeology] and even in exile, he shall continue to fight for [Root.GetNameDef] and support all resistance efforts in his homeland."
+  },
+  {
+    "key": "country_capitulated.0.d_negative_collab_diff_ideology",
+    "version": "",
+    "type": "desc",
+    "en": "\\n[Root.GetNameDef] has announced its total surrender to [From.From.GetNameDef]. It's evident that the [Root.GetAdjective] government's leniency towards domestic [From.From.GetRulingIdeology] sympathisers was a contributing factor to the fall of [Root.GetName] as [Root.GetFascistLeader] has been swept into office to rule the country in the name of [From.From.GetLeader]'s regime.\\n[Root.GetLeader] claims that this is not the end of [Root.GetAdjective] sovereignty, and that the government shall support all resistance efforts even while exiled from their homeland."
+  },
+  {
+    "key": "generic.2.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetNameDefCap] seeks to join the [Root.GetFactionName]"
+  },
+  {
+    "key": "generic.2.d.a",
+    "version": "",
+    "type": "desc",
+    "en": "In the face of increasing threats to liberty and democratic values, the [alliance_applicant.GetAdjective] look to us as the defenders of freedom. They now wish to be admitted into our alliance, both to enjoy our protection and to stand with us against the forces that would threaten democracy."
+  },
+  {
+    "key": "generic.2.d.b",
+    "version": "",
+    "type": "desc",
+    "en": "Our plight to overturn the current world order has not escaped the notice of like-minded nations. The [alliance_applicant.GetAdjective] recognize that their best chance to carve out a prosperous future for themselves is to align with us in the coming conflict, and they have therefore offered to formally join us against our enemies."
+  },
+  {
+    "key": "generic.2.d.c",
+    "version": "",
+    "type": "desc",
+    "en": "[alliance_applicant.GetNameDefCap] has recognized that she must band together with fellow socialist republics to strengthen the place of Communism in the world. Accepting our leading role in the international plight of the worker, the [alliance_applicant.GetAdjective] now request to formally enter into an alliance with us."
+  },
+  {
+    "key": "generic.2.d.e",
+    "version": "",
+    "type": "desc",
+    "en": "As the current upheavals in international politics continue to reverberate through the world, the [alliance_applicant.GetAdjective] have deemed us to be their greatest chance of surviving these tumultuous times. They therefore request to be admitted into our alliance, so that we may weather the coming storm together."
+  },
+  {
+    "key": "generic.3.t",
+    "version": "",
+    "type": "title",
+    "en": "[alliance_inviter.GetNameDefCap] welcomes us to the [alliance_inviter.GetFactionName]"
+  },
+  {
+    "key": "generic.3.d",
+    "version": "",
+    "type": "desc",
+    "en": "[alliance_inviter.GetNameDefCap] has decided to accept our request to join the [alliance_inviter.GetFactionName]. Henceforth we shall stand or fall together."
+  },
+  {
+    "key": "generic.4.t",
+    "version": "",
+    "type": "title",
+    "en": "[alliance_inviter.GetNameDefCap] denies request to join the [alliance_inviter.GetFactionName]"
+  },
+  {
+    "key": "generic.4.d",
+    "version": "",
+    "type": "desc",
+    "en": "[alliance_inviter.GetNameDefCap] has decided to reject our request to join the [alliance_inviter.GetFactionName]. We will have to make do without their help."
+  },
+  {
+    "key": "generic.5.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetNameDefCap] invites [Root.GetNameDef] to the [From.GetFactionName]"
+  },
+  {
+    "key": "generic.5.d.a",
+    "version": "",
+    "type": "desc",
+    "en": "With a suspicious eye on recent developments in world politics, [alliance_inviter.GetNameDef] extends us their hand of friendship, offering us their protection and urging us to stand with them in defence of the principles of liberty and democracy. As a member of the [alliance_inviter.GetFactionName], our people's freedom may well be safeguarded."
+  },
+  {
+    "key": "generic.5.d.b",
+    "version": "",
+    "type": "desc",
+    "en": "Recognizing that sometimes even the strong need allies, the [alliance_inviter.GetAdjective] have invited us to join the [alliance_inviter.GetFactionName]. If we choose to accept, this may well provide ample opportunity for us to find our place in the sun."
+  },
+  {
+    "key": "generic.5.d.c",
+    "version": "",
+    "type": "desc",
+    "en": "Our ideological allies in [alliance_inviter.GetNameDef] have made note of our valuable contributions to the workers' cause, and this morning we received an invitation us to join the [alliance_inviter.GetFactionName]. Standing together with other socialist republics, we could spread the revolution with renewed strength."
+  },
+  {
+    "key": "generic.5.d.e",
+    "version": "",
+    "type": "desc",
+    "en": "It appears the [alliance_inviter.GetAdjective] consider us to be of strategic interest to them, and that they deem it more profitable that we work together than that we should let ourselves be divided by our ideological differences. This morning, the [alliance_inviter.GetAdjective] Ambassador delivered an invitation for us to become a member state of the [alliance_inviter.GetFactionName]."
+  },
+  {
+    "key": "generic.6.t",
+    "version": "",
+    "type": "title",
+    "en": "[alliance_applicant.GetNameDefCap] accepts invitation to the [alliance_inviter.GetFactionName]"
+  },
+  {
+    "key": "generic.6.d",
+    "version": "",
+    "type": "desc",
+    "en": "[alliance_applicant.GetNameDefCap] has decided to accept our offer to join the [alliance_inviter.GetFactionName]. Henceforth we shall stand or fall together."
+  },
+  {
+    "key": "generic.7.t",
+    "version": "",
+    "type": "title",
+    "en": "[alliance_applicant.GetNameDefCap] rejects offer to join the [alliance_inviter.GetFactionName]"
+  },
+  {
+    "key": "generic.7.d",
+    "version": "",
+    "type": "desc",
+    "en": "[alliance_applicant.GetNameDefCap] has decided to reject our offer to join the [alliance_inviter.GetFactionName]. We will have to make do without their help."
+  },
+  {
+    "key": "stability.21.t",
+    "version": "",
+    "type": "title",
+    "en": "Draft Dodging"
+  },
+  {
+    "key": "stability.21.d",
+    "version": "",
+    "type": "desc",
+    "en": "We should arrest anyone found evading the draft!"
+  },
+  {
+    "key": "stability.22.t",
+    "version": "",
+    "type": "title",
+    "en": "Strikes!"
+  },
+  {
+    "key": "stability.22.d",
+    "version": "",
+    "type": "desc",
+    "en": "Draft the workers into military service and put the factories under military control."
+  },
+  {
+    "key": "stability.23.t",
+    "version": "",
+    "type": "title",
+    "en": "Mutinies in the Army"
+  },
+  {
+    "key": "stability.23.d",
+    "version": "",
+    "type": "desc",
+    "en": "Publicly announce that anyone found supporting the mutineers will be charged with treason."
+  },
+  {
+    "key": "stability.31.t",
+    "version": "",
+    "type": "title",
+    "en": "Military Crackdown succeeds"
+  },
+  {
+    "key": "stability.31.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Our swift response has proven very effective. Military police units, supported by local law enforcement and patriotic volunteers, swarmed out in a well-coordinated operation to visit every missing draftee. Most were willing to answer the call when they were informed of the consequences of failing to report for duty. Military High Command has publicly declared that anyone who showed up at their duty station will not be charged with any crime or punished for failing to do so in the past. Still, a number of people have categorically refused to take up arms for their country and have been arrested."
+  },
+  {
+    "key": "stability.32.t",
+    "version": "",
+    "type": "title",
+    "en": "Draft Riots"
+  },
+  {
+    "key": "stability.32.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Our attempts at resolving the situation through military force have not been met with success. It appears that someone in our administration has leaked our planned operation to the public, which responded quickly. When military police and other law enforcement agencies tried to apprehend known draft dodgers, they found their way blocked by angry mobs, demanding an end to the war and to forced conscription. In several cases, street battles erupted between the police and the protesters, leading to a number of fatalities when the soldiers were forced to use their weapons to defend themselves. It took several hours until the police gained full control over the situation.\\n\\nAn ugly mood has settled over the capital as the barricades are cleared away and the dead are buried. Reports from the War Office show no change in the number of recruits reporting for duty. Many in the government wonder how much longer we can continue fighting under these circumstances."
+  },
+  {
+    "key": "stability.33.t",
+    "version": "",
+    "type": "title",
+    "en": "The Conscription Rebellion"
+  },
+  {
+    "key": "stability.33.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Our attempts at resolving the situation through military force have not been met with success. It appears that someone in our administration has leaked our planned operation to the public, which responded quickly. When military police and other law enforcement agencies tried to apprehend known draft dodgers, they found their way blocked by angry mobs, demanding an end to the war and to forced conscription. In several cases, street battles erupted between the police and the protesters, leading to a number of fatalities when the soldiers were forced to use their weapons to defend themselves. \\n\\nThe situation quickly spiralled out of control after that, as citizens rushed the soldiers and stormed police stations to arm themselves. Several cities in the country are now in a state of armed insurrection against the government. Ironically, the rebels seem to have no issues finding soldiers willing to take up arms."
+  },
+  {
+    "key": "stability.34.t",
+    "version": "",
+    "type": "title",
+    "en": "Draft Reform proves effective"
+  },
+  {
+    "key": "stability.34.desc",
+    "version": "",
+    "type": "desc",
+    "en": "The social measures passed by the government as part of a larger process of reforming the military recruitment policy have proven surprisingly popular. Higher pay and more frequent leave are often cited as the biggest new benefits, but many also point to the new government programs to support war widows and orphans. Fewer and fewer men can justify refusing their country's call to the colors, and public support for draft-dodgers has all but disappeared.\\n\\nIndeed, there has been a recent upswing in public support for the government as more and more people realize that the [Root.GetAdjective] way of life is under attack."
+  },
+  {
+    "key": "stability.35.t",
+    "version": "",
+    "type": "title",
+    "en": "The 591. Penal Battalion"
+  },
+  {
+    "key": "stability.35.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Seeing the severity of the situation, the Military High Command has decided that more drastic measures are required to show that evading one's civic duty to defend their country will not be tolerated. At dawn, military police raided the homes of a number of carefully selected, well known and connected people who have used their influence to allow others to avoid the draft. Still in their nightgowns, they have found themselves conscripted into the military and escorted to the barracks under armed guard, where they will be formed up into a separate unit, to avoid their subversive influence from spreading to other units. \\n\\nThe news of this has spread quickly, and it appears that most people who until now believed that they could get away with ignoring their draft notice have changed their mind. Recruitment stations across the country report that a growing number of people have come by to ask what exactly the consequences would be if a \"friend\" of theirs who had attempted to avoid the draft would turn themselves in."
+  },
+  {
+    "key": "stability.36.t",
+    "version": "",
+    "type": "title",
+    "en": "Local Elites Voice Their Protest"
+  },
+  {
+    "key": "stability.36.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Seeing the severity of the situation, the Military High Command has decided that more drastic measures are required to show that evading one's civic duty to defend their country will not be tolerated. At dawn, military police raided the homes of a number of carefully selected, well known and connected people who have used their influence to allow others to avoid the draft. Still in their nightgowns, they have found themselves conscripted into the military. Their families have mobilized their extensive support networks to protest this decision. The War Office has been flooded with calls and letters from simple workers who want their factory manager back to undersecretaries in various other ministries, demanding to know why people working in fields critical to the war effort have been removed from their work. It appears that even some cabinet members have second thoughts about the war - perhaps fearing for the safety of their own sons."
+  },
+  {
+    "key": "stability.37.t",
+    "version": "",
+    "type": "title",
+    "en": "\"A Somber and Sacred Duty\""
+  },
+  {
+    "key": "stability.37.desc",
+    "version": "",
+    "type": "desc",
+    "en": "\"Of course I want to live. I want to go and finish school, I want to meet girls, I want to start a family - but if we lose this war, I won't be able to do these things, either. So I fight.\"\\n\\nThe letter, sent anonymously to every major newspaper in the country, has made huge waves. Claiming to be from a soldier who at first tried to avoid the draft, but then realized that he must fight to save his country, it has apparently struck a nerve with many others who felt similarly. Draft boards across the country report that the number of people who still refuse to answer their summons has been more than made up for by new volunteers who will no longer wait until they are called, while others go and fight to save their country and their way of life."
+  },
+  {
+    "key": "stability.38.t",
+    "version": "",
+    "type": "title",
+    "en": "The end of a coward"
+  },
+  {
+    "key": "stability.38.desc",
+    "version": "",
+    "type": "desc",
+    "en": "\"They led him to the wall at the break of dawn. He refused a last cigarette, but accepted the blindfold. His last words were an apology to his mother for causing her so much pain. The firing squad aimed well. A few minutes later, the doctor present declared him dead.\"\\n\\nWhile unable to catch all people who have been evading the draft, authorities have been able to make a number of arrests. Given the grave situation we are in, the War Office has decided that these men be tried under military law for failing to report to duty. The first series of death sentences has been handed down and the condemned have been executed by firing squad. These measures have evidently had the desired effect. It appears that most people decided to choose the possibility of death on the battlefield over the certainty of dishonorable death as a coward."
+  },
+  {
+    "key": "stability.39.t",
+    "version": "",
+    "type": "title",
+    "en": "A martyr for peace"
+  },
+  {
+    "key": "stability.39.desc",
+    "version": "",
+    "type": "desc",
+    "en": "\"They led him to the wall at the break of dawn. He refused a last cigarette, but accepted the blindfold. His last words were an apology to his mother for causing her so much pain. The firing squad aimed well. A few minutes later, the doctor present declared him dead.\"\\n\\nThe published report of the execution of a man sentenced to death for failing to report for duty seems to have had the opposite effect. Rather than bringing people back to the colors out of fear of the consequences, it has made those executed into instant martyrs for the peace movement. Their names and life stories have been published and very clearly edited to make them appear in the best possible light. Mass peace demonstrations have started in several major cities, demanding an end to the war. The War Office reports that they have received a number of letters of draftees stating openly that they will not appear for duty - saying that they would not, under any circumstances, be party to another execution except as the person to be executed."
+  },
+  {
+    "key": "stability.40.t",
+    "version": "",
+    "type": "title",
+    "en": "A New Deal for [Root.GetNameDef]"
+  },
+  {
+    "key": "stability.40.desc",
+    "version": "",
+    "type": "desc",
+    "en": "In a radio transmitted speech today, [Root.GetLeader] announced what he called a \"Social Revolution\". Over the next hour, he laid out a system of reforms that touch every part of social life, promising every returning soldier an education, a well-paying job and a generous pension. He also announced a major building program for affordable housing for young families, to begin the day an armistice is signed. This appears to have had a significant effect on general morale. Recruitment offices across the country report conscripts appearing and asking about options to extend their service beyond the current conflict, with others all but demanding a posting to frontline units to ensure extra benefits."
+  },
+  {
+    "key": "strikes_event.1.t",
+    "version": "",
+    "type": "title",
+    "en": "Order Restored"
+  },
+  {
+    "key": "strikes_event.1.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Moving quickly, Military High command mobilized a number of training units for service and formed ad-hoc groups of soldiers on leave. Marching these formations past the gates of the factories had the desired effect, as most strikers did not want to force a confrontation with potentially deadly consequences. The few that did try to persuade the soldiers to make common cause found their words having little effect as soldiers asked why the workers in the cozy rear should be allowed to let down the fighting men on the front."
+  },
+  {
+    "key": "strikes_event.2.t",
+    "version": "",
+    "type": "title",
+    "en": "Bloody Monday"
+  },
+  {
+    "key": "strikes_event.2.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Moving quickly, Military High command mobilized a number of training units for service and formed ad-hoc groups of soldiers on leave. Moving these formations to the affected cities proved a lot more difficult than expected, however, as the strikers blocked railway lines and forced the troops to march in on foot, giving them ample time to prepare. When our troops reached the barricaded factories, they found the strikers ready for them. Attempts to clear roads were met with furious attacks by the workers throwing stones and bottles at the soldiers. \\n\\nIn several instances, the troops opened fire to defend themselves, killing a number of strikers and wounding scores more. this only enraged the mob even further, with screams of \"Murderers!\" filling the air from bystanders. The mood in the capital turned dramatically in favor of the strikers. At nightfall, the soldiers retreated, leaving the barricades intact.\\n\\nThere have been no further attempts to force the situation. The strikers remain in control of the factories, and no work is being done."
+  },
+  {
+    "key": "strikes_event.3.t",
+    "version": "",
+    "type": "title",
+    "en": "Heroes on the Production Front"
+  },
+  {
+    "key": "strikes_event.3.desc",
+    "version": "",
+    "type": "desc",
+    "en": "\"Industrial war is more than just divisions marching and planes bombing. It is more than just the duty of a soldier to fight and die for their country. An industrial war is won, first and foremost, in the factories and foundries. To abandon the battle on the assembly line is no better than abandoning it on the front line. And the victories of the assembly line should be celebrated just as much as the ones won by the front line.\"\\n\\nAll available propaganda resources have been rerouted to show the work of the armaments workers in the best possible light. [Root.GetLeader] has personally approved a new award to be given out for workers who have exceeded their quota by more than 100%, and the first recipients have been sent on tours around the country to instruct other workers in their methods.\\n\\nIt appears that this has made a lot of the strikers reconsider their stance. Work has resumed in all previously affected factories."
+  },
+  {
+    "key": "strikes_event.4.t",
+    "version": "",
+    "type": "title",
+    "en": "The War Production Department"
+  },
+  {
+    "key": "strikes_event.4.desc",
+    "version": "",
+    "type": "desc",
+    "en": "[Root.GetLeader] today announced some small changes to the draft. While skilled workers were previously exempted from the military draft, this exception has now been removed and all exempt men drafted immediately. At the same time, the War Office has been authorized to take direct control of any factory that produces goods relevant to the war effort if the leadership of those factories has shown a lack of ability.\\n\\nThe announcement was met with silent resignation in the affected cities, especially once it was announced that anyone resisting would be treated the same as a soldier who refused to follow orders. While morale amongst the workers in the factories is at rock-bottom, production has restarted."
+  },
+  {
+    "key": "strikes_event.5.t",
+    "version": "",
+    "type": "title",
+    "en": "A country in defiance"
+  },
+  {
+    "key": "strikes_event.5.desc",
+    "version": "",
+    "type": "desc",
+    "en": "[Root.GetLeader] today announced some small changes to the draft. While skilled workers were previously exempted from the military draft, this exception has now been removed and all exempt men drafted immediately. At the same time, the War Office has been authorized to take direct control of any factory that produces goods relevant to the war effort if the leadership of those factories has shown a lack of ability.\\n\\nThe announcement was met with great laughter in the affected cities, especially once it was announced that anyone resisting would be treated the same as a soldier who refused to follow orders. Policemen sent to deliver draft notices to workers were told to come back with more than ink on paper."
+  },
+  {
+    "key": "strikes_event.6.t",
+    "version": "",
+    "type": "title",
+    "en": "Useful Eaters"
+  },
+  {
+    "key": "strikes_event.6.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Without mentioning the strikes taking place, [Root.GetLeader] announced today that workers in war-relevant industries will get extra rations of sugar, coffee and meat to maintain their strength. Sadly, the rumors that the government was willing to hand out extra chocolate turned out to be false.\\n\\nWhile the ringleaders of the strike try to keep the workers from returning to work, most seem to have accepted that \"Peace and Bread\" were never going to happen and are happy with just the bread."
+  },
+  {
+    "key": "strikes_event.7.t",
+    "version": "",
+    "type": "title",
+    "en": "Operation Black Oak"
+  },
+  {
+    "key": "strikes_event.7.desc",
+    "version": "",
+    "type": "desc",
+    "en": "The troops assembled outside the towns overnight, maintaining noise and light discipline to keep the element of surprise. As the sun crept over the horizon and the workers manning the barricades at the factories looked forward to relief by the day shift, the assault columns moved in. The tired workers were sluggish to organize the resistance and quickly overcome. Leaving a small detachment to guard the prisoners, the troops swept the town, arresting everyone on the list of known factory workers. By noon, the military had taken full control of the cities and instituted a curfew. No further resistance is expected. The majority of workers will soon be released on the condition that they return to work, the ring leaders will be held and put on trial. Death sentences are expected to be handed down."
+  },
+  {
+    "key": "strikes_event.8.t",
+    "version": "",
+    "type": "title",
+    "en": "The Battle of Oak Street"
+  },
+  {
+    "key": "strikes_event.8.desc",
+    "version": "",
+    "type": "desc",
+    "en": "The troops assembled outside the towns overnight, but poor light and noise discipline gave the surprise away. As the troops moved in, they found the workers alert and ready for them. The first assault broke down in hails of thrown stones. A second assault with fixed bayonets was repulsed in brutal hand-to-hand fighting, leaving dozens of dead and dying in the streets.\\n\\nThe officers in charge have pulled back to consolidate their forces, while the workers are extending their fortifications and arming themselves with the weapons left behind in the retreat. A second day of fighting is expected tomorrow, but Military High Command does no longer believe that victory is likely."
+  },
+  {
+    "key": "strikes_event.9.t",
+    "version": "",
+    "type": "title",
+    "en": "The Worker's Rights Protection Act"
+  },
+  {
+    "key": "strikes_event.9.desc",
+    "version": "",
+    "type": "desc",
+    "en": "With tensions running high across the capital, [Root.GetLeader] announced a new law to protect the rights of workers even in times of war. The sweeping legislation mandates paid sick leave without limits, mandatory accident insurance for every worker, the right to join any union as well as, for the first time, the right for any employed women to have maternity leave after the birth of a child.\\n\\nWhile many in the government consider this nothing less than a complete surrender to the strikers, the results are conclusive: work has resumed in all factories."
+  },
+  {
+    "key": "mutiny_event.1.t",
+    "version": "",
+    "type": "title",
+    "en": "Mutiny Crushed"
+  },
+  {
+    "key": "mutiny_event.1.desc",
+    "version": "",
+    "type": "desc",
+    "en": "After a few hours of tense negotiations at barracks gates and in front line dugouts, the mutiny in our army is over. Faced with the prospect of a fight they could not win, the mutineers quickly decided to stand down. \\n\\nThe primary issue then became the fate of those that had refused orders. Military High Command has opted for clemency and assured the mutineers that they would not be punished harshly. A few examples have been made in which some soldiers were demoted to a lower rank and transferred to a different unit."
+  },
+  {
+    "key": "mutiny_event.2.t",
+    "version": "",
+    "type": "title",
+    "en": "An empty threat"
+  },
+  {
+    "key": "mutiny_event.2.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Attempts to scare the mutineers into submission have backfired spectacularly as the troops showed little fear of the units sent to supress them. Using skills honed on the front lines, they quickly organized a defense of their positions that would make any attempt to defeat them very costly. \\n\\nThe officers in charge of the loyalist units have pulled back and are awaiting further orders, but this small success has no doubt strengthened the mutineers' resolve."
+  },
+  {
+    "key": "mutiny_event.3.t",
+    "version": "",
+    "type": "title",
+    "en": "\"What ARE we fighting for?\""
+  },
+  {
+    "key": "mutiny_event.3.desc",
+    "version": "",
+    "type": "desc",
+    "en": "\"It's not uncommon for a soldier to doubt whether what he is doing is really worth it. Can anything justify the sacrifices we ask of you? Can we really demand you to potentially die in pursuit of a goal that you would never see?\\n\\nIt is an unfortunate fact that we must live in the times we were born in. Fate has decided that we must be at war, to protect our freedom, our homes, our [Root.GetAdjective] way of life! We did not choose this war, it was forced on us! You know that I would not ask anything of you that I would not be willing to do myself, and I know that you will do whatever is necessary to secure victory.\"\\n\\n[Root.GetLeader]'s speech in front of the troops appears to have had the desired effect, as the soldiers broke out in spontaneous cheers and returned to their duties without more than the usual amount of complaining."
+  },
+  {
+    "key": "mutiny_event.4.t",
+    "version": "",
+    "type": "title",
+    "en": "The Treason In War Act"
+  },
+  {
+    "key": "mutiny_event.4.desc",
+    "version": "",
+    "type": "desc",
+    "en": "While the War Office is doing its best to keep the current mutiny in the army from becoming widely known, censoring letters can only go so far. Soldiers on leave quickly spread the word that the army is no longer willing to bleed needlessly in this war.\\n\\nWithout mentioning the mutiny specifically, [Root.GetLeader] announced today that the government would now consider any act that reflected a lack of commitment to the war to be treason.\\n\\nThe punishment for treason is well known, and public support for the mutineers has all but evaporated. News of this was, of course, widely spread. Seeing little support from the general population, the soldiers have quietly resumed their duties."
+  },
+  {
+    "key": "mutiny_event.5.t",
+    "version": "",
+    "type": "title",
+    "en": "Crackdown Attempt Fizzles"
+  },
+  {
+    "key": "mutiny_event.5.desc",
+    "version": "",
+    "type": "desc",
+    "en": "While the War Office is doing its best to keep the current mutiny in the army from becoming widely known, censoring letters can only go so far. Soldiers on leave quickly spread the word that the army is no longer willing to bleed needlessly in this war.\\n\\nAttempts by the government to stem the tide have completely failed. Reports from the Secret Police indicate that the mutineers have a strong backing in the general public, making it unlikely that we can isolate and suppress them."
+  },
+  {
+    "key": "mutiny_event.6.t",
+    "version": "",
+    "type": "title",
+    "en": "The [Root.GetAdjective] Peace Offer"
+  },
+  {
+    "key": "mutiny_event.6.desc",
+    "version": "",
+    "type": "desc",
+    "en": "[Root.GetLeader] announced to the press today that his latest peace offer has failed. While the causes for this unfortunate turn of events are very complex, the [Root.GetAdjective] demand that the other side pay for all damages caused, disarm completely and publicly acknowledge that they started the war may have been the final straw.\\n\\nOur enemies have responded in kind, calling our reasonable requests a demand for unconditional surrender. They have promised that they will prosecute this war until the bitter end. \\n\\nWith our enemies evidently unwilling to see reason and promising to fight on, attempts by the mutineers to force a peace settlement have collapsed."
+  },
+  {
+    "key": "mutiny_event.7.t",
+    "version": "",
+    "type": "title",
+    "en": "Military Crackdown succeeds."
+  },
+  {
+    "key": "mutiny_event.7.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Despite a few instances in which small groups of mutineers decided to make a fight out of it, our operation to crush the rebellion has been a stunning success. Relying on numbers rather than skill, loyalist militias surrounded the mutineers' strongholds and demanded their surrender. Most soldiers decided not to take up arms against their own countrymen and surrendered peacefully. \\n\\nThe ringleaders will be tried in secret court martials, but the average soldier will be sent back to the front, albeit in a different unit to prevent mutineers from forming new cells."
+  },
+  {
+    "key": "mutiny_event.8.t",
+    "version": "",
+    "type": "title",
+    "en": "Brother against Brother"
+  },
+  {
+    "key": "mutiny_event.8.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Our attempts to prevent the elections for the Worker and Soldier Councils have escalated the situation beyond even the most pessimistic estimation. Rather than surrendering, the mutineers have formed provisional Councils, elected field commanders and set up defenses in the streets. It is clear that they aim to make a fight out of this.\\n\\nThe rifts in the army now run through every unit and often even between members of the same family. [Root.GetNameDefCap] stands poised at the edge of a civil war."
+  },
+  {
+    "key": "mutiny_event.9.t",
+    "version": "",
+    "type": "title",
+    "en": "A new breed of officer"
+  },
+  {
+    "key": "mutiny_event.9.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Despite strong objections from the military, every unit in the [Root.GetAdjective] Army carried out elections to select their commander. The results have been very surprising, as most of the elected are accomplished soldiers with plenty of experience in the field. While many professional officers still consider this to be a personal insult, there can be little doubt that most soldiers dramatically prefer this situation."
+  },
+  {
+    "key": "canada_vanilla.1.title",
+    "version": "",
+    "type": "title",
+    "en": "Ronnie, the Bren Gun Girl"
+  },
+  {
+    "key": "canada_vanilla.1.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Around a million Canadian women entered the workforce during the Second World War. They were represented in the national media by a symbol of resilience and patriotism: Veronica Foster, popularly known as Ronnie, the Bren Gun Girl. She worked for John Inglis and Company at a Toronto gun factory while her three brothers fought overseas. The posters and short movies featuring her, and women like her, participating in the war effort likely inspired the better-known media campaign around 'Rosie the Riveter', after America's entry into the war."
+  },
+  {
+    "key": "generic.19.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetName] Sends Industrial Support"
+  },
+  {
+    "key": "generic.19.d",
+    "version": "",
+    "type": "desc",
+    "en": "[From.GetNameDefCap] has informed us that they support our cause, and will provide us with a certain measure of industrial aid to strengthen our position against our common enemies."
+  },
+  {
+    "key": "generic.20.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetNameDefCap] Demands Our Submission"
+  },
+  {
+    "key": "generic.20.d_friends",
+    "version": "",
+    "type": "desc",
+    "en": "We received a delegation today expressing [From.GetLeader]'s interest in extending the relations between our countries and taking steps to unite the [Root.GetAdjective] people together with [From.GetNameDef]. Agreeing to [From.GetLeader]'s proposal would make [Root.GetNameDef] a moderately autonomous puppet of [From.GetNameDef] and our government will be reorganized into something more in line with [From.GetLeader]'s vision.\\n\\nThe question remains, is [Root.GetAdjective] independence more important than our friendship with [From.GetNameDef]?"
+  },
+  {
+    "key": "generic.20.d_enemies",
+    "version": "",
+    "type": "desc",
+    "en": "A message arrived from [From.GetNameDef] today demanding that [Root.GetLeader] recognizes [From.GetLeader] as head of state and that our nation should be reorganized into something more in line with the [From.GetAdjective] government's vision for [Root.GetNameDef]. Accepting would make us a puppet of [From.GetNameDef].\\n\\nThough we would rather not surrender our independence to our enemies across the border, there's a definite element of threat in their message that would lead us to believe that if we do not meet [From.GetLeader]'s demands, we will soon find ourselves in a state of war with [From.GetNameDef]."
+  },
+  {
+    "key": "generic.21.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetNameDefCap] Submits"
+  },
+  {
+    "key": "generic.21.d",
+    "version": "",
+    "type": "desc",
+    "en": "The [From.GetAdjective] government has agreed to abandon their independence and become a puppet state of [Root.GetNameDef]. We are sure this will lead to greatness and advance [Root.GetAdjective] interest in the region."
+  },
+  {
+    "key": "generic.22.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetNameDefCap] Defiant!"
+  },
+  {
+    "key": "generic.22.d",
+    "version": "",
+    "type": "desc",
+    "en": "Diplomats from [From.GetNameDef] arrived today to announce that they decline our offer to unite [From.GetNameDef] with [Root.GetNameDef]. Disappointing as it may be, the option to bring [From.GetNameDef] to heel by force remains a valid and tempting option."
+  },
+  {
+    "key": "generic.23.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetNameDefCap] Demands Control of [demanded_prov_target.GetName]"
+  },
+  {
+    "key": "generic.23.d",
+    "version": "",
+    "type": "desc",
+    "en": "We have received a hostile delegation from [From.GetNameDef] today, claiming ownership of the entirety of the [demanded_prov_target.GetName] state. [From.GetLeader] demands that we return the territory immediately or war will be inevitable. They claim that [demanded_prov_target.Owner.GetAdjective] ownership of the region is illegitimate and that [demanded_prov_target.GetName] is an integral part of the [From.GetAdjective] state.\\n\\nShould we accept their demands, [demanded_prov_target.GetName] will be ceded to [From.GetNameDef] but we shall maintain any cores or claims we have over the region. Should we refuse, war between our nations seems inevitable."
+  },
+  {
+    "key": "generic.24.t",
+    "version": "",
+    "type": "title",
+    "en": "[demanded_prov_target.GetName] Ceded!"
+  },
+  {
+    "key": "generic.24.d",
+    "version": "",
+    "type": "desc",
+    "en": "[From.GetNameDefCap] has decided to accept our rightful claim of [demanded_prov_target.GetName] and has ceded the region to [Root.GetNameDef].\\nWith this matter dealt with in such an expedient and courteous manner, we are certain that the peace between [Root.GetNameDef] and [From.GetNameDef] shall continue in perpetuity."
+  },
+  {
+    "key": "generic.25.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetNameDefCap] Defiant!"
+  },
+  {
+    "key": "generic.25.d",
+    "version": "",
+    "type": "desc",
+    "en": "[From.GetNameDefCap] has refused our demands and now we must decide whether or not to fulfill our promise to invade. Failing to carry out our word will greatly damage public perception of [Root.GetLeader] and the legitimacy of the [Root.GetAdjective] government."
+  },
+  {
+    "key": "spain.11.t",
+    "version": "",
+    "type": "title",
+    "en": "Carlist Uprising"
+  },
+  {
+    "key": "spain.11.d",
+    "version": "",
+    "type": "desc",
+    "en": "Carlists B mad, yo!"
+  },
+  {
+    "key": "spain.12.t",
+    "version": "",
+    "type": "title",
+    "en": "Anarchist Uprising"
+  },
+  {
+    "key": "spain.12.d",
+    "version": "",
+    "type": "desc",
+    "en": "Anarchists B mad, yo!"
+  },
+  {
+    "key": "lar_test.1.t",
+    "version": "",
+    "type": "title",
+    "en": "TODO_LAR_BC: Test Title"
+  },
+  {
+    "key": "lar_test.1.d",
+    "version": "",
+    "type": "desc",
+    "en": "TODO_LAR_BC: this is a test\\nThis:[This.GetName]\\nFrom:[From.GetName]\\nFrom.From:[From.From.GetName]\\nRoot:[Root.GetName]\\n"
+  },
+  {
+    "key": "lar_collab_gov.1.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetAdjective] Partisans in [Root.GetNameDef]"
+  },
+  {
+    "key": "lar_collab_gov.1.d",
+    "version": "",
+    "type": "desc",
+    "en": "[From.GetNameDefCap] have recently increased their efforts to build collaboration within our nation. A number of [This.GetAdjective] politicians have started speaking rather sympathetically about the [From.GetAdjective] regime, and many partisans within our nation are turning their [From.GetRulingIdeology] sentiment into direct support for [From.GetNameDef].\\n\\nThe growing [From.GetAdjective] influence in our nation will undoubtedly lower [Root.GetAdjective] resistance and may even lead to a new [From.GetRulingIdeology] government in collaboration with [From.GetNameDef] in the event that [Root.GetNameDef] should capitulate."
+  },
+  {
+    "key": "ETH_events.1.t",
+    "version": "",
+    "type": "title",
+    "en": "Ethiopia Proposes White Peace"
+  },
+  {
+    "key": "ETH_events.1.d",
+    "version": "",
+    "type": "desc",
+    "en": "With control of both Somaliland and Eritrea almost completely lost save for a few pockets of resistance, the Ethiopian government has proposed that we find a peaceful end to these hostilities. Italy will officially end their invasion of Ethiopia and cede the occupied territories in East Africa to Ethiopia. How should we respond?"
+  },
+  {
+    "key": "ETH_events.101.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetNameDefCap] Refuses Peace"
+  },
+  {
+    "key": "ETH_events.101.d",
+    "version": "",
+    "type": "desc",
+    "en": "In spite of losing control of all territories in Eastern Africa, [From.GetLeader] has rejected our offer of white peace. It would seem total capitulation is the only way this war will ever end."
+  },
+  {
+    "key": "generic_purchase_ships_events.01.t",
+    "version": "",
+    "type": "title",
+    "en": "[FROM.GetAdjective] Naval Procurement"
+  },
+  {
+    "key": "generic_purchase_ships_events.01.desc",
+    "version": "",
+    "type": "desc",
+    "en": "[FROM.GetNameDefCap] have approached us with an offer to procure some of our mothballed naval assets. The assets they are interested in are no longer in service due to their age and lack of modern equipment."
+  },
+  {
+    "key": "generic_purchase_ships_events.02.t",
+    "version": "",
+    "type": "title",
+    "en": "[FROM.GetNameDefCap] Agree to Naval Procurement"
+  },
+  {
+    "key": "generic_purchase_ships_events.02.desc",
+    "version": "",
+    "type": "desc",
+    "en": "[FROM.GetAdjective] diplomats and naval personnel have informed us that they will part with their mothballed equipment we offered to purchase. This will allow us to rapidly expand our fledgling navy."
+  },
+  {
+    "key": "generic_purchase_ships_events.03.t",
+    "version": "",
+    "type": "title",
+    "en": "[FROM.GetNameDefCap] Refuses Naval Procurement Deal"
+  },
+  {
+    "key": "generic_purchase_ships_events.03.desc",
+    "version": "",
+    "type": "desc",
+    "en": "[FROM.GetAdjective] diplomats have informed us that they are unwilling to part with the mothballed equipment we offered to purchase. It is unclear whether the rejection is due to their own plans for the ships or is intended as a sign of their disapproval for our policies."
+  },
+  {
+    "key": "generic_purchase_ships_events.04.t",
+    "version": "",
+    "type": "title",
+    "en": "[FROM.GetAdjective] Naval Procurement"
+  },
+  {
+    "key": "generic_purchase_ships_events.05.t",
+    "version": "",
+    "type": "title",
+    "en": "[FROM.GetNameDefCap] Agrees to Dreadnought Procurement"
+  },
+  {
+    "key": "generic_purchase_ships_events.05.desc",
+    "version": "",
+    "type": "desc",
+    "en": "[FROM.GetAdjective] diplomats and naval personnel have informed us that they will part with their mothballed dreadnoughts that we offered to purchase. This will allow us to rapidly expand our navy and maintain a lead over our neighbors."
+  },
+  {
+    "key": "generic_purchase_ships_events.06.t",
+    "version": "",
+    "type": "title",
+    "en": "[FROM.GetNameDefCap] Refuses Dreadnought Procurement Deal"
+  },
+  {
+    "key": "generic_purchase_ships_events.06.desc",
+    "version": "",
+    "type": "desc",
+    "en": "[FROM.GetAdjective] diplomats have informed us that they are unwilling to part with the mothballed dreadnoughts we offered to purchase. It is unclear whether the rejection is due to their own plans for the ships or is intended as a sign of their disapproval for our policies."
+  }
+]

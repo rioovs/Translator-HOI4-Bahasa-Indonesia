@@ -1,0 +1,58 @@
+[
+  {
+    "line_num": 411,
+    "key": "lar_decryption_bonus_tech",
+    "ver": "",
+    "val": "Decryption Bonus",
+    "comm": ""
+  },
+  {
+    "line_num": 412,
+    "key": "lar_decryption_bonus_tt",
+    "ver": "",
+    "val": "We will gain §G+10 Decryption Speed§!",
+    "comm": ""
+  },
+  {
+    "line_num": 413,
+    "key": "lar_decryption_bonus_tech_desc",
+    "ver": "",
+    "val": "We will gain §G+10 Decryption Speed§!",
+    "comm": ""
+  },
+  {
+    "line_num": 414,
+    "key": "OPERATIVE_RESUME_MISSION_AFTER_OPERATION_CHECKBOX_LABEL",
+    "ver": "",
+    "val": "Resume mission",
+    "comm": ""
+  },
+  {
+    "line_num": 415,
+    "key": "OPERATIVE_RESUME_MISSION_AFTER_OPERATION_TOOLTIP",
+    "ver": "",
+    "val": "Whether the operative will resume the mission they are assigned to when the operation starts.",
+    "comm": ""
+  },
+  {
+    "line_num": 416,
+    "key": "OPERATIVE_RESUME_MISSION_AFTER_OPERATION_INDICATOR_TOOLTIP",
+    "ver": "",
+    "val": "This operative will resume the mission they were assigned to when the operation started.",
+    "comm": ""
+  },
+  {
+    "line_num": 417,
+    "key": "OPERATIVE_DISBAND_TITLE",
+    "ver": "",
+    "val": "Dismiss Operative",
+    "comm": ""
+  },
+  {
+    "line_num": 418,
+    "key": "OPERATIVE_DISBAND_DESC",
+    "ver": "",
+    "val": "Are you sure you want to §RDismiss§! this operative? It will take time before you can recruit a new operative.",
+    "comm": ""
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "lineNum": 1504,
+    "key": "CAN_dollar_a_year_men",
+    "val": "Dollar-A-Year Men",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1505,
+    "key": "CAN_dollar_a_year_men_desc",
+    "val": "Canadian industry has efficiency issues, but a number of wealthy businessmen have offered their service and advice in return for a token sum. This small coterie of counselors will move us forward.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1506,
+    "key": "CAN_canada_pacific_railway",
+    "val": "Canadian Pacific Railway",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1507,
+    "key": "CAN_canada_pacific_railway_desc",
+    "val": "The CPR has made all of its resources available to the war effort. Thousands of tonnes of supplies and material will cross our grand Dominion, from sea to sea, without interruption.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1508,
+    "key": "CAN_maritime_colonial_railway",
+    "val": "Maritime Colonial Railway",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1509,
+    "key": "CAN_maritime_colonial_railway_desc",
+    "val": "Our Eastern provinces have been underserved by rail lines since the sale of the Intercolonial Railway to the Canadian National Railway. We are encouraging and undertaking a new Maritime Colonial Railway to expand connections between the central provinces and the Atlantic provinces.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1510,
+    "key": "CAN_retool_angus_shops",
+    "val": "Retool Angus Shops",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1511,
+    "key": "CAN_retool_angus_shops_desc",
+    "val": "A modern army needs armor, and the CPR's Angus Shops are suitable for its construction. Retool and refit this infrastructure to build tanks.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1512,
+    "key": "CAN_imperial_oil",
+    "val": "Imperial Oil",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1513,
+    "key": "CAN_imperial_oil_desc",
+    "val": "Imperial Oil wants to finance exploration in Western Canada. This will increase our reserves of petroleum and lubricate the war machine.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1514,
+    "key": "CAN_department_of_munitions_and_supply",
+    "val": "Department of Munitions and Supply",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1515,
+    "key": "CAN_department_of_munitions_and_supply_desc",
+    "val": "We will bring the control and management of Canada's national resources under C.D. Howe in the Department of Munitions and Supply.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1516,
+    "key": "CAN_national_resources_mobilization_act",
+    "val": "National Resources Mobilization Act",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1517,
+    "key": "CAN_national_resources_mobilization_act_desc",
+    "val": "Canada is large with its population scattered in pockets across the land. A system should be developed to track employment status, and make sure that anyone eligible for service overseas can be located.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1518,
+    "key": "CAN_wartime_prices_and_trade_board",
+    "val": "Wartime Prices and Trade Board",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1519,
+    "key": "CAN_wartime_prices_and_trade_board_desc",
+    "val": "To prevent profiteering and hoarding, price controls have been introduced to make goods available to most Canadians.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1520,
+    "key": "CAN_bits_and_pieces_program",
+    "val": "Bits and Pieces Program",
+    "isPureVar": false
+  }
+]

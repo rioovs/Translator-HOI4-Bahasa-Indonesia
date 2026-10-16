@@ -1,0 +1,1402 @@
+[
+  {
+    "line": 2374,
+    "key": "wuw_GER_monroe.9.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Dismantles the Monroe Doctrine",
+    "comment": ""
+  },
+  {
+    "line": 2375,
+    "key": "wuw_GER_monroe.9.desc",
+    "ver": "",
+    "en": "Our efforts have finally paid off. Leader of [FROM.GetNameDef], [FROM.GetLeader] has just announced the dismantling of the Monroe Doctrine. Of course [FROM.GetLeader.GetSheHe] spoke of this as something bad, but we know that the countries formerly included in the Doctrine will appreciate this development.",
+    "comment": ""
+  },
+  {
+    "line": 2376,
+    "key": "wuw_GER_monroe.9.a",
+    "ver": "",
+    "en": "Wunderbar!",
+    "comment": ""
+  },
+  {
+    "line": 2378,
+    "key": "wuw_GER_monroe.10.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Partially Dismantles the Monroe Doctrine",
+    "comment": ""
+  },
+  {
+    "line": 2379,
+    "key": "wuw_GER_monroe.10.desc",
+    "ver": "",
+    "en": "Our efforts have finally paid off. Leader of [FROM.GetNameDef], [FROM.GetLeader] has just announced the dismantling of the Monroe Doctrine, but only partially. [FROM.GetLeader.GetSheHe] goes on to state that they intend to guarantee the independence of all those that have not risen up in opposition as they believe that that is the right call. This might hamper our progress in the region, but surely we can overcome this as well.",
+    "comment": ""
+  },
+  {
+    "line": 2380,
+    "key": "wuw_GER_monroe.10.a",
+    "ver": "",
+    "en": "Onwards",
+    "comment": ""
+  },
+  {
+    "line": 2382,
+    "key": "wuw_GER_monroe.11.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Partially Dismantles the Monroe Doctrine",
+    "comment": ""
+  },
+  {
+    "line": 2383,
+    "key": "wuw_GER_monroe.11.desc",
+    "ver": "",
+    "en": "Our efforts have finally paid off. Leader of [FROM.GetNameDef], [FROM.GetLeader] has just announced the dismantling of the Monroe Doctrine, but only partially. [FROM.GetLeader.GetSheHe] goes on to state that they intend to guarantee the independence of those who still support the Monroe Doctrine. Though fewer now, they claim that they are strong as ever. This might hamper our progress in the region, but has not put up a significant hurdle for us. Surely we will overcome this as well.",
+    "comment": ""
+  },
+  {
+    "line": 2384,
+    "key": "wuw_GER_monroe.11.a",
+    "ver": "",
+    "en": "Onwards",
+    "comment": ""
+  },
+  {
+    "line": 2386,
+    "key": "wuw_GER_monroe.12.t",
+    "ver": "",
+    "en": "War between [USA.GetNameDef] and [GER.GetNameDef] ends dispute over Monroe Doctrine",
+    "comment": ""
+  },
+  {
+    "line": 2387,
+    "key": "wuw_GER_monroe.12.desc",
+    "ver": "",
+    "en": "The low level and low intensity dispute over the Monroe Doctrine has ebbed out after our two countries became engulfed in war. Diplomacy and covert operation in foreign lands seem all too meaningless even to politicians far off from the front as our countries clash much more directly.",
+    "comment": ""
+  },
+  {
+    "line": 2388,
+    "key": "wuw_GER_monroe.12.a",
+    "ver": "",
+    "en": "We will solve this with guns instead!",
+    "comment": ""
+  },
+  {
+    "line": 2390,
+    "key": "wuw_GER_monroe.13.t",
+    "ver": "",
+    "en": "Foreign Powers Acting to Destabilize the Region",
+    "comment": ""
+  },
+  {
+    "line": 2391,
+    "key": "wuw_GER_monroe.13.desc",
+    "ver": "",
+    "en": "It has come to our attention that an increased interest has been seen from [GER.GetAdjective] actors in the region. Our report is bare bones but it appears that attempts are made to destabilize and further on even dismantle the Monroe Doctrine.",
+    "comment": ""
+  },
+  {
+    "line": 2392,
+    "key": "wuw_GER_monroe.13.a",
+    "ver": "",
+    "en": "Oh dear...",
+    "comment": ""
+  },
+  {
+    "line": 2394,
+    "key": "wuw_GER_monroe_news.1.t",
+    "ver": "",
+    "en": "The Downfall of the Monroe Doctrine",
+    "comment": ""
+  },
+  {
+    "line": 2395,
+    "key": "wuw_GER_monroe_news.1.desc",
+    "ver": "",
+    "en": "After extensive pressure and diplomatic efforts by [GER.GetNameDef], the so called Monroe Doctrine has fallen. Put into place by [USA.GetNameDef] to safe keep the Americas the Doctrine has ensured peace, at least to some extent, on the continent. The motives of the [GER.GetAdjective]s to do this remains unclear.",
+    "comment": ""
+  },
+  {
+    "line": 2396,
+    "key": "wuw_GER_monroe_news.1.a",
+    "ver": "",
+    "en": "Truly marvelous",
+    "comment": ""
+  },
+  {
+    "line": 2397,
+    "key": "wuw_GER_monroe_news.1.b",
+    "ver": "",
+    "en": "How Horrible",
+    "comment": ""
+  },
+  {
+    "line": 2398,
+    "key": "wuw_GER_monroe_news.1.c",
+    "ver": "",
+    "en": "A great day!",
+    "comment": ""
+  },
+  {
+    "line": 2399,
+    "key": "wuw_GER_monroe_news.1.d",
+    "ver": "",
+    "en": "A horrible day!",
+    "comment": ""
+  },
+  {
+    "line": 2401,
+    "key": "GER_crushed_the_monroe_doctrine_good",
+    "ver": "",
+    "en": "Crushed the Monroe Doctrine",
+    "comment": ""
+  },
+  {
+    "line": 2402,
+    "key": "GER_crushed_the_monroe_doctrine_bad",
+    "ver": "",
+    "en": "Crushed the Monroe Doctrine",
+    "comment": ""
+  },
+  {
+    "line": 2403,
+    "key": "GER_saved_the_monroe_doctrine_bad",
+    "ver": "",
+    "en": "Reinforced the Monroe Doctrine",
+    "comment": ""
+  },
+  {
+    "line": 2404,
+    "key": "GER_supported_the_monroe_doctrine_good",
+    "ver": "",
+    "en": "Supported the Monroe Doctrine",
+    "comment": ""
+  },
+  {
+    "line": 2405,
+    "key": "GER_opposed_the_monroe_doctrine_good",
+    "ver": "",
+    "en": "Opposed the Monroe Doctrine",
+    "comment": ""
+  },
+  {
+    "line": 2409,
+    "key": "germany_mefo_bills.1.t",
+    "ver": "",
+    "en": "The Future of the German Rearmament Program",
+    "comment": ""
+  },
+  {
+    "line": 2410,
+    "key": "germany_mefo_bills.1.desc",
+    "ver": "",
+    "en": "The financial tolls of the rearmament program risk collapsing our economy. If we mean to keep armament production at the same level as before, we must seek out new ways of funding - or change our prioritization.",
+    "comment": ""
+  },
+  {
+    "line": 2411,
+    "key": "germany_mefo_bills.1.a",
+    "ver": "",
+    "en": "Rearmament has always been our goal",
+    "comment": ""
+  },
+  {
+    "line": 2412,
+    "key": "germany_mefo_bills.1.b",
+    "ver": "",
+    "en": "The program is too expensive",
+    "comment": ""
+  },
+  {
+    "line": 2413,
+    "key": "germany_mefo_bills.2.t",
+    "ver": "",
+    "en": "Growing Expenses of Rearmament",
+    "comment": ""
+  },
+  {
+    "line": 2414,
+    "key": "germany_mefo_bills.2.desc",
+    "ver": "",
+    "en": "Our rearmament program, while both necessary and with noble intent, is starting to cause concern among some of our economists. They worry that military production will need more and more funds to sustain itself. We need to keep a close eye so that military spending doesn't spiral out of control.",
+    "comment": ""
+  },
+  {
+    "line": 2415,
+    "key": "germany_mefo_bills.2.a",
+    "ver": "",
+    "en": "We'll manage for now",
+    "comment": ""
+  },
+  {
+    "line": 2416,
+    "key": "germany_mefo_bills.3.t",
+    "ver": "",
+    "en": "Growing Concerns over Rearmament",
+    "comment": ""
+  },
+  {
+    "line": 2417,
+    "key": "germany_mefo_bills.3.desc",
+    "ver": "",
+    "en": "While our rearmament efforts grow ever stronger, so does the burden to keep the programs funded. Military production is now taking up a considerable amount of our nation's finances, which has more and more people concerned about the stability of our economy. If we can't manage to keep the military expenses down, it will severely hamper our economy.",
+    "comment": ""
+  },
+  {
+    "line": 2418,
+    "key": "germany_mefo_bills.3.a",
+    "ver": "",
+    "en": "We must find alternative funds",
+    "comment": ""
+  },
+  {
+    "line": 2419,
+    "key": "germany_mefo_bills.4.t",
+    "ver": "",
+    "en": "Military Production Causes Economic Crisis",
+    "comment": ""
+  },
+  {
+    "line": 2420,
+    "key": "germany_mefo_bills.4.desc",
+    "ver": "",
+    "en": "Military spending has reached an unprecedented level and has taken a real toll on our finances. Without immediate funding, our armament production will grind to a halt, and our economy as a whole will strain under the burden of trying to prompt it up.",
+    "comment": ""
+  },
+  {
+    "line": 2421,
+    "key": "germany_mefo_bills.4.a",
+    "ver": "",
+    "en": "We cannot allow this crisis to continue!",
+    "comment": ""
+  },
+  {
+    "line": 2422,
+    "key": "GER_mefo_bills_warning_tt",
+    "ver": "",
+    "en": "§Y[GetMilitaryProductionModifierName]§! has reached $MODIFIER_CONSUMER_GOODS_FACTOR$: §Y[?ROOT.GER_industrial_consumer_goods_factor|1%]§!",
+    "comment": ""
+  },
+  {
+    "line": 2424,
+    "key": "anschluss_mefo_bills_tt",
+    "ver": "",
+    "en": "Uses Austrian gold to reduce the cost of §Y[GetMilitaryProductionModifierName]§!.\\n",
+    "comment": ""
+  },
+  {
+    "line": 2425,
+    "key": "end_of_czechoslovakia_mefo_bills_tt",
+    "ver": "",
+    "en": "Uses Czechoslovak gold to reduce the cost of §Y[GetMilitaryProductionModifierName]§!.\\n",
+    "comment": ""
+  },
+  {
+    "line": 2426,
+    "key": "yugoslavia_mefo_bills_tt",
+    "ver": "",
+    "en": "Uses Yugoslavian gold to reduce the cost of §Y[GetMilitaryProductionModifierName]§!.\\n",
+    "comment": ""
+  },
+  {
+    "line": 2427,
+    "key": "lithuania_mefo_bills_tt",
+    "ver": "",
+    "en": "Uses Lithuanian gold to reduce the cost of §Y[GetMilitaryProductionModifierName]§!.\\n",
+    "comment": ""
+  },
+  {
+    "line": 2428,
+    "key": "poland_mefo_bills_tt",
+    "ver": "",
+    "en": "Uses Polish gold to reduce the cost of §Y[GetMilitaryProductionModifierName]§!.\\n",
+    "comment": ""
+  },
+  {
+    "line": 2429,
+    "key": "generic_lower_mefo_bills_tt",
+    "ver": "",
+    "en": "Uses newly seized gold to reduce the cost of §Y[GetMilitaryProductionModifierName]§!.\\n",
+    "comment": ""
+  },
+  {
+    "line": 2431,
+    "key": "wuw_GER_military_events.2.t",
+    "ver": "",
+    "en": "Pilot Spares [USA.GetAdjective] Bomber Crew",
+    "comment": ""
+  },
+  {
+    "line": 2432,
+    "key": "wuw_GER_military_events.2.desc",
+    "ver": "",
+    "en": "Following intensive bombing raids of our military industry an unlikely story has surfaced. Despite clear orders to bring every enemy plane violating our airspace down, one fighter pilot has refused to do this. The pilot, one Franz Stigler, came across a crippled bomber just after a bombing raid and elected to not open fire upon it. He justifies his actions by stating that the crippled bomber was no different than men in parachutes, and that shooting at them would be just as abhorrent. After initially attempting to communicate with the bomber crew to have them land in [GER.GetNameDef] and surrender, or at least head to neutral territory, Stigler gave up on these decent efforts, and instead escorted the enemy bomber to safety.\\n\\nFranz Stigler is a talented pilot, but allowed to continue like this, he and his defiant actions, might cause us issues.",
+    "comment": ""
+  },
+  {
+    "line": 2433,
+    "key": "wuw_GER_military_events.2.a",
+    "ver": "",
+    "en": "We'll let him live, but this cannot be repeated!",
+    "comment": ""
+  },
+  {
+    "line": 2434,
+    "key": "wuw_GER_military_events.2.b",
+    "ver": "",
+    "en": "Make an example out of him!",
+    "comment": ""
+  },
+  {
+    "line": 2435,
+    "key": "wuw_GER_military_events.2.c",
+    "ver": "",
+    "en": "Not one word about this.",
+    "comment": ""
+  },
+  {
+    "line": 2437,
+    "key": "wuw_GER_diplomacy.1.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] offers a trading partnership",
+    "comment": ""
+  },
+  {
+    "line": 2439,
+    "key": "wuw_GER_diplomacy.1.a",
+    "ver": "",
+    "en": "We both stand to gain from this.",
+    "comment": ""
+  },
+  {
+    "line": 2440,
+    "key": "wuw_GER_diplomacy.1.b",
+    "ver": "",
+    "en": "This deal will only benefit one of us...",
+    "comment": ""
+  },
+  {
+    "line": 2441,
+    "key": "wuw_GER_diplomacy.2.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] accepted our trading proposition",
+    "comment": ""
+  },
+  {
+    "line": 2442,
+    "key": "wuw_GER_diplomacy.2.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] seems to be a reasonable leader who is looking out for [FROM.GetLeader.GetHerHis] country's best interests. Coincidentally, this just so happens to be in our country's best interest as well. We will put the extra resources from [FROM.GetName] to good use.",
+    "comment": ""
+  },
+  {
+    "line": 2444,
+    "key": "wuw_GER_diplomacy.3.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] rejected our trading proposition",
+    "comment": ""
+  },
+  {
+    "line": 2445,
+    "key": "wuw_GER_diplomacy.3.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] seems to be an unreasonable and unwise leader who couldn't care less for what is best for [FROM.GetLeader.GetHerHis] country. We will turn elsewhere to find what we seek.",
+    "comment": ""
+  },
+  {
+    "line": 2446,
+    "key": "wuw_GER_diplomacy.3.a",
+    "ver": "",
+    "en": "Their loss.",
+    "comment": ""
+  },
+  {
+    "line": 2449,
+    "key": "wuw_GER_diplomacy.10.a",
+    "ver": "",
+    "en": "We dare not say no....",
+    "comment": ""
+  },
+  {
+    "line": 2450,
+    "key": "wuw_GER_diplomacy.10.b",
+    "ver": "",
+    "en": "This is unacceptable!",
+    "comment": ""
+  },
+  {
+    "line": 2451,
+    "key": "wuw_GER_diplomacy.11.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Foils Our Plans",
+    "comment": ""
+  },
+  {
+    "line": 2452,
+    "key": "wuw_GER_diplomacy.11.desc",
+    "ver": "",
+    "en": "In no uncertain terms have [FROM.GetLeader] of [FROM.GetName] let us know what [FROM.GetLeader.GetSheHe] thinks of our recent attempt to influence their internal politics. Needless to say, our diplomats had to rephrase parts of the message before presenting it to [ROOT.GetLeader].",
+    "comment": ""
+  },
+  {
+    "line": 2453,
+    "key": "wuw_GER_diplomacy.11.a",
+    "ver": "",
+    "en": "The insolence!",
+    "comment": ""
+  },
+  {
+    "line": 2454,
+    "key": "wuw_GER_diplomacy.20.t",
+    "ver": "",
+    "en": "An Invitation to the [FROM.GetFactionName]",
+    "comment": ""
+  },
+  {
+    "line": 2455,
+    "key": "wuw_GER_diplomacy.20.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] has personally extended an invitation to the [FROM.GetFactionName] to [ROOT.GetLeader]. Representatives from the [FROM.GetAdjective] High Command ensure us that together with their already formidable alliance we will effortlessly vanquish our common enemies, ensuring [ROOT.GetAdjective] dominance in our vicinity.",
+    "comment": ""
+  },
+  {
+    "line": 2456,
+    "key": "wuw_GER_diplomacy.20.a",
+    "ver": "",
+    "en": "Together for victory!",
+    "comment": ""
+  },
+  {
+    "line": 2457,
+    "key": "wuw_GER_diplomacy.20.b",
+    "ver": "",
+    "en": "We have other plans",
+    "comment": ""
+  },
+  {
+    "line": 2458,
+    "key": "wuw_GER_diplomacy.21.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Joins the [ROOT.GetFactionName]",
+    "comment": ""
+  },
+  {
+    "line": 2459,
+    "key": "wuw_GER_diplomacy.21.desc",
+    "ver": "",
+    "en": "Our Military High Command together with skilled diplomats have managed to convince [FROM.GetLeader] and the [FROM.GetAdjective] government to join forces with us to crush our common foes. We of course don't really need their assistance to lay waste to our enemies, but their soldiers will do nicely as cannon fodder while our men strikes down any opposition.",
+    "comment": ""
+  },
+  {
+    "line": 2460,
+    "key": "wuw_GER_diplomacy.21.a",
+    "ver": "",
+    "en": "Welcome to the fold!",
+    "comment": ""
+  },
+  {
+    "line": 2461,
+    "key": "wuw_GER_diplomacy.22.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Rejects Our Invitation",
+    "comment": ""
+  },
+  {
+    "line": 2462,
+    "key": "wuw_GER_diplomacy.22.desc",
+    "ver": "",
+    "en": "Despite our best efforts and the obvious advantages [FROM.GetNameDef] would stand to gain by combining our forces, [FROM.GetLeader] and the [FROM.GetAdjective] government has made the erroneous decision to decline our invitation to join the [ROOT.GetFactionName]. This will of course not change much for us as this invitation was more for the benefit of [FROM.GetName].",
+    "comment": ""
+  },
+  {
+    "line": 2463,
+    "key": "wuw_GER_diplomacy.22.a",
+    "ver": "",
+    "en": "Let us see how long they last alone",
+    "comment": ""
+  },
+  {
+    "line": 2464,
+    "key": "wuw_GER_diplomacy.23.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Request Control Over Former Colonies",
+    "comment": ""
+  },
+  {
+    "line": 2465,
+    "key": "wuw_GER_diplomacy.23.desc",
+    "ver": "",
+    "en": "The [FROM.GetAdjective] leader [FROM.GetLeader] has approached us with a suggestion for a deal that is, at least according to [FROM.GetLeader.GetHerHis], of a mutually beneficial nature. [FROM.GetLeader.GetHerHis] wishes to have their former colonies back, but in return offers insight into their production of tanks and a promise of peace between our countries.",
+    "comment": ""
+  },
+  {
+    "line": 2466,
+    "key": "wuw_GER_diplomacy.23.a",
+    "ver": "",
+    "en": "The [FROM.GetADjective]s make a compelling case",
+    "comment": ""
+  },
+  {
+    "line": 2467,
+    "key": "wuw_GER_diplomacy.23.b",
+    "ver": "",
+    "en": "That does not benefit us at all!",
+    "comment": ""
+  },
+  {
+    "line": 2468,
+    "key": "wuw_GER_diplomacy.24.t",
+    "ver": "",
+    "en": "The [FROM.GetAdjective] Transfer Former [ROOT.GetAdjective] Colonies",
+    "comment": ""
+  },
+  {
+    "line": 2469,
+    "key": "wuw_GER_diplomacy.24.desc",
+    "ver": "",
+    "en": "We have received a most welcome message from [FROM.GetNameDef]. They have seen the benefit in the deal that we proposed and have transferred all of our old colonies that were previously under their control into our ownership.",
+    "comment": ""
+  },
+  {
+    "line": 2470,
+    "key": "wuw_GER_diplomacy.24.a",
+    "ver": "",
+    "en": "Wonderful News!",
+    "comment": ""
+  },
+  {
+    "line": 2471,
+    "key": "wuw_GER_diplomacy.25.t",
+    "ver": "",
+    "en": "The [FROM.GetAdjective] Rejects to Transfer Our Old Colonies to Us.",
+    "comment": ""
+  },
+  {
+    "line": 2472,
+    "key": "wuw_GER_diplomacy.25.desc",
+    "ver": "",
+    "en": "We thought [FROM.GetLeader] of [FROM.GetNameDef] a most reasonable man, but it appears that we might have been wrong. The [FROM.GetAdjective] are stubbornly refusing our proposed deal despite the obvious benefits it would have bestowed upon them. We will simply have to do without our old colonies.",
+    "comment": ""
+  },
+  {
+    "line": 2473,
+    "key": "wuw_GER_diplomacy.25.a",
+    "ver": "",
+    "en": "A poor decision on their end...",
+    "comment": ""
+  },
+  {
+    "line": 2474,
+    "key": "wuw_GER_diplomacy.26.t",
+    "ver": "",
+    "en": "A Proposal for Joint Research",
+    "comment": ""
+  },
+  {
+    "line": 2475,
+    "key": "wuw_GER_diplomacy.26.desc",
+    "ver": "",
+    "en": "The [FROM.GetAdjective] leader [FROM.GetLeader] has approached us with a proposal for scientific cooperation. [FROM.GetLeader.GetSheHeCap] states that with us having similar ideologies but very different focus in regards to how we run our navies there is an ample opportunity for cooperation here. Agreeing to this pact will mean sharing some of our findings with them, but would also allow us to learn from them.",
+    "comment": ""
+  },
+  {
+    "line": 2476,
+    "key": "wuw_GER_diplomacy.26.a",
+    "ver": "",
+    "en": "Sounds fair enough",
+    "comment": ""
+  },
+  {
+    "line": 2477,
+    "key": "wuw_GER_diplomacy.26.b",
+    "ver": "",
+    "en": "This is of no interest to us",
+    "comment": ""
+  },
+  {
+    "line": 2478,
+    "key": "wuw_GER_diplomacy.27.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Agrees to Establish Joint Research Efforts",
+    "comment": ""
+  },
+  {
+    "line": 2479,
+    "key": "wuw_GER_diplomacy.27.desc",
+    "ver": "",
+    "en": "The [FROM.GetAdjective] leadership has responded most positively to our proposed joint research efforts. Seeing as our naval efforts have differed greatly they too see the value of learning from each other so that we may grow ever stronger together.",
+    "comment": ""
+  },
+  {
+    "line": 2480,
+    "key": "wuw_GER_diplomacy.27.a",
+    "ver": "",
+    "en": "Great!",
+    "comment": ""
+  },
+  {
+    "line": 2481,
+    "key": "wuw_GER_diplomacy.28.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Rejects our Research Proposal",
+    "comment": ""
+  },
+  {
+    "line": 2482,
+    "key": "wuw_GER_diplomacy.28.desc",
+    "ver": "",
+    "en": "The response from [FROM.GetNameDef] was not what we had hoped for. They seem unwilling to share their findings in naval engineering, even as we offer a most beneficial deal to them, offering them to share our own findings with them. Along with the rejection comes the statement that the [FROM.GetAdjective] Navy is far superior to our own and that until we have made significant advancements in naval tech, any sort of deal like this is off the table.",
+    "comment": ""
+  },
+  {
+    "line": 2483,
+    "key": "wuw_GER_diplomacy.29.t",
+    "ver": "",
+    "en": "Old Ally Suggests Trade Deal",
+    "comment": ""
+  },
+  {
+    "line": 2484,
+    "key": "wuw_GER_diplomacy.29.desc",
+    "ver": "",
+    "en": "There were days when we considered [FROM.GetNameDef], or at least their precursor, an ally of ours. During recent years we have been drifting apart but it seems that they now wish to rekindle the friendship. Suggesting a mutually beneficial trade deal the [FROM.GetAdjective] have once again reached a hand out to us.",
+    "comment": ""
+  },
+  {
+    "line": 2485,
+    "key": "wuw_GER_diplomacy.29.a",
+    "ver": "",
+    "en": "Unexpected, but welcome!",
+    "comment": ""
+  },
+  {
+    "line": 2486,
+    "key": "wuw_GER_diplomacy.29.b",
+    "ver": "",
+    "en": "This sounds shady...",
+    "comment": ""
+  },
+  {
+    "line": 2487,
+    "key": "wuw_GER_diplomacy.30.t",
+    "ver": "",
+    "en": "[FROM.GetAdjective] Acceptance of the Trade Proposal",
+    "comment": ""
+  },
+  {
+    "line": 2488,
+    "key": "wuw_GER_diplomacy.30.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] of [FROM.GetNameDef] has responded positively to our suggested trade deal. We have previously had most beneficial trade deals with them and [ROOT.GetLeader] is most positive that this will bring us much profit.",
+    "comment": ""
+  },
+  {
+    "line": 2489,
+    "key": "wuw_GER_diplomacy.30.a",
+    "ver": "",
+    "en": "Great news!",
+    "comment": ""
+  },
+  {
+    "line": 2490,
+    "key": "wuw_GER_diplomacy.31.t",
+    "ver": "",
+    "en": "[FROM.GetAdjective] Rejection of Our Trade Proposal",
+    "comment": ""
+  },
+  {
+    "line": 2491,
+    "key": "wuw_GER_diplomacy.31.desc",
+    "ver": "",
+    "en": "Despite our historical ties and the clear benefit to them [FROM.GetNameDef] has rejected the trade deal that we proposed. The deal would have facilitated more trade between our two countries and solidified our companionship. Alas, it seems that the [FROM.GetAdjective] had other ideas.",
+    "comment": ""
+  },
+  {
+    "line": 2492,
+    "key": "wuw_GER_diplomacy.31.a",
+    "ver": "",
+    "en": "Their loss",
+    "comment": ""
+  },
+  {
+    "line": 2493,
+    "key": "wuw_GER_diplomacy.32.t",
+    "ver": "",
+    "en": "[FROM.GetAdjective] Request to Resume the Lease of [743.GetName]",
+    "comment": ""
+  },
+  {
+    "line": 2494,
+    "key": "wuw_GER_diplomacy.32.desc",
+    "ver": "",
+    "en": "In negotiations during 1898 [743.GetName] was leased out to what was then called the German Empire. Today their successor, [FROM.GetNameDef], has reached out to us wishing to resume this lease. The original lease was to run until 1997, but was cut short by the Great War, and the [JAP.GetAdjective] occupation.",
+    "comment": ""
+  },
+  {
+    "line": 2495,
+    "key": "wuw_GER_diplomacy.32.a",
+    "ver": "",
+    "en": "We have no interest in resuming that lease",
+    "comment": ""
+  },
+  {
+    "line": 2496,
+    "key": "wuw_GER_diplomacy.32.b",
+    "ver": "",
+    "en": "We will honor our original deal",
+    "comment": ""
+  },
+  {
+    "line": 2497,
+    "key": "wuw_GER_diplomacy.33.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Refuses to Return to our Deal",
+    "comment": ""
+  },
+  {
+    "line": 2498,
+    "key": "wuw_GER_diplomacy.33.desc",
+    "ver": "",
+    "en": "Our deal back in 1898 was clear, [743.GetName] was ours until 1997, yet the [FROM.GetAdjective] seem to have gotten cold feet. They seem to think that just because of that war, and the subsequent [JAP.GetAdjective] occupation that our deal is no longer valid. The deal details no such clause, but it seems that we have little choice. If we want [743.GetName] back we might have to resort to more drastic measures.",
+    "comment": ""
+  },
+  {
+    "line": 2499,
+    "key": "wuw_GER_diplomacy.33.a",
+    "ver": "",
+    "en": "How rude of them!",
+    "comment": ""
+  },
+  {
+    "line": 2500,
+    "key": "wuw_GER_diplomacy.34.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Returns to the [743.GetName] Lease",
+    "comment": ""
+  },
+  {
+    "line": 2501,
+    "key": "wuw_GER_diplomacy.34.desc",
+    "ver": "",
+    "en": "The [FROM.GetAdjective] have proven themselves the most loyal of partners. We originally signed the 99 year lease of [743.GetName] back in 1898 but the lease was interrupted as the Great War swept across the world. After a stint of being occupied by [JAP.GetNameDef] the territory was returned to [FROM.GetNameDef], but thankfully they will honor our deal.",
+    "comment": ""
+  },
+  {
+    "line": 2502,
+    "key": "wuw_GER_diplomacy.34.a",
+    "ver": "",
+    "en": "Wonderful news!",
+    "comment": ""
+  },
+  {
+    "line": 2503,
+    "key": "wuw_GER_diplomacy.35.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Requests Control of Former Colonies",
+    "comment": ""
+  },
+  {
+    "line": 2504,
+    "key": "wuw_GER_diplomacy.35.desc",
+    "ver": "",
+    "en": "We have received word from [FROM.GetAdjective] leader [FROM.GetLeder], [FROM.GetLeader.GetSheHe] wishes to regain control of their former colonies that are currently in our control. The communication seems harmless enough, but considering the current state of [FROM.GetNameDef] politics, there might be dire consequences should we reject.",
+    "comment": ""
+  },
+  {
+    "line": 2505,
+    "key": "wuw_GER_diplomacy.35.a",
+    "ver": "",
+    "en": "Those lands are not theirs!",
+    "comment": ""
+  },
+  {
+    "line": 2506,
+    "key": "wuw_GER_diplomacy.35.b",
+    "ver": "",
+    "en": "It is not worth the risk rejecting them!",
+    "comment": ""
+  },
+  {
+    "line": 2507,
+    "key": "wuw_GER_diplomacy.36.t",
+    "ver": "",
+    "en": "[FROM.GetAdjective] Refusal to Transfer Our Colonies",
+    "comment": ""
+  },
+  {
+    "line": 2508,
+    "key": "wuw_GER_diplomacy.36.desc",
+    "ver": "",
+    "en": "We thought we made it clear to [FROM.GetNameDef], the transfer of our rightful colonies was not optional. Still, they stubbornly refuse to do what is right, and best for them. We still lay claim to this territory, and they have no business standing in our way!",
+    "comment": ""
+  },
+  {
+    "line": 2509,
+    "key": "wuw_GER_diplomacy.36.a",
+    "ver": "",
+    "en": "Those lands are ours!",
+    "comment": ""
+  },
+  {
+    "line": 2510,
+    "key": "wuw_GER_diplomacy.37.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Cedes Territory to Us",
+    "comment": ""
+  },
+  {
+    "line": 2511,
+    "key": "wuw_GER_diplomacy.37.desc",
+    "ver": "",
+    "en": "Our request to have our colonies back from [FROM.GetNameDef] has been met with understanding and compliance by [FROM.GetLeader]. Stating that they hold our relations higher than territory they have graciously transferred the land that is rightfully ours back to us again.",
+    "comment": ""
+  },
+  {
+    "line": 2512,
+    "key": "wuw_GER_diplomacy.37.a",
+    "ver": "",
+    "en": "A wise choice",
+    "comment": ""
+  },
+  {
+    "line": 2513,
+    "key": "wuw_GER_diplomacy.38.t",
+    "ver": "",
+    "en": "[FROM.GetAdjective] Demands Territory",
+    "comment": ""
+  },
+  {
+    "line": 2514,
+    "key": "wuw_GER_diplomacy.38.desc",
+    "ver": "",
+    "en": "[GetGERAfricanColonyOverlordDesc]",
+    "comment": ""
+  },
+  {
+    "line": 2515,
+    "key": "GER_is_not_colonial_overlord_desc",
+    "ver": "",
+    "en": "We have received demands to hand over our territory to [FROM.GetNameDef]. For historical reasons they claim that they are the rightful owners of these lands. The demand is rather harshly worded but there is still room for us to respond according to our own agenda.",
+    "comment": ""
+  },
+  {
+    "line": 2516,
+    "key": "GER_is_colonial_overlord_desc",
+    "ver": "",
+    "en": "We had feared that this day would come, yet hoped that it would not. [FROM.GetLeader] of [FROM.GetNameDef] has demanded that we, as [FROM.GetLeader.GetHerHis] subjects, renounce our independence and become part of [FROM.GetNameDef] proper. Our opinions do not matter in this question any more, we can naught but comply.",
+    "comment": ""
+  },
+  {
+    "line": 2517,
+    "key": "wuw_GER_diplomacy.38.a",
+    "ver": "",
+    "en": "[GetGERAfricanColonyOverlordOption]",
+    "comment": ""
+  },
+  {
+    "line": 2518,
+    "key": "GER_is_not_colonial_overlord_option",
+    "ver": "",
+    "en": "Better safe than sorry...",
+    "comment": ""
+  },
+  {
+    "line": 2519,
+    "key": "GER_is_colonial_overlord_option",
+    "ver": "",
+    "en": "We had a good run",
+    "comment": ""
+  },
+  {
+    "line": 2520,
+    "key": "wuw_GER_diplomacy.38.b",
+    "ver": "",
+    "en": "Absolutely not!",
+    "comment": ""
+  },
+  {
+    "line": 2521,
+    "key": "wuw_GER_diplomacy.39.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Cedes Territory to Us",
+    "comment": ""
+  },
+  {
+    "line": 2522,
+    "key": "wuw_GER_diplomacy.39.desc",
+    "ver": "",
+    "en": "Our demands to the [FROM.GetAdjective] leadership have been met with reluctant approval. While they do not seem all to happy about handing over their territory, their thoughts about this is none of our concern, getting the territory that is rightfully ours is.",
+    "comment": ""
+  },
+  {
+    "line": 2523,
+    "key": "wuw_GER_diplomacy.39.a",
+    "ver": "",
+    "en": "Great!",
+    "comment": ""
+  },
+  {
+    "line": 2524,
+    "key": "wuw_GER_diplomacy.40.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Refuses Our Territorial Demands",
+    "comment": ""
+  },
+  {
+    "line": 2525,
+    "key": "wuw_GER_diplomacy.40.desc",
+    "ver": "",
+    "en": "Despite increasingly high pressure on [FROM.GetAdjective] leader [FROM.GetLeader], and the rest of the [FROM.GetAdjective] leadership they will not budge. We will not be able to peacefully take control of our old colonies that are currently under their control.",
+    "comment": ""
+  },
+  {
+    "line": 2526,
+    "key": "wuw_GER_diplomacy.40.a",
+    "ver": "",
+    "en": "We'll find another way",
+    "comment": ""
+  },
+  {
+    "line": 2527,
+    "key": "wuw_GER_diplomacy.100.t",
+    "ver": "",
+    "en": "[FROM.GetAdjective] Occupation Cost Payments Stops",
+    "comment": ""
+  },
+  {
+    "line": 2528,
+    "key": "wuw_GER_diplomacy.100.desc",
+    "ver": "",
+    "en": "The ambassador of [FROM.GetName] has let us know that we will no longer receive the occupation cost payment from them that we had agreed upon.",
+    "comment": ""
+  },
+  {
+    "line": 2529,
+    "key": "wuw_GER_diplomacy.100.a",
+    "ver": "",
+    "en": "So be it",
+    "comment": ""
+  },
+  {
+    "line": 2531,
+    "key": "wuw_GER_diplomacy.50.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] wants to initiate Naval Development Cooperation",
+    "comment": ""
+  },
+  {
+    "line": 2532,
+    "key": "wuw_GER_diplomacy.50.desc",
+    "ver": "",
+    "en": "\\nDiplomats and naval engineers belonging to [FROM.GetNameDef] have approached us with a peculiar offer. They claim that they wish to begin an extensive program of naval cooperation, sharing developments and techniques between our two countries. This could benefit us, but is also a risk for leaking of secret information to the [FROM.GetAdjective]s. What say we?",
+    "comment": ""
+  },
+  {
+    "line": 2533,
+    "key": "wuw_GER_diplomacy.50.a",
+    "ver": "",
+    "en": "Bloody Splendid!",
+    "comment": ""
+  },
+  {
+    "line": 2534,
+    "key": "wuw_GER_diplomacy.50.b",
+    "ver": "",
+    "en": "No cooperation with the Krauts!",
+    "comment": ""
+  },
+  {
+    "line": 2536,
+    "key": "wuw_GER_diplomacy.51.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Accepts Naval Development Cooperation",
+    "comment": ""
+  },
+  {
+    "line": 2537,
+    "key": "wuw_GER_diplomacy.51.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] has today spoken out in favor of the deal we put forward recently to them for naval cooperation, and claims that [FROM.GetAdjective] naval engineers are already looking to begin the joint development and research of naval vessels and weapons as soon as next week. This is a great day for [ROOT.GetNameDef] and her marine!",
+    "comment": ""
+  },
+  {
+    "line": 2538,
+    "key": "wuw_GER_diplomacy.51.a",
+    "ver": "",
+    "en": "Our Marine will grow strong once again",
+    "comment": ""
+  },
+  {
+    "line": 2540,
+    "key": "wuw_GER_diplomacy.52.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Rejects Naval Development Cooperation",
+    "comment": ""
+  },
+  {
+    "line": 2541,
+    "key": "wuw_GER_diplomacy.52.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] has today spoken out against the deal we put forward recently to them for naval cooperation, and claims that it is a clear and obvious ploy to steal [FROM.GetAdjective] engineering secrets...",
+    "comment": ""
+  },
+  {
+    "line": 2542,
+    "key": "wuw_GER_diplomacy.52.a",
+    "ver": "",
+    "en": "A foolish choice",
+    "comment": ""
+  },
+  {
+    "line": 2544,
+    "key": "wuw_GER_diplomacy.53.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] offers a Trading Partnership",
+    "comment": ""
+  },
+  {
+    "line": 2545,
+    "key": "wuw_GER_diplomacy.53.desc",
+    "ver": "",
+    "en": "Diplomats belonging to [FROM.GetNameDef] have approached us regarding a lucrative offer. They wish to purchase the rights to certain natural resource deposits in our colonies, and offer industrial aid in return. Should we accept this deal?",
+    "comment": ""
+  },
+  {
+    "line": 2546,
+    "key": "wuw_GER_diplomacy.53.a",
+    "ver": "",
+    "en": "We both stand to gain from this.",
+    "comment": ""
+  },
+  {
+    "line": 2547,
+    "key": "wuw_GER_diplomacy.53.b",
+    "ver": "",
+    "en": "This deal will only benefit one of us...",
+    "comment": ""
+  },
+  {
+    "line": 2549,
+    "key": "wuw_GER_diplomacy.54.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] accepted our Trading Proposition",
+    "comment": ""
+  },
+  {
+    "line": 2550,
+    "key": "wuw_GER_diplomacy.54.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] seems to be a reasonable leader who is looking out for [FROM.GetLeader.GetHerHis] country's best interests. Conditionally, this just so happens to be in our country's best interest as well. We will put the extra resources from [FROM.GetName] to good use.",
+    "comment": ""
+  },
+  {
+    "line": 2551,
+    "key": "wuw_GER_diplomacy.54.a",
+    "ver": "",
+    "en": "Perfect!",
+    "comment": ""
+  },
+  {
+    "line": 2553,
+    "key": "wuw_GER_diplomacy.55.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] rejected our Trading Proposition",
+    "comment": ""
+  },
+  {
+    "line": 2554,
+    "key": "wuw_GER_diplomacy.55.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] seems to be an unreasonable and unwise leader who couldn't care less for what is best for [FROM.GetLeader.GetHerHis] country. We will turn elsewhere to find what we seek.",
+    "comment": ""
+  },
+  {
+    "line": 2555,
+    "key": "wuw_GER_diplomacy.55.a",
+    "ver": "",
+    "en": "Their loss.",
+    "comment": ""
+  },
+  {
+    "line": 2557,
+    "key": "wuw_GER_diplomacy.56.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Empties our Accounts",
+    "comment": ""
+  },
+  {
+    "line": 2558,
+    "key": "wuw_GER_diplomacy.56.desc",
+    "ver": "",
+    "en": "[FROM.GetAdjective] officials and bankers have cut off our access to our accounts in Germany, and emptied them. This means that [GER.GetNameDef] has seized our cash gained from the Gömbös Trade Treaty, essentially nullifying it. We can never trust their word again...",
+    "comment": ""
+  },
+  {
+    "line": 2559,
+    "key": "wuw_GER_diplomacy.56.a",
+    "ver": "",
+    "en": "How dare they!",
+    "comment": ""
+  },
+  {
+    "line": 2561,
+    "key": "wuw_GER_diplomacy.57.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Demands the Return of North Schleswig",
+    "comment": ""
+  },
+  {
+    "line": 2562,
+    "key": "wuw_GER_diplomacy.57.desc",
+    "ver": "",
+    "en": "\\nThe rhetoric from [FROM.GetLeader] and the [FROM.GetAdjective] government has become a lot more hostile towards us as of recently, claiming that the 1920 Schleswig plebiscites were unlawful and fraudulent, and are now demanding that we return the territory to them. We know this not to be true, but perhaps it would be best to avoid open conflict with [FROM.GetNameDef]?",
+    "comment": ""
+  },
+  {
+    "line": 2563,
+    "key": "wuw_GER_diplomacy.57.a",
+    "ver": "",
+    "en": "We do not wish for conflict, so we must comply...",
+    "comment": ""
+  },
+  {
+    "line": 2564,
+    "key": "wuw_GER_diplomacy.57.b",
+    "ver": "",
+    "en": "They can come and get it!",
+    "comment": ""
+  },
+  {
+    "line": 2566,
+    "key": "wuw_GER_diplomacy.58.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Caves to our Demands",
+    "comment": ""
+  },
+  {
+    "line": 2567,
+    "key": "wuw_GER_diplomacy.58.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] has declared that, seeing as they do not wish to enter armed conflict against us, they have opted for giving back the territory gained in the 1920 Schleswig plebiscites. The people of the region rejoice, as they have once again been brought back into the fold.",
+    "comment": ""
+  },
+  {
+    "line": 2568,
+    "key": "wuw_GER_diplomacy.58.a",
+    "ver": "",
+    "en": "A great day for the [ROOT.GetAdjective] people!",
+    "comment": ""
+  },
+  {
+    "line": 2570,
+    "key": "wuw_GER_diplomacy.59.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Stands Firm on the Schleswig Plebiscite",
+    "comment": ""
+  },
+  {
+    "line": 2571,
+    "key": "wuw_GER_diplomacy.59.desc",
+    "ver": "",
+    "en": "\\nThe overconfident [FROM.GetLeader] has decreed that North Schleswig is and will always be [FROM.GetAdjective]. [FROM.GetNameDefCap]'s troops have mobilized, and are rapidly being redeployed to our border, as it seems they are gearing up for war. How should we respond to this provocation.",
+    "comment": ""
+  },
+  {
+    "line": 2572,
+    "key": "wuw_GER_diplomacy.59.a",
+    "ver": "",
+    "en": "Then we will pry it from their cold hands!",
+    "comment": ""
+  },
+  {
+    "line": 2573,
+    "key": "wuw_GER_diplomacy.59.b",
+    "ver": "",
+    "en": "We really shouldn't escalate...",
+    "comment": ""
+  },
+  {
+    "line": 2575,
+    "key": "wuw_GER_mutual_guarantees.1.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Requests Mutual Cooperation",
+    "comment": ""
+  },
+  {
+    "line": 2576,
+    "key": "wuw_GER_mutual_guarantees.1.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] of [FROM.GetNameDef] has approached us with an offer of mutual guarantees and cooperation. The deal would extend to the mutual protection of each-others lands, and could potentially bloom into something even greater in the future. What say we?",
+    "comment": ""
+  },
+  {
+    "line": 2577,
+    "key": "wuw_GER_mutual_guarantees.1.a",
+    "ver": "",
+    "en": "It is a mutually beneficial deal",
+    "comment": ""
+  },
+  {
+    "line": 2578,
+    "key": "wuw_GER_mutual_guarantees.1.b",
+    "ver": "",
+    "en": "We see no value in this pact",
+    "comment": ""
+  },
+  {
+    "line": 2580,
+    "key": "wuw_GER_mutual_guarantees.2.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Welcomes Mutual Cooperation",
+    "comment": ""
+  },
+  {
+    "line": 2581,
+    "key": "wuw_GER_mutual_guarantees.2.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] of [FROM.GetNameDef] has accepted our request for mutual cooperation and guarantees and welcomed our diplomats with open arms, claiming that it is only together that we can protect our nations from foreign powers who threaten the balance.",
+    "comment": ""
+  },
+  {
+    "line": 2582,
+    "key": "wuw_GER_mutual_guarantees.2.a",
+    "ver": "",
+    "en": "Great",
+    "comment": ""
+  },
+  {
+    "line": 2584,
+    "key": "wuw_GER_mutual_guarantees.3.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Denies Mutual Cooperation",
+    "comment": ""
+  },
+  {
+    "line": 2585,
+    "key": "wuw_GER_mutual_guarantees.3.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] of [FROM.GetNameDef] has rejected our request for a pact of mutual protection and cooperation, claiming that it is a way for us to secretly infiltrate not only the hearts of their people to weaken them, but also a ploy for eventual domination over their state. They truly do not realize the offer they are missing out on...",
+    "comment": ""
+  },
+  {
+    "line": 2586,
+    "key": "wuw_GER_mutual_guarantees.3.a",
+    "ver": "",
+    "en": "They are making a great mistake",
+    "comment": ""
+  },
+  {
+    "line": 2588,
+    "key": "wuw_GER_weltpolitik.1.t",
+    "ver": "",
+    "en": "[FROM.GetName] Requests the Return of Former Colonial Territories",
+    "comment": ""
+  },
+  {
+    "line": 2589,
+    "key": "wuw_GER_weltpolitik.1.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] of [FROM.GetNameDef] has approached us with an interesting request. They ask that we return to them old [FROM.GetAdjective] colonial territories in the exchange for a deepening of relations between our countries and their official backing of our government on a global level. It seems a bit one-sided, but perhaps it is for the best?",
+    "comment": ""
+  },
+  {
+    "line": 2590,
+    "key": "wuw_GER_weltpolitik.1.a",
+    "ver": "",
+    "en": "Anything for our friends",
+    "comment": ""
+  },
+  {
+    "line": 2591,
+    "key": "wuw_GER_weltpolitik.1.b",
+    "ver": "",
+    "en": "No, they are ours now",
+    "comment": ""
+  },
+  {
+    "line": 2593,
+    "key": "wuw_GER_weltpolitik.2.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Returns our Colonies",
+    "comment": ""
+  },
+  {
+    "line": 2594,
+    "key": "wuw_GER_weltpolitik.2.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] of [FROM.GetNameDef] has accepted our request for the return of our former colonies, stating that they are better of in our hands. People are celebrating in the streets, as it seems the [ROOT.GetAdjective] colonial empire is finally back on the map.",
+    "comment": ""
+  },
+  {
+    "line": 2595,
+    "key": "wuw_GER_weltpolitik.2.a",
+    "ver": "",
+    "en": "We are fast approaching a new Golden Age!",
+    "comment": ""
+  },
+  {
+    "line": 2597,
+    "key": "wuw_GER_weltpolitik.3.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] doesn't Return our Colonies",
+    "comment": ""
+  },
+  {
+    "line": 2598,
+    "key": "wuw_GER_weltpolitik.3.desc",
+    "ver": "",
+    "en": "\\n[FROM.GetLeader] of [FROM.GetNameDef] has rejected our request for the return of our old colonies, claiming that it is a one-sided deal in which they stand to gain little to nothing.",
+    "comment": ""
+  },
+  {
+    "line": 2599,
+    "key": "wuw_GER_weltpolitik.3.a",
+    "ver": "",
+    "en": "It wasn't meant to be...",
+    "comment": ""
+  },
+  {
+    "line": 2601,
+    "key": "wuw_GER_diplomacy.60.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Demands North Schleswig",
+    "comment": ""
+  },
+  {
+    "line": 2602,
+    "key": "wuw_GER_diplomacy.60.desc",
+    "ver": "",
+    "en": "\\nThe rhetoric from [FROM.GetLeader] and the [FROM.GetAdjective] government has become more hostile towards our local administrators in [912.GetName], claiming that North Schleswig always has and always will be German, and are now demanding that we return the territory to them. We know this not to be true, but perhaps it would be best to avoid open conflict with [FROM.GetNameDef]?",
+    "comment": ""
+  },
+  {
+    "line": 2603,
+    "key": "wuw_GER_diplomacy.60.a",
+    "ver": "",
+    "en": "They are right",
+    "comment": ""
+  },
+  {
+    "line": 2604,
+    "key": "wuw_GER_diplomacy.60.b",
+    "ver": "",
+    "en": "Are they delusional?",
+    "comment": ""
+  },
+  {
+    "line": 2606,
+    "key": "wuw_GER_diplomacy.61.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Caves to our Demands",
+    "comment": ""
+  },
+  {
+    "line": 2607,
+    "key": "wuw_GER_diplomacy.61.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] has declared that, seeing as they do not wish to enter armed conflict against us, they have opted for giving back the territory of [912.GetName]. The people of the region rejoice, as they have once again been brought back into the fold.",
+    "comment": ""
+  }
+]

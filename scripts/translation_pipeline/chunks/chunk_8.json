@@ -1,0 +1,1402 @@
+[
+  {
+    "line": 2101,
+    "key": "congo_independence_struggle.6.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] will not Accept our Conditions",
+    "comment": ""
+  },
+  {
+    "line": 2102,
+    "key": "congo_independence_struggle.6.d",
+    "ver": "",
+    "en": "It transpires that [COG.GetNameDef] has refused our generous offer for a peaceful and mutually beneficial path to independence. Therefore it is now up to us, in just how forcibly we hold on to this wayward colony. We have three options, as follows;\\n\\nFirst option, if we believe their determination to gain independence is wavering, we could offer them status as an overseas department, effectively transforming them from a colonial asset into a distant part of our nation proper, with very limited autonomy. \\n\\nThe second option is to provoke them into open conflict, and then demonstrate our strength over them on the battlefield. It is more of a gamble, but should we win the path to complete domination is open, and we can seize all their assets without international condemnation. \\n\\nThe third option is the most diplomatic, and we embrace a model similar to the British Empire, with [COG.GetNameDef] earning the right to become a dominion. Their diplomatic decisions will still be made by us, but otherwise their autonomy will be greatly expanded. \\n\\nWe should be aware however, that should they reject any of these, then there is likely no recourse outside of violence.",
+    "comment": ""
+  },
+  {
+    "line": 2103,
+    "key": "congo_independence_struggle.6.a",
+    "ver": "",
+    "en": "Demand that they become an overseas department",
+    "comment": ""
+  },
+  {
+    "line": 2104,
+    "key": "congo_independence_struggle.6.b",
+    "ver": "",
+    "en": "Then there will be no negotiations",
+    "comment": ""
+  },
+  {
+    "line": 2105,
+    "key": "congo_independence_struggle.6.c",
+    "ver": "",
+    "en": "Let's remain diplomatic. Perhaps they would be willing to be a dominion?",
+    "comment": ""
+  },
+  {
+    "line": 2107,
+    "key": "congo_independence_struggle.7.t",
+    "ver": "",
+    "en": "Letting [FROM.GetNameDef] go",
+    "comment": ""
+  },
+  {
+    "line": 2108,
+    "key": "congo_independence_struggle.7.d",
+    "ver": "",
+    "en": "We have just received word from the new ambassador from [COG.GetNameDef], announcing that they have accepted the offer to purchase their independence from our colonial rule. Now the work begins extracting the administration from the Colonial Office and instead ascribing this responsibility to their new government instead- and of course ensuring the bank accounts and holding companies are created in order to begin receiving the proper payments.",
+    "comment": ""
+  },
+  {
+    "line": 2109,
+    "key": "congo_independence_struggle.7.a",
+    "ver": "",
+    "en": "Our mission has come to an end, but our profits haven't!",
+    "comment": ""
+  },
+  {
+    "line": 2111,
+    "key": "congo_independence_struggle.8.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] wants us to be an Overseas Department",
+    "comment": ""
+  },
+  {
+    "line": 2112,
+    "key": "congo_independence_struggle.8.d",
+    "ver": "",
+    "en": "[BEL.GetName] seems to think we are incapable of seizing independence from them through force, and have called our bluff. They have offered us the \"opportunity\" to become an overseas department, essentially making us an extension of their nation with rights to citizenship but without the autonomy to forge our own future. They might be right that we lack the military strength to oppose this, however the choice is ultimately ours.",
+    "comment": ""
+  },
+  {
+    "line": 2113,
+    "key": "congo_independence_struggle.8.a",
+    "ver": "",
+    "en": "Fine. We accept...",
+    "comment": ""
+  },
+  {
+    "line": 2114,
+    "key": "congo_independence_struggle.8.b",
+    "ver": "",
+    "en": "This is unacceptable, we demand full independence!",
+    "comment": ""
+  },
+  {
+    "line": 2116,
+    "key": "congo_independence_struggle.9.t",
+    "ver": "",
+    "en": "The Force Publique Attacks our Forces in Léopoldville",
+    "comment": ""
+  },
+  {
+    "line": 2117,
+    "key": "congo_independence_struggle.9.d",
+    "ver": "",
+    "en": "Dawn broke this morning to the sound of gunfire as mutinous elements of the Force Publique attacked government buildings in Léopoldville. Loyal guards returned fire, and were able to push the rebels back, however, tensions are extremely high and there are reports of further mutinies throughout Force Publique units and that local militias have begun to arm and assemble across the Congo.",
+    "comment": ""
+  },
+  {
+    "line": 2118,
+    "key": "congo_independence_struggle.9.a",
+    "ver": "",
+    "en": "There is a crisis brewing in the Congo",
+    "comment": ""
+  },
+  {
+    "line": 2120,
+    "key": "congo_independence_struggle.22.t",
+    "ver": "",
+    "en": "The Formation of a new Overseas Department",
+    "comment": ""
+  },
+  {
+    "line": 2121,
+    "key": "congo_independence_struggle.22.d",
+    "ver": "",
+    "en": "We have received word from a much chastised delegation from [COG.GetNameDef], that they have decided to accept their place as an Overseas Department of [BEL.GetName]. Our citizenship and tax offices have begun drafting the documentation for the proper integration of these new citizens into our system, and the Colonial Office has begun to draft up a new system of local government more closely following along [BEL.GetAdjective] lines.",
+    "comment": ""
+  },
+  {
+    "line": 2122,
+    "key": "congo_independence_struggle.22.a",
+    "ver": "",
+    "en": "We have successfully fooled them!",
+    "comment": ""
+  },
+  {
+    "line": 2124,
+    "key": "congo_independence_struggle.23.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] wants us to be a Dominion",
+    "comment": ""
+  },
+  {
+    "line": 2125,
+    "key": "congo_independence_struggle.23.d",
+    "ver": "",
+    "en": "Our meeting with the [BEL.GetName] diplomats has borne fruit, and it seems that they still wish to follow a diplomatic path. They have offered us increased autonomy as a Dominion, similar to the British model. We would still need to follow [BEL.GetAdjective] diplomacy, however, we would have significantly more rights to govern ourselves while still falling under their protection.",
+    "comment": ""
+  },
+  {
+    "line": 2126,
+    "key": "congo_independence_struggle.23.a",
+    "ver": "",
+    "en": "We can agree to that yes",
+    "comment": ""
+  },
+  {
+    "line": 2127,
+    "key": "congo_independence_struggle.23.b",
+    "ver": "",
+    "en": "This is unacceptable, we demand full independence!",
+    "comment": ""
+  },
+  {
+    "line": 2129,
+    "key": "congo_independence_struggle.10.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] is willing to accept the Position of Dominion",
+    "comment": ""
+  },
+  {
+    "line": 2130,
+    "key": "congo_independence_struggle.10.d",
+    "ver": "",
+    "en": "We have just received an answer from [COG.GetNameDef] regarding our offer to elevate them to being a dominion, and they have agreed! \\n\\nNow that we have seen they are willing to negotiate, if we push a little harder, we might be able to talk them down even further, however this is not without risks and we could lose them entirely, or worse back them into a corner.",
+    "comment": ""
+  },
+  {
+    "line": 2131,
+    "key": "congo_independence_struggle.10.a",
+    "ver": "",
+    "en": "We can settle for them being a Dominion",
+    "comment": ""
+  },
+  {
+    "line": 2132,
+    "key": "congo_independence_struggle.10.b",
+    "ver": "",
+    "en": "No, we can push them towards further integration",
+    "comment": ""
+  },
+  {
+    "line": 2134,
+    "key": "congo_independence_struggle.11.t",
+    "ver": "",
+    "en": "Establishment of the Dominion of the Congo",
+    "comment": ""
+  },
+  {
+    "line": 2135,
+    "key": "congo_independence_struggle.11.d",
+    "ver": "",
+    "en": "As per the agreement with [BEL.GetName], we broke ground this morning to begin construction on the new government building to house the Dominion Parliament. The next step will be to begin the process of writing our constitution, and calling the first election. From these humble beginnings we can begin to shape the future political identity of this nation.",
+    "comment": ""
+  },
+  {
+    "line": 2136,
+    "key": "congo_independence_struggle.11.a",
+    "ver": "",
+    "en": "It's time to get to work, and build up our new Dominion!",
+    "comment": ""
+  },
+  {
+    "line": 2138,
+    "key": "congo_independence_struggle.12.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Rejects the Dominion Solution",
+    "comment": ""
+  },
+  {
+    "line": 2139,
+    "key": "congo_independence_struggle.12.d",
+    "ver": "",
+    "en": "In a shock move, [BEL.GetName] has decided to rescind their offer of forming a Dominion! We are not entirely sure what has caused this shift in attitude, perhaps after backing down once, the colonizer is doing what they do best, and exploiting the situation. We must decide our own reaction to this affront.",
+    "comment": ""
+  },
+  {
+    "line": 2140,
+    "key": "congo_independence_struggle.12.a",
+    "ver": "",
+    "en": "This is unacceptable! Threaten them with use of force.",
+    "comment": ""
+  },
+  {
+    "line": 2141,
+    "key": "congo_independence_struggle.12.b",
+    "ver": "",
+    "en": "We should back down, an overseas territory isn't all too bad",
+    "comment": ""
+  },
+  {
+    "line": 2143,
+    "key": "congo_independence_struggle.13.t",
+    "ver": "",
+    "en": "Congo backs down and agrees to Become an Overseas Territory",
+    "comment": ""
+  },
+  {
+    "line": 2144,
+    "key": "congo_independence_struggle.13.d",
+    "ver": "",
+    "en": "Our diplomatic ploy against [COG.GetName] has worked! Their delegation came to see us today order to accept their place as an Overseas Territory.",
+    "comment": ""
+  },
+  {
+    "line": 2145,
+    "key": "congo_independence_struggle.13.a",
+    "ver": "",
+    "en": "Perfect!",
+    "comment": ""
+  },
+  {
+    "line": 2147,
+    "key": "congo_independence_struggle.14.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Threatens War",
+    "comment": ""
+  },
+  {
+    "line": 2148,
+    "key": "congo_independence_struggle.14.d",
+    "ver": "",
+    "en": "A very belligerent delegate from [COG.GetNameDef] met with the Colonial Governor earlier. Clearly frustrated with the progress in the talks so far, they have offered an ultimatum. \\n\\nEither we accept their independence with immediate effect, or they will ring the bells of liberty against us. We are already getting reports of militia units assembling, and there have been a number of skirmishes already against Force Publique garrisons. No-one has died yet, but it is just a matter of time with tensions this high.",
+    "comment": ""
+  },
+  {
+    "line": 2149,
+    "key": "congo_independence_struggle.14.a",
+    "ver": "",
+    "en": "Then war they shall have! [COG.GetNameDef] is OURS!",
+    "comment": ""
+  },
+  {
+    "line": 2150,
+    "key": "congo_independence_struggle.14.b",
+    "ver": "",
+    "en": "We are simply too overextended at the moment. Give them the freedom they so desire.",
+    "comment": ""
+  },
+  {
+    "line": 2152,
+    "key": "congo_independence_struggle.15.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] won't Leave Without a Fight",
+    "comment": ""
+  },
+  {
+    "line": 2153,
+    "key": "congo_independence_struggle.15.d",
+    "ver": "",
+    "en": "Loyalist Force Publique units today attempted to round up and arrest leaders of the independence movement. [COG.GetAdjective] militia stepped in, and shots were exchanged between them. It seems that diplomacy has failed, and this war of independence has officially started.",
+    "comment": ""
+  },
+  {
+    "line": 2154,
+    "key": "congo_independence_struggle.15.a",
+    "ver": "",
+    "en": "We will prevail",
+    "comment": ""
+  },
+  {
+    "line": 2156,
+    "key": "congo_independence_struggle.16.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] backs down and lets us have Independence",
+    "comment": ""
+  },
+  {
+    "line": 2157,
+    "key": "congo_independence_struggle.16.d",
+    "ver": "",
+    "en": "We managed to come back from the brink of war with our colonial overlord. Or rather, former colonial overlord. \\n\\nThe delegation we sent to meet with the administration met with the Colonial Governor this morning, and both parties signed the papers formally declaring the independence of [COG.GetNameDef]. We are are own free nation now, and the handing over of power has already begun. \\n\\nWe are firmly in control of our own destiny from here on out, and all without any payment by blood, pride or money.",
+    "comment": ""
+  },
+  {
+    "line": 2158,
+    "key": "congo_independence_struggle.16.a",
+    "ver": "",
+    "en": "Today is a day for celebration!",
+    "comment": ""
+  },
+  {
+    "line": 2160,
+    "key": "congo_independence_struggle.17.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] seeks Independence at all Costs",
+    "comment": ""
+  },
+  {
+    "line": 2161,
+    "key": "congo_independence_struggle.17.d",
+    "ver": "",
+    "en": "This morning we received by radio a hastily put together report from the Colonial Governor of [COG.GetNameDef]. He claimed that a mob had entered his official residence, pacified the guards with foreign-made weapons and delivered into his hands a declaration of independence. They then promptly left. Most alarmingly, it was indicated that this mob was lead by elements of the Force Publique, the gendarme charged with maintaining order. \\n\\nThe declaration called for the immediate withdrawal of the Colonial administration, and the subsequent handing over of legitimate power to the civilian government to be formed from the leadership of this rebellion. We can be under no illusions that the risk is real, and the fact that this mob was armed by weapons not of [BEL.GetAdjective] design which could suggest that foreign entities have taken a direct interest, and might militarily support the rebels.",
+    "comment": ""
+  },
+  {
+    "line": 2162,
+    "key": "congo_independence_struggle.17.a",
+    "ver": "",
+    "en": "We have no choice but to accept",
+    "comment": ""
+  },
+  {
+    "line": 2163,
+    "key": "congo_independence_struggle.17.b",
+    "ver": "",
+    "en": "They are delusional. Arrange for an expeditionary force to restore order immediately!",
+    "comment": ""
+  },
+  {
+    "line": 2165,
+    "key": "congo_independence_struggle.18.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Lets us go",
+    "comment": ""
+  },
+  {
+    "line": 2166,
+    "key": "congo_independence_struggle.18.d",
+    "ver": "",
+    "en": "It would seem that our ultimatum was treated with the proper amount of seriousness by our overlord, because today we received the signed writ of independence from the Colonial Administration. Already plans are underway for the official lowering of the [BEL.GetAdjective] flag, and with it the peaceful transfer of power to our new regime. Although our primary goal has been achieved, the real work of forming a government now begins. We have much to do, an economy to develop, relations with other nations to normalize, and of course certain debts to repay to those who supported us in achieving this dream.",
+    "comment": ""
+  },
+  {
+    "line": 2167,
+    "key": "congo_independence_struggle.18.a",
+    "ver": "",
+    "en": "Today is a day for celebration!",
+    "comment": ""
+  },
+  {
+    "line": 2169,
+    "key": "congo_independence_struggle.19.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Prepares to go to War",
+    "comment": ""
+  },
+  {
+    "line": 2170,
+    "key": "congo_independence_struggle.19.d",
+    "ver": "",
+    "en": "We have reports that [BEL.GetAdjective] troops have begun to mobilize in Léopoldville, and a crack down on disloyal elements throughout the Force Publique. Despite our best efforts to cow the [BEL.GetAdjective] government into submission, and achieve our goal of independence without bloodshed, the colonial powers have opted to retain power the only way they know how- through force. Our window of opportunity is closing  quickly, and we must decide whether to give the word for our supporters to rise or to stand down before things escalate beyond our control.",
+    "comment": ""
+  },
+  {
+    "line": 2171,
+    "key": "congo_independence_struggle.19.a",
+    "ver": "",
+    "en": "Victory will avail them!",
+    "comment": ""
+  },
+  {
+    "line": 2172,
+    "key": "congo_independence_struggle.19.b",
+    "ver": "",
+    "en": "This is too dangerous. We must back down.",
+    "comment": ""
+  },
+  {
+    "line": 2174,
+    "key": "congo_independence_struggle.20.t",
+    "ver": "",
+    "en": "The Congo declares a war for Independence!",
+    "comment": ""
+  },
+  {
+    "line": 2175,
+    "key": "congo_independence_struggle.20.d",
+    "ver": "",
+    "en": "We took what measures that we could to retain control over the rapidly worsening situation, including the systematic removal of traitorous elements within the Force Publique. Unfortunately this more overt act was seen as belligerent and the mutinous units opened fire against their officers as soon as they saw them approach. With these bullets the War of Independence has begun in earnest, spinning so far out of control of either side. \\n\\nThere are areas which have remained loyal to us, having felt the benefits of colonization most directly, however the majority of the country is now arrayed against us.",
+    "comment": ""
+  },
+  {
+    "line": 2176,
+    "key": "congo_independence_struggle.20.a",
+    "ver": "",
+    "en": "To arms brothers!",
+    "comment": ""
+  },
+  {
+    "line": 2178,
+    "key": "congo_independence_struggle.21.t",
+    "ver": "",
+    "en": "Congo backs down and agrees to Become an Overseas Territory",
+    "comment": ""
+  },
+  {
+    "line": 2179,
+    "key": "congo_independence_struggle.21.d",
+    "ver": "",
+    "en": "Our quick reaction to the ongoing situation in the Congo has seemingly calmed the tensions there. [BEL.GetAdjective] officers acted quickly to pacify known mutinous elements of the Force Publique. With their ongoing loyalty secured, the fire quickly went out of the revolt and the loudest voices were quietened- in most cases by the thick walls of jail. \\n\\nThe Colonial Administration has taken the initiative and seized on the opportunity afforded to them, and has extended their own control over all levels of government, and as a result we enjoy a far higher degree of control over the colony than we did previously.",
+    "comment": ""
+  },
+  {
+    "line": 2180,
+    "key": "congo_independence_struggle.21.a",
+    "ver": "",
+    "en": "Glory to the [BEL.GetAdjective] Empire!",
+    "comment": ""
+  },
+  {
+    "line": 2182,
+    "key": "congo_independence_struggle.24.t",
+    "ver": "",
+    "en": "The Loyalists in Léopoldville Escalate the Conflict",
+    "comment": ""
+  },
+  {
+    "line": 2183,
+    "key": "congo_independence_struggle.24.d",
+    "ver": "",
+    "en": "The sound of gunfire broke the silence of the morning. [BEL.GetAdjective] police units were dispatched to lead patriotic elements of the Force Publique into captivity, however they were met by a hail of bullets instead. The mutiny spreads quickly, and militias have begun to take up arms throughout the country. Support for the cause is widespread throughout the country, however Colonial forces retain control over several areas, particularly in those which they had been exploiting most readily and thus had the greatest military presence. \\n\\nThis War of Independence has begun in earnest, and we will not rest until the Congo is free of European occupation.",
+    "comment": ""
+  },
+  {
+    "line": 2184,
+    "key": "congo_independence_struggle.24.a",
+    "ver": "",
+    "en": "This is a war we can ill afford to lose!",
+    "comment": ""
+  },
+  {
+    "line": 2186,
+    "key": "congolese_civil_war_starting_tt",
+    "ver": "",
+    "en": "The Congo will declare a war of independence against us. They will be able to force peace and gain their full independence if they control §YLéopoldville§!, §YÉlisabethville§! and §YStanleyville§!. \\n\\nSimilarly, we will be able to force peace with them and retain our control over the area by controlling §YLéopoldville§!, §YÉlisabethville§! and §YStanleyville§!.",
+    "comment": ""
+  },
+  {
+    "line": 2187,
+    "key": "congolese_civil_war_starting_congo_side_tt",
+    "ver": "",
+    "en": "The Belgian Loyalists will initiate a civil war against us. We will be able to force peace with our former overlords and gain full independence if we control §YLéopoldville§!, §YÉlisabethville§! and §YStanleyville§!. \\n\\nSimilarly, they will be able to force peace with us and retain control over our country by controlling §YLéopoldville§!, §YÉlisabethville§! and §YStanleyville§!.",
+    "comment": ""
+  },
+  {
+    "line": 2202,
+    "key": "wuw_GER_releasable.1.t",
+    "ver": "",
+    "en": "A Capital for the German People",
+    "comment": ""
+  },
+  {
+    "line": 2203,
+    "key": "wuw_GER_releasable.1.desc",
+    "ver": "",
+    "en": "With the reformation of the German state, many of our politicians have argued that our capital city needs to be reconsidered. They claim that it does not live up to titles such as 'Capital of the German People'. In such a case, where do we wish to move our capital to?",
+    "comment": ""
+  },
+  {
+    "line": 2204,
+    "key": "wuw_GER_releasable.1.a",
+    "ver": "",
+    "en": "Berlin is the obvious choice!",
+    "comment": ""
+  },
+  {
+    "line": 2205,
+    "key": "wuw_GER_releasable.1.b",
+    "ver": "",
+    "en": "It should be Munich",
+    "comment": ""
+  },
+  {
+    "line": 2206,
+    "key": "wuw_GER_releasable.1.c",
+    "ver": "",
+    "en": "Frankfurt will make a good western capital",
+    "comment": ""
+  },
+  {
+    "line": 2207,
+    "key": "wuw_GER_releasable.1.d",
+    "ver": "",
+    "en": "Our capital is fine as it is",
+    "comment": ""
+  },
+  {
+    "line": 2209,
+    "key": "wuw_GER_releasable.2.t",
+    "ver": "",
+    "en": "The Election",
+    "comment": ""
+  },
+  {
+    "line": 2210,
+    "key": "wuw_GER_releasable.2.desc",
+    "ver": "",
+    "en": "With the election turning out in the Rietspartei's favor, the time has come to select the person most suitable to govern the nation. The party wants Pierre Dupong to take up leadership for the time being, to allow Joseph Bech time to spend on other important matters. As dark clouds are however brewing over Europe, it might be wise for a drastic shift in our political landscape, lest we fall to neighboring powers...",
+    "comment": ""
+  },
+  {
+    "line": 2211,
+    "key": "wuw_GER_releasable.2.a",
+    "ver": "",
+    "en": "Pierre Dupong takes the helm",
+    "comment": ""
+  },
+  {
+    "line": 2212,
+    "key": "wuw_GER_releasable.2.b",
+    "ver": "",
+    "en": "Joseph Bech is still needed",
+    "comment": ""
+  },
+  {
+    "line": 2213,
+    "key": "wuw_GER_releasable.2.c",
+    "ver": "",
+    "en": "In these dangerous times the Royals must take action!",
+    "comment": ""
+  },
+  {
+    "line": 2214,
+    "key": "wuw_GER_releasable.2.d",
+    "ver": "",
+    "en": "The people should protest such a clearly rigged election!",
+    "comment": ""
+  },
+  {
+    "line": 2218,
+    "key": "wuw_GER_civil_war.1.t",
+    "ver": "",
+    "en": "Expatriated Communists Returning Home",
+    "comment": ""
+  },
+  {
+    "line": 2219,
+    "key": "wuw_GER_civil_war.1.desc",
+    "ver": "",
+    "en": "With the recent Wehrmacht coup against the Nazi regime, many communists who previously left the country are now flooding back in over our borders, as they see their opportunity to aid in our battle against those who once wronged them. Should we allow them to fight, or should we try to sweep their return under the rug in hopes that they will not become popular enough to stage a revolution of their own?",
+    "comment": ""
+  },
+  {
+    "line": 2220,
+    "key": "wuw_GER_civil_war.1.a",
+    "ver": "",
+    "en": "Welcome back comrades!",
+    "comment": ""
+  },
+  {
+    "line": 2221,
+    "key": "wuw_GER_civil_war.1.b",
+    "ver": "",
+    "en": "Someone needs to keep an eye on them",
+    "comment": ""
+  },
+  {
+    "line": 2223,
+    "key": "wuw_GER_civil_war.2.t",
+    "ver": "",
+    "en": "Ernst Thälmann Liberated from Prison",
+    "comment": ""
+  },
+  {
+    "line": 2224,
+    "key": "wuw_GER_civil_war.2.desc",
+    "ver": "",
+    "en": "A report has come in that a group of communist partisans have broken into and freed committed communist and former leader of the KPD Ernst Thälmann from Bautzen prison in Saxony. His party rival Walter Ulbricht has denounced the attack on the prison as an anti-revolutionary act of terror, a statement likely stemming from his fear that the widely liked Thälmann would be able to gain back leadership of the party.",
+    "comment": ""
+  },
+  {
+    "line": 2225,
+    "key": "wuw_GER_civil_war.2.a",
+    "ver": "",
+    "en": "An interesting development",
+    "comment": ""
+  },
+  {
+    "line": 2226,
+    "key": "GER_thalmann_freed_from_prison_tt",
+    "ver": "",
+    "en": "§YErnst Thälmann§! is freed from prison by communist partisans",
+    "comment": ""
+  },
+  {
+    "line": 2227,
+    "key": "GER_thalmann_freed_from_prison_flag",
+    "ver": "",
+    "en": "§YErnst Thälmann§! has been freed from Prison",
+    "comment": ""
+  },
+  {
+    "line": 2229,
+    "key": "wuw_GER_civil_war.3.t",
+    "ver": "",
+    "en": "The Reformation of Paramilitary Wings",
+    "comment": ""
+  },
+  {
+    "line": 2230,
+    "key": "wuw_GER_civil_war.3.desc",
+    "ver": "",
+    "en": "Our politicians and generals have recently been discussing the idea of introducing paramilitary wings into the ranks of our soldiers. The conservative parties wish for the reestablishment of the Bismarck Youth, the anti-Marxist youth movement associated with the DNVP. Others however see the already combating social-democratic Eiserne Front has a prime organization to strengthen if we wish to use more paramilitaries within our armed forces.",
+    "comment": ""
+  },
+  {
+    "line": 2231,
+    "key": "wuw_GER_civil_war.3.a",
+    "ver": "",
+    "en": "A New Bismarckjugend should be top priority",
+    "comment": ""
+  },
+  {
+    "line": 2232,
+    "key": "wuw_GER_civil_war.3.b",
+    "ver": "",
+    "en": "We should empower the Iron Front if anything",
+    "comment": ""
+  },
+  {
+    "line": 2234,
+    "key": "wuw_GER_civil_war.4.t",
+    "ver": "",
+    "en": "The Future of the Paramilitary Wings",
+    "comment": ""
+  },
+  {
+    "line": 2235,
+    "key": "wuw_GER_civil_war.4.desc",
+    "ver": "",
+    "en": "With the civil war having come to an end and the Nazi regime having been fully dismantled, it has come into question whether it is really a wise move to allow openly political paramilitary organizations to operate freely within our country. Seeing as the Junta has little to no formal control over them, it might be wise to ban them and force their disbandment. Otherwise, we could perhaps attempt to keep them around, and just scale them down enough to the point that they shouldn't be a threat?",
+    "comment": ""
+  },
+  {
+    "line": 2236,
+    "key": "wuw_GER_civil_war.4.a",
+    "ver": "",
+    "en": "Attempt to disband them altogether",
+    "comment": ""
+  },
+  {
+    "line": 2237,
+    "key": "wuw_GER_civil_war.4.b",
+    "ver": "",
+    "en": "Perhaps we could simply demobilize them for now?",
+    "comment": ""
+  },
+  {
+    "line": 2239,
+    "key": "wuw_GER_civil_war.5.t",
+    "ver": "",
+    "en": "The Fourth Silesian Uprising",
+    "comment": ""
+  },
+  {
+    "line": 2240,
+    "key": "wuw_GER_civil_war.5.desc",
+    "ver": "",
+    "en": "Reports have reached us of Silesian and Polish partisans opening fire upon German soldiers in Silesia. They seek independence for their nation, and saw our civil war as the sign of weakness that they needed to muster up the courage to secede. We must ensure that their goals aren't achieved, and that their rebellion is put down as hastily as possible.",
+    "comment": ""
+  },
+  {
+    "line": 2241,
+    "key": "wuw_GER_civil_war.5.a",
+    "ver": "",
+    "en": "They can not be allowed to succeed!",
+    "comment": ""
+  },
+  {
+    "line": 2243,
+    "key": "wuw_GER_civil_war.6.t",
+    "ver": "",
+    "en": "Communist Civil War in [ROOT.GetNameDef]",
+    "comment": ""
+  },
+  {
+    "line": 2244,
+    "key": "wuw_GER_civil_war.6.desc",
+    "ver": "",
+    "en": "After some time marked by intensive dissent from the proletariat the situation in [ROOT.GetNameDef] has turned hostile. [ROOT.GetLeader]'s forces have been overrun in multiple states following continuous uprisings. What will become of this revolt remains to be seen.",
+    "comment": ""
+  },
+  {
+    "line": 2245,
+    "key": "wuw_GER_civil_war.6.a",
+    "ver": "",
+    "en": "For the proletariat!",
+    "comment": ""
+  },
+  {
+    "line": 2246,
+    "key": "wuw_GER_civil_war.6.b",
+    "ver": "",
+    "en": "We will crush this rabble!",
+    "comment": ""
+  },
+  {
+    "line": 2248,
+    "key": "GER_shalva_maglakelidze_and_giorgi_kvinitadze_join",
+    "ver": "",
+    "en": "§YGiorgi Kvinitadze§! and §YShalva Maglakelidze§! will join us as a §YField Marshal§! and a §YGeneral§!\\n",
+    "comment": ""
+  },
+  {
+    "line": 2249,
+    "key": "GER_georgian_legion_recruitment_tt",
+    "ver": "",
+    "en": "Gain two Georgian Legion §YInfantry§! units",
+    "comment": ""
+  },
+  {
+    "line": 2250,
+    "key": "GER_andrey_shckuro_and_pyotr_krasnov_join_tt",
+    "ver": "",
+    "en": "§YAndrey Shkuro§! and §YPyotr Krasnov§! will join us as Generals\\n",
+    "comment": ""
+  },
+  {
+    "line": 2251,
+    "key": "GER_white_russian_exiles_divisions_recruitment_tt",
+    "ver": "",
+    "en": "Gain two Cossack units and one Russian §YInfantry§! unit",
+    "comment": ""
+  },
+  {
+    "line": 2252,
+    "key": "GER_cossack_exiles_divisions_recruitment_tt",
+    "ver": "",
+    "en": "Gain two Cossack §YCavalry§! units",
+    "comment": ""
+  },
+  {
+    "line": 2254,
+    "key": "wuw_GER_civil_war.7.t",
+    "ver": "",
+    "en": "The Loyalty of the Kriegsmarine",
+    "comment": ""
+  },
+  {
+    "line": 2255,
+    "key": "wuw_GER_civil_war.7.desc",
+    "ver": "",
+    "en": "It has come to our attention that the Kriegsmarine may opt to side with [ROOT.GetLeader] when we execute our coup. The reason seems to be that their leader Erich Raeder has been promised by [ROOT.GetLeader] that his branch of the military will gain heavy investments and freedoms under his regime, something the old government failed to achieve. Perhaps we should make similar promises, in an effort to sway him to our side?",
+    "comment": ""
+  },
+  {
+    "line": 2256,
+    "key": "wuw_GER_civil_war.7.a",
+    "ver": "",
+    "en": "We must secure their loyalty at any cost",
+    "comment": ""
+  },
+  {
+    "line": 2257,
+    "key": "wuw_GER_civil_war.7.b",
+    "ver": "",
+    "en": "We mustn't placate Erich Raeder",
+    "comment": ""
+  },
+  {
+    "line": 2258,
+    "key": "GER_promised_erich_raeder_a_great_navy_tt",
+    "ver": "",
+    "en": "Erich Raeder and a large portion of the Kriegsmarine will join our side when the coup d'etat takes place. Would we however fail to complete either §Y$GER_rebuild_the_high_seas_fleet_ww$§!, or §Y$GER_high_seas_fleet$§! and §Y$GER_re_establish_the_seekriegsleitung$§! within two years, he may §RRevolt Against our Regime§!",
+    "comment": ""
+  },
+  {
+    "line": 2259,
+    "key": "GER_chose_to_not_placate_erich_raeder_tt",
+    "ver": "",
+    "en": "Only a smaller portion of the Kriegsmarine will join our side when the coup d'etat takes place, but we will not be shackled by any promises to Erich Raeder",
+    "comment": ""
+  },
+  {
+    "line": 2261,
+    "key": "wuw_GER_civil_war.8.t",
+    "ver": "",
+    "en": "The Kriegsmarine's Coup d'etat",
+    "comment": ""
+  },
+  {
+    "line": 2262,
+    "key": "wuw_GER_civil_war.8.desc",
+    "ver": "",
+    "en": "Years after we made our promise to restore the navy to its former glory, it seems that Erich Raeder and the Kriegsmarine have had enough of our endless stalling, as they earlier today attempted a coup d'etat against our government. Luckily for us it failed, but in order to make sure this doesn't happen again, we must purge many high ranking officials and elements within our armed forces...",
+    "comment": ""
+  },
+  {
+    "line": 2263,
+    "key": "wuw_GER_civil_war.8.a",
+    "ver": "",
+    "en": "They will pay for their treachery!",
+    "comment": ""
+  },
+  {
+    "line": 2264,
+    "key": "wuw_GER_civil_war.8.b",
+    "ver": "",
+    "en": "The state will regret breaking their promises",
+    "comment": ""
+  },
+  {
+    "line": 2265,
+    "key": "this_will_happen_tt",
+    "ver": "",
+    "en": "The following will happen:\\n",
+    "comment": ""
+  },
+  {
+    "line": 2267,
+    "key": "wuw_GER_civil_war.9.t",
+    "ver": "",
+    "en": "August von Mackensen Retires from the Military",
+    "comment": ""
+  },
+  {
+    "line": 2268,
+    "key": "wuw_GER_civil_war.9.desc",
+    "ver": "",
+    "en": "With victory over the Nazi menace secured, head of the military government August von Mackensen has once again decided to step back from field command due to his age and worsening condition, and has stated that he will simply help with administrative duties from now on.",
+    "comment": ""
+  },
+  {
+    "line": 2269,
+    "key": "wuw_GER_civil_war.9.a",
+    "ver": "",
+    "en": "He has served us well",
+    "comment": ""
+  },
+  {
+    "line": 2270,
+    "key": "GER_mackensen_went_into_retirement_tt",
+    "ver": "",
+    "en": "§YAugust von Mackensen§! stops being a §YField Marshal§!",
+    "comment": ""
+  },
+  {
+    "line": 2271,
+    "key": "GER_recalled_hans_krebs_from_russia_flag",
+    "ver": "",
+    "en": "§YHans Krebs§! has been recalled from §Y[SOV.GetNameDef]§!",
+    "comment": ""
+  },
+  {
+    "line": 2276,
+    "key": "wuw_GER_legions.1.t",
+    "ver": "",
+    "en": "The Formation of a Georgian Foreign Legion",
+    "comment": ""
+  },
+  {
+    "line": 2277,
+    "key": "wuw_GER_legions.1.desc",
+    "ver": "",
+    "en": "With the recent declaration that our intent is to restore the borders of the Brest-Litovsk peace treaty, a few exiled Georgian generals and soldiers have approached us wishing to aid us in the reconquest of their former homeland, in exchange for promises to reestablish the Georgian state and grant it lordship over the Caucasus. Should we accept their aid?",
+    "comment": ""
+  },
+  {
+    "line": 2278,
+    "key": "wuw_GER_legions.1.a",
+    "ver": "",
+    "en": "They are welcome to join us",
+    "comment": ""
+  },
+  {
+    "line": 2279,
+    "key": "wuw_GER_legions.1.b",
+    "ver": "",
+    "en": "We have no need for them",
+    "comment": ""
+  },
+  {
+    "line": 2281,
+    "key": "wuw_GER_legions.2.t",
+    "ver": "",
+    "en": "Hans Krebs Recalled from [SOV.GetNameDef]",
+    "comment": ""
+  },
+  {
+    "line": 2282,
+    "key": "wuw_GER_legions.2.desc",
+    "ver": "",
+    "en": "With the recent declaration of hostilities between us and the [SOV.GetAdjective]s, our military attaché led by Generalmajor Hans Krebs has been recalled a few weeks in advance and recently arrived back in Berlin. He is now ready to serve on the Eastern Front, stating that he has the experience and knowledge of the [SOV.GetAdjective] armed forces that we need in order for a successful invasion of their territory.",
+    "comment": ""
+  },
+  {
+    "line": 2283,
+    "key": "wuw_GER_legions.2.a",
+    "ver": "",
+    "en": "We could use his military intelligence",
+    "comment": ""
+  },
+  {
+    "line": 2285,
+    "key": "wuw_GER_legions.3.t",
+    "ver": "",
+    "en": "The Opportunity for Collaboration in Lokot",
+    "comment": ""
+  },
+  {
+    "line": 2286,
+    "key": "wuw_GER_legions.3.desc",
+    "ver": "",
+    "en": "Following the occupation of the Bryansk, Kursk and Orel oblasts, our army has hatched a plan to utilize local collaborators based in Lokot to more easily govern the region, whilst simultaneously being able to have them muster more units to fight the anti-[SOV.GetAdjective] cause. This would however deny our army-group their spoils of war in the region. Should we authorize the establishment of this Lokot Autonomy?",
+    "comment": ""
+  },
+  {
+    "line": 2287,
+    "key": "wuw_GER_legions.3.a",
+    "ver": "",
+    "en": "We always welcome an enemy of our enemy!",
+    "comment": ""
+  },
+  {
+    "line": 2288,
+    "key": "wuw_GER_legions.3.b",
+    "ver": "",
+    "en": "We have no need for local collaborators",
+    "comment": ""
+  },
+  {
+    "line": 2290,
+    "key": "wuw_GER_legions.4.t",
+    "ver": "",
+    "en": "Collaborators in the Lokot!",
+    "comment": ""
+  },
+  {
+    "line": 2291,
+    "key": "wuw_GER_legions.4.desc",
+    "ver": "",
+    "en": "It has come to our attention that the [GER.GetAdjective] army has established the Lokot Autonomy in the border region between the Bryansk, Kursk and Orel oblasts after being approached by eager collaborators such as Konstantin Voskoboinik and Bronislav Kaminski. It seems they have been put up to the task of governing the region and dealing with partisans and resistance. We must strike back at the enemy and destroy this false state as soon as possible!",
+    "comment": ""
+  },
+  {
+    "line": 2292,
+    "key": "wuw_GER_legions.4.a",
+    "ver": "",
+    "en": "They made the wrong choice",
+    "comment": ""
+  },
+  {
+    "line": 2293,
+    "key": "lokot_autonomy_has_been_established_flag",
+    "ver": "",
+    "en": "The §YLokot Autonomy§! has been established",
+    "comment": ""
+  },
+  {
+    "line": 2294,
+    "key": "lokot_autonomy_has_been_crushed_flag",
+    "ver": "",
+    "en": "The §YLokot Autonomy§! has been crushed",
+    "comment": ""
+  },
+  {
+    "line": 2295,
+    "key": "SOV_recapture_lokot_to_destroy_the_autonomy_tt",
+    "ver": "",
+    "en": "If we recapture §Y[224.GetName]§!, §Y[220.GetName]§! and §Y[222.GetName]§!, we can swiftly dismantle the §YLokot Autonomy§!.",
+    "comment": ""
+  },
+  {
+    "line": 2297,
+    "key": "wuw_GER_legions.5.t",
+    "ver": "",
+    "en": "The Dismantlement of the Lokot Autonomy",
+    "comment": ""
+  },
+  {
+    "line": 2298,
+    "key": "wuw_GER_legions.5.desc",
+    "ver": "",
+    "en": "Following the recapture of the Bryansk, Kursk and Orel oblasts, our army has captured most of the collaborators in Lokot, and reinstated our local governments in the region. The [GER.GetAdjective] army has fallen back from the region, and our commanders assure us that the day of victory grows ever closer.",
+    "comment": ""
+  },
+  {
+    "line": 2299,
+    "key": "wuw_GER_legions.5.a",
+    "ver": "",
+    "en": "We will be victorious!",
+    "comment": ""
+  },
+  {
+    "line": 2301,
+    "key": "wuw_GER_legions.6.t",
+    "ver": "",
+    "en": "The Destruction of the Lokot Autonomy",
+    "comment": ""
+  },
+  {
+    "line": 2302,
+    "key": "wuw_GER_legions.6.desc",
+    "ver": "",
+    "en": "Following the [SOV.GetAdjective] recapture of the Lokot region, they have dismantled the autonomous state we had previously established, as well as arrested and eliminated all of the members of the local collaboration-government.",
+    "comment": ""
+  },
+  {
+    "line": 2303,
+    "key": "wuw_GER_legions.6.a",
+    "ver": "",
+    "en": "The war has made a turn",
+    "comment": ""
+  },
+  {
+    "line": 2304,
+    "key": "GER_lokot_collaborators_have_been_captured_by_the_soviets_tt",
+    "ver": "",
+    "en": "§Y[GER.SOV_bronislav_kaminski.GetName]§! and §Y[GER.SOV_konstantin_voskoboinik.GetName]§! have been captured by [SOV.GetAdjective] forces",
+    "comment": ""
+  },
+  {
+    "line": 2306,
+    "key": "wuw_GER_legions.7.t",
+    "ver": "",
+    "en": "An Offer from Russian Exiles in Serbia",
+    "comment": ""
+  },
+  {
+    "line": 2307,
+    "key": "wuw_GER_legions.7.desc",
+    "ver": "",
+    "en": "Following the establishment of the Serbian Government of National Salvation in our recently occupied territories, a few White Russian émigrés have offer to aid in the creation of a Russian Protective Corps which would aid us in protecting factories and government buildings in occupied Serbia, as well as help suppress Chetniks and other resistance fighters in the region. Should we employ their aid?",
+    "comment": ""
+  },
+  {
+    "line": 2308,
+    "key": "wuw_GER_legions.7.a",
+    "ver": "",
+    "en": "We could use their aid in suppressing Serbia",
+    "comment": ""
+  },
+  {
+    "line": 2309,
+    "key": "wuw_GER_legions.7.b",
+    "ver": "",
+    "en": "We have no need for this Russian rabble",
+    "comment": ""
+  },
+  {
+    "line": 2311,
+    "key": "wuw_GER_legions.8.t",
+    "ver": "",
+    "en": "An Offer from Disgruntled Cossacks",
+    "comment": ""
+  },
+  {
+    "line": 2312,
+    "key": "wuw_GER_legions.8.desc",
+    "ver": "",
+    "en": "With it becoming ever more clear of our intention to kick in the rotten door of [SOV.GetNameDef], many of those who lost in the Russian civil war have approached us wishing for a chance to bring an end to the current [SOV,GetAdjective] government. Among those are Don and Kuban cossacks [SOV.SOV_pyotr_krasnov.GetName] and [SOV.SOV_andrey_shkuro.GetName], who wish to fight for us. Should we accept their aid?",
+    "comment": ""
+  },
+  {
+    "line": 2313,
+    "key": "wuw_GER_legions.8.a",
+    "ver": "",
+    "en": "We could use their knowledge of the Kuban steppe",
+    "comment": ""
+  },
+  {
+    "line": 2314,
+    "key": "wuw_GER_legions.8.b",
+    "ver": "",
+    "en": "And why would we need the aid of some cossacks?",
+    "comment": ""
+  },
+  {
+    "line": 2323,
+    "key": "wuw_GER_monroe.1.t",
+    "ver": "",
+    "en": "[FROM.GetAdjectiveCap] Interest in the Monroe Doctrine",
+    "comment": ""
+  },
+  {
+    "line": 2324,
+    "key": "wuw_GER_monroe.1.desc",
+    "ver": "",
+    "en": "We have had alarming reports that [FROM.GetNameDef] has begun showing an increased interest in destabilizing the Monroe Doctrine. The Doctrine was put in place to prevent foreign nations from causing trouble on the American continent which we consider our sphere of influence. Judging from previous encounters with [FROM.GetNameDef] we can only assume that their intents are not good.",
+    "comment": ""
+  },
+  {
+    "line": 2325,
+    "key": "wuw_GER_monroe.1.a",
+    "ver": "",
+    "en": "We must intervene!",
+    "comment": ""
+  },
+  {
+    "line": 2326,
+    "key": "wuw_GER_monroe.1.a_tt",
+    "ver": "",
+    "en": "Unlocks Decisions to §YReinforce the Monroe Doctrine§!.\\n\\n[GER.GetNameDefCap] has unlocked decisions to attempt to §RDestabilize the Monroe Doctrine§!.",
+    "comment": ""
+  },
+  {
+    "line": 2327,
+    "key": "wuw_GER_monroe.1.b",
+    "ver": "",
+    "en": "Who Cares?",
+    "comment": ""
+  },
+  {
+    "line": 2328,
+    "key": "wuw_GER_monroe.1.b_tt",
+    "ver": "",
+    "en": "[GER.GetNameDefCap] has unlocked decisions to attempt to §RDestabilize the Monroe Doctrine§!.\\n\\nBy selecting this we will §RNOT§! get any further notifications in regards to the Monroe Doctrine. [FROM.GetNameDefCap] will be allowed to try and remove the Doctrine without interruption.\\n\\n§RPick this option only with a backup plan at hand!§!",
+    "comment": ""
+  },
+  {
+    "line": 2330,
+    "key": "wuw_GER_monroe.2.t",
+    "ver": "",
+    "en": "The Monroe Doctrine Crumbles",
+    "comment": ""
+  },
+  {
+    "line": 2331,
+    "key": "wuw_GER_monroe.2.desc",
+    "ver": "",
+    "en": "After extensive [FROM.GetAdjective] pressure it seems that the Monroe Doctrine is finally caving in. Several countries have risen up in opposition against the Doctrine and aligning themselves more closely to the [FROM.GetAdjective]s. While the opposition is loud, there are still those that might consider the Doctrine to be worth saving, at least to some degree. At this point all of our actions will be considered mitigation tactics, we should choose our response to this carefully.",
+    "comment": ""
+  },
+  {
+    "line": 2332,
+    "key": "wuw_GER_monroe.2.a",
+    "ver": "",
+    "en": "We will protect all those who have not opposed us!",
+    "comment": ""
+  },
+  {
+    "line": 2333,
+    "key": "wuw_GER_monroe.2.a_tt",
+    "ver": "",
+    "en": "The §YMonroe Doctrine§! will removed from all countries that still have it. Guarantees all countries that didn't vocally oppose the Doctrine at a cost of £GFX_pol_power §Y25 Political Power§! §RPer Country Guaranteed§!!\\n\\nCurrently there are §Y[?global.monroe_countries_in_support^num] Countries§! in support and §Y[?global.monroe_doctrine_countries_to_destabilize^num] Countries§! passively supporting the doctrine.\\n\\nCurrent cost of guarantees is £GFX_pol_power §Y[?USA.monroe_countries_all_in_support_guarantee_cost] Political Power§!",
+    "comment": ""
+  },
+  {
+    "line": 2334,
+    "key": "wuw_GER_monroe.2.b",
+    "ver": "",
+    "en": "We can only guarantee those who remained loyal",
+    "comment": ""
+  },
+  {
+    "line": 2335,
+    "key": "wuw_GER_monroe.2.b_tt",
+    "ver": "",
+    "en": "The §YMonroe Doctrine§! will removed from all countries that still have it. Guarantees all countries that vocally supported the Doctrine at a cost of £GFX_pol_power §Y25 Political Power§! §RPer Country Guaranteed§!!\\n\\nCurrently there are §Y[?global.monroe_countries_in_support^num]§! countries in support.\\n\\nCurrent cost of guarantees is £GFX_pol_power §Y[?USA.monroe_countries_strict_in_support_guarantee_cost] Political Power§!",
+    "comment": ""
+  },
+  {
+    "line": 2336,
+    "key": "wuw_GER_monroe.2.c",
+    "ver": "",
+    "en": "If they wanted guarantees, they should have stopped this.",
+    "comment": ""
+  },
+  {
+    "line": 2338,
+    "key": "wuw_GER_monroe.3.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Reinforces the Monroe Doctrine",
+    "comment": ""
+  },
+  {
+    "line": 2339,
+    "key": "wuw_GER_monroe.3.desc",
+    "ver": "",
+    "en": "Unsurprisingly [FROM.GetNameDef] grew wise to our attempts at destabilizing the region. Having launched a massive propaganda, blackmail and bribery campaign the [FROM.GetAdjective]s have swayed the countries included in the Monroe Doctrine to their side and rallied them against us. The Monroe Doctrine stands stronger than ever.",
+    "comment": ""
+  },
+  {
+    "line": 2340,
+    "key": "wuw_GER_monroe.3.a",
+    "ver": "",
+    "en": "Curses!",
+    "comment": ""
+  },
+  {
+    "line": 2342,
+    "key": "wuw_GER_monroe.4.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Demands we Drop the Monroe Doctrine",
+    "comment": ""
+  },
+  {
+    "line": 2343,
+    "key": "wuw_GER_monroe.4.desc",
+    "ver": "",
+    "en": "We have received a rather harshly worded communication from [FROM.GetNameDef]. They are declaring that the Monroe Doctrine will crumble and that shortly we will not fall under the protection of [USA.GetNameDef] anymore. If we were to abolish Doctrine now, they offer their own protection as a substitute, but they have made it very clear that this offer is dependent on us acting fast.",
+    "comment": ""
+  },
+  {
+    "line": 2344,
+    "key": "wuw_GER_monroe.4.a",
+    "ver": "",
+    "en": "What has [USA.GetNameDef] done for us anyway?",
+    "comment": ""
+  },
+  {
+    "line": 2345,
+    "key": "wuw_GER_monroe.4.a_tt",
+    "ver": "",
+    "en": "We will vocally express our §ROpposition§! to the Monroe Doctrine. In the event that the Doctrine prevails, we will stand §RWithout Guarantees§!.§Y[USA.GetFlag][USA.GetNameDefCap]§! will not be able to sway us any further.",
+    "comment": ""
+  },
+  {
+    "line": 2346,
+    "key": "wuw_GER_monroe.4.b",
+    "ver": "",
+    "en": "We will not listen to their lies!",
+    "comment": ""
+  },
+  {
+    "line": 2347,
+    "key": "wuw_GER_monroe.4.b_tt",
+    "ver": "",
+    "en": "We will refuse to take a stance in this matter. Attempts may be made by §Y[USA.GetNameWithFlag]§! to sway us to their side.",
+    "comment": ""
+  },
+  {
+    "line": 2348,
+    "key": "monroe_country_in_opposition_flag",
+    "ver": "",
+    "en": "This country has already taken stance in opposition of the Monroe Doctrine.",
+    "comment": ""
+  },
+  {
+    "line": 2350,
+    "key": "wuw_GER_monroe.5.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Intervention in [ROOT.GetAdjective] Politics",
+    "comment": ""
+  },
+  {
+    "line": 2351,
+    "key": "wuw_GER_monroe.5.desc",
+    "ver": "",
+    "en": "It has come to our attention that [FROM.GetAdjective] agents in our country are actively trying to influence our politics. The influence is not intrusive, beyond rallying already existing groups and strengthening their position in the political climate.",
+    "comment": ""
+  },
+  {
+    "line": 2352,
+    "key": "wuw_GER_monroe.5.a",
+    "ver": "",
+    "en": "Fine",
+    "comment": ""
+  },
+  {
+    "line": 2353,
+    "key": "wuw_GER_monroe.5.b",
+    "ver": "",
+    "en": "They have no business meddling with our politics!",
+    "comment": ""
+  },
+  {
+    "line": 2355,
+    "key": "wuw_GER_monroe.6.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Demands we Reaffirm Our Stance on the Monroe Doctrine",
+    "comment": ""
+  },
+  {
+    "line": 2356,
+    "key": "wuw_GER_monroe.6.desc",
+    "ver": "",
+    "en": "A communication from [FROM.GetNameDef] has just reached us. They have seen [GER.GetAdjective] agents acting to destabilize the region in attempts to disrupt and eventually dismantle the Monroe Doctrine and now wish to ascertain our loyalty to the Doctrine.",
+    "comment": ""
+  },
+  {
+    "line": 2357,
+    "key": "wuw_GER_monroe.6.a",
+    "ver": "",
+    "en": "We will support the Doctrine, just as before",
+    "comment": ""
+  },
+  {
+    "line": 2358,
+    "key": "wuw_GER_monroe.6.a_tt",
+    "ver": "",
+    "en": "We will vocally express our §GSupport§! for the Monroe Doctrine. In the event that the Doctrine crumbles, we have a chance of still having §GGuarantees§! from [FROM.GetNameDef].§Y[GER.GetFlag][GER.GetNameDefCap]§! will not be able to sway us any further.",
+    "comment": ""
+  },
+  {
+    "line": 2359,
+    "key": "wuw_GER_monroe.6.b",
+    "ver": "",
+    "en": "We will not lock ourselves down.",
+    "comment": ""
+  },
+  {
+    "line": 2360,
+    "key": "wuw_GER_monroe.6.b_tt",
+    "ver": "",
+    "en": "We will refuse to take a stance in this matter. Attempts may be made by §Y[GER.GetNameWithFlag]§! to sway us to their side.",
+    "comment": ""
+  },
+  {
+    "line": 2361,
+    "key": "monroe_country_in_support_flag",
+    "ver": "",
+    "en": "This country has already taken stance in support of the Monroe Doctrine.",
+    "comment": ""
+  },
+  {
+    "line": 2363,
+    "key": "wuw_GER_monroe.7.t",
+    "ver": "",
+    "en": "[FROM.GetAdjective] Ultimatum",
+    "comment": ""
+  },
+  {
+    "line": 2364,
+    "key": "wuw_GER_monroe.7.desc",
+    "ver": "",
+    "en": "A strongly worded [FROM.GetAdjective] has reached us. They claim their efforts to destabilize the Monroe Doctrine have been successful and that is only a matter of time before [USA.GetNameDef] dismantles the Doctrine properly. Wanting to give us a chance to drop the Doctrine and avoid their anger they have given us this last chance to oppose the Doctrine.",
+    "comment": ""
+  },
+  {
+    "line": 2365,
+    "key": "wuw_GER_monroe.7.a",
+    "ver": "",
+    "en": "Drop it, to avoid the [FROM.GetAdjective] wrath!",
+    "comment": ""
+  },
+  {
+    "line": 2366,
+    "key": "wuw_GER_monroe.7.b",
+    "ver": "",
+    "en": "We will not be threatened!",
+    "comment": ""
+  },
+  {
+    "line": 2368,
+    "key": "wuw_GER_monroe.8.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Doubles Down on the Monroe Doctrine.",
+    "comment": ""
+  },
+  {
+    "line": 2369,
+    "key": "wuw_GER_monroe.8.desc",
+    "ver": "",
+    "en": "[FROM.GetAdjective] leader [FROM.GetLeader] has reached out to us personally. [FROM.GetLeader.GetSheHeCap] cautions us that the Monroe Doctrine still stands, despite [GER.GetAdjective] efforts to destabilize it. They emphasize that we have enjoyed their protection and that this comes with the responsibility to uphold the Doctrine together with them.",
+    "comment": ""
+  },
+  {
+    "line": 2370,
+    "key": "wuw_GER_monroe.8.a",
+    "ver": "",
+    "en": "Go back to the doctrine",
+    "comment": ""
+  },
+  {
+    "line": 2371,
+    "key": "wuw_GER_monroe.8.b",
+    "ver": "",
+    "en": "We never asked for the Monroe Doctrine in the first place!",
+    "comment": ""
+  },
+  {
+    "line": 2372,
+    "key": "wuw_GER_monroe.8.c",
+    "ver": "",
+    "en": "Of course, we have simply waited out the storm",
+    "comment": ""
+  }
+]

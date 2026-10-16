@@ -1,0 +1,562 @@
+[
+  {
+    "line_num": 331,
+    "key": "OPERATIVE_CAPTURED_DAYS_REMAINING",
+    "ver": "",
+    "val": "§RThis operative will be killed if not rescued within $DAYS|H$ days!§!",
+    "comm": ""
+  },
+  {
+    "line_num": 332,
+    "key": "OPERATIVE_CAPTURED_DESC",
+    "ver": "",
+    "val": "The operative is being detained. The jailer is conducting interrogations to extract information about our country and operations. If not rescued in time, the operative will be executed.",
+    "comm": ""
+  },
+  {
+    "line_num": 333,
+    "key": "OPERATIVE_HARMED_IN_MISSION",
+    "ver": "",
+    "val": "§RHarmed in mission§!",
+    "comm": ""
+  },
+  {
+    "line_num": 334,
+    "key": "OPERATIVE_HARMED_IN_MISSION_DESC",
+    "ver": "",
+    "val": "This operative was injured while on assignment. They will require some time to recover.",
+    "comm": ""
+  },
+  {
+    "line_num": 335,
+    "key": "OPERATIVE_FORCED_INTO_HIDING",
+    "ver": "",
+    "val": "§RForced into hiding§!",
+    "comm": ""
+  },
+  {
+    "line_num": 336,
+    "key": "OPERATIVE_FORCED_INTO_HIDING_DESC",
+    "ver": "",
+    "val": "This operative was discovered while on assignment and forced to break off contact while evading pursuit. They will contact us as soon as they have shaken off their pursuers.",
+    "comm": ""
+  },
+  {
+    "line_num": 337,
+    "key": "OPERATIVE_AVAILABLE_AGAIN_IN_DAYS",
+    "ver": "",
+    "val": "This operative will be available again in $DAYS|H$ days!",
+    "comm": ""
+  },
+  {
+    "line_num": 338,
+    "key": "OPERATIVE_NAME_AND_CODENAME",
+    "ver": "",
+    "val": "$CODENAME|H$ ($NAME|H$)",
+    "comm": ""
+  },
+  {
+    "line_num": 339,
+    "key": "OPERATIVE_INTEL_NETWORK_GAIN",
+    "ver": "",
+    "val": "Intel Network Strength gain in state: $GAIN|+1$",
+    "comm": ""
+  },
+  {
+    "line_num": 340,
+    "key": "OPERATIVE_INTELLIGENCE_AGENCY_DEFENSE",
+    "ver": "",
+    "val": "Contribution to §YCounter Intelligence§!: $DEFENSE|+1$",
+    "comm": ""
+  },
+  {
+    "line_num": 341,
+    "key": "OPERATIVE_MISSION_PROPAGANDA_EFFORT",
+    "ver": "",
+    "val": "Drift per day: $VALUE|2$",
+    "comm": ""
+  },
+  {
+    "line_num": 342,
+    "key": "OPERATIVE_MISSION_PROPAGANDA_STABILITY_DRIFT",
+    "ver": "",
+    "val": "Stability drift: $DRIFT|+2%$/day",
+    "comm": ""
+  },
+  {
+    "line_num": 343,
+    "key": "OPERATIVE_MISSION_PROPAGANDA_WAR_SUPPORT_DRIFT",
+    "ver": "",
+    "val": "War Support drift: $DRIFT|+2%$/day",
+    "comm": ""
+  },
+  {
+    "line_num": 344,
+    "key": "OPERATIVE_MISSION_ROOT_OUT_RESISTANCE_EFFORT",
+    "ver": "",
+    "val": "Performing the mission with a $VALUE|H0%$ efficiency",
+    "comm": ""
+  },
+  {
+    "line_num": 345,
+    "key": "OPERATIVE_MISSION_ROOT_OUT_RESISTANCE_STATE_MODIFIER",
+    "ver": "",
+    "val": "Which translates to the following effects in the state",
+    "comm": ""
+  },
+  {
+    "line_num": 346,
+    "key": "OPERATIVE_CODENAME_EDIT",
+    "ver": "",
+    "val": "§GClick§! to change the operative's codename",
+    "comm": ""
+  },
+  {
+    "line_num": 347,
+    "key": "OPERATIVE_SELECT",
+    "ver": "",
+    "val": "Select Operative",
+    "comm": ""
+  },
+  {
+    "line_num": 348,
+    "key": "OPERATIVE_TITLE_DESC",
+    "ver": "",
+    "val": "Skill level: $SKILL_LEVEL|H$ ($TITLE|H$)",
+    "comm": ""
+  },
+  {
+    "line_num": 349,
+    "key": "INTEL_NETWORK_STRENGTH_IN_STATE",
+    "ver": "",
+    "val": "States under the influence of the Intel Network: $INFLUENCED|H$/$CONTROLLED|H$",
+    "comm": ""
+  },
+  {
+    "line_num": 350,
+    "key": "PLANNING_SPEED_FROM_LOCAL_INTEL_NETWORK",
+    "ver": "",
+    "val": "Planning speed from local intel network: $FACTOR|+%$",
+    "comm": ""
+  },
+  {
+    "line_num": 351,
+    "key": "PLANNING_SPEED_FROM_RELATION_MODIFIER",
+    "ver": "",
+    "val": "Planning speed bonus against enemies: $FACTOR|+%$",
+    "comm": ""
+  },
+  {
+    "line_num": 352,
+    "key": "START_DECRYPTION",
+    "ver": "",
+    "val": "Start Decryption",
+    "comm": ""
+  },
+  {
+    "line_num": 353,
+    "key": "STOP_DECRYPTION",
+    "ver": "",
+    "val": "Stop Decryption",
+    "comm": ""
+  },
+  {
+    "line_num": 354,
+    "key": "REVEAL_INTEL",
+    "ver": "",
+    "val": "Reveal Intel\\n$DAYS$ Days",
+    "comm": ""
+  },
+  {
+    "line_num": 355,
+    "key": "REVEAL_INTEL_LEFT",
+    "ver": "",
+    "val": "Intel Revealed\\n($DAYS$ Days)",
+    "comm": ""
+  },
+  {
+    "line_num": 356,
+    "key": "CLICK_TO_ADD_NEW",
+    "ver": "",
+    "val": "Click on map to add a country as decryption target.",
+    "comm": ""
+  },
+  {
+    "line_num": 357,
+    "key": "CRYPTO_SELECT_A_NON_ALLY_COUNTRY_DESC",
+    "ver": "",
+    "val": "§RYou can only start decryption on a non-ally country§!",
+    "comm": ""
+  },
+  {
+    "line_num": 358,
+    "key": "CRYPTOLOGY_NOT_ACTIVE",
+    "ver": "",
+    "val": "§RCryptology Department is not researched§!",
+    "comm": ""
+  },
+  {
+    "line_num": 359,
+    "key": "CRYPTO_IS_ALREADY_IN_LIST",
+    "ver": "",
+    "val": "§R$COUNTRY|H$ is already in decryption list§!",
+    "comm": ""
+  },
+  {
+    "line_num": 360,
+    "key": "CRYPTO_CLICK_TO_ADD_DESC",
+    "ver": "",
+    "val": "Click to add $COUNTRY|H$ to decryption list",
+    "comm": ""
+  },
+  {
+    "line_num": 361,
+    "key": "CRYPTO_DEFENSE_LEVEL",
+    "ver": "",
+    "val": "Cryptology Level $LEVEL$",
+    "comm": ""
+  },
+  {
+    "line_num": 362,
+    "key": "CRYPTO_DECRYPTION_STRENGTH",
+    "ver": "",
+    "val": "$STRENGTH|0$£crypto£",
+    "comm": ""
+  },
+  {
+    "line_num": 363,
+    "key": "CRYPTO_NOT_ACTIVE",
+    "ver": "",
+    "val": "Cryptology is not available until you have formed the Cryptology Department in Agency Branches.",
+    "comm": ""
+  },
+  {
+    "line_num": 364,
+    "key": "CRYPTO_NOT_ACTIVE_DESC",
+    "ver": "",
+    "val": "Form Cryptology Department to enable decryption.",
+    "comm": ""
+  },
+  {
+    "line_num": 365,
+    "key": "CRYPTO_FULLY_DECRYPTED",
+    "ver": "",
+    "val": "Completed",
+    "comm": ""
+  },
+  {
+    "line_num": 366,
+    "key": "CRYPTO_FULLY_ACTIVATED",
+    "ver": "",
+    "val": "Active ",
+    "comm": ""
+  },
+  {
+    "line_num": 367,
+    "key": "CRYPTO_DECRYPTING",
+    "ver": "",
+    "val": "Decrypting: $DAYS$ days",
+    "comm": ""
+  },
+  {
+    "line_num": 368,
+    "key": "CRYPTO_NOT_DECRYPTING",
+    "ver": "",
+    "val": "$DAYS$ days",
+    "comm": ""
+  },
+  {
+    "line_num": 369,
+    "key": "CRYPTO_DECRYPTION_DESC",
+    "ver": "",
+    "val": "Decrypted Enemy Cipher: $CURRENT|0H$/$MAX|0H$£crypto£",
+    "comm": ""
+  },
+  {
+    "line_num": 370,
+    "key": "CRYPTO_DECRYPTION_DESC_ESTIMATION",
+    "ver": "",
+    "val": "With our current decryption speed and active decryptions, it will take $NUM_DAYS|H$ days to fully decrypt the cipher.",
+    "comm": ""
+  },
+  {
+    "line_num": 371,
+    "key": "CRYPTO_DECRYPTION_DESC_ESTIMATION_IF_STARTED",
+    "ver": "",
+    "val": "Once the decryption process is initiated, it will take $NUM_DAYS|H$ days to fully decrypt the cipher, given our current decryption speed and other active decryptions.",
+    "comm": ""
+  },
+  {
+    "line_num": 372,
+    "key": "CRYPTO_NO_DECRYPTION",
+    "ver": "",
+    "val": "We do not have any decryption capability at the moment. Upgrade the cryptology department to be able to break enemy ciphers.",
+    "comm": ""
+  },
+  {
+    "line_num": 373,
+    "key": "CRYPTO_DECRYPTION_SPEED_DESC",
+    "ver": "",
+    "val": "Our country has $POWER|0H$£crypto£ §HDecryption Power§! per day.",
+    "comm": ""
+  },
+  {
+    "line_num": 374,
+    "key": "CRYPTO_DECRYPTION_SPEED_DESC_MULTIPLE_COUNTRY_INFO",
+    "ver": "",
+    "val": "If multiple ciphers are being decrypted at the same time, our decryption capacity will be shared among them.",
+    "comm": ""
+  },
+  {
+    "line_num": 375,
+    "key": "CRYPTO_DEFENSE_LEVEL_DESC",
+    "ver": "",
+    "val": "Our country's §HCryptology Level§! is $LEVEL|H$ and it has $STRENGTH|0H$£crypto_defense£ §HCryptology Strength§!.\\n\\n§HCryptology Strength§! dictates how long it takes for enemies to crack your nation's Cipher.",
+    "comm": ""
+  },
+  {
+    "line_num": 376,
+    "key": "CRYPTO_FULLY_DECRYPTED_PASSIVE_MODIFIERS_DESC",
+    "ver": "",
+    "val": "The enemy cipher is fully decrypted. We will gain the following passive bonuses against the enemy:",
+    "comm": ""
+  },
+  {
+    "line_num": 377,
+    "key": "CRYPTO_NOT_FULLY_DECRYPTED_PASSIVE_MODIFIERS_DESC",
+    "ver": "",
+    "val": "Once the enemy cipher is fully decrypted, we will get following passive bonuses against the enemy:",
+    "comm": ""
+  },
+  {
+    "line_num": 378,
+    "key": "CRYPTO_CLICK_TO_START_DECRYPTION",
+    "ver": "",
+    "val": "§GClick§! to start decryption",
+    "comm": ""
+  },
+  {
+    "line_num": 379,
+    "key": "CRYPTO_CLICK_TO_STOP_DECRYPTION",
+    "ver": "",
+    "val": "§GClick§! to stop decryption",
+    "comm": ""
+  },
+  {
+    "line_num": 380,
+    "key": "CRYPTO_CLICK_TO_ACTIVATE_ACTIVE_BONUSES",
+    "ver": "",
+    "val": "§GClick§! to activate active decryption bonuses",
+    "comm": ""
+  },
+  {
+    "line_num": 381,
+    "key": "CRYPTO_CLICK_TO_ACTIVATE_ACTIVE_BONUSES_2",
+    "ver": "",
+    "val": "We will gain the following bonuses for $NUM|H$ days on top of passive ones, but the enemy will be aware of our decryption effort and will reset their cipher afterwards.",
+    "comm": ""
+  },
+  {
+    "line_num": 382,
+    "key": "CRYPTO_ACTIVATE_ACTIVE_BONUSES_NOT_READY_YET",
+    "ver": "",
+    "val": "Enemy cipher is not fully decrypted yet. Once it is decrypted, you can activate your active decryption bonuses for $NUM|H$ days on top of passive ones but the enemy will be aware of your decryption and will reset their cipher afterwards",
+    "comm": ""
+  },
+  {
+    "line_num": 383,
+    "key": "CRYPTO_ACTIVATE_ACTIVE_BONUSES_ACTIVATED",
+    "ver": "",
+    "val": "Active decryption bonuses are enabled. You will get following bonuses for $NUM|H$ days on top of passive ones:",
+    "comm": ""
+  },
+  {
+    "line_num": 384,
+    "key": "CRYPTO_ACTIVATE_ACTIVE_BONUSES_ACTIVATED_ALL",
+    "ver": "",
+    "val": "Active decryption bonuses are enabled. You will get following bonuses for $NUM|H$ days:",
+    "comm": ""
+  },
+  {
+    "line_num": 385,
+    "key": "CRYPTO_ENEMY_CRYPTO_IS_BROKEN_TITLE",
+    "ver": "",
+    "val": "Enemy Cipher is Decrypted",
+    "comm": ""
+  },
+  {
+    "line_num": 386,
+    "key": "CRYPTO_ENEMY_CRYPTO_IS_BROKEN_DESC",
+    "ver": "",
+    "val": "The Cipher for $COUNTRY_NAMES|H$ is fully decrypted.",
+    "comm": ""
+  },
+  {
+    "line_num": 387,
+    "key": "CRYPTO_ENEMY_ACTIVATED_THEIR_CRYPTO_TITLE",
+    "ver": "",
+    "val": "Our Cipher has been §RBroken§! by the enemy",
+    "comm": ""
+  },
+  {
+    "line_num": 388,
+    "key": "CRYPTO_ENEMY_ACTIVATED_THEIR_CRYPTO_DESC",
+    "ver": "",
+    "val": "$COUNTRY|H$ has decrypted our ciphers and started to make information gained from reading our messages widely available to field commanders. They will get various combat bonuses against us for $NUMDAYS|H$ days.",
+    "comm": ""
+  },
+  {
+    "line_num": 389,
+    "key": "CRYPTO_DELETE_DECRYPTION",
+    "ver": "",
+    "val": "§RDelete Decryption§!",
+    "comm": ""
+  },
+  {
+    "line_num": 390,
+    "key": "CRYPTO_DELETE_TITLE",
+    "ver": "",
+    "val": "Delete Decryption",
+    "comm": ""
+  },
+  {
+    "line_num": 391,
+    "key": "CRYPTO_DELETE_DESC",
+    "ver": "",
+    "val": "Are you sure you want to §RDelete§! the decryption progress done against $COUNTRY|H$?",
+    "comm": ""
+  },
+  {
+    "line_num": 392,
+    "key": "CRYPTO_ACTIVATE_TITLE",
+    "ver": "",
+    "val": "Activate Decryption",
+    "comm": ""
+  },
+  {
+    "line_num": 393,
+    "key": "CRYPTO_ACTIVATE_DESC",
+    "ver": "",
+    "val": "Are you sure you want to §HActivate§! your active decryption bonuses against $COUNTRY|H$?\\n\\nThey will be notified that we have decrypted their ciphers and will change it, ending the active bonuses.",
+    "comm": ""
+  },
+  {
+    "line_num": 394,
+    "key": "DECRPYPTION_BONUSES_AIR_TOOLTIP",
+    "ver": "",
+    "val": "§HBroken Enemy Ciphers§!\\n\\nYou are getting following bonuses against $COUNTRIES|H$:",
+    "comm": ""
+  },
+  {
+    "line_num": 395,
+    "key": "INTEL_LEDGER",
+    "ver": "",
+    "val": "Intel Ledger",
+    "comm": ""
+  },
+  {
+    "line_num": 396,
+    "key": "SHOW_INTEL_LEDGER",
+    "ver": "",
+    "val": "Show the Intel Ledger to view the intel that you have on other countries.",
+    "comm": ""
+  },
+  {
+    "line_num": 397,
+    "key": "OPERATIVE_NATIONALITY",
+    "ver": "",
+    "val": "This operative has $NATIONALITY|H$ nationality, giving the following bonuses.",
+    "comm": ""
+  },
+  {
+    "line_num": 398,
+    "key": "OPERATIVE_NATIONALITY_MISSION_MODIFIERS_HEADER",
+    "ver": "",
+    "val": "§HWhen running missions in this country:§!",
+    "comm": ""
+  },
+  {
+    "line_num": 399,
+    "key": "OPERATIVE_NATIONALITY_OPERATION_MODIFIERS_HEADER",
+    "ver": "",
+    "val": "§HWhen running operations in this country:§!",
+    "comm": ""
+  },
+  {
+    "line_num": 400,
+    "key": "OPERATIVE_NATIONALITY_DESC",
+    "ver": "",
+    "val": "An operative has an advantage when operating in a country he has the nationality of.\\n\\nNote that for £operative_mission_icons_small|1£ Build Intel Network, £operative_mission_icons_small|2£ Quiet Intel Network and £operative_mission_icons_small|4£ Root Out Resistance missions, the country considered is the one being occupied or, if none, the controller of the state.",
+    "comm": ""
+  },
+  {
+    "line_num": 401,
+    "key": "COUNTERINTELLIGENCE_ACTIVITY_LEVEL",
+    "ver": "",
+    "val": "Activity Level: ",
+    "comm": ""
+  },
+  {
+    "line_num": 402,
+    "key": "COUNTERINTELLIGENCE_ACTIVITY_LEVEL_0",
+    "ver": "",
+    "val": "§GLow§!: No to little subversive activity",
+    "comm": ""
+  },
+  {
+    "line_num": 403,
+    "key": "COUNTERINTELLIGENCE_ACTIVITY_LEVEL_1",
+    "ver": "",
+    "val": "§YMedium§!: Some activity has been noticed",
+    "comm": ""
+  },
+  {
+    "line_num": 404,
+    "key": "COUNTERINTELLIGENCE_ACTIVITY_LEVEL_2",
+    "ver": "",
+    "val": "§YImportant§!: Foreign powers have a foot in the country",
+    "comm": ""
+  },
+  {
+    "line_num": 405,
+    "key": "COUNTERINTELLIGENCE_ACTIVITY_LEVEL_3",
+    "ver": "",
+    "val": "§RSerious§!: The influence of foreign power is undeniable",
+    "comm": ""
+  },
+  {
+    "line_num": 406,
+    "key": "COUNTERINTELLIGENCE_ACTIVITY_LEVEL_4",
+    "ver": "",
+    "val": "§RCritical§!: Foreign powers activities are destabilizing the country",
+    "comm": ""
+  },
+  {
+    "line_num": 407,
+    "key": "COUNTERINTELLIGENCE_ACTIVITY_LEVEL_DESC",
+    "ver": "",
+    "val": "The activity level represents the amount and danger of foreign subversive activities in the country over the last few weeks.",
+    "comm": ""
+  },
+  {
+    "line_num": 408,
+    "key": "ON_OPERATION_STATUS",
+    "ver": "",
+    "val": "On operation $OPERATION|H$ in $COUNTRY$",
+    "comm": ""
+  },
+  {
+    "line_num": 409,
+    "key": "OPERATION_ETA_COMPLETED",
+    "ver": "",
+    "val": "§YCompleted§!",
+    "comm": ""
+  },
+  {
+    "line_num": 410,
+    "key": "OPERATION_OUTLOOK_DESC",
+    "ver": "",
+    "val": "Operation outlook is defined by two factors.\\n§HRisk§! which tells you the likelihood of one of your Operatives being captured or killed after the Operation is completed.\\n§HBonus Outcome§! gives your Operatives a chance to get an improved outcome or other rewards over the base one.",
+    "comm": ""
+  }
+]

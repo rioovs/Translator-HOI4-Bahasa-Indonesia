@@ -1,0 +1,1712 @@
+[
+  {
+    "key": "news.1.t",
+    "version": "",
+    "type": "title",
+    "en": "Marco Polo Bridge Incident"
+  },
+  {
+    "key": "news.1.d",
+    "version": "",
+    "type": "desc",
+    "en": "Japanese and Chinese forces have skirmished inconclusively over the strategic Marco Polo Bridge located just southwest of Beijing. \\n\\n[CHI.GetNameDef] has rejected [JAP.GetNameDef]'s demands for an apology and territorial concessions, claiming instead that the 'breaking point' of Japanese aggression has been reached. \\n\\nDiplomats fear that the volatile situation could result in war at any time."
+  },
+  {
+    "key": "news.2.d",
+    "version": "",
+    "type": "desc",
+    "en": "Japanese and Chinese forces have skirmished inconclusively over the strategic Marco Polo Bridge located just southwest of Beijing. \\n\\n[CHI.GetNameDef] has accepted full responsibility for the incident, forwarding an apology to [JAP.GetNameDef] as well as agreeing to extensive territorial concessions. This has surprised many experts, who had predicted that the border tensions would erupt into a full-blown war. \\n\\nDoes this mean lasting peace in Asia?"
+  },
+  {
+    "key": "news.5.t",
+    "version": "",
+    "type": "title",
+    "en": "[JAP.GetNameDefCap] Demands French Indochina"
+  },
+  {
+    "key": "news.5.d",
+    "version": "",
+    "type": "desc",
+    "en": "Taking advantage of French weakness in light of the struggle in Europe, [JAP.GetNameDef] has coerced the new government into surrendering control over their colony in Indochina! \\n\\nJapanese troops have already moved to occupy all major bases in the region, and experts fear that the colony could be used as a launching point for future military expeditions."
+  },
+  {
+    "key": "news.6.d",
+    "version": "",
+    "type": "desc",
+    "en": "Attempting to take advantage of France's weakness in light of their defeat in Europe, [JAP.GetNameDef] recently issued a demand to the new French government for complete access to their bases in Indochina. \\n\\nThis would effectively mean transferring over control of the entire colony to Japan, something the French could not agree to.\\n\\nExperts consider it likely that this decision will lead to Japanese military reprisals."
+  },
+  {
+    "key": "news.7.t",
+    "version": "",
+    "type": "title",
+    "en": "Soviet - Japanese Skirmish"
+  },
+  {
+    "key": "news.7.d",
+    "version": "",
+    "type": "desc",
+    "en": "Soviet and Japanese forces recently clashed in a major skirmish along the Manchurian border. \\n\\nA significant Soviet raiding force supported by Mongolian cavalry apparently caught the Japanese by surprise, inflicting heavy casualties. \\n\\nThe mood in Tokyo has been reported as tense, but it is too early to tell if the conflict will escalate into open warfare."
+  },
+  {
+    "key": "news.8.d",
+    "version": "",
+    "type": "desc",
+    "en": "Soviet and Japanese forces recently clashed in a major skirmish along the Manchurian border. \\n\\nAccounts from the battle indicate that the Japanese caught the Soviets in a pincer movement when they attacked across the border, forcing the survivors to withdraw in disarray. \\n\\nWill this incident prompt Moscow to dispatch more forces to the Russian Far East?"
+  },
+  {
+    "key": "news.9.t",
+    "version": "",
+    "type": "title",
+    "en": "Soviet Withdrawal"
+  },
+  {
+    "key": "news.9.d",
+    "version": "",
+    "type": "desc",
+    "en": "After a build-up of Japanese forces in Manchuria, the Soviet Union appears to have unexpectedly withdrawn units that were stationed right alongside the border. \\n\\nThis may be a bid by Moscow to avoid a future confrontation with Japan, possibly triggered by the stinging memory of the defeat Russia endured in the Russo - Japanese War."
+  },
+  {
+    "key": "news.10.t",
+    "version": "",
+    "type": "title",
+    "en": "Soviet Union Claims Bessarabia"
+  },
+  {
+    "key": "news.10.d",
+    "version": "",
+    "type": "desc",
+    "en": "After massing forces along the Romanian border, [SOV.GetNameDef] has issued an ultimatum to the government in Bucharest for the immediate transfer of Bessarabia, to their control. The region once belonged to the Russian Empire, which [SOV.GetNameDef] sees as sufficient legal basis for their demands.\\n\\nRomania has declared that it has no choice but to accede, and its forces have been withdrawn from Bessarabia."
+  },
+  {
+    "key": "news.11.t",
+    "version": "",
+    "type": "title",
+    "en": "Romania Rejects Soviet Demands"
+  },
+  {
+    "key": "news.11.d",
+    "version": "",
+    "type": "desc",
+    "en": "[SOV.GetNameDefCap] has been concentrating significant forces along its border to [ROM.GetNameDef], and today Moscow issued an ultimatum to the Romanian government, calling for the immediate transfer of Bessarabia to its control. The region once belonged to the Russian Empire, which [SOV.GetNameDef] sees as sufficient legal basis for their demands.\\n\\nIn a defiant move, Bucharest has chosen to reject all Soviet territorial demands, and the Romanian army has been given the order for a complete mobilization. \\n\\nInternational observers expect Soviet forces to cross the border at any moment."
+  },
+  {
+    "key": "news.12.t",
+    "version": "",
+    "type": "title",
+    "en": "[FIN.GetNameDefCap] Rejects Soviet Demands"
+  },
+  {
+    "key": "news.12.d",
+    "version": "",
+    "type": "desc",
+    "en": "Soviet diplomats have presented an ultimatum to the government of [FIN.GetNameDef], demanding border adjustments in the region of Karelia. \\n\\nDespite a significant build-up of Soviet forces on the border, Helsinki has rejected these demands, stating that \"not a single foot of Finnish soil will be given willingly to the Russian aggressors.\" \\n\\nInternational observers fear that a Soviet invasion may be imminent."
+  },
+  {
+    "key": "news.13.t",
+    "version": "",
+    "type": "title",
+    "en": "[FIN.GetNameDefCap] Accepts Soviet Demands"
+  },
+  {
+    "key": "news.13.d",
+    "version": "",
+    "type": "desc",
+    "en": "After much debate, the government of [FIN.GetNameDef] has decided to accept Soviet demands for border adjustments in the region of Karelia. \\n\\n[SOV.GetNameDef] has cited the need to create a buffer zone to improve the security of Leningrad, located only 30 kilometers from the now former Finnish border. \\n\\nMany observers had feared that a full-scale Soviet invasion of Finland was imminent, but this diplomatic solution should lay those fears to rest."
+  },
+  {
+    "key": "news.14.t",
+    "version": "",
+    "type": "title",
+    "en": "[SOV.GetNameDefCap] Annexes [TAN.GetNameDef]"
+  },
+  {
+    "key": "news.14.d",
+    "version": "",
+    "type": "desc",
+    "en": "In a press release earlier today, Moscow announced the formal annexation of [TAN.GetNameDef]. \\n\\nThe Supreme Soviet agreed to a request from the Tuvan parliament for membership in the USSR. \\n\\nThe small Tuvan People's Republic, which had only been officially recognized by the Soviet Union and Mongolia, will be organized as an autonomous oblast."
+  },
+  {
+    "key": "news.15.t",
+    "version": "",
+    "type": "title",
+    "en": "Second Vienna Award"
+  },
+  {
+    "key": "news.15.d",
+    "version": "",
+    "type": "desc",
+    "en": "A treaty has been signed at Vienna following German arbitration that will see Northern Transylvania restored to Hungarian rule.\\n\\nThe territory had previously been awarded to [ROM.GetNameDef] upon the conclusion of World War I, leading to a bitter dispute. \\n\\nAre these the first of many borders to be adjusted, now that a new order seems to have been established in Europe?"
+  },
+  {
+    "key": "news.16.d",
+    "version": "",
+    "type": "desc",
+    "en": "Following German arbitration, a treaty has been signed at Vienna that will see all of Transylvania restored to Hungarian rule. \\n\\nThe territory had previously been awarded to [ROM.GetNameDef] upon the conclusion of World War I, leading to a bitter dispute. \\n\\nAre these the first of many borders to be adjusted now that a new order seems to have been established in Europe?"
+  },
+  {
+    "key": "news.17.t",
+    "version": "",
+    "type": "title",
+    "en": "Romania Rejects German Arbitration"
+  },
+  {
+    "key": "news.17.d",
+    "version": "",
+    "type": "desc",
+    "en": "Negotiations between [HUN.GetNameDef] and [ROM.GetNameDef] regarding a territorial dispute have broken down at Vienna. \\n\\n[GER.GetNameDef] acted as arbiter, but when they decided to return Northern Transylvania to [HUN.GetNameDef], [ROM.GetNameDef] rejected the decision. The Romanian government promptly ordered their delegation to return to Bucharest. \\n\\nIt would appear that [GER.GetNameDef] does not yet wield the diplomatic influence they imagined they did."
+  },
+  {
+    "key": "news.18.d",
+    "version": "",
+    "type": "desc",
+    "en": "Negotiations between [HUN.GetNameDef] and [ROM.GetNameDef] regarding a territorial dispute have broken down at Vienna. \\n\\n[GER.GetNameDef] acted as arbiter, but when they decided to return Northern Transylvania to [HUN.GetNameDef], [ROM.GetNameDef] rejected the decision. The Romanian government promptly ordered their delegation to return to Bucharest. \\n\\nIt would appear that [GER.GetNameDef] does not yet wield the diplomatic influence they imagined they did."
+  },
+  {
+    "key": "news.19.t",
+    "version": "",
+    "type": "title",
+    "en": "[GER.GetNameDefCap] Claims Memel"
+  },
+  {
+    "key": "news.19.d",
+    "version": "",
+    "type": "desc",
+    "en": "With German forces on their border poised to attack, [FROM.GetNameDef] has given in to a [GER.GetAdjective] ultimatum demanding the surrender of the old Prussian territory of Memel.\\n\\nIt was passed to [FROM.GetNameDef] by the Treaty of Versailles, but has now been reintegrated into the region of Ostpreussen. \\n\\nHave we yet reached the extent of German territorial ambitions in Europe? Experts are doubtful..."
+  },
+  {
+    "key": "news.20.t",
+    "version": "",
+    "type": "title",
+    "en": "[FROM.GetNameDefCap] Rejects [GER.GetAdjective] Demands"
+  },
+  {
+    "key": "news.20.d",
+    "version": "",
+    "type": "desc",
+    "en": "Even with [GER.GetAdjective] forces lined up on their border, [FROM.GetNameDef] has rejected an ultimatum issued by Berlin for the return of territory of Memel. \\n\\nMemel once belonged to East Prussia, but was annexed by [FROM.GetNameDef] following the Treaty of Versailles. It was the integrity of the Treaty [FROM.GetLeader] said it was necessary to protect when the [FROM.GetAdjective] government announced their rejection.\\n\\nInternational observers now expect that Germany may attempt to take the territory by force..."
+  },
+  {
+    "key": "news.21.t",
+    "version": "",
+    "type": "title",
+    "en": "Treaty of Craiova"
+  },
+  {
+    "key": "news.21.d",
+    "version": "",
+    "type": "desc",
+    "en": "More concessions have been forced on [ROM.GetNameDef], with [BUL.GetNameDef] reclaiming Southern Dobrudja. \\n\\nThe territory was annexed by Romania in 1913, after the Second Balkan War, and is still mostly populated by ethnic Bulgarians and Turks.\\n\\nRegardless of the reasoning, [ROM.GetNameDef] now stands significantly weakened."
+  },
+  {
+    "key": "news.22.t",
+    "version": "",
+    "type": "title",
+    "en": "[ALB.GetLeader] Submits to Italy"
+  },
+  {
+    "key": "news.22.d",
+    "version": "",
+    "type": "desc",
+    "en": "An ultimatum has been delivered to the Albanian government by Italian diplomats, demanding that they submit to complete military occupation. \\n\\n[ALB.GetLeader] has abdicated after realizing the futility of resistance, and Albania will now be ruled in a personal union under King Vittorio Emanuele III.\\n\\n[ITA.GetNameDef] looks to the Balkans..."
+  },
+  {
+    "key": "news.23.t",
+    "version": "",
+    "type": "title",
+    "en": "Zog Defiant"
+  },
+  {
+    "key": "news.23.d",
+    "version": "",
+    "type": "desc",
+    "en": "Diplomats from [ITA.GetNameDef] have delivered an ultimatum to [ALB.GetNameDef], demanding the latter's annexation into Greater Italy. \\n\\nIn a brave act of national leadership, King Zog has refused to yield to the Italian demands, urging the Albanian people to resist pressure from [ITA.GetNameDef]. \\n\\nNevertheless, foreign military experts agree that [ALB.GetNameDef] has little chance of resisting an invasion."
+  },
+  {
+    "key": "news.24.t",
+    "version": "",
+    "type": "title",
+    "en": "The Polish Question"
+  },
+  {
+    "key": "news.24.d",
+    "version": "",
+    "type": "desc",
+    "en": "In a heated speech today before the Reichstag, [GER.GetLeader] denounced Poland and their treatment of Germans living in Danzig and the Polish Corridor. \\n\\nClaiming that German minorities in Poland are being 'persecuted in the vilest manner imaginable,' [GER.GetLeader] made the position of his government clear:\\n'Danzig was a German city and is a German city! The Corridor was German and is German! Without the German Volk, these eastern regions would still be plunged in the depths of barbarism.'"
+  },
+  {
+    "key": "news.25.t",
+    "version": "",
+    "type": "title",
+    "en": "The Remilitarization of the Rhineland"
+  },
+  {
+    "key": "news.25.d",
+    "version": "",
+    "type": "desc",
+    "en": "Germany has stationed troops in the Rhineland territory, close to the French border, in clear violation of the Treaty of Versailles. The local population cheered the German soldiers on, while the diplomatic reactions from France and Britain have so far been muted.\\n\\n'It is no more than the Germans walking into their own backyard', a political commentator in Britain observed."
+  },
+  {
+    "key": "news.26.d",
+    "version": "",
+    "type": "desc",
+    "en": "In a direct violation of the Treaty of Versailles, German troops have crossed the Rhine and entered the Rhineland territory, close to the French border.\\n\\nCalling this an 'unforgivable breach' of the peace treaty that ended the Great War, both France and Britain have mobilized their forces in preparation for an armed incursion into Germany. \\n\\nWar has once again broken out in Europe!"
+  },
+  {
+    "key": "news.27.d",
+    "version": "",
+    "type": "desc",
+    "en": "In what is a direct violation of the Treaty of Versailles, German troops have crossed the Rhine and marched into the Rhineland territory, close to the French border.\\n\\nWhile the reaction from Britain has been muted so far, the French are mobilizing their forces in preparation for an armed incursion into Germany. \\n\\nWar has once again broken out in Europe!"
+  },
+  {
+    "key": "news.28.t",
+    "version": "",
+    "type": "title",
+    "en": "Hitler Assassinated!"
+  },
+  {
+    "key": "news.28.d",
+    "version": "",
+    "type": "desc",
+    "en": "A group of Wehrmacht officers opposed to the war have launched a coup in Berlin. An unidentified party of armed men stormed the Reichskanzlei and, following a shootout with his bodyguards, successfully took the life of the German Führer.\\nThe surviving conspirators have all been arrested by the Gestapo, and this morning Heinrich Himmler was sworn in as the new Führer of the German Reich. \\n\\nIn a speech before the Reichstag, Himmler accused Britain and France of masterminding Hitler's assassination and stated Germany's unequivocal commitment to the utter destruction of both nations."
+  },
+  {
+    "key": "news.29.d",
+    "version": "",
+    "type": "desc",
+    "en": "A group of Wehrmacht officers opposed to the war have launched a coup in Berlin. An unidentified party of armed men stormed the Reichskanzlei and, following a shootout with his bodyguards, successfully took the life of the German Führer.\\nThe surviving conspirators have all been arrested by the Gestapo, and this morning Hermann Göring was sworn in as the new Führer of the German Reich. \\n\\nIn a speech before the Reichstag, Göring accused Britain and France of masterminding Hitler's assassination and stated Germany's unequivocal commitment to the utter destruction of both nations."
+  },
+  {
+    "key": "news.30.t",
+    "version": "",
+    "type": "title",
+    "en": "Failed Attempt on Hitler's Life"
+  },
+  {
+    "key": "news.30.d",
+    "version": "",
+    "type": "desc",
+    "en": "A group of Wehrmacht officers opposed to the war have launched a coup against Hitler in Berlin. An unidentified party of armed men stormed the Reichskanzlei, but they were successfully fought off by members of the Führer's SS bodyguard.\\nGestapo agents have arrested all conspirators, which include high-ranking officers such as Ludwig Beck and Wilhelm Canaris. \\n\\nIn a speech before the Reichstag, Hitler vowed revenge against France and Britain for masterminding this 'underhanded attempt' on his life."
+  },
+  {
+    "key": "news.31.t",
+    "version": "",
+    "type": "title",
+    "en": "Civil War in Germany!"
+  },
+  {
+    "key": "news.31.d",
+    "version": "",
+    "type": "desc",
+    "en": "A group of Wehrmacht officers opposed to the current war have launched a coup against Hitler in Berlin. An unidentified party of armed men stormed the Reichskanzlei and successfully liquidated the German Führer after an intense gun battle with his SS bodyguards.\\n\\nThe conspirators have managed to take control over most of Berlin, and many Wehrmacht units have gone over to their side. Forces still loyal to the Nazis have rallied under new leadership, and vowed to purge Germany of the 'communist dissidents and foreign agents currently occupying Berlin.'"
+  },
+  {
+    "key": "news.32.t",
+    "version": "",
+    "type": "title",
+    "en": "The Molotov-Ribbentrop Pact"
+  },
+  {
+    "key": "news.32.d",
+    "version": "",
+    "type": "desc",
+    "en": "Diplomats from Germany and the Soviet Union concluded what observers are describing as a historic agreement today with the signing of the Molotov-Ribbentrop Pact. \\nNamed after German foreign minister Joachim von Ribbentrop and his Soviet counterpart, Vyacheslav Molotov, this non-aggression pact stipulates that neither side will ally itself to nor aid an enemy of the other.\\n\\nForeign diplomats warn that this treaty effectively gives Germany a free hand to wage war in Europe without having to fear Soviet intervention."
+  },
+  {
+    "key": "news.32.d_finland",
+    "version": "",
+    "type": "desc",
+    "en": "$news.32.d$ The [ROOT.GetAdjective] people, however, seem to be more concerned about the threat that [SOV.GetNameDef] might pose to them."
+  },
+  {
+    "key": "news.33.t",
+    "version": "",
+    "type": "title",
+    "en": "USSR Occupies Eastern Poland"
+  },
+  {
+    "key": "news.33.d",
+    "version": "",
+    "type": "desc",
+    "en": "Soviet troops have occupied eastern Poland, officially for the purpose of protecting Belorussian and Ukrainian minorities from the chaos that followed the collapse of the Polish government. \\n\\nGerman forces have withdrawn from these areas in good order, resulting in Poland's effective partitioning between the two powers."
+  },
+  {
+    "key": "news.34.t",
+    "version": "",
+    "type": "title",
+    "en": "The Second Armistice at Compiégne"
+  },
+  {
+    "key": "news.34.d",
+    "version": "",
+    "type": "desc",
+    "en": "An armistice between the [From.GetName] and the French Third Republic has been signed at Compiégne, in the very railway carriage in which the German surrender in World War I was negotiated.\\n\\nUnder the terms of the armistice, a French government under [vichy_france.GetLeader] based out of Vichy will continue to administer most of southern France, while the rest of the country falls under a German Occupation Zone. \\n\\nSome French officers have vowed to continue resistance from abroad, but this puts an effective end to the fighting in France, at least for the time being."
+  },
+  {
+    "key": "news.35.t",
+    "version": "",
+    "type": "title",
+    "en": "The Birth of the Franco-British Union"
+  },
+  {
+    "key": "news.35.d",
+    "version": "",
+    "type": "desc",
+    "en": "Facing defeat in France, the French and British governments have decided to join their two nations as one until victory over Germany has been assured. \\n\\nA new joint government is being formed in London, with Edward VIII remaining as the head of state. In an issued 'Declaration of Union,' the new Joint War Cabinet stated:\\n\\n'France and Great Britain shall no longer be two nations, but one Franco-British Union. The constitution of the Union will provide for joint organs of defense, foreign, financial and economic policies. Every citizen of France or Britain will enjoy immediate citizenship of the other state.'"
+  },
+  {
+    "key": "news.36.t",
+    "version": "",
+    "type": "title",
+    "en": "The Anschluss of Austria"
+  },
+  {
+    "key": "news.36.d",
+    "version": "",
+    "type": "desc",
+    "en": "After a successful coup d'état by the local Nazi party in Vienna, German troops have crossed the Austrian border and taken control of the country. \\n\\nNo fighting has been reported, and the German soldiers were greeted by cheering crowds in the cities.\\n\\nIn a speech before a massive crowd at the Heldenplatz in Vienna, Hitler announced the Anschluss of Austria, annexing the country into Germany:\\n\\n'The oldest eastern province of the German people shall be, from this point on, the newest bastion of the German Reich!'"
+  },
+  {
+    "key": "news.37.t",
+    "version": "",
+    "type": "title",
+    "en": "The Assassination of Lev Trotsky"
+  },
+  {
+    "key": "news.37.d",
+    "version": "",
+    "type": "desc",
+    "en": "Lev Trotsky, once the top lieutenant and heir presumptive of Vladimir Ilich Lenin, died today in a Mexico City hospital. He was attacked in his home with an ice axe by a Spanish national believed to have been in the employ of the NKVD.\\n\\nAfter a failed power struggle with $SOV_iosif_stalin$ and his allies for control of the Communist Party of the Soviet Union, Trotsky spent the thirties in exile, living in Turkey, France and Norway before finally settling in Mexico. \\n\\nHe remained a constant critic of Stalin and the 'degenerated 'workers' state' of the Soviet Union."
+  },
+  {
+    "key": "news.38.t",
+    "version": "",
+    "type": "title",
+    "en": "Trotsky Survives Assassination Attempt"
+  },
+  {
+    "key": "news.38.d",
+    "version": "",
+    "type": "desc",
+    "en": "After a violent struggle in his Mexico City home earlier today, Lev Trotsky killed a would-be assassin with the ice axe the man tried to attack him with. The killer has been identified as a Spanish national believed to have been in the employ of the NKVD.\\n\\nTrotsky was once the top lieutenant and heir presumptive of Vladimir Lenin, but after a failed power struggle he was forced into exile from the Soviet Union by $SOV_iosif_stalin$. \\n\\nSpeaking to the press, Trotsky denounced the attempt on his life as 'yet another cowardly plot hatched by Stalin to silence his critics.'"
+  },
+  {
+    "key": "news.39.t",
+    "version": "",
+    "type": "title",
+    "en": "Trotsky Killed on Soviet Border"
+  },
+  {
+    "key": "news.39.d",
+    "version": "",
+    "type": "desc",
+    "en": "Soviet authorities have released photos of the dead body of Lev Trotsky, confirming rumors that he was killed recently while trying to sneak into [SOV.GetNameDef]. \\n\\nHis body was found washed up on the shores of the Atrek River which runs along the Soviet - Persian border.\\n\\nIt is believed that Trotsky sought to capitalize on the current turmoil within the USSR by seeking allies against his long-time rival Stalin and replacing him in a coup d'état."
+  },
+  {
+    "key": "news.40.t",
+    "version": "",
+    "type": "title",
+    "en": "Trotsky Launches Coup!"
+  },
+  {
+    "key": "news.40.d",
+    "version": "",
+    "type": "desc",
+    "en": "A violent power struggle has occurred in the provisional Soviet capital. Lev Trotsky appears to have stealthily entered the remnants of the USSR, putting an end to the long exile that was forced upon him. \\n\\nTogether with allies in the highest echelons of the Communist Party, he launched a successful coup again Stalin.\\n\\nAfter a brief trial by a People's Court, Stalin was sentenced to death by hanging. The sentence was carried out this morning."
+  },
+  {
+    "key": "news.41.t",
+    "version": "",
+    "type": "title",
+    "en": "Trotsky Meets His End"
+  },
+  {
+    "key": "news.41.d",
+    "version": "",
+    "type": "desc",
+    "en": "Lev Trotsky was found dead this morning in a Buenos Aires hotel room. \\n\\nHe appears to have been strangled to death by a mountaineering sling, and the killer was apprehended by Trotsky's bodyguards before he could leave the building.\\n\\nAlthough the murderer is a Portuguese national, there is evidence linking him to the Soviet intelligence directorate GRU. It would appear that Stalin has finally dealt a mortal blow to his old rival."
+  },
+  {
+    "key": "news.42.t",
+    "version": "",
+    "type": "title",
+    "en": "The Hindenburg Disaster"
+  },
+  {
+    "key": "news.42.d",
+    "version": "",
+    "type": "desc",
+    "en": "The German passenger airship Hindenburg was destroyed today while attempting to dock at the Lakehurst Naval Air Station in the United States. For reasons not yet determined, the airship was engulfed in flames and crashed to the ground, claiming 35 lives.\\n\\nDue to the scarcity and expense of helium and the US ban on exporting it, the Hindenburg, like all German passenger airships, was ultimately engineered to use hydrogen, which provides greater lift but is also flammable. \\n\\nWith public faith shaken by this disaster and the rise of much faster passenger aircraft, this could spell the end of the era of airships."
+  },
+  {
+    "key": "news.43.t",
+    "version": "",
+    "type": "title",
+    "en": "Hindenburg Incident"
+  },
+  {
+    "key": "news.43.d",
+    "version": "",
+    "type": "desc",
+    "en": "Disaster was narrowly averted today, when a diesel fuel leak was discovered on the German passenger airship Hindenburg as it came in to dock at the Lakehurst Naval Air Station in the United States.\\n\\nThe leak was promptly repaired. Had it gone unnoticed, flammable vapor could have resulted in a fire that would have engulfed the entire airship. \\n\\nCritics have long questioned the wisdom of passenger airships given their spotty safety records, and this incident is bound to make them even more vocal."
+  },
+  {
+    "key": "news.44.t",
+    "version": "",
+    "type": "title",
+    "en": "The Flight of Rudolf Hess"
+  },
+  {
+    "key": "news.44.d",
+    "version": "",
+    "type": "desc",
+    "en": "Deputy Führer Rudolf Hess was arrested by Home Guard soldiers in Scotland yesterday after parachuting from a heavy fighter. \\n\\nAn accomplished pilot, he apparently flew alone across the North Sea, taking care stay out of radar range before veering west towards Britain.\\nHess appears to have taken it upon himself to negotiate a peace treaty between Britain and Germany, although Berlin has denounced him as a madman and stripped him of any political office. \\n\\nBritish authorities have not been available for comment."
+  },
+  {
+    "key": "news.45.t",
+    "version": "",
+    "type": "title",
+    "en": "The Death of Rudolf Hess"
+  },
+  {
+    "key": "news.45.d",
+    "version": "",
+    "type": "desc",
+    "en": "Deputy Führer Rudolf Hess was killed yesterday when the Royal Air Force intercepted the heavy fighter he was flying off the coast of Scotland. \\n\\nThe exact nature of his mission remains unclear - although Hess was an accomplished pilot, he flew alone and his airplane does not appear to have been armed.\\nHis remains were recovered by British authorities, but a state funeral with an empty coffin has been scheduled in Berlin. \\n\\nHitler was reported as being visibly distraught by the death of his old friend."
+  },
+  {
+    "key": "news.46.d",
+    "version": "",
+    "type": "desc",
+    "en": "The airship Hindenburg met with a dramatic end today when it exploded over Scotland. \\nIt appears to have been commandeered by Deputy Führer Rudolf Hess, who managed to fly it alone across the North Sea on a personal mission to negotiate peace with Britain.\\nBritish radar stations had no trouble detecting the massive aircraft, and several Royal Air Force wings were immediately directed towards its position.When the Hindenburg failed to respond over the radio, they opened fire. \\n\\nHess parachuted to safety, and has now been imprisoned in the Tower of London."
+  },
+  {
+    "key": "news.47.d",
+    "version": "",
+    "type": "desc",
+    "en": "The airship Hindenburg met with a dramatic end today when it exploded over Scotland. \\nIt appears to have been commandeered by Deputy Führer Rudolf Hess, who managed to fly it alone across the North Sea on a personal mission to negotiate peace with Britain.\\nBritish radar stations had no trouble detecting the massive aircraft, and several Royal Air Force wings were immediately directed towards its position. When the Hindenburg failed to respond over the radio, they opened fire. \\n\\nThe remains of Hess were found in the wreckage."
+  },
+  {
+    "key": "news.48.t",
+    "version": "",
+    "type": "title",
+    "en": "Amelia Earhart Disappears"
+  },
+  {
+    "key": "news.48.d",
+    "version": "",
+    "type": "desc",
+    "en": "The famous aviator Amelia Earhart, the first woman to complete a solo flight across the Atlantic, has disappeared along with her navigator, Fred Noonan, near Howland Island in the middle of the Pacific Ocean.\\n\\nThe two were attempting a flight around the entire world in their twin-engined Lockheed Electra plane when they vanished. \\n\\nA search for the missing aviators is now being conducted by the U.S. Navy and Coast Guard, but there is little hope of finding them."
+  },
+  {
+    "key": "news.49.t",
+    "version": "",
+    "type": "title",
+    "en": "Amelia Earhart Circumnavigates Globe"
+  },
+  {
+    "key": "news.49.d",
+    "version": "",
+    "type": "desc",
+    "en": "The famous aviator Amelia Earhart, known to many as the 'Queen of the Air,' has completed a flight around the world together with her navigator Fred Noonan. \\n\\nAfter a brief scare when the pair temporarily got lost while approaching Howland Island in the Pacific, the flight proceeded without incident and this morning their Lockheed Electra touched down in Oakland, California.\\n\\nA ceremony is to be held in the White House next week, where Earhart is to be personally congratulated for her feat by the President."
+  },
+  {
+    "key": "news.55.t",
+    "version": "",
+    "type": "title",
+    "en": "Anglo-Polish Alliance"
+  },
+  {
+    "key": "news.55.d",
+    "version": "",
+    "type": "desc",
+    "en": "In light of Germany's recent aggressive behavior, the United Kingdom and France have felt compelled to sign a military alliance with Poland. The British Prime Minister made the following statement in the House of Commons:\\n\\n'In the event of any action which clearly threatened Polish independence, and which the Polish Government accordingly considered it vital to resist with their national forces, His Majesty's Government would feel themselves bound at once to lend the Polish Government all support in their power. They have given the Polish Government an assurance to this effect.'"
+  },
+  {
+    "key": "news.56.t",
+    "version": "",
+    "type": "title",
+    "en": "The Munich Agreement"
+  },
+  {
+    "key": "news.56.d",
+    "version": "",
+    "type": "desc",
+    "en": "German demands for the Sudeten territory in Czechoslovakia, which is home to a considerable German minority, have intensified. \\n\\nAt a summit held in Munich, Germany, Britain, France and Italy sought to find a diplomatic solution to the so-called 'Sudeten Crisis.' Czechoslovakia was not invited to attend. An agreement was reached in which Germany annexes the Sudetenland, but will not pursue any further territorial gains in Europe.\\n\\nMr. Chamberlain spoke to crowds in London:\\n'For the second time a Prime Minister has returned from Germany bringing peace with honor. I believe it is peace for our time.'"
+  },
+  {
+    "key": "news.57.t",
+    "version": "",
+    "type": "title",
+    "en": "The Sudeten Crisis"
+  },
+  {
+    "key": "news.57.d",
+    "version": "",
+    "type": "desc",
+    "en": "German demands for the Sudeten border territory in Czechoslovakia, which is home to a considerable German minority, have intensified recently. \\n\\nAt a summit held in Munich, Germany, Britain, France and Italy sought to find a diplomatic solution to the so-called 'Sudeten Crisis.'\\n\\nThe talks appear to have failed, however, with both Britain and its Allies uttering stern warnings to Germany that if its troops crosses the Czechoslovakian border, the result would be war. \\n\\nTime seems to be running out for a peaceful solution to the dispute."
+  },
+  {
+    "key": "news.58.d",
+    "version": "",
+    "type": "desc",
+    "en": "German demands for the Sudeten border territory in Czechoslovakia, which is home to a considerable German minority, have intensified recently. \\n\\nAt a summit held in Munich, Germany, Britain, France and Italy sought to find a diplomatic solution to the so-called 'Sudeten Crisis.'\\n\\nA rift has formed between France and Britain, with Britain accepting the German claims as reasonable, while France has not. The French have formed a new alliance with the Czechs, and threatened Germany with war should its troops violate the Czechoslovakian border."
+  },
+  {
+    "key": "news.59.t",
+    "version": "",
+    "type": "title",
+    "en": "The Munich Diktat"
+  },
+  {
+    "key": "news.59.d",
+    "version": "",
+    "type": "desc",
+    "en": "German demands for the Sudeten border territory in Czechoslovakia, which is home to a considerable German minority, have intensified recently. \\n\\nAt a summit held in Munich, Germany, Britain, France and Italy sought to find a diplomatic solution to the so-called 'Sudeten Crisis.'\\n\\nWhile Britain and France have both accepted the German demands as reasonable, Czechoslovakia, which wasn't invited to the conference, has refused to yield an inch. \\n\\nIt now faces Germany alone in what appears to be a hopeless battle."
+  },
+  {
+    "key": "news.60.t",
+    "version": "",
+    "type": "title",
+    "en": "The Fate of Czechoslovakia"
+  },
+  {
+    "key": "news.60.d",
+    "version": "",
+    "type": "desc",
+    "en": "German troops have crossed into Bohemia and Moravia, ostensibly to restore order to the regions in the wake of the collapsing Czechoslovakian government. \\n\\nIn Prague, the occupying forces announced the creation of an 'autonomous protectorate' within the German Reich.\\n\\nWith German support, Slovakia has been declared independent under the leadership of Jozef Tiso. The nation of Czechoslovakia is no more."
+  },
+  {
+    "key": "news.60.d_2",
+    "version": "",
+    "type": "desc",
+    "en": "After the German annexation of Czechoslovakia, discussion has continued on how these territories should be divided, it now appears that a conclusion has been reached.\\n\\nWith German support, Slovakia has been declared independent under the leadership of Jozef Tiso."
+  },
+  {
+    "key": "news.61.d",
+    "version": "",
+    "type": "desc",
+    "en": "German troops crossed into Bohemia and Moravia recently, ostensibly to restore order to the regions in the wake of the collapsing Czechoslovakian government. \\n\\nIn Prague, the occupying forces announced the creation of an 'autonomous protectorate' within [GER.GetNameDef]. Hungarian forces, operating with the consent of Germany, have marched into Slovakia and annexed it into Hungary. \\n\\nThe nation of Czechoslovakia is no more."
+  },
+  {
+    "key": "news.61.d_2",
+    "version": "",
+    "type": "desc",
+    "en": "After the German annexation of Czechoslovakia, discussion has continued on how these territories should be divided, it now appears that a conclusion has been reached.\\n\\nHungarian forces, operating with the consent of Germany, have marched into Slovakia and annexed it into Hungary."
+  },
+  {
+    "key": "news.62.d",
+    "version": "",
+    "type": "desc",
+    "en": "German troops crossed into Bohemia and Moravia recently, ostensibly to restore order to the regions in the wake of the collapsing Czechoslovakian government. \\n\\nIn Prague, the occupying forces announced the creation of an 'autonomous protectorate' within the German Reich.\\n\\nA second protectorate, centered around Slovakia, was also announced in Bratislava. All of Czechoslovakia has effectively been annexed into Germany."
+  },
+  {
+    "key": "news.62.d_2",
+    "version": "",
+    "type": "desc",
+    "en": "After the German annexation of Czechoslovakia, discussion has continued on how these territories should be divided, it now appears that a conclusion has been reached.\\n\\nThe annexed territory has been organized into two protectorates, but remains under German control. In practice, little has changed from before, and Germany retains the entirety of Czechoslovakia."
+  },
+  {
+    "key": "news.63.t",
+    "version": "",
+    "type": "title",
+    "en": "The Spanish Civil War"
+  },
+  {
+    "key": "news.63.d",
+    "version": "",
+    "type": "desc",
+    "en": "A civil war has erupted in Spain! Several generals seeking to overthrow the current government in Madrid have issued a pronunciamento, and a large portion of the Spanish Armed Forces have answered their call to arms. \\n\\nThis right-wing Nationalist faction has occupied much of Spain, including the overseas territories.\\nLoyalist forces and volunteers have assembled under the left-wing Republican government, determined to resist the putsch to their last breath. \\n\\nThe battle for Spain has begun."
+  },
+  {
+    "key": "news.64.t",
+    "version": "",
+    "type": "title",
+    "en": "The End of the Spanish Civil War"
+  },
+  {
+    "key": "news.64.d",
+    "version": "",
+    "type": "desc",
+    "en": "With the surrender of the last Republican strongholds, the Spanish Civil War has come to an end. \\n\\nThe Nationalists stand victorious, and a new era has begun for Spain. \\n\\nThe war-torn country has suffered greatly in the fighting, and there is much rebuilding to be done."
+  },
+  {
+    "key": "news.65.d",
+    "version": "",
+    "type": "desc",
+    "en": "With the surrender of the last Nationalist forces, the Spanish Civil War has come to an end. \\n\\nThe Republicans have emerged victorious, and a new era has begun for Spain. \\n\\nThe war-torn country has suffered greatly in the fighting, and there is much rebuilding to be done."
+  },
+  {
+    "key": "news.66.t",
+    "version": "",
+    "type": "title",
+    "en": "The Games of the XI Olympiad"
+  },
+  {
+    "key": "news.66.d",
+    "version": "",
+    "type": "desc",
+    "en": "The eleventh Olympic Games were recently held in Berlin, Germany. \\n\\nAttended by athletes from 49 different nations across the world, the 1936 Summer Olympics are the first in history to have enjoyed limited live television coverage. The games were a significant propaganda victory for the German regime, which spent lavishly on the event.\\n\\nGerman athletes saw the most success, winning 33 gold medals, while the Americans came in second, with 24. Four of these were won by Jesse Owens, the single most successful athlete of the Games."
+  },
+  {
+    "key": "news.66.d.b",
+    "version": "",
+    "type": "desc",
+    "en": "The eleventh Olympic Games were recently held in undamaged parts of devastated and newly-rebuilding Berlin, Germany\\n\\nAttended by athletes from 49 different nations across the world, the 1936 Summer Olympics are the first in history to have enjoyed limited live television coverage. The games, a symbol of renewed German national unity, were also a significant propaganda victory for the new German regime, which, despite the tremendous costs of rebuilding the nation after the civil war, spent lavishly on the event.\\n\\nGerman athletes saw the most success, winning 33 gold medals, while the Americans came in second, with 24. Four of these were won by Jesse Owens, the single most successful athlete of the Games."
+  },
+  {
+    "key": "news.67.t",
+    "version": "",
+    "type": "title",
+    "en": "The Games of the XII Olympiad"
+  },
+  {
+    "key": "news.67.d",
+    "version": "",
+    "type": "desc",
+    "en": "The twelfth Olympic Games were recently held in Tokyo, Japan. In light of rising international tensions, many feared the Games would be canceled, but this has proven not to be the case. \\n\\nTokyo is the first non-Western city to host the Olympics, and a special purpose-built Me 261 long-range aircraft carried the Olympic Flame there from Germany without refueling.\\n\\nJapanese athletes did well, and their 14 gold medals earned them a third place in the medal count, after Germany and the United States."
+  },
+  {
+    "key": "news.68.d",
+    "version": "",
+    "type": "desc",
+    "en": "The twelfth Olympic Games were recently held in Helsinki, Finland. \\n\\nThe Games were originally scheduled to be hosted in Tokyo, but Japan's ongoing war effort made this impossible and the International Olympic Committee awarded them to Helsinki instead.\\n\\nAthletes from the United States won the most medals, followed by Germany and then Italy. Finland came in fourth with their 10 gold medals."
+  },
+  {
+    "key": "news.69.t",
+    "version": "",
+    "type": "title",
+    "en": "Soviet Expansion in Europe"
+  },
+  {
+    "key": "news.69.d",
+    "version": "",
+    "type": "desc",
+    "en": "Since the rise to power of the [From.GetRulingParty], [From.GetNameDef] has been working towards closer relations with [SOV.GetNameDef], and has now joined the Union itself.\\n\\nAs of a few days ago the [From.GetAdjective] government officially submitted control of the country to [SOV.GetNameDef] as an integrated oblast.\\n\\nSoviet officials refuse to acknowledge descriptions of the recent assimilation of [From.GetNameDef] as aggressive, claiming that the \"integration of territory\" happened without any outside pressure."
+  },
+  {
+    "key": "news.70.t",
+    "version": "",
+    "type": "title",
+    "en": "Soviet Influence in Europe"
+  },
+  {
+    "key": "news.70.d",
+    "version": "",
+    "type": "desc",
+    "en": "Since the rise to power of the [baltic_annexation.GetRulingParty], [baltic_annexation.GetNameDef] has been working towards closer relations with [SOV.GetNameDef].\\n\\nAlthough [baltic_annexation.GetLeader] remains in office, ministers are chosen for their allegiance to [SOV.GetNameDef], and a large part of the nation's sovereignty has been surrendered. Soviet officials state that [baltic_annexation.GetName] is merely seeking protection as a response to Europe becoming increasingly unsafe for smaller nations.\\n\\n[SOV.GetNameDef] also reiterated that they were willing to extend such \"protection\" to any state that felt threatened by neighboring countries."
+  },
+  {
+    "key": "news.100.t",
+    "version": "",
+    "type": "title",
+    "en": "The Fall of Warsaw"
+  },
+  {
+    "key": "news.100.d",
+    "version": "",
+    "type": "desc",
+    "en": "German forces advancing in [POL.GetNameDef] have succeeded in capturing Warsaw. \\n\\nSporadic fighting continues in Praga and a few other districts, but organized resistance in the city seems to have ceased.\\n\\nThe Polish government reportedly evacuated the city as the first German units entered Warsaw's suburbs, and their present location is unknown.\\n\\nFighting against the German invaders continues in other parts of the country, but the loss of the capital is a serious blow to the Polish war effort."
+  },
+  {
+    "key": "news.101.t",
+    "version": "",
+    "type": "title",
+    "en": "The Fall of Paris"
+  },
+  {
+    "key": "news.101.d",
+    "version": "",
+    "type": "desc",
+    "en": "While fighting still rages elsewhere in [FRA.GetNameDef], reports have come in of German troops entering Paris. \\n\\nThe capital was declared an open city by French forces moments before their last units retreated. Several columns of German troops recreated the Prussian victory parade of 1871 by marching down the Champs-Élysées while Parisians looked on in stunned silence. \\n\\nMilitary experts predict that the collapse of [FRA.GetNameDef] is imminent."
+  },
+  {
+    "key": "news.102.t",
+    "version": "",
+    "type": "title",
+    "en": "The Fall of London"
+  },
+  {
+    "key": "news.102.d",
+    "version": "",
+    "type": "desc",
+    "en": "Reports from London confirm that the English capital has been captured by advancing German troops. \\n\\nSmall-arms fire can still be heard from some boroughs, but no significant British forces have been sighted within the city.\\n\\nA detachment of Fallschirmjägers have stormed Buckingham Palace, but it is believed that the Royal Family was evacuated well in advance of the attack. \\n\\nFor the first time since William the Conqueror, London has fallen to a foreign invader."
+  },
+  {
+    "key": "news.400.t",
+    "version": "",
+    "type": "title",
+    "en": "The Fall of [43.GetCapitalVictoryPointName]"
+  },
+  {
+    "key": "news.400.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Reports from [43.GetCapitalVictoryPointName] confirm that the [HUN.GetAdjective] capital has been captured by advancing [FROM.GetAdjective] troops. \\n\\nSmall-arms fire can still be heard from some fortifications along the Danube's shores, but no significant [HUN.GetAdjective] forces have been sighted within the city.\\n\\nMost of the large bridges across the river have reportedly been destroyed, and a few have fallen under the control of [FROM.GetNameDef]. \\nFor the first time in years, Kossuth Square lies quiet, and Buda Castle lies in foreign hands."
+  },
+  {
+    "key": "news.401.t",
+    "version": "",
+    "type": "title",
+    "en": "The Fall of [43.GetCapitalVictoryPointName]"
+  },
+  {
+    "key": "news.401.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Reports from [43.GetCapitalVictoryPointName] confirm that the [HUN.GetAdjective] capital has been captured by advancing [SOV.GetAdjective] troops. \\n\\nMuch of the city has been devastated during the siege leading up to its capture, and local militias still fight in skirmishes against the [SOV.GetAdjective]s, though with little chance of success. \\n\\nThe [SOV.GetAdjective] banner has now been raised over Buda castle, and many [HUN.GetAdjective] politicians have been captured during the recent battles. Is this the end of [HUN.GetNameDef]?"
+  },
+  {
+    "key": "news.103.t",
+    "version": "",
+    "type": "title",
+    "en": "The Fall of [195.GetCapitalVictoryPointName]"
+  },
+  {
+    "key": "news.103.d",
+    "version": "",
+    "type": "desc",
+    "en": "[195.GetCapitalVictoryPointName], birthplace of the Russian Revolution, has fallen to advancing German forces. \\n\\nSporadic fighting can still be heard from some suburbs, but a strange calm appears to have settled over the rest of the ruined city.\\n\\nEarlier today, columns of German soldiers marched past St. Isaac's Cathedral, whose great dome has been painted gray by [SOV.GetSovietArmyAdjectiveBasedOnIdeology] Army engineers to avoid the attention of marauding Luftwaffe bombers. \\nDespite their efforts, it is riddled with bullet holes and shrapnel impacts."
+  },
+  {
+    "key": "news.104.t",
+    "version": "",
+    "type": "title",
+    "en": "The Fall of Kiev"
+  },
+  {
+    "key": "news.104.d",
+    "version": "",
+    "type": "desc",
+    "en": "Kiev, capital of the Ukrainian SSR, has been captured by the advancing German armies in the Soviet Union. \\n\\nThe capture of one of their most important cities is a serious blow to the Soviets, but the question still remains whether the Germans can keep up their momentum. Moments after the Germans had occupied the city, thousands of mines planted by the NKVD were apparently detonated in buildings along the Khreshchatyk main street, causing even more damage to the already ruined city.\\n\\nNow the invading forces look to the east."
+  },
+  {
+    "key": "news.105.t",
+    "version": "",
+    "type": "title",
+    "en": "The Fall of [217.GetCapitalVictoryPointName]"
+  },
+  {
+    "key": "news.105.d",
+    "version": "",
+    "type": "desc",
+    "en": "Advancing German spearheads have seized Stalingrad, Stalin's namesake city on the banks of the Volga. \\n\\nAfter fighting their way through the ruined Stalingrad Tractor Factory and seizing the strategically vital Mamayev Kurgan heights, the Germans have forced the last Soviet defenders across the Volga to its eastern shore. According to unconfirmed reports, holdouts from the Red Army fighting together with partisans have retreated into sewers and basements to continue their struggle. \\n\\nNo significant organized resistance is believed to remain, however."
+  },
+  {
+    "key": "news.105.d_alt",
+    "version": "",
+    "type": "desc",
+    "en": "Advancing German spearheads have seized [217.GetCapitalVictoryPointName], the industrial centre on the banks of the Volga. \\n\\nAfter fighting their way through the ruined [217.GetCapitalVictoryPointName] Tractor Factory and seizing the strategically vital Mamayev Kurgan heights, the Germans have forced the last [SOV.GetAdjective] defenders across the Volga to its eastern shore. According to unconfirmed reports, holdouts from the [SOV.GetSovietArmyAdjectiveBasedOnIdeology] Army fighting together with partisans have retreated into sewers and basements to continue their struggle. \\n\\nNo significant organized resistance is believed to remain, however."
+  },
+  {
+    "key": "news.106.t",
+    "version": "",
+    "type": "title",
+    "en": "The Fall of Moscow"
+  },
+  {
+    "key": "news.106.d",
+    "version": "",
+    "type": "desc",
+    "en": "At dawn today, German panzers smashed through hastily erected barriers on the streets of Moscow and half-tracks were seen unloading Panzergrenadiers on Red Square. \\nThick, billowing smoke from the many fires raging in the suburbs could be seen rising into the air as German infantry stormed the Kremlin. Grenades and flamethrowers were reportedly needed to fight stubborn NKVD holdouts intent on defending every inch of the complex. The Russian capital is now in German hands, but has been left a burning ruin. \\n\\nUnconfirmed reports indicate Lenin's embalmed corpse was safely evacuated east."
+  },
+  {
+    "key": "news.107.t",
+    "version": "",
+    "type": "title",
+    "en": "The Fall of Sevastopol"
+  },
+  {
+    "key": "news.107.d",
+    "version": "",
+    "type": "desc",
+    "en": "The heavily fortified city of Sevastopol, base of the Soviet Black Sea Fleet, has finally succumbed to German attacks. \\n\\nIts loss will severely hamper any Soviet attempt to contest the Black Sea, and the fall of the city is regarded as a significant German victory.\\n\\nAn edict has already been issued from Berlin, stating that the city shall henceforth be known as 'Theodorichshafen' after Theodoric the Great."
+  },
+  {
+    "key": "news.108.t",
+    "version": "",
+    "type": "title",
+    "en": "The Fall of Baku"
+  },
+  {
+    "key": "news.108.d",
+    "version": "",
+    "type": "desc",
+    "en": "Earlier today, German forces successfully occupied the city of Baku, a vital strategic objective in their war against the Soviet Union. \\n\\nLocated on the shores of the Caspian Sea, the city is the key to the Caucasus, and its many oil fields are sure to benefit the German war effort.\\n\\nIts capture puts Germany in a position to expand the war into the Middle East and possibly even India."
+  },
+  {
+    "key": "news.109.t",
+    "version": "",
+    "type": "title",
+    "en": "The Fall of Cairo"
+  },
+  {
+    "key": "news.109.d",
+    "version": "",
+    "type": "desc",
+    "en": "Forces from the Deutsches Afrikakorps have fought their way to Cairo, the capital city of Egypt. \\n\\nAs Allied forces retreated further into the desert in disarray, German soldiers marching through Cairo were cheered as liberators by many citizens who had come to view the British as oppressors.\\n\\nThe fall of Cairo is a significant loss to the Allied war effort, and several experts have speculated that all of the Middle East now lies open to German conquest."
+  },
+  {
+    "key": "news.110.t",
+    "version": "",
+    "type": "title",
+    "en": "The Fall of Washington"
+  },
+  {
+    "key": "news.110.d",
+    "version": "",
+    "type": "desc",
+    "en": "Fighting in the area of Washington D.C. came to an end today, when the last pockets of resistance in the city were eliminated by German forces advancing along the Potomac. \\n\\nA dense layer of smoke hangs over the city, and at least some of it reportedly comes from OSS agents who were burning sensitive documents up until the very last moment. A Waffen-SS detachment secured the White House after a brief firefight with members of the US Secret Service, but it is believed that the President was safely evacuated several days ago.\\n\\nThe fall of the American capital illustrates the terrible might of the German war machine."
+  },
+  {
+    "key": "news.111.t",
+    "version": "",
+    "type": "title",
+    "en": "The Fall of New York"
+  },
+  {
+    "key": "news.111.d",
+    "version": "",
+    "type": "desc",
+    "en": "After hours of street warfare, much of it reportedly against armed irregulars, German spearheads have advanced into New York City and taken control of the city. \\n\\nImprovised anti-tank barriers placed along Fifth Avenue proved ineffective, and Panzergrenadiers fought their way through Manhattan, block by block.\\n\\nFires have been raging out of control in the eastern parts of the city for several days now, lighting up the skyline at night. \\n\\nThe Statue of Liberty was decapitated by a stray artillery round, though which side fired it remains a matter of dispute."
+  },
+  {
+    "key": "news.112.t",
+    "version": "",
+    "type": "title",
+    "en": "The Fall of Gibraltar"
+  },
+  {
+    "key": "news.112.d",
+    "version": "",
+    "type": "desc",
+    "en": "After several conflicting reports, it has now been confirmed that Gibraltar has fallen to Germany. \\n\\nThis strategic port city guards the entrance to the Mediterranean, and it was widely regarded as impregnable before the war started. The British garrison retreated into the tunnels running underneath the Rock, but were eventually dislodged by flamethrowers and grenades. \\n\\nWith Gibraltar in German hands, there has been a dramatic shift in power in the Battle of the Mediterranean."
+  },
+  {
+    "key": "news.113.d",
+    "version": "",
+    "type": "desc",
+    "en": "Jubilant Italian soldiers entered Cairo today, moments after the last British units retreated from the city. \\n\\nA victory parade was immediately organized, and Italian soldiers flocked to the Great Pyramids of Giza to have their pictures taken in front of the famous landmarks.\\n\\nWith Cairo under control, [ITA.GetLeader] is now one step closer towards linking Italian East Africa with Italian Libya and forming a contiguous colony in Africa."
+  },
+  {
+    "key": "news.114.d",
+    "version": "",
+    "type": "desc",
+    "en": "[GetItalianConquestofParisDesc]"
+  },
+  {
+    "key": "news.114.d_leader",
+    "version": "",
+    "type": "desc",
+    "en": "The last pockets of French resistance in Paris were mopped up today, and the city is now firmly under Italian control. \\n\\n[ITA.GetLeader] was hurriedly flown in to participate in the victory parade on the Champs-Élysées, riding in front of the marching troops on a white stallion. During the celebrations, he compared the current campaign in France with Caesar's conquest of Gaul, and promised that it was only the beginning of Italy's ascent to greatness.\\n\\nTime will tell if he is right."
+  },
+  {
+    "key": "news.114.d_council",
+    "version": "",
+    "type": "desc",
+    "en": "The last pockets of French resistance in Paris were mopped up today, and the city is now firmly under Italian control. \\n\\n[ITA.GetLeader] was hurriedly flown in to participate in the victory parade on the Champs-Élysées, riding in front of the marching troops on white stallions. During the celebrations, comparisons with the current campaign in France were made with Caesar's conquest of Gaul, and promises that this was only the beginning of Italy's ascent to greatness came from several council members.\\n\\nTime will tell if they are right."
+  },
+  {
+    "key": "news.115.d",
+    "version": "",
+    "type": "desc",
+    "en": "Italian forces have successfully stormed London, and the il Tricolore has been hoisted over the Victoria Tower. Minor fighting continues in some parts of the city, and in an incident this morning several Bersaglieri were gunned down by snipers hidden at the top of Big Ben.\\n\\nAfter three failed attempts to dislodge them, the entire clock tower was brought down by demolition charges in what Italian officials are describing as a 'regrettable overreaction' by the local commander."
+  },
+  {
+    "key": "news.116.d",
+    "version": "",
+    "type": "desc",
+    "en": "Italy appears to be in control of Gibraltar, after what has been reported as heavy fighting around the Rock and the harbor. Occasional explosions can still be heard from the military tunnels running deep under the Rock, but Italian officials claim an end to all organized resistance.\\n\\nWith this vital gateway to the Mediterranean under Italian control, British naval forces will be hard-pressed to challenge the Regia Marina in the region."
+  },
+  {
+    "key": "news.117.t",
+    "version": "",
+    "type": "title",
+    "en": "The Fall of Singapore"
+  },
+  {
+    "key": "news.117.d",
+    "version": "",
+    "type": "desc",
+    "en": "Singapore, the 'Gibraltar of the East,' has been seized by Imperial Japanese forces despite having been considered an impregnable fortress by its former British owners.\\n\\nThe Japanese Military Administration of Singapore has chosen the Fullerton Building as its headquarters, and the city has been renamed Syonanto, which roughly translates to 'Southern Island gained in the age of Showa.' The Kempeitai can be seen patrolling the streets en masse to hammer in the message that the Japanese are there to stay."
+  },
+  {
+    "key": "news.118.t",
+    "version": "",
+    "type": "title",
+    "en": "The Fall of Pearl Harbor"
+  },
+  {
+    "key": "news.118.d",
+    "version": "",
+    "type": "desc",
+    "en": "Japanese forces have stormed and taken Honolulu, the largest city on the Hawaiian island of O'ahu. The naval base at Pearl Harbor, former headquarters of the US Pacific Fleet, has also fallen.\\n\\nAccording to witnesses, beleaguered American sailors and Marines retreated to Ford Island, where they continued to offer stubborn resistance until they were subjected to an intense artillery and aerial bombardment. With this island under its control, the long reach of the Imperial Japanese Navy has become greater still."
+  },
+  {
+    "key": "news.119.t",
+    "version": "",
+    "type": "title",
+    "en": "The Fall of New South Wales"
+  },
+  {
+    "key": "news.119.d",
+    "version": "",
+    "type": "desc",
+    "en": "Further expanding on its conquests in the south, the empire of Japan has seized Sydney and the Australian capital Canberra. Local defenders were forced to retreat across the Sydney Harbour Bridge to new positions on Observatory Hill, but attempts to demolish the bridge were thwarted by advancing Japanese forces, who then pushed on to take Canberra.\\n\\nThe Japanese war flag can now be seen hanging from the Parliament House in Canberra, which serves as the headquarters of the area's new military administration, and the Kempeitai military police are maintaining a watchful eye on the streets."
+  },
+  {
+    "key": "news.120.t",
+    "version": "",
+    "type": "title",
+    "en": "The Fall of Los Angeles"
+  },
+  {
+    "key": "news.120.d",
+    "version": "",
+    "type": "desc",
+    "en": "After establishing a foothold on the American mainland, Japanese forces have converged on Los Angeles and routed the city's defenders. A long procession of Imperial troops marched down Central Avenue this afternoon while Japanese newsreel photographers filmed the event.\\n\\nBefore American forces retreated, fighting was reportedly fierce in several areas of the city. Hollywood suffered particularly heavy damage, and many Japanese officers have had their pictures taken in front of the perforated and crumbling Hollywood Sign."
+  },
+  {
+    "key": "news.121.t",
+    "version": "",
+    "type": "title",
+    "en": "The Fall of Nanjing"
+  },
+  {
+    "key": "news.121.d",
+    "version": "",
+    "type": "desc",
+    "en": "The capital of the Republic of China, Nanjing, has been occupied by forces from the Empire of Japan. Despite fierce resistance from the walled city's Chinese defenders, Japanese troops managed to capture Zhongshan Gate and fought their way into the city.\\n\\nSporadic gunfire can still be heard and several fires are raging in different parts of the city, but most surviving Chinese forces have either withdrawn or been captured. Along with the capture of Shanghai, this is a significant victory for Japan in their war against China."
+  },
+  {
+    "key": "news.122.t",
+    "version": "",
+    "type": "title",
+    "en": "The Fall of Vladivostok"
+  },
+  {
+    "key": "news.122.d",
+    "version": "",
+    "type": "desc",
+    "en": "Vladivostok, the largest city in the Russian Far East and home of the Soviet Pacific Fleet, has been stormed by Japanese troops. Its strategic position at the far end of the Trans-Siberian Railway makes its loss all the more detrimental to the Soviet war effort in Asia.\\n\\nMany of the city's inhabitants still remember the Japanese occupation that lasted for several years during the Russian Civil War. This time, some fear they may never leave."
+  },
+  {
+    "key": "news.123.t",
+    "version": "",
+    "type": "title",
+    "en": "The Fall of Hong Kong"
+  },
+  {
+    "key": "news.123.d",
+    "version": "",
+    "type": "desc",
+    "en": "Troops from the Empire of Japan have captured the British Crown Colony of Hong Kong after breaking through the Gin Drinkers Line and landing on Hong Kong Island itself. The situation soon became untenable for the defenders, and the Governor surrendered in person at the Peninsula Hong Kong hotel where the Japanese had established their headquarters.\\n\\nAfter a brief ceremony, a new Japanese governor was installed who announced a 'New Hong Kong' to the world, 'free of Western colonialism.'"
+  },
+  {
+    "key": "news.124.t",
+    "version": "",
+    "type": "title",
+    "en": "The Fall of Manila"
+  },
+  {
+    "key": "news.124.d",
+    "version": "",
+    "type": "desc",
+    "en": "Manila, capital of the Philippines, has fallen to the Japanese after the withdrawal of its American and Filipino defenders. The entrance to the strategically vital Manila Bay remained contested for some time after the city's fall due to the heavy concentration of American coastal artillery on Corregidor Island, but the guns eventually fell silent after a concerted Japanese attack.\\n\\nWith Manila under Japanese control, the rest of the Philippines are expected to follow shortly after. This is a stinging defeat for American forces in Asia and the Pacific."
+  },
+  {
+    "key": "news.125.t",
+    "version": "",
+    "type": "title",
+    "en": "The Fall of Calcutta"
+  },
+  {
+    "key": "news.125.d",
+    "version": "",
+    "type": "desc",
+    "en": "After a period of heavy bombardment, it has now been confirmed that the city of Calcutta in India has fallen to advancing Japanese forces. Even while sporadic fighting was still occurring in the outskirts of the city, a victory parade was quickly organized on Chowringhee avenue.\\n\\nMembers of the Indian National Army, a military outfit organized by the Japanese and dedicated to the liberation of India from Britain, took part in the parade and drew wild cheers from the crowds. With the fall of Calcutta, many predict that all of British India will soon follow."
+  },
+  {
+    "key": "news.126.t",
+    "version": "",
+    "type": "title",
+    "en": "The Fall of New Delhi"
+  },
+  {
+    "key": "news.126.d",
+    "version": "",
+    "type": "desc",
+    "en": "Japanese offensives continue in India, and the fall of New Delhi recently took place. As the capital of British India, this city is of immense strategic importance and its loss may prove to be a decisive factor in the ongoing Indian campaign.\\n\\nThe Viceroy himself was reportedly captured by Japanese forward units while he was supervising the transfer of his belongings from the Viceroy's House to a truck caravan, but this has not yet been confirmed."
+  },
+  {
+    "key": "news.127.t",
+    "version": "",
+    "type": "title",
+    "en": "The Fall of the Panama Canal"
+  },
+  {
+    "key": "news.127.d",
+    "version": "",
+    "type": "desc",
+    "en": "In what must be considered a monumental blow to the American war effort, Japanese forces have landed in Panama and taken control of the canal after forcing the surrender of its garrison. Several parties of American and Panamanian soldiers reportedly escaped into the nearby jungle to wage guerrilla warfare, but it is not believed that they can significantly threaten the Japanese presence.\\n\\nWith the fall of the canal, American naval forces now have to round South America to reach the US West Coast, giving the Imperial Japanese Navy a significant strategic advantage."
+  },
+  {
+    "key": "news.128.t",
+    "version": "",
+    "type": "title",
+    "en": "The Fall of Berlin"
+  },
+  {
+    "key": "news.128.d",
+    "version": "",
+    "type": "desc",
+    "en": "The capture of the German capital has been confirmed by officials in Washington, after US forces fought their way into Berlin from several directions. Fighting in the city was described as intense, with the Moltke Bridge being demolished by desperate German pioneers to halt the American advance.\\n\\nOther bridges over the Spree were eventually secured, and GIs successfully stormed the Kroll Opera House and the Reichstag despite fierce German resistance. The Stars and Stripes now flutters in the wind above the Reichstag, and fighting in the city has ceased. The Battle of Berlin is over."
+  },
+  {
+    "key": "news.129.d",
+    "version": "",
+    "type": "desc",
+    "en": "British forces have advanced into Berlin, and the War Cabinet has announced the successful capture of the German capital after a pitched battle. Striking at dawn, British commandos seized the Tempelhof Airport while armored columns advanced along the Frankfurter Allee.\\n\\nWith the Reich Chancellery under British control, fighting in the city has largely ended. The current status of the German government remains unclear, but it is believed that at least some elements of it escaped the city before its fall."
+  },
+  {
+    "key": "news.130.d",
+    "version": "",
+    "type": "desc",
+    "en": "French forces have successfully stormed the German capital, which fell after a series of pitched battles within the city limits. A large group of Waffen-SS soldiers barricaded themselves in the Olympiastadion, which eventually fell after a determined attack by Foreign Legionnaires supported by artillery.\\n\\nThe French tricolor can now be seen flying over the Reich Chancellery, and although sporadic fighting is still being reported from some suburbs, most of Berlin is believed to have been cleared of organized resistance."
+  },
+  {
+    "key": "news.131.d",
+    "version": "",
+    "type": "desc",
+    "en": "Desperate fighting has been reported from Berlin, the capital of Germany, but it is now believed that the city is completely in Polish hands. After advancing along the Frankfurter Allee, the Poles reached the Alexanderplatz which was the scene of a pitched battle.\\n\\nElsewhere in the city, the Brandenburg Gate collapsed, supposedly after being rammed by a Polish tank, and the Kroll Opera House was leveled by an artillery barrage after its stubborn SS defenders refused to surrender. The red and white of the Polish flag now flies above the Reichstag, and the last pockets of resistance have been dealt with."
+  },
+  {
+    "key": "news.132.t",
+    "version": "",
+    "type": "title",
+    "en": "The Fall of Rome"
+  },
+  {
+    "key": "news.132.d",
+    "version": "",
+    "type": "desc",
+    "en": "Allied forces recently entered Rome after the surrender of its garrison, and the city is now under military occupation. Most historical landmarks remain intact, having weathered yet another battle for control over the city. For now at least, Allied troops have stayed outside Vatican City at the request of the Holy See.\\n\\nThe fall of Rome is an important milestone in the Italian campaign, and some are wondering if this means an end of the organized resistance to the advancing Allied armies on the peninsula."
+  },
+  {
+    "key": "news.133.d",
+    "version": "",
+    "type": "desc",
+    "en": "Forces from France recently entered Rome after the city's remaining Italian garrison melted away into the surrounding countryside. The French troops moved quickly to occupy all significant government buildings, and a 'triumph' was held along the Via del Corso by a long procession of marching soldiers and armored vehicles.\\n\\nWith the fall of Rome, the ability of Italy to continue the war is put into question. Outside observers expect that the Italian government, who fled the city just before its fall, will soon begin surrender negotiations."
+  },
+  {
+    "key": "news.134.t",
+    "version": "",
+    "type": "title",
+    "en": "The Liberation of Paris"
+  },
+  {
+    "key": "news.134.d",
+    "version": "",
+    "type": "desc",
+    "en": "It has now been confirmed that Paris, the capital of France, has been liberated from German occupation. Allied forces have entered the city, and the remaining German garrison has surrendered. Parisians could be seen cheering their liberators as they marched down the Champs Élysées, even while there were rumors of German sniper fire in some parts of the city.\\n\\nIt was feared that the Germans would employ a strategy of scorched earth and leave Paris a burning ruin, but the city's landmarks appear to have been spared. Indeed, the French tricolor can even now be seen flying from the Eiffel Tower."
+  },
+  {
+    "key": "news.135.t",
+    "version": "",
+    "type": "title",
+    "en": "The Fall of Tokyo"
+  },
+  {
+    "key": "news.135.d",
+    "version": "",
+    "type": "desc",
+    "en": "American forces have entered Tokyo, and the US War Department recently announced an end to major combat operations in the city. Fighting was reported as heavy, particularly in the vicinity of the Imperial Palace which was defended by fanatical members of the Imperial Guard, even though the Emperor is believed to have left the city before the American assault began.\\n\\nWith the fall of Tokyo, experts predict that organized resistance on the rest of the Japanese Home Islands will soon crumble. Peace negotiations are expected to begin shortly, unless Japanese hardliners convince the Emperor to continue the fight to the death."
+  },
+  {
+    "key": "news.136.d",
+    "version": "",
+    "type": "desc",
+    "en": "After a series of pitched battles, Allied forces have occupied Moscow, capital of [SOV.GetNameDef]. The city has suffered extensive damage, and fires are still raging on both sides of the Moskva river. Despite heavy bombing the Kremlin is reasonably intact, and it has been chosen as the location for the headquarters of the Allied Occupation Administration.\\n\\nWith the loss of Moscow, the Soviet war effort has suffered an enormous blow. Although most of the government is believed to have evacuated the city well in advance of its fall, military experts claim that a complete Soviet collapse may not be far away."
+  },
+  {
+    "key": "news.137.t",
+    "version": "",
+    "type": "title",
+    "en": "The Liberation of London"
+  },
+  {
+    "key": "news.137.d",
+    "version": "",
+    "type": "desc",
+    "en": "Fighting has ended in London, with the last pockets of German resistance having been dealt with. As soon as the all-clear was given, jubilant crowds rushed onto the streets to celebrate their American liberators, while church bells could be heard ringing throughout the city.\\n\\nLiberation fever seems to be embracing Britain, as it now finally appears likely that the German occupation is coming to an end. Spontaneous uprisings have been reported in areas still under German control, though these incidents have been dealt with harshly. Has freedom at last returned to the United Kingdom?"
+  },
+  {
+    "key": "news.138.d",
+    "version": "",
+    "type": "desc",
+    "en": "Unlike 1920, there was no 'Miracle at the Vistula' when Soviet armies recently approached Warsaw. Polish resistance in the city has largely collapsed, and the Soviet flag can be seen raised over most government buildings.\\n\\nAre we witnessing the end of the Polish nation, or will their forces somehow manage to rebound and retake their capital? Most experts consider this scenario unlikely."
+  },
+  {
+    "key": "news.139.t",
+    "version": "",
+    "type": "title",
+    "en": "The Liberation of Warsaw"
+  },
+  {
+    "key": "news.139.d",
+    "version": "",
+    "type": "desc",
+    "en": "The devastated city of Warsaw has fallen to advancing Soviet armies, after the last German defenders retreated from its burning suburbs. Much of the city lies in ruins after previous battles, and local resistance members hurriedly emerged from the rubble to greet their liberators.\\n\\nWith Warsaw under Soviet control, the strategic situation for Germany in Eastern Europe may soon deteriorate further. Experts are doubtful that they will be able to mount a counterattack to retake the city, but the harried local population does not seem quite as convinced."
+  },
+  {
+    "key": "news.140.d",
+    "version": "",
+    "type": "desc",
+    "en": "A Soviet communique has announced the capitulation of all German forces in Berlin. After encircling the city, the Russians stormed it from several different directions, with the German defenders resisting furiously every step of the way.\\n\\nSoviet troops finally fought their way across the Moltke Bridge and into the Reichstag building, fighting room by room until they reached the roof where the Soviet flag was raised over the city. The Battle of Berlin is over."
+  },
+  {
+    "key": "news.141.d",
+    "version": "",
+    "type": "desc",
+    "en": "Rome, the 'Eternal City,' has fallen to the advancing Soviet spearheads. As Italian forces fell back, Russian troops fanned out into the city and dealt with the few remaining pockets of resistance. Most historical landmarks appear to have suffered little damage, although there are conflicting reports that the Pantheon was raked by machine gun fire.\\n\\nSo far the Soviets appear to be respecting the neutrality of the Holy See, but their forces have positioned themselves in a ring around Vatican City - a gesture that must surely make His Holiness nervous."
+  },
+  {
+    "key": "news.142.d",
+    "version": "",
+    "type": "desc",
+    "en": "The inexorable advance of the Red Army continues, and reports are now coming in that the French capital has fallen. French Communists supposedly aided the Soviets when they entered the city, taking part in attacks against retreating elements of the armée de terre.\\n\\nLeaflets have been distributed throughout the city, informing Parisians that they have been 'liberated from the Bourgeoisie oppression' and that the Paris Commune has finally been resurrected."
+  },
+  {
+    "key": "news.143.d",
+    "version": "",
+    "type": "desc",
+    "en": "In the latest Order of the Day broadcast from Moscow, the capture of Paris from German forces was announced. Many of the city's defenders reportedly drowned in the Seine after a heavy Soviet artillery barrage demolished several of the bridges crossing the river.\\n\\nThe Eiffel Tower was toppled after a massive explosion at its base, although it remains unclear which side was responsible. Soviet forces are now holding a victory parade on the Champs-Élysées while weary Parisians look on, wondering if they have only traded one occupier for another."
+  },
+  {
+    "key": "news.144.d",
+    "version": "",
+    "type": "desc",
+    "en": "[GetSOVIdeologyLondonDesc]"
+  },
+  {
+    "key": "news.145.d",
+    "version": "",
+    "type": "desc",
+    "en": "Fires continue to rage in central London, but it is believed that most of the city's German occupiers have either fallen in battle or been captured by the advancing Soviet forces. Crowds have emerged on the streets to cheer the Russians on as they move to deal with the last stubborn holdouts.\\n\\nCollaborators have been dealt with harshly, and the Soviets have organized an interim council to administrate the liberated city until further notice. Critics have observed that the members of this council all appear to have been drawn from the Communist Party of Great Britain."
+  },
+  {
+    "key": "news.146.d",
+    "version": "",
+    "type": "desc",
+    "en": "Soviet forces have converged on Tokyo, and heavy fighting has been reported throughout the city. Most of the city is under Soviet control now, with the exception of the eastern suburbs where massive fires are still raging.\\n\\nWhen the fighting shifted towards the Imperial Palace, members of the Imperial Guard reportedly launched bayonet charges against the approaching Soviet troops. The palace was eventually stormed by a detachment of VDV paratroopers, who had to fight their way through the compound room by room. No prisoners were taken, but it is believed that the Emperor was safely evacuated before the city fell."
+  },
+  {
+    "key": "news.147.d",
+    "version": "",
+    "type": "desc",
+    "en": "Leningrad, the former capital of the Russian Empire, has been occupied by Finnish forces. With a population of over three million, the city has nearly as many inhabitants as all of Finland, but this fact has evidently not deterred the Finnish attackers.\\n\\nThere is some debate as to whether the city should be integrated into Greater Finland, since Ingrian Finns make up a considerable minority in the regions outside the city. This, of course, assumes that the Red Army is unable to retake the city in a counteroffensive."
+  },
+  {
+    "key": "news.148.d",
+    "version": "",
+    "type": "desc",
+    "en": "News coming in from Tokyo recently confirmed that the city has fallen to Chinese forces. Much of it lies in ruins, including the Imperial Palace which now serves as the headquarters of the Chinese military administration.\\n\\nForeign reporters witnessed a massive victory parade that featured a seemingly endless procession of Chinese soldiers marching through the city. Japanese citizens lining the streets watched the parading troops in silence."
+  },
+  {
+    "key": "news.149.d",
+    "version": "",
+    "type": "desc",
+    "en": "For the first time since it was seized by the British more than two centuries ago, Gibraltar is back in Spanish hands. News coming in from the territory report that most of the garrison has surrendered, although a few stubborn holdouts have retreated to tunnels running under the Rock.\\n\\nAt a press conference in Madrid, representatives of the government stated that Gibraltar is henceforth to be considered Spanish territory 'in perpetuity.' British diplomats have unsurprisingly debunked the statement, dismissing it as 'utter nonsense.'"
+  },
+  {
+    "key": "news.150.t",
+    "version": "",
+    "type": "title",
+    "en": "Coup d'état in Yugoslavia"
+  },
+  {
+    "key": "news.150.d",
+    "version": "",
+    "type": "desc",
+    "en": "The Yugoslavian government's attempts to cooperate with Germany has had many opponents within the nation's military, which today resulted in a coup overthrowing the reigning ruler and placing King Peter II on the throne.\\n\\nThe nation has cut many of its ties with Germany and the new regime seems prepared to risk a war rather than cooperate."
+  },
+  {
+    "key": "news.151.t",
+    "version": "",
+    "type": "title",
+    "en": "Rhineland Remains Demilitarized"
+  },
+  {
+    "key": "news.151.d",
+    "version": "",
+    "type": "desc",
+    "en": "After attempts by Germany to end the rules set by the Versailles Treaty and re-militarize the Rhineland, an ultimatum from the Allies forced them to back down. With both Britain and France threatening to mobilize if Germany proceeded with the plan, it quickly became clear that this level of resistance was unexpected. Germany was not prepared to face both countries in all-out war.\\n\\nAs it stands, the Rhineland will remain a demilitarized zone as dictated by the treaty unless Germany goes to war."
+  },
+  {
+    "key": "news.152.d",
+    "version": "",
+    "type": "desc",
+    "en": "After attempts by Germany to end the rules set by the Versailles Treaty and re-militarize the Rhineland, an ultimatum from France forced them to back down. Despite Britain refusing to intervene, with French threats to mobilize if Germany proceeded with the plan, it quickly became clear that any military intervention at all was unexpected. Germany was not prepared to face France in all-out war.\\n\\nAs it stands, the Rhineland will remain a demilitarized zone as dictated by the treaty unless Germany goes to war."
+  },
+  {
+    "key": "news.153.t",
+    "version": "",
+    "type": "title",
+    "en": "Germany Breaks Molotov-Ribbentrop Pact"
+  },
+  {
+    "key": "news.153.d",
+    "version": "",
+    "type": "desc",
+    "en": "The non-aggression pact between Germany and [SOV.GetNameDef], a surprising development to begin with, has now less surprisingly fallen apart. Germany has attacked, breaking the pact and returned to once again openly speaking of the Soviet Union as a menace that must be faced for their visions of the future to become reality.\\n\\nSoviet leadership is less than pleased, but perhaps less shocked by the betrayal than disappointed that they didn't seize the opportunity first."
+  },
+  {
+    "key": "news.154.t",
+    "version": "",
+    "type": "title",
+    "en": "USSR Breaks Molotov-Ribbentrop Pact"
+  },
+  {
+    "key": "news.154.d",
+    "version": "",
+    "type": "desc",
+    "en": "The non-aggression pact between Germany and the [SOV.GetNameDef], a surprising development to begin with, has now less surprisingly fallen apart. [SOV.GetNameDef] has attacked, breaking the pact and vowing to crush the German regime and once again put the expansionist state in their place.\\n\\nGerman leaders may have been planning an attack themselves, but the world will never know. They are now rapidly mobilizing to deal with the new threat."
+  },
+  {
+    "key": "news.155.t",
+    "version": "",
+    "type": "title",
+    "en": "Germany At War Again"
+  },
+  {
+    "key": "news.155.d",
+    "version": "",
+    "type": "desc",
+    "en": "Although many have wished for a long lasting peace in Europe, a recent turn of events has left Germany on the path to war once again. Despite clearly violating the treaty of Versailles, German troops have mobilized and are ready to go on the offense. German officials state that they will no longer keep the Rheinland demilitarized, arguing the need to protect German citizens in the area."
+  },
+  {
+    "key": "news.156.t",
+    "version": "",
+    "type": "title",
+    "en": "Komet Sighted"
+  },
+  {
+    "key": "news.156.d",
+    "version": "",
+    "type": "desc",
+    "en": "The appearance of a Komet in the sky has caused unrest amongst our people. The Me 163 Komet, an experimental rocket plane out of one of its test flights, has shocked the rural population who have spotted this uniquely fast craft. It has been developed with the utmost secrecy, but will soon be unveiled. This minor incident will only make its first formal appearance all the more impressive."
+  },
+  {
+    "key": "news.157.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.From.GetName] Intervenes in [From.GetAdjective] war"
+  },
+  {
+    "key": "news.157.d",
+    "version": "",
+    "type": "desc",
+    "en": "Only a few days ago troops from [From.GetName] mobilized towards [From.From.From.GetName] in a declaration of war. Subsequently [From.From.GetName] gave an ultimatum, ordering the parties to stop fighting and all [From.GetAdjective] troops withdrawn. [From.GetLeader] states that their war was justified and has refused to give in. The country is now in full conflict with both [From.From.From.GetName] and [From.From.GetName]."
+  },
+  {
+    "key": "news.158.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.From.GetName] Intervenes in [From.GetAdjective] war"
+  },
+  {
+    "key": "news.158.d",
+    "version": "",
+    "type": "desc",
+    "en": "A few days ago [From.GetName] declared war on [From.From.From.GetName]. Not long after [From.From.GetName] issued an ultimatum, stating that it would go to war with [From.GetName] if they would not cease all aggression and sign a peace deal. [From.GetLeader] states that their reasons for war were just, but has chosen to demobilize and agree to peace."
+  },
+  {
+    "key": "news.159.t",
+    "version": "",
+    "type": "title",
+    "en": "The Dawn of [From.GetFactionName]"
+  },
+  {
+    "key": "news.159.d_01",
+    "version": "",
+    "type": "desc",
+    "en": "[From.GetLeader] announced today that [From.GetName] has reached out to form a new alliance. [From.GetFactionName] have made public their intent to cooperate in the case of war.\\n\\nAlthough great coalitions can deter against aggression, we've seen the consequences they bring when conflict does arise. The intentions of the different parties joining in this new alliance is still debatable, but what purpose it may end up serving may be unknown even to its instigators."
+  },
+  {
+    "key": "news.159.d_02",
+    "version": "",
+    "type": "desc",
+    "en": "It has been theorized that democracies do not go to war with each other, but this does not mean they are guaranteed to aid each other in wars. As political interests are diverse and the people want peace, entering a war often comes at a great cost for these nations.\\n\\nHowever, this has not stopped [From.GetName] from announcing today that they have formed a military alliance, the [From.GetFactionName], to join forces in protecting their people and their ideals."
+  },
+  {
+    "key": "news.159.d_03",
+    "version": "",
+    "type": "desc",
+    "en": "Even [From.GetName], famed for its faith in the strength and superiority of its people and nation, is not beyond forming alliances with those they respect. [From.GetLeader] announced today that the final agreements had been made about the [From.GetFactionName], a military coalition which purportedly room only for honorable nations destined for greatness.\\n\\nWhether this greatness is intended to come from building the ideal society within the borders of the respective nations or by working together to expand beyond them, the world may not know until it is too late."
+  },
+  {
+    "key": "news.159.d_04",
+    "version": "",
+    "type": "desc",
+    "en": "Despite the recent Soviet focus on communism in one country, the internationalist roots of the movement transcend borders. This solidarity with workers around the world was a key element in [From.GetLeader]'s speech today when the [From.GetFactionName] was announced.\\n\\nGoing beyond a political International, this is an alliance that binds the countries militarily, with both regimes promising to aid each other against outside threats. Whether it will act as a sword or a shield for the communist revolution remains to be seen."
+  },
+  {
+    "key": "news.160.t",
+    "version": "",
+    "type": "title",
+    "en": "Germany Under Attack"
+  },
+  {
+    "key": "news.160.d",
+    "version": "",
+    "type": "desc",
+    "en": "Not long ago Germany found itself dragged into another war. While everyone had hoped for a long lasting peace in Europe, it is clear that tensions on the continent are still too great. German officials' state that they can no longer afford to keep the Rheinland demilitarized, arguing that they need full mobility within their own borders in order to defend themselves."
+  },
+  {
+    "key": "news.161.t",
+    "version": "",
+    "type": "title",
+    "en": "France Bans Communism"
+  },
+  {
+    "key": "news.161.d",
+    "version": "",
+    "type": "desc",
+    "en": "The [From.GetLeader] Cabinet have decreed the dissolution of [From.GetCommunistParty]. Ever since Soviet Russia signed the non-aggression pact with Nazi Germany there have been talks of proscribing communism in France. The decree was instated following the agreement between the two nations for the partition of Poland.\\n[From.GetLeader] took the opportunity as support for a ban rose and even leftist papers started advocating for the abolition of [From.GetCommunistParty]."
+  },
+  {
+    "key": "news.162.d",
+    "version": "",
+    "type": "desc",
+    "en": "With a final peace treaty splitting Spain in two accepted by both parties, the Spanish Civil War has come to an end. Although dissidents on both sides decry this compromise, this fragile peace will at least give the divided nation time to recover and rebuild on both sides."
+  },
+  {
+    "key": "news.163.t",
+    "version": "",
+    "type": "title",
+    "en": "London Conference"
+  },
+  {
+    "key": "news.163.d",
+    "version": "",
+    "type": "desc",
+    "en": "Using the annexation of Austria into the [GER.GetName] as the basis for their claim, Germany has now demanded the \"rightful return\" of the former Austrian territory of Slovenia from [YUG.GetName]. \\n\\nIn response, the signatories of the Treaty of Versailles have gathered in London to discuss a solution to the \"Slovenian Question.\" This great peace conference has led to the decision that Yugoslavia should cede Slovenia to Germany in the name of a lasting peace.\\n\\nConsidering itself abandoned by the great powers of Europe, [YUG.GetLeader]'s government sees no option but to sign the agreement as presented."
+  },
+  {
+    "key": "news.164.t",
+    "version": "",
+    "type": "title",
+    "en": "Crisis In Slovenia"
+  },
+  {
+    "key": "news.164.d",
+    "version": "",
+    "type": "desc",
+    "en": "Using the annexation of Austria into the [GER.GetName] as the basis for their claim, Germany has now demanded the \"rightful return\" of the former Austrian territory of Slovenia from [YUG.GetName]. \\n\\nIn response, the signatories of the Treaty of Versailles have gathered in London to discuss a solution to the \"Slovenian Question.\"\\n\\nAt the conference, Britain and France stood united in the face of German demands, declaring that Yugoslavia must keep the borders as stipulated by Versailles."
+  },
+  {
+    "key": "news.164.d_FRA_abandoned_yugoslavia",
+    "version": "",
+    "type": "desc",
+    "en": "Using the annexation of Austria into the [GER.GetName] as the basis for their claim, Germany has now demanded the \"rightful return\" of the former Austrian territory of Slovenia from [YUG.GetName]. \\n\\nIn response, the signatories of the Treaty of Versailles have gathered in London to discuss a solution to the \"Slovenian Question.\"\\n\\nWhile Britain insisted that the integrity of Versailles must be kept, France backed German demands in the name of peace in Europe."
+  },
+  {
+    "key": "news.165.t",
+    "version": "",
+    "type": "title",
+    "en": "Crisis In Slovenia"
+  },
+  {
+    "key": "news.165.d",
+    "version": "",
+    "type": "desc",
+    "en": "Using the annexation of Austria into the [GER.GetName] as the basis for their claim, Germany has now demanded the \"rightful return\" of the former Austrian territory of Slovenia from [YUG.GetName]. \\n\\nIn response, the signatories of the Treaty of Versailles have gathered in London to discuss a solution to the \"Slovenian Question.\"\\n\\nDespite days of negotiations, the conference failed to come to an agreement. Although the British government sought a peaceful solution, the French remained resolute in the face of German threats. The German delegation walked out in protest, and the clouds of war are gathering above Slovenia."
+  },
+  {
+    "key": "news.166.t",
+    "version": "",
+    "type": "title",
+    "en": "London Agreement"
+  },
+  {
+    "key": "news.166.d",
+    "version": "",
+    "type": "desc",
+    "en": "Using the annexation of Austria into the [GER.GetName] as the basis for their claim, Germany has now demanded the \"rightful return\" of the former Austrian territory of Slovenia from [YUG.GetName]. \\n\\nIn response, the signatories of the Treaty of Versailles have gathered in London to discuss a solution to the \"Slovenian Question.\"\\n\\nThe Great Powers agreed that Slovenia should be ceded to Germany in a last ditch effort to retain peace. \\nHowever, in an impassioned speech speaking against the German threat to European stability, [YUG.GetLeader] declared unequivocally that [YUG.GetName] would refuse to give up even an inch of land, regardless of the fact that they stand utterly abandoned in their time of need."
+  },
+  {
+    "key": "news.167.t",
+    "version": "",
+    "type": "title",
+    "en": "Crisis In Slovenia"
+  },
+  {
+    "key": "news.167.d",
+    "version": "",
+    "type": "desc",
+    "en": "Using the annexation of Austria into the [GER.GetName] as the basis for their claim, Germany has now demanded the \"rightful return\" of the former Austrian territory of Slovenia from [YUG.GetName]. \\n\\nIn response, the signatories of the Treaty of Versailles have gathered in London to discuss a solution to the \"Slovenian Question.\"\\n\\nThe conference was determined by a surprising turn of loyalties, as Italy backed Yugoslavian territorial integrity, leaving German demands unacknowledged. \\n\\nAs ever, Italian foreign policy is entirely unpredictable, and it remains to be seen where they hope this gambit will take them."
+  },
+  {
+    "key": "news.168.t",
+    "version": "",
+    "type": "title",
+    "en": "First Ljubljana Award"
+  },
+  {
+    "key": "news.168.d",
+    "version": "",
+    "type": "desc",
+    "en": "With the loss of Slovenia the ethnic fault lines inside Yugoslavia have started to show more clearly, and the central authority has grown weaker by the day. \\n\\nToday, the German foreign minister announced a plan to finally solve \"the mistake of the Versailles State.\" In a treaty signed by some of [YUG.GetName]'s most powerful neighbors, much of its territory has been divided between countries friendly to Germany.\\n\\nThis treaty was not even seen by [YUG.GetAdjective] diplomats before its ratification, but with multiple countries scrambling to seize Yugoslav lands from a collapsing central government, there is little [YUG.GetLeader]'s government can do."
+  },
+  {
+    "key": "news.169.t",
+    "version": "",
+    "type": "title",
+    "en": "The Fate Of Yugoslavia"
+  },
+  {
+    "key": "news.169.d_annex_YUG",
+    "version": "",
+    "type": "desc",
+    "en": "Recent territorial losses have caused fractures within the Yugoslav state leading to ethnic conflict and weakening of central authority. Germany has stepped into the growing vacuum and chosen to declare a 'protectorate' on the rump of Yugoslavia"
+  },
+  {
+    "key": "news.169.d_puppet_CRO_annex_YUG",
+    "version": "",
+    "type": "desc",
+    "en": "Recent territorial loses have caused fractures within the Yugoslav state leading to ethnic conflict and weakening of central authority. Germany has created an 'independent' state of Croatia and annexed the remainder"
+  },
+  {
+    "key": "news.169.d_puppet_CRO_YUG",
+    "version": "",
+    "type": "desc",
+    "en": "Recent territorial loses have caused fractures within the Yugoslav state leading to ethnic conflict and weakening of central authority. Germany has chosen to divide the remainder between a Serb and Croat state under their direction"
+  },
+  {
+    "key": "news.170.t",
+    "version": "",
+    "type": "title",
+    "en": "Second Ljubljana Award"
+  },
+  {
+    "key": "news.170.d_BUL",
+    "version": "",
+    "type": "desc",
+    "en": "Claiming they are attempting to ensure peace in the Balkans, Germany has presented the Greek government with a demand that they cede territory to Bulgaria. While [GRE.GetName] has protested immensely, the strength of German influence in the Balkans leaves them with little choice. The only way to avoid a confrontation with the [GER.GetName] is to allow German diplomacy to dictate their territorial integrity."
+  },
+  {
+    "key": "news.170.d_ITA",
+    "version": "",
+    "type": "desc",
+    "en": "Claiming they are attempting to ensure peace in the Balkans, Germany has presented the Greek government with a demand that they cede any territory that [ITA.GetName] has laid claim to. While [GRE.GetName] has protested immensely, the strength of German influence in the Balkans leaves them with little choice. The only way to avoid a confrontation with both the [GER.GetName] and [ITA.GetName] is to allow German diplomacy to dictate their territorial integrity."
+  },
+  {
+    "key": "news.170.d_ITA_BUL",
+    "version": "",
+    "type": "desc",
+    "en": "Claiming they are attempting to ensure peace in the Balkans, Germany has presented the Greek government with a demand that they cede any territory claimed by [BUL.GetName] and [ITA.GetName]. With the strong [GER.GetAdjective] presence in the Balkans, and the threatening approach of both Bulgaria and Italy, [GRE.GetLeader] has seen no choice but to accept."
+  },
+  {
+    "key": "news.170.d_GER",
+    "version": "",
+    "type": "desc",
+    "en": "Having established itself as a force in the Balkans, the [GER.GetName] now claims it is motivated by keeping the peace in the troubled region. To this end, it has now also demanded the ceding of Greek territory to its authority.\\n\\nFacing the German war machine, [GRE.GetName] had no choice but to accept the demands, even as they were cursing the demands as a sham."
+  },
+  {
+    "key": "news.171.t",
+    "version": "",
+    "type": "title",
+    "en": "Second Ljubljana Award"
+  },
+  {
+    "key": "news.171.d_BUL",
+    "version": "",
+    "type": "desc",
+    "en": "Greece has rejected German mediation in their border dispute with Bulgaria, claiming that the German offer is tantamount to a surrender. \\n\\nTalking to the press, [GRE.GetLeader] said that if [BUL.GetLeader] and [GER.GetLeader] wanted these territories, they could \"come and get them\". \\n\\nThe [BUL.GetAdjective] government has rejected any claims that they offered military and economic support to [GER.GetNameDef] in return for help in gaining the Greek territories."
+  },
+  {
+    "key": "news.171.d_ITA",
+    "version": "",
+    "type": "desc",
+    "en": "Following a meeting between [GER.GetLeader] and [ITA.GetLeader], the [GER.GetAdjective] government has publicly backed the [ITA.GetAdjective] position in the ongoing border dispute with [GRE.GetNameDef]. \\n\\nGreek Leader [GRE.GetLeader] has declared the offered solution to be utterly unacceptable and vowed to defend the country \"to the last bullet, the last shell, the last breath.\""
+  },
+  {
+    "key": "news.171.d_ITA_BUL",
+    "version": "",
+    "type": "desc",
+    "en": "German offers of mediation in the border dispute between Greece on the one side and Italy and Bulgaria on the other have been rebuffed by Greece. A [GRE.GetAdjective] government spokesman announced that the [GRE.GetAdjective] army stands ready to defend the country against any invaders, and would rather die fighting than surrender to the jackals and vultures clinging to Germany's coattails."
+  },
+  {
+    "key": "news.171.d_GER",
+    "version": "",
+    "type": "desc",
+    "en": "Talks between [GRE.GetNameDef] and [GER.GetNameDef] to resolve a number of border disputes have collapsed. Claiming that the German proposal to lease some areas for German military bases would effectively mean surrendering large parts of the country, [GRE.GetLeader] has called on all able-bodied Greeks to come to the defense of the country."
+  },
+  {
+    "key": "news.172.t",
+    "version": "",
+    "type": "title",
+    "en": "Greece Submits"
+  },
+  {
+    "key": "news.172.d",
+    "version": "",
+    "type": "desc",
+    "en": "Following a long and heated conversation with the German ambassador, [GRE.GetLeader] has announced that the [GRE.GetAdjective] government will closely coordinate its policies with [GER.GetNameDef] in the future. \\n\\nPolice in the [GRE.GetAdjective] capital had to use force to break up a number of spontaneous protests against this decision, with many in the crowd calling for the head of \"that coward [GRE.GetLeader]\"."
+  },
+  {
+    "key": "news.173.t",
+    "version": "",
+    "type": "title",
+    "en": "The Fourth International"
+  },
+  {
+    "key": "news.173.d_1",
+    "version": "",
+    "type": "desc",
+    "en": "A number of communist delegates from around the world met in Paris today for a founding conference. With supporters of Trotsky's theories taking the lead, the groundwork for the Fourth International was laid.\\n\\nAlthough it is still unclear what impact these efforts of organize will have on the international political stage, the news appear to have stirred Stalin's suspicions. He has suspected many high-ranking members of the party and the military to secretly support Trotsky, and many of them are still alive. With his paranoia back in full force, he has grown increasingly reclusive. His distrust and instability have caused a crisis in the Soviet government. At this rate, the nation will be plunged into civil war."
+  },
+  {
+    "key": "news.173.d_2",
+    "version": "",
+    "type": "desc",
+    "en": "A number of communist delegates from around the world met in Paris today for a founding conference, laying the groundwork for what has been known as the Fourth International. Calls for its formation have existed for years, with supporters of Trotsky's theories taking the lead.\\n\\nStalin has responded to the growing support for Trotskyism abroad by ordering additional assassinations and increasing propaganda against his old rival. With the past purges of suspected Trotskyists in the high ranks of the Soviet military and leadership in recent memory, this is unlikely to be met with any resistance."
+  },
+  {
+    "key": "news.174.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetName] Pursues Nuclear Technology"
+  },
+  {
+    "key": "news.174.d",
+    "version": "",
+    "type": "desc",
+    "en": "Following initial tests, the politicians of [From.GetName] have decided to direct [From.GetAdjective] research towards the development of nuclear technology. \\n\\nThe technology is still highly experimental, and there is great uncertainty whether it has any practical applications at all. Who knows where this might lead their war effort."
+  },
+  {
+    "key": "news.175.t",
+    "version": "",
+    "type": "title",
+    "en": "France and Britain Announce Alliance"
+  },
+  {
+    "key": "news.175.d",
+    "version": "",
+    "type": "desc",
+    "en": "Calling upon the bonds forged during the Great War, France has requested a formal alliance with Britain, citing unspecified threats against the stability of Europe.\\n\\nToday their request was approved by the British Parliament, and France has joined the [ENG.GetFactionName]."
+  },
+  {
+    "key": "news.176.t",
+    "version": "",
+    "type": "title",
+    "en": "Britain Rejects Alliance With France"
+  },
+  {
+    "key": "news.176.d",
+    "version": "",
+    "type": "desc",
+    "en": "In a surprising turn of events, the British Parliament today rejected [FRA.GetName]'s request for a formal alliance between the two nations. The reason given was to avoid agitating the already fragile balance on the European continent.\\n\\nThe French government has condemned it as a political move, sacrificing French security for British interests."
+  },
+  {
+    "key": "news.177.t",
+    "version": "",
+    "type": "title",
+    "en": "The Little Entente"
+  },
+  {
+    "key": "news.177.d",
+    "version": "",
+    "type": "desc",
+    "en": "Seeking to form a united front against common enemies, [From.GetName] has reached out to Czechoslovakia with an offer of forming a \"Little Entente\" to unite against common enemies, thereby foregoing their bonds with Britain from the Great War. While offered a place in the defensive pact, the British Prime Minister made it clear that Britain does not consider the alliance 'beneficial to the protection of European liberty.' \\n\\nFrance have nevertheless established diplomatic ties with other nations that might feel threatened, and are encouraging unity for the sake of keeping the diplomatic balance in Europe, and prevent future conflict. Only time will tell if they can succeed."
+  },
+  {
+    "key": "news.178.t",
+    "version": "",
+    "type": "title",
+    "en": "The Left Ascendant in France"
+  },
+  {
+    "key": "news.178.d",
+    "version": "",
+    "type": "desc",
+    "en": "Following close to two decades of political turmoil, the people of [From.GetName] feel they have yet to regain what was lost in the Great War. The [From.GetAdjective] have set their sights on reconstructing the [From.GetAdjective] state, with her people, and for her people.\\n\\nThese new political reforms enable the flourishing of workers unions and communist organizations. If France continues down this path, they are set for a political realignment towards the far left, or even a full-scale revolution."
+  },
+  {
+    "key": "news.179.t",
+    "version": "",
+    "type": "title",
+    "en": "The Right Ascendant in France"
+  },
+  {
+    "key": "news.179.d",
+    "version": "",
+    "type": "desc",
+    "en": "Following close to two decades of political turmoil, the people of [From.GetName] feel they have yet to regain what was lost in the Great War. The [From.GetAdjective] establishment have set their sights on reconstructing the [From.GetAdjective] state, and reestablish [From.GetAdjective] greatness.\\n\\nThese political reforms are strengthening the power of the state and the army, with the [From.GetAdjective] people convinced by [From.GetLeader]'s promises of greatness."
+  },
+  {
+    "key": "news.180.t",
+    "version": "",
+    "type": "title",
+    "en": "France is Welcomed Into the Comintern"
+  },
+  {
+    "key": "news.180.d",
+    "version": "",
+    "type": "desc",
+    "en": "Following the shift towards communism not only among the French people, but also in the French halls of power, [France.GetName] publicly announced its desire to become a part of the [From.GetFactionName].\\n\\n[From.GetName] responded instantly, indicating the weeks of negotiations that must have been going on outside of the public view. [From.GetLeader] spoke at length how the people of the world must work together to bring about revolution in all countries. \\n\\n[France.GetLeader] agreed, and threatened in no uncertain terms those \"who have reason to fear the [From.GetFactionName].\""
+  },
+  {
+    "key": "news.181.t",
+    "version": "",
+    "type": "title",
+    "en": "[France.GetName] and [From.GetName] Unite"
+  },
+  {
+    "key": "news.181.d",
+    "version": "",
+    "type": "desc",
+    "en": "Following increasingly autocratic politics, [France.GetName] has announced that it is time they find allies to counter the threat of global communism. Now it seems that [From.GetName] is that ally.\\n\\nThis morning, [From.GetLeader] announced that [France.GetName] and [From.GetName] will stand together as brothers. \"Our shared heritage will no longer make us enemies, but allies! The Titans of Europe stand together.\""
+  },
+  {
+    "key": "news.182.t",
+    "version": "",
+    "type": "title",
+    "en": "[France.GetName] Joins the [From.GetFactionName]!"
+  },
+  {
+    "key": "news.182.d",
+    "version": "",
+    "type": "desc",
+    "en": "European politics were turned on its head today, as French and German diplomats announced a military pact between [France.GetName] and [From.GetName]. They announced that too much blood has been spilt on their border, when there are other forces out there seeking their destruction.\\n\\nThe [From.GetName] encouraged everyone to consider what it means that rather than weakening themselves against each other, the old enemies will grow even stronger together."
+  },
+  {
+    "key": "news.183.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetName] Rejects French Alliance!"
+  },
+  {
+    "key": "news.183.d",
+    "version": "",
+    "type": "desc",
+    "en": "Rebuffing [France.GetAdjective] diplomatic advances, [From.GetLeader] publicly announced that [From.GetName] would not be pursuing a military pact with [France.GetName].\\n\\nCalling the [France.GetAdjective] state weak and corrupt, [From.GetAdjective] diplomats said that no true [From.GetAdjective] will allow \"the [France.GetAdjective] Disease\" to spread."
+  },
+  {
+    "key": "news.184.t",
+    "version": "",
+    "type": "title",
+    "en": "Italy Pursues Closer Bonds With Germany"
+  },
+  {
+    "key": "news.184.d",
+    "version": "",
+    "type": "desc",
+    "en": "Italy and Germany have expressed many conflicting interests, particularly in Austria and the Balkans. This has not, however, prevented the countries' foreign policies growing ever friendlier towards each other, and negotiations are under way for a pact that will \"protect common interests.\"\\n\\nIf negotiations are successful, we could see an alliance that will be able to exert great influence in Central and Eastern Europe."
+  },
+  {
+    "key": "news.185.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetName] Seeks Extensive Military Pact"
+  }
+]

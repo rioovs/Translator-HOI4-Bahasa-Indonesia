@@ -1,0 +1,4862 @@
+[
+  {
+    "idx": 925,
+    "indent": " ",
+    "key": "AUS_totalitarian_safety",
+    "ver": "",
+    "val": "Totalitarian Safety",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 926,
+    "indent": " ",
+    "key": "AUS_totalitarian_safety_desc",
+    "ver": "",
+    "val": "In 1933 Engelbert Dolfuss brought [AUS.GetNameDef] to its' current political state, for the safety of our nation. This decision to fully eliminate the parliament was controversial with our people, but we do believe that it was needed to keep us safe. Dolfuss may no longer be with us, but we should stay on this course, for our own safety.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 928,
+    "indent": " ",
+    "key": "AUS_clamp_down_on_dnsap",
+    "ver": "",
+    "val": "Clamp Down on DNSAP",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 929,
+    "indent": " ",
+    "key": "AUS_clamp_down_on_dnsap_desc",
+    "ver": "",
+    "val": "Political parties beyond our Vaterländische Front have long since been banned from our country. Despite this some still linger, and most troubling is the so-called DNSAP. Falsely claiming that they represent the true Austrofascism they argue that we should give up our sovereignty and join in union with [GER.GetNameDef]. We should deal with them at once!",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 930,
+    "indent": " ",
+    "key": "AUS_clamp_down_on_dnsap_tt",
+    "ver": "",
+    "val": "§Y$AUS_kurt_schuschnigg$§! becomes the leader of §Y$AUS_fascism_vaterlandische_front_long$§! and the ruling party will switch to §YFascism§!.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 932,
+    "indent": " ",
+    "key": "AUS_supporting_italy_in_ethiopia_focus",
+    "ver": "",
+    "val": "Support [ITA.GetNameDef] in [ETH.GetNameDef]",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 933,
+    "indent": " ",
+    "key": "AUS_supporting_italy_in_ethiopia_focus_desc",
+    "ver": "",
+    "val": "For a long time [ITA.GetNameDef] has been on our side. As one of the guarantors of our independence it is of utmost importance that we stay on good terms with them and that we do not let them be swayed by [GER.GetAdjective] attempts to persuade them. By helping the [ITA.GetAdjective]s in [ETH.GetNameDef] we build trust between our countries, and raise the chance that they will come to our help, should the need arise.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 934,
+    "indent": " ",
+    "key": "AUS_supporting_italy_in_ethiopia_focus_tt",
+    "ver": "",
+    "val": "Unlocks decisions to §YSupport [ITA.GetNameDef] in the Italo-Ethiopian War§!",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 936,
+    "indent": " ",
+    "key": "AUS_reach_out_to_italy",
+    "ver": "",
+    "val": "Reach Out To Italy",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 937,
+    "indent": " ",
+    "key": "AUS_reach_out_to_italy_desc",
+    "ver": "",
+    "val": "Though we have had our fair share of disagreements Italy remains the most trustworthy ally that we have in our current situation. As unrest and tensions grow in our vicinity it would seem beneficial to reach out to them for support.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 939,
+    "indent": " ",
+    "key": "AUS_approach_democratic_guarantors",
+    "ver": "",
+    "val": "Approach the Democratic Guarantors",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 940,
+    "indent": " ",
+    "key": "AUS_approach_democratic_guarantors_desc",
+    "ver": "",
+    "val": "After the Treaty of Saint-Germain-En-Laye was signed we found ourselves with a way too small army to defend ourselves. If we are to prevail in an increasingly dangerous situation we will need support. Though we do not see eye to eye with the other signatories of the Treaty most of the time, we should reach out to them and ask their support in the event that the cold conflict around us goes hot",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 941,
+    "indent": " ",
+    "key": "AUS_approach_democratic_guarantors_tt",
+    "ver": "",
+    "val": "§YEffects for respective country if they accept:§!",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 943,
+    "indent": " ",
+    "key": "AUS_refine_vaterlandische_front",
+    "ver": "",
+    "val": "Refine the Vaterländische Front",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 944,
+    "indent": " ",
+    "key": "AUS_refine_vaterlandische_front_desc",
+    "ver": "",
+    "val": "For very long Vaterländische Front has been a collaboration of political Parties merged into one by the Self-Elimination of The Parliament. The initial ideology of Austrofascism has slowly changed over time in a way that has not exactly been in our favor. It is time that we steer ourselves back on the correct course.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 946,
+    "indent": " ",
+    "key": "AUS_seek_agreement_for_rearmament",
+    "ver": "",
+    "val": "Seek Agreement for Rearmament",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 947,
+    "indent": " ",
+    "key": "AUS_seek_agreement_for_rearmament_desc",
+    "ver": "",
+    "val": "With our internal politics now a bit more in check it is time we turn to look outwards. We are still bound by the unjust Treaty of Saint-Germain-En-Laye, hampering our military growth and ability to defend ourselves. As we are a bit dependent on the other signatories to keep us safe, it would be wise to inform them of our intent to rearm, and seek their agreement.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 948,
+    "indent": " ",
+    "key": "AUS_seek_agreement_for_rearmament_tt",
+    "ver": "",
+    "val": "An Event will be sent to §Y[ITA.GetFlag][ITA.GetName], [ENG.GetFlag][ENG.GetName] [FRA.GetFlag][FRA.GetName],§! and §Y[USA.GetFlag][USA.GetName]§! for them to approve or decline the request. No matter the response, the choice to rearm can still be made.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 949,
+    "indent": " ",
+    "key": "AUS_rearmament_and_guarantees_tt",
+    "ver": "",
+    "val": "§RGoing against the wishes of the guarantors might cause diplomatic consequences, ranging from lowered opinion to retracted guarantees!§!",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 951,
+    "indent": " ",
+    "key": "AUS_disregard_the_treaties",
+    "ver": "",
+    "val": "Disregard the Treaties",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 952,
+    "indent": " ",
+    "key": "AUS_disregard_the_treaties_desc",
+    "ver": "",
+    "val": "While we have respect for the signatories wishes to keep us bound by the Treaty of Saint-Germain-En-Laye the current situation in the world no longer permits us to follow the Treaty's dictates. It might very well be that these actions angers our Treaty partners and that we may suffer consequences, but we cannot allow ourselves to be bound any longer.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 954,
+    "indent": " ",
+    "key": "AUS_rapid_rearmament",
+    "ver": "",
+    "val": "Rapid Rearmament",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 955,
+    "indent": " ",
+    "key": "AUS_rapid_rearmament_desc",
+    "ver": "",
+    "val": "Finally free of the shackles of the Treaty we must now rearm immediately. Our army and air force has been left severely neglected by the last decade and significant efforts will be needed to bring us up to an acceptable level again.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 957,
+    "indent": " ",
+    "key": "AUS_spanish_intervention",
+    "ver": "",
+    "val": "Intervention in Spain",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 958,
+    "indent": " ",
+    "key": "AUS_spanish_intervention_desc",
+    "ver": "",
+    "val": "The Iberian peninsula has been engulfed by the flames of a civil war. Many outside forces are meddling as nationalists and republicans clash in violent conflict and we see no reason why we should not intervene as well. By intervening we could let our troops get more experience with modern warfare and get a benchmark for how well our troops hold up to the standard of today.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 960,
+    "indent": " ",
+    "key": "AUS_demand_part_of_spanish_winnings",
+    "ver": "",
+    "val": "Request part of Spanish Winnings",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 961,
+    "indent": " ",
+    "key": "AUS_demand_part_of_spanish_winnings_desc",
+    "ver": "",
+    "val": "As the flames of conflict slowly fade out on the Iberian Peninsula, and our friends in [SPA.GetNameDef] stand victorious it is time for us to take a look at what we gained from this endeavor. Our help to the [SPA.GetAdjective] should have gotten us into their good graces and it would seem only right for us to request some compensation for our aid.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 962,
+    "indent": " ",
+    "key": "AUS_volunteer_effort_SPA_flag",
+    "ver": "",
+    "val": "Has sent volunteers to [SPA.GetFlag]§Y[SPA.GetNameDef]§!",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 964,
+    "indent": " ",
+    "key": "AUS_invite_spanish_refugees",
+    "ver": "",
+    "val": "Invite Spanish Nationalists",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 965,
+    "indent": " ",
+    "key": "AUS_invite_spanish_refugees_desc",
+    "ver": "",
+    "val": "Despite our best efforts in the civil war we could not help our [SPA.GetAdjective] brethren to victory. Though certainly a very disappointing outcome we might still be able to help both them and us recuperate by inviting those who fought for the same cause to us and integrate them into the [AUS.GetAdjective] society and army.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 967,
+    "indent": " ",
+    "key": "AUS_integrate_dnsap_remnants",
+    "ver": "",
+    "val": "Integrate the Remnants of DNSAP",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 968,
+    "indent": " ",
+    "key": "AUS_integrate_dnsap_remnants_desc",
+    "ver": "",
+    "val": "There are still remnants of DNSAP around in [AUS.GetNameDef] despite the stricter ban. While most of them have rallied behind the Grossdeutsche Volkspartei some still exist in a political vacuum. We should attempt to recruit them into Vaterländische Front to prevent any more uprisings from them.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 970,
+    "indent": " ",
+    "key": "AUS_heimwehr_support",
+    "ver": "",
+    "val": "Gain Support From Heimwehr",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 971,
+    "indent": " ",
+    "key": "AUS_heimwehr_support_desc",
+    "ver": "",
+    "val": "During the years of living under the Treaty of Saint-Germain-En-Laye [AUS.GetNameDef] saw a rapid increase in the amount of paramilitary organizations. These were generally banned and most had political agendas that they wished to push. The Heimwehr's ideals were never that far from those of our own. By gaining their support we could coax them into fighting side by side with our Bundesheer.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 973,
+    "indent": " ",
+    "key": "AUS_frontmiliz_focus",
+    "ver": "",
+    "val": "Frontmiliz",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 974,
+    "indent": " ",
+    "key": "AUS_frontmiliz_focus_desc",
+    "ver": "",
+    "val": "Now that we have earned the trust of the [GetMilitiaName] we must ensure their swift integration into the Bundesheer. While they shall still remain their own separate entities we must make sure to have both parties working seamlessly together. This will ensure our success both on the battle field, and on the streets of our country.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 976,
+    "indent": " ",
+    "key": "AUS_fit_for_fight",
+    "ver": "",
+    "val": "Poised to Strike",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 977,
+    "indent": " ",
+    "key": "AUS_fit_for_fight_desc",
+    "ver": "",
+    "val": "We have come a long way with rebuilding our nation from the sorry state of which it was in, but we cannot stop here. While the effects of our efforts to rearm and rebuild play out we must prepare our juridical system so that our laws will not hamper our efforts",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 979,
+    "indent": " ",
+    "key": "AUS_form_nachrichtenabteilun",
+    "ver": "",
+    "val": "Form Nachrichtenabteilung",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 980,
+    "indent": " ",
+    "key": "AUS_form_nachrichtenabteilun_desc",
+    "ver": "",
+    "val": "We have been disarmed for a long time and while this has had terrible consequences, there has been upsides to this as well. The world thinks of us as nothing but a minor upstart that focuses only on our army. By focusing on intelligence and espionage at this time we can utilize their own assumptions of us to our advantage.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 981,
+    "indent": " ",
+    "key": "nachrichtenabteilung_bonus",
+    "ver": "",
+    "val": "Nachrichtenabteilung bonus",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 983,
+    "indent": " ",
+    "key": "AUS_wienfilm_propaganda_effort",
+    "ver": "",
+    "val": "Wien-Film Propaganda",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 984,
+    "indent": " ",
+    "key": "AUS_wienfilm_propaganda_effort_desc",
+    "ver": "",
+    "val": "When war rages in the world it is imperative that we keep our own nation in check. Lately we have seen countries using their film industry to bolster the spirits of their people. Seeing as we have our very own Wien-Film we should consider doing the same.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 986,
+    "indent": " ",
+    "key": "AUS_consolidate_industries",
+    "ver": "",
+    "val": "Der Ständestaat",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 987,
+    "indent": " ",
+    "key": "AUS_consolidate_industries_desc",
+    "ver": "",
+    "val": "Our industrial sector has grown significantly in a short amount of time and its' positive effects upon our economy and army are prominent. To further strengthen it we should make a consolidation plan and ensure that we can get the best efficiency and output out of these industries.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 989,
+    "indent": " ",
+    "key": "AUS_universitat_graz",
+    "ver": "",
+    "val": "Universität Graz",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 990,
+    "indent": " ",
+    "key": "AUS_universitat_graz_desc",
+    "ver": "",
+    "val": "The University in Graz has brought us many bright minds and several Nobel Prize winners. A closer collaboration with the University could speed up our own research significantly.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 992,
+    "indent": " ",
+    "key": "AUS_recruiting_the_graduates",
+    "ver": "",
+    "val": "Recruiting from the University",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 993,
+    "indent": " ",
+    "key": "AUS_recruiting_the_graduates_desc",
+    "ver": "",
+    "val": "To sustain our scientific efforts long term we must make sure to constantly acquire new talent. By working together with the University in Graz we could attract students, alumni and professors alike to our own projects.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 996,
+    "indent": " ",
+    "key": "AUS_heritage_of_an_empire",
+    "ver": "",
+    "val": "The Heritage of an Empire",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 997,
+    "indent": " ",
+    "key": "AUS_heritage_of_an_empire_desc",
+    "ver": "",
+    "val": "We have not forgotten what we were but a few decades ago. At heart [AUS.GetNameDef] is still an empire, and with hard work it is not going to be long before we are once more. It is high time we prepare our people for this transition.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 999,
+    "indent": " ",
+    "key": "AUS_second_brothers_war",
+    "ver": "",
+    "val": "The Second Brothers War",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1000,
+    "indent": " ",
+    "key": "AUS_second_brothers_war_desc",
+    "ver": "",
+    "val": "In 1866 a war started between us and the predecessor of [GER.GetNameDef]. Back then it was a minor squabble about Schleswig-Holstein, but times have changed now. The [GER.GetAdjective]s continues to be a threat on our northern border. It is time we end this fraternal rivalry once and for all.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1001,
+    "indent": " ",
+    "key": "AUS_unlocks_reichstag_raid",
+    "ver": "",
+    "val": "Unlocks §YRaid§!:\\nReichstag Bombing Raid on §Y[GER.GetNameWithFlag]§!",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1003,
+    "indent": " ",
+    "key": "AUS_an_improved_german_state",
+    "ver": "",
+    "val": "The Better German State",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1004,
+    "indent": " ",
+    "key": "AUS_an_improved_german_state_desc",
+    "ver": "",
+    "val": "We have always regarded ourselves the better German country in the world and recent times have proven us right. No longer will we let [GER.GetNameDef] stain the reputation of the collective of German people. It is time we integrate them into our own glorious country and use their might for ourselves!",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1006,
+    "indent": " ",
+    "key": "AUS_restoring_our_rightful_flag",
+    "ver": "",
+    "val": "Restoring the Right to Our Flag",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1007,
+    "indent": " ",
+    "key": "AUS_restoring_our_rightful_flag_desc",
+    "ver": "",
+    "val": "As we entered the 1936 Olympics we found that our flag was the same as that of [HAI.GetNameDef]. Reluctantly we changed our flag to be different from theirs but the fact still remains, the flag belongs to us, and as the [HAI.GetAdjective]s did not give it up then, we have to deal with it in another way.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1009,
+    "indent": " ",
+    "key": "AUS_seek_to_purchase_alaska",
+    "ver": "",
+    "val": "Purchasing [463.GetName]",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1010,
+    "indent": " ",
+    "key": "AUS_seek_to_purchase_alaska_desc",
+    "ver": "",
+    "val": "In 1867 we were offered to purchase [463.GetName] by Alexander II of Russia. We passed on the offer back then as the state had nothing to offer us. Times have changed however, and we should consider reaching out to the owner of [463.GetName] to try and negotiate a deal.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1013,
+    "indent": " ",
+    "key": "AUS_bring_hungary_back_into_the_fold",
+    "ver": "",
+    "val": "Bring Hungary Back Into the Fold",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1014,
+    "indent": " ",
+    "key": "AUS_bring_hungary_back_into_the_fold_desc",
+    "ver": "",
+    "val": "It has not been long since we and the [HUN.GetAdjective]s were part of the same great nation. We were forcibly split after the Great War and both severely weakened by unjust treaties pushed upon us. To prevent such thing from ever happening again, we should propose their full integration into [ROOT.GetNameDef]!",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1015,
+    "indent": " ",
+    "key": "AUS_bring_hungary_back_into_the_fold_tt",
+    "ver": "",
+    "val": "Unlocks decisions to §YAnnex the Old Lands§! and separate decisions to §YIncrease Probability for Diplomatic Annexation§!.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1016,
+    "indent": " ",
+    "key": "target_hun_tt",
+    "ver": "",
+    "val": "The decisions will target §Y[HUN.GetNameWithFlag]§!",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1017,
+    "indent": " ",
+    "key": "target_cze_tt",
+    "ver": "",
+    "val": "The decisions will target §Y[CZE.GetNameWithFlag]§!",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1018,
+    "indent": " ",
+    "key": "target_yug_tt",
+    "ver": "",
+    "val": "The decisions will target §Y[YUG.GetNameWithFlag]§! or §YAny Country§! currently owning §Y[102.GetName]§!, §Y[109.GetName]§! and §Y[853.GetName]§!.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1019,
+    "indent": " ",
+    "key": "target_pol_tt",
+    "ver": "",
+    "val": "The decisions will target §Y[POL.GetNameWithFlag]§!",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1020,
+    "indent": " ",
+    "key": "target_rom_tt",
+    "ver": "",
+    "val": "The decisions will target §Y[ROM.GetNameWithFlag]§!",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1021,
+    "indent": " ",
+    "key": "target_alb_tt",
+    "ver": "",
+    "val": "The decisions will target §Y[ALB.GetNameWithFlag]§!",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1022,
+    "indent": " ",
+    "key": "more_likely_to_accept_if_military_inferior_tt",
+    "ver": "",
+    "val": "By §Yincreasing the strength of our military§! we increase the chances of them accepting a §GPeaceful Annexation§!!",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1024,
+    "indent": " ",
+    "key": "AUS_the_czechoslovakian_lands",
+    "ver": "",
+    "val": "The Czechoslovakian Lands",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1025,
+    "indent": " ",
+    "key": "AUS_the_czechoslovakian_lands_desc",
+    "ver": "",
+    "val": "The territories just north of us in [CZE.GetNameDef] used to be part of our great empire before it all came crumbling down. To this day there are still many [GER.GetAdjective] speaking groups live in these regions and based on that is only right that they once more get to be part of our Empire reborn, whether they wish to join peacefully or not is up to them.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1027,
+    "indent": " ",
+    "key": "AUS_reclaiming_yugoslavian_territories",
+    "ver": "",
+    "val": "Reclaiming the Balkan Territories",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1028,
+    "indent": " ",
+    "key": "AUS_reclaiming_yugoslavian_territories_desc",
+    "ver": "",
+    "val": "Our great Empire once spanned all the way to the Adriatic sea. These lands were also stolen from us at the end of the Great War. By reclaiming these lands we would also reclaim a tactically important coastline. We should make a suggestion to the owners of these states that they hand them to us peacefully, or risk consequences.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1029,
+    "indent": " ",
+    "key": "AUS_reclaiming_yugoslavian_territories_tt",
+    "ver": "",
+    "val": "The Owner of §Y[102.GetName]§!, §Y[103.GetName]§! and §Y[853.GetName]§! Gets event '§YUltimatum From [AUS.GetNameDef]§!'",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1031,
+    "indent": " ",
+    "key": "AUS_take_albania",
+    "ver": "",
+    "val": "Take Albania",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1032,
+    "indent": " ",
+    "key": "AUS_take_albania_desc",
+    "ver": "",
+    "val": "[ALB.GetNameDefCap] was maybe not the most important part of our lands, in fact, it was never really ours though plans were certainly made to make it so. Yet, now as we stake out our presence in the Balkans once more, there is no reason we shouldn't claim it once more.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1034,
+    "indent": " ",
+    "key": "AUS_take_back_galicia",
+    "ver": "",
+    "val": "Take Back Galicia",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1035,
+    "indent": " ",
+    "key": "AUS_take_back_galicia_desc",
+    "ver": "",
+    "val": "As our Empire starts to grow once more we cannot shy away from demanding our rightful lands back even from bigger countries. [POL.GetNameDefCap] may be at least seen to size larger than us but Galicia still should belong to us, and if they do not give it to us willingly, we might have to use force.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1037,
+    "indent": " ",
+    "key": "AUS_demand_romanian_lands",
+    "ver": "",
+    "val": "Demand Transylvania and Bucovina",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1038,
+    "indent": " ",
+    "key": "AUS_demand_romanian_lands_desc",
+    "ver": "",
+    "val": "Having taken some land in our immediate neighboring area we may now start to look at our territories farther away. The lands we used to own in [ROM.GetNameDef] were a great asset to us and we should reclaim them as soon as possible. What the [ROM.GetAdjective] leadership thinks matters not, if they do not submit willingly we might have to consider other options.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1040,
+    "indent": " ",
+    "key": "AUS_integrate_northwest",
+    "ver": "",
+    "val": "Integrate Böhmen",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1041,
+    "indent": " ",
+    "key": "AUS_integrate_northwest_desc",
+    "ver": "",
+    "val": "To make better use of the territories that we have now reclaimed as ours we must make sure that the nation stays unified. The states that turn out to be the most willing and useful must be integrated into the Empire proper as soon as possible. The territories we claimed from [CZE.GetNameDef] have proven most promising. We should commence integration efforts at once!",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1043,
+    "indent": " ",
+    "key": "AUS_integrate_hungary",
+    "ver": "",
+    "val": "Integrate Hungary",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1044,
+    "indent": " ",
+    "key": "AUS_integrate_hungary_desc",
+    "ver": "",
+    "val": "To make better use of the territories that we have now reclaimed as ours we must make sure that the nation stays unified. The states that turn out to be the most willing and useful must be integrated into the Empire proper as soon as possible. The territories we claimed from [HUN.GetNameDef] have proven most promising. We should commence integration efforts at once!",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1046,
+    "indent": " ",
+    "key": "AUS_proclaim_austrian_empire",
+    "ver": "",
+    "val": "Proclaim the Austrian Empire",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1047,
+    "indent": " ",
+    "key": "AUS_proclaim_austrian_empire_desc",
+    "ver": "",
+    "val": "Our efforts of rebuilding and re-establishing our Empire has finally paid off. We have conquered all of our old territories and can rightfully call ourselves an Empire once more!",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1049,
+    "indent": " ",
+    "key": "AUS_beyond_our_old_lands",
+    "ver": "",
+    "val": "Beyond Our Old Lands",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1050,
+    "indent": " ",
+    "key": "AUS_beyond_our_old_lands_desc",
+    "ver": "",
+    "val": "As we have grown into a major power again the question presents itself. We control all of our old lands, but why stop here? With the power we currently possess expanding further should prove no problem.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1052,
+    "indent": " ",
+    "key": "AUS_join_the_axis",
+    "ver": "",
+    "val": "Strength in Numbers",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1053,
+    "indent": " ",
+    "key": "AUS_join_the_axis_desc",
+    "ver": "",
+    "val": "Strong as we are on our own there is no denying that being part of some form of military alliance would benefit both us and the alliance we were to seek to join. We should consider approaching the faction most closely aligned to us and seeking permission to join.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1054,
+    "indent": " ",
+    "key": "AUS_join_the_axis_tt",
+    "ver": "",
+    "val": "§R[GER.GetNameWithFlag] is very unlikely to accept us as a member of the [GER.GetFactionName], even with stellar relations they might still reject!§!",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1056,
+    "indent": " ",
+    "key": "AUS_reforming_the_central_powers",
+    "ver": "",
+    "val": "Reform the Central Powers",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1057,
+    "indent": " ",
+    "key": "AUS_reforming_the_central_powers_desc",
+    "ver": "",
+    "val": "While we do agree that being part of a military alliance would be a boost to our strength, looking at our available options we do not feel that they are entirely up to our standards. During the Great War we were part of the mighty Central Powers, lacking a better option we should consider reforming this faction.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1058,
+    "indent": " ",
+    "key": "AUS_reforming_the_central_powers_tt",
+    "ver": "",
+    "val": "Invites §Y[GER.GetNameWithFlag]§!, §Y[TUR.GetNameWithFlag]§!, and §Y[BUL.GetNameWithFlag]§! to the §YCentral Powers§! if they are §YFascist§! or §YNon-Aligned§! and not currently in a faction.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1060,
+    "indent": " ",
+    "key": "AUS_for_a_better_future",
+    "ver": "",
+    "val": "An [AUS.GetAdjective] Future",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1061,
+    "indent": " ",
+    "key": "AUS_for_a_better_future_desc",
+    "ver": "",
+    "val": "Looking back our goals has always been pertaining to rebuilding what was lost. Now that this has been achieved we need to start looking forward towards our future.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1064,
+    "indent": " ",
+    "key": "AUS_war_against_bolshevism",
+    "ver": "",
+    "val": "The War Against Bolshevism",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1065,
+    "indent": " ",
+    "key": "AUS_war_against_bolshevism_desc",
+    "ver": "",
+    "val": "The [SOV.GetAdjective] bolsheviks to our east has been a constant thorn in our side. In the interest of not being caught off guard we should ensure that we are the ones that strike first.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1067,
+    "indent": " ",
+    "key": "AUS_crusade_on_communism",
+    "ver": "",
+    "val": "Crusade on Communism",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1068,
+    "indent": " ",
+    "key": "AUS_crusade_on_communism_desc",
+    "ver": "",
+    "val": "So long as there are communists on the European continent our country and its' people are not safe. We need to put an end to this red threat before it becomes a real source of trouble.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1069,
+    "indent": " ",
+    "key": "AUS_crusade_on_communism_tt",
+    "ver": "",
+    "val": "Gains §YAnnex§! wargoal on all §YCommunist§! nations in §YEurope§!",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1070,
+    "indent": " ",
+    "key": "AUS_crusade_on_communism_d_tt",
+    "ver": "",
+    "val": "Gains §YTopple Government§! wargoal on all §YCommunist§! nations in §YEurope§!",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1072,
+    "indent": " ",
+    "key": "AUS_repeal_the_may_constitution",
+    "ver": "",
+    "val": "Repeal the May Constitution",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1073,
+    "indent": " ",
+    "key": "AUS_repeal_the_may_constitution_desc",
+    "ver": "",
+    "val": "The so called May Constitution installed by Engelbert Dolfuss in 1934 has hampered the politics of [AUS.GetNameDef] for the last few years. Political parties have been banned stripping the nation of all possibilities of change for the better. We must repeal this unjust constitution if our country is ever to flourish again.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1075,
+    "indent": " ",
+    "key": "AUS_austria_against_fascism",
+    "ver": "",
+    "val": "Reichsbund der Österreicher",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1076,
+    "indent": " ",
+    "key": "AUS_austria_against_fascism_desc",
+    "ver": "",
+    "val": "As our nation recovers from the political isolation that we have endured, it is no surprise to see political groups emerging as people finally dare to speak their mind. The legitimist Reichsbund Der Österreich is one such group. Conveniently their political agenda overlaps what we have planned for the nation. We should make sure to make the most out of this cooperation.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1078,
+    "indent": " ",
+    "key": "AUS_reinstate_the_imperial_council",
+    "ver": "",
+    "val": "Reinstate the Herrenhaus",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1079,
+    "indent": " ",
+    "key": "AUS_reinstate_the_imperial_council_desc",
+    "ver": "",
+    "val": "Much like we expected our people are expressing a wish to return to the old times. We have no need for a clearly flawed system that could be abused like the fascists did in the Self-Elimination of the Parliament in 1934 any more. The single person rule was always a safe, and well received system back in the Dual Monarchy, it is time we bring it back.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1081,
+    "indent": " ",
+    "key": "AUS_legacy_of_the_empire",
+    "ver": "",
+    "val": "The Legacy of an Empire",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1082,
+    "indent": " ",
+    "key": "AUS_legacy_of_the_empire_desc",
+    "ver": "",
+    "val": "While we currently are but a shadow of our past as a mighty empire, nothing says that we cannot aspire to rebuild what we once were. By stoking monarchist sentiments in our nation we can prime it for becoming a powerful monarchy once more.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1083,
+    "indent": " ",
+    "key": "AUS_imperilalist_sentiments",
+    "ver": "",
+    "val": "Imperialist Sentiments",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1085,
+    "indent": " ",
+    "key": "AUS_bring_back_the_habsburg_rule",
+    "ver": "",
+    "val": "Carrying the Crown",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1086,
+    "indent": " ",
+    "key": "AUS_bring_back_the_habsburg_rule_desc",
+    "ver": "",
+    "val": "For us to earn ourselves the name of a true Kingdom we need to crown a King to lead our country. Our current regent will surely make a fine king, and we should prepare for his coronation immediately.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1087,
+    "indent": " ",
+    "key": "AUS_bring_back_the_habsburg_rule_tt",
+    "ver": "",
+    "val": "If your current regent is either §YOtto von Habsburg§! or §YErnst Rüdiger Starhemberg§! they will be crowned Archduke of Austria and gain the trait:\\n\\n §YArchduke of Austria§!:\\n  - Political Power Gain: §G+10%§!\\n  - Recruitable Population: §Y0.50%§!\\n  - Stability: §G+5%§!\\n  - War Support: §G+5%§!\\n  - Daily Support for Unaligned: §G+0.03§!",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1089,
+    "indent": " ",
+    "key": "AUS_repeal_the_habsburgergesetz",
+    "ver": "",
+    "val": "Repeal the Habsburgergesetz",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1090,
+    "indent": " ",
+    "key": "AUS_repeal_the_habsburgergesetz_desc",
+    "ver": "",
+    "val": "The Habsburgergesetz was enacted in 1919 after the Great War and severely limited the rights and powers of the Habsburg family. No matter who currently rules our country now this law was a stain upon [AUS.GetNameDef]'s reputation as a monarchy and it must be repealed immediately.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1092,
+    "indent": " ",
+    "key": "AUS_rebellious_rearmament",
+    "ver": "",
+    "val": "Rebellious Rearmament",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1093,
+    "indent": " ",
+    "key": "AUS_rebellious_rearmament_desc",
+    "ver": "",
+    "val": "For too long has [AUS.GetNameDef] been bound by the deeply unjust and highly troubling Treaty of Saint-Germain-En-Laye without any way out. By reinstalling the monarchy we are already somewhat in breach of the treaty and there should be no reason for us to abide by the rest of these points either. It is time we abolish this disastrous treaty!",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1095,
+    "indent": " ",
+    "key": "AUS_strengthen_legitimistische_corps",
+    "ver": "",
+    "val": "Strengthen Legitimistische Corps",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1096,
+    "indent": " ",
+    "key": "AUS_strengthen_legitimistische_corps_desc",
+    "ver": "",
+    "val": "The Legitimistische Corps started out as a student organization for [AUS.GetAdjective] nobles enrolled in upper education in our country. Initially they were not much more than a gathering of students with similar interests but as the political climate became harsher they have become increasingly militaristic. We should consider recruiting from them to speed up deployment times.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1098,
+    "indent": " ",
+    "key": "AUS_legitimistische_studentenverbindung",
+    "ver": "",
+    "val": "Legitimistische Studentenverbindung",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1099,
+    "indent": " ",
+    "key": "AUS_legitimistische_studentenverbindung_desc",
+    "ver": "",
+    "val": "The student interest organization Legitimistische Studentenverbindung caters to the loyalist students in all levels of educations. Less militaristic than the Corps they are more in favor of discourse and debates, as well as science. Their interests and staunch loyalty to the crown could prove most useful to us!",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1101,
+    "indent": " ",
+    "key": "AUS_legitimistische_jugend",
+    "ver": "",
+    "val": "Legitimistische Jugend",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1102,
+    "indent": " ",
+    "key": "AUS_legitimistische_jugend_desc",
+    "ver": "",
+    "val": "We have seen that giving children and adolescents an early introduction to the monarchy and all its core values lets them grow into loyal and happy citizens, that both work, and if needed, fight for our nation. There is fearmongering calling this a slippery slope into much worse things but we are certain that this education will be purely beneficial to them.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1104,
+    "indent": " ",
+    "key": "AUS_repeal_the_adelsaufhebungsgesetz",
+    "ver": "",
+    "val": "Repeal the Adelsaufhebungsgesetz",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1105,
+    "indent": " ",
+    "key": "AUS_repeal_the_adelsaufhebungsgesetz_desc",
+    "ver": "",
+    "val": "The Adelsaufhebungsgesetz came into effect alongside the Habsburgergesetz and effectively abolished the existence of [AUS.GetAdjective] nobility. Titles, honorary privileges and power was stripped from these families at the flick of a wrist. This law is obviously wrongful, and by restoring our nobles and their family pride we can ascertain their loyalty in the future.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1107,
+    "indent": " ",
+    "key": "AUS_the_evidenzburo",
+    "ver": "",
+    "val": "The Evidenzbureau",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1108,
+    "indent": " ",
+    "key": "AUS_the_evidenzburo_desc",
+    "ver": "",
+    "val": "Along with so many other of our carefully crafted systems the Evidenzbureau was dismantled at the end of the Great War. Since we are no longer bound by this treaty there is no reason that we should abide by this folly that is not being allowed an intelligence agency any longer either.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1109,
+    "indent": " ",
+    "key": "AUS_the_evidenzburo_bonus",
+    "ver": "",
+    "val": "Evidenzbureau",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1111,
+    "indent": " ",
+    "key": "AUS_a_royal_alliance",
+    "ver": "",
+    "val": "A Royal Alliance",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1112,
+    "indent": " ",
+    "key": "AUS_a_royal_alliance_desc",
+    "ver": "",
+    "val": "It is lonely at the top, and as one of few currently existing monarchies it seems only right that we seek to join arms with those that still see the value of having a strong monarch rule their country. We must reach out to those like minded to us and propose that we ally ourselves against the greater evil.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1113,
+    "indent": " ",
+    "key": "AUS_a_royal_alliance_tt1",
+    "ver": "",
+    "val": "Invites §Y[ENG.GetNameWithFlag]§! to the §Y$AUS_a_royal_alliance$§!",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1114,
+    "indent": " ",
+    "key": "AUS_a_royal_alliance_tt2",
+    "ver": "",
+    "val": "Invites §Y[FRA.GetNameWithFlag]§! to the §Y$AUS_a_royal_alliance$§!",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1116,
+    "indent": " ",
+    "key": "AUS_sturmscharen_support",
+    "ver": "",
+    "val": "Gain Sturmscharen Support",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1117,
+    "indent": " ",
+    "key": "AUS_sturmscharen_support_desc",
+    "ver": "",
+    "val": "The Sturmscharen has always acted as a middle way between the Social Democratic Schutzbund and the Nationalist Heimwehr. While historically lead by our opponent Kurt Schuschnigg we believe that the with political overlap and our traditional values we could gain the support of the Ostmärkische Sturmscharen and have them work for us instead.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1119,
+    "indent": " ",
+    "key": "AUS_eiserne_legion",
+    "ver": "",
+    "val": "Establish Eiserne Legion",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1120,
+    "indent": " ",
+    "key": "AUS_eiserne_legion_desc",
+    "ver": "",
+    "val": "With our leadership now reworked and paramilitary organizations once again allowed the possibility to establish an elite guard specifically for [ROOT.GetLeader] has appeared. A small group of formerly fascist aligned officials have stepped up as volunteers to establish an elite guard to suppress the opposition and controlling the masses. This is a great opportunity for us!",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1122,
+    "indent": " ",
+    "key": "AUS_the_royals_of_liechtenstein",
+    "ver": "",
+    "val": "Inviting the Royals of Liechtenstein",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1123,
+    "indent": " ",
+    "key": "AUS_the_royals_of_liechtenstein_desc",
+    "ver": "",
+    "val": "We have historically had close ties to Liechtenstein, a recent prince of theirs, Franz Joseph I, even took an [AUS.GetAdjective] woman as his wife. With Ferdinand being childless the crown was to be assumed by either Alois or Johannes of Liechtenstein, both have however renounced their claims on the crown. The two princes now offer their help to us, we should make good use of this offer!",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1125,
+    "indent": " ",
+    "key": "AUS_osterreichische_akademie",
+    "ver": "",
+    "val": "Österreichische Akademie",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1126,
+    "indent": " ",
+    "key": "AUS_osterreichische_akademie_desc",
+    "ver": "",
+    "val": "The Österreichische Akademie der Wissenschaften was established in 1846 by a handwritten decree from Emperor Ferdinand I. Since then the academy has grown from a small scientific association and society to a respectable academy, fostering Nobel Prize winners. The academy struggled during our financial crisis, but an investment from us is sure to bring it back on track, and bring us great profit in the future.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1128,
+    "indent": " ",
+    "key": "AUS_royal_scientific_grants",
+    "ver": "",
+    "val": "Royal Scientific Grants",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1129,
+    "indent": " ",
+    "key": "AUS_royal_scientific_grants_desc",
+    "ver": "",
+    "val": "Our investments into the Österreichische Akademie der Wissenschaften has been most beneficial to both us and the academy and we are now considering whether to bring this partnership to the next level. Many talented scientists currently work for the academy and with some persuasion we should be able to have them work on our own projects as well.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1131,
+    "indent": " ",
+    "key": "AUS_demand_hungarian_submission",
+    "ver": "",
+    "val": "Demand [HUN.GetAdjective] Submission",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1132,
+    "indent": " ",
+    "key": "AUS_demand_hungarian_submission_desc",
+    "ver": "",
+    "val": "For a very long time we prospered as a dual monarchy together with [HUN.GetNameDef]. While this arrangement worked then, they proved less apt at statecraft than us, and what little they did for our nation left much to be wished for. By making them a puppet regime of ours, we could have the best parts of the Dual Monarchy, yet avoiding the worst.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1133,
+    "indent": " ",
+    "key": "AUS_demand_hungarian_submission_tt",
+    "ver": "",
+    "val": "Unlocks decisions to §YSubjugate [HUN.GetNameDef]§! and separate decisions to §YIncrease Probability for Diplomatic Subjugation§!.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1135,
+    "indent": " ",
+    "key": "AUS_subjugate_lands_of_old",
+    "ver": "",
+    "val": "Subjugate the Lands of Old",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1136,
+    "indent": " ",
+    "key": "AUS_subjugate_lands_of_old_desc",
+    "ver": "",
+    "val": "With the immediate issue dealt with we must start expanding back to our former borders. While we have full faith in our diplomats, and should it come to that, army, it would be wise of us to plan this expansion in steps instead of starting an all out offensive on all fronts.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1137,
+    "indent": " ",
+    "key": "AUS_subjugate_lands_of_old_tt",
+    "ver": "",
+    "val": "Unlocks decisions to §YSubjugate the Old Lands§! and separate decisions to §YIncrease Probability for Diplomatic Subjugation§!.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1139,
+    "indent": " ",
+    "key": "AUS_the_silesian_question",
+    "ver": "",
+    "val": "The Silesian Question",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1140,
+    "indent": " ",
+    "key": "AUS_the_silesian_question_desc",
+    "ver": "",
+    "val": "The Silesian lands were long a part of our vast empire. Though not connected to our heartland, these states still hold a very large value to us. We should request these states back.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1142,
+    "indent": " ",
+    "key": "AUS_reclaim_habsburg",
+    "ver": "",
+    "val": "Reclaim Habsburg",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1143,
+    "indent": " ",
+    "key": "AUS_reclaim_habsburg_desc",
+    "ver": "",
+    "val": "Our own homelands are still not within our control. The Habsburgs have not forgotten their humble beginnings in the village of Habsburg, even while the family was noble they were considered low nobles. Things have changed, it is time to reclaim homelands.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1144,
+    "indent": " ",
+    "key": "AUS_reclaim_habsburg_tt",
+    "ver": "",
+    "val": "They are more likely to accept if we are §GStronger§! than them.\\n\\nUnlocks decisions to §YReintegrate Swiss States§!.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1146,
+    "indent": " ",
+    "key": "AUS_war_against_guarantors",
+    "ver": "",
+    "val": "The War Against the Guarantors",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1147,
+    "indent": " ",
+    "key": "AUS_war_against_guarantors_desc",
+    "ver": "",
+    "val": "The texts in the despicable Treaty of Saint-Germain-En-Laye were clear, if we were to need help defending our independence, we were to be given that. That proved to be just empty words to keep us contained. Now that we are slowly coming back to power it is time that we get our sweet revenge. We shall teach them to never mess with [ROOT.GetNameDef] again!",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1149,
+    "indent": " ",
+    "key": "AUS_tighten_control_of_subjects",
+    "ver": "",
+    "val": "Controlling the Subjects",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1150,
+    "indent": " ",
+    "key": "AUS_tighten_control_of_subjects_desc",
+    "ver": "",
+    "val": "We have established ourselves as overlords of some of our old lands and while this certainly is great, we cannot stop here. These puppet nations of ours deserve to be lead by great leaders just as we are, thankfully, we know just the people!",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1151,
+    "indent": " ",
+    "key": "AUS_tighten_control_of_subjects_tt",
+    "ver": "",
+    "val": "If §YOtto von Habsburg§! is the current ruler of §Y[ROOT.GetNameWithFlag]§!, unlocks decisions to §YInstall a Habsburg Monarch§! in §Y[HUN.GetNameWithFlag]§!, §Y[CZE.GetNameWithFlag]§! and §Y[POL.GetNameWithFlag]§! once we have subjugated them.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1152,
+    "indent": " ",
+    "key": "AUS_tighten_control_of_subjects_tt2",
+    "ver": "",
+    "val": "Unlocks decisions to §YInstall a Habsburg Monarch§! in §Y[HUN.GetNameWithFlag]§!, §Y[CZE.GetNameWithFlag]§! and §Y[POL.GetNameWithFlag]§! once we have subjugated them.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1154,
+    "indent": " ",
+    "key": "AUS_renew_claims_in_italy",
+    "ver": "",
+    "val": "Renew Claims in [ITA.GetNameDef]",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1155,
+    "indent": " ",
+    "key": "AUS_renew_claims_in_italy_desc",
+    "ver": "",
+    "val": "Back when the territories were split after the Great War, the [ITA.GetAdjective]s took Alto Adige and Trentino from us, despite not really wanting it. With our power now largely rebuilt, it is well within our right to demand they hand our rightful territories back to us.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1157,
+    "indent": " ",
+    "key": "AUS_extend_italian_claims",
+    "ver": "",
+    "val": "Extend Our [ITA.GetAdjective] Claims",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1158,
+    "indent": " ",
+    "key": "AUS_extend_italian_claims_desc",
+    "ver": "",
+    "val": "We have set our course for how we wish to deal with the states that [ITA.GetNameDef] stole from us at the end of the Great War. We never owned [160.GetName] and [159.GetName] but they were always states of high interest for us. Having already claimed what we previously owned, why not take this a step further and take what we wanted, and still want?",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1159,
+    "indent": " ",
+    "key": "AUS_extend_italian_claims_tt",
+    "ver": "",
+    "val": "Unlocks decisions to §YReintegrate Italian Claims§!.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1161,
+    "indent": " ",
+    "key": "AUS_strike_deal_with_italy",
+    "ver": "",
+    "val": "Strike a Deal With [ITA.GetNameDef]",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1162,
+    "indent": " ",
+    "key": "AUS_strike_deal_with_italy_desc",
+    "ver": "",
+    "val": "We have had wishes to own Trentino and Alto Adige in Northern Italy since these were taken from us at the end of the Great War. The [ITA.GetAdjective]s back then expressed that they had no wish to have these territories now forced upon them, just to keep us from them. With some diplomatic effort we should be able to strike a deal with them regarding these territories.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1166,
+    "indent": " ",
+    "key": "AUS_the_danubian_federation",
+    "ver": "",
+    "val": "The Danubian Federation",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1167,
+    "indent": " ",
+    "key": "AUS_the_danubian_federation_desc",
+    "ver": "",
+    "val": "With our unique placement in the midst of Europe we have all the potential to become very influential without the need of explicit territorial gains. As important as the power of our army is, is the power that our words and diplomatic actions holds. By forming a community around the Danube we could have a diplomatic reach and power far beyond our own borders.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1169,
+    "indent": " ",
+    "key": "AUS_invite_danubian_countries",
+    "ver": "",
+    "val": "Invite the Danubian Countries",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1170,
+    "indent": " ",
+    "key": "AUS_invite_danubian_countries_desc",
+    "ver": "",
+    "val": "With our declaration of intent out in the open for everyone to see it is time to expand this federation to be the best that it could possibly be. Our first step naturally needs to be to invite the other Danubian nations that currently stands alone to join us.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1171,
+    "indent": " ",
+    "key": "AUS_invite_danubian_countries_tt",
+    "ver": "",
+    "val": "Unlocks decisions to §YInvite Danubian Countries to the Danubian Federation§!",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1173,
+    "indent": " ",
+    "key": "AUS_danubian_unity",
+    "ver": "",
+    "val": "Danubian Unity",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1174,
+    "indent": " ",
+    "key": "AUS_danubian_unity_desc",
+    "ver": "",
+    "val": "With our federation growing at a steady pace we must ensure that we do not forget our own country and internal politics either. Our people must know about the greatness that this faction of ours will bring them!",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1176,
+    "indent": " ",
+    "key": "AUS_inviting_the_observers",
+    "ver": "",
+    "val": "Inviting the Observers",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1177,
+    "indent": " ",
+    "key": "AUS_inviting_the_observers_desc",
+    "ver": "",
+    "val": "As our faction grows it is becoming all the more clear that we can be a force to be reckoned with in Europe. The Danube carries an important role not only for the countries which it runs through, but also for the countries who rely upon it for shipments. We should consider inviting these countries into the [ROOT.GetFactionName]",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1178,
+    "indent": " ",
+    "key": "AUS_inviting_the_observers_tt",
+    "ver": "",
+    "val": "Unlocks decisions to §YInvite more nations to the Danubian Federation§!",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1180,
+    "indent": " ",
+    "key": "AUS_unexpected_alliances",
+    "ver": "",
+    "val": "Unexpected Allies",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1181,
+    "indent": " ",
+    "key": "AUS_unexpected_alliances_desc",
+    "ver": "",
+    "val": "We must keep our minds open for any and all Danubian nation that might wish to join our faction. No matter our past differences we must reach out and invite them to stand by our side for Danubian Unity.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1183,
+    "indent": " ",
+    "key": "AUS_diplomatic_effort",
+    "ver": "",
+    "val": "Danubian Diplomacy",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1184,
+    "indent": " ",
+    "key": "AUS_diplomatic_effort_desc",
+    "ver": "",
+    "val": "To remain the strong leader that our federation deserves we must make sure that we are well liked by all of our members. We should up our diplomatic efforts to entertain and deepen our relations within the federation.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1185,
+    "indent": " ",
+    "key": "AUS_diplomatic_effort_tt",
+    "ver": "",
+    "val": "Once we have §Yexpanded our federation§! we will by diplomatic efforts §Yimprove relations with the other members§!.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1186,
+    "indent": " ",
+    "key": "AUS_danubian_leader",
+    "ver": "",
+    "val": "Protector of Danubian Interests",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1188,
+    "indent": " ",
+    "key": "AUS_protector_of_the_danube",
+    "ver": "",
+    "val": "The Protector of the Danube",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1189,
+    "indent": " ",
+    "key": "AUS_protector_of_the_danube_desc",
+    "ver": "",
+    "val": "With the continuously deteriorating situation in our immediately neighboring lands measures must be taken to ascertain the longevity and security of all of our members. As the leader of the [ROOT.GetFactionName] this responsibility must fall upon us.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1190,
+    "indent": " ",
+    "key": "AUS_protector_of_the_danube_tt",
+    "ver": "",
+    "val": "Unlocks decisions to §YSuggest unifying into a federative state§! and §YSway members to our side§!\\n\\n§RMajor powers are highly unlikely to accept this unless either they are significantly weakened, or [AUS.GetNameDef] is an even greater power!§!",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1192,
+    "indent": " ",
+    "key": "AUS_via_danube_to_europe",
+    "ver": "",
+    "val": "Via the Danube to Europe",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1193,
+    "indent": " ",
+    "key": "AUS_via_danube_to_europe_desc",
+    "ver": "",
+    "val": "We have garnered a rather respectable faction around us and though we could stop here, we could also look beyond the Danube. A Europe-wide faction focused on collaboration and community within Europe could prove a very worthwhile endeavor.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1194,
+    "indent": " ",
+    "key": "AUS_via_danube_to_europe_tt",
+    "ver": "",
+    "val": "Replaces §Y$AUS_the_danubian_federation_category$§! decisions with §Y$BEL_closer_european_union_cat$§! decisions allowing for inviting more countries and pushing for a §YLimited Federalization§!\\n\\n§RThis will lock the joint focus§! ''§Y$HABSBURG_an_empire_not_just_in_name$§!'' §Rwhich, if §YNon-Aligned§!, applies a §YNational Spirit§! to all subjects with the §YJoint Focus Tree§! lowering autonomy, making full integration of subjects easier§!.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1197,
+    "indent": " ",
+    "key": "AUS_the_right_to_rearm",
+    "ver": "",
+    "val": "The Right to Rearm",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1198,
+    "indent": " ",
+    "key": "AUS_the_right_to_rearm_desc",
+    "ver": "",
+    "val": "Since the Great War we have been bound by the Treaty of Saint-Germain-En-Laye to limit the size of our standing army to no more than 30000 men. With the developments around us we believe that this is no longer sustainable, and that we must be allowed the right to rearm.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1199,
+    "indent": " ",
+    "key": "AUS_the_right_to_rearm_dem_tt",
+    "ver": "",
+    "val": "As a §YDemocratic§! country, seek agreement for rearming.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1200,
+    "indent": " ",
+    "key": "AUS_the_right_to_rearm_dem_instead_tt",
+    "ver": "",
+    "val": "If [ROOT.GetNameDef] was a §YDemocratic§! country, the effect would instead seek agreement for rearming.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1201,
+    "indent": " ",
+    "key": "AUS_the_right_to_rearm_fed_tt",
+    "ver": "",
+    "val": "As a §YNon-Aligned§! country, rearm no matter the consequences.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1202,
+    "indent": " ",
+    "key": "AUS_the_right_to_rearm_fed_instead_tt",
+    "ver": "",
+    "val": "If [ROOT.GetNameDef] was a §YNon-Aligned§! country, the effect would instead rearm no matter the consequences.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1204,
+    "indent": " ",
+    "key": "AUS_defence_of_the_homeland",
+    "ver": "",
+    "val": "Defending the Homeland",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1205,
+    "indent": " ",
+    "key": "AUS_defence_of_the_homeland_desc",
+    "ver": "",
+    "val": "Now that we can finally rebuild our army we need to look into how to specialize it. Our geographical position is rather vulnerable as things stand, making our army masters of defense, and teaching them how to use our unique landscape to their advantage would be beneficial.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1207,
+    "indent": " ",
+    "key": "AUS_the_political_front",
+    "ver": "",
+    "val": "Guarding the Political Front",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1208,
+    "indent": " ",
+    "key": "AUS_the_political_front_desc",
+    "ver": "",
+    "val": "A war is not only won out on the front lines and battlefields, but just as much in the factories and on the streets. By reinforcing our political system we can ascertain that even should the worst happen, we will remain in control.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1210,
+    "indent": " ",
+    "key": "AUS_austrian_aggression",
+    "ver": "",
+    "val": "Austrian Aggression",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1211,
+    "indent": " ",
+    "key": "AUS_austrian_aggression_desc",
+    "ver": "",
+    "val": "Though defense might seem an obvious option for these times that only means laying in wait for an attack. Were we to instead bolster our forces and make sure that our army is ready to strike at any moment we could efficiently deter any potential attackers. Offense is after all the best defense.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1213,
+    "indent": " ",
+    "key": "AUS_at_the_ready",
+    "ver": "",
+    "val": "At the Ready",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1214,
+    "indent": " ",
+    "key": "AUS_at_the_ready_desc",
+    "ver": "",
+    "val": "Not only our army needs to be drilled to excellence and constant readiness. Those who support our army with equipment are to be made aware of their responsibility to the country. By making sure the workers are always ready to support our armed forces we are setting ourselves up for success.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1216,
+    "indent": " ",
+    "key": "AUS_form_evidenzburo",
+    "ver": "",
+    "val": "Reform the Evidenzbureau",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1217,
+    "indent": " ",
+    "key": "AUS_form_evidenzburo_desc",
+    "ver": "",
+    "val": "No matter our stance, aggressive or defensive, gaining intelligence on potential enemies is of utmost importance. We cannot allow ourselves to be caught off guard by our enemies' strength, speed or coordination, nor can we let them obtain information about us. It is time we reform the old Evidenzbureau to suit our current needs.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1218,
+    "indent": " ",
+    "key": "AUS_form_evidenzburo_tt",
+    "ver": "",
+    "val": "Applied upgrades to the agency will depend on [ROOT.GetNameDef]'s choice between §YDefending the Homeland§! or §YAustrian Aggression§!",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1221,
+    "indent": " ",
+    "key": "AUS_release_imprisoned_leaders",
+    "ver": "",
+    "val": "Legalize Political Opposition",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1222,
+    "indent": " ",
+    "key": "AUS_release_imprisoned_leaders_desc",
+    "ver": "",
+    "val": "As our nation gradually became more authoritarian those who dared oppose it were swiftly imprisoned. These imprisonments were entirely unjust and purely based on politics. We should release those imprisoned and make political opposition legal again.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1224,
+    "indent": " ",
+    "key": "AUS_hold_elections",
+    "ver": "",
+    "val": "Hold Elections",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1225,
+    "indent": " ",
+    "key": "AUS_hold_elections_desc",
+    "ver": "",
+    "val": "With our last election being held the 9th of November in 1930, before the 'Self-Elimination of the Parliament' in 1934, our people have all but lost faith in the [ROOT.GetAdjective] democracy. It should be our first priority to restore the faith and let the people have their say!",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1227,
+    "indent": " ",
+    "key": "AUS_rebuild_democratic_systems",
+    "ver": "",
+    "val": "Rebuild the Democratic Systems",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1228,
+    "indent": " ",
+    "key": "AUS_rebuild_democratic_systems_desc",
+    "ver": "",
+    "val": "A democratic system is something very delicate, it is easy to dismantle, but difficult to build or restore. But for the sake of the people this is something that must be done at once. Parties that promote dictatorships must be banned, for the sake of the nation.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1229,
+    "indent": " ",
+    "key": "AUS_rebuild_democratic_systems_tt",
+    "ver": "",
+    "val": "The current §YFascist§! party §YDNSAP§!, will be banned and:",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1231,
+    "indent": " ",
+    "key": "AUS_a_new_constitution",
+    "ver": "",
+    "val": "A New Constitution",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1232,
+    "indent": " ",
+    "key": "AUS_a_new_constitution_desc",
+    "ver": "",
+    "val": "Our last constitutional revision ended in disaster with the May Constitution and an authoritarian regime tightening their grasp of the country. We must ensure no such thing can happen ever again by re-establishing a strictly democratic constitution.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1234,
+    "indent": " ",
+    "key": "AUS_seek_support_from_guarantors",
+    "ver": "",
+    "val": "Seek Support from the Guarantors",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1235,
+    "indent": " ",
+    "key": "AUS_seek_support_from_guarantors_desc",
+    "ver": "",
+    "val": "The Treaty of Saint-Germain-En-Laye carries many restrictions for us, but there are silver linings. Since we have been disallowed to have any form of respectable army, the so called guarantors are to protect us. We should reach out to them and request this support.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1236,
+    "indent": " ",
+    "key": "AUS_seek_support_from_guarantors_tt",
+    "ver": "",
+    "val": "They are more likely to respond positively if they have a §GHigh§! opinion of us.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1238,
+    "indent": " ",
+    "key": "AUS_stabilize_the_political_climate",
+    "ver": "",
+    "val": "Stabilize the Political Climate",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1239,
+    "indent": " ",
+    "key": "AUS_stabilize_the_political_climate_desc",
+    "ver": "",
+    "val": "Perhaps a remnant from when political parties were banned our current opposition is radical and extreme. We need to make sure they comply with current laws and they will be at no risk of being prohibited. This lenient stance should grant us support from their less radical followers as well.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1241,
+    "indent": " ",
+    "key": "AUS_outlaw_the_radicals",
+    "ver": "",
+    "val": "Outlaw the Radicals",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1242,
+    "indent": " ",
+    "key": "AUS_outlaw_the_radicals_desc",
+    "ver": "",
+    "val": "We are in a most delicate of political situations. Now is not the time for infighting between radical parties on different ends of the political spectrum. Until the worst has passed we cannot let them spew their vile propaganda!",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1244,
+    "indent": " ",
+    "key": "AUS_strengthen_the_cabinet",
+    "ver": "",
+    "val": "Strengthening the Cabinet",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1245,
+    "indent": " ",
+    "key": "AUS_strengthen_the_cabinet_desc",
+    "ver": "",
+    "val": "While democratic sentiments have spread decently fast throughout [ROOT.GetNameDef] our Cabinet still remains relatively weak. The power should of course belong to the people, and only by extension the Parliament and the Cabinet, that said, to effectively govern, the Cabinet must be prioritized.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1247,
+    "indent": " ",
+    "key": "AUS_pardon_political_exiles",
+    "ver": "",
+    "val": "Pardon Political Exiles",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1248,
+    "indent": " ",
+    "key": "AUS_pardon_political_exiles_desc",
+    "ver": "",
+    "val": "During the time of the so-called Corporate State under the reign of Austrofascism, many brilliant politicians fled our country. We should extend the offer for them to return, regardless of their political stance.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1250,
+    "indent": " ",
+    "key": "AUS_join_the_allies",
+    "ver": "",
+    "val": "Join the Allies",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1251,
+    "indent": " ",
+    "key": "AUS_join_the_allies_desc",
+    "ver": "",
+    "val": "Traditionally we have always regarded ourselves as strongest on our own, yet, as the situation around us continues to deteriorate, we are forced to face the fact, that this might not be true. Being all alone is not always the best option. We should seek to join a strong democratic faction.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1252,
+    "indent": " ",
+    "key": "AUS_join_the_allies_tt",
+    "ver": "",
+    "val": "The likelihood of being accepted as a member depends on being democratic and your opinion with the faction leader.\\n\\nIf we are rejected, we will be able to start our own faction instead.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1254,
+    "indent": " ",
+    "key": "AUS_industrial_exchange",
+    "ver": "",
+    "val": "Exchange of Knowledge",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1255,
+    "indent": " ",
+    "key": "AUS_industrial_exchange_desc",
+    "ver": "",
+    "val": "We have much to learn from our new allies, particularly in the matter of construction, but just as well in terms of military strategies. As our allies willingly share this information with us we should make the most of this.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1257,
+    "indent": " ",
+    "key": "AUS_alpine_federation_focus",
+    "ver": "",
+    "val": "The Alpine Federation",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1258,
+    "indent": " ",
+    "key": "AUS_alpine_federation_focus_desc",
+    "ver": "",
+    "val": "We no longer feel that standing on our own is the best choice for [ROOT.GetNameDef], however, no other faction seems a viable option. This would be an excellent opportunity for us to reach out to the rest of the Alpine region with a proposal.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1259,
+    "indent": " ",
+    "key": "AUS_alpine_federation_focus_tt",
+    "ver": "",
+    "val": "Invites §Y[SWI.GetNameWithFlag]§!, §Y[FRA.GetNameWithFlag]§! and §Y[ITA.GetNameWithFlag]§! to your faction as long as they are §YDemocratic§! or §YNon-Aligned§! and not currently in a faction.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1261,
+    "indent": " ",
+    "key": "AUS_invite_the_entente",
+    "ver": "",
+    "val": "Inviting the Little Entente",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1262,
+    "indent": " ",
+    "key": "AUS_invite_the_entente_desc",
+    "ver": "",
+    "val": "Our faction would benefit from more members in the area even if it means stretching beyond our alpine roots. The little Entente was formed to defend against the return of the Habsburgs, and since we are now on the same side, why not invite them?",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1263,
+    "indent": " ",
+    "key": "AUS_invite_the_entente_tt",
+    "ver": "",
+    "val": "Invites §Y[YUG.GetNameWithFlag]§!, §Y[ROM.GetNameWithFlag]§! and §Y[CZE.GetNameWithFlag]§! to your faction as long as they are §YDemocratic§! or §YNon-Aligned§! and not currently in a faction.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1265,
+    "indent": " ",
+    "key": "AUS_offensive_on_the_fascists",
+    "ver": "",
+    "val": "Anti-Fascist Offensive",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1266,
+    "indent": " ",
+    "key": "AUS_offensive_on_the_fascists_desc",
+    "ver": "",
+    "val": "We can no longer ignore the fact that our southern neighbor is the source of many of our issues. While diplomacy is always our preferred method, sometimes more drastic intervention is needed.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1268,
+    "indent": " ",
+    "key": "AUS_lawmaking_leniency",
+    "ver": "",
+    "val": "Lawmaking Leniency",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1269,
+    "indent": " ",
+    "key": "AUS_lawmaking_leniency_desc",
+    "ver": "",
+    "val": "Our system for passing new laws is archaic and in dire need of a review. In times like these we need to be able to pass new laws quickly as the situation changes from day to day. We should consider lobbying for a more streamlined lawmaking process.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1271,
+    "indent": " ",
+    "key": "AUS_empowering_the_chancellor",
+    "ver": "",
+    "val": "Empowering the Chancellor",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1272,
+    "indent": " ",
+    "key": "AUS_empowering_the_chancellor_desc",
+    "ver": "",
+    "val": "The role of our country's Chancellor is not an easy one to bear. [ROOT.GetNameDefCap] would not be where it is today if not for [ROOT.GetLeader], and while we must not become a personality cult, we may want to make this appreciation of our Chancellor known.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1274,
+    "indent": " ",
+    "key": "AUS_join_the_research_program",
+    "ver": "",
+    "val": "Joint Research Programs",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1275,
+    "indent": " ",
+    "key": "AUS_join_the_research_program_desc",
+    "ver": "",
+    "val": "Now that we are in a faction of like minded countries we should attempt to benefit as much as possible from this. By forming a tech sharing group for us and our allies, we can strengthen the faction as a whole by technological brilliance.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1276,
+    "indent": " ",
+    "key": "AUS_join_the_research_program_tt",
+    "ver": "",
+    "val": "§Y[ROOT.GetNameDef]§!, and every country in a faction with us, will join a §YTech Sharing Group§!",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1278,
+    "indent": " ",
+    "key": "AUS_the_right_to_self_determination",
+    "ver": "",
+    "val": "Our Right to Self-Determination",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1279,
+    "indent": " ",
+    "key": "AUS_the_right_to_self_determination_desc",
+    "ver": "",
+    "val": "We have relied upon the right to self determination and its' protection before. Now we stand at the other side, and we must become the protector of those nations that now fight for their survival in the face of violent oppression!",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1281,
+    "indent": " ",
+    "key": "AUS_our_brothers_in_the_east",
+    "ver": "",
+    "val": "Our Brothers in the East",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1282,
+    "indent": " ",
+    "key": "AUS_our_brothers_in_the_east_desc",
+    "ver": "",
+    "val": "Though we have now finally re-established ourselves as a democracy there are still others that suffer in the shadows of authoritarian dictators. While we have little wish for a reunion with our [HUN.GetAdjective] brothers, we still believe they too should be allowed to make a choice for themselves. Democracy must be achieved for them as well!",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1284,
+    "indent": " ",
+    "key": "AUS_deal_with_the_german_threat",
+    "ver": "",
+    "val": "Deal with the German Threat",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1285,
+    "indent": " ",
+    "key": "AUS_deal_with_the_german_threat_desc",
+    "ver": "",
+    "val": "[GER.GetNameDefCap] has been a menace on our north-western border for many decades now. Their politics have been harsh and more than often has not have they voiced threats against our very existence. It is time that we end this threat, once and for all.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1287,
+    "indent": " ",
+    "key": "AUS_end_european_fascism",
+    "ver": "",
+    "val": "An End to European Fascism",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1288,
+    "indent": " ",
+    "key": "AUS_end_european_fascism_desc",
+    "ver": "",
+    "val": "No one is safe, before we all are safe. Fascism is still prominent within Europe and will without doubt spark more problems in the future. We should take action to preventing this ideology from spreading.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1289,
+    "indent": " ",
+    "key": "AUS_end_european_fascism_tt",
+    "ver": "",
+    "val": "Gains §YPuppet§! Wargoal on all §YFascist§! countries in §YEurope§!",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1290,
+    "indent": " ",
+    "key": "AUS_end_european_fascism_d_tt",
+    "ver": "",
+    "val": "Gains §YTopple Government§! Wargoal on all §YFascist§! countries in §YEurope§!",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1292,
+    "indent": " ",
+    "key": "AUS_austromarxism_focus",
+    "ver": "",
+    "val": "Austromarxism",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1293,
+    "indent": " ",
+    "key": "AUS_austromarxism_focus_desc",
+    "ver": "",
+    "val": "Pioneered by the group of Victor Adler, Otto Bauer, Karl Renner, Max Adler and Rudolf Hilferding the concept of Austromarxism has long guided us. Fueled by their different perspectives yet striving for understanding a middleground between social democracy and communism was born. It has allowed for a far broader support from the people than either of the two would on their own.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1295,
+    "indent": " ",
+    "key": "AUS_rally_the_people",
+    "ver": "",
+    "val": "Rally the People",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1296,
+    "indent": " ",
+    "key": "AUS_rally_the_people_desc",
+    "ver": "",
+    "val": "In our history there has been a multitude of coups attempted by those who share our ideals. In the hopes of not having to resort to such methods again we must rally the people to our side and press for reform.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1298,
+    "indent": " ",
+    "key": "AUS_ban_dnsap",
+    "ver": "",
+    "val": "Root out the Nationalists",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1299,
+    "indent": " ",
+    "key": "AUS_ban_dnsap_desc",
+    "ver": "",
+    "val": "Currently political parties that are a real threat to society exists within our country. Though we wish to see political opposition, we must ensure that it does so without risking our own safety. DNSAP must be truly banned, and the Vaterländische Front must been seen for what it is!",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1301,
+    "indent": " ",
+    "key": "AUS_renounce_the_treaties",
+    "ver": "",
+    "val": "Renouncing the Treaty",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1302,
+    "indent": " ",
+    "key": "AUS_renounce_the_treaties_desc",
+    "ver": "",
+    "val": "Though our government generally favors discourse and diplomacy over conflict and brash actions, in the matter of the Treaty of Saint-Germain-En-Laye we have little reason to dawdle. As our nation stabilizes and we gain back control there is no reason for us to be bound by such strict rules. We shall abolish this treaty at once.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1304,
+    "indent": " ",
+    "key": "AUS_emergency_measaures",
+    "ver": "",
+    "val": "Emergency Measures",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1305,
+    "indent": " ",
+    "key": "AUS_emergency_measaures_desc",
+    "ver": "",
+    "val": "Though we have never been proponents of Revolutions, it is becoming increasingly clear that we cannot rely on the Social Democrats to bring about the changes needed for our country to once again prosper. We must prepare ourselves to fight for the workers of [ROOT.GetNameDef]!",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1307,
+    "indent": " ",
+    "key": "AUS_schutzbund_support",
+    "ver": "",
+    "val": "Gain Schutzbund Support",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1308,
+    "indent": " ",
+    "key": "AUS_schutzbund_support_desc",
+    "ver": "",
+    "val": "Most [ROOT.GetAdjective] paramilitary groups have had nationalist, legitimist or even fascist political agendas, and they are in no short reason partly to blame for some of the many armed conflicts within our country. While Republikanischer Schutzbund has caused their fair share of problems, the fact remains that politically we are very much alike. We should recruit them to our cause.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1309,
+    "indent": " ",
+    "key": "AUS_schutzbund_support_tt",
+    "ver": "",
+    "val": "§Y3§! Units of §YSchutzbund Divisions§! will spawn in §Y[4.GetName]§! at the start of a §YCommunist§! civil war.\\n\\nThe opposing side will spawn §Y1§! instead of §R2§! units of §YHeimwehr Divisions§! in §Y[152.GetName]§!",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1311,
+    "indent": " ",
+    "key": "AUS_intervention_in_spain",
+    "ver": "",
+    "val": "Intervention in Spain",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1312,
+    "indent": " ",
+    "key": "AUS_intervention_in_spain_desc",
+    "ver": "",
+    "val": "The [SPR.GetAdjective] are currently embroiled in a violent civil war that rages across the Iberian peninsula. No matter our precarious situation we should still strive to help them, they are fighting a worthy battle against the Nationalists after all.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1314,
+    "indent": " ",
+    "key": "AUS_invite_spanish_exiles",
+    "ver": "",
+    "val": "Inviting exiles from Spain",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1315,
+    "indent": " ",
+    "key": "AUS_invite_spanish_exiles_desc",
+    "ver": "",
+    "val": "We had hoped for another outcome in the Spanish civil war. Just as we offered our help on the battlefield, we must now offer our help elsewhere and take in those that fleeing the Nationalist rule.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1316,
+    "indent": " ",
+    "key": "AUS_volunteer_effort_SPR_flag",
+    "ver": "",
+    "val": "Sent Volunteers to Spain",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1318,
+    "indent": " ",
+    "key": "AUS_celebrate_spanish_victory",
+    "ver": "",
+    "val": "Celebrating the Victory in Spain",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1319,
+    "indent": " ",
+    "key": "AUS_celebrate_spanish_victory_desc",
+    "ver": "",
+    "val": "As the violent clashes on the Iberian peninsula slowly dies out it has become clear that the Republicans have remained in control of their country. Our help has likely played a part in this victory as well, and it is only right that we ask about the possibility of compensation for our efforts.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1321,
+    "indent": " ",
+    "key": "AUS_revolution",
+    "ver": "",
+    "val": "Reclaiming Red Vienna",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1322,
+    "indent": " ",
+    "key": "AUS_revolution_desc",
+    "ver": "",
+    "val": "The time has come when it is no longer possible for us to operate merely as an opposition to the ruling party. Our people deserves better than what the current leadership can provide, and our rising popularity proves that now is the time to strike!",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1323,
+    "indent": " ",
+    "key": "AUS_revolution_tt",
+    "ver": "",
+    "val": "Having the National Spirit §YMilitia Support§! will spawn 3 units of §YSchutzbund Division§! at the start of the civil war.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1324,
+    "indent": " ",
+    "key": "AUS_revolution_tt_2",
+    "ver": "",
+    "val": "The amount of troops given to each side depends on the popularity of §YCommunism§!.\\n\\nIf the §YCommunism Support§! is above §Y60%§!, civil war will be avoided entirely.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1326,
+    "indent": " ",
+    "key": "AUS_seek_soviet_support",
+    "ver": "",
+    "val": "Seek Soviet Support",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1327,
+    "indent": " ",
+    "key": "AUS_seek_soviet_support_desc",
+    "ver": "",
+    "val": "If we are to both hold out against the [GER.GetAdjective] threat in the north and turn our country into the communist society that they deserve we are going to need support from the outside. We have had our slight ideological differences with [SOV.GetNameDef] but at our core, we still do share a lot of similarities.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1328,
+    "indent": " ",
+    "key": "AUS_seek_soviet_support_tt",
+    "ver": "",
+    "val": "§RRelying upon [SOV.GetAdjective] support now will make us unable to attack them later!§!",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1330,
+    "indent": " ",
+    "key": "AUS_politicized_general_staff",
+    "ver": "",
+    "val": "Politicized General Staff",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1331,
+    "indent": " ",
+    "key": "AUS_politicized_general_staff_desc",
+    "ver": "",
+    "val": "While we have previously seen how paramilitary groups with political agendas can end up being a true hassle for us, the same cannot be said for our regular army. An army that is well versed in our politics and shares our visions will be much more willing and capable of fighting for our safety!",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1333,
+    "indent": " ",
+    "key": "AUS_promote_the_worthy",
+    "ver": "",
+    "val": "Promoting the Worthy",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1334,
+    "indent": " ",
+    "key": "AUS_promote_the_worthy_desc",
+    "ver": "",
+    "val": "A few of our generals display great promise and loyalty to both our cause and our country. By making an example out of them and rewarding them with promotions we hope to encourage such behaviour from more of our staff!",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1336,
+    "indent": " ",
+    "key": "AUS_align_with_ussr",
+    "ver": "",
+    "val": "Align with the [SOU.GetAdjective]s",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1337,
+    "indent": " ",
+    "key": "AUS_align_with_ussr_desc",
+    "ver": "",
+    "val": "It has become all the more clear to us why [SOV.GetNameDef] has been run the way it has. While initially we had our qualms about the [SOV.GetAdjective] system, we have come to realize that it might be the best way to govern a country. By aligning ourselves to [SOV.GetLeader]'s doctrine we stand to gain both a more stable country, and likely their good graces.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1338,
+    "indent": " ",
+    "key": "AUS_align_with_ussr_tt",
+    "ver": "",
+    "val": "The current leader of §YKPÖ§! will gain a trait aligning them to the doctrine of  §Y[SOV.GetFlag][SOV.GetLeader]§! as long as §Y[SOV.GetFlag][SOV.GetNameDef]§! are still §YCommunist§!",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1340,
+    "indent": " ",
+    "key": "AUS_raid_military_storages",
+    "ver": "",
+    "val": "Raiding Old Military Stockpiles",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1341,
+    "indent": " ",
+    "key": "AUS_raid_military_storages_desc",
+    "ver": "",
+    "val": "There is plenty of military equipment sitting in old stockpiles around the country. With our current situation we do believe these would be more useful in the hands of the people than locked away. It is time we make the best use of these resources.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1343,
+    "indent": " ",
+    "key": "AUS_properly_trained_militias",
+    "ver": "",
+    "val": "Properly Trained Militias",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1344,
+    "indent": " ",
+    "key": "AUS_properly_trained_militias_desc",
+    "ver": "",
+    "val": "Our militias have become an integral part of our country's defense, but at this point they have no official training. While the nature of a militia is such that complete control and fully training them will never be possible, a training effort will serve us all well.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1346,
+    "indent": " ",
+    "key": "AUS_the_peoples_army",
+    "ver": "",
+    "val": "The People's Army",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1347,
+    "indent": " ",
+    "key": "AUS_the_peoples_army_desc",
+    "ver": "",
+    "val": "Our dedication to making sure the people is properly armed in this situation has had an unexpected but very welcome side effect. More and more people are now wanting to join the army",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1349,
+    "indent": " ",
+    "key": "AUS_a_safe_harbor_for_dissidents",
+    "ver": "",
+    "val": "A Safe Harbor For Dissidents",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1350,
+    "indent": " ",
+    "key": "AUS_a_safe_harbor_for_dissidents_desc",
+    "ver": "",
+    "val": "Political exiles have become a very common sight in the world as of late, some of which share similar political sentiments with us. By recruiting these exiles to our side we could benefit greatly from their skills.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1351,
+    "indent": " ",
+    "key": "AUS_a_safe_harbor_for_dissidents_tt",
+    "ver": "",
+    "val": "§YOlga Taratuta§!, which grants (§G+5%§! War Support, §R-10%§! Stability, §G+10%§! Recruitable Population Factor, §G+0.03§! Daily Communism Support)",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1353,
+    "indent": " ",
+    "key": "AUS_establish_rote_hilfe",
+    "ver": "",
+    "val": "Re-Establish Rote Hilfe",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1354,
+    "indent": " ",
+    "key": "AUS_establish_rote_hilfe_desc",
+    "ver": "",
+    "val": "The Österreichische Rote Hilfe was founded and headed by Malke Schorr in 1925. Since then and until banned by the corrupt Austrofascist state the organization helped countless political refugees and asylum seekers in [ROOT.GetNameDef]. Now that our old regime is no more, it is high time we allow them to operate freely once more.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1355,
+    "indent": " ",
+    "key": "AUS_a_new_beginning",
+    "ver": "",
+    "val": "A New Beginning",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1356,
+    "indent": " ",
+    "key": "AUS_a_new_beginning_desc",
+    "ver": "",
+    "val": "\"As the ash and dust settle, and our new government takes its rightful place, we must turn our heads to the future. This is but the beginning of [ROOT.GetNameDef], and together we shall grow!\"",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1358,
+    "indent": " ",
+    "key": "AUS_join_comintern",
+    "ver": "",
+    "val": "Join the Comintern",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1359,
+    "indent": " ",
+    "key": "AUS_join_comintern_desc",
+    "ver": "",
+    "val": "Having aligned with the USSR there is now a very clear way paved for us. We must join our comrades in the Comintern, it is what our people wants and deserves!",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1361,
+    "indent": " ",
+    "key": "AUS_danubian_socialist_communes",
+    "ver": "",
+    "val": "Establish the Danubian Bloc",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1362,
+    "indent": " ",
+    "key": "AUS_danubian_socialist_communes_desc",
+    "ver": "",
+    "val": "So far [ROOT.GetNameDef] has stood alone against our adversaries. We do not wish for this to be the case in the future, however there are no alliances that align with our country's ideals at the moment. Creating our own faction is clearly the best option!",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1364,
+    "indent": " ",
+    "key": "AUS_womens_education_initiative",
+    "ver": "",
+    "val": "Women's Education Initiative",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1365,
+    "indent": " ",
+    "key": "AUS_womens_education_initiative_desc",
+    "ver": "",
+    "val": "Since the early 1900's women has been allowed to pursue education at universities but only within select faculties. A drive for universities to be open for everyone likely would do our nation well.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1367,
+    "indent": " ",
+    "key": "AUS_universitat_wien",
+    "ver": "",
+    "val": "Universität Wien",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1368,
+    "indent": " ",
+    "key": "AUS_universitat_wien_desc",
+    "ver": "",
+    "val": "Much like most of our universities, the university in Wien suffered under the rule of the fascists. Fascist sentiments were spread freely, though mostly by students. By tightening the rules, and making sure this does not continue, we can ensure a higher quality of the education provided.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1370,
+    "indent": " ",
+    "key": "AUS_scientific_grants",
+    "ver": "",
+    "val": "Scientific Grants",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1371,
+    "indent": " ",
+    "key": "AUS_scientific_grants_desc",
+    "ver": "",
+    "val": "As we increase our budget for science and research the potential applications of this new knowledge has become apparent. By giving a set of grants out we should be able to bolster the positive effects of this even further.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1372,
+    "indent": " ",
+    "key": "available_scientist_tt",
+    "ver": "",
+    "val": "§GAvailable§! as a §YScientist§!:",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1374,
+    "indent": " ",
+    "key": "AUS_centralize_the_industrial_sector",
+    "ver": "",
+    "val": "Centralize the Industrial Sector",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1375,
+    "indent": " ",
+    "key": "AUS_centralize_the_industrial_sector_desc",
+    "ver": "",
+    "val": "As time passes and communist sentiments take root within the nation we are now capable of taking more drastic measures. A few years back the mere idea of centralizing the industry would be frowned upon by our people, now it just seems the next logical step.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1377,
+    "indent": " ",
+    "key": "AUS_cut_ties_with_the_church",
+    "ver": "",
+    "val": "Cut Ties With the Church",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1378,
+    "indent": " ",
+    "key": "AUS_cut_ties_with_the_church_desc",
+    "ver": "",
+    "val": "Our governmental connection with the church is but a remnant of the so called clerical fascism. The fascism has already been removed, it is time we also remove the clergy from political power.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1379,
+    "indent": " ",
+    "key": "generic_remove_as_political_advisor_tt",
+    "ver": "",
+    "val": "§RRemoves§! as §YPolitical Advisor§!:",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1381,
+    "indent": " ",
+    "key": "AUS_spur_the_communist_resistance",
+    "ver": "",
+    "val": "Encourage Communist Sentiments",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1382,
+    "indent": " ",
+    "key": "AUS_spur_the_communist_resistance_desc",
+    "ver": "",
+    "val": "The world around us has become significantly more hostile towards both the common man and the worker. While we ourselves are thankfully spared from the worst of it, we cannot neglect the suffering of our brothers and sisters around us.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1383,
+    "indent": " ",
+    "key": "AUS_danubian_communism_bypass_tt",
+    "ver": "",
+    "val": "All §YDanubian§! countries and countries with a §YHistorical Interest§! in the §YDanubian Region§!:\\nCurrent ruling party is §YCommunist§!.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1384,
+    "indent": " ",
+    "key": "AUS_danubian_communism_bypass_has_rejected_tt",
+    "ver": "",
+    "val": "Has rejected [ROOT.GetAdjective] attempts to boost §YCommunism§!.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1385,
+    "indent": " ",
+    "key": "AUS_spur_the_communist_resistance_tt",
+    "ver": "",
+    "val": "Unlocks decisions to §YEncourage Communist Sentiments§! in:",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1387,
+    "indent": " ",
+    "key": "AUS_rapid_revolutions",
+    "ver": "",
+    "val": "Rapid Revolution",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1388,
+    "indent": " ",
+    "key": "AUS_rapid_revolutions_desc",
+    "ver": "",
+    "val": "Though our situation has deteriorated through our actions to liberate foreign workers and secure the means of production for them, there is no time to rest. We must free our comrades from the shackles of capitalism as soon as possible, even should this let our people take a most slight and temporary hit to their welfare.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1390,
+    "indent": " ",
+    "key": "AUS_meticulous_preparations",
+    "ver": "",
+    "val": "Meticulous Preparations",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1391,
+    "indent": " ",
+    "key": "AUS_meticulous_preparations_desc",
+    "ver": "",
+    "val": "There is a real temptation to rush to liberate the workers around us, but that risks leaving the home front open. Our endeavors in foreign countries has caused some ruckus in [ROOT.GetNameDef], we should see to that before committing to helping others.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1393,
+    "indent": " ",
+    "key": "AUS_demand_liberation_of_workers",
+    "ver": "",
+    "val": "Demanding the Liberation of Workers",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1394,
+    "indent": " ",
+    "key": "AUS_demand_liberation_of_workers_desc",
+    "ver": "",
+    "val": "The time for us to act has come. By bolstering the spirit of communism along the Danube we must now liberate those who have found themselves in agreement with us!",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1395,
+    "indent": " ",
+    "key": "AUS_demand_liberation_of_workers_tt",
+    "ver": "",
+    "val": "Unlocks decisions to §YDemand Liberation of Workers§! in countries where we have previously successfully bolstered communist sentiments.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1398,
+    "indent": " ",
+    "key": "AUS_union_of_danubian_socialist_republics",
+    "ver": "",
+    "val": "The Union of Danubian Socialists",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1399,
+    "indent": " ",
+    "key": "AUS_union_of_danubian_socialist_republics_desc",
+    "ver": "",
+    "val": "Our influence now spreads across Europe as workers around us are being liberated. Our old name is no longer descriptive of what we truly are, we should consider how we wish to be known.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1401,
+    "indent": " ",
+    "key": "AUS_the_correct_communism",
+    "ver": "",
+    "val": "The Correct Form of Communism",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1402,
+    "indent": " ",
+    "key": "AUS_the_correct_communism_desc",
+    "ver": "",
+    "val": "There are many ways of practicing communism, and most of them are not to our liking. [SOV.GetNameDefCap] is dragging the name of our ideology in the dirt the way they are governing. They cannot be allowed to continue.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1404,
+    "indent": " ",
+    "key": "AUS_seize_galicia",
+    "ver": "",
+    "val": "Seize the Galician Lands",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1405,
+    "indent": " ",
+    "key": "AUS_seize_galicia_desc",
+    "ver": "",
+    "val": "As the years pass we have come to realize that we have come to miss one of the parts of our old empire dearly. Seeing Galicia torn up and thrown between different countries in the recent years has made us all the more determined that we should seize it once more.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1406,
+    "indent": " ",
+    "key": "AUS_seize_galicia_tt",
+    "ver": "",
+    "val": "Gains cores on §Y[88.GetName]§!,§Y[89.GetName]§! and §Y[91.GetName]§!.\\n\\nGains §YWargoals§! to retake the cores in §YGalicia§!.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1410,
+    "indent": " ",
+    "key": "AUS_regulate_austrian_finance_sector",
+    "ver": "",
+    "val": "Regulate the Finance Sector",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1411,
+    "indent": " ",
+    "key": "AUS_regulate_austrian_finance_sector_desc",
+    "ver": "",
+    "val": "The [AUS.GetAdjective] economy is still struggling despite our best efforts to rebalance it. If nothing is done we fear that another full scale economic crash with the accompanying hyperinflation might soon be upon us. It is about time we take back control over our financial sector.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1412,
+    "indent": " ",
+    "key": "AUS_regulate_austrian_finance_sector_tt",
+    "ver": "",
+    "val": "Unlocks and specializes the bank §YIndustrial Concern§! to either boost §YStarting Production Efficiency§! or reduce §YConsumer Goods§! needs. Alternatively, the bank may affect §YBoth§! to a lesser extent.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1414,
+    "indent": " ",
+    "key": "AUS_seek_papal_support",
+    "ver": "",
+    "val": "Seek Papal Support",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1415,
+    "indent": " ",
+    "key": "AUS_seek_papal_support_desc",
+    "ver": "",
+    "val": "As a catholic country we have always placed great value in the word of the clergy. By gaining support from the His Holiness we could likely increase the amount of faith that our people have in us.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1416,
+    "indent": " ",
+    "key": "AUS_seek_papal_support_tt",
+    "ver": "",
+    "val": "Change in popularity of our current ruling party: §G5%§!",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1419,
+    "indent": " ",
+    "key": "AUS_saved_creditanstalt_flag",
+    "ver": "",
+    "val": "Re-prioritized funding towards Österreichische Creditanstalt",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1420,
+    "indent": " ",
+    "key": "AUS_saved_bankverein_flag",
+    "ver": "",
+    "val": "Re-prioritized funding towards Wiener Bankverein",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1421,
+    "indent": " ",
+    "key": "AUS_kept_creditanstalt_bankverein_flag",
+    "ver": "",
+    "val": "Kept Creditanstalt-Bankverein merged",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1423,
+    "indent": " ",
+    "key": "AUS_invest_in_erzberg_steel_mines",
+    "ver": "",
+    "val": "Invest in the Erzberg Steel Mines",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1424,
+    "indent": " ",
+    "key": "AUS_invest_in_erzberg_steel_mines_desc",
+    "ver": "",
+    "val": "[AUS.GetNameDefCap] has always had rather plentiful steel mines. The ones in Erzberg seem a particularly fruitful endeavor. We should consider further investments to make the most we can out of it.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1426,
+    "indent": " ",
+    "key": "AUS_courting_the_princess_of_industry",
+    "ver": "",
+    "val": "Courting the Princess of Industry",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1427,
+    "indent": " ",
+    "key": "AUS_courting_the_princess_of_industry_desc",
+    "ver": "",
+    "val": "There are many industrial magnates within our country that would likely assist us. Elisabeth von Gutmann, the daughter of the founder of Gebrüder Gutmann who used to dominate trade in Austria, seems the most promising. We should reach out to her and ask her assistance.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1429,
+    "indent": " ",
+    "key": "AUS_expand_stpoltner_steelworks",
+    "ver": "",
+    "val": "Expand the St. Pöltner Steelworks",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1430,
+    "indent": " ",
+    "key": "AUS_expand_stpoltner_steelworks_desc",
+    "ver": "",
+    "val": "The Steelworks in St. Pöltner are showing very promising results. If we act fast, we should be able to shape them to our liking to maximize the gain from the factory.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1432,
+    "indent": " ",
+    "key": "AUS_invest_in_semperit_synthetics",
+    "ver": "",
+    "val": "Invest in Semperit Synthetics",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1433,
+    "indent": " ",
+    "key": "AUS_invest_in_semperit_synthetics_desc",
+    "ver": "",
+    "val": "With our steel supply sorted we need to consider other resources that we might need for our future development. Lacking a good and large enough source of rubber and oil we need to look into other ways to acquire these resources locally.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1434,
+    "indent": " ",
+    "key": "AUS_invest_in_semperit_synthetics_bonus",
+    "ver": "",
+    "val": "Semperit Investments",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1436,
+    "indent": " ",
+    "key": "AUS_pulverfabrik_skodawerke",
+    "ver": "",
+    "val": "Invest in Pulverfabrik Skodawerke",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1437,
+    "indent": " ",
+    "key": "AUS_pulverfabrik_skodawerke_desc",
+    "ver": "",
+    "val": "The chemical plant Pulverfabrik Skodawerke in Niederösterreich has had many uses in the past, gunpowder, dynamite and chemicals for steelworks. Right now the best use of their expertise would likely be to guide them towards synthetic resources.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1438,
+    "indent": " ",
+    "key": "AUS_pulverfabrik_skodawerke_tt",
+    "ver": "",
+    "val": "§Y3x§! §G25%§! Research bonus for: §YFuel Storage§! and §YFuel Refining§! tech.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1439,
+    "indent": " ",
+    "key": "AUS_pulverfabrik_skodawerke_bonus",
+    "ver": "",
+    "val": "Skodawerke Investments",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1441,
+    "indent": " ",
+    "key": "AUS_the_matzen_oil_fields",
+    "ver": "",
+    "val": "Exploit the Matzen Oil Fields",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1442,
+    "indent": " ",
+    "key": "AUS_the_matzen_oil_fields_desc",
+    "ver": "",
+    "val": "We have recently had a stroke of luck. Oil has been found in the areas around Matzen in eastern [AUS.GetNameDef]. This is an opportunity for us to extract this resource and give ourselves an edge industrially!",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1444,
+    "indent": " ",
+    "key": "AUS_autobahn_west",
+    "ver": "",
+    "val": "Expand Autobahn West",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1445,
+    "indent": " ",
+    "key": "AUS_autobahn_west_desc",
+    "ver": "",
+    "val": "Our infrastructure is in need of an update, much as we would have wished to reinforce the infrastructure country-wide, the reality of our economy and our industrial situation does not permit that. Building westwards and connecting our Autobahn to [GER.GetNameDef] is the best bet in our current situation.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1447,
+    "indent": " ",
+    "key": "AUS_autobahn_south",
+    "ver": "",
+    "val": "Expand Autobahn South",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1448,
+    "indent": " ",
+    "key": "AUS_autobahn_south_desc",
+    "ver": "",
+    "val": "Our infrastructure is in need of an update, much as we would have wished to reinforce the infrastructure country-wide, the reality of our economy and our industrial situation does not permit that. Building southwards and connecting our Autobahn to [ITA.GetNameDef] is the best bet in our current situation.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1450,
+    "indent": " ",
+    "key": "AUS_autobahn_east",
+    "ver": "",
+    "val": "Expand Autobahn East",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1451,
+    "indent": " ",
+    "key": "AUS_autobahn_east_desc",
+    "ver": "",
+    "val": "We have connected up our autobahn with our partners. This has proven most beneficial to both parties. Looking eastward we find our old ally in the dual monarchy, [HUN.GetNameDef], were we to connect our infrastructures we could likely foster a better relationship with them as well.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1453,
+    "indent": " ",
+    "key": "AUS_bbo_focus",
+    "ver": "",
+    "val": "Invest in Bundesbahnen Österreich",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1454,
+    "indent": " ",
+    "key": "AUS_bbo_focus_desc",
+    "ver": "",
+    "val": "As of now, our railways have been neglected, and BBÖ, our railway company, stripped of funds. But, to run a successful country, no matter how big or small, we need to ensure good railway coverage throughout the country. We should start investing in BBÖ and our railways.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1455,
+    "indent": " ",
+    "key": "AUS_bbo_focus_tt",
+    "ver": "",
+    "val": "§GIncreases§! the effectiveness of the available §YIndustrial Concern§!:",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1457,
+    "indent": " ",
+    "key": "AUS_architechtual_advancements",
+    "ver": "",
+    "val": "Architectural Advancements",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1458,
+    "indent": " ",
+    "key": "AUS_architechtual_advancements_desc",
+    "ver": "",
+    "val": "Recently we have been alerted to the presence of one exceptionally skilled architect in one of our Universities. His buildings posses both the structural integrity and the elegance that a country such as our own deserves. We should consider recruiting this individual.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1460,
+    "indent": " ",
+    "key": "AUS_economic_resuscitation",
+    "ver": "",
+    "val": "Economic Resuscitation",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1461,
+    "indent": " ",
+    "key": "AUS_economic_resuscitation_desc",
+    "ver": "",
+    "val": "Our economy has stabilized and grown stagnant on a very low level. While some argue that this is good, we are not dropping like a stone anymore, we know that we can do better. There are still efforts to be made, and this time we will make sure that they work not only short-term.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1462,
+    "indent": " ",
+    "key": "AUS_economic_resuscitation_tt",
+    "ver": "",
+    "val": "Gives Austria the National Spirit §YRecovering From Economic Depression§! again if the country's economy has crashed further.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1464,
+    "indent": " ",
+    "key": "AUS_devalue_the_schilling",
+    "ver": "",
+    "val": "Devalue the Schilling",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1465,
+    "indent": " ",
+    "key": "AUS_devalue_the_schilling_desc",
+    "ver": "",
+    "val": "Part of the reason why our economy is struggling and stagnating is our weak currency. While nowhere near the inflation rate of 2877% that we had in 1929, our inflation is still too high. It might not be the most popular decision with the people, but we should consider devaluing our currency.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1466,
+    "indent": " ",
+    "key": "AUS_devaluing_the_schilling_tt",
+    "ver": "",
+    "val": "When the national spirit §Y$AUS_devalued_the_schilling$§! is removed, the focuses §Y$AUS_bring_phonix_insurance_from_the_ashes$§! and §Y$AUS_great_austrian_economic_push$§! will become available.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1468,
+    "indent": " ",
+    "key": "AUS_bring_phonix_insurance_from_the_ashes",
+    "ver": "",
+    "val": "Bring Phönix Insurance From the Ashes",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1469,
+    "indent": " ",
+    "key": "AUS_bring_phonix_insurance_from_the_ashes_desc",
+    "ver": "",
+    "val": "Our economy was on the mend until the Phönix scandal hit us in early 1936. Their war-participant insurance ensured that we had men to recruit into the army, and kept the nation content, even in the face of war. It might be wise to bring Phönix back from the ashes.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1470,
+    "indent": " ",
+    "key": "AUS_bring_phonix_insurance_from_the_ashes_tt1",
+    "ver": "",
+    "val": "Replaces the §YCovering for Phönix Insurance§! with §YPhönix Insurance§!",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1472,
+    "indent": " ",
+    "key": "AUS_great_austrian_economic_push",
+    "ver": "",
+    "val": "The Great Austrian Economic Push",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1473,
+    "indent": " ",
+    "key": "AUS_great_austrian_economic_push_desc",
+    "ver": "",
+    "val": "Our tireless efforts are slowly paying off, and our economy is once more growing. We could settle for this, but throughout this process of revitalizing our economy we saw the untapped potential. Why settle for less when we can grow our financial sector bigger still?",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1474,
+    "indent": " ",
+    "key": "AUS_great_austrian_economic_push_tt",
+    "ver": "",
+    "val": "Further enhances the economy and factory output of [ROOT.GetNameDef], replacing §YRecovering from Economic Depression§! with §YEconomic Boom§!",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1476,
+    "indent": " ",
+    "key": "AUS_volkschule",
+    "ver": "",
+    "val": "Volksschule",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1477,
+    "indent": " ",
+    "key": "AUS_volkschule_desc",
+    "ver": "",
+    "val": "During the economic crisis it was commonplace for children not to go to school, but rather instead have to work, or help around the house. As the worst crisis is now behind us, we now need to deal with this knowledge-debt, lest we will fall behind technologically, and scientifically. ",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1479,
+    "indent": " ",
+    "key": "AUS_industrialization_effort",
+    "ver": "",
+    "val": "Industrialization Effort",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1480,
+    "indent": " ",
+    "key": "AUS_industrialization_effort_desc",
+    "ver": "",
+    "val": "The [AUS.GetAdjective] industry sector has weathered our difficult situation surprisingly well. With high rates of unemployment this could also prove an opportunity. By expanding our industries we could tackle two issues at one, both increasing our industrial capacity, and reducing the unemployment.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1482,
+    "indent": " ",
+    "key": "AUS_invest_in_alpen_elektrowerke",
+    "ver": "",
+    "val": "Alpen-Elektrowerke",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1483,
+    "indent": " ",
+    "key": "AUS_invest_in_alpen_elektrowerke_desc",
+    "ver": "",
+    "val": "To remain competitive on the international market, we constantly need to innovate and come up with new solutions. Investing in a company like Alpen-Elektrowerke that specializes heavily in electronic development could give us just that edge we need.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1485,
+    "indent": " ",
+    "key": "AUS_invest_in_kapsch",
+    "ver": "",
+    "val": "Telefon- und Telegrafen-Fabrik",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1486,
+    "indent": " ",
+    "key": "AUS_invest_in_kapsch_desc",
+    "ver": "",
+    "val": "To remain competitive on the international market, we constantly need to innovate and come up with new solutions. Investing in a company like Telefon- und Telegrafen-Fabriks-Aktiengesellschaft that handles both electronics and radar could give us a width in our knowledge that few opponents would match.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1488,
+    "indent": " ",
+    "key": "AUS_construction_guilds",
+    "ver": "",
+    "val": "Establish Construction Guilds",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1489,
+    "indent": " ",
+    "key": "AUS_construction_guilds_desc",
+    "ver": "",
+    "val": "As [AUS.GetNameDef] grows more and more attractive for industries we have come to realize that we are no longer building new factories quickly enough. The establishment of construction guilds would help to speed up the construction within the country.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1491,
+    "indent": " ",
+    "key": "AUS_apprentice_programmes",
+    "ver": "",
+    "val": "Start Apprentice Programs",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1492,
+    "indent": " ",
+    "key": "AUS_apprentice_programmes_desc",
+    "ver": "",
+    "val": "After a long period of economic recession and unemployment a lot of people lack the skills and experience that are needed by the factory jobs that are now readily available. By installing apprentice programs we would provide a deal that is beneficial for both the factories and the workers.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1497,
+    "indent": " ",
+    "key": "AUS_osterreichische_luftstreitkrafte",
+    "ver": "",
+    "val": "Österreichische Luftstreitkräfte",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1498,
+    "indent": " ",
+    "key": "AUS_osterreichische_luftstreitkrafte_desc",
+    "ver": "",
+    "val": "Our air force has been severely and negatively impacted by the treaties imposed upon us for the actions of our ancestors. To stand a chance in this new, and much harsher world we must consider rebuilding our air force to the standard of the current age.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1500,
+    "indent": " ",
+    "key": "AUS_preparing_the_industry",
+    "ver": "",
+    "val": "Aircraft Production in Lohner-Werke",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1501,
+    "indent": " ",
+    "key": "AUS_preparing_the_industry_desc",
+    "ver": "",
+    "val": "One of our most important and valued manufacturers of airplanes have since the Treaty of Saint-Germain-En-Laye came into effect entirely stopped their production of new aircraft. Now that we are rebuilding our air force we must also make sure to rebuild our suppliers.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1503,
+    "indent": " ",
+    "key": "AUS_purchase_foreign_designs",
+    "ver": "",
+    "val": "Purchasing Foreign Aircraft",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1504,
+    "indent": " ",
+    "key": "AUS_purchase_foreign_designs_desc",
+    "ver": "",
+    "val": "To truly be competitive in the air we must study how other countries design their aircraft. While domestic production might have its' upsides, by sampling and buying from a wide range of countries we can get the best aircraft for our needs, without the large upfront cost.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1506,
+    "indent": " ",
+    "key": "AUS_seek_international_partners",
+    "ver": "",
+    "val": "Seek International Partners",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1507,
+    "indent": " ",
+    "key": "AUS_seek_international_partners_desc",
+    "ver": "",
+    "val": "If we wish to be competitive in the air, we need to learn from those around us how best to run an air force. By learning from the major powers, and countries that has faced similar struggles to ours, we can reach even higher than before.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1508,
+    "indent": " ",
+    "key": "AUS_seek_international_partners_tt",
+    "ver": "",
+    "val": "§YEffects for any country that accepts!§!:",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1509,
+    "indent": " ",
+    "key": "AUS_seek_international_partners_tt2",
+    "ver": "",
+    "val": "§Y[ROOT.GetNameWithFlag]§! will gain 50 §YAir Experience§! for every country that accepts!",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1510,
+    "indent": " ",
+    "key": "AUS_seek_international_partners_tt3",
+    "ver": "",
+    "val": "§Y[ROOT.GetNameWithFlag]§! will gain §YMarket Access§! to any country that accepts!",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1513,
+    "indent": " ",
+    "key": "AUS_air_research_boost",
+    "ver": "",
+    "val": "An Innovative Air Force",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1514,
+    "indent": " ",
+    "key": "AUS_air_research_boost_desc",
+    "ver": "",
+    "val": "[GetAirPartners]",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1515,
+    "indent": " ",
+    "key": "AUS_has_no_air_partners",
+    "ver": "",
+    "val": "Despite our best efforts we have failed to secure partners in our air efforts. We will have no choice but to instead invest in research of our own.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1516,
+    "indent": " ",
+    "key": "AUS_has_air_partners",
+    "ver": "",
+    "val": "Having now tested and flown a wide variety of aircraft we are in the unique position of being able to cherry pick what properties we like, and don't like for our aircraft. We might want to consider making use of this new found knowledge and reverse engineer some of the most desirable traits from the aircraft that we have sampled.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1517,
+    "indent": " ",
+    "key": "AUS_innovative_airforce_bonus",
+    "ver": "",
+    "val": "Innovative Air Force",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1519,
+    "indent": " ",
+    "key": "AUS_focus_on_domestic_production",
+    "ver": "",
+    "val": "Domestic Aircraft Production",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1520,
+    "indent": " ",
+    "key": "AUS_focus_on_domestic_production_desc",
+    "ver": "",
+    "val": "Building and maintaining an air force fully on our own is a mammoth task. But in an uneasy situation like this we cannot let ourselves be dependent on others for an integral part of our armed forces. No matter the high upfront cost, we must become self sustaining in regards to our air force.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1522,
+    "indent": " ",
+    "key": "AUS_revitalize_austrian_air_industry",
+    "ver": "",
+    "val": "Revitalize the Air Industry",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1523,
+    "indent": " ",
+    "key": "AUS_revitalize_austrian_air_industry_desc",
+    "ver": "",
+    "val": "We used to have a few aircraft manufacturers in [AUS.GetNameDef] before, and during, the Great War. Since the Treaty of Saint-Germain-En-Laye was imposed upon us however that has been an impossibility. Now that the treaty has been nullified we should move quickly to reestablish our industry and revitalize it in the event that we have need of it.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1525,
+    "indent": " ",
+    "key": "AUS_light_specialization",
+    "ver": "",
+    "val": "Jagdfliegerkompanie Initiative",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1526,
+    "indent": " ",
+    "key": "AUS_light_specialization_desc",
+    "ver": "",
+    "val": "We cannot truly compete with bigger countries when it comes to larger airframes, however, with superior fighters and CAS we can ensure that our enemy does not even reach our territory. Aerial battles are won and lost in the dogfights after all.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1527,
+    "indent": " ",
+    "key": "AUS_light_specialization_bonus",
+    "ver": "",
+    "val": "Jagdfliegerkompanie Initiative",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1529,
+    "indent": " ",
+    "key": "AUS_medium_specialization",
+    "ver": "",
+    "val": "Schlachtfliegerkompanie Initiative",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1530,
+    "indent": " ",
+    "key": "AUS_medium_specialization_desc",
+    "ver": "",
+    "val": "Our air force has to be able to fill many roles. We do not have the resources to build up all aspects of our air force and therefore finding a good compromise is paramount. Twin engine planes can be used both for bombers, and fighters, and seems to us the perfect compromise.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1531,
+    "indent": " ",
+    "key": "AUS_medium_specialization_bonus",
+    "ver": "",
+    "val": "Schlachtfliegerkompanie Initiative",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1533,
+    "indent": " ",
+    "key": "AUS_heavy_specialization",
+    "ver": "",
+    "val": "Grossflugzeugkompanie Initiative",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1534,
+    "indent": " ",
+    "key": "AUS_heavy_specialization_desc",
+    "ver": "",
+    "val": "It is safe to assume that others will expect us to have an air force consisting mainly of smaller aircraft. A heavy air force might seem impossible or inconvenient, but with the correct investments into it, we could overwhelm most enemies by sheer force.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1535,
+    "indent": " ",
+    "key": "AUS_heavy_specialization_bonus",
+    "ver": "",
+    "val": "Grossflugzeugkompanie Initiative",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1537,
+    "indent": " ",
+    "key": "AUS_air_base_intiative",
+    "ver": "",
+    "val": "Air Base Construction Effort",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1538,
+    "indent": " ",
+    "key": "AUS_air_base_intiative_desc",
+    "ver": "",
+    "val": "While there are air bases in [AUS.GetNameDef] they are no longer enough to host our, as of recently, significantly larger air force. To optimize how we use the air force we should consider building out the needed infrastructures to keep our planes in the skies.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1540,
+    "indent": " ",
+    "key": "AUS_wien_anti_air_effort",
+    "ver": "",
+    "val": "Wiener Flaktürme",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1541,
+    "indent": " ",
+    "key": "AUS_wien_anti_air_effort_desc",
+    "ver": "",
+    "val": "Though we have full trust in that our air force will keep this nation safe from aerial assaults anti air buildings could provide a welcome extra layer of protection in densely populated areas. We should consider setting up anti air buildings in the Wien area.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1543,
+    "indent": " ",
+    "key": "AUS_radar_effort",
+    "ver": "",
+    "val": "Goldhaube Systems Effort",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1544,
+    "indent": " ",
+    "key": "AUS_radar_effort_desc",
+    "ver": "",
+    "val": "A modern air force depends not only upon its' planes, but also upon good technology to guide them. With the discovery of radar we cannot allow ourselves to fall behind technologically!",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1546,
+    "indent": " ",
+    "key": "AUS_flight_schools",
+    "ver": "",
+    "val": "Österreichischen Fliegerschule",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1547,
+    "indent": " ",
+    "key": "AUS_flight_schools_desc",
+    "ver": "",
+    "val": "For us to succeed in the air it is not just our planes that needs to be superior. To ascertain our dominance in the air we must also provide the best training for our pilots to prepare them for every situation they might encounter. Much like we train our ground divisions, we must set up a training regimen for our pilots.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1549,
+    "indent": " ",
+    "key": "AUS_neustadter_flugzeugwerke",
+    "ver": "",
+    "val": "Neustädter Flugzeugwerke",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1550,
+    "indent": " ",
+    "key": "AUS_neustadter_flugzeugwerke_desc",
+    "ver": "",
+    "val": "Recently a new aircraft manufacturer acquired a decommissioned Oesterreichische Flugzeugfabrik factory. The intention from the new company, Neustädter Flugzeugwerke, is to build light sports aircraft, but as the company was started by two former fighter pilots, we might very well be able to convince them to produce for us instead.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1552,
+    "indent": " ",
+    "key": "AUS_aerial_strategies",
+    "ver": "",
+    "val": "Aerial Strategies",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1553,
+    "indent": " ",
+    "key": "AUS_aerial_strategies_desc",
+    "ver": "",
+    "val": "Learning from one's experiences is a virtue in battles of all kinds. By continuously developing and further enhancing our aerial strategies we can ensure that we are always one step ahead of the enemy.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1556,
+    "indent": " ",
+    "key": "AUS_secret_rearmament",
+    "ver": "",
+    "val": "Secret Rearmament",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1557,
+    "indent": " ",
+    "key": "AUS_secret_rearmament_desc",
+    "ver": "",
+    "val": "For a very long period of time, rearmament restrictions have made it impossible to build up any sort of army presence. While the Treaty of Saint-Germain-En-Laye still stands, we have found a few loopholes that we can make use of to justify rearming covertly.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1559,
+    "indent": " ",
+    "key": "AUS_militarization_effort",
+    "ver": "",
+    "val": "Grazer Maschinen-und Waggonbau",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1560,
+    "indent": " ",
+    "key": "AUS_militarization_effort_desc",
+    "ver": "",
+    "val": "One of the companies our once-mighty army relied heavily upon was Grazer Maschinen- und Waggonbau-Aktiengesellschaft. Building not only vehicles but also axles for howitzers and rifles they were once a cornerstone in our military capacity. We should make them so once more.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1562,
+    "indent": " ",
+    "key": "AUS_osterreichische_bundesheer",
+    "ver": "",
+    "val": "Österreichische[GetArmyName]",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1563,
+    "indent": " ",
+    "key": "AUS_army_is_bundesheer",
+    "ver": "",
+    "val": "s Bundesheer",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1564,
+    "indent": " ",
+    "key": "AUS_army_is_landwehr",
+    "ver": "",
+    "val": " Landwehr",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1565,
+    "indent": " ",
+    "key": "AUS_osterreichische_bundesheer_desc",
+    "ver": "",
+    "val": "With the Treaty of Saint-Germain-En-Laye no longer an obstacle it is time we start rebuilding proper. [ROOT.GetNameDefCap] cannot be allowed to be caught off guard, nor can we be expected to just wait in the face of an all the more threatening world.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1568,
+    "indent": " ",
+    "key": "AUS_standardized_army_training",
+    "ver": "",
+    "val": "Standardized Army Training",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1569,
+    "indent": " ",
+    "key": "AUS_standardized_army_training_desc",
+    "ver": "",
+    "val": "Years of not being able to train any new troops have put its' traces upon our divisions' training regiments. If we wish to provide the best possible training for our army, we should consider updating the training procedures for new troops.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1571,
+    "indent": " ",
+    "key": "AUS_osterreichische_fallschirmsjager",
+    "ver": "",
+    "val": "Österreichische Fallschirmjäger",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1572,
+    "indent": " ",
+    "key": "AUS_osterreichische_fallschirmsjager_desc",
+    "ver": "",
+    "val": "Having rebuilt both our army and our air force it is high time that we see about how we best can combine these two ventures for the greater good.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1574,
+    "indent": " ",
+    "key": "AUS_osterreichische_gebirgsjager",
+    "ver": "",
+    "val": "Österreichische Gebirgsjäger",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1575,
+    "indent": " ",
+    "key": "AUS_osterreichische_gebirgsjager_desc",
+    "ver": "",
+    "val": "As a very mountainous country it lies within our best interests to ensure our troops are sufficiently trained for battles in these conditions and environments.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1576,
+    "indent": " ",
+    "key": "AUS_osterreichische_gebirgsjager_tt",
+    "ver": "",
+    "val": "Enables §HMountain Defensive Training§!\\n§HInfantry\\n    Mountains§!\\n      Defense: §G+5%§!\\n      Movement: §G+5%§!\\n§HMountaineers\\n    Mountains§!\\n      Defense: §G+5%§!\\n      Movement: §G+10%§!\\n",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1578,
+    "indent": " ",
+    "key": "AUS_osterreichische_seebataillon",
+    "ver": "",
+    "val": "Österreichisches Seebataillon",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1579,
+    "indent": " ",
+    "key": "AUS_osterreichische_seebataillon_desc",
+    "ver": "",
+    "val": "We've gone through a lot to secure our foothold on the coast line, only to figure out that our army is very ill prepared for the task of actually fighting in these conditions. We must look into what could help these men fight more efficiently.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1581,
+    "indent": " ",
+    "key": "AUS_steyr_arms_investment",
+    "ver": "",
+    "val": "Investing in Steyr Arms",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1582,
+    "indent": " ",
+    "key": "AUS_steyr_arms_investment_desc",
+    "ver": "",
+    "val": "Our former flagship gun manufacturer has suffered greatly from being bound by the Treaty of Saint-Germain-En-Laye. To kick start their ability to produce the quantities we need we should consider making an investment.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1583,
+    "indent": " ",
+    "key": "AUS_steyr_arms_investment_tt",
+    "ver": "",
+    "val": "Unlocks §YSteyr Arms§! as a Designer",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1585,
+    "indent": " ",
+    "key": "AUS_improve_army_logistics",
+    "ver": "",
+    "val": "Improved Army Logistics",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1586,
+    "indent": " ",
+    "key": "AUS_improve_army_logistics_desc",
+    "ver": "",
+    "val": "Our country is rich with beautiful scenery, but unfortunately this also means it is rich in impassable terrain and logistics challenges. If we do not meet these, we could risk our eventual wartime efforts faring worse than they should.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1588,
+    "indent": " ",
+    "key": "AUS_reinforcing_the_supply_network",
+    "ver": "",
+    "val": "Reinforcing the Supply Network",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1589,
+    "indent": " ",
+    "key": "AUS_reinforcing_the_supply_network_desc",
+    "ver": "",
+    "val": "We have come to realize that the efforts we made to improve our supply situation by improving our army's resilience to being under-supplied are not enough. To resolve the situation once and for all, we need to actually improve the supply network itself.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1591,
+    "indent": " ",
+    "key": "AUS_supporting_the_troops",
+    "ver": "",
+    "val": "Supporting the Troops",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1592,
+    "indent": " ",
+    "key": "AUS_supporting_the_troops_desc",
+    "ver": "",
+    "val": "To further enhance our troops' performance on the battlefield we must provide them with as much support as possible. Support companies with field hospitals, recon and support artillery guns would greatly benefit us.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1594,
+    "indent": " ",
+    "key": "AUS_bring_generals_out_of_retirement",
+    "ver": "",
+    "val": "Recall Retired Generals to Service",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1595,
+    "indent": " ",
+    "key": "AUS_bring_generals_out_of_retirement_desc",
+    "ver": "",
+    "val": "Our nation has a history of waging war, and while it has its downsides, it also means we have a wide array of talented commanders available to us. Some of these have since retired, but with some coaxing, we should be able to get them back.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1597,
+    "indent": " ",
+    "key": "AUS_follow_the_jansa_plan",
+    "ver": "",
+    "val": "Follow the Alfred Jansa Plan",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1598,
+    "indent": " ",
+    "key": "AUS_follow_the_jansa_plan_desc",
+    "ver": "",
+    "val": "The experienced Field Marshal Alfred Jansa has long since been working on a plan to defend [AUS.GetNameDef] in the event of a [GER.GetAdjective] attack. With the current situation in the world, it seems we might unfortunately need that plan.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1599,
+    "indent": " ",
+    "key": "AUS_follow_the_jansa_plan_tt",
+    "ver": "",
+    "val": "§RWill permanently remove Franz Böhme as a possible Chief of Army!§!",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1600,
+    "indent": " ",
+    "key": "AUS_follow_the_jansa_plan_tt2",
+    "ver": "",
+    "val": "Available as a §YChief of Army§!:",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1602,
+    "indent": " ",
+    "key": "AUS_fortify_the_traun_line",
+    "ver": "",
+    "val": "Fortify the Traun Line",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1603,
+    "indent": " ",
+    "key": "AUS_fortify_the_traun_line_available_tt",
+    "ver": "",
+    "val": "At least one province in §Y[152.GetName]§! or §Y[4.GetName]§! bordering §Y[GER.GetNameWithFlag]§! has room to build §Y3§! or more §YLand Forts§!",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1604,
+    "indent": " ",
+    "key": "AUS_fortify_the_traun_line_bypass_tt",
+    "ver": "",
+    "val": "No provinces in §Y[152.GetName]§! or §Y[4.GetName]§! bordering §Y[GER.GetNameWithFlag]§! has room to build §Y3§! or more §YLand Forts§!",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1605,
+    "indent": " ",
+    "key": "AUS_fortify_the_traun_line_desc",
+    "ver": "",
+    "val": "The first step of the plan outlined by Jansa was to build up forts along the river Traun, but as things stand, the choice has been made to push the forts up against the [GER.GetAdjective] border. We should get this project started before it is no longer of use.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1606,
+    "indent": " ",
+    "key": "AUS_fortify_the_traun_line_tt",
+    "ver": "",
+    "val": "Builds level 3 §YLand Forts§! along the [GER.GetAdjective] border from Linz to Salzburg in provinces that have space for it",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1608,
+    "indent": " ",
+    "key": "AUS_extend_the_traun_line",
+    "ver": "",
+    "val": "Extend the Traun Line",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1609,
+    "indent": " ",
+    "key": "AUS_extend_the_traun_line_desc",
+    "ver": "",
+    "val": "While the current fortifications have secured the North-Western border, we still have a mountain-pass near Innsbruck that is left unguarded. By extending the fortification line we can ensure no enemy sneaks in behind our fortifications.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1610,
+    "indent": " ",
+    "key": "AUS_extend_the_traun_line_available_tt",
+    "ver": "",
+    "val": "At least one province in §Y[153.GetName]§! bordering §Y[GER.GetNameWithFlag]§! has room to build §Y3§! or more §YLand Forts§!",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1611,
+    "indent": " ",
+    "key": "AUS_extend_the_traun_line_bypass_tt",
+    "ver": "",
+    "val": "No provinces in §Y[153.GetName]§! bordering §Y[GER.GetNameWithFlag]§! has room to build §Y3§! or more §YLand Forts§!",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1612,
+    "indent": " ",
+    "key": "AUS_extend_the_traun_line_tt",
+    "ver": "",
+    "val": "Builds level 3 §YLand Forts§! along the [GER.GetAdjective] border from Salzburg to Innsbruck in provinces that have space for it",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1614,
+    "indent": " ",
+    "key": "AUS_the_homeland_front",
+    "ver": "",
+    "val": "The Homeland Front",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1615,
+    "indent": " ",
+    "key": "AUS_the_homeland_front_desc",
+    "ver": "",
+    "val": "In the event that a large scale invasion were to be brought upon us, every Austrian needs to do their duty towards the Homeland. We should drill our soldiers specifically for this scenario, a fight for the homeland, to ensure that should it come to happen, we are prepared.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1617,
+    "indent": " ",
+    "key": "AUS_establish_bohme_plan",
+    "ver": "",
+    "val": "Establish the Franz Böhme Plan",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1618,
+    "indent": " ",
+    "key": "AUS_establish_bohme_plan_desc",
+    "ver": "",
+    "val": "Franz Böhme, one of our Field Marshals, has been looking into an offensive battle plan for if we wish to attack beyond our borders. With our current ambitions, this plan might be useful.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1619,
+    "indent": " ",
+    "key": "AUS_establish_bohme_plan_tt",
+    "ver": "",
+    "val": "§RWill permanently remove Alfred Jansa as a possible Chief of Army!§!",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1621,
+    "indent": " ",
+    "key": "AUS_intensify_training_efforts",
+    "ver": "",
+    "val": "Intensified Training Efforts",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1622,
+    "indent": " ",
+    "key": "AUS_intensify_training_efforts_desc",
+    "ver": "",
+    "val": "While our training efforts have paid off we believe that they could still stand to be improved. By improving the efficiency of our basic training we could decrease the time needing to train a soldier even more.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1624,
+    "indent": " ",
+    "key": "AUS_heeding_the_call_of_duty",
+    "ver": "",
+    "val": "Heeding the Call of Duty",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1625,
+    "indent": " ",
+    "key": "AUS_heeding_the_call_of_duty_desc",
+    "ver": "",
+    "val": "The people of Austria must come to terms with our nation's situation. While no one wishes for a war to be needed, there is still no guarantee that it will not happen. By making sure our nation trusts our judgement, and are willing to fight should the need arise, we will significantly increase our readiness.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1627,
+    "indent": " ",
+    "key": "AUS_strengthen_the_arms_industry",
+    "ver": "",
+    "val": "Leopold Gasser Waffenfabrik",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1628,
+    "indent": " ",
+    "key": "AUS_strengthen_the_arms_industry_desc",
+    "ver": "",
+    "val": "Some of our old manufacturers are still lingering on producing civilian goods, despite our now very obvious needs for armaments. With a monetary incentive we should be able to get Leopold Gasser Waffenfabrik to return to business and produce some well needed guns.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1630,
+    "indent": " ",
+    "key": "AUS_improved_warfare_strategies",
+    "ver": "",
+    "val": "Improved Warfare Strategies",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1631,
+    "indent": " ",
+    "key": "AUS_improved_warfare_strategies_desc",
+    "ver": "",
+    "val": "After many years of being under the Treaty of Saint-Germain-En-Laye our strategies and doctrines have gotten very outdated. While we have pulled through so far, if we do not improve these we are setting ourselves up for failure.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1632,
+    "indent": " ",
+    "key": "AUS_improved_warfare_strategies_bonus",
+    "ver": "",
+    "val": "Improved Warfare Strategies",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1634,
+    "indent": " ",
+    "key": "AUS_hirtenberger_artillery",
+    "ver": "",
+    "val": "Invest in Hirtenberger Artillery",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1635,
+    "indent": " ",
+    "key": "AUS_hirtenberger_artillery_desc",
+    "ver": "",
+    "val": "For a long time Hirtenberger was our go to name when we needed Artillery guns and munitions. Now they have much like the rest of our military industry suffered lack of funding while we were under the Treaty of Saint-Germain-En-Laye. We should make an investment to bring them back on track.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1636,
+    "indent": " ",
+    "key": "AUS_hirtenberger_artillery_tt",
+    "ver": "",
+    "val": "Unlocks §YHirtenberger Defence Systems§! as a designer",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1638,
+    "indent": " ",
+    "key": "AUS_saurerwerke",
+    "ver": "",
+    "val": "Österreichische Saurerwerke",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1639,
+    "indent": " ",
+    "key": "AUS_saurerwerke_desc",
+    "ver": "",
+    "val": "For a long time Österreichische Saurerwerke has been making trucks for various uses. In times like these we need them to focus solely on what they are best at however, and that is making trucks for the military.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1641,
+    "indent": " ",
+    "key": "AUS_graf_und_stift_focus",
+    "ver": "",
+    "val": "Gräf & Stift",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1642,
+    "indent": " ",
+    "key": "AUS_graf_und_stift_focus_desc",
+    "ver": "",
+    "val": "While Gräf & Stift has practically never made trucks for the military, they have a very good reputation for making very quick cars and trucks. While an unconventional approach, it could certainly prove useful in the field.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1644,
+    "indent": " ",
+    "key": "AUS_invite_foreign_tank_designers",
+    "ver": "",
+    "val": "Invite Foreign Tank Designers",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1645,
+    "indent": " ",
+    "key": "AUS_invite_foreign_tank_designers_desc",
+    "ver": "",
+    "val": "[AUS.GetNameDefCap] currently lack a reliable tank designer. So far a wide variety of tanks have been used but it is time that we actually start producing our own tanks. Inviting Ansaldo over to operate here is a great first step.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1646,
+    "indent": " ",
+    "key": "AUS_invite_foreign_tank_designers_tt",
+    "ver": "",
+    "val": "Unlocks §YAnsaldo§! as a designer",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1648,
+    "indent": " ",
+    "key": "AUS_basic_tanks",
+    "ver": "",
+    "val": "Panzer Effort",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1649,
+    "indent": " ",
+    "key": "AUS_basic_tanks_desc",
+    "ver": "",
+    "val": "Most of our tanks are a bit outdated and could use some work. Now that we have someone to build the tanks we might benefit from investing a bit into researching how best to improve our tanks.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1650,
+    "indent": " ",
+    "key": "AUS_panzer_effort_bonus",
+    "ver": "",
+    "val": "Panzer Effort",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1652,
+    "indent": " ",
+    "key": "AUS_advanced_tanks",
+    "ver": "",
+    "val": "Advanced Panzer Effort",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1653,
+    "indent": " ",
+    "key": "AUS_advanced_tanks_desc",
+    "ver": "",
+    "val": "Looking at our tanks we have come to realize that they are either really heavily armored, and slow, or very light and nimble, but not so sturdy. By picking the best of both of these design concepts we should be able to produce tanks that are sturdy, yet nimble, heavily armored, yet fast.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1655,
+    "indent": " ",
+    "key": "AUS_reestablish_austrian_navy",
+    "ver": "",
+    "val": "Re-Establish the Navy",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1656,
+    "indent": " ",
+    "key": "AUS_reestablish_austrian_navy_desc",
+    "ver": "",
+    "val": "The loss of our coastline at the end of the Great War meant we no longer had the possibility of building new ships. We reluctantly gave the remainder of our fleet to the breakout state of [YUG.GetNameDef] who proceeded to then hand it away no more than two weeks later. Now that we once more have the possibility of developing a navy, we must make sure that this mistake is never repeated.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1657,
+    "indent": " ",
+    "key": "AUS_build_dockyards_if_coastal",
+    "ver": "",
+    "val": "Will instantly build a §YNaval Dockyard§! in a random coastal state that Austria controls, only available when in control of at least one coastal state.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1659,
+    "indent": " ",
+    "key": "AUS_rebuild_the_armada",
+    "ver": "",
+    "val": "Rebuild the Armada",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1660,
+    "indent": " ",
+    "key": "AUS_rebuild_the_armada_desc",
+    "ver": "",
+    "val": "We have had a history of producing powerful battleships and ruling the seas. Those days seem far away now but the knowledge has not been lost. It is time we reclaim the seas, and what other way than to build up a sizeable fleet, with large battleships to deter any and all potential attackers.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1662,
+    "indent": " ",
+    "key": "AUS_revive_stt",
+    "ver": "",
+    "val": "Revive STT",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1663,
+    "indent": " ",
+    "key": "AUS_revive_stt_desc",
+    "ver": "",
+    "val": "Stabilimento Tecnico Triestino once was our go to dockyard for our larger ships. The ships they produced were of exquisite quality and served us well back in the day. With a few dockyards now under our control again, we should bring them back into operation once more.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1664,
+    "indent": " ",
+    "key": "AUS_rebuild_the_armada_bonus",
+    "ver": "",
+    "val": "Rebuilding the Armada",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1666,
+    "indent": " ",
+    "key": "AUS_streamline_production",
+    "ver": "",
+    "val": "Streamlining Ship Production",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1667,
+    "indent": " ",
+    "key": "AUS_streamline_production_desc",
+    "ver": "",
+    "val": "Large ships have many upsides such as being a deterrent for attacks, and being capable of causing serious damage to our opponents. They do however also suffer a major drawback, the cost, both in time and materials, is high. Our shipwrights have ideas for how we could possibly speed up the production.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1669,
+    "indent": " ",
+    "key": "AUS_continue_old_production",
+    "ver": "",
+    "val": "Continue the Old Production Lines",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1670,
+    "indent": " ",
+    "key": "AUS_continue_old_production_desc",
+    "ver": "",
+    "val": "Before we lost control over our coastline we had started production of two glorious battleships.  Their hulls are still within our hands and though they are slightly outdated by now, they still could prove a wonderful asset in our new naval efforts.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1671,
+    "indent": " ",
+    "key": "AUS_continue_old_production_tt",
+    "ver": "",
+    "val": "If the tech to build §YBattleships§! have not yet been unlocked, unlocks said tech.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1673,
+    "indent": " ",
+    "key": "AUS_reclaim_dockyards",
+    "ver": "",
+    "val": "Reclaiming Old Dockyards",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1674,
+    "indent": " ",
+    "key": "AUS_reclaim_dockyards_desc",
+    "ver": "",
+    "val": "As the nature of naval battle changes so does the needs of our navy. Long gone are the days of bringing only a few but mighty ships to battle. Modern naval battles requires us to have a much larger capacity for both building new ships, and repairing our own. We should expand upon the number of dockyard",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1676,
+    "indent": " ",
+    "key": "AUS_promote_admirals",
+    "ver": "",
+    "val": "Promote Admirals",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1677,
+    "indent": " ",
+    "key": "AUS_promote_admirals_desc",
+    "ver": "",
+    "val": "Having stood without a navy for so long it comes naturally that we no longer have the amount of admirals we once had. While the pool of possible admirals isn't exactly large, we still have a few with at least some experience that might lead our fleets to victory.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1678,
+    "indent": " ",
+    "key": "AUS_promote_admirals_tt",
+    "ver": "",
+    "val": "Unlocks §YJohannes of Liechtenstein§! (skill 3) and §YCarl Heinz Birnbacher§! (skill 2) as Admirals",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1679,
+    "indent": " ",
+    "key": "AUS_promote_admirals_fasc_com_tt",
+    "ver": "",
+    "val": "Unlocks §YCarl Heinz Birnbacher§! (skill 2) as an Admiral",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1681,
+    "indent": " ",
+    "key": "AUS_defending_the_coast",
+    "ver": "",
+    "val": "Defending the Coast",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1682,
+    "indent": " ",
+    "key": "AUS_defending_the_coast_desc",
+    "ver": "",
+    "val": "Much as rebuilding our old navy in all its' glory appeals to us, we must face the truth. A large scale production of capital ships is not in the books for us anytime soon. Matter of fact, unless we put this small coastal foothold to use immediately, we are much more likely to lose it, than to ever win a naval battle again. Big ships will have to wait, for now what we need is a fleet capable of protecting our coast.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1683,
+    "indent": " ",
+    "key": "AUS_defending_the_coast_bonus",
+    "ver": "",
+    "val": "Defending the Coast",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1685,
+    "indent": " ",
+    "key": "AUS_elin",
+    "ver": "",
+    "val": "ELIN",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1686,
+    "indent": " ",
+    "key": "AUS_elin_desc",
+    "ver": "",
+    "val": "Inspiration can come from the strangest of places. ELIN, a manufacturer of mainly electronics have ventured into making experimental submarines as of late. The submarines are surprisingly good. We should consider approaching them and have them build our submarines in the future.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1688,
+    "indent": " ",
+    "key": "AUS_light_ship_bonus",
+    "ver": "",
+    "val": "A Defensive Swarm",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1689,
+    "indent": " ",
+    "key": "AUS_light_ship_bonus_desc",
+    "ver": "",
+    "val": "It has not taken long for our shipwrights to come up with methods to speed up the production of smaller ships and submarines. By standardizing these methods we should be able to build ourselves a sizeable fleet to keep our coastline safe.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1691,
+    "indent": " ",
+    "key": "AUS_coastal_defence_forts",
+    "ver": "",
+    "val": "Garrisoning the Coast",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1692,
+    "indent": " ",
+    "key": "AUS_coastal_defence_forts_desc",
+    "ver": "",
+    "val": "What we do out at sea is but part of what dictates our chances of success. Another part of it is our coastline, and how aptly it has been fortified. A few well placed coastal forts can after all thwart even the most thoroughly planned invasion.",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1694,
+    "indent": " ",
+    "key": "AUS_naval_efficiency",
+    "ver": "",
+    "val": "[ROOT.GetAdjective] Naval Efficiency",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1695,
+    "indent": " ",
+    "key": "AUS_naval_efficiency_desc",
+    "ver": "",
+    "val": "By hard work and dedication we have, against the odds, rebuilt a sizeable naval presence. Our success has spurred on both our sailors and those who work in the dockyards, we should capitalize on this for that last push towards excellency!",
+    "comment": "",
+    "section": "### AUSTRIAN FOCUS TREE ###"
+  }
+]

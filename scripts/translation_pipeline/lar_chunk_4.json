@@ -1,0 +1,464 @@
+[
+  {
+    "line_num": 282,
+    "key": "exfiltration_submarine_pickup_outcome_fail",
+    "ver": "",
+    "val": "§RThe submarine waited at the agreed-upon extraction point for several hours, but no message was received from shore indicating that our team was ready for extraction. The crew reported increased enemy activity on the shore during that period.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 283,
+    "key": "exfiltration_border_outcome_fail",
+    "ver": "",
+    "val": "§RThe guide on the other side of the border waited in vain for our team to appear, until he had to abandon his post due to an approaching enemy patrol.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 284,
+    "key": "exfiltration_go_to_ground_outcome_fail",
+    "ver": "",
+    "val": "§RThe team has so far failed to make contact during the pre-arranged schedule. We have no further information on what happened to them.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 285,
+    "key": "OPERATION_OUTLOOK_LABEL",
+    "ver": "",
+    "val": "Outlook",
+    "comm": ""
+  },
+  {
+    "line_num": 286,
+    "key": "OPERATION_RISK_HEADER",
+    "ver": "",
+    "val": "§HRisk:§! $VAL|-%0$",
+    "comm": ""
+  },
+  {
+    "line_num": 287,
+    "key": "OPERATION_OUTCOME_HEADER",
+    "ver": "",
+    "val": "§HBonus Outcome:§! $VAL|+%0$",
+    "comm": ""
+  },
+  {
+    "line_num": 288,
+    "key": "OPERATION_BASE",
+    "ver": "",
+    "val": "Operation: ",
+    "comm": ""
+  },
+  {
+    "line_num": 289,
+    "key": "RISK_LOW",
+    "ver": "",
+    "val": "§GSAFE§!",
+    "comm": ""
+  },
+  {
+    "line_num": 290,
+    "key": "RISK_MID",
+    "ver": "",
+    "val": "§RRISKY§!",
+    "comm": ""
+  },
+  {
+    "line_num": 291,
+    "key": "RISK_HIGH",
+    "ver": "",
+    "val": "§RDEADLY§!",
+    "comm": ""
+  },
+  {
+    "line_num": 292,
+    "key": "OUTCOME_BASE",
+    "ver": "",
+    "val": "§YROUTINE§!",
+    "comm": ""
+  },
+  {
+    "line_num": 293,
+    "key": "OUTCOME_GOOD",
+    "ver": "",
+    "val": "§GGOOD§!",
+    "comm": ""
+  },
+  {
+    "line_num": 294,
+    "key": "OUTCOME_VGOOD",
+    "ver": "",
+    "val": "§GEXCELLENT§!",
+    "comm": ""
+  },
+  {
+    "line_num": 295,
+    "key": "enemy_has_equal_or_better_radar_tech_trigger_tt",
+    "ver": "",
+    "val": "The enemy has equal or better radar technology.",
+    "comm": ""
+  },
+  {
+    "line_num": 296,
+    "key": "OPERATION_BONUS_REWARD",
+    "ver": "",
+    "val": "The operation was an immense success, and yielded §Gbonus rewards§!!",
+    "comm": ""
+  },
+  {
+    "line_num": 297,
+    "key": "intelligency_agency_resistance_boost_tt",
+    "ver": "",
+    "val": "Intelligence Operations: $VALUE|=-%0$",
+    "comm": ""
+  },
+  {
+    "line_num": 298,
+    "key": "targeted_sabotage_resources_2_tt",
+    "ver": "",
+    "val": "Local Resistance in [From.From.GetName] will focus more of their efforts on sabotaging local resource extraction.",
+    "comm": ""
+  },
+  {
+    "line_num": 299,
+    "key": "targeted_sabotage_resources_3_tt",
+    "ver": "",
+    "val": "Local Resistance in [From.From.GetName] will make a large effort to sabotage local resource extraction.",
+    "comm": ""
+  },
+  {
+    "line_num": 300,
+    "key": "targeted_sabotage_industry_2_tt",
+    "ver": "",
+    "val": "Local Resistance in [From.From.GetName] will focus more of their efforts on sabotaging local factories.",
+    "comm": ""
+  },
+  {
+    "line_num": 301,
+    "key": "targeted_sabotage_industry_3_tt",
+    "ver": "",
+    "val": "Local Resistance in [From.From.GetName] will make a large effort to sabotage local factories.",
+    "comm": ""
+  },
+  {
+    "line_num": 302,
+    "key": "targeted_sabotage_infrastructure_2_tt",
+    "ver": "",
+    "val": "Local Resistance in [From.From.GetName] will focus more of their efforts on sabotaging local infrastructure.",
+    "comm": ""
+  },
+  {
+    "line_num": 303,
+    "key": "targeted_sabotage_infrastructure_3_tt",
+    "ver": "",
+    "val": "Local Resistance in [From.From.GetName] will make a large effort to sabotage local infrastructure",
+    "comm": ""
+  },
+  {
+    "line_num": 304,
+    "key": "GER_heavy_water_production_underway",
+    "ver": "",
+    "val": "Heavy Water Production underway",
+    "comm": ""
+  },
+  {
+    "line_num": 305,
+    "key": "heavy_water_infiltration_outcome",
+    "ver": "",
+    "val": "The team successfully parachuted into the area.",
+    "comm": ""
+  },
+  {
+    "line_num": 306,
+    "key": "heavy_water_attack_outcome",
+    "ver": "",
+    "val": "The team successfully infiltrated the plant, avoiding all guards. Less than an hour later, a major explosion wrecked the plant.",
+    "comm": ""
+  },
+  {
+    "line_num": 307,
+    "key": "heavy_water_exfiltration_outcome",
+    "ver": "",
+    "val": "We have not heard anything from the team since the raid, but this is expected.",
+    "comm": ""
+  },
+  {
+    "line_num": 308,
+    "key": "heavy_water_exfiltration_outcome_fail",
+    "ver": "",
+    "val": "German sources have announced the capture of the Operation Gunnerside team. It appears that the team ran into trouble while making its getaway from the plant.",
+    "comm": ""
+  },
+  {
+    "line_num": 309,
+    "key": "bruneval_infiltration_outcome",
+    "ver": "",
+    "val": "The assault unit landed successfully, with minimal scattering from the paradrop.",
+    "comm": ""
+  },
+  {
+    "line_num": 310,
+    "key": "bruneval_attack_outcome",
+    "ver": "",
+    "val": "The paratroopers moved towards the objective and destroyed the weak garrison in a short but fierce firefight.",
+    "comm": ""
+  },
+  {
+    "line_num": 311,
+    "key": "bruneval_exfiltration_outcome",
+    "ver": "",
+    "val": "The force embarked on landing craft for transportation back to our lines, taking with it an enemy radar technician for interrogation.",
+    "comm": ""
+  },
+  {
+    "line_num": 312,
+    "key": "bruneval_exfiltration_outcome_fail",
+    "ver": "",
+    "val": "Following the evacuation to Britain, it was discovered that our agent was not amongst those recovered from the beach. It is unclear when exactly contact was lost, but we must assume the worst.",
+    "comm": ""
+  },
+  {
+    "line_num": 313,
+    "key": "capture_tito_attack_outcome",
+    "ver": "",
+    "val": "See attached operation report for further information on the operation's outcome.",
+    "comm": ""
+  },
+  {
+    "line_num": 314,
+    "key": "organise_cells_outcome",
+    "ver": "",
+    "val": "Several revolutionary cells were organized and have begun operating in the enemy rear.",
+    "comm": ""
+  },
+  {
+    "line_num": 315,
+    "key": "infiltrate_civil_service_outcome",
+    "ver": "",
+    "val": "We have placed a number of reliable people in positions of power, allowing them to quickly take over administrating liberated territories.",
+    "comm": ""
+  },
+  {
+    "line_num": 316,
+    "key": "workers_militia_outcome",
+    "ver": "",
+    "val": "Several battalions of worker militia stand ready to guard critical installations.",
+    "comm": ""
+  },
+  {
+    "line_num": 317,
+    "key": "organize_strikes_outcome",
+    "ver": "",
+    "val": "Our agent has successfully convinced trade unionists and workers to begin a major strike.",
+    "comm": ""
+  },
+  {
+    "line_num": 318,
+    "key": "preposition_units_outcome",
+    "ver": "",
+    "val": "Our assets in the country have been placed to capture critical infrastructure when the uprising begins.",
+    "comm": ""
+  },
+  {
+    "line_num": 319,
+    "key": "launch_coup_exfiltration_outcome",
+    "ver": "",
+    "val": "On receipt of the start signal, our agent led several units to capture their assigned objectives. The rebels have successfully taken control of a slice of territory.",
+    "comm": ""
+  },
+  {
+    "line_num": 320,
+    "key": "launch_coup_exfiltration_outcome_fail",
+    "ver": "",
+    "val": "In the confusion of the uprising, we have lost contact with our operative. We may never find out what happened.",
+    "comm": ""
+  },
+  {
+    "line_num": 321,
+    "key": "free_agency_upgrade_tt",
+    "ver": "",
+    "val": "Gain one random §YAgency Upgrade§!",
+    "comm": ""
+  },
+  {
+    "line_num": 323,
+    "key": "operation_warsaw_uprising",
+    "ver": "",
+    "val": "The Warsaw Uprising",
+    "comm": ""
+  },
+  {
+    "line_num": 324,
+    "key": "operation_warsaw_uprising_desc",
+    "ver": "",
+    "val": "The brave resistance fighters of Poland long to liberate Warsaw our nation from our enemies. We just need to give them the signal and Poland will live once again!",
+    "comm": ""
+  },
+  {
+    "line_num": 325,
+    "key": "warsaw_uprising_operation_tt",
+    "ver": "",
+    "val": "Trigger a national uprising in Poland, creating new units in its states.",
+    "comm": ""
+  },
+  {
+    "line_num": 327,
+    "key": "raid_trotskys_villa",
+    "ver": "",
+    "val": "Raid Trotsky's Villa",
+    "comm": ""
+  },
+  {
+    "line_num": 328,
+    "key": "raid_trotskys_villa_desc",
+    "ver": "",
+    "val": "Trotsky has been holed up in his villa, corresponding with other party members to plot against the Soviet state. We can send a small team to attack his house and put this to an end.",
+    "comm": ""
+  },
+  {
+    "line_num": 329,
+    "key": "raid_trotskys_villa_outcome_tt",
+    "ver": "",
+    "val": "A small group of assassins will be sent to Trotsky's villa to try and kill him.",
+    "comm": ""
+  },
+  {
+    "line_num": 330,
+    "key": "raid_trotskys_villa_attack",
+    "ver": "",
+    "val": "Storm the Villa",
+    "comm": ""
+  },
+  {
+    "line_num": 331,
+    "key": "raid_trotskys_villa_attack_desc",
+    "ver": "",
+    "val": "A small group led by a NKVD officer will breach the villa, overpower any guards, find Trotsky, and execute him for crimes against the state.",
+    "comm": ""
+  },
+  {
+    "line_num": 332,
+    "key": "raid_trotskys_villa_attack_outcome",
+    "ver": "",
+    "val": "The team made its way into the villa and engaged in a firefight with Trotsky's guards.",
+    "comm": ""
+  },
+  {
+    "line_num": 333,
+    "key": "murder_trotsky",
+    "ver": "",
+    "val": "Subtle Assassination",
+    "comm": ""
+  },
+  {
+    "line_num": 334,
+    "key": "murder_trotsky_desc",
+    "ver": "",
+    "val": "A direct assault is unlikely to succeed. We should use more subtle means to get close to Trotsky, and then strike him down while his back is turned.",
+    "comm": ""
+  },
+  {
+    "line_num": 335,
+    "key": "murder_trotsky_outcome_tt",
+    "ver": "",
+    "val": "We will attempt to assassinate Trotsky using an agent we have placed in his circle.",
+    "comm": ""
+  },
+  {
+    "line_num": 336,
+    "key": "murder_trotsky_infiltration",
+    "ver": "",
+    "val": "Forged Documents",
+    "comm": ""
+  },
+  {
+    "line_num": 337,
+    "key": "murder_trotsky_infiltration_desc",
+    "ver": "",
+    "val": "Using a forged Canadian passport, our Agent will travel to Trotsky's location and befriend his guards.",
+    "comm": ""
+  },
+  {
+    "line_num": 338,
+    "key": "murder_trotsky_infiltration_outcome",
+    "ver": "",
+    "val": "Our agent successfully gained the trust of Trotsky and his guards, using the access provided by his forged passport.",
+    "comm": ""
+  },
+  {
+    "line_num": 339,
+    "key": "murder_trotsky_attack",
+    "ver": "",
+    "val": "Assassination",
+    "comm": ""
+  },
+  {
+    "line_num": 340,
+    "key": "murder_trotsky_attack_desc",
+    "ver": "",
+    "val": "Our agent will isolate Trotsky from his guards by showing him an article he wants to discuss in private. Once alone, he will assassinate Trotsky with an ice pick.",
+    "comm": ""
+  },
+  {
+    "line_num": 341,
+    "key": "murder_trotsky_attack_outcome",
+    "ver": "",
+    "val": "The agent managed to get Trotsky alone and struck a heavy blow with an ice pick. This did not immediately kill Trotsky, but he died later in hospital.",
+    "comm": ""
+  },
+  {
+    "line_num": 342,
+    "key": "murder_trotsky_exfiltration",
+    "ver": "",
+    "val": "Escape",
+    "comm": ""
+  },
+  {
+    "line_num": 343,
+    "key": "murder_trotsky_exfiltration_desc",
+    "ver": "",
+    "val": "Our agent will try to use the confusion and chaos to escape and avoid interrogation.",
+    "comm": ""
+  },
+  {
+    "line_num": 344,
+    "key": "murder_trotsky_exfiltration_outcome",
+    "ver": "",
+    "val": "In the confusion following the attack, our agent managed to get away without anyone getting a good view of his face.",
+    "comm": ""
+  },
+  {
+    "line_num": 345,
+    "key": "murder_trotsky_exfiltration_outcome_fail",
+    "ver": "",
+    "val": "Our agent was apprehended by Trotsky's guard detail and turned over to the authorities. He has been charged with murder.",
+    "comm": ""
+  },
+  {
+    "line_num": 346,
+    "key": "nuclear_espionage",
+    "ver": "",
+    "val": "Infiltrate Atomic Program",
+    "comm": ""
+  },
+  {
+    "line_num": 347,
+    "key": "nuclear_espionage_desc",
+    "ver": "",
+    "val": "Our nuclear weapons program is behind other countries. We should plan an operation to infiltrate foreign atomic weapons programs and acquire vital blueprints and data.",
+    "comm": ""
+  },
+  {
+    "line_num": 348,
+    "key": "nuclear_espionage_outcome_tt",
+    "ver": "",
+    "val": "We will place an agent inside the [FROM.GetAdjective] nuclear research program who will attempt to pass technical documentation that can be used in our own atomic project.",
+    "comm": ""
+  },
+  {
+    "line_num": 349,
+    "key": "SWI_boost_resistance_buff",
+    "ver": "",
+    "val": "\\nThe §YStrengthen Resistance§! Operation becomes significantly more effective.",
+    "comm": ""
+  }
+]

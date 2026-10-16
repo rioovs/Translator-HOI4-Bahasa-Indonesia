@@ -1,0 +1,216 @@
+=== [143] japan.1.d (desc) ===
+Chinese authorities claim that the 'breaking point' has been reached in regards to our 'unwarranted aggressions' towards China! Our demands for reparations have been refused, and there are reports of Japanese nationals coming under attack in Shanghai. If we needed an excuse to deal decisively with the Chinese, this is it!
+
+=== [144] japan.2.d (desc) ===
+Surprisingly, the Chinese have chosen to back down following the skirmish at the Marco Polo Bridge. They understand that angering us carries a steep price, and have agreed to extensive territorial concessions that include Beijing and its surrounding regions. Little by little, China is becoming ours.
+
+=== [145] japan.3.t (title) ===
+Border Skirmish: Soviet Victory
+
+=== [146] japan.3.d (desc) ===
+The Russians and their Mongolian lap dogs detected the build-up of our troops in Heilungkiang, and responded with a large raid across the border before our preparations had been completed! Our forces were badly mauled in the intense skirmishing that followed before the two sides disengaged.
+
+=== [147] japan.4.t (title) ===
+Border Skirmish: Japanese Victory
+
+=== [148] japan.4.d (desc) ===
+The Russians and their Mongolian lap dogs detected the build-up of our troops in Heilungkiang, and attempt to launch a large raid across the border to disrupt our preparations! Fortunately, our quick-thinking commanders caught their forces in a pincer movement. We inflicted severe losses on their forces before they fled back across the border.
+
+=== [149] japan.5.t (title) ===
+Soviet Withdrawal
+
+=== [150] japan.5.d (desc) ===
+After detecting our troop build-up, the Soviets wisely chose to withdraw their forces from the areas immediately adjacent to the Manchurian border. Our soldiers have temporarily occupied several of their abandoned border outposts. This will hopefully put an end to the ludicrous border claims the Russians and their Mongolian allies have been putting forward.
+
+=== [151] japan.6.t (title) ===
+The French Accept Our Demands
+
+=== [152] japan.6.d (desc) ===
+The French have agreed to our demands, and their bases and facilities in Indochina are at our complete disposal. They have effectively turned over full control of their colony to us.
+
+=== [153] japan.7.t (title) ===
+The French Refuse Our Demands
+
+=== [154] japan.7.d (desc) ===
+The French have outrageously refused our demands! It seems that if we want Indochina, we'll have to take it by force!
+
+=== [155] japan.8.t (title) ===
+Germany Recalls Advisors
+
+=== [156] japan.8.d (desc) ===
+The Germans have agreed to recall all of their advisors from China. They should be boarding planes bound for Berlin even now. Germany recognizes that the future of Greater East Asia belongs to Japan, not China.
+
+=== [157] japan.9.t (title) ===
+Germany Refuses Our Request
+
+=== [158] japan.9.d (desc) ===
+The Germans have refused to recall their advisors from China, despite the fact that their military mission interferes directly with our plans for East Asia! Do they not see that this erodes the foundation for our nations to build diplomacy on? Can the Germans even be trusted?
+
+=== [159] japan.11.t (title) ===
+Issue Ultimatum to Siam
+
+=== [160] japan.11.d (desc) ===
+Amassing troops in Indochina, close to the Siamese border, we have made it clear that our intent to use their land as a base for freeing Southeast Asia from European colonialism is sincere. Hopefully, by allowing them the option of joining us in a military alliance, effectively making Siam a puppet state of the Japanese Empire, we can avoid a meaninglessly one-sided invasion. Of course, if they reject it, this will be tantamount to a declaration of war.
+
+=== [161] japan.12.t (title) ===
+Japan Issues Ultimatum
+
+=== [162] japan.12.d (desc) ===
+Japan has been gathering forces close to our border for a long time and as suspected, their plan is to use our ports as bases for further expansion into Burma and Malaya. Now, they have presented us with the choices of submitting and allowing them to pass through or facing invasion.\n\nAlthough this could be seen as giving up our sovereignty and turning us into a Japanese puppet state, avoiding a war may be in our best interest.
+
+=== [163] japan.13.t (title) ===
+Siam Accepts Ultimatum
+
+=== [164] japan.13.d (desc) ===
+[From.GetLeader] has wisely decided to accept our ultimatum and forge a military alliance between our nations. Effectively, we will be able to use Siam as a base for future operations in the Pacific.
+
+=== [165] japan.14.t (title) ===
+Siam Rejects Ultimatum
+
+=== [166] japan.14.d (desc) ===
+[From.GetLeader] has rejected our demands to enter Siam and our offer of a military alliance. Having announced our intent to enter regardless, this means war.
+
+=== [167] italy.1.t (title) ===
+Albania Yields
+
+=== [168] italy.1.d (desc) ===
+The Albanian authorities have agreed to our demands, and [ALB.GetLeader] has been forced to resign. From now and until the end of time, Albania shall be Italian!
+
+=== [169] italy.2.t (title) ===
+Zog Rejects the Ultimatum
+
+=== [170] italy.2.d (desc) ===
+Defiant to the last, King Zog has rejected our ultimatum. He and his advisors are now trying to scrape together whatever pitiful defenses Albania can muster. We must occupy Tirana and put an end to this farce!
+
+=== [171] italy.3.t (title) ===
+Italian Ultimatum
+
+=== [172] italy.3.d (desc) ===
+Italian diplomats have presented an ultimatum to us demanding that we submit to their occupation! Albania is to be ruled in a personal union under the Italian king!
+
+=== [173] italy.4.t (title) ===
+Extension of the Vallo Alpino
+
+=== [174] italy.4.d (desc) ===
+Engineers from the Regio Esercito have studied our northern frontier and identified the locations where the Vallo Alpino needs to be strengthened and expanded. The necessary build orders have already been issued.
+
+=== [175] italy.5.t (title) ===
+Italian-German Technology Treaty
+
+=== [176] italy.5.d (desc) ===
+[FROM.GetNameDefCap] suggest an exchange of technology and ideas that will bring our nations closer and make us both stronger.
+
+=== [177] italy.6.t (title) ===
+Italian-German Technology Treaty - Accepted!
+
+=== [178] italy.6.d (desc) ===
+As we expected, the Germans were delighted to draw up a series of exchanges for technology. It's clear that new winds are blowing in Europe and Italy is now a step closer to reclaiming its former glory!
+
+=== [179] italy.7.t (title) ===
+Italian-German Technology Treaty - Rejected!
+
+=== [180] italy.7.d (desc) ===
+The Germans have rejected our offer of a treaty.
+
+=== [181] italy.8.t (title) ===
+Join the French faction.
+
+=== [182] italy.8.d (desc) ===
+Mouvement Franciste is gaining ground in France and has asked us to join their faction. Does this further the interests of Italy?
+
+=== [183] political.1.t (title) ===
+Communism on the Rise
+
+=== [184] political.1.d (desc) ===
+'While workers rise up against their oppressors around the world, those who claim to have achieved class consciousness in [Root.GetName] sit idly by and wait for change to come from within a political system so thoroughly corrupt, only revolution could save us from it!'\n\nSo speak new voices in the [Root.GetAdjective] communist movement. Referring to the rule of [Root.GetRulingParty] as a dictatorship of the bourgeois, they have begun calling for it to be brought out of power by any means necessary. Whether those means will come from within or without remains to be seen.
+
+=== [185] political.2.t (title) ===
+Marxist Sympathies in Government
+
+=== [186] political.2.d (desc) ===
+Although the party line of the [Root.GetRulingParty] is to strongly oppose revolutionary socialism, keeping a watchful eye on the nation's radical left-wing elements, some people in government are more open to the possibility. If nothing else, they see room for addressing the concerns of the people who look to communists for solutions without risking a full-scale civil war.\n\nAlthough they may be seen as traitors by those who remain loyal to [Root.GetLeader], these dissident voices may be the ones to ensure a relatively bloodless transition should the revolution come.
+
+=== [187] political.3.t (title) ===
+Communists Execute Coup
+
+=== [188] political.3.d (desc) ===
+While the popular movement for communist revolution has been loud and terrifying, a certain section of the political movement has been largely quiet and waiting. The wait is now over. Today, just as the [Root.GetRulingParty] leadership and army were bracing for a revolt on national scale, a number of officials in the [Root.GetAdjective] government swiftly placed [Root.GetLeader] under house arrest and entered negotiations with the rebels.\n\nWhile retaining a pretense of safeguarding order, what the negotiations effectively amounted to was to secure positions within the new socialist state for those who chose to cooperate. The coup was finished before anyone could move to stop it, and those who would have are now imprisoned, exiled or executed by the new regime.
+
+=== [189] political.4.t (title) ===
+Class Conflicts Divide [Root.GetName]
+
+=== [190] political.4.d (desc) ===
+The communist revolutionary movement, once a fringe popular among radical academics in theory and troublemakers in practice, has seen increased support among the [Root.GetAdjective] working class. The fact that even more people choose to identify themselves with a 'class' at all implies that Marxist ideas are spreading beyond those who actively seek to overthrow the government.\n\n[Root.GetRulingParty] members lament this development, longing for a time when '[Root.GetAdjective]' was what people identified as first and foremost. Their concerns are not unfounded. It could be argued that a revolution is already underway, occurring on several levels of society, and it may be too late to stop it.
+
+=== [191] political.5.t (title) ===
+Soldiers Desert to Communist Partisans
+
+=== [192] political.5.d (desc) ===
+'Capitalists and nationalists would have you spill your blood for them on the front lines, turning brother against brother over disputes that do not concern the working man! Instead of taking up arms against workers who struggle abroad, raise them against the oppressors and overthrow the tyrants!'\n\nThe army, usually a bastion of patriotism and loyalty, has proven not to be immune to the communist propaganda spreading rapidly in [Root.GetName]. Soldiers are deserting, refusing to fight for their country, sometimes going as far as joining partisan movements that claim to be preparing for revolution.
+
+=== [193] political.6.t (title) ===
+The [GetMonth] Revolution
+
+=== [194] political.6.d (desc) ===
+The notion that the communist movement represents the people has certainly gotten wind in its sails in [Root.GetName], where the public support for the communist party has increased rapidly in the past months. But those who call for revolution are no longer a disparate collection of guerrillas and disgruntled labor unions. The group behind the call for revolt is organized enough to form a government if they succeed.\n\nNevertheless, if the revolution started now, it could hardly be executed without launching [Root.GetName] into civil war. Should the revolutionaries risk tearing the nation in two to satisfy their impatience, or wait for a better opportunity in the future?
+
+=== [195] political.7.t (title) ===
+Fascism on the Rise
+
+=== [196] political.7.d (desc) ===
+'The [Root.GetAdjective] people have been subjected too long to the incompetent rule of [Root.GetRulingParty]! They claim to represent the people, but fail to even keep our streets in order! Only by removing them from power can we make this nation grow!'\n\nThe fascist speakers in [Root.GetName] have made no secret of what they think of our current rulership and political system. Speeches like these have tapped into a public dissent that is particularly pronounced in the more conservative sections of the military.
+
+=== [197] political.8.t (title) ===
+Fascist Sympathies in the Military
+
+=== [198] political.8.d (desc) ===
+Several high-ranking members of the [Root.GetAdjective] military have expressed support, some privately and some openly, for the Fascist movement in [Root.GetName]. They feel the [Root.GetRulingParty] has forgotten how important force of arms is to keeping the country together, and are increasingly annoyed by the army being treated by the government as more of a tool than a one of the nation's most important institutions. Some of them go as far as to suggest that a new government is needed, one that knows how to lead [Root.GetName] into the next half of the century.\n\nThis faction may not predominantly be politicians, but some of them have gained positions in the department of defense. If these developments continue, they may have sufficient political support to execute a coup.
+
+=== [199] political.9.t (title) ===
+Fascist Coup d'état
+
+=== [200] political.9.d (desc) ===
+Some will say they saw it coming. Both those who warned against the dangers of fascism and those who extolled it as the savior of [Root.GetName] have found their prophecies made reality today, as the military in [Root.Capital.GetName] overthrew the [Root.GetRulingParty]-led government and seized power. [Root.GetLeader] is missing, rumored to have gone into exile, and the coup has been met with little initial resistance.\n\nThe new [Root.GetAdjective] leadership has no plans to allow resistance to grow, either. Martial law has been declared and with the changes that are underway, whatever comes after is unlikely to be very different.
+
+=== [201] political.10.t (title) ===
+Civil War for Fascism
+
+=== [202] political.10.d (desc) ===
+While the attempts of the fascist movement to revive nationalistic sentiment have seen some success, the resistance against these ideas remains high. The generals plotting to overthrow the current administration are disappointed in the lack of confidence the [Root.GetAdjective] population themselves seem to have in [Root.GetFascistParty].\n\nThey remain certain that the people will eventually tire of [Root.GetLeader], but are divided on what course of action to take. Some call for a coup to be executed now, before [Root.GetName]'s enemies take action. However, doing so while public support is limited would plunge the nation into civil war.
+
+=== [203] political.11.t (title) ===
+Fascist Assault Divisions Form
+
+=== [204] political.11.d (desc) ===
+The political and the martial have always been intertwined in fascism. In parallel with its growing political movement, fascist parties have begun to form paramilitary organizations to protect against both internal and external threats, the internal threats being their political opponents. Although many people find this development worrying, the wave of militaristic furor has led to an increased amount of volunteers joining our armed forces.\n\nThe political leaders of the movement have pointed out that their opponents have reason to be afraid. Having the army permeated on several levels by so explicitly political elements, the enemies of [Root.GetName] and the enemies of fascism are beginning to look very much alike.
+
+=== [205] political.12.t (title) ===
+The Threat of Communism
+
+=== [206] political.12.d (desc) ===
+'[Root.GetLeader] would have you believe [Root.GetName] stands safe and united. It is no surprise such lies have poisoned the minds of our people, when a snake is coiled up next door! Look no further than across our border to see countrymen having turned on each other in the name of communism, declaring the end of nations. How long until they declare our nation dead as well? Will the [Root.GetRulingParty] protect us from this threat?'\n\nThe growth of the fascist movement in [Root.GetName] has been bolstered by the proximity of the communist revolution. Many moderates who might normally dismiss fascism as another misguided ideological experiment find this to be a very real concern for them as well. Given the choice between the communism of our neighbors and a fascist regime, they would admittedly prefer the latter. They might even be willing to actively support it.
+
+=== [207] political.13.t (title) ===
+Move Towards Democracy
+
+=== [208] political.13.d (desc) ===
+'If we silence the voices of the people, how can any of us claim to be the voice of [Root.GetName] ourselves? If we fear dissent, if we fear being publicly denounced or ousted by public vote, what we truly fear is that we are hated and reviled by our own citizens. Does the [Root.GetRulingParty] really have so little confidence in its principles?'\n\nA careful and loosely organized, but passionate faction in the government has begun to push for less repressive policies against enemies of the state. They want the public involved in decision-making through referendums and local party meetings, even if this means risking the future of the current agenda.
+
+=== [209] political.14.t (title) ===
+[Root.GetRulingParty] Debates Democracy
+
+=== [210] political.14.d (desc) ===
+Surprisingly, the call for more referendums and less repressive measures against opponents of the regime has received some support in internal party discussions. While [Root.GetRulingParty] leadership remains skeptical, several influential members have supported a shift.\n\nPerhaps they have confidence that little will change in practice, or perhaps they are secretly traitors to the party cause, as many of their opponents would have it. Regardless, if the public call for such changes should come, some of the leaders of [Root.GetName] are ready to compromise.
+
+=== [211] political.15.t (title) ===
+Democratic Opposition Forming
+
+=== [212] political.15.d (desc) ===
+Relaxing the restrictions on what sort of anti-[Root.GetRulingParty] propaganda can be spread publicly has, predictably, lead to an increase in public expressions of dissent. Organized demonstrations and pamphlets are so far found mostly in academic institutions and some of [Root.GetName]'s more unfortunate areas, but there is little doubt that the movement is spreading.\n\nThe nation's leaders are torn over the issue. [Root.GetLeader], who maintains an iron grip on party leadership, has little desire to diversify public debate. The first steps have already been taken, however, and there may be no turning back.
+
+=== [213] political.16.t (title) ===
+Public Call for Elections
+
+=== [214] political.16.d (desc) ===
+The demonstrations of public dissent which were once confined to limited areas are now widespread. While people gather in the streets, the [Root.GetRulingParty] finds itself at a crossroads. If we continue allowing this propaganda to spread, the referendums suggested both from within the party itself as well as the opposition may show that we do not have the support of the public. The unity we have strived for is giving way to a plurality of opinions, united against us.
+

@@ -1,0 +1,4282 @@
+[
+  {
+    "key": "INS_nationalize_companies_tt",
+    "version": "",
+    "en": "All Military Industrial Organizations and Industrial Concerns will be nationalized and given a new name."
+  },
+  {
+    "key": "available_focus_tt",
+    "version": "",
+    "en": "§GAvailable§! focus(es):\\n"
+  },
+  {
+    "key": "INS_is_union_tt",
+    "version": "",
+    "en": "Has formed the Netherlands-Indonesia Union"
+  },
+  {
+    "key": "INS_is_union_tt_NOT",
+    "version": "",
+    "en": "Has not formed the Netherlands-Indonesia Union"
+  },
+  {
+    "key": "INS_denounce_soetardjo",
+    "version": "",
+    "en": "Denounce Soetardjo"
+  },
+  {
+    "key": "INS_denounce_soetardjo_tt",
+    "version": "",
+    "en": "We will begin planning an underground revolution, infiltrating the government and establishing guerilla cells across the archipelago. Once we are sufficiently prepared, we will begin a guerilla war of independence against the Dutch."
+  },
+  {
+    "key": "INS_soetardjo_petition_debate_done_tt",
+    "version": "",
+    "en": "The Volksraad debate on Soetardjo's petition for autonomy has concluded"
+  },
+  {
+    "key": "INS_tkr_tt",
+    "version": "",
+    "en": "Modifies §YThe People's Security Army§! by:"
+  },
+  {
+    "key": "INS_commander_sudirman_tt",
+    "version": "",
+    "en": "§YSudirman§!([INS.GetFlag]) Gets promoted to §YField Marshal§!"
+  },
+  {
+    "key": "INS_the_declaration_of_independence",
+    "version": "",
+    "en": "The Declaration of Independence"
+  },
+  {
+    "key": "INS_the_declaration_of_independence_desc",
+    "version": "",
+    "en": "We cannot risk waiting any longer, we must strike while the iron is hot! We should send our militias to seize control of ports, cities, and industrial centres quickly enough that the Dutch authorities will not have time to react. Then, we will declare independence, proclaiming the Republic of Indonesia."
+  },
+  {
+    "key": "INS_the_declaration_of_independence_tt",
+    "version": "",
+    "en": "We will declare §YIndependence§!. Every state where we established a §YMilitia Base§! or §YHeadquarters§! will be under our control, with the rest staying with [HOL.GetNameDef]\\n\\n[HOL.GetNameDefCap] will not recognize our sovereignty and a low-intensity conflict will commence. This could escalate to a §Rwar§!.\\n\\nUnlocks land raids to take over states."
+  },
+  {
+    "key": "INSHOL_the_declaration_of_independence",
+    "version": "",
+    "en": "The National Revolution"
+  },
+  {
+    "key": "INS_laskar_rakjat",
+    "version": "",
+    "en": "Laskar Rakyat"
+  },
+  {
+    "key": "INS_laskar_rakjat_desc",
+    "version": "",
+    "en": "The revolution is made up of many various militias across Indonesia, some big and some small. Organizing the militias is a necessary step to achieve victory. We mustn't be too hasty, however, as empowering militias with ties to our political rivals could pose catastrophe."
+  },
+  {
+    "key": "INS_militia_tt",
+    "version": "",
+    "en": "Creates a new §YFreedom Fighter§! militia division template and unlocks decisions to manage them."
+  },
+  {
+    "key": "INS_militia_warning_tt",
+    "version": "",
+    "en": "Militias are §Ysemi-autonomous§! groups of freedom fighters. They will fight for us, but their help is not free. They will expect to receive compensation for their efforts. §RStability will be drastically impacted if demands are not met!§!"
+  },
+  {
+    "key": "INS_usa_tanks_opinion_mod",
+    "version": "",
+    "en": "Purchased Our Tanks"
+  },
+  {
+    "key": "INS_republic_add_generals_tt",
+    "version": "",
+    "en": "(§Y$INS_sudirman$§!([INS.GetFlag]), §Y$INS_soengkono$§!([INS.GetFlag]), §Y$INS_supriyadi$§!([INS.GetFlag]), §Y$INS_djatikoesoemo$§!([INS.GetFlag]), §Y$INS_maludin_simbolan$§!([INS.GetFlag])) becomes a General."
+  },
+  {
+    "key": "INS_big_militia_presence_tt",
+    "version": "",
+    "en": "Will be controlled by our Militias upon declaring independence."
+  },
+  {
+    "key": "INS_prepare_raiding_bases",
+    "version": "",
+    "en": "Prepare Raiding Bases"
+  },
+  {
+    "key": "INS_prepare_raiding_bases_desc",
+    "version": "",
+    "en": "We will utilize our network of spies to establish bunkers across the entire archipelago in secret, ensuring we are prepared to strike once the revolution begins."
+  },
+  {
+    "key": "INSHOL_dutch_east_indies",
+    "version": "",
+    "en": "Dutch East Indies"
+  },
+  {
+    "key": "INSHOL_dutch_east_indies_desc",
+    "version": "",
+    "en": "The colony was founded nearly 500 years ago, and has taken many shapes since then. The world is changing quickly, and our actions now will dictate the future of Dutch-Indonesian relations far into the future."
+  },
+  {
+    "key": "INSHOL_the_war_in_europe",
+    "version": "",
+    "en": "The War in Europe"
+  },
+  {
+    "key": "INSHOL_the_war_in_europe_desc",
+    "version": "",
+    "en": "The conflict in Europe is rapidly escalating, and the Netherlands is now at war. We can no longer rely on them to protect us and must stand our ground, or else we risk being overtaken by foreign powers."
+  },
+  {
+    "key": "INSHOL_military_equipment_contracts",
+    "version": "",
+    "en": "Military Equipment Contracts"
+  },
+  {
+    "key": "INSHOL_military_equipment_contracts_desc",
+    "version": "",
+    "en": "The Indies is a vast archipelago with tens of millions of citizens. We are far from having the Industrial capacity necessary to defend ourselves. However, we have enough resources to secure trade all across the world. By securing contracts with Democracies across the world, our problem can be solved."
+  },
+  {
+    "key": "INSHOL_hawk_75a7",
+    "version": "",
+    "en": "The Hawk 75a-7"
+  },
+  {
+    "key": "INSHOL_hawk_75a7_desc",
+    "version": "",
+    "en": "The American Hawk 75A-7 fighter is the perfect plane for the Indies, affordable and powerful. We can secure a deal with the manufacturer in order to make the much needed improvements to our Air Force."
+  },
+  {
+    "key": "INSHOL_purchase_american_tanks",
+    "version": "",
+    "en": "Purchase American Tanks"
+  },
+  {
+    "key": "INSHOL_purchase_american_tanks_desc",
+    "version": "",
+    "en": "While the Indies lacks the industry needed for Tank Manufacturing, we can purchase them directly from the United States funded by the Indies rubber industry."
+  },
+  {
+    "key": "INSHOL_purchase_british_artillery",
+    "version": "",
+    "en": "Purchase British Artillery"
+  },
+  {
+    "key": "INSHOL_purchase_british_artillery_desc",
+    "version": "",
+    "en": "We can outsource our Artillery manufacturing to the United Kingdom, allowing us to prioritize other equipment."
+  },
+  {
+    "key": "INSHOL_produce_own_goods",
+    "version": "",
+    "en": "Produce Our Own Goods"
+  },
+  {
+    "key": "INSHOL_produce_own_goods_desc",
+    "version": "",
+    "en": "While we have plenty of lucrative trade deals we can secure, we must not forget about our own production lines and military industrial companies. We should subsidize said companies so that we can decrease our dependence on foreign imports."
+  },
+  {
+    "key": "INSHOL_east_indies_investments",
+    "version": "",
+    "en": "East Indies Investments"
+  },
+  {
+    "key": "INSHOL_east_indies_investments_desc",
+    "version": "",
+    "en": "A good overlord is one that invests in the development of her Colonies. Investing into the economic development of the Indies is in our best interest, and beneficial for the citizens of the Colony."
+  },
+  {
+    "key": "INSHOL_east_indies_student_exchange",
+    "version": "",
+    "en": "East Indies Student Exchange Program"
+  },
+  {
+    "key": "INSHOL_east_indies_student_exchange_desc",
+    "version": "",
+    "en": "Creating a system where Indonesians can move to the Netherlands to study in our Universities can be a significant boon to the economy of the Netherlands and Indies alike."
+  },
+  {
+    "key": "INSHOL_east_indies_fokker_division",
+    "version": "",
+    "en": "Form an East Indies Fokker Division"
+  },
+  {
+    "key": "INSHOL_east_indies_fokker_division_desc",
+    "version": "",
+    "en": "Fokker is being licensed by the Indies Air Force enough to where it is worth considering creating a dedicated subsidiary prioritizing the Indies Air Force."
+  },
+  {
+    "key": "INSHOL_expand_shell",
+    "version": "",
+    "en": "Expand Shell's Infrastructure"
+  },
+  {
+    "key": "INSHOL_expand_shell_desc",
+    "version": "",
+    "en": "Shell is gradually becoming a larger part of our economy. It is clear we must expand the oil infrastructure in the Indies to keep up with Shell's export capacity."
+  },
+  {
+    "key": "INSHOL_increase_funding_for_tix",
+    "version": "",
+    "en": "Increase Funding for the T.IX Airplane Project"
+  },
+  {
+    "key": "INSHOL_increase_funding_for_tix_desc",
+    "version": "",
+    "en": "Engineers at Fokker are developing a new twin-engine bomber to replace the obsolete models used by the Indies Air Force. This project has a very low budget, and is likely to not be completed for a very long time. We can increase their funding to greatly speed up progress."
+  },
+  {
+    "key": "INSHOL_reduce_land_ownership_taxes",
+    "version": "",
+    "en": "Reduce Land Ownership Taxes"
+  },
+  {
+    "key": "INSHOL_reduce_land_ownership_taxes_desc",
+    "version": "",
+    "en": "We should reduce the tax placed on Indonesian citizens that own land, encouraging the development of farms and businesses."
+  },
+  {
+    "key": "INSHOL_coffee_plantations",
+    "version": "",
+    "en": "Coffee Plantations"
+  },
+  {
+    "key": "INSHOL_coffee_plantations_desc",
+    "version": "",
+    "en": "We should focus on obtaining more state-owned land in the eastern islands. We can use this land to build Coffee plantations."
+  },
+  {
+    "key": "INSHOL_overallwagen",
+    "version": "",
+    "en": "Overvalwagen"
+  },
+  {
+    "key": "INSHOL_overallwagen_desc",
+    "version": "",
+    "en": "Tanks are not necessarily the solution for the East Indies Army. We lack the industrial strength necessary to produce them, and the harsh terrain renders them niche. We could invest in building Armored Cars for Indonesia to fill the gap."
+  },
+  {
+    "key": "INSHOL_indonesian_cheap_labor",
+    "version": "",
+    "en": "Indonesian Cheap Labor"
+  },
+  {
+    "key": "INSHOL_indonesian_cheap_labor_desc",
+    "version": "",
+    "en": "$CONGO_cheap_labor_desc$\" #LL: stealing this to save time, hope you don't mind!\n  INSHOL_eastern_development_fund: \"Development Fund for the Eastern Islands"
+  },
+  {
+    "key": "INSHOL_eastern_development_fund_desc",
+    "version": "",
+    "en": "We focus too much on investments into Java and Sumatra, ignoring most of the Colonies land. We must commit to developing infrastructure in the East to allow for future industrialization."
+  },
+  {
+    "key": "INSHOL_increase_rubber_taxes",
+    "version": "",
+    "en": "Increase Rubber Taxes"
+  },
+  {
+    "key": "INSHOL_increase_rubber_taxes_desc",
+    "version": "",
+    "en": "Many rubber companies in the Indies are acquiring great wealth using the resources of the Colony. It is only fair we put a hefty tax on these operations."
+  },
+  {
+    "key": "INSHOL_reform_knil",
+    "version": "",
+    "en": "Reform the KNIL"
+  },
+  {
+    "key": "INSHOL_reform_knil_desc",
+    "version": "",
+    "en": "Since the East Indies completed its conquest of the entire archipelago, the Royal Netherlands East Indies Army has remained immobile and has a severe lack of funding. With rising tensions worldwide, we must begin rearming the Indies sooner rather than later."
+  },
+  {
+    "key": "INSHOL_fund_ml_knil",
+    "version": "",
+    "en": "Fund the ML-KNIL"
+  },
+  {
+    "key": "INSHOL_fund_ml_knil_desc",
+    "version": "",
+    "en": "If we want to keep up with the armies of the world, we must build a proper air force of our own, otherwise we will be at a significant disadvantage."
+  },
+  {
+    "key": "INSHOL_bandung_aircraft_facility_tt",
+    "version": "",
+    "en": "§YWest Java:§!\\n    Add §G1§! Building Slots and §G1§! §YMilitary Factory§! per prerequisite focus completed."
+  },
+  {
+    "key": "INSHOL_rangers",
+    "version": "",
+    "en": "Rangers"
+  },
+  {
+    "key": "INSHOL_rangers_desc",
+    "version": "",
+    "en": "The Indies is a vast archipelago with a diverse environment. We should train Rangers adapted to combat in these harsh environments, to ensure we are ready to defend them."
+  },
+  {
+    "key": "INSHOL_mountaineers",
+    "version": "",
+    "en": "Mountaineers"
+  },
+  {
+    "key": "INSHOL_mountaineers_desc",
+    "version": "",
+    "en": "We should train Mountaineers that are prepared to fight in the hostile terrain of our archipelago."
+  },
+  {
+    "key": "INSHOL_elevate_elite_infantry",
+    "version": "",
+    "en": "Depot Speciale Troepen"
+  },
+  {
+    "key": "INSHOL_elevate_elite_infantry_desc",
+    "version": "",
+    "en": "We cannot rely on great war strategies forever, we must adapt to new technologies and ensure we do not fall behind. We should establish several elite infantry divisions that are ready to defend all sorts of environments."
+  },
+  {
+    "key": "INSHOL_modernize_knil",
+    "version": "",
+    "en": "Modernize the KNIL"
+  },
+  {
+    "key": "INSHOL_modernize_knil_desc",
+    "version": "",
+    "en": "We will study new strategies and doctrines for the East Indies Army, ensuring we maintain an advantage on the enemy."
+  },
+  {
+    "key": "INSHOL_transfer_of_henri_winkelman",
+    "version": "",
+    "en": "Transfer of Henri Winkelman"
+  },
+  {
+    "key": "INSHOL_transfer_of_henri_winkelman_desc",
+    "version": "",
+    "en": "Henri Winkelman previously served in the KNIL for many years. It is clear he is needed in the Indies once more, and we should arrange for his formal transfer to the East Indies."
+  },
+  {
+    "key": "INSHOL_eastern_conscription",
+    "version": "",
+    "en": "Raise the Auxiliary Corps"
+  },
+  {
+    "key": "INSHOL_eastern_conscription_desc",
+    "version": "",
+    "en": "There are several indigenous auxiliary corps on Java and Madura which are controlled by local princely rulers. In these dire times, we could negotiate an agreement with the local rulers wherein these divisions will be under our authority."
+  },
+  {
+    "key": "INSHOL_establish_vk_knil",
+    "version": "",
+    "en": "Establish the VK-KNIL"
+  },
+  {
+    "key": "INSHOL_establish_vk_knil_desc",
+    "version": "",
+    "en": "We will establish a Women's Volunteer Corps for the KNIL. Their contributions will serve an important role in improving our logistics and communications."
+  },
+  {
+    "key": "INSHOL_emergency_dockyard_construction",
+    "version": "",
+    "en": "Emergency Dockyard Construction"
+  },
+  {
+    "key": "INSHOL_emergency_dockyard_construction_desc",
+    "version": "",
+    "en": "The threat of a naval invasion cannot be understated, we must prioritize our naval defense as our top priority."
+  },
+  {
+    "key": "INSHOL_emergency_powers_gov_general",
+    "version": "",
+    "en": "Emergency Powers For the Governor General"
+  },
+  {
+    "key": "INSHOL_emergency_powers_gov_general_desc",
+    "version": "",
+    "en": "The ongoing war requires hard decisions to be made without delay, which is not possible when all decisions in the Indies must go through the Netherlands beforehand. We should grant emergency authority to [INS.GetLeader] so that he can act without delay."
+  },
+  {
+    "key": "INSHOL_emergency_naval_purchases",
+    "version": "",
+    "en": "Emergency Naval Purchases"
+  },
+  {
+    "key": "INSHOL_emergency_naval_purchases_desc",
+    "version": "",
+    "en": "Our coasts are unsafe and insufficiently defended. Time is of the essence, we must obtain a stronger navy or we will surely perish. We will purchase ships from private companies using debt, and refit them into naval destroyers."
+  },
+  {
+    "key": "INSHOL_east_indies_navy",
+    "version": "",
+    "en": "East Indies Navy"
+  },
+  {
+    "key": "INSHOL_east_indies_navy_desc",
+    "version": "",
+    "en": "[INS.GetNameDefCap] lacks an official Navy, leaving the Netherlands in charge of defending the colony. With the increasing tension in Europe and Asia, this will not continue to work. We must take the first step toward founding a dedicated [INS.GetAdjective] navy."
+  },
+  {
+    "key": "INSHOL_marines",
+    "version": "",
+    "en": "Marines"
+  },
+  {
+    "key": "INSHOL_marines_desc",
+    "version": "",
+    "en": "We should establish a dedicated Indies Marine Corps under the new Navy, and send marines in training to learn on Dutch ships."
+  },
+  {
+    "key": "INSHOL_domestic_ship_production",
+    "version": "",
+    "en": "Domestic Ship Production"
+  },
+  {
+    "key": "INSHOL_domestic_ship_production_desc",
+    "version": "",
+    "en": "If we want our Navy to stand against our neighbors, we must begin to ramp up domestic ship production."
+  },
+  {
+    "key": "INSHOL_destroyers",
+    "version": "",
+    "en": "Destroyers"
+  },
+  {
+    "key": "INSHOL_destroyers_desc",
+    "version": "",
+    "en": "Our heavier warships cannot work the narrow seas of the archipelago without escorts to screen them. By laying down modern destroyers, the [ROOT.GetAdjective] navy can guard its shipping lanes and drive off torpedo craft across the straits."
+  },
+  {
+    "key": "INSHOL_cruisers",
+    "version": "",
+    "en": "Cruisers"
+  },
+  {
+    "key": "INSHOL_cruisers_desc",
+    "version": "",
+    "en": "A fleet without battleships must rest its weight on its cruisers. Building a strong cruiser squadron gives the [ROOT.GetAdjective] navy a hard core able to patrol the long distances between the islands and answer any raider that enters our waters."
+  },
+  {
+    "key": "INSHOL_submarines",
+    "version": "",
+    "en": "Submarines"
+  },
+  {
+    "key": "INSHOL_submarines_desc",
+    "version": "",
+    "en": "The straits of the East Indies are made for ambush, and a submarine costs far less than the warship it sends to the bottom. A strong submarine arm lets the [ROOT.GetAdjective] navy hold the sea lanes and strike at enemy shipping without ever showing itself."
+  },
+  {
+    "key": "INSHOL_outsourced_navy",
+    "version": "",
+    "en": "Outsource Production to Corporations"
+  },
+  {
+    "key": "INSHOL_outsourced_navy_desc",
+    "version": "",
+    "en": "We have enough expenses as it is, we cannot continue to divert more and more of the colonial budget to the Navy. We can pay corporations to handle production for us."
+  },
+  {
+    "key": "INSHOL_divert_civilian_to_navy",
+    "version": "",
+    "en": "Divert Civilian & Army Spending to the Navy"
+  },
+  {
+    "key": "INSHOL_divert_civilian_to_navy_desc",
+    "version": "",
+    "en": "With the current state of the world, the risk of a naval invasion is higher than ever. We cannot afford to be frugal, we must divert funding from all sectors of government towards the Navy."
+  },
+  {
+    "key": "INS_netherlands_can_remove_autonomy_tt_50",
+    "version": "",
+    "en": "\\nIf [HOL.GetFlag]§Y[HOL.GetNameDefCap]§! completes this focus first:\\n    ([INS.GetFlag]§Y[INS.GetName]§!): Add §Y£autonomy_texticon -50.00§!"
+  },
+  {
+    "key": "INS_netherlands_can_remove_autonomy_tt_75",
+    "version": "",
+    "en": "\\nIf [HOL.GetFlag]§Y[HOL.GetNameDefCap]§! completes this focus first:\\n    ([INS.GetFlag]§Y[INS.GetName]§!): Add §Y£autonomy_texticon -75.00§!"
+  },
+  {
+    "key": "INS_netherlands_can_remove_autonomy_tt_100",
+    "version": "",
+    "en": "\\nIf [HOL.GetFlag]§Y[HOL.GetNameDefCap]§! completes this focus first:\\n    ([INS.GetFlag]§Y[INS.GetName]§!): Add §Y£autonomy_texticon -100.00§!"
+  },
+  {
+    "key": "INS_netherlands_can_remove_autonomy_tt_150",
+    "version": "",
+    "en": "\\nIf [HOL.GetFlag]§Y[HOL.GetNameDefCap]§! completes this focus first:\\n    ([INS.GetFlag]§Y[INS.GetName]§!): Add §Y£autonomy_texticon -150.00§!"
+  },
+  {
+    "key": "INS_netherlands_can_remove_autonomy_tt_200",
+    "version": "",
+    "en": "\\nIf [HOL.GetFlag]§Y[HOL.GetNameDefCap]§! completes this focus first:\\n    ([INS.GetFlag]§Y[INS.GetName]§!): Add §Y£autonomy_texticon -200.00§!"
+  },
+  {
+    "key": "INS_netherlands_can_remove_autonomy_tt_250",
+    "version": "",
+    "en": "\\nIf [HOL.GetFlag]§Y[HOL.GetNameDefCap]§! completes this focus first:\\n    ([INS.GetFlag]§Y[INS.GetName]§!): Add §Y£autonomy_texticon -250.00§!"
+  },
+  {
+    "key": "INSHOL_begin_negotiations_soetardjo",
+    "version": "",
+    "en": "Begin Negotiations With Soetardjo"
+  },
+  {
+    "key": "INSHOL_begin_negotiations_soetardjo_desc",
+    "version": "",
+    "en": "Soetardjo's petition for autonomy is promising, giving us an opportunity to compromise between the Nationalists and Loyalists. We should begin official negotiations with his party."
+  },
+  {
+    "key": "INSHOL_urge_gov_veto",
+    "version": "",
+    "en": "Urge A Governor Veto"
+  },
+  {
+    "key": "INSHOL_urge_gov_veto_desc",
+    "version": "",
+    "en": "The Soetardjo Petition is a nationalist scheme the Indies government is falling for. We must urge the Governor General to veto the petition immediately, else we risk losing our colony."
+  },
+  {
+    "key": "INSHOL_eventual_autonomy",
+    "version": "",
+    "en": "Agree to Eventual Autonomy"
+  },
+  {
+    "key": "INSHOL_eventual_autonomy_desc",
+    "version": "",
+    "en": "The Indonesian desire for independence is strong and is not slowing down. We will agree to eventual autonomy for the Indies, but only once the colony has proven it can sustain itself, and will continue to uphold democratic ideals."
+  },
+  {
+    "key": "INSHOL_autonomous_dominion",
+    "version": "",
+    "en": "The Soetardjo Act of [GetYear]"
+  },
+  {
+    "key": "INSHOL_autonomous_dominion_desc",
+    "version": "",
+    "en": "Despite the unreasonable definition 'self-reliance' set by the Netherlands which we must meet for the terms of the Soetardjo petition to be valid, the Indonesian desire for independence is strong enough that we managed to meet these requirements. As per the agreement, we will declare total and unconditional independence from the Dutch crown."
+  },
+  {
+    "key": "INS_cannot_become_independent_tt",
+    "version": "",
+    "en": "§W§Y[INS.GetFlag][INS.GetNameDefCap]§! will be §Rpermanently locked out of becoming independent§! without foreign intervention.§!"
+  },
+  {
+    "key": "INSHOL_sideline_the_volksraad",
+    "version": "",
+    "en": "Sideline the Volksraad"
+  },
+  {
+    "key": "INSHOL_sideline_the_volksraad_desc",
+    "version": "",
+    "en": "The petition called by Soetardjo is in clear violation of Article 1 of the Dutch Constitution, and will only cause difficulty for the Indies administration. The petition must be vetoed."
+  },
+  {
+    "key": "INSHOL_prioritize_dutch_profits",
+    "version": "",
+    "en": "Prioritize Dutch Profits"
+  },
+  {
+    "key": "INSHOL_prioritize_dutch_profits_desc",
+    "version": "",
+    "en": "We will focus our effort on increasing profits for the homeland. Their economic stability is for the good of the Kingdom as a whole."
+  },
+  {
+    "key": "INSHOL_development_loans_netherlands",
+    "version": "",
+    "en": "Development Loans From the Netherlands"
+  },
+  {
+    "key": "INSHOL_development_loans_netherlands_desc",
+    "version": "",
+    "en": "We can take out loans from Dutch companies to speed up our industrialization effort. While we will utilize our position as a developing colony to guarantee low interest rates, we will still have to pay interest."
+  },
+  {
+    "key": "INSHOL_request_economic_dev_subsidy",
+    "version": "",
+    "en": "Request Economic Development Subsidies"
+  },
+  {
+    "key": "INSHOL_request_economic_dev_subsidy_desc",
+    "version": "",
+    "en": "We have proven our value to our overlord as a profitable colony. We can utilize this as bargaining material to get industrial development subsidies."
+  },
+  {
+    "key": "INSHOL_loyalty_to_crown",
+    "version": "",
+    "en": "Loyalty to the Crown"
+  },
+  {
+    "key": "INSHOL_loyalty_to_crown_desc",
+    "version": "",
+    "en": "The East Indies is many things, but above all we are a loyal Dutch colony. Queen Wilhelmina will guide us to victory. We must not allow Nationalism to end nearly 500 years of history, and continue to affirm our absolute loyalty to the Crown."
+  },
+  {
+    "key": "INS_loans_timer",
+    "version": "",
+    "en": "\\nIn §Y365§! days:"
+  },
+  {
+    "key": "INS_expand_batavia_med_school_tt",
+    "version": "",
+    "en": "§Y$INS_dutch_east_indies$§!: Research Speed modifier is at least §G1.00%§!."
+  },
+  {
+    "key": "INS_subsidize_local_business",
+    "version": "",
+    "en": "Subsidize Local Businesses"
+  },
+  {
+    "key": "INS_subsidize_local_business_desc",
+    "version": "",
+    "en": "We should give subsidies to local businesses to stimulate economic growth, boosting our economy in the long run."
+  },
+  {
+    "key": "INSHOL_education_reforms",
+    "version": "",
+    "en": "Education Reforms"
+  },
+  {
+    "key": "INSHOL_education_reforms_desc",
+    "version": "",
+    "en": "Many citizens of the East Indies lack the ability to get an education, and very few have graduated from secondary school. If we want the East Indies to become a wealthy industrialized state, we must ensure education is properly accessible to the population."
+  },
+  {
+    "key": "INS_expand_batavia_med_school",
+    "version": "",
+    "en": "Expand Batavia Medical School"
+  },
+  {
+    "key": "INS_expand_batavia_med_school_desc",
+    "version": "",
+    "en": "Expanding the Batavia Medical School by building new campus facilities and hiring more professors will make further education much more accessible, which is vital for our long term economic growth."
+  },
+  {
+    "key": "INS_prepare_for_policy_shift",
+    "version": "",
+    "en": "Prepare for a Policy Shift"
+  },
+  {
+    "key": "INS_prepare_for_policy_shift_desc",
+    "version": "",
+    "en": "The political landscape in the Indies has been impacted by the national awakening of the past decades, and our current policies are clearly outdated. We should consider making some changes in our governing structure."
+  },
+  {
+    "key": "INS_reallocate_rubber_industry_funding",
+    "version": "",
+    "en": "Reallocate Rubber Industry Funding"
+  },
+  {
+    "key": "INS_reallocate_rubber_industry_funding_desc",
+    "version": "",
+    "en": "Our reliance on selling rubber has had a disastrous effect on our economy. We should diversify our economy by prospecting for resources and opening mines and factories across the archipelago. This will not be a cheap endeavour, so we will have to reduce the budget for maintaining rubber plantations."
+  },
+  {
+    "key": "INS_reallocate_rubber_industry_funding_tt",
+    "version": "",
+    "en": "Unlocks a decision to §Yremove rubber from a state§! and replace it with smaller quantities of §Yother resources§!."
+  },
+  {
+    "key": "INSHOL_nationalist_coallition",
+    "version": "",
+    "en": "A Nationalist Coalition"
+  },
+  {
+    "key": "INSHOL_nationalist_coallition_desc",
+    "version": "",
+    "en": "The Volksraad has spoken with one voice for too long, and that voice has been too quiet. The time for petitions and patient deferrals is past. A coalition of the chamber's nationalist members will set aside their quarrels and demand unconditional independence. Older voices from outside the chamber, men the Dutch once thought safely sidelined, will be welcomed back into the fold."
+  },
+  {
+    "key": "INSHOL_volksraad_compromises",
+    "version": "",
+    "en": "Volksraad Compromises"
+  },
+  {
+    "key": "INSHOL_volksraad_compromises_desc",
+    "version": "",
+    "en": "Reform within the chamber has carried us this far and there is no reason to abandon the road now. The Volksraad will continue its careful work, trading concession for concession with The Hague, pursuing self-rule through patience rather than rupture. A future inside a Dutch commonwealth offers more than a future spent fighting for one outside it."
+  },
+  {
+    "key": "INSHOL_establish_the_princely_council",
+    "version": "",
+    "en": "Establish the Princely Council"
+  },
+  {
+    "key": "INSHOL_establish_the_princely_council_desc",
+    "version": "",
+    "en": "The sultans and rajas of the archipelago command loyalties that no chamber in Batavia ever has. Their courts are older than the Company and older than the Republic that succeeded it. A formal council of the princely houses will give these rulers a seat at the table of the new nation, and bind their authority to ours."
+  },
+  {
+    "key": "INSHOL_nationalize_dutch_companies",
+    "version": "",
+    "en": "Nationalize Dutch Companies"
+  },
+  {
+    "key": "INSHOL_nationalize_dutch_companies_desc",
+    "version": "",
+    "en": "The great trading houses, the shipping lines, the plantation concerns and the banks have worn Dutch names for as long as anyone can remember. They will wear Indonesian ones from now on. The boards will be reseated, the signs taken down, and the capital that was extracted from these islands for three centuries will at last belong to the islands themselves."
+  },
+  {
+    "key": "INSHOL_democracy",
+    "version": "",
+    "en": "A Democratic Indonesia"
+  },
+  {
+    "key": "INSHOL_democracy_desc",
+    "version": "",
+    "en": "The Volksraad began its life as a half-measure, an advisory body with carefully limited teeth, designed to offer the appearance of representation while withholding the substance. It has outgrown its makers. The chamber will be reconstituted as a true legislature, with members chosen by the people it claims to represent and decisions binding on the government that once kept it on a short leash."
+  },
+  {
+    "key": "INSHOL_princely_authority",
+    "version": "",
+    "en": "Princely Authority"
+  },
+  {
+    "key": "INSHOL_princely_authority_desc",
+    "version": "",
+    "en": "A council of advisors is a fine thing in its place, but the sultans who lent their names to the founding of this nation may yet lend more than that. The parliament will not stand in the way of those who would see one of their number raised above the rest. The old courts have waited a long time for this question to be asked of them again."
+  },
+  {
+    "key": "INSHOL_encourage_further_investment",
+    "version": "",
+    "en": "Encourage Further Investment"
+  },
+  {
+    "key": "INSHOL_encourage_further_investment_desc",
+    "version": "",
+    "en": "The terms agreed at the Volksraad have settled the political question for now, and Dutch capital has taken note. Tariffs will be eased, guarantees extended, and the chambers of commerce in Amsterdam and Rotterdam reassured that the archipelago remains open for business. What was profitable under the old arrangement will be profitable under the new one."
+  },
+  {
+    "key": "INSHOL_east_indies_artillery",
+    "version": "",
+    "en": "East Indies Artillery Manufacturing"
+  },
+  {
+    "key": "INSHOL_east_indies_artillery_desc",
+    "version": "",
+    "en": "Opening up artillery manufacturing facilities in Java will allow us to rely less on foreign trade for our military effort."
+  },
+  {
+    "key": "INSHOL_recall_gerardus_johannes_berenschot",
+    "version": "",
+    "en": "Recall General Berenschot"
+  },
+  {
+    "key": "INSHOL_recall_gerardus_johannes_berenschot_desc",
+    "version": "",
+    "en": "Gerardus Johannes Berenschot is one of the most talented Generals in the Commonwealth. He has spent the majority of his career in the Indies but has spent several years in the Netherlands. In these dire times, we must recall him to the Indies to help in the war effort."
+  },
+  {
+    "key": "INSHOL_east_indies_cruiser_manufacturing",
+    "version": "",
+    "en": "East Indies Cruiser Manufacturing"
+  },
+  {
+    "key": "INSHOL_east_indies_cruiser_manufacturing_desc",
+    "version": "",
+    "en": "Manufacturing our own Cruiser ships instead of ordering them directly from the Dutch is the first step towards forming a real Navy, a necessary effort considering the Japanese threat."
+  },
+  {
+    "key": "INSHOL_transfer_of_conrad_helfrich",
+    "version": "",
+    "en": "Transfer Conrad Helfrich to the Indies"
+  },
+  {
+    "key": "INSHOL_transfer_of_conrad_helfrich_desc",
+    "version": "",
+    "en": "Transferring Admiral Conrad Helfrich to the Indies directly will critically improve the naval effort in the Indies."
+  },
+  {
+    "key": "INSHOL_naval_program",
+    "version": "",
+    "en": "Netherlands-Indonesia Naval Program"
+  },
+  {
+    "key": "INSHOL_naval_program_desc",
+    "version": "",
+    "en": "The East Indies Navy is far behind other navies, even colonial navies. It is in the best interest of all parties that we aid in the development of this new navy, in order to ensure hasty progress."
+  },
+  {
+    "key": "INSHOL_naval_program_transfer_25_tt",
+    "version": "",
+    "en": "Transfer §Y25%§! of our naval forces to [INS.GetNameDef]."
+  },
+  {
+    "key": "INSHOL_naval_program_transfer_25_2_tt",
+    "version": "",
+    "en": "§Y[HOL.GetFlag] [HOL.GetNameDefCap]§! will transfer §Y25%§! of their naval forces to §Y[INS.GetNameDefCap]§!."
+  },
+  {
+    "key": "INSHOL_naval_program_transfer_100_tt",
+    "version": "",
+    "en": "Transfer §Rour entire navy§! to [INS.GetNameDef]."
+  },
+  {
+    "key": "INSHOL_naval_program_transfer_100_2_tt",
+    "version": "",
+    "en": "§Y[HOL.GetFlag] [HOL.GetNameDefCap]§! will transfer their entire navy to §Y[INS.GetNameDefCap]§!."
+  },
+  {
+    "key": "INSHOL_naval_program_rejected_tt",
+    "version": "",
+    "en": "Unlocks national focus §Y$INSHOL_naval_secondchance$§!."
+  },
+  {
+    "key": "INSHOL_hybrid_navy",
+    "version": "",
+    "en": "A Hybrid Navy"
+  },
+  {
+    "key": "INSHOL_hybrid_navy_desc",
+    "version": "",
+    "en": "Our Navy cannot rely only on taking over the pacific fleet of [HOL.GetNameDef], we must begin manufacturing our own ships or else one mistake may cut off our entire naval supply."
+  },
+  {
+    "key": "INSHOL_request_naval_control",
+    "version": "",
+    "en": "East Indies Squadron"
+  },
+  {
+    "key": "INSHOL_request_naval_control_desc",
+    "version": "",
+    "en": "[HOL.GetNameDefCap] has fallen and is in no place to operate an entire navy. We should take control over it for the remainder of the war."
+  },
+  {
+    "key": "INSHOL_naval_secondchance",
+    "version": "",
+    "en": "East Indies Naval Scheme"
+  },
+  {
+    "key": "INSHOL_naval_secondchance_desc",
+    "version": "",
+    "en": "While [HOL.GetNameDef] have refused to sign over control over the Navy, we still need to defend the pacific unless we wish to be overtaken. While it may not work out as well as if they agreed to our proposal, we will figure out a good-enough alternative."
+  },
+  {
+    "key": "INSHOL_netherlands_in_exile",
+    "version": "",
+    "en": "Netherlands in Exile"
+  },
+  {
+    "key": "INSHOL_netherlands_in_exile_desc",
+    "version": "",
+    "en": "The tragic fall of our kingdom is now a reality. We cannot sink to the point of defeatism. We must accept what has happened and focus on what we can salvage."
+  },
+  {
+    "key": "INSHOL_relocate_our_generals",
+    "version": "",
+    "en": "Relocate our Army to Java"
+  },
+  {
+    "key": "INSHOL_relocate_our_generals_desc",
+    "version": "",
+    "en": "The remaining exiled Generals, Commanders, and holdout Soldiers must be relocated to [1058.GetName] with utmost priority, before it is too late."
+  },
+  {
+    "key": "INSHOL_netherlands_indonesia_union",
+    "version": "",
+    "en": "Netherlands-Indonesia Union"
+  },
+  {
+    "key": "INSHOL_netherlands_indonesia_union_desc",
+    "version": "",
+    "en": "The concept of an equal union state between [HOL.GetNameDef] and [INS.GetNameDef] is laughable to many, but with the crisis we find ourselves in it is looking like the only way to maximize our chance of maintaining sovereignty."
+  },
+  {
+    "key": "INS_underground_revolution",
+    "version": "",
+    "en": "Underground Revolution"
+  },
+  {
+    "key": "INS_underground_revolution_desc",
+    "version": "",
+    "en": "We will begin planning a revolution from the shadows, slowly increasing membership and militia activity until we are ready to strike."
+  },
+  {
+    "key": "INS_infiltrate_the_media",
+    "version": "",
+    "en": "Infiltrate the Media"
+  },
+  {
+    "key": "INS_infiltrate_the_media_desc",
+    "version": "",
+    "en": "Our movement has secured the membership of several high-ranking members of media organizations in the Indies. We can use this to our advantage to subtly plant pro-revolutionary sentiment in the minds of citizens."
+  },
+  {
+    "key": "INS_infiltrate_the_army",
+    "version": "",
+    "en": "Infiltrate the Army"
+  },
+  {
+    "key": "INS_infiltrate_the_army_desc",
+    "version": "",
+    "en": "Many of our members are enlisted in the KNIL, from low ranking soldiers to majors. We should collect as many secrets as possible, while elevating our own to high positions. Once we pull the trigger, we can stir chaos in the KNIL."
+  },
+  {
+    "key": "INS_privately_owned_military_industry",
+    "version": "",
+    "en": "Privately Owned Military Industry"
+  },
+  {
+    "key": "INS_privately_owned_military_industry_desc",
+    "version": "",
+    "en": "We will establish several shadow corporations in the military industrial sector, ensuring we will retain control over military industry once the revolution has begun."
+  },
+  {
+    "key": "INS_privately_owned_military_industry_tt",
+    "version": "",
+    "en": "Add §G2§! §YMilitary Factory§! in your HQ"
+  },
+  {
+    "key": "INS_instigate_chaos_sulawesi",
+    "version": "",
+    "en": "Instigate Chaos in Sulawesi"
+  },
+  {
+    "key": "INS_instigate_chaos_sulawesi_desc",
+    "version": "",
+    "en": "We will cooperate with local nationalists in Sulawesi, organizing strikes, riots, and radicalizing the population."
+  },
+  {
+    "key": "INS_instigate_chaos_sulawesi_tt",
+    "version": "",
+    "en": "Once we declare independence, we will gain a §Gcore§! on §Y[673.GetName]§! and §Y[1056.GetName]§!. They will continue to be uncored by the Dutch East Indies."
+  },
+  {
+    "key": "INS_instigate_chaos_medan",
+    "version": "",
+    "en": "Instigate Chaos in Medan"
+  },
+  {
+    "key": "INS_instigate_chaos_medan_desc",
+    "version": "",
+    "en": "We will cooperate with local nationalists in Medan and Riouw, organizing strikes, riots, and radicalizing the population."
+  },
+  {
+    "key": "INS_instigate_chaos_medan_tt",
+    "version": "",
+    "en": "Once we declare independence, we will get a §Gcore§! on §Y[1049.GetName]§!. It will continue to be uncored by the Dutch East Indies."
+  },
+  {
+    "key": "INS_embezzlement_scheme_in_batavia",
+    "version": "",
+    "en": "Embezzlement Scheme in Batavia"
+  },
+  {
+    "key": "INS_embezzlement_scheme_in_batavia_desc",
+    "version": "",
+    "en": "We will setup a scheme to move our production from Batavia to republican territory upon declaring independence."
+  },
+  {
+    "key": "INS_embezzlement_scheme_in_batavia_tt",
+    "version": "",
+    "en": "Upon declaring independence, half of all factories in §Y[1058.GetName]§! will be relocated to our §YRevolutionary Headquarters§!."
+  },
+  {
+    "key": "INS_volksraad_rumors",
+    "version": "",
+    "en": "Rumors in The Volksraad"
+  },
+  {
+    "key": "INS_volksraad_rumors_desc",
+    "version": "",
+    "en": "We will begin discreetly discussing the revolution within the Volksraad. If we are successful, we can convince the Indonesian Volksraad members to join our cause."
+  },
+  {
+    "key": "INS_volksraad_rumors_tt",
+    "version": "",
+    "en": "All §YIndonesian §!Volksraad advisors will be §Gkept§! after declaring independence."
+  },
+  {
+    "key": "INS_railway_youth_force",
+    "version": "",
+    "en": "Cooperate With the Railway Youth Force"
+  },
+  {
+    "key": "INS_railway_youth_force_desc",
+    "version": "",
+    "en": "The railway youth force is an Islamic youth militia group primarily active in Central Java, named after their strategy of seizing railways. They would make for a valuable ally, however, they are energetic and want to engage in combat. They will become unhappy with the government if we stay in a ceasefire for too long."
+  },
+  {
+    "key": "INS_sleeper_informant_network",
+    "version": "",
+    "en": "[GetInformantNetworkName]"
+  },
+  {
+    "key": "INS_Sleeper_Informant_Network_name",
+    "version": "",
+    "en": "Sleeper Informant Network"
+  },
+  {
+    "key": "INS_KNIL_Informant_Network_name",
+    "version": "",
+    "en": "KNIL Informant Network"
+  },
+  {
+    "key": "INS_sleeper_informant_network_desc",
+    "version": "",
+    "en": "We will create an informant network that is embedded throughout the KNIL administrative apparatus, giving us advance warning of enemy plans."
+  },
+  {
+    "key": "INS_sleeper_informant_network_tt",
+    "version": "",
+    "en": "§RWhen Independence is declared:§!\\n"
+  },
+  {
+    "key": "INS_the_peoples_security_army",
+    "version": "",
+    "en": "The People's Security Army"
+  },
+  {
+    "key": "INS_the_peoples_security_army_desc",
+    "version": "",
+    "en": "Our members, which are primarily young Indonesians are growing impatient, eager to contribute and fight for our Independence. We should establish a Revolutionary Armed Forces and begin training our future soldiers."
+  },
+  {
+    "key": "INS_commander_sudirman",
+    "version": "",
+    "en": "Sudirman's Army"
+  },
+  {
+    "key": "INS_commander_sudirman_desc",
+    "version": "",
+    "en": "Sudirman, despite being a young up-and-comer has shown great potential and is very popular among the young members of the resistance. He should guide the path of the People's Security Army and lead us to victory."
+  },
+  {
+    "key": "INS_commander_oerip",
+    "version": "",
+    "en": "Oerip's Army"
+  },
+  {
+    "key": "INS_commander_oerip_desc",
+    "version": "",
+    "en": "Oerip has served decades in the army and is the only Indonesian to ever be promoted to Major in the KNIL. His knowledge and experience far outreaches that of any other member. He should guide the path of the People's Security Army and lead us to victory."
+  },
+  {
+    "key": "INS_sudirmans_promotion",
+    "version": "",
+    "en": "Sudirmans Promotion"
+  },
+  {
+    "key": "INS_sudirmans_promotion_desc",
+    "version": "",
+    "en": "Sudirman has shown great leadership skills, and has orchestrated several successful assaults. It is time we recognize our Commander's efforts by giving him the title of General that he deserves."
+  },
+  {
+    "key": "INS_tkr_steal_general",
+    "version": "",
+    "en": "Poach KNIL Generals"
+  },
+  {
+    "key": "INS_tkr_steal_general_desc",
+    "version": "",
+    "en": "If we can convince high-ranking members of the East Indies Army to join our cause, we'll simultaneously improve our army while sabotaging theirs."
+  },
+  {
+    "key": "INS_tkr_supply",
+    "version": "",
+    "en": "Every Revolutionary Must Fight"
+  },
+  {
+    "key": "INS_tkr_supply_desc",
+    "version": "",
+    "en": "We will ensure every member of our movement receives formal military training, no exceptions."
+  },
+  {
+    "key": "INS_tkr_professional_army",
+    "version": "",
+    "en": "A Professional Army"
+  },
+  {
+    "key": "INS_tkr_professional_army_desc",
+    "version": "",
+    "en": "We mustn't rely only on militias, we should develop a professional Republican army to maintain order."
+  },
+  {
+    "key": "INS_arm_the_revolutionaries",
+    "version": "",
+    "en": "Arm the Revolutionaries"
+  },
+  {
+    "key": "INS_arm_the_revolutionaries_desc",
+    "version": "",
+    "en": "We must begin with the revolutionaries and nationalists who are full of energy and ready to give everything they have for Indonesia. We will provide them with training and equipment they need to fight for their country."
+  },
+  {
+    "key": "INS_arm_the_youth",
+    "version": "",
+    "en": "Arm the Youth"
+  },
+  {
+    "key": "INS_arm_the_youth_desc",
+    "version": "",
+    "en": "Beyond the revolutionaries, we must arm the youth. Still full of energy and hope, they will carry the flame of the revolution. We must ensure as many Indonesian young adults as possible are trained and equipped for combat. If fighting reaches their homes, they will be ready to act."
+  },
+  {
+    "key": "INS_arm_the_students",
+    "version": "",
+    "en": "Arm the Students"
+  },
+  {
+    "key": "INS_arm_the_students_desc",
+    "version": "",
+    "en": "Students have built the foundation of the revolution since decades ago, and they will continue to lead it forward."
+  },
+  {
+    "key": "INS_guerilla_industry",
+    "version": "",
+    "en": "Guerilla Industry"
+  },
+  {
+    "key": "INS_guerilla_industry_desc",
+    "version": "",
+    "en": "We will utilize our guerilla forces across the archipelago in order to seize control of factories, allowing us to produce new guns to arm our militias with."
+  },
+  {
+    "key": "INS_indonesian_assault_doctrine",
+    "version": "",
+    "en": "The Indonesian Assault Doctrine"
+  },
+  {
+    "key": "INS_indonesian_assault_doctrine_desc",
+    "version": "",
+    "en": "Soldiers are not all there is to a war. A million men means nothing if they do not have guns to fight with. We must prioritize obtaining high-quality artillery in order to push deeper into enemy-controlled territory."
+  },
+  {
+    "key": "INS_tighter_tkr_integration",
+    "version": "",
+    "en": "Tighter TKR-Laskar Integration"
+  },
+  {
+    "key": "INS_tighter_tkr_integration_desc",
+    "version": "",
+    "en": "The People’s Security Army and the various militia forces do not operate in unity, and coordination is limited. This is only going to cause more and more problems as the war continues, we need to intertwine the armed forces and militias into one unified organization, despite the inevitable protests from militia officers.\" \n  INS_quality_over_quantity: \"Quality Over Quantity"
+  },
+  {
+    "key": "INS_quality_over_quantity_desc",
+    "version": "",
+    "en": "One well trained soldier with a thought-out strategy and modern equipment will beat five students with pistols. We must prioritize high-quality, well-armed soldiers and special forces over mobilizing as many soldiers as possible."
+  },
+  {
+    "key": "INS_add_militia_cap_1_tt",
+    "version": "",
+    "en": "§YFreedom Fighter§! division cap increases by §Y1§!.\\n"
+  },
+  {
+    "key": "INS_add_militia_cap_2_tt",
+    "version": "",
+    "en": "§YFreedom Fighter§! division cap increases by §Y2§!.\\n"
+  },
+  {
+    "key": "INS_add_militia_cap_3_tt",
+    "version": "",
+    "en": "§YFreedom Fighter§! division cap increases by §Y3§!.\\n"
+  },
+  {
+    "key": "INS_add_3_militia_unit_tt",
+    "version": "",
+    "en": "Create three §YFreedom Fighter§! units, which can be used in §Yraids§! to increase §Gmilitia presence§! in Dutch states."
+  },
+  {
+    "key": "INS_add_fully_trained_militia_unit_tt",
+    "version": "",
+    "en": "Create one trained §YFreedom Fighter§! unit.\\n"
+  },
+  {
+    "key": "INS_expand_resistance_membership",
+    "version": "",
+    "en": "Expand Resistance Membership"
+  },
+  {
+    "key": "INS_expand_resistance_membership_desc",
+    "version": "",
+    "en": "Centering our entire movement in one base will guarantee failure. We will draft members into groups of militias to send as envoys that will increase our popularity and control in various regions."
+  },
+  {
+    "key": "INS_deploy_the_kris",
+    "version": "",
+    "en": "Indonesian People's Service of Sulawesi"
+  },
+  {
+    "key": "INS_deploy_the_kris_desc",
+    "version": "",
+    "en": "The Indonesian People's Service of Sulawesi, known in Indonesian as the KRIS are an active group of Militias and form the majority of militia presence in Sulawesi and Manado. We should recruit them to formally fight alongside the TKR."
+  },
+  {
+    "key": "INS_assist_the_pemuda",
+    "version": "",
+    "en": "Assist the Pemuda"
+  },
+  {
+    "key": "INS_assist_the_pemuda_desc",
+    "version": "",
+    "en": "Java is full of various Pemuda student militias. Joining forces with them and providing military assistance in their missions against the Dutch might secure us a useful ally."
+  },
+  {
+    "key": "INS_mobilize_the_pemuda",
+    "version": "",
+    "en": "Mobilize the Pemuda"
+  },
+  {
+    "key": "INS_mobilize_the_pemuda_desc",
+    "version": "",
+    "en": "Now that we have successfully earned the trust of the largest Pemuda groups, we should begin plans to mobilize them into the TKR."
+  },
+  {
+    "key": "INS_organize_jakarta_pemuda",
+    "version": "",
+    "en": "Organize the Jakarta Pemudas"
+  },
+  {
+    "key": "INS_organize_jakarta_pemuda_desc",
+    "version": "",
+    "en": "Java has many Pemuda groups of all sizes. While we have mobilized and recruited most of them, there are dozens of small ones in Jakarta still acting independently. We must contact them and establish collaboration."
+  },
+  {
+    "key": "INS_recognize_moestopos_batallion",
+    "version": "",
+    "en": "Recognition of Moestopo's Batallion"
+  },
+  {
+    "key": "INS_recognize_moestopos_batallion_desc",
+    "version": "",
+    "en": "A revolutionary named Moestopo has declared himself as the self-proclaimed 'Acting Minister of Defense' in Surabaya, maintaining control of the militia forces in Surabaya. His efforts deserve formal recognition, we should formally promote him to Major General of the TKR."
+  },
+  {
+    "key": "INS_darul_islam_focus",
+    "version": "",
+    "en": "Darul Islam"
+  },
+  {
+    "key": "INS_darul_islam_focus_desc",
+    "version": "",
+    "en": "Kartosoewirjo's hizbullah have proved themselves in the hills of West Java, and we cannot afford to leave such fighters outside our ranks. Let his irregulars stand among our own, and let the man himself bear the rank he has earned. The faithful will press their case in the Republic soon enough."
+  },
+  {
+    "key": "INS_just_a_fisherman",
+    "version": "",
+    "en": "Just a Fisherman"
+  },
+  {
+    "key": "INS_just_a_fisherman_desc",
+    "version": "",
+    "en": "Fighting a war in an archipelago without a Navy is a difficult task and not one we can sustain much longer. We will try a possibly naive strategy, wherein we will send militias on fishing boats disguised as fishermen to Dutch-controlled ports."
+  },
+  {
+    "key": "INS_a_cheap_navy",
+    "version": "",
+    "en": "A Cheap Navy"
+  },
+  {
+    "key": "INS_a_cheap_navy_desc",
+    "version": "",
+    "en": "We do not have the time or money to build a big modern navy. We must make due with what we have, and scrap together anything we can find."
+  },
+  {
+    "key": "INS_divert_army_funds_to_navy",
+    "version": "",
+    "en": "Divert Army Funds to the Navy"
+  },
+  {
+    "key": "INS_divert_army_funds_to_navy_desc",
+    "version": "",
+    "en": "Indonesia is an archipelago, our infantry are nothing without ships to transport them. It is a worthy sacrifice to divert funding from the TKR to our new Navy."
+  },
+  {
+    "key": "INS_indonesian_naval_doctrine",
+    "version": "",
+    "en": "Indonesian Naval Doctrine"
+  },
+  {
+    "key": "INS_indonesian_naval_doctrine_desc",
+    "version": "",
+    "en": "Now that we are building a navy of our own, it is important to consider the doctrine by which we will fight and train. We should prioritize forming and adopting a Naval Doctrine as soon as possible."
+  },
+  {
+    "key": "INS_domestic_shipbuilding",
+    "version": "",
+    "en": "Domestic Shipbuilding"
+  },
+  {
+    "key": "INS_domestic_shipbuilding_desc",
+    "version": "",
+    "en": "We cannot rely on captured and purchased ships forever, it will not be long until there are no more Dutch ships left for us to capture. We should start building our own ships early."
+  },
+  {
+    "key": "INS_acquire_modern_blueprints",
+    "version": "",
+    "en": "Acquire Modern Blueprints"
+  },
+  {
+    "key": "INS_acquire_modern_blueprints_desc",
+    "version": "",
+    "en": "We will purchase blueprints from other countries and private corporations that we will use to construct our new Navy."
+  },
+  {
+    "key": "INS_reclaiming_the_dutch_navy",
+    "version": "",
+    "en": "Reclaiming the Dutch Indies Navy"
+  },
+  {
+    "key": "INS_reclaiming_the_dutch_navy_desc",
+    "version": "",
+    "en": "The Dutch have left plenty of ships stationed in ports we now occupy. We should claim these ships for ourselves while we have the chance."
+  },
+  {
+    "key": "INS_admiral_mas_pardi",
+    "version": "",
+    "en": "Admiral Mas Pardi"
+  },
+  {
+    "key": "INS_admiral_mas_pardi_desc",
+    "version": "",
+    "en": "Any good navy needs an Admiral to command it. Mas Pardi is the obvious choice."
+  },
+  {
+    "key": "INS_akademi_angkatan_laut",
+    "version": "",
+    "en": "Construct Akademi Angkatan Laut"
+  },
+  {
+    "key": "INS_akademi_angkatan_laut_desc",
+    "version": "",
+    "en": "We will construct a Naval Academy with facilities for Naval research, while educating more citizens into Engineers and Admirals."
+  },
+  {
+    "key": "INS_pki_militia_tt",
+    "version": "",
+    "en": "Tan Malaka has a very powerful militia, however, they fight not only for the will of Indonesia but for the will of §Rcommunism§! and the Soviet. §REventually, they will oppose any non-communist government violently.§!"
+  },
+  {
+    "key": "INS_increase_laskar_funding_tt",
+    "version": "",
+    "en": "§WGain§! 1§Y Military Factory§! for every demand successfully granted to a militia (maximum of §G6§!)\" \n  INS_subsidize_laskar_armament: \"Subsidize Laskar Armament"
+  },
+  {
+    "key": "INS_subsidize_laskar_armament_desc",
+    "version": "",
+    "en": "Militias fighting with bamboo spears are not going to survive for long against heavily armed units. We need to prioritize producing more guns and ammunition for these militias."
+  },
+  {
+    "key": "INS_loot_knil_weapons_caches",
+    "version": "",
+    "en": "Loot KNIL Weapons Caches"
+  },
+  {
+    "key": "INS_loot_knil_weapons_caches_desc",
+    "version": "",
+    "en": "There are plenty of weapons caches the KNIL deposited before the revolution. Many of our members are former members of the KNIL, and we may be able to find and loot these caches."
+  },
+  {
+    "key": "INS_utilize_tan_malakas_militia",
+    "version": "",
+    "en": "Utilize Tan Malaka's Militia"
+  },
+  {
+    "key": "INS_utilize_tan_malakas_militia_desc",
+    "version": "",
+    "en": "Tan Malaka's Red Militia is perhaps the strongest singular militia in all of Indonesia, and it would be a huge boon to mobilize them in the TKR. This does not come without risks, giving a powerful militia with strong political motives this much influence will make it much easier for them to seize power for themselves."
+  },
+  {
+    "key": "INS_increase_laskar_funding",
+    "version": "",
+    "en": "Increase Laskar Funding"
+  },
+  {
+    "key": "INS_increase_laskar_funding_desc",
+    "version": "",
+    "en": "Our Militias make up the majority of our forces. We need to acknowledge this and fund them accordingly, even if they are not completely loyal to [INS.GetLeader]."
+  },
+  {
+    "key": "INS_develop_a_functioning_airforce",
+    "version": "",
+    "en": "Develop a Proper Airforce"
+  },
+  {
+    "key": "INS_develop_a_functioning_airforce_desc",
+    "version": "",
+    "en": "An Air force has a big impact on an army, we should prioritize creating one."
+  },
+  {
+    "key": "INS_political_stabilization",
+    "version": "",
+    "en": "The Central Indonesian National Committee"
+  },
+  {
+    "key": "INS_political_stabilization_desc",
+    "version": "",
+    "en": "In order to end the infighting between the many political factions in Indonesia, we must grant concessions to the other factions, allowing us to focus on the ongoing conflict. We will establish a semi-democratic committee overseen by the President, serving as a parliamentary body for Indonesia."
+  },
+  {
+    "key": "INS_nationalize",
+    "version": "",
+    "en": "Nationalize!"
+  },
+  {
+    "key": "INS_nationalize_desc",
+    "version": "",
+    "en": "Our newly independent republic is still plagued with remnants of Dutch rule. The military industrial companies, the oil companies, the agricultural companies, and many others are all tied to the Netherlands, be it directly or indirectly. For our Republic to truly be independent, we must establish our own national institutions to inherit the Indonesian assets from these corporations."
+  },
+  {
+    "key": "INS_restore_order",
+    "version": "",
+    "en": "Restore Order"
+  },
+  {
+    "key": "INS_restore_order_desc",
+    "version": "",
+    "en": "Our nation is becoming more unstable for each passing day. If we do not react soon a civil war is all but inevitable. We must start negotiations between the National Committee, President, and Militia leaders to find a solution."
+  },
+  {
+    "key": "INS_vice_presidential_edict",
+    "version": "",
+    "en": "Sign Vice Presidential Edict X"
+  },
+  {
+    "key": "INS_vice_presidential_edict_desc",
+    "version": "",
+    "en": "The National Committee is almost unanimous in its demand for real legislative power. A petition has been handed to the President proposing a Hybrid system, where the National Committee will become an independent parliament, sharing joint legislative powers with the President. The offer is enticing, but there is a risk of Presidential power becoming negligible."
+  },
+  {
+    "key": "INS_local_cooperatives",
+    "version": "",
+    "en": "Establish Local Cooperatives"
+  },
+  {
+    "key": "INS_local_cooperatives_desc",
+    "version": "",
+    "en": "We should not create a capitalist system like that in the west, but we should not disregard the economic benefit privatization provides. We will allow for the creation of local cooperatives, wherein their success will grant riches to their owners. However, they will be overseen by the government, and will be forbidden from expanding outside of their locality."
+  },
+  {
+    "key": "INS_local_unity",
+    "version": "",
+    "en": "Partial Princely Autonomy"
+  },
+  {
+    "key": "INS_local_unity_desc",
+    "version": "",
+    "en": "We will grant partial autonomy to Princely States, as a temporary measure to decrease infighting during these already hectic times."
+  },
+  {
+    "key": "INS_education_subsidies",
+    "version": "",
+    "en": "Education Subsidies"
+  },
+  {
+    "key": "INS_education_subsidies_desc",
+    "version": "",
+    "en": "Investing in the future of the nations youths is absolutely necessary if we want an economically successful state. We will construct affordable schools across the republic."
+  },
+  {
+    "key": "INS_land_reform",
+    "version": "",
+    "en": "Land Reform"
+  },
+  {
+    "key": "INS_land_reform_desc",
+    "version": "",
+    "en": "The Netherlands directly owned large quantities of land before we declared independence. We should distribute this land to any Indonesian who will make use of it for low prices in order to encourage economic growth."
+  },
+  {
+    "key": "INS_dominion_of_atjeh",
+    "version": "",
+    "en": "The Dominion of Atjeh"
+  },
+  {
+    "key": "INS_dominion_of_atjeh_desc",
+    "version": "",
+    "en": "The separatist movement in Atjeh is large, and growing. There is no reason to escalate the situation, we should instead negotiate a compromise wherein they stay a part of Indonesia, while being mostly autonomous."
+  },
+  {
+    "key": "INS_dissolve_national_party",
+    "version": "",
+    "en": "Dissolve the National Party"
+  },
+  {
+    "key": "INS_dissolve_national_party_desc",
+    "version": "",
+    "en": "The Hybrid system was created as a necessary compromise to avoid chaos. We should not allow the President to hold this much power undemocratically. The president must be deposed by parliament or else we will never achieve democracy."
+  },
+  {
+    "key": "INS_womens_sufferage",
+    "version": "",
+    "en": "Women's Suffrage"
+  },
+  {
+    "key": "INS_womens_sufferage_desc",
+    "version": "",
+    "en": "Extending the vote to women will lead to short term instability, but is necessary for long term stability and democracy."
+  },
+  {
+    "key": "INS_women_in_military",
+    "version": "",
+    "en": "Women in the Military"
+  },
+  {
+    "key": "INS_women_in_military_desc",
+    "version": "",
+    "en": "Allowing women to serve in the military is necessary to ensure our armed forces are as powerful as possible."
+  },
+  {
+    "key": "INS_fair_election",
+    "version": "",
+    "en": "A Fair Election"
+  },
+  {
+    "key": "INS_fair_election_desc",
+    "version": "",
+    "en": "With the President deposed, and the revolution over, we can finally hold the first truly fair election, with no authoritarian influence."
+  },
+  {
+    "key": "INS_continue_hybrid_politics",
+    "version": "",
+    "en": "Continue the Hybrid Politics"
+  },
+  {
+    "key": "INS_continue_hybrid_politics_desc",
+    "version": "",
+    "en": "Hybrid politics is a necessary evil. While the end goal is true democracy, Indonesia is far too young and unstable for all power to be handed to the people. The President and Parliament will continue to moderate each other, ensuring neither body becomes too powerful."
+  },
+  {
+    "key": "INS_guided_economy",
+    "version": "",
+    "en": "Guided Economy"
+  },
+  {
+    "key": "INS_guided_economy_desc",
+    "version": "",
+    "en": "We will oversee the economy of Indonesia directly to ensure we maintain control. We will nationalize all banks, as well as the oil and agricultural sectors."
+  },
+  {
+    "key": "INS_reform_education_system",
+    "version": "",
+    "en": "Mandatory Ideological Education"
+  },
+  {
+    "key": "INS_reform_education_system_desc",
+    "version": "",
+    "en": "The revolution was proof that students and youths upset with the social order will always lead the rebellion. For the safety of our government and nation, we will require that schools teach according to our government ideology."
+  },
+  {
+    "key": "INS_reform_education_system_2",
+    "version": "",
+    "en": "Education Reform"
+  },
+  {
+    "key": "INS_reform_education_system_2_desc",
+    "version": "",
+    "en": "If we want Indonesia to become a wealthy nation in the future, all Indonesians, regardless of birthplace must be entitled to an education."
+  },
+  {
+    "key": "INS_three_year_plan",
+    "version": "",
+    "en": "Three Year Plan"
+  },
+  {
+    "key": "INS_three_year_plan_desc",
+    "version": "",
+    "en": "We can establish a three year plan to build infrastructure across the archipelago and connect the islands."
+  },
+  {
+    "key": "INS_destroy_pacific_colonialism",
+    "version": "",
+    "en": "Destroy Pacific Colonialism"
+  },
+  {
+    "key": "INS_destroy_pacific_colonialism_desc",
+    "version": "",
+    "en": "The revolution may have ended, but there are still battles to be fought. There are still many people living under colonial tyranny at our doorstep. We cannot idly sit and watch, we must take action to liberate them from their overlords!"
+  },
+  {
+    "key": "INS_rapid_mobilization",
+    "version": "",
+    "en": "Rapid Mobilization"
+  },
+  {
+    "key": "INS_rapid_mobilization_desc",
+    "version": "",
+    "en": "Any strong nation has a strong army to stand on. If we want to become a regional superpower capable of standing our ground, we must begin by making our army far stronger than it is today."
+  },
+  {
+    "key": "INS_greater_indonesia",
+    "version": "",
+    "en": "Proclaim Greater Indonesia"
+  },
+  {
+    "key": "INS_greater_indonesia_desc",
+    "version": "",
+    "en": "The ancient empire of Nusantara had once united the Malay-world as one entity, one people. With us having liberated Malaya from colonial tyranny, we should do like our ancestors in Nusantara, declaring the entire Malay world as one united nation."
+  },
+  {
+    "key": "INS_secularism",
+    "version": "",
+    "en": "Secularism"
+  },
+  {
+    "key": "INS_secularism_desc",
+    "version": "",
+    "en": "Indonesia is home to many people of many religions. Mixing religion and politics together will only cause infighting, therefore we should ban religious political parties."
+  },
+  {
+    "key": "INS_integrate_sarekat_islam",
+    "version": "",
+    "en": "Integrate Sarekat Islam"
+  },
+  {
+    "key": "INS_integrate_sarekat_islam_desc",
+    "version": "",
+    "en": "The big Islamic political parties have a lot of popular support. It is in our best interest to integrate them into government."
+  },
+  {
+    "key": "INS_sjahrirs_continued_tenure",
+    "version": "",
+    "en": "Sjahrirs Continued Tenure"
+  },
+  {
+    "key": "INS_sjahrirs_continued_tenure_desc",
+    "version": "",
+    "en": "Prime Minister Sjahrir has proved himself as a great leader, guiding us through the revolution, improving our economy, and establishing democracy. We should reelect him as Prime Minister."
+  },
+  {
+    "key": "INS_unity_in_diversity",
+    "version": "",
+    "en": "Unity in Diversity"
+  },
+  {
+    "key": "INS_unity_in_diversity_desc",
+    "version": "",
+    "en": "For centuries the words Unity in Diversity have captured the spirit of our archipelago. During the revolution this idea became a rallying cry, reminding Indonesians that though we speak many languages and follow many different traditions, we stand together as one people. We should enshrine this phrase in our constitution, so that our unity will be preserved for generations to come."
+  },
+  {
+    "key": "INS_the_timor_issue",
+    "version": "",
+    "en": "[INS_timor_issue_scripted_name]"
+  },
+  {
+    "key": "INS_timor_issue_scripted_name_issue",
+    "version": "",
+    "en": "The Timor Issue"
+  },
+  {
+    "key": "INS_timor_issue_scripted_name_attack",
+    "version": "",
+    "en": "Attack East Timor"
+  },
+  {
+    "key": "INS_the_timor_issue_desc",
+    "version": "",
+    "en": "[INS_timor_issue_scripted_desc]"
+  },
+  {
+    "key": "INS_timor_issue_scripted_desc_issue",
+    "version": "",
+    "en": "East Timor is clearly rightful Indonesian territory, and while the revolution has ended, it is still under colonial rule. We will send an ultimatum to [721.OWNER.GetName] demanding the immediate transfer of East Timor."
+  },
+  {
+    "key": "INS_timor_issue_scripted_desc_attack",
+    "version": "",
+    "en": "East Timor is clearly rightful Indonesian territory. The rebels on the island may claim independence, but they clearly do not speak for the entire population. The remnants of portugese colonialism must be integrated into the Republic."
+  },
+  {
+    "key": "INS_pledge_to_allies",
+    "version": "",
+    "en": "Pledge to the Allies"
+  },
+  {
+    "key": "INS_pledge_to_allies_desc",
+    "version": "",
+    "en": "We are at risk of being invaded as part of the growing conflict across the world. While our relations with the Allies have been shaky, we have established ourselves as a Democratic power in the pacific and should align ourselves with the big democratic powers."
+  },
+  {
+    "key": "INS_mixed_economy_system",
+    "version": "",
+    "en": "Mixed Economy System"
+  },
+  {
+    "key": "INS_mixed_economy_system_desc",
+    "version": "",
+    "en": "Indonesia is a unique country and will not thrive under traditional Capitalism or Communism. We should establish a mixed economy system, with elements of both capitalism and communism."
+  },
+  {
+    "key": "INS_social_democracy",
+    "version": "",
+    "en": "Social Democracy"
+  },
+  {
+    "key": "INS_social_democracy_desc",
+    "version": "",
+    "en": "The [INS.GetAdjective] economy has grown massively since Sjahrirs economic policies were implemented. We should declare Indonesia as a fully Social Democratic state, and develop future economic policies based on the principles of social democracy."
+  },
+  {
+    "key": "INS_prime_minister_sjarifuddin",
+    "version": "",
+    "en": "Prime Minister Sjarifuddin"
+  },
+  {
+    "key": "INS_prime_minister_sjarifuddin_desc",
+    "version": "",
+    "en": "Sjarifuddin is the best candidate for Indonesia, his moderate policies allow for compromise between the communists and socialists."
+  },
+  {
+    "key": "INS_concessions_to_communists",
+    "version": "",
+    "en": "Concessions to the Communists"
+  },
+  {
+    "key": "INS_concessions_to_communists_desc",
+    "version": "",
+    "en": "The PKI has a significant number of seats in parliament, we should grant a few ministerial positions to PKI leaders to ensure stability."
+  },
+  {
+    "key": "INS_sjarifuddin_focus_2",
+    "version": "",
+    "en": "Self-Managed Export Economy"
+  },
+  {
+    "key": "INS_sjarifuddin_focus_2_desc",
+    "version": "",
+    "en": "With our newfound independence we should revisit our export economy system and reorganize it so that it no longer takes Dutch profits into accord. While an export-based economy is still dangerous, we can make it much more reliable than in previous years."
+  },
+  {
+    "key": "INS_prime_minister_hatta",
+    "version": "",
+    "en": "Prime Minister Hatta"
+  },
+  {
+    "key": "INS_prime_minister_hatta_desc",
+    "version": "",
+    "en": "Mohammad Hatta, known as the proclamator of the revolution has served as Vice President to Sukarno, and was generally the more democratic-leaning of the two. He will make a suitable Prime Minister that most political parties can compromise on."
+  },
+  {
+    "key": "INS_hatta_focus_2",
+    "version": "",
+    "en": "The Next Steps"
+  },
+  {
+    "key": "INS_hatta_focus_2_desc",
+    "version": "",
+    "en": "The revolution has ended, and while certain political figures are insisting the revolution must continue, these voices should be ignored. Instead we should look forward, we must build up Indonesia so that future generations will live in prosperity."
+  },
+  {
+    "key": "INS_hatta_princely_advisors",
+    "version": "",
+    "en": "Integrate the Princely States"
+  },
+  {
+    "key": "INS_hatta_princely_advisors_desc",
+    "version": "",
+    "en": "Through our shared diversity we find unity. We have based our nation on this principle, but the end of the revolution has put strain to the idea due to the lack of a shared struggle. In order to prevent resentment and uprisings from minority groups, we should establish an additional council where local rulers from princely states have a direct say in national politics."
+  },
+  {
+    "key": "INS_prime_minister_tt",
+    "version": "",
+    "en": "The first Indonesian general election has been held"
+  },
+  {
+    "key": "INS_guided_democracy",
+    "version": "",
+    "en": "Declare Martial Law"
+  },
+  {
+    "key": "INS_guided_democracy_desc",
+    "version": "",
+    "en": "It is now clear that the division of power through the formation of the National Committee was a mistake and has only resulted in instability. We mustn’t let this continue else we want another civil war. We must declare martial law and temporarily seize control over the committee until order is restored."
+  },
+  {
+    "key": "INS_centralization",
+    "version": "",
+    "en": "Centralization"
+  },
+  {
+    "key": "INS_centralization_desc",
+    "version": "",
+    "en": "Power will be centralized in Java with other islands having limited autonomy. All decisions must pass through Java to ensure order and stability. The President will oversee democracy."
+  },
+  {
+    "key": "INS_abolish_national_committee",
+    "version": "",
+    "en": "Abolish National Committee"
+  },
+  {
+    "key": "INS_abolish_national_committee_desc",
+    "version": "",
+    "en": "The National Committee will be abolished and replaced by a Working Committee serving underneath the presidency. The President will serve for life to maintain order. The Working Committee will be given more power slowly rather than all at once."
+  },
+  {
+    "key": "INS_abolish_national_committee_tt",
+    "version": "",
+    "en": "Support for §Y[ROOT.GetNeutralParty]§! will be set to §Y100%§!."
+  },
+  {
+    "key": "INS_pancasila_achieved",
+    "version": "",
+    "en": "Pancasila Achieved"
+  },
+  {
+    "key": "INS_pancasila_achieved_desc",
+    "version": "",
+    "en": "When we founded this country, it was founded on the five principles of Pancasilia; Belief in the one and only god, just and civilized humanity, the unity of Indonesia, democratic life led by wisdom, and social justice for all the people of Indonesia. While we have not always successfully operated under these principles, we have finally achieved the unity envisioned by the original principles, and can officially begin the next phase of our Republic’s continued prosperity."
+  },
+  {
+    "key": "INS_the_co_prosperity_sphere",
+    "version": "",
+    "en": "The Co-Prosperity Sphere"
+  },
+  {
+    "key": "INS_the_co_prosperity_sphere_tt",
+    "version": "",
+    "en": "Unlocks decisions §Y$INS_request_membership$§! and §Y$INS_assume_complete_power$§! decision to flip the country and §Y$INS_sukarno$ Fascist§!."
+  },
+  {
+    "key": "INS_the_co_prosperity_sphere_desc",
+    "version": "",
+    "en": "Though there is much opposition to cooperating with the Japanese, it is in our best interest during these unstable times to join forces with a stronger power to stand strong against the western allies."
+  },
+  {
+    "key": "INS_strengthen_ins_jap_trade",
+    "version": "",
+    "en": "Strengthen [ROOT.GetAdjective]-[JAP.GetAdjective] Trade"
+  },
+  {
+    "key": "INS_strengthen_ins_jap_trade_desc",
+    "version": "",
+    "en": "We should improve the trade relations between us and our new ally. If we sell our excess resources at drastically lower costs, we can prove our worthiness and gain additional bargaining power after the war."
+  },
+  {
+    "key": "INS_seek_recognition_of_mal_claims",
+    "version": "",
+    "en": "Seek Recognition of Our Malay Claims"
+  },
+  {
+    "key": "INS_seek_recognition_of_mal_claims_desc",
+    "version": "",
+    "en": "Malaya and North Borneo are of our origin, only divided by thin colonial borders. We should seek that [JAP.GetNameDef] recognizes our right to this territory and promises it to us once we have defeated Britain."
+  },
+  {
+    "key": "INS_demand_northern_malay",
+    "version": "",
+    "en": "Demand Northern Malay"
+  },
+  {
+    "key": "INS_demand_northern_malay_desc",
+    "version": "",
+    "en": "Northern Malay belongs today to Siam, despite being ethnically Malay. We will not tolerate a so-called “ally” occupying our territory, we must demand intervention from Japan."
+  },
+  {
+    "key": "INS_siam_agreement",
+    "version": "",
+    "en": "The Siam Agreement"
+  },
+  {
+    "key": "INS_siam_agreement_desc",
+    "version": "",
+    "en": "Siam is a weak nation unable to stand up for itself. We have proven our worthiness to Japan, and they have continued to fall to pressure. There is no doubt that we will all be better off if Siam becomes an Indonesian puppet."
+  },
+  {
+    "key": "INS_local_autonomy",
+    "version": "",
+    "en": "Local Autonomy"
+  },
+  {
+    "key": "INS_local_autonomy_industry_tt",
+    "version": "",
+    "en": "§Y1§! Civilian Factory is §Rremoved§! from §Y[1051.GetName]§!, §Y[335.GetName]§! and §Y[1058.GetName]§!.\\n§Y1§! Civilian Factory is §Gadded§! to §Y4 random owned states§!."
+  },
+  {
+    "key": "INS_local_autonomy_desc",
+    "version": "",
+    "en": "The many islands that encompass Indonesia have different cultures, languages, and needs. It is unreasonable to think that one government can successfully oversee them all. We will begin to reform Indonesia into a Federation, where each province has a significant degree of autonomy over itself."
+  },
+  {
+    "key": "INS_union_of_ins_states",
+    "version": "",
+    "en": "Union of [ROOT.GetAdjective] Provinces"
+  },
+  {
+    "key": "INS_union_of_ins_states_desc",
+    "version": "",
+    "en": "We should give provinces even more autonomy, reducing the role of the federal government to primarily inter-province and external affairs. We will elect a new federal President based on the wishes of the provinces. The local rulers will be free to form their own leadership structure as they choose."
+  },
+  {
+    "key": "INS_union_of_ins_states_tt",
+    "version": "",
+    "en": "\\nReleases §Y[ATJ.GetName]§!, §Y[BLI.Getname]§!, §Y[SSI.GetName]§!, §Y[TNE.GetName]§!, §Y[POK.GetName]§! and §Y[GOW.GetName]§! as §Y$autonomy_taog_indonesian_union_state$s§!."
+  },
+  {
+    "key": "INS_indonesian_inter_province_trade_agreement",
+    "version": "",
+    "en": "[ROOT.GetAdjective] Inter-Province Trade Agreement"
+  },
+  {
+    "key": "INS_indonesian_inter_province_trade_agreement_tt",
+    "version": "",
+    "en": "All §YIndonesian§! countries gain:"
+  },
+  {
+    "key": "INS_indonesian_inter_province_trade_agreement_desc",
+    "version": "",
+    "en": "Trade between provinces must be quick and cheap. We will ensure it is almost always preferable to buy from and sell to another province rather than another country, through drastically reducing taxes on trade, and building new inter-province infrastructure."
+  },
+  {
+    "key": "INS_expanding_the_union",
+    "version": "",
+    "en": "Expanding the Union"
+  },
+  {
+    "key": "INS_expanding_the_union_desc",
+    "version": "",
+    "en": "The people of Northern Borneo have lived in tyranny for too long. We will utilize guerilla warfare in order to force the British to withdraw, allowing Brunei, Sabah, and the Raj of Sarawak to become provinces of Indonesia."
+  },
+  {
+    "key": "INS_expanding_the_union_tt",
+    "version": "",
+    "en": "Unlocks decisions to start a §YLimited War§! for any states we do not yet control on §YBorneo§!."
+  },
+  {
+    "key": "INS_dismantle_indonesia",
+    "version": "",
+    "en": "Dismantle [ROOT.GetName]"
+  },
+  {
+    "key": "INS_dismantle_indonesia_tt",
+    "version": "",
+    "en": "§YDismantle the federation§! and choose which state to rule from. The remaining provinces will be set free."
+  },
+  {
+    "key": "INS_dismantle_indonesia_desc",
+    "version": "",
+    "en": "We have tried many government types and they have all ended in instability. The revolution has ended, and the Dutch colonizers have been defeated, we are no longer required to stand together as one united front. We will dismantle the federation altogether, giving the local Sultans free reign to establish their own independent countries."
+  },
+  {
+    "key": "INS_all_toward_the_war_effort",
+    "version": "",
+    "en": "All Toward the War Effort"
+  },
+  {
+    "key": "INS_all_toward_the_war_effort_desc",
+    "version": "",
+    "en": "The Malay and [AST.GetAdjective] fronts led by us will dictate the outcome of Malay unity for years to come. We cannot spare any resources, everything must go to the brave soldiers fighting for Malay freedom."
+  },
+  {
+    "key": "INS_enact_militarism",
+    "version": "",
+    "en": "Enact Militarism"
+  },
+  {
+    "key": "INS_enact_militarism_desc",
+    "version": "",
+    "en": "We should learn a few lessons from [JAP.GetNameDefCap] and its militarist policies. Adopting similar principles will serve to benefit our new government."
+  },
+  {
+    "key": "INS_sukarnos_industrialization",
+    "version": "",
+    "en": "Empower Javanese Industry"
+  },
+  {
+    "key": "INS_sukarnos_industrialization_desc",
+    "version": "",
+    "en": "Java's industries are the backbone of our economy and military. All roads must lead to Rome."
+  },
+  {
+    "key": "INS_sukarnos_industrialization2",
+    "version": "",
+    "en": "Every Man Must Play His Part"
+  },
+  {
+    "key": "INS_sukarnos_industrialization2_desc",
+    "version": "",
+    "en": "The war effort is the number one priority of this nation, and therefore it is the number one priority of every Indonesian to contribute. Luxury is the enemy, the military industrial complex must grow."
+  },
+  {
+    "key": "INS_japanese_military_lessons",
+    "version": "",
+    "en": "Japanese Military Lessons"
+  },
+  {
+    "key": "INS_japanese_military_lessons_desc",
+    "version": "",
+    "en": "We should study the military doctrines of Japan and adapt our own army accordingly."
+  },
+  {
+    "key": "INS_support_tan_malakas_coup",
+    "version": "",
+    "en": "Support Tan Malaka's Coup"
+  },
+  {
+    "key": "INS_support_tan_malakas_coup_desc",
+    "version": "",
+    "en": "Sukarno proclaimed our independence, but he has proven himself a man of half-measures and diplomatic concessions. Tan Malaka and his Persatuan Perjuangan demand what the people demand: one hundred percent independence, no negotiations, no compromise. If Sukarno will not fight for the revolution in full, then the revolution must find a leader who will."
+  },
+  {
+    "key": "INS_minimum_program",
+    "version": "",
+    "en": "The Minimum Program"
+  },
+  {
+    "key": "INS_minimum_program_desc",
+    "version": "",
+    "en": "The Persatuan Perjuangan has laid out its demands: a people's government, a people's army, and the nationalization of all foreign-owned plantations and industry. We need capable men to carry this program forward. Njono speaks for the workers, Setyadjit for the party intellectuals. Together they will see that the revolution is organized from the factory floor to the halls of government."
+  },
+  {
+    "key": "INS_agrarian_reform",
+    "version": "",
+    "en": "Agrarian Reform"
+  },
+  {
+    "key": "INS_agrarian_reform_desc",
+    "version": "",
+    "en": "For three centuries the land of Indonesia has fed the plantations of strangers. The peasants who worked it have known little else. A revolution that leaves this unchanged is no revolution at all. We will see the land pass to those who till it."
+  },
+  {
+    "key": "INS_soviet_aid",
+    "version": "",
+    "en": "Soviet Aid"
+  },
+  {
+    "key": "INS_soviet_aid_desc",
+    "version": "",
+    "en": "The Soviet Union has recognised our revolution and stands ready to supply it. Whatever differences divide our programme from Moscow's, we cannot afford to refuse what is on offer. We should take the arms and press on."
+  },
+  {
+    "key": "INS_pacific_revolution",
+    "version": "",
+    "en": "The Pacific Revolution"
+  },
+  {
+    "key": "INS_pacific_revolution_desc",
+    "version": "",
+    "en": "The colonial powers did not retreat from Asia, only from Indonesia. The old order still holds in places such as Malaya and the Phillipines, and in each of them there are men and women who wish to overturn it. Our revolution has given us both the standing and the obligation to assist them. We must."
+  },
+  {
+    "key": "INS_purge_oppurtunists_tt",
+    "version": "",
+    "en": "Unlocks §Y$INS_launch_revolution$§! in countries with §Y60%§! or more communist support. Countries we instigate revolutions in will become our §Ypuppet§!."
+  },
+  {
+    "key": "INS_purge_oppurtunists",
+    "version": "",
+    "en": "Purge the Opportunists"
+  },
+  {
+    "key": "INS_purge_oppurtunists_desc",
+    "version": "",
+    "en": "Musso spent twenty years in Moscow learning to take orders. He returned with Soviet instructions in his pocket and a plan to turn our republic into a puppet of the Comintern. We did not throw off the Dutch only to kneel before another foreign master. The opportunists who would sell our revolution to Moscow must be rooted out, and the peoples we liberate shall look to Jakarta, not to the Kremlin."
+  },
+  {
+    "key": "INS_the_maphilindo_speech",
+    "version": "",
+    "en": "The Maphilindo Speech"
+  },
+  {
+    "key": "INS_the_maphilindo_speech_desc",
+    "version": "",
+    "en": "If a Betawi and Banjar person are both Indonesian despite cultural differences through their shared struggle against tyranny, then there is no reason a Malayan and Filipino are not also Indonesian. We must unite these lands as one unified state!"
+  },
+  {
+    "key": "INS_the_maphilindo_speech_tt",
+    "version": "",
+    "en": "Allows coring and annexing §YMalay§! subjects"
+  },
+  {
+    "key": "INS_pan_asian_union",
+    "version": "",
+    "en": "The Pan-Asian Union"
+  },
+  {
+    "key": "INS_pan_asian_union_desc",
+    "version": "",
+    "en": "The pacific revolution is only beginning, and we are not yet safe. We must stand together and cooperate to protect each other from the great powers of the world. Together we are strong."
+  },
+  {
+    "key": "INS_federation_of_aslia",
+    "version": "",
+    "en": "Federation of Aslia"
+  },
+  {
+    "key": "INS_federation_of_aslia_trigger_tt",
+    "version": "",
+    "en": "Has completed the decision §Y$form_maphilindo$§!."
+  },
+  {
+    "key": "INS_federation_of_aslia_desc",
+    "version": "",
+    "en": "The nations we have liberated need not stand alone. Tan Malaka always envisioned something greater than one republic. A federation from the mainland to the Pacific, united against any colonial power that dares return. We will offer them full membership in our state.\" \n  INS_aslia_tt: \"Allows coring and annexing §YPacific§! subjects"
+  },
+  {
+    "key": "INS_pan_economic_area",
+    "version": "",
+    "en": "The Pan-Asian Economic Area"
+  },
+  {
+    "key": "INS_pan_economic_area_desc",
+    "version": "",
+    "en": "Economic cooperation within the union is essential for our shared prosperity. We must facilitate duty-free trade between all member states to reduce our reliance on outside nations."
+  },
+  {
+    "key": "INS_pan_economic_area_tt",
+    "version": "",
+    "en": "All faction members that are a subject of §Y[ROOT.GetNameDef]§!"
+  },
+  {
+    "key": "INS_musso_ascends",
+    "version": "",
+    "en": "Musso Ascends"
+  },
+  {
+    "key": "INS_musso_ascends_tt",
+    "version": "",
+    "en": "Unlocks §Y$INS_launch_revolution$§! in countries with §Y30%§! or more communist support. Countries we instigate revolutions in will remain independent."
+  },
+  {
+    "key": "INS_musso_ascends_desc",
+    "version": "",
+    "en": "Tan Malaka is a dreamer. Musso brings what dreamers cannot: the full backing of the Soviet Union and the solidarity of the international communist movement. Our revolution need not stand alone."
+  },
+  {
+    "key": "INS_utilize_comintern_connections",
+    "version": "",
+    "en": "Utilize Comintern Connections"
+  },
+  {
+    "key": "INS_utilize_comintern_connections_desc",
+    "version": "",
+    "en": "Musso’s connections with high-ranking comintern officials makes the process of joining the comintern easy. We should send him to [SOV.GetNameDef] to negotiate without delay."
+  },
+  {
+    "key": "INS_united_against_japan",
+    "version": "",
+    "en": "United against [JAP.GetNameDef]"
+  },
+  {
+    "key": "INS_united_against_japan_desc",
+    "version": "",
+    "en": "While nobody is keen on siding with the Allies, and the scar left by the Dutch is not forgotten, we must temporarily put aside our differences to fight against our mutual enemy, else we risk another overlord taking over [ROOT.GetName]."
+  },
+  {
+    "key": "INS_revolutionary_economic_cooperation",
+    "version": "",
+    "en": "Revolutionary Economic Cooperation"
+  },
+  {
+    "key": "INS_revolutionary_economic_cooperation_desc",
+    "version": "",
+    "en": "We have saved the lives of many millions who no longer live under tyranny. Now, we must build together. Through cooperation and trade, we can forge strong economies and armies, protecting us from foreign powers for years to come."
+  },
+  {
+    "key": "INS_revolutionary_economic_cooperation_tt",
+    "version": "",
+    "en": "Gains §Y$INS_revolutionary_economic_cooperation_modifier$§! which grants:\\n§Y4%§! Stability §Yper Country§! that we have §Ystarted a revolution in§!\\n§Y4%§! Construction Speed §Yper Country§! that we have §Ystarted a revolution in§!\\n§Y4%§! Political Power Gain §Yper Country§! that we have §Ystarted a revolution in§!\\n§Y-4%§! Consumer Goods §Yper Country§! that we have §Ystarted a revolution in§!\\n\\nCurrently we have started revolutions in §Y[?INS_communist_revolts_succeeded]§! countries."
+  },
+  {
+    "key": "INS_soviet_economic_integration",
+    "version": "",
+    "en": "Soviet Economic Integration"
+  },
+  {
+    "key": "INS_soviet_economic_integration_desc",
+    "version": "",
+    "en": "The revolution has given us our freedom, but freedom alone does not build factories or feed the masses. The Soviet Union offers what no capitalist power will: industrial expertise, development credits, and trade on terms that do not come with colonial strings attached. We would be fools to refuse."
+  },
+  {
+    "key": "INS_the_three_year_plan",
+    "version": "",
+    "en": "The Three Year Plan"
+  },
+  {
+    "key": "INS_the_three_year_plan_desc",
+    "version": "",
+    "en": "We will declare a three year plan for our economy, which will guide us long-term and reduce time spent on bureaucracy."
+  },
+  {
+    "key": "INS_the_three_year_plan_tt",
+    "version": "",
+    "en": "The §YNational Spirit§! Will improve by §G1%§! every month until reaching it's full potential at §Y26%§!."
+  },
+  {
+    "key": "INS_realign_export_markets",
+    "version": "",
+    "en": "Realign Export Markets"
+  },
+  {
+    "key": "INS_realign_export_markets_desc",
+    "version": "",
+    "en": "We must strengthen our global trade relations, reducing our dependency on a few major powers. Instead, we should make many, smaller trades with smaller nations & companies."
+  },
+  {
+    "key": "INS_divert_javanese_education_funding_the_east",
+    "version": "",
+    "en": "Divert Javanese Education Funding East"
+  },
+  {
+    "key": "INS_divert_javanese_education_funding_the_east_desc",
+    "version": "",
+    "en": "There is no question that the former colonial overlords invested only in the growth of Java and resource-rich parts of Sumatra, while leaving the rest of the colony to rot. We can right this wrong by taking parts of Java’s education budget and reallocating it to build new schools in the east."
+  },
+  {
+    "key": "INS_eastern_universities",
+    "version": "",
+    "en": "Eastern Universities"
+  },
+  {
+    "key": "INS_eastern_universities_desc",
+    "version": "",
+    "en": "By building new universities in the east, higher education will be available to more citizens, and students will be encouraged to move from Java to attend far-away schools, reducing the cultural divide between Java and the rest of [ROOT.GetName]."
+  },
+  {
+    "key": "INSHOL_revolution_ongoing_tt",
+    "version": "",
+    "en": "Indonesian Revolution is Ongoing"
+  },
+  {
+    "key": "INSHOL_reasserting_control",
+    "version": "",
+    "en": "Reassert Control over the Indies"
+  },
+  {
+    "key": "INSHOL_reasserting_control_desc",
+    "version": "",
+    "en": "We cannot idly stand and watch as these opportunists attempt to ruin what we have spent centuries building, whilst destroying our infrastructure and radicalizing the youth. We must take action!"
+  },
+  {
+    "key": "INSHOL_request_british_support",
+    "version": "",
+    "en": "Request British Support"
+  },
+  {
+    "key": "INSHOL_request_british_support_desc",
+    "version": "",
+    "en": "[ENG.GetNameDefCap], as a fellow colonial power will likely be sympathetic to our situation, especially since if the revolutionaries succeed, it could set off a domino effect in east asia. We should request their economic and military aid."
+  },
+  {
+    "key": "INS_eng_treaty_holside_tt",
+    "version": "",
+    "en": "§Y[ENG.GetNameDefCap]§! will officially declare themselves on our side of the conflict and provide substantial help. If the war ends in victory, §Y[ENG.GetNameDefCap]§! will be entitled to Borneo."
+  },
+  {
+    "key": "INS_eng_treaty_engside_tt",
+    "version": "",
+    "en": "We will officially align ourselves with §Y[HOL.GetNameDefCap]§! in the East Indies conflict. If §Y[HOL.GetNameDefCap]§! wins, we will be entitled to ownership of Borneo."
+  },
+  {
+    "key": "INS_fra_treaty_holside_tt",
+    "version": "",
+    "en": "§Y[FRA.GetNameDefCap]§! will officially declare themselves on our side of the conflict and provide substantial help. If the war ends in victory, §Y[FRA.GetNameDefCap]§! will be entitled to northeastern Sumatra."
+  },
+  {
+    "key": "INS_fra_treaty_fraside_tt",
+    "version": "",
+    "en": "We will officially align ourselves with §Y[HOL.GetNameDefCap]§! in the East Indies conflict. If §Y[HOL.GetNameDefCap]§! wins, we will be entitled to ownership of northeastern Sumatra."
+  },
+  {
+    "key": "INSHOL_franco_dutch_accord",
+    "version": "",
+    "en": "Franco-Dutch Accord"
+  },
+  {
+    "key": "INSHOL_franco_dutch_accord_desc",
+    "version": "",
+    "en": "Despite our soldiers being better equipped and organized than the Republican militias, their overwhelming numbers have turned the conflict against us. To secure victory we need outside support, more than most would give. France may be willing to intervene if we offer them territory in the Indies to expand their presence in the Pacific."
+  },
+  {
+    "key": "INSHOL_london_batavia_accord",
+    "version": "",
+    "en": "London-Batavia Accord"
+  },
+  {
+    "key": "INSHOL_london_batavia_accord_desc",
+    "version": "",
+    "en": "Despite our soldiers being better equipped and organized than the Republican militias, their overwhelming numbers have turned the conflict against us. To secure victory we need outside support, more than most would give. [ENG.GetNameDefCap] may have an interest due to their presence in Malaya. Perhaps they could be persuaded if we offer something in return?"
+  },
+  {
+    "key": "INSHOL_australian_divisions",
+    "version": "",
+    "en": "Send Australian Infantry to Java"
+  },
+  {
+    "key": "INSHOL_australian_divisions_desc",
+    "version": "",
+    "en": "As per the London-Batavia Accord, Britain is required to send additional divisions to the Indies through Australia once we request it, as Australia’s proximity to the Indies makes them the perfect candidates to host a military base outside of the Indies itself."
+  },
+  {
+    "key": "INSHOL_indian_divisions",
+    "version": "",
+    "en": "British Indian Army Divisions"
+  },
+  {
+    "key": "INSHOL_indian_divisions_desc",
+    "version": "",
+    "en": "While Britain will most likely be unwilling to send their own men to the Indies, convincing them to send Indian divisions is much easier, especially due to their proximity to Batavia."
+  },
+  {
+    "key": "INSHOL_undermine_the_militias",
+    "version": "",
+    "en": "Undermine the Militias"
+  },
+  {
+    "key": "INSHOL_undermine_the_militias_desc",
+    "version": "",
+    "en": "The media is exaggerating the severity of this situation, the militias are just a group of rogue youths trying to reach for something unreachable. We do not need to divert all of our resources to stopping them, we should just hold the line and wait for them to tire."
+  },
+  {
+    "key": "INSHOL_flag_will_fly_again",
+    "version": "",
+    "en": "The Flag Will Fly Once More"
+  },
+  {
+    "key": "INSHOL_flag_will_fly_again_desc",
+    "version": "",
+    "en": "The Dutch flag has flown in the Indies for centuries, there is no world in which we would allow it to be lowered. If keeping our crown jewel colony requires sending in tanks and bomber planes then they will be sent!"
+  },
+  {
+    "key": "INSHOL_flag_will_fly_again_tt",
+    "version": "",
+    "en": "§YOnce the revolution ends, the spirit will be removed and the rule changes will be reverted.§!"
+  },
+  {
+    "key": "INSHOL_mass_mobilization",
+    "version": "",
+    "en": "Mass Mobilization"
+  },
+  {
+    "key": "INSHOL_mass_mobilization_desc",
+    "version": "",
+    "en": "We cannot win this conflict and crush the Republic without a well equipped army. We must rearm the Indies and divert funding from civilian sectors to the KNIL."
+  },
+  {
+    "key": "INSHOL_batavia_storm_operation",
+    "version": "",
+    "en": "Storm Batavia"
+  },
+  {
+    "key": "INSHOL_instigate_infighting",
+    "version": "",
+    "en": "Instigate Infighting in the Republic"
+  },
+  {
+    "key": "INSHOL_ultimatum_to_republic",
+    "version": "",
+    "en": "An Ultimatum to the Republic"
+  },
+  {
+    "key": "INSHOL_comite_rijkseenheid",
+    "version": "",
+    "en": "Comité Rijkseenheid"
+  },
+  {
+    "key": "INSHOL_comite_rijkseenheid_desc",
+    "version": "",
+    "en": "The flag is being lowered in the Indies, and yet people are just watching it happen. We cannot allow this, we must convince the Indies Administration that the Dutch people want the revolution to be stopped!"
+  },
+  {
+    "key": "INSHOL_increase_esclation_placeholder",
+    "version": "",
+    "en": "Rapid Escalation"
+  },
+  {
+    "key": "INSHOL_increase_esclation_placeholder_desc",
+    "version": "",
+    "en": "Our militias have taken control of many vital ports, cities, and industrial centers. We will not continue to wait for the Netherlands to act, we will call for a major military offensive ourselves!"
+  },
+  {
+    "key": "INS_take_batavia_explination_tt",
+    "version": "",
+    "en": "If we successfully occupy all of Java, we will destroy the colonial government from the inside and §Gwin the war§!. However, if we do not manage to do so within §Y730 days§!, we will §Rperish§!."
+  },
+  {
+    "key": "INSHOL_linggadjati_agreement",
+    "version": "",
+    "en": "Negotiation of Ceasefire Agreements"
+  },
+  {
+    "key": "INSHOL_linggadjati_agreement_desc",
+    "version": "",
+    "en": "Invading Java has proven difficult, and our administration is growing unstable. We must fall back and play defensively so as to not risk the fall of the entire Republic. We should negotiate local ceasefires with the Netherlands, allowing us to reorganize our forces before putting our focus back on Java."
+  },
+  {
+    "key": "INSHOL_increase_esclation_placeholder_tt",
+    "version": "",
+    "en": "Unlocks a §YDecision§! to negotiate local ceasefires and §Yincrease the timer§! to occupy Java."
+  },
+  {
+    "key": "INSHOL_seek_foreign_help",
+    "version": "",
+    "en": "Seek Foreign Help"
+  },
+  {
+    "key": "INSHOL_seek_foreign_help_desc",
+    "version": "",
+    "en": "It is no secret that attempting to win a war against a heavily industrialized colonial power as a newly formed nation without an established economy is a nearly impossible task. We should reach out to other countries that support our cause in order to see if they would be willing to help us."
+  },
+  {
+    "key": "INSHOL_renville_agreement",
+    "version": "",
+    "en": "The Renville Agreement"
+  },
+  {
+    "key": "INSHOL_renville_agreement_desc",
+    "version": "",
+    "en": "The unprecedented aggression taken by the Netherlands has brought international attention to the revolution, and yet the Netherlands has continued to violate ceasefires and bait a reaction out of us. We must try to make a call to [USA.GetNameDef], as if we convince them to stand up for Indonesia, the Netherlands will have no choice but to back down."
+  },
+  {
+    "key": "INSHOL_no_compromise",
+    "version": "",
+    "en": "No Compromise, No Surrender"
+  },
+  {
+    "key": "INSHOL_no_compromise_desc",
+    "version": "",
+    "en": "The Dutch greed that caused them to invest almost exclusively in Java, ignoring the eastern islands, has left Java as the Achilles' heel of the entire colony. This will be their downfall!"
+  },
+  {
+    "key": "INSHOL_end_to_bloodshed",
+    "version": "",
+    "en": "Two State Solution"
+  },
+  {
+    "key": "INSHOL_end_to_bloodshed_desc",
+    "version": "",
+    "en": "This conflict has gone on for far too long, with little progress in either direction, only more lives lost each and every day. Nobody wants this to continue, it is time we discuss with the Dutch leaders at the negotiating table."
+  },
+  {
+    "key": "INSHOL_reorganize_colonies",
+    "version": "",
+    "en": "Reorganize the Colony"
+  },
+  {
+    "key": "INS_we_will_need_another_tt",
+    "version": "",
+    "en": "As we already control all of Java, we will need to control one additional state in addition to Java."
+  },
+  {
+    "key": "INS_centralize_the_state",
+    "version": "",
+    "en": "Centralize the State"
+  },
+  {
+    "key": "INS_centralize_the_state_desc",
+    "version": "",
+    "en": "From Sumatra to Sulawesi, from Borneo to Bangka, our development programs have brought roads, factories and institutions to territories that [1058.GetName] once administered in name only. These regions are no longer distant provinces. They are [INS.GetNameDefCap]."
+  },
+  {
+    "key": "INS_centralize_the_state_1_tt",
+    "version": "",
+    "en": "Prerequisite states that are §Ycored§!:"
+  },
+  {
+    "key": "INS_centralize_the_state_2_tt",
+    "version": "",
+    "en": "Prerequisite states that are §Yuncored§!:"
+  },
+  {
+    "key": "INS_fate_of_de_javasche_bank",
+    "version": "",
+    "en": "[INS_fate_of_de_javasche_bank_scripted_name]"
+  },
+  {
+    "key": "INS_fate_of_de_javasche_bank_scripted_name_colony",
+    "version": "",
+    "en": "Fate of De Javasche Bank"
+  },
+  {
+    "key": "INS_fate_of_de_javasche_bank_scripted_name_independent",
+    "version": "",
+    "en": "Fate of Bank Indonesia"
+  },
+  {
+    "key": "INS_fate_of_de_javasche_bank_desc",
+    "version": "",
+    "en": "[INS_fate_of_de_javasche_bank_scripted_desc]"
+  },
+  {
+    "key": "INS_fate_of_de_javasche_bank_scripted_desc_colony",
+    "version": "",
+    "en": "The East Indies Guilder has been in freefall since the depression struck, and De Javasche Bank lacks the tools to arrest the decline. We must decide how to stabilize our currency before what remains of investor confidence evaporates entirely."
+  },
+  {
+    "key": "INS_fate_of_de_javasche_bank_scripted_desc_independent",
+    "version": "",
+    "en": "We inherited a currency in crisis. The old colonial Guilder was already faltering, and the transition to the Rupiah has done nothing to steady the markets. Bank Indonesia needs clear direction from the government, or our young economy will suffer for it."
+  },
+  {
+    "key": "INS_finish_the_bauxite_project",
+    "version": "",
+    "en": "Finish the Bangka Project"
+  },
+  {
+    "key": "INS_finish_the_bauxite_project_desc",
+    "version": "",
+    "en": "With new roads, ports and railways operational across Bangka-Belitung, survey teams report deposits of tungsten and chromium beyond our initial expectations. These islands will yet prove their full worth to the republic."
+  },
+  {
+    "key": "INS_australian_contracts",
+    "version": "",
+    "en": "Australian Contracts"
+  },
+  {
+    "key": "INS_australian_contracts_desc",
+    "version": "",
+    "en": "Our rubber reserves have grown far beyond domestic needs. Australia, ever hungry for raw materials to feed its own industries, presents a natural trading partner. Securing long-term contracts with Australian firms would bring steady revenue and strengthen our position in the regional economy."
+  },
+  {
+    "key": "INS_coopereate_with_chinese_businessmen",
+    "version": "",
+    "en": "Cooperate With the Chinese Businessmen"
+  },
+  {
+    "key": "INS_coopereate_with_chinese_businessmen_desc",
+    "version": "",
+    "en": "A wealthy and well-connected merchant class has long facilitated trade across the archipelago. Rather than sideline these established networks, we should work with them. Their capital and commercial expertise could prove invaluable in pulling our economy out of its current malaise."
+  },
+  {
+    "key": "INS_oil_decisions_unlock_tt",
+    "version": "",
+    "en": "Unlocks new §Y$INS_realign_supply_chains_cat$§! decisions to sell §YOil§!."
+  },
+  {
+    "key": "INS_negotiate_new_contracts_unlock_tt",
+    "version": "",
+    "en": "Unlocks new §Y$INS_realign_supply_chains_cat$§! decisions."
+  },
+  {
+    "key": "INS_realign_supply_chains_explain_tt",
+    "version": "",
+    "en": "Unlocks §Y$INS_realign_supply_chains_cat$§! Decisions to sell resources to private companies on a 2-year lease."
+  },
+  {
+    "key": "INS_negotiate_new_contracts",
+    "version": "",
+    "en": "Negotiate New Contracts"
+  },
+  {
+    "key": "INS_negotiate_new_contracts_desc",
+    "version": "",
+    "en": "Our growing reputation as a reliable supplier has opened doors that were previously closed to us. New buyers are circling, and we should move quickly to lock them into long-term agreements before our competitors can undercut us."
+  },
+  {
+    "key": "INS_all_in_on_rubber",
+    "version": "",
+    "en": "All in on Rubber"
+  },
+  {
+    "key": "INS_all_in_on_rubber_desc",
+    "version": "",
+    "en": "Rubber is our strongest hand, and we intend to play it. Every available acre of plantation land will be turned over to rubber cultivation, and our export apparatus reorganized to move it faster and cheaper than anyone else in the region."
+  },
+  {
+    "key": "INS_more_market_resources",
+    "version": "",
+    "en": "Outsell the Great Depression"
+  },
+  {
+    "key": "INS_more_market_resources_desc",
+    "version": "",
+    "en": "The world may be mired in economic crisis, but crisis breeds opportunity for those bold enough to seize it. By flooding the market with our commodities at prices no competitor can match, we will ensure that when the world recovers, Indonesian goods are already on every shelf and in every warehouse."
+  },
+  {
+    "key": "INS_recovering_from_the_great_depression",
+    "version": "",
+    "en": "Recovering From The Great Depression"
+  },
+  {
+    "key": "INS_recovering_from_the_great_depression_desc",
+    "version": "",
+    "en": "The Great Depression has had a devastating effect on [INS.GetNameDef]. With our economy being primarily export-based, protectionism around the world has crippled us. As global trade looks poised to open up again, we must seek out new markets, and work to re-establish our old trade routes."
+  },
+  {
+    "key": "INS_first_come_first_serve",
+    "version": "",
+    "en": "First Come, First Serve"
+  },
+  {
+    "key": "INS_first_come_first_serve_desc",
+    "version": "",
+    "en": "While the protectionism of the Great Depression is slowing down, increased production and an overvalued guilder has left the Dutch export market in tatters, as our old trading partners in the west have turned to South America to meet their demand. Rather than chasing them down for new trade agreements, we could use this as an opportunity to expand into new markets in Asia."
+  },
+  {
+    "key": "INS_oil_export",
+    "version": "",
+    "en": "Increased Oil Export"
+  },
+  {
+    "key": "INS_oil_export_desc",
+    "version": "",
+    "en": "We will improve the oil infrastructure in Sumatra and Kalimantan in order to secure trade deals with our new trading partners."
+  },
+  {
+    "key": "INS_increased_trade_with_japan",
+    "version": "",
+    "en": "Increased Trade With Japan"
+  },
+  {
+    "key": "INS_increased_trade_with_japan_desc",
+    "version": "",
+    "en": "[JAP.GetNameDefCap] has been an increasingly valuable trading partner and has not let us down. We should negotiate new trade agreements to further the economic cooperation between our two nations, and help us shake off the vestiges of the Great Depression. This may upset our allies in the West, especially the Netherlands. However, if we ever want a say in our own destiny, we will need to secure our own trade links."
+  },
+  {
+    "key": "INS_asian_trade_investments",
+    "version": "",
+    "en": "Asian Trade Investments"
+  },
+  {
+    "key": "INS_asian_trade_investments_desc",
+    "version": "",
+    "en": "The devastation of the Great Depression showed us how overreliant we’ve been on our long-term trade partners in the west. With our economy primarily being export-based, it is crucial now more than ever that we develop and expand new markets in Southeast Asia to ensure our economy will not depend on any individual country."
+  },
+  {
+    "key": "INS_asian_trade_investments_tt",
+    "version": "",
+    "en": "Every §Y420§! days, the resources to market penalty from §YThe Great Depression§! will §GImprove§! by §Y5%§! until the negative modifiers are gone."
+  },
+  {
+    "key": "INS_declare_free_trade",
+    "version": "",
+    "en": "Declare Free Trade"
+  },
+  {
+    "key": "INS_declare_free_trade_desc",
+    "version": "",
+    "en": "We should not align ourselves exclusively to one country, we will allow the market to naturally make the best decisions for [INS.GetNameDef]."
+  },
+  {
+    "key": "INS_japanese_export_contracts",
+    "version": "",
+    "en": "One Trade Contract To Rule Them All"
+  },
+  {
+    "key": "INS_japanese_export_contracts_desc",
+    "version": "",
+    "en": "We will negotiate a major trade agreement with [JAP.GetNameDef], selling all the rubber in [1049.GetName] and [672.GetName]. While we will sell it at a very low cost, we will be guaranteed it all gets sold."
+  },
+  {
+    "key": "INS_realign_supply_chains",
+    "version": "",
+    "en": "Realign Supply Chains"
+  },
+  {
+    "key": "INS_realign_supply_chains_desc",
+    "version": "",
+    "en": "While the protectionism of the Great Depression is slowing down, increased production and an overvalued guilder has left the Dutch export market in tatters, as our old trading partners in the west have turned to South America to meet their demand. We must take steps to convince our allies to start trading with us again."
+  },
+  {
+    "key": "INS_invite_foreign_companies",
+    "version": "",
+    "en": "Support American Oil Ventures"
+  },
+  {
+    "key": "INS_invite_foreign_companies_desc",
+    "version": "",
+    "en": "Since 1930, Standard Oil California has been operating in our country through their Dutch subsidiary, Nederlandsche Pacific Petroleum Maatschappij. Their surveys in Riouw show promise, we should support their upstream operations in any way we can - a big discovery would both boost our revenue and encourage other international companies to pursue investments in our country."
+  },
+  {
+    "key": "INS_expand_sea_routes",
+    "version": "",
+    "en": "Expand Sea Routes"
+  },
+  {
+    "key": "INS_expand_sea_routes_desc",
+    "version": "",
+    "en": "Our country is rich in natural resources, but our extraction industry is too specialized and we lack the infrastructure necessary to extract certain rare minerals such as chromium and tungsten. If we want to improve our military production capabilities, we will need to import them from elsewhere. To take full advantage of our growing trade network, we will need to increase the capacity of our merchant fleet."
+  },
+  {
+    "key": "INS_ship_contracts",
+    "version": "",
+    "en": "Secure Ship Contracts"
+  },
+  {
+    "key": "INS_ship_contracts_desc",
+    "version": "",
+    "en": "Constructing a navy is necessary in order to maintain our trade routes in the event of war. We can utilize our newfound trade relationships to obtain naval contracts."
+  },
+  {
+    "key": "INS_developing_sumatra",
+    "version": "",
+    "en": "Developing Sumatra"
+  },
+  {
+    "key": "INS_developing_sumatra_desc",
+    "version": "",
+    "en": "Sumatra is the most resource-rich island in the archipelago, yet the infrastructure is so poor that a great proportion of extracted resources never even make it back to Batavia. Transportation relies on a patchwork of dirt roads and unconnected railway lines, wholly insufficient to support our plans for the island. We can’t let this continue."
+  },
+  {
+    "key": "INS_sumatra_railway",
+    "version": "",
+    "en": "The Sumatra Railway"
+  },
+  {
+    "key": "INS_sumatra_railway_desc",
+    "version": "",
+    "en": "As part of our ongoing efforts to develop Sumatra’s infrastructure, we should construct a large railway stretching from northern Atjeh to the southernmost port in Sumatra, which connects to Batavia by ship very quickly. This way, resources will only have to be transported to the nearest train station, at which point we can move it to Batavia in a matter of days."
+  },
+  {
+    "key": "INS_develop_borneo",
+    "version": "",
+    "en": "Develop Kalimantan"
+  },
+  {
+    "key": "INS_develop_borneo_desc",
+    "version": "",
+    "en": "Kalimantan has the potential for great wealth, yet the island is very sparsely developed, and its people are plagued by poverty. Transport of freight is heavily reliant on the many rivers and waterways of the island, and any long-range communications are hindered by a lack of electricity. By building powerlines and roads, we can pave the way for future surveying and resource extraction."
+  },
+  {
+    "key": "INS_kalimantan_mic",
+    "version": "",
+    "en": "Kalimantan Military Industry"
+  },
+  {
+    "key": "INS_kalimantan_mic_desc",
+    "version": "",
+    "en": "Our infrastructure development efforts in Kalimantan have paid off. The spread of electricity and communications has brought us into contact with communities that used to be far beyond the government’s call. We can use this opportunity to meet our needs for increased military production, by building new factories in the region and manning them with this newfound pool of labor."
+  },
+  {
+    "key": "INS_pontianak_to_balikpapan",
+    "version": "",
+    "en": "From Pontianak to Tanjung Selor"
+  },
+  {
+    "key": "INS_pontianak_to_balikpapan_desc",
+    "version": "",
+    "en": "The idea of building a railway in Kalimantan has been discussed at length, but the harsh, largely unexplored terrain in the center of the island makes it a difficult task. The only solution is a U-shaped railway from coast to coast. It will not be cheap, but in the long run it will pay for itself."
+  },
+  {
+    "key": "INS_develop_sulawesi",
+    "version": "",
+    "en": "Develop Sulawesi"
+  },
+  {
+    "key": "INS_develop_sulawesi_desc",
+    "version": "",
+    "en": "Sulawesi is the center of the archipelago, and therefore an important strategic location. We should build roads, powerlines, and communications to ensure it can be used as a military hub in the event of war."
+  },
+  {
+    "key": "INS_the_bangka_project",
+    "version": "",
+    "en": "The Bangka Project"
+  },
+  {
+    "key": "INS_the_bangka_project_desc",
+    "version": "",
+    "en": "The Bangka-Belitung islands, while small, are a cornerstone of the Indonesian economy due to the islands’ bauxite deposits. We need to build roads, ports and railways on Bangka-Belitung, to ensure that we can reap the full rewards of the islands’ rich mineral wealth."
+  },
+  {
+    "key": "INS_aluminium_factory",
+    "version": "",
+    "en": "Pangkalpinang Aluminium Factory"
+  },
+  {
+    "key": "INS_aluminium_factory_desc",
+    "version": "",
+    "en": "Our raw bauxite extraction is growing, but our lack of domestic aluminum production is limiting our profits. As the provincial capital of the Bangkal-Belitung islands, Pangkalpinang would be an ideal location to establish our own factories. Doing so would allow us to cut out the middlemen and maximize our returns."
+  },
+  {
+    "key": "INS_bauxite_export",
+    "version": "",
+    "en": "Double Down on Bauxite Export"
+  },
+  {
+    "key": "INS_bauxite_export_desc",
+    "version": "",
+    "en": "The completion of the Bangka project has left us with more raw bauxite than we know what to do with. While attempting to sell it all would be difficult, we could offer a significantly reduced price for the bauxite than anyone else on the market, ensuring every gram gets sold. Due to the sheer quantity of bauxite we can sell, this would still yield a proportional growth in profit compared to our current exports."
+  },
+  {
+    "key": "INS_tin_mining",
+    "version": "",
+    "en": "Investments in Tin Mining"
+  },
+  {
+    "key": "INS_tin_mining_desc",
+    "version": "",
+    "en": "The history of tin mining in the Bangka-Belitung islands predates European presence in the archipelago. So it’s no wonder then, that the tin industry on the islands is overdue for some modernization. Overhauling the production capabilities is an expensive endeavour, and our existing tin industry will not be operational for some time as we rebuild it. However, there is significant potential for long-term profit."
+  },
+  {
+    "key": "in_240_days_tt",
+    "version": "",
+    "en": "§YIn 240 days:§!\\n"
+  },
+  {
+    "key": "INS_tin_to_usa",
+    "version": "",
+    "en": "Sell Tin to [USA.GetNameDef]"
+  },
+  {
+    "key": "INS_tin_to_usa_desc",
+    "version": "",
+    "en": "[USA.GetNameDefCap] is full of corporations and government institutions purchasing tin. Now that we have a proper mining operation, we have an opportunity to make a lot of profit here."
+  },
+  {
+    "key": "INS_tin_to_japan",
+    "version": "",
+    "en": "Sell Tin to [JAP.GetNameDef]"
+  },
+  {
+    "key": "INS_tin_to_japan_desc",
+    "version": "",
+    "en": "[JAP.GetNameDefCap] has many ships now considered outdated and replaceable, despite being a perfect fit for the [INS.GetAdjective] navy. We should purchase these ships with the money from our tin production."
+  },
+  {
+    "key": "INS_tin_to_japan_tt",
+    "version": "",
+    "en": "[JAP.GetNameDefCap] will send §Y9§! older destroyers to us."
+  },
+  {
+    "key": "INS_new_bauxite_routes",
+    "version": "",
+    "en": "New Bauxite Routes"
+  },
+  {
+    "key": "INS_new_bauxite_routes_desc",
+    "version": "",
+    "en": "Our strategy of undercutting the market to increase our export volume of bauxite has worked out successfully, and we’ve increased our total income substantially. We mustn’t stop here, however. We should continue to expand our trade networks, optimize our supply chains, and look for any other opportunities to maximize our returns."
+  },
+  {
+    "key": "INS_bangka_bauxite_export_flag",
+    "version": "",
+    "en": "Has completed focus §Y$INS_bauxite_export$§!:"
+  },
+  {
+    "key": "INS_not_industry",
+    "version": "",
+    "en": "Plan for the Future"
+  },
+  {
+    "key": "INS_not_industry_desc",
+    "version": "",
+    "en": "Java is the beating heart of our nation, home to the bulk of our population and the seat of our government. Before we can industrialize the island in earnest, we must first prepare the ground. Land surveys, zoning allocations and site clearances will ensure that when the factories come, they are built where they will do the most good."
+  },
+  {
+    "key": "INS_construction_focus",
+    "version": "",
+    "en": "Industry Boom"
+  },
+  {
+    "key": "INS_construction_focus_desc",
+    "version": "",
+    "en": "Foreign capital is flowing in, export revenues are climbing, and for the first time in years there is real money to invest in domestic industry. We must seize the moment and build while conditions favor us."
+  },
+  {
+    "key": "INS_developing_java",
+    "version": "",
+    "en": "Expand Javanese Infrastructure"
+  },
+  {
+    "key": "INS_developing_java_desc",
+    "version": "",
+    "en": "Java is by far the most industrialized island in the archipelago, and the source of a majority of our wealth. However, certain cities such as Batavia are becoming increasingly crowded due to population growth. We should expand these cities with new homes, commercial areas, trams, trains, and factories in order to support the growing population."
+  },
+  {
+    "key": "INS_prioritize_sugar_economy",
+    "version": "",
+    "en": "Prioritize the Sugar Economy"
+  },
+  {
+    "key": "INS_prioritize_sugar_economy_desc",
+    "version": "",
+    "en": "We should decrease our government budget for Batavian industrial development; It is already far more industrialized than any other city in the archipelago. Instead, we should use this money to establish many small palm plantations across the country. These plantations will produce palm sugar, which is a commodity with high international demand."
+  },
+  {
+    "key": "INS_all_cards_into_industry",
+    "version": "",
+    "en": "All Cards in Industry"
+  },
+  {
+    "key": "INS_all_cards_into_industry_desc",
+    "version": "",
+    "en": "Industrialization has had a massive impact on [1058.GetName]'s economy. If we industrialize the entire island, with its tens of millions of citizens, we could become influential on the global scale."
+  },
+  {
+    "key": "INS_expand_batavia_technical_institute",
+    "version": "",
+    "en": "Expand the Batavia Institute of Technology"
+  },
+  {
+    "key": "INS_expand_batavia_technical_institute_desc",
+    "version": "",
+    "en": "Expanding the Batavia Institute of Technology will allow a greater number of students to become educated and increase the rate of our technological development."
+  },
+  {
+    "key": "INS_quinine_export",
+    "version": "",
+    "en": "More Lucrative Quinine Agreement"
+  },
+  {
+    "key": "INS_quinine_export_desc",
+    "version": "",
+    "en": "The Cinchona Bureau in Amsterdam nearly has a monopoly on quinine exports, which is especially profitable as quinine is in high demand worldwide as malaria treatment. The Bureau sources a majority of its quinine from the East Indies. Despite this, we receive a very small portion of the profits. We should use our quinine production as leverage to negotiate a fairer agreement."
+  },
+  {
+    "key": "INS_spend_profits_on_rural",
+    "version": "",
+    "en": "Spend Profits on Rural Development"
+  },
+  {
+    "key": "INS_spend_profits_on_rural_desc",
+    "version": "",
+    "en": "With our new quinine agreement finalized, we find ourselves with an opportunity to use our additional income to develop the transportation and communications infrastructure in rural areas, paving the way for future industrial development."
+  },
+  {
+    "key": "INS_spend_profits_on_urban",
+    "version": "",
+    "en": "Spend Profits on Urban Development"
+  },
+  {
+    "key": "INS_spend_profits_on_urban_desc",
+    "version": "",
+    "en": "With our new quinine agreement finalized, we find ourselves with an opportunity to use our additional income to expand the Batavian manufacturing industry, which will diversify our economy and decrease our reliance on exporting raw materials."
+  },
+  {
+    "key": "INS_spend_profits_on_military",
+    "version": "",
+    "en": "Spend Profits on Military Development"
+  },
+  {
+    "key": "INS_spend_profits_on_military_desc",
+    "version": "",
+    "en": "With our new quinine agreement finalized, we find ourselves with an opportunity to improve our military significantly by spending our additional income on building and maintaining new weapon factories in Yogyakarta and Semarang."
+  },
+  {
+    "key": "INS_end_to_bloodshed_tt",
+    "version": "",
+    "en": "The war will end, with new borders drawn based on current occupation. Java, Sumatra, and Borneo will be §Yannexed§! by the side that currently has the most control in the area.\"  \n  HOL_british_light_support: \"[ENG.GetNameDefCap] has agreed to help in the revolution"
+  },
+  {
+    "key": "INS_escalation_has_1_tt",
+    "version": "",
+    "en": "Escalation level is higher than §Y1§!"
+  },
+  {
+    "key": "INS_escalation_has_2_tt",
+    "version": "",
+    "en": "Escalation level is higher than §Y2§!"
+  },
+  {
+    "key": "INS_escalation_has_3_tt",
+    "version": "",
+    "en": "Escalation level is higher than §Y3§!"
+  },
+  {
+    "key": "INS_escalation_has_4_tt",
+    "version": "",
+    "en": "Escalation level is higher than §Y4§!"
+  },
+  {
+    "key": "INS_escalation_has_5_tt",
+    "version": "",
+    "en": "Escalation level is higher than §Y5§!"
+  },
+  {
+    "key": "INS_escalation_has_6_tt",
+    "version": "",
+    "en": "Escalation level is higher than §Y6§!"
+  },
+  {
+    "key": "INS_escalation_has_7_tt",
+    "version": "",
+    "en": "Escalation level is higher than §Y7§!"
+  },
+  {
+    "key": "INS_escalation_has_8_tt",
+    "version": "",
+    "en": "Escalation level is higher than §Y8§!"
+  },
+  {
+    "key": "INS_escalation_has_9_tt",
+    "version": "",
+    "en": "Escalation level is higher than §Y9§!"
+  },
+  {
+    "key": "INS_escalation_has_10_tt",
+    "version": "",
+    "en": "Escalation level is at §Y10§!"
+  },
+  {
+    "key": "INS_escalation_has_less_1_tt",
+    "version": "",
+    "en": "Escalation level is lower than §Y1§!"
+  },
+  {
+    "key": "INS_escalation_has_less_2_tt",
+    "version": "",
+    "en": "Escalation level is lower than §Y2§!"
+  },
+  {
+    "key": "INS_escalation_has_less_3_tt",
+    "version": "",
+    "en": "Escalation level is lower than §Y3§!"
+  },
+  {
+    "key": "INS_escalation_has_less_4_tt",
+    "version": "",
+    "en": "Escalation level is lower than §Y4§!"
+  },
+  {
+    "key": "INS_escalation_has_less_5_tt",
+    "version": "",
+    "en": "Escalation level is lower than §Y5§!"
+  },
+  {
+    "key": "INS_escalation_has_less_6_tt",
+    "version": "",
+    "en": "Escalation level is lower than §Y6§!"
+  },
+  {
+    "key": "INS_escalation_has_less_7_tt",
+    "version": "",
+    "en": "Escalation level is lower than §Y7§!"
+  },
+  {
+    "key": "INS_escalation_has_less_8_tt",
+    "version": "",
+    "en": "Escalation level is lower than §Y8§!"
+  },
+  {
+    "key": "INS_escalation_has_less_9_tt",
+    "version": "",
+    "en": "Escalation level is lower than §Y9§!"
+  },
+  {
+    "key": "INS_relocate_generals_tt",
+    "version": "",
+    "en": "Transfer §Y80%§! of our Armed Forces to [INS.GetNameDef]."
+  },
+  {
+    "key": "INS_exile_tt",
+    "version": "",
+    "en": "§Y[HOL.GetNameDefCap]§! will be able to continue to relocate to §Y[INS.GetNameDef]§!."
+  },
+  {
+    "key": "INS_army_located_tt",
+    "version": "",
+    "en": "§Y[HOL.GetNameDefCap]§! relocates their Armed Forces to us."
+  },
+  {
+    "key": "INS_govt_relocated_tt",
+    "version": "",
+    "en": "§Y[HOL.GetNameDefCap]§! relocates their Government to Java."
+  },
+  {
+    "key": "indonesia_trading_with_us_modifier",
+    "version": "",
+    "en": "Trade Agreements"
+  },
+  {
+    "key": "indonesia_opposing_us_modifier",
+    "version": "",
+    "en": "Trade Opposition"
+  },
+  {
+    "key": "indonesia_trading_with_enemy_modifier",
+    "version": "",
+    "en": "Trading With Japan"
+  },
+  {
+    "key": "INS_revolution_ended_tt",
+    "version": "",
+    "en": "The National Revolution has concluded"
+  },
+  {
+    "key": "INS_the_jewel_in_the_crown",
+    "version": "",
+    "en": "The Jewel in the Crown"
+  },
+  {
+    "key": "INS_the_jewel_in_the_crown_desc",
+    "version": "",
+    "en": "The East Indies are the brightest jewel in the Dutch colonial crown, and we intend to keep it that way. Through the Volksraad, our voice carries to The Hague."
+  },
+  {
+    "key": "INSHOL_java",
+    "version": "",
+    "en": "$HOL_java$"
+  },
+  {
+    "key": "INSHOL_java_desc",
+    "version": "",
+    "en": "$HOL_java_desc$"
+  },
+  {
+    "key": "INSHOL_sumatra",
+    "version": "",
+    "en": "$HOL_sumatra$"
+  },
+  {
+    "key": "INSHOL_sumatra_desc",
+    "version": "",
+    "en": "$HOL_sumatra_desc$"
+  },
+  {
+    "key": "INSHOL_borneo_and_the_grote_oost",
+    "version": "",
+    "en": "$HOL_borneo_and_the_grote_oost$"
+  },
+  {
+    "key": "INSHOL_borneo_and_the_grote_oost_desc",
+    "version": "",
+    "en": "$HOL_borneo_and_the_grote_oost_desc$"
+  },
+  {
+    "key": "INSHOL_foundations_of_defense",
+    "version": "",
+    "en": "$HOL_the_foundations_of_defense$"
+  },
+  {
+    "key": "INSHOL_foundations_of_defense_desc",
+    "version": "",
+    "en": "$HOL_the_foundations_of_defense_desc$"
+  },
+  {
+    "key": "INSHOL_investments_in_civ_railways_tt",
+    "version": "",
+    "en": "If [HOL.GetFlag]§Y[HOL.GetName]§! completes the focus:\\n         ([INS.GetFlag]§Y[INS.GetName]§!: Add §Y£autonomy_texticon -250.00§!)\\n   If [INS.GetFlag]§Y[INS.GetName]§! completes the focus:\\n         Add §Y£autonomy_texticon 250.00§!"
+  },
+  {
+    "key": "INSHOL_investments_in_civ_railways",
+    "version": "",
+    "en": "Investments in Civilian Railways"
+  },
+  {
+    "key": "INSHOL_investments_in_civ_railways_desc",
+    "version": "",
+    "en": "Winning over the support of the people of the Indies requires investing in civilian infrastructure. Currently, our railways are primarily used for cargo transportation. We should purchase passenger trains to run across our pre-existing railways in Java and Sumatra."
+  },
+  {
+    "key": "INSHOL_continue_exclusive_rights",
+    "version": "",
+    "en": "Exclusive Rights for De Javasche Bank"
+  },
+  {
+    "key": "INSHOL_continue_exclusive_rights_desc",
+    "version": "",
+    "en": "The East Indies Guilder has lost most of its value during the great depression, and our economic growth has reached a standstill. We could try to stabilize the Guilder by giving the Bank of Java exclusive printing rights, which it had until 1922."
+  },
+  {
+    "key": "INSHOL_peg_indies_guilder_to_dutch_guilder",
+    "version": "",
+    "en": "Peg the Indies Guilder to the Dutch Guilder"
+  },
+  {
+    "key": "INSHOL_peg_indies_guilder_to_dutch_guilder_desc",
+    "version": "",
+    "en": "The East Indies Guilder has lost most of its value during the great depression, and our economic growth has reached a standstill. The easiest solution is to peg the Indies Guilder to the Dutch Guilder, a far more stable currency. This will also tie us closer to our overlord."
+  },
+  {
+    "key": "INSHOL_peg_indies_guilder_to_us_dollar",
+    "version": "",
+    "en": "Peg the Indies Guilder to the US Dollar"
+  },
+  {
+    "key": "INSHOL_peg_indies_guilder_to_us_dollar_desc",
+    "version": "",
+    "en": "The East Indies Guilder has lost most of its value during the great depression, and our economic growth has reached a standstill. While we could peg the Indies Guilder to the Dutch Guilder, the US dollar is a far more stable currency. Pegging the Guilder to the Dollar also allows us to have more economic independence, making self rule a more attainable goal."
+  },
+  {
+    "key": "indonesia_currency_pegged_to_dollar_modifier",
+    "version": "",
+    "en": "Indies Guilder pegged to the US Dollar"
+  },
+  {
+    "key": "INS_direct_rule_tt",
+    "version": "",
+    "en": "Unlocks the §Y$INS_direct_rule_occupation_law$§! occupation law in indonesian princely states.\\nEffects:\\n     §GIncreases§! factories and resources from the state\\n     §RDecreases§! compliance growth\\n     §RIncreases§! resistance growth"
+  },
+  {
+    "key": "INS_local_autonomy_tt",
+    "version": "",
+    "en": "Unlocks the §Y$INS_local_autonomy_occupation_law$§! occupation law in indonesian princely states.\\nEffects:\\n     Gives §Ysmall§! boosts all around\\n     §GIncreases§! compliance growth"
+  },
+  {
+    "key": "INS_invest_in_batavian_education_req_tt",
+    "version": "",
+    "en": "Has successfully completed at least §Y3§! Volksraad missions"
+  },
+  {
+    "key": "INS_invest_in_batavian_education_req_2_tt",
+    "version": "",
+    "en": "Has successfully completed at least §Y6§! Volksraad missions"
+  },
+  {
+    "key": "INSHOL_eventual_autonomy_req_tt",
+    "version": "",
+    "en": "Has successfully completed at least §Y4§! Volksraad missions"
+  },
+  {
+    "key": "indonesia_volksraad_passed_12",
+    "version": "",
+    "en": "The Indonesian national flag has been officially recognized "
+  },
+  {
+    "key": "INS_stronghold_java_tt",
+    "version": "",
+    "en": "Any Indonesian State: Is not occupied by [ROOT.GetFlag][ROOT.GetNameDefCap]"
+  },
+  {
+    "key": "INSHOL_request_east_timor",
+    "version": "",
+    "en": "Demand the Return of East Timor"
+  },
+  {
+    "key": "INSHOL_request_east_timor_desc",
+    "version": "",
+    "en": "Timor has no right being occupied by Portugal, it is a remnant of colonial history that we mustn’t continue to tolerate, for it is rightful Indonesian territory. We will issue a formal demand to Portugal that they return Timor to us immediately."
+  },
+  {
+    "key": "INS_resist_occupation",
+    "version": "",
+    "en": "Resisting Occupation"
+  },
+  {
+    "key": "INS_resist_occupation_desc",
+    "version": "",
+    "en": "The anger held by many Indonesians against the Netherlands cannot allow us to fall to Fascism. We must do all that we can to resist the Japanese invasion and defend the motherland."
+  },
+  {
+    "key": "INS_local_resistance",
+    "version": "",
+    "en": "Local Resistance"
+  },
+  {
+    "key": "INS_local_resistance_desc",
+    "version": "",
+    "en": "We will establish resistance cells in territory that hasn’t been occupied yet, ensuring that if it does get occupied, we will be prepared to take it back when the time is right."
+  },
+  {
+    "key": "INS_stronghold_java",
+    "version": "",
+    "en": "Stronghold Java"
+  },
+  {
+    "key": "INS_stronghold_java_desc",
+    "version": "",
+    "en": "The Indies is a vast archipelago home to many peoples and extremely harsh terrain. Attempting to defend every last island, jungle, and mountain from an army far greater than ours is guaranteed to fail. While it is not easy to abandon our fellow men, evacuating all islands but Java, allowing us to station our entire army there, may be the best move for the nation as a whole."
+  },
+  {
+    "key": "INS_silence_nationalists",
+    "version": "",
+    "en": "Silence the Nationalist Symphasizers"
+  },
+  {
+    "key": "INS_silence_nationalists_desc",
+    "version": "",
+    "en": "The Japanese invasion has caused the revolutionary nationalist movements to begin supporting the Japanese invaders due to their shared enemy of the Netherlands. The instability resulting from the invasion has caused these movements to grow at a pace never seen before. If we do not do something about it now, it may grow entirely out of our control."
+  },
+  {
+    "key": "INS_east_indies_exile_government",
+    "version": "",
+    "en": "East Indies Exile Government"
+  },
+  {
+    "key": "INS_east_indies_exile_government_desc",
+    "version": "",
+    "en": "Alas, despite our best efforts, the Indies have fallen. We cannot lose hope yet, however. We must continue to do all we can with the limited resources available to us. We may have lost the battle, but we have not yet lost the war."
+  },
+  {
+    "key": "INS_establish_nefis",
+    "version": "",
+    "en": "Establish NEFIS"
+  },
+  {
+    "key": "INS_establish_nefis_desc",
+    "version": "",
+    "en": "We will create the Netherlands East Indies Forces Intelligence Service together with the Allies, which we will station in Australia. Through this we will conduct clandestine operations to sabotage the Japanese occupying forces. Through each small victory, we move closer to our return to the homeland."
+  },
+  {
+    "key": "INS_evacuate_soldiers_to_australia",
+    "version": "",
+    "en": "Evacuate Soldiers to Australia"
+  },
+  {
+    "key": "INS_evacuate_soldiers_to_australia_desc",
+    "version": "",
+    "en": "We will create a military base near the NEFIS base in Northern Australia. There, we will station the KNIL soldiers who avoided capture during the occupation, allowing us to continue fighting."
+  },
+  {
+    "key": "INS_australian_weapons",
+    "version": "",
+    "en": "Australian Weapons"
+  },
+  {
+    "key": "INS_australian_weapons_desc",
+    "version": "",
+    "en": "Clandestine operations are not easy to operate, and we will need proper equipment in order to succeed. We can license Australian factories and repurpose them to produce weapons for the NEFIS."
+  },
+  {
+    "key": "INS_defenders_of_homeland",
+    "version": "",
+    "en": "Defenders of the Homeland"
+  },
+  {
+    "key": "INS_defenders_of_homeland_tt",
+    "version": "",
+    "en": "This focus will be automatically completed if the Defenders of the Homeland are established."
+  },
+  {
+    "key": "INS_resist_occupation_tt",
+    "version": "",
+    "en": "This focus will be automatically completed if we get invaded and do not surrender."
+  },
+  {
+    "key": "INS_defenders_of_homeland_desc",
+    "version": "",
+    "en": "The Indies Government has fallen, and a new regime has taken its place. Led by the Nationalists and the Japanese Government, we will create a new army superior to the KNIL, and win the war. However, there is no denying that this alliance between Nationalists and Imperialists is fragile. Will the alliance last, or will it end in bloodshed?"
+  },
+  {
+    "key": "INS_embrace_co_prosp_sphere",
+    "version": "",
+    "en": "Embrace the Co-Prosperity Sphere"
+  },
+  {
+    "key": "INS_embrace_co_prosp_sphere_desc",
+    "version": "",
+    "en": "We have finally ended Dutch rule, and while we have just replaced one overlord with another, the promises of economic prosperity and pan-asianism are very enticing. We will continue to help the Japanese war effort in order to ensure the Netherlands will never attempt to come back for Indonesia."
+  },
+  {
+    "key": "INS_seize_oppurtunity",
+    "version": "",
+    "en": "Seize the Opportunity"
+  },
+  {
+    "key": "INS_seize_oppurtunity_desc",
+    "version": "",
+    "en": "[JAP.GetNameDefCap] is losing, and their occupation government is weak. For the first time in many centuries, we have a real chance of breaking the shackles around Indonesia for good, creating an independent nation. If we do not take this opportunity to declare independence now, there’s no telling how long it will take until we get the next one."
+  },
+  {
+    "key": "INS_japanese_resource_infrastructure",
+    "version": "",
+    "en": "Fund the Greater War Effort"
+  },
+  {
+    "key": "INS_japanese_resource_infrastructure_desc",
+    "version": "",
+    "en": "Giving control over our core resource extraction infrastructure to [JAP.GetNameDef] is a necessary step towards winning the war, as it is of utmost priority that [JAP.GetAdjective] units remain fully supplied at all times. [JAP.GetNameDefCap] will also be developing our local infrastructure in order to increase efficiency of resource exports."
+  },
+  {
+    "key": "INS_japanese_army_training",
+    "version": "",
+    "en": "Reform the Army"
+  },
+  {
+    "key": "INS_japanese_army_training_desc",
+    "version": "",
+    "en": "We have a lot to learn from our [JAP.GetAdjective] overlords, and now that the KNIL is disbanded, we should create a new army taught by the IJA, ready to defend Indonesia from outside threats."
+  },
+  {
+    "key": "INS_governor_general_de_jonge",
+    "version": "",
+    "en": "Governor General de Jonge"
+  },
+  {
+    "key": "INS_governor_general_de_jonge_desc",
+    "version": "",
+    "en": "Bonifacius Cornelis de Jonge is known for ruling with an iron fist, opposing any form of nationalism and often ignoring the wishes of the Volksraad. His rule over the Indies has lasted a long time, and his experience stretches all the way back to the great war where he served as the Indies Minister of War."
+  },
+  {
+    "key": "INS_governor_general_tjarda",
+    "version": "",
+    "en": "Governor General Tjarda"
+  },
+  {
+    "key": "INS_tjarda_explain_tt",
+    "version": "",
+    "en": "§YBonifacius Cornelis de Jonge§!'s term has expired, and §YAlidius Tjarda van Starkenborgh Stachouwer§! was chosen as a replacement Governor in September of 1936."
+  },
+  {
+    "key": "INS_governor_general_tjarda_desc",
+    "version": "",
+    "en": "Alidius Tjarda van Starkenborgh Stachouwer has a slightly different vision for the Indies than his predecessor. While he is still opposed to Nationalism, he has slightly more liberal policies and is more willing to listen to the wishes of the Volksraad."
+  },
+  {
+    "key": "INS_electrical_investments",
+    "version": "",
+    "en": "Electrical Investments"
+  },
+  {
+    "key": "INS_electrical_investments_desc",
+    "version": "",
+    "en": "Every European industrialized nation has a strong electrical grid to support their industry. If we want to stop relying on material exports and create our own manufacturing industry like them, we should build a high capacity electrical grid that stretches across the entirety of Java."
+  },
+  {
+    "key": "INS_reduce_land_taxes",
+    "version": "",
+    "en": "Reduce Land Taxes"
+  },
+  {
+    "key": "INS_reduce_land_taxes_desc",
+    "version": "",
+    "en": "The high taxes imposed on land ownership has made it difficult for native Indonesians to own plantations and businesses. While this has made it easy for us to hold a monopoly on the rubber industry, it has caused economic problems throughout the country. We should consider reducing these taxes to their previous rates, making it possible for smaller, privately owned rubber plantations to operate."
+  },
+  {
+    "key": "INS_invest_in_batavian_education",
+    "version": "",
+    "en": "Investments in Batavian Education"
+  },
+  {
+    "key": "INS_invest_in_batavian_education_desc",
+    "version": "",
+    "en": "The Volksraad has made it clear that the will of the Indonesian people is for education to become more accessible, as currently it is primarily Dutch Indonesians and the small group of Indonesian elite who can afford it. In order to comply with the Volksraad motion, we should construct several primary and secondary schools in and around Batavia."
+  },
+  {
+    "key": "INS_javanese_education_investments",
+    "version": "",
+    "en": "Javanese Education Investments"
+  },
+  {
+    "key": "INS_javanese_education_investments_desc",
+    "version": "",
+    "en": "In addition to our ongoing project to construct primary and secondary schools, we could build a community college and specialized vocational schools, which would make further education much more accessible for middle-class families."
+  },
+  {
+    "key": "INS_allow_local_autonomy",
+    "version": "",
+    "en": "Allow Local Autonomy"
+  },
+  {
+    "key": "INS_allow_local_autonomy_desc",
+    "version": "",
+    "en": "The Vorstenlanden system granting princely states self governance has made nationalist movements much easier to manage and increased the stability of the nation as a whole. We should increase the level of autonomy granted to princely states even more, allowing the government to focus on more important matters."
+  },
+  {
+    "key": "INS_direct_rule",
+    "version": "",
+    "en": "Direct Rule"
+  },
+  {
+    "key": "INS_direct_rule_desc",
+    "version": "",
+    "en": "The Vorstenlanden system granting princely states self governance has added a layer of difficulty to administration, requiring additional bureaucracy and wasting time. It is time to abolish the system altogether and enforce direct rule over the entire archipelago."
+  },
+  {
+    "key": "INS_seize_oppurtunity_tt",
+    "version": "",
+    "en": "§Y[JAP.GetFlag][JAP.GetName]§! has been pushed back, and controls less than §Y[?var:temp_states_plus_more]§! states. (currently: §Y[?var:JAP.num_controlled_states]§!)"
+  },
+  {
+    "key": "INS_seize_oppurtunity_refuse_warn_tt",
+    "version": "",
+    "en": "§RThe national revolution will begin, which may lead to a war with [HOL.GetNameDef]§!."
+  },
+  {
+    "key": "INS_economic_stabilization",
+    "version": "",
+    "en": "Economic Stabilization"
+  },
+  {
+    "key": "INS_economic_stabilization_desc",
+    "version": "",
+    "en": "The great depression and worldwide protectionism has left us economically crippled, and many Indonesians who once worked in the raw materials industry have found themselves without a job. We must take drastic measures and create a labour program where citizens without a job will be assigned one."
+  },
+  {
+    "key": "INS_restore_order_in_indies",
+    "version": "",
+    "en": "Restore Order in the Indies"
+  },
+  {
+    "key": "INS_restore_order_in_indies_desc",
+    "version": "",
+    "en": "The rising nationalist movement in the Indies has destabilized several regions, and could grow out of control if we do not stop it. We must restore order and stability as our top priority."
+  },
+  {
+    "key": "INS_detangle_supply_chains",
+    "version": "",
+    "en": "Detangle the Supply Chains"
+  },
+  {
+    "key": "INS_detangle_supply_chains_desc",
+    "version": "",
+    "en": "Our export economy requires goods to go through dozens of middlemen until it finally reaches the final destination, each time requiring a fee, a tax, or any other reason for them to take a little off the top. We should work to detangle this mess and control the majority of the supply chain directly."
+  },
+  {
+    "key": "INS_prioritize_industrial_growth",
+    "version": "",
+    "en": "Prioritize Industrial Growth"
+  },
+  {
+    "key": "INS_prioritize_industrial_growth_desc",
+    "version": "",
+    "en": "Our export economy is too volatile and keeps us dependent on Dutch collaboration. We should work on establishing a manufacturing industry by building factories across Batavia. We could become the most industrialized country in the pacific"
+  },
+  {
+    "key": "INS_closer_economic_ties_to_netherlands",
+    "version": "",
+    "en": "Closer Economic Ties to the Netherlands"
+  },
+  {
+    "key": "INS_closer_economic_ties_to_netherlands_desc",
+    "version": "",
+    "en": "We have a lot to learn from our overlord, especially economically. If we were to further integrate our export economy with the Netherlands, we could utilize their infrastructure and connections to secure more lucrative trade deals."
+  },
+  {
+    "key": "INS_prioritize_dutch_companies",
+    "version": "",
+    "en": "Prioritize Dutch Companies"
+  },
+  {
+    "key": "INS_prioritize_dutch_companies_desc",
+    "version": "",
+    "en": "Dutch companies such as Shell and Fokker have been the backbone of our economy for centuries now, with our raw material exports being heavily integrated with Shell. This has brought significant wealth to the Indies, and we should prioritize them over smaller, local businesses in order to ensure our cooperation remains strong."
+  },
+  {
+    "key": "INSHOL_java_factories",
+    "version": "",
+    "en": "Open Weapons Factories in Java"
+  },
+  {
+    "key": "INSHOL_java_factories_desc",
+    "version": "",
+    "en": "While basic, there is no denying that simply building more arms factories goes a long way towards improving the strength of an army. As the industrial powerhouse of the colony, Java is an obvious location to build them in."
+  },
+  {
+    "key": "INSHOL_license_dutch_weapon_blueprints",
+    "version": "",
+    "en": "License Dutch Weapon Blueprints"
+  },
+  {
+    "key": "INSHOL_license_dutch_weapon_blueprints_desc",
+    "version": "",
+    "en": "Rather than investing in building an entire domestic manufacturing process and creating our own technology designs, we should cooperate with Dutch companies in order to purchase their weapon blueprints."
+  },
+  {
+    "key": "INSHOL_bangka_production_lines",
+    "version": "",
+    "en": "Bangka Production Lines"
+  },
+  {
+    "key": "INSHOL_bangka_production_lines_desc",
+    "version": "",
+    "en": "The exponential development of Bangka’s infrastructure as a result of the Bangka Project has turned this once tiny, mostly unimportant island into the perfect site for new industrial projects. We have an opportunity to strengthen the KNIL by building a new weapon factory in Bangka, which, due to the island's concentrated roads, railways, and ports, will operate more efficiently than if we had built them elsewhere."
+  },
+  {
+    "key": "INSHOL_artillerie_inrichtingen",
+    "version": "",
+    "en": "Artillerie Inrichtingen"
+  },
+  {
+    "key": "INSHOL_artillerie_inrichtingen_desc",
+    "version": "",
+    "en": "Artillerie Inrichtingen has been manufacturing artillery and other arms in the Netherlands for over 250 years, and has been operating in the Indies for several decades. Expanding their manufacturing capabilities by opening new manufacturing facilities in the Indies would significantly improve the capabilities of the KNIL, whilst strengthening the economy of underfunded areas by creating new jobs."
+  },
+  {
+    "key": "INSHOL_ai_pyrotechnische",
+    "version": "",
+    "en": "Artillerie Inrichtingen Pyrotechnische"
+  },
+  {
+    "key": "INSHOL_ai_pyrotechnische_desc",
+    "version": "",
+    "en": "Continuing the expansion of Artillerie Inrichtingens production facilities within the East Indies, we should fund the establishment of an East Indies division of Artillerie Inrichtingen’s pyrotechnical subsidiary."
+  },
+  {
+    "key": "INSHOL_bio_pharma",
+    "version": "",
+    "en": "Bio Pharma"
+  },
+  {
+    "key": "INSHOL_bio_pharma_desc",
+    "version": "",
+    "en": "Expanding the Indies pharmaceutical industry is the obvious next step in reforming the KNIL, in order to ensure wounded soldiers receive adequate treatment and recover safely. The prevalence of quinine in the Indies makes the cost of this project substantially lower than normal."
+  },
+  {
+    "key": "INSHOL_develop_fighters",
+    "version": "",
+    "en": "Develop New Fighters"
+  },
+  {
+    "key": "INSHOL_develop_fighters_desc",
+    "version": "",
+    "en": "We will send Batavian engineers to Amsterdam to study Fokker’s fighter production firsthand, gaining access to its closely guarded manufacturing secrets. They will return with the knowledge and technical expertise required to establish a modern domestic fighter industry in the Indies."
+  },
+  {
+    "key": "INSHOL_develop_bombers",
+    "version": "",
+    "en": "Develop New Bombers"
+  },
+  {
+    "key": "INSHOL_develop_bombers_desc",
+    "version": "",
+    "en": "We will send Batavian engineers to Amsterdam to study Fokker’s bomber plane production firsthand, gaining access to its closely guarded manufacturing secrets. They will return with the knowledge and technical expertise required to establish a modern domestic bomber industry in the Indies."
+  },
+  {
+    "key": "INSHOL_bandung_aircraft_facility",
+    "version": "",
+    "en": "Bandung Aircraft Manufacturing Facility"
+  },
+  {
+    "key": "INSHOL_bandung_aircraft_facility_desc",
+    "version": "",
+    "en": "While blueprints and manufacturing secrets are useful, they’re useless until we build planes from them. We will open new aircraft facilities in Bandung in order to meet the current needs of the ML-KNIL."
+  },
+  {
+    "key": "INSHOL_netherlands_indies_air_doctrine",
+    "version": "",
+    "en": "The Netherlands-Indies Air Doctrine"
+  },
+  {
+    "key": "INSHOL_netherlands_indies_air_doctrine_desc",
+    "version": "",
+    "en": "We will study the air forces of nations facing challenges similar to our own, drawing on their hard-won experience to shape a doctrine suited to the realities of the East Indies, without repeating these historical mistakes."
+  },
+  {
+    "key": "INSHOL_manado_military_academy",
+    "version": "",
+    "en": "Makassar Military Academy"
+  },
+  {
+    "key": "INSHOL_manado_military_academy_desc",
+    "version": "",
+    "en": "Establishing a military academy outside of Java will help mitigate our manpower shortage significantly by making conscription feasible in the eastern islands. Makassar, located around the middle of the East Indies is the perfect location for it."
+  },
+  {
+    "key": "INSHOL_infantry_training_in_borneo",
+    "version": "",
+    "en": "Infantry Training in Borneo"
+  },
+  {
+    "key": "INSHOL_infantry_training_in_borneo_desc",
+    "version": "",
+    "en": "The East Indies are defined by dense jungles, rugged mountains, and unforgiving terrain. Our soldiers, primarily based in Java, are woefully unprepared to fight in these conditions. We must expand military training beyond Java and conduct exercises in harsher environments. Few places on earth rival the jungles and mountains of Borneo, making it the perfect spot to train world-class rangers."
+  },
+  {
+    "key": "INSHOL_knil_engineers",
+    "version": "",
+    "en": "Genie Corps"
+  },
+  {
+    "key": "INSHOL_knil_engineers_desc",
+    "version": "",
+    "en": "We mustn't focus all our efforts on infantry and rifle production, and remember that logistics and communications play an essential role in winning battles. We should train engineers and fund Batavian vocational schools to ensure our army is not bottlenecked by poor logistics."
+  },
+  {
+    "key": "INSHOL_work_with_oil_barons",
+    "version": "",
+    "en": "Cooperate With the Oil Barons"
+  },
+  {
+    "key": "INSHOL_work_with_oil_barons_desc",
+    "version": "",
+    "en": "The Great Depression has left our export based economy in a depressing state. It might be time to consider offloading some of the trade negotiations to the oil barons of Sumatra, in order to guarantee the oil gets sold. This will however come at a cost, as for them to agree to this deal, we will need to sell the oil at prices significantly lower than the market rate."
+  },
+  {
+    "key": "INSHOL_rubber_taxation",
+    "version": "",
+    "en": "Rubber Taxation"
+  },
+  {
+    "key": "INSHOL_rubber_taxation_desc",
+    "version": "",
+    "en": "Dutch investment and expertise have transformed the rubber plantations of the East Indies into one of the Empire’s most valuable assets. It is only just that the Crown claims its rightful share of the wealth it has created. Though certain local politicians protest, the interests of the Empire cannot be dictated by provincial agitation."
+  },
+  {
+    "key": "INSHOL_padang_port",
+    "version": "",
+    "en": "International Port in Padang"
+  },
+  {
+    "key": "INSHOL_padang_port_desc",
+    "version": "",
+    "en": "Resources produced in Padang must first be routed through Java before reaching international markets, as the region lacks facilities capable of handling large convoys. This unnecessary detour strains our supply chain and limits Sumatra’s economic potential. By constructing a major cargo harbor in Padang, we can remove this detour, increasing the profitability of Padang’s plantations."
+  },
+  {
+    "key": "INSHOL_subsidize_bauxite",
+    "version": "",
+    "en": "Subsidize Bauxite Projects"
+  },
+  {
+    "key": "INSHOL_subsidize_bauxite_desc",
+    "version": "",
+    "en": "The ongoing project in the Indies to modernize the bauxite-rich Bangka-Belitung islands is very promising, and the potential for long term profit is high. We should support the Indies government with economic subsidies in order to expedite the project."
+  },
+  {
+    "key": "INSHOL_agricultural_subsidies",
+    "version": "",
+    "en": "Privatize the Agricultural Sector"
+  },
+  {
+    "key": "INSHOL_agricultural_subsidies_desc",
+    "version": "",
+    "en": "By permitting the establishment of privately owned farms of varying sizes, we can accelerate infrastructure development in underfunded rural regions while simultaneously increasing government revenue. To achieve this, we will establish a structured tax framework wherein all tax income generated by these farms is remitted directly to the Netherlands, rather than first going through the Indies."
+  },
+  {
+    "key": "INSHOL_import_sugar",
+    "version": "",
+    "en": "Import Sugar"
+  },
+  {
+    "key": "INSHOL_import_sugar_desc",
+    "version": "",
+    "en": "We will mandate price controls in the growing agricultural sector in the Indies in order to import all of the nation's sugar from plantations in the Indies, at prices no other government can match, and establish a government monopoly on sugar."
+  },
+  {
+    "key": "INSHOL_import_lumber",
+    "version": "",
+    "en": "Import Lumber"
+  },
+  {
+    "key": "INSHOL_import_lumber_desc",
+    "version": "",
+    "en": "We will mandate price controls in the growing agricultural sector in the Indies in order to import all of the nation's lumber from plantations in the Indies, at prices no other government can match, and establish a government monopoly on lumber."
+  },
+  {
+    "key": "INSHOL_industrialized_colony",
+    "version": "",
+    "en": "The Industrialized Colony"
+  },
+  {
+    "key": "INS_no_peta_tt",
+    "version": "",
+    "en": "Indonesia will be unable to cooperate with foreign invaders."
+  },
+  {
+    "key": "INSHOL_industrialized_colony_desc",
+    "version": "",
+    "en": "The East Indies, once a humble colony, has become one of the most industrialized, wealthy regions in all of Asia. This marks a monumental moment in the history of the Netherlands, and humanity. Our efforts have paid off, and we will continue to invest in the development of our colony, and reestablish the Netherlands as a global power once more."
+  },
+  {
+    "key": "INSHOL_economic_integration",
+    "version": "",
+    "en": "Economic Integration"
+  },
+  {
+    "key": "INSHOL_economic_integration_desc",
+    "version": "",
+    "en": "The Dutch East Indies is the shining jewel of our Empire, their prosperity secured through the steady leadership of the Queen, the Prime Minister, and the Governor-General. This stability must not be endangered by reckless calls for independence, which would bring only disorder and decline. We will bind the economies of the Netherlands and the Indies ever tighter, ensuring continued stability and greatness."
+  },
+  {
+    "key": "INSHOL_republic_of_indonesia",
+    "version": "",
+    "en": "The Republic of Indonesia"
+  },
+  {
+    "key": "INSHOL_republic_of_indonesia_desc",
+    "version": "",
+    "en": "When the Netherlands begrudgingly agreed to the Soetardjo Petition, the resulting legislation bound Indonesian Independence to a long list of conditions to qualify as economically. self-sufficient. Despite this, these conditions have now been met in full thanks to the determination held by the Indonesian people, and the Netherlands has no choice but to accept our formal declaration of independence."
+  },
+  {
+    "key": "INSHOL_propose_malay_unification",
+    "version": "",
+    "en": "Propose Malay Unification"
+  },
+  {
+    "key": "INSHOL_propose_malay_unification_desc",
+    "version": "",
+    "en": "Indonesia is an archipelago home to hundreds of cultures, languages, and ethnicities. While some are similar, others are distinctly different. Yet through the shared struggle of colonial rule, we have found unity under one nation; Indonesia. Perhaps we should ask ourselves why this unity must stop here, when across the straits the people of Malaya share much the same history and aspirations as our own?"
+  },
+  {
+    "key": "INSHOL_singapore_compromise",
+    "version": "",
+    "en": "The Singapore Compromise"
+  },
+  {
+    "key": "INSHOL_singapore_compromise_desc",
+    "version": "",
+    "en": "Singapore is Indonesian land in history and culture, and it is only natural that it should be included in a united Indonesia. Yet Britain is not willing to give up Singapore due to its strategic importance and necessity as a military base. We should propose a compromise wherein Singapore joins the union, on the condition that Britain retains the right to station forces on the island."
+  },
+  {
+    "key": "INSHOL_request_ceylon",
+    "version": "",
+    "en": "Request Transfer of Ceylon"
+  },
+  {
+    "key": "INSHOL_request_ceylon_desc",
+    "version": "",
+    "en": "The British colony of Ceylon shares deep cultural and linguistic ties with the wider Malay world. As the pan-Malayan federation of Maphilindo grows, it is only natural that this island too should find its place within the confederation."
+  },
+  {
+    "key": "INSHOL_papua_referendum",
+    "version": "",
+    "en": "The Papua Referendum"
+  },
+  {
+    "key": "INSHOL_papua_referendum_desc",
+    "version": "",
+    "en": "Today, the island of Papua is divided between Indonesia and Australia. While our investments and development have transformed our half into a growing and prosperous region, the Australian-administered territory remains neglected and underdeveloped. The future of the island should rest in the hands of its people, and therefore we must demand an official referendum on the unification of Papua."
+  },
+  {
+    "key": "INSHOL_invite_phillipines",
+    "version": "",
+    "en": "Propose Maphillindo"
+  },
+  {
+    "key": "INSHOL_invite_phillipines_desc",
+    "version": "",
+    "en": "The many peoples of our union speak different languages and uphold different traditions, yet nearly all trace their roots to the Malay world. We should reform our union state into a pan-Malayan confederation, inviting the Philippines as a member state. What was once several insignificant colonies will now stand strong as Southeast Asia’s regional power."
+  },
+  {
+    "key": "INS_focus_time_reduce_usa_tt",
+    "version": "",
+    "en": "§Y$INS_realign_supply_chains$§! will reduce the time needed for this focus by 70 days."
+  },
+  {
+    "key": "INS_focus_time_reduce_jap_tt",
+    "version": "",
+    "en": "§Y$INS_first_come_first_serve$§! will reduce the time needed for this focus by 70 days."
+  },
+  {
+    "key": "INS_focus_time_reduce_fokker_tt",
+    "version": "",
+    "en": "§Y$INSHOL_east_indies_fokker_division$§! will reduce the time needed for this focus by 35 days."
+  },
+  {
+    "key": "INS_focus_time_reduce_tjarda_tt",
+    "version": "",
+    "en": "§Y$INS_governor_general_tjarda$§! will reduce the time needed for this focus by 35 days."
+  },
+  {
+    "key": "INS_focus_time_reduce_pki_tt",
+    "version": "",
+    "en": "§Y$INS_utilize_tan_malakas_militia$§! will reduce the time needed for this focus by 35 days."
+  },
+  {
+    "key": "INS_war_ongoing_tt",
+    "version": "",
+    "en": "Current days are: [?INS_has_gotten_invasion_event:days|Y0]"
+  },
+  {
+    "key": "INS_has_gotten_invasion_event",
+    "version": "",
+    "en": "Indonesia has been invaded"
+  },
+  {
+    "key": "INS_tan_malaka_coup_tt",
+    "version": "",
+    "en": "PKI Militias will stop plotting a revolution."
+  },
+  {
+    "key": "INS_add_revolution_point_tt",
+    "version": "",
+    "en": "Gets §Y1§! additional militia envoy."
+  },
+  {
+    "key": "INS_no_more_political_chaos_tt",
+    "version": "",
+    "en": "Political Chaos Events will stop triggering."
+  },
+  {
+    "key": "INS_is_noncore_but_indonesian_trigger_tt",
+    "version": "",
+    "en": "Is a cored Indonesian state"
+  },
+  {
+    "key": "INS_is_noncore_but_indonesian_trigger_tt_NOT",
+    "version": "",
+    "en": "Is an uncored Indonesian state"
+  },
+  {
+    "key": "INS_soetardjo_petition_supported_tt",
+    "version": "",
+    "en": "The Soetardjo Petition has been supported by the Volksraad"
+  },
+  {
+    "key": "INS_soetardjo_petition_against_tt",
+    "version": "",
+    "en": "The Soetardjo Petition has divided the Volksraad"
+  },
+  {
+    "key": "HOL_obtain_foreign_colonial_investments_taog",
+    "version": "",
+    "en": "$HOL_obtain_foreign_colonial_investments$"
+  },
+  {
+    "key": "HOL_obtain_foreign_colonial_investments_taog_desc",
+    "version": "",
+    "en": "$HOL_obtain_foreign_colonial_investments_desc$"
+  },
+  {
+    "key": "HOL_the_western_possessions_taog",
+    "version": "",
+    "en": "$HOL_the_western_possessions$"
+  },
+  {
+    "key": "HOL_the_western_possessions_taog_desc",
+    "version": "",
+    "en": "$HOL_the_western_possessions_desc$"
+  },
+  {
+    "key": "HOL_expand_curacao_oil_refineries_taog",
+    "version": "",
+    "en": "$HOL_expand_curacao_oil_refineries$"
+  },
+  {
+    "key": "HOL_expand_curacao_oil_refineries_taog_desc",
+    "version": "",
+    "en": "$HOL_expand_curacao_oil_refineries_desc$"
+  },
+  {
+    "key": "HOL_open_second_paranam_bauxite_mine_taog",
+    "version": "",
+    "en": "$HOL_open_second_paranam_bauxite_mine$"
+  },
+  {
+    "key": "HOL_open_second_paranam_bauxite_mine_taog_desc",
+    "version": "",
+    "en": "$HOL_open_second_paranam_bauxite_mine_desc$"
+  },
+  {
+    "key": "HOL_antilles_defenses_taog",
+    "version": "",
+    "en": "$HOL_antilles_defenses$"
+  },
+  {
+    "key": "HOL_antilles_defenses_taog_desc",
+    "version": "",
+    "en": "$HOL_antilles_defenses_desc$"
+  },
+  {
+    "key": "HOL_pre_empt_venezuelan_aggression_taog",
+    "version": "",
+    "en": "$HOL_pre_empt_venezuelan_aggression$"
+  },
+  {
+    "key": "HOL_pre_empt_venezuelan_aggression_taog_desc",
+    "version": "",
+    "en": "$HOL_pre_empt_venezuelan_aggression_desc$"
+  },
+  {
+    "key": "HOL_continue_the_war_in_batavia_taog",
+    "version": "",
+    "en": "$HOL_continue_the_war_in_batavia$"
+  },
+  {
+    "key": "HOL_continue_the_war_in_batavia_taog_desc",
+    "version": "",
+    "en": "$HOL_continue_the_war_in_batavia_desc$"
+  },
+  {
+    "key": "HOL_a_western_capital_taog",
+    "version": "",
+    "en": "$HOL_a_western_capital$"
+  },
+  {
+    "key": "HOL_a_western_capital_taog_desc",
+    "version": "",
+    "en": "$HOL_a_western_capital_desc$"
+  },
+  {
+    "key": "HOL_expand_the_colonial_army_taog",
+    "version": "",
+    "en": "$HOL_expand_the_colonial_army$"
+  },
+  {
+    "key": "HOL_expand_the_colonial_army_taog_desc",
+    "version": "",
+    "en": "$HOL_expand_the_colonial_army_desc$"
+  },
+  {
+    "key": "HOL_colonial_shipbuilding_taog",
+    "version": "",
+    "en": "$HOL_colonial_shipbuilding$"
+  },
+  {
+    "key": "HOL_colonial_shipbuilding_taog_desc",
+    "version": "",
+    "en": "$HOL_colonial_shipbuilding_desc$"
+  },
+  {
+    "key": "HOL_the_east_indies_war_machine_taog",
+    "version": "",
+    "en": "$HOL_the_east_indies_war_machine$"
+  },
+  {
+    "key": "HOL_the_east_indies_war_machine_taog_desc",
+    "version": "",
+    "en": "$HOL_the_east_indies_war_machine_desc$"
+  },
+  {
+    "key": "HOL_prepare_for_our_return_taog",
+    "version": "",
+    "en": "$HOL_prepare_for_our_return$"
+  },
+  {
+    "key": "HOL_prepare_for_our_return_taog_desc",
+    "version": "",
+    "en": "$HOL_prepare_for_our_return_desc$"
+  },
+  {
+    "key": "HOL_liberation_taog",
+    "version": "",
+    "en": "$HOL_liberation$"
+  },
+  {
+    "key": "HOL_liberation_taog_desc",
+    "version": "",
+    "en": "$HOL_liberation_desc$"
+  },
+  {
+    "key": "HOL_curtail_colonial_autonomy_taog",
+    "version": "",
+    "en": "$HOL_curtail_colonial_autonomy$"
+  },
+  {
+    "key": "HOL_curtail_colonial_autonomy_taog_desc",
+    "version": "",
+    "en": "$HOL_curtail_colonial_autonomy_desc$"
+  },
+  {
+    "key": "HOL_taog_guarantee_colonial_loyalty",
+    "version": "",
+    "en": "Guarantee Colonial Loyalty"
+  },
+  {
+    "key": "HOL_taog_guarantee_colonial_loyalty_desc",
+    "version": "",
+    "en": "Nationalism is on the rise in the Indies and it is clear another revolution is in the works. While the one we faced in 1927 was crushed with ease, our sources tell us that we may be dealing with a much more prepared group of revolutionaries. Perhaps if we grant some concessions to Soetardjo's peaceful nationalist movement we can draw the attention of civilians away from the revolution, and towards Soetardjo?"
+  },
+  {
+    "key": "HOL_taog_guarantee_colonial_loyalty_tt",
+    "version": "",
+    "en": "§WGuarantees that [INS.GetNameDef] will not have a revolution.§!\\n[INS.GetNameDefCap] will attempt to declare independence peacefully. This can be stopped by completing the focus §Y$INSHOL_industrialized_colony$§!, which will require heavy investment into the colony."
+  },
+  {
+    "key": "INS_retake_lost_british_states_tt",
+    "version": "",
+    "en": "Unlocks the ability to launch limited wars against British territories in §YMalaysia§!"
+  },
+  {
+    "key": "INS_chemical_imports_stolen_tt",
+    "version": "",
+    "en": "Add §G[?var:ROOT.INS_guns_from_seek_help_focus]§! units of Infantry Equipment if opinion is above §Y75§! when this focus is completed."
+  },
+  {
+    "key": "jungle_tanks_tt",
+    "version": "",
+    "en": "Enables §YJungle Tanks§!\\n§YAll Tank Divisions (Jungle)§!:\\nAttack §G+15%§!\\nMovement: §G+15%§!"
+  },
+  {
+    "key": "jungle_heavy_tanks_tt",
+    "version": "",
+    "en": "Enables §YJungle Heavy Tanks§!\\n§YHeavy, Super Heavy and Modern Tank Divisions (Jungle)§!:\\nAttack §G+15%§!\\nMovement: §G+15%§!"
+  },
+  {
+    "key": "generic_choice_tt",
+    "version": "",
+    "en": "Giving choice between: \\n"
+  },
+  {
+    "key": "generic_or_tt",
+    "version": "",
+    "en": "Or:\\n"
+  },
+  {
+    "key": "effects_of_event_tt",
+    "version": "",
+    "en": "\\n§YEffects of event§!:"
+  },
+  {
+    "key": "potential_consequence_tt",
+    "version": "",
+    "en": "§YPotential consequence§!:\\n"
+  },
+  {
+    "key": "add_trait_to_theorist_tt",
+    "version": "",
+    "en": "Add trait to §YTheorist§!:"
+  },
+  {
+    "key": "remove_2_offsite_dockyard",
+    "version": "",
+    "en": "Remove §R2§! offmap §YNaval Dockyard§!."
+  },
+  {
+    "key": "effect_tt",
+    "version": "",
+    "en": "\\n§YEffect§!:"
+  },
+  {
+    "key": "jungle_heavy_tanks",
+    "version": "",
+    "en": "Jungle Heavy Tanks"
+  },
+  {
+    "key": "add_random_stat_to_general_tt",
+    "version": "",
+    "en": "Adds one extra random skill stat to this general"
+  },
+  {
+    "key": "generic_unlock_industrial_concern_tt",
+    "version": "",
+    "en": "Available as Industrial Concern: \\n"
+  },
+  {
+    "key": "ABDA_abdacom",
+    "version": "",
+    "en": "Establish the ABDACOM"
+  },
+  {
+    "key": "ABDA_abdacom_desc",
+    "version": "",
+    "en": "With enemy powers advancing rapidly across Southeast Asia and the Pacific, allied forces in the region must act as one to hold them back. By establishing a joint supreme command we can pool our resources, coordinate our naval assets, and present a unified front against the enemy."
+  },
+  {
+    "key": "ABDA_fortress_singapore",
+    "version": "",
+    "en": "Fortress Singapore"
+  },
+  {
+    "key": "ABDA_fortress_singapore_desc",
+    "version": "",
+    "en": "Singapore is the linchpin of our defensive strategy in the region. Reinforcing its fortifications and garrisoning it in strength will buy critical time for the broader ABDACOM effort and deny the enemy a rapid strategic victory."
+  },
+  {
+    "key": "ABDA_corps_expeditionnaire",
+    "version": "",
+    "en": "CEFEO"
+  },
+  {
+    "key": "ABDA_corps_expeditionnaire_desc",
+    "version": "",
+    "en": "French Indochina sits at the northern flank of the ABDACOM defensive perimeter. By committing the Corps Expéditionnaire Français en Extrême-Orient to active operations, [FRA.GetNameDef] will bring vital manpower and experience from its colonial forces to the joint command."
+  },
+  {
+    "key": "ABDA_maintain_strategic_flexibility",
+    "version": "",
+    "en": "Maintain Strategic Flexibility"
+  },
+  {
+    "key": "ABDA_maintain_strategic_flexibility_desc",
+    "version": "",
+    "en": "The United States must not overcommit its forces to any single theatre. By carefully managing our strategic reserve, we ensure that American industrial and military power can be brought to bear wherever it is needed most across the Pacific."
+  },
+  {
+    "key": "ABDA_the_malay_barrier",
+    "version": "",
+    "en": "The Malay Barrier"
+  },
+  {
+    "key": "ABDA_the_malay_barrier_desc",
+    "version": "",
+    "en": "The chain of islands stretching from Malaya through [INS.GetNonIdeologyName] forms a natural defensive barrier. ABDA forces must exploit this geography, establishing a coordinated naval and ground defence to slow the enemy advance."
+  },
+  {
+    "key": "ABDA_develop_naval_infrastructure",
+    "version": "",
+    "en": "Develop Naval Infrastructure"
+  },
+  {
+    "key": "ABDA_develop_naval_infrastructure_desc",
+    "version": "",
+    "en": "Sustained naval operations in the Pacific require bases, fuel depots, and repair facilities. Investing in the infrastructure of our ports and anchorages will extend the reach and endurance of ABDA naval forces."
+  },
+  {
+    "key": "ABDA_unified_naval_command",
+    "version": "",
+    "en": "Unified Naval Command"
+  },
+  {
+    "key": "ABDA_unified_naval_command_desc",
+    "version": "",
+    "en": "With land defences established and infrastructure in place, ABDA can now bring all naval forces under a single unified command. Standardised signals, shared intelligence, and coordinated patrol routes will multiply the effectiveness of every vessel in the theatre."
+  },
+  {
+    "key": "ABDA_ship_a_day_sinking_quotas",
+    "version": "",
+    "en": "Ship-A-Day Sinking Quotas"
+  },
+  {
+    "key": "ABDA_ship_a_day_sinking_quotas_desc",
+    "version": "",
+    "en": "Enemy supply lines stretching across the Pacific are their strategic vulnerability. By setting aggressive and coordinated sinking quotas for our submarine and surface forces, ABDACOM can bleed the enemy logistically and force them onto the defensive."
+  },
+  {
+    "key": "ABDA_naval_procurement",
+    "version": "",
+    "en": "Naval Procurement"
+  },
+  {
+    "key": "ABDA_naval_procurement_desc",
+    "version": "",
+    "en": "The losses already suffered demand urgent replacement. A coordinated ABDACOM procurement programme will prioritise destroyers, submarines, and patrol vessels best suited to the Pacific theatre, ensuring our combined fleet can match enemy expansion."
+  },
+  {
+    "key": "ABDA_keep_trade_open",
+    "version": "",
+    "en": "Keep Trade Open"
+  },
+  {
+    "key": "ABDA_keep_trade_open_desc",
+    "version": "",
+    "en": "The rubber and oil of the [INS.GetNonIdeologyName] are critical to the Allied war effort. ABDACOM must safeguard the sea lanes that carry these vital resources, protecting convoys from enemy interdiction and keeping trade flowing to our industries."
+  },
+  {
+    "key": "ABDA_expand_the_command",
+    "version": "",
+    "en": "Expand the Command"
+  },
+  {
+    "key": "ABDA_expand_the_command_desc",
+    "version": "",
+    "en": "ABDACOM has proven its worth. Now we must build on that foundation, extending membership to other Allied nations in the region and deepening our research and intelligence sharing to stay ahead of the enemy."
+  },
+  {
+    "key": "ABDA_basic_available_trigger_tt",
+    "version": "",
+    "en": "Is not at war with any ABDACOM member"
+  },
+  {
+    "key": "ABDA_spirit_tooltip",
+    "version": "",
+    "en": "Modifies §YABDA Supreme Command§!:"
+  },
+  {
+    "key": "abdacom_member",
+    "version": "",
+    "en": "Member of ABDACOM"
+  },
+  {
+    "key": "ABDA_malay_barrier_modifier_tt",
+    "version": "",
+    "en": "Modifies §Y$ABDA_supreme_command$§! by:\\n §G+15%§! Repair Speed\\n §G+10%§! Convoy Escort Efficiency"
+  },
+  {
+    "key": "ABDA_ship_a_day_modifier_tt",
+    "version": "",
+    "en": "Modifies §Y$ABDA_supreme_command$§! by:\\n §G+10%§! Submarine Attack\\n §G+10%§! Submarine Defence"
+  },
+  {
+    "key": "ABDA_keep_trade_open_modifier_tt",
+    "version": "",
+    "en": "Modifies §Y$ABDA_supreme_command$§! by:\\n §G+10%§! Screening Efficiency\\n §G+10%§! Screen Defence"
+  },
+  {
+    "key": "ABDA_unified_naval_command_modifier_tt",
+    "version": "",
+    "en": "Modifies §Y$ABDA_supreme_command$§! by:\\n §G+10%§! Ship Experience Gain"
+  },
+  {
+    "key": "ABDA_develop_naval_infrastructure_ast_tt",
+    "version": "",
+    "en": "[AST.GetName] receives §Y2 dockyards§! in a core territory."
+  },
+  {
+    "key": "ABDA_develop_naval_infrastructure_ins_tt",
+    "version": "",
+    "en": "[INS.GetName] receives §Y2 dockyards§! in a core territory."
+  },
+  {
+    "key": "ABDA_develop_naval_infrastructure_generic_tt",
+    "version": "",
+    "en": "Depending on the membership of §YABDACOM§!, [AST.GetName] and the [INS.GetName] may each receive 2 dockyards in their core territories."
+  },
+  {
+    "key": "ABDA_expand_the_command_tt",
+    "version": "",
+    "en": "Extends ABDACOM membership to [SIA.GetName], [NZL.GetName] and [MAL.GetName] if they are in our faction, granting them the full §Y$ABDA_supreme_command$§! modifier at its current strength."
+  },
+  {
+    "key": "ABDA_naval_procurement_ins_ships_tt",
+    "version": "",
+    "en": "[INS.GetName] will receive §Y6 Clemson Class destroyers transferred§! from [USA.GetAdjective] mothballed fleets."
+  },
+  {
+    "key": "ABDA_naval_procurement_hol_ships_tt",
+    "version": "",
+    "en": "[HOL.GetName] will receive §Y6 Clemson Class destroyers transferred§! from [USA.GetAdjective] mothballed fleets."
+  },
+  {
+    "key": "ABDA_naval_procurement_ast_ships_tt",
+    "version": "",
+    "en": "[AST.GetName] will receive §Y6 Clemson Class destroyers transferred§! from [USA.GetAdjective] mothballed fleets."
+  },
+  {
+    "key": "ABDA_naval_procurement_generic_tt",
+    "version": "",
+    "en": "Depending on the membership of §YABDACOM§!, [INS.GetNameDef], [HOL.GetNameDef], and [AST.GetNameDef] may each receive §Y6 Clemson Class destroyers§! transferred from [USA.GetAdjective] mothballed fleets."
+  }
+]

@@ -1,0 +1,422 @@
+[
+  {
+    "key": "country_capitulated.0.d_negative_both_no_faction",
+    "version": "",
+    "type": "desc",
+    "en": "\\n[Root.GetLeader] has announced that the [Root.GetAdjective] nation can no longer withstand the pressure from the occupying [From.From.GetAdjective] forces, committing travesties throughout the country. The [Root.GetAdjective] government has gone into exile. Their main forces have capitulated, and [From.From.GetNameDef] is now in control of their home area.\\nDespite this devastating loss the war against [From.From.GetNameDef] is far from over."
+  },
+  {
+    "key": "country_capitulated.0.d_negative_prev_no_faction",
+    "version": "",
+    "type": "desc",
+    "en": "\\n[Root.GetLeader] has announced that the [Root.GetAdjective] nation can no longer withstand the pressure from the occupying [From.From.GetAdjective] forces, committing travesties throughout the country. The [Root.GetAdjective] government has gone into exile. Their main forces have capitulated, and [From.From.GetNameDef] is now in control of their home area.\\nThough the war against [From.From.GetNameDef] continues, this is an unfortunate setback for all of the [Root.GetFactionName]."
+  },
+  {
+    "key": "country_capitulated.0.d_negative_prev_faction",
+    "version": "",
+    "type": "desc",
+    "en": "\\n[Root.GetLeader] has announced that the [Root.GetAdjective] nation can no longer withstand the pressure from the occupying [From.From.GetAdjective] forces, committing travesties throughout the country. The [Root.GetAdjective] government has gone into exile. Their main forces have capitulated, and [From.From.GetNameDef] is now in control of their home area.\\nThough the war against [From.From.GetNameDef] and the rest of the [From.From.GetFactionName] continues, this is an unfortunate setback for all of the [Root.GetFactionName]."
+  },
+  {
+    "key": "country_capitulated.0.d_neutral_both_no_faction",
+    "version": "",
+    "type": "desc",
+    "en": "\\nThe [Root.GetAdjective] government has gone into exile and their main forces have capitulated to [From.From.GetNameDef], who is now in control of their home area.\\n\\nAlthough the struggles between [From.From.GetName] and [Root.GetName] are over, [From.From.GetNameDef] is still at all-out war, and the fighting continues elsewhere."
+  },
+  {
+    "key": "country_capitulated.0.d_neutral_prev_no_faction",
+    "version": "",
+    "type": "desc",
+    "en": "\\nThe [Root.GetAdjective] government has gone into exile and their main forces have capitulated to [From.From.GetNameDef], who is now in control of their home area.\\n\\nThe struggle in [Root.GetName] was only a small part of the conflict. The war between [From.From.GetNameDef] and what remains of the [Root.GetFactionName] continues elsewhere."
+  },
+  {
+    "key": "country_capitulated.0.d_neutral_prev_faction",
+    "version": "",
+    "type": "desc",
+    "en": "\\nThe [Root.GetAdjective] government has gone into exile and their main forces have capitulated to [From.From.GetNameDef], who is now in control of their home area.\\n\\nThe struggle between [From.From.GetNameDef] and [Root.GetNameDef] was only a small part of the conflict. The war between the [From.From.GetFactionName] and what remains of the [Root.GetFactionName] continues elsewhere."
+  },
+  {
+    "key": "country_capitulated.0.d_positive_collab_diff_ideology",
+    "version": "",
+    "type": "desc",
+    "en": "\\n[Root.GetNameDef] has announced its total surrender to [From.From.GetNameDef]. The [From.From.GetAdjective] forces along with a number of independent [Root.GetAdjective] [From.From.GetRulingIdeology] supporters have forced [Root.GetLeader] and his government into exile as a new government has been established to rule [Root.GetNameDef] in cooperation with [From.From.GetNameDef]. [From.From.GetLeader] has remarked that this mutual agreement will bring a new age of prosperity and cooperation to [Root.GetNameDef].\\n[Root.GetLeader] responded by stating that even in exile, he shall continue to fight for [Root.GetNameDef] and support all resistance efforts in his homeland."
+  },
+  {
+    "key": "country_capitulated.0.d_positive_collab_invaded_same_ideology",
+    "version": "",
+    "type": "desc",
+    "en": "\\n[Root.GetNameDef] has announced its total surrender to [From.From.GetNameDef]. A number of [Root.GetAdjective] citizens dissatisfied with the brand of [From.From.GetRulingIdeologyNoun] brought to [Root.GetNameDef] by [Root.GetLeader] joined the [From.From.GetAdjective] soldiers in removing him from power and forming a new government under the guidance of [From.From.GetNameDef]. [From.From.GetLeader] has remarked that this mutual agreement will bring a new age of prosperity and cooperation to [From.From.GetNameDef]\\n[Root.GetLeader] responded by stating that [From.From.GetLeader] is no true [From.From.GetRulingIdeology] and even in exile, he shall continue to fight for [Root.GetNameDef] and support all resistance efforts in his homeland."
+  },
+  {
+    "key": "country_capitulated.0.d_negative_collab_diff_ideology",
+    "version": "",
+    "type": "desc",
+    "en": "\\n[Root.GetNameDef] has announced its total surrender to [From.From.GetNameDef]. It's evident that the [Root.GetAdjective] government's leniency towards domestic [From.From.GetRulingIdeology] sympathisers was a contributing factor to the fall of [Root.GetName] as [Root.GetFascistLeader] has been swept into office to rule the country in the name of [From.From.GetLeader]'s regime.\\n[Root.GetLeader] claims that this is not the end of [Root.GetAdjective] sovereignty, and that the government shall support all resistance efforts even while exiled from their homeland."
+  },
+  {
+    "key": "generic.2.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetNameDefCap] seeks to join the [Root.GetFactionName]"
+  },
+  {
+    "key": "generic.2.d.a",
+    "version": "",
+    "type": "desc",
+    "en": "In the face of increasing threats to liberty and democratic values, the [alliance_applicant.GetAdjective] look to us as the defenders of freedom. They now wish to be admitted into our alliance, both to enjoy our protection and to stand with us against the forces that would threaten democracy."
+  },
+  {
+    "key": "generic.2.d.b",
+    "version": "",
+    "type": "desc",
+    "en": "Our plight to overturn the current world order has not escaped the notice of like-minded nations. The [alliance_applicant.GetAdjective] recognize that their best chance to carve out a prosperous future for themselves is to align with us in the coming conflict, and they have therefore offered to formally join us against our enemies."
+  },
+  {
+    "key": "generic.2.d.c",
+    "version": "",
+    "type": "desc",
+    "en": "[alliance_applicant.GetNameDefCap] has recognized that she must band together with fellow socialist republics to strengthen the place of Communism in the world. Accepting our leading role in the international plight of the worker, the [alliance_applicant.GetAdjective] now request to formally enter into an alliance with us."
+  },
+  {
+    "key": "generic.2.d.e",
+    "version": "",
+    "type": "desc",
+    "en": "As the current upheavals in international politics continue to reverberate through the world, the [alliance_applicant.GetAdjective] have deemed us to be their greatest chance of surviving these tumultuous times. They therefore request to be admitted into our alliance, so that we may weather the coming storm together."
+  },
+  {
+    "key": "generic.3.t",
+    "version": "",
+    "type": "title",
+    "en": "[alliance_inviter.GetNameDefCap] welcomes us to the [alliance_inviter.GetFactionName]"
+  },
+  {
+    "key": "generic.3.d",
+    "version": "",
+    "type": "desc",
+    "en": "[alliance_inviter.GetNameDefCap] has decided to accept our request to join the [alliance_inviter.GetFactionName]. Henceforth we shall stand or fall together."
+  },
+  {
+    "key": "generic.4.t",
+    "version": "",
+    "type": "title",
+    "en": "[alliance_inviter.GetNameDefCap] denies request to join the [alliance_inviter.GetFactionName]"
+  },
+  {
+    "key": "generic.4.d",
+    "version": "",
+    "type": "desc",
+    "en": "[alliance_inviter.GetNameDefCap] has decided to reject our request to join the [alliance_inviter.GetFactionName]. We will have to make do without their help."
+  },
+  {
+    "key": "generic.5.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetNameDefCap] invites [Root.GetNameDef] to the [From.GetFactionName]"
+  },
+  {
+    "key": "generic.5.d.a",
+    "version": "",
+    "type": "desc",
+    "en": "With a suspicious eye on recent developments in world politics, [alliance_inviter.GetNameDef] extends us their hand of friendship, offering us their protection and urging us to stand with them in defence of the principles of liberty and democracy. As a member of the [alliance_inviter.GetFactionName], our people's freedom may well be safeguarded."
+  },
+  {
+    "key": "generic.5.d.b",
+    "version": "",
+    "type": "desc",
+    "en": "Recognizing that sometimes even the strong need allies, the [alliance_inviter.GetAdjective] have invited us to join the [alliance_inviter.GetFactionName]. If we choose to accept, this may well provide ample opportunity for us to find our place in the sun."
+  },
+  {
+    "key": "generic.5.d.c",
+    "version": "",
+    "type": "desc",
+    "en": "Our ideological allies in [alliance_inviter.GetNameDef] have made note of our valuable contributions to the workers' cause, and this morning we received an invitation us to join the [alliance_inviter.GetFactionName]. Standing together with other socialist republics, we could spread the revolution with renewed strength."
+  },
+  {
+    "key": "generic.5.d.e",
+    "version": "",
+    "type": "desc",
+    "en": "It appears the [alliance_inviter.GetAdjective] consider us to be of strategic interest to them, and that they deem it more profitable that we work together than that we should let ourselves be divided by our ideological differences. This morning, the [alliance_inviter.GetAdjective] Ambassador delivered an invitation for us to become a member state of the [alliance_inviter.GetFactionName]."
+  },
+  {
+    "key": "generic.6.t",
+    "version": "",
+    "type": "title",
+    "en": "[alliance_applicant.GetNameDefCap] accepts invitation to the [alliance_inviter.GetFactionName]"
+  },
+  {
+    "key": "generic.6.d",
+    "version": "",
+    "type": "desc",
+    "en": "[alliance_applicant.GetNameDefCap] has decided to accept our offer to join the [alliance_inviter.GetFactionName]. Henceforth we shall stand or fall together."
+  },
+  {
+    "key": "generic.7.t",
+    "version": "",
+    "type": "title",
+    "en": "[alliance_applicant.GetNameDefCap] rejects offer to join the [alliance_inviter.GetFactionName]"
+  },
+  {
+    "key": "generic.7.d",
+    "version": "",
+    "type": "desc",
+    "en": "[alliance_applicant.GetNameDefCap] has decided to reject our offer to join the [alliance_inviter.GetFactionName]. We will have to make do without their help."
+  },
+  {
+    "key": "stability.21.t",
+    "version": "",
+    "type": "title",
+    "en": "Draft Dodging"
+  },
+  {
+    "key": "stability.21.d",
+    "version": "",
+    "type": "desc",
+    "en": "We should arrest anyone found evading the draft!"
+  },
+  {
+    "key": "stability.22.t",
+    "version": "",
+    "type": "title",
+    "en": "Strikes!"
+  },
+  {
+    "key": "stability.22.d",
+    "version": "",
+    "type": "desc",
+    "en": "Draft the workers into military service and put the factories under military control."
+  },
+  {
+    "key": "stability.23.t",
+    "version": "",
+    "type": "title",
+    "en": "Mutinies in the Army"
+  },
+  {
+    "key": "stability.23.d",
+    "version": "",
+    "type": "desc",
+    "en": "Publicly announce that anyone found supporting the mutineers will be charged with treason."
+  },
+  {
+    "key": "stability.31.t",
+    "version": "",
+    "type": "title",
+    "en": "Military Crackdown succeeds"
+  },
+  {
+    "key": "stability.31.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Our swift response has proven very effective. Military police units, supported by local law enforcement and patriotic volunteers, swarmed out in a well-coordinated operation to visit every missing draftee. Most were willing to answer the call when they were informed of the consequences of failing to report for duty. Military High Command has publicly declared that anyone who showed up at their duty station will not be charged with any crime or punished for failing to do so in the past. Still, a number of people have categorically refused to take up arms for their country and have been arrested."
+  },
+  {
+    "key": "stability.32.t",
+    "version": "",
+    "type": "title",
+    "en": "Draft Riots"
+  },
+  {
+    "key": "stability.32.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Our attempts at resolving the situation through military force have not been met with success. It appears that someone in our administration has leaked our planned operation to the public, which responded quickly. When military police and other law enforcement agencies tried to apprehend known draft dodgers, they found their way blocked by angry mobs, demanding an end to the war and to forced conscription. In several cases, street battles erupted between the police and the protesters, leading to a number of fatalities when the soldiers were forced to use their weapons to defend themselves. It took several hours until the police gained full control over the situation.\\n\\nAn ugly mood has settled over the capital as the barricades are cleared away and the dead are buried. Reports from the War Office show no change in the number of recruits reporting for duty. Many in the government wonder how much longer we can continue fighting under these circumstances."
+  },
+  {
+    "key": "stability.33.t",
+    "version": "",
+    "type": "title",
+    "en": "The Conscription Rebellion"
+  },
+  {
+    "key": "stability.33.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Our attempts at resolving the situation through military force have not been met with success. It appears that someone in our administration has leaked our planned operation to the public, which responded quickly. When military police and other law enforcement agencies tried to apprehend known draft dodgers, they found their way blocked by angry mobs, demanding an end to the war and to forced conscription. In several cases, street battles erupted between the police and the protesters, leading to a number of fatalities when the soldiers were forced to use their weapons to defend themselves. \\n\\nThe situation quickly spiralled out of control after that, as citizens rushed the soldiers and stormed police stations to arm themselves. Several cities in the country are now in a state of armed insurrection against the government. Ironically, the rebels seem to have no issues finding soldiers willing to take up arms."
+  },
+  {
+    "key": "stability.34.t",
+    "version": "",
+    "type": "title",
+    "en": "Draft Reform proves effective"
+  },
+  {
+    "key": "stability.34.desc",
+    "version": "",
+    "type": "desc",
+    "en": "The social measures passed by the government as part of a larger process of reforming the military recruitment policy have proven surprisingly popular. Higher pay and more frequent leave are often cited as the biggest new benefits, but many also point to the new government programs to support war widows and orphans. Fewer and fewer men can justify refusing their country's call to the colors, and public support for draft-dodgers has all but disappeared.\\n\\nIndeed, there has been a recent upswing in public support for the government as more and more people realize that the [Root.GetAdjective] way of life is under attack."
+  },
+  {
+    "key": "stability.35.t",
+    "version": "",
+    "type": "title",
+    "en": "The 591. Penal Battalion"
+  },
+  {
+    "key": "stability.35.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Seeing the severity of the situation, the Military High Command has decided that more drastic measures are required to show that evading one's civic duty to defend their country will not be tolerated. At dawn, military police raided the homes of a number of carefully selected, well known and connected people who have used their influence to allow others to avoid the draft. Still in their nightgowns, they have found themselves conscripted into the military and escorted to the barracks under armed guard, where they will be formed up into a separate unit, to avoid their subversive influence from spreading to other units. \\n\\nThe news of this has spread quickly, and it appears that most people who until now believed that they could get away with ignoring their draft notice have changed their mind. Recruitment stations across the country report that a growing number of people have come by to ask what exactly the consequences would be if a \"friend\" of theirs who had attempted to avoid the draft would turn themselves in."
+  },
+  {
+    "key": "stability.36.t",
+    "version": "",
+    "type": "title",
+    "en": "Local Elites Voice Their Protest"
+  },
+  {
+    "key": "stability.36.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Seeing the severity of the situation, the Military High Command has decided that more drastic measures are required to show that evading one's civic duty to defend their country will not be tolerated. At dawn, military police raided the homes of a number of carefully selected, well known and connected people who have used their influence to allow others to avoid the draft. Still in their nightgowns, they have found themselves conscripted into the military. Their families have mobilized their extensive support networks to protest this decision. The War Office has been flooded with calls and letters from simple workers who want their factory manager back to undersecretaries in various other ministries, demanding to know why people working in fields critical to the war effort have been removed from their work. It appears that even some cabinet members have second thoughts about the war - perhaps fearing for the safety of their own sons."
+  },
+  {
+    "key": "stability.37.t",
+    "version": "",
+    "type": "title",
+    "en": "\"A Somber and Sacred Duty\""
+  },
+  {
+    "key": "stability.37.desc",
+    "version": "",
+    "type": "desc",
+    "en": "\"Of course I want to live. I want to go and finish school, I want to meet girls, I want to start a family - but if we lose this war, I won't be able to do these things, either. So I fight.\"\\n\\nThe letter, sent anonymously to every major newspaper in the country, has made huge waves. Claiming to be from a soldier who at first tried to avoid the draft, but then realized that he must fight to save his country, it has apparently struck a nerve with many others who felt similarly. Draft boards across the country report that the number of people who still refuse to answer their summons has been more than made up for by new volunteers who will no longer wait until they are called, while others go and fight to save their country and their way of life."
+  },
+  {
+    "key": "stability.38.t",
+    "version": "",
+    "type": "title",
+    "en": "The end of a coward"
+  },
+  {
+    "key": "stability.38.desc",
+    "version": "",
+    "type": "desc",
+    "en": "\"They led him to the wall at the break of dawn. He refused a last cigarette, but accepted the blindfold. His last words were an apology to his mother for causing her so much pain. The firing squad aimed well. A few minutes later, the doctor present declared him dead.\"\\n\\nWhile unable to catch all people who have been evading the draft, authorities have been able to make a number of arrests. Given the grave situation we are in, the War Office has decided that these men be tried under military law for failing to report to duty. The first series of death sentences has been handed down and the condemned have been executed by firing squad. These measures have evidently had the desired effect. It appears that most people decided to choose the possibility of death on the battlefield over the certainty of dishonorable death as a coward."
+  },
+  {
+    "key": "stability.39.t",
+    "version": "",
+    "type": "title",
+    "en": "A martyr for peace"
+  },
+  {
+    "key": "stability.39.desc",
+    "version": "",
+    "type": "desc",
+    "en": "\"They led him to the wall at the break of dawn. He refused a last cigarette, but accepted the blindfold. His last words were an apology to his mother for causing her so much pain. The firing squad aimed well. A few minutes later, the doctor present declared him dead.\"\\n\\nThe published report of the execution of a man sentenced to death for failing to report for duty seems to have had the opposite effect. Rather than bringing people back to the colors out of fear of the consequences, it has made those executed into instant martyrs for the peace movement. Their names and life stories have been published and very clearly edited to make them appear in the best possible light. Mass peace demonstrations have started in several major cities, demanding an end to the war. The War Office reports that they have received a number of letters of draftees stating openly that they will not appear for duty - saying that they would not, under any circumstances, be party to another execution except as the person to be executed."
+  },
+  {
+    "key": "stability.40.t",
+    "version": "",
+    "type": "title",
+    "en": "A New Deal for [Root.GetNameDef]"
+  },
+  {
+    "key": "stability.40.desc",
+    "version": "",
+    "type": "desc",
+    "en": "In a radio transmitted speech today, [Root.GetLeader] announced what he called a \"Social Revolution\". Over the next hour, he laid out a system of reforms that touch every part of social life, promising every returning soldier an education, a well-paying job and a generous pension. He also announced a major building program for affordable housing for young families, to begin the day an armistice is signed. This appears to have had a significant effect on general morale. Recruitment offices across the country report conscripts appearing and asking about options to extend their service beyond the current conflict, with others all but demanding a posting to frontline units to ensure extra benefits."
+  },
+  {
+    "key": "strikes_event.1.t",
+    "version": "",
+    "type": "title",
+    "en": "Order Restored"
+  },
+  {
+    "key": "strikes_event.1.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Moving quickly, Military High command mobilized a number of training units for service and formed ad-hoc groups of soldiers on leave. Marching these formations past the gates of the factories had the desired effect, as most strikers did not want to force a confrontation with potentially deadly consequences. The few that did try to persuade the soldiers to make common cause found their words having little effect as soldiers asked why the workers in the cozy rear should be allowed to let down the fighting men on the front."
+  },
+  {
+    "key": "strikes_event.2.t",
+    "version": "",
+    "type": "title",
+    "en": "Bloody Monday"
+  },
+  {
+    "key": "strikes_event.2.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Moving quickly, Military High command mobilized a number of training units for service and formed ad-hoc groups of soldiers on leave. Moving these formations to the affected cities proved a lot more difficult than expected, however, as the strikers blocked railway lines and forced the troops to march in on foot, giving them ample time to prepare. When our troops reached the barricaded factories, they found the strikers ready for them. Attempts to clear roads were met with furious attacks by the workers throwing stones and bottles at the soldiers. \\n\\nIn several instances, the troops opened fire to defend themselves, killing a number of strikers and wounding scores more. this only enraged the mob even further, with screams of \"Murderers!\" filling the air from bystanders. The mood in the capital turned dramatically in favor of the strikers. At nightfall, the soldiers retreated, leaving the barricades intact.\\n\\nThere have been no further attempts to force the situation. The strikers remain in control of the factories, and no work is being done."
+  },
+  {
+    "key": "strikes_event.3.t",
+    "version": "",
+    "type": "title",
+    "en": "Heroes on the Production Front"
+  },
+  {
+    "key": "strikes_event.3.desc",
+    "version": "",
+    "type": "desc",
+    "en": "\"Industrial war is more than just divisions marching and planes bombing. It is more than just the duty of a soldier to fight and die for their country. An industrial war is won, first and foremost, in the factories and foundries. To abandon the battle on the assembly line is no better than abandoning it on the front line. And the victories of the assembly line should be celebrated just as much as the ones won by the front line.\"\\n\\nAll available propaganda resources have been rerouted to show the work of the armaments workers in the best possible light. [Root.GetLeader] has personally approved a new award to be given out for workers who have exceeded their quota by more than 100%, and the first recipients have been sent on tours around the country to instruct other workers in their methods.\\n\\nIt appears that this has made a lot of the strikers reconsider their stance. Work has resumed in all previously affected factories."
+  },
+  {
+    "key": "strikes_event.4.t",
+    "version": "",
+    "type": "title",
+    "en": "The War Production Department"
+  },
+  {
+    "key": "strikes_event.4.desc",
+    "version": "",
+    "type": "desc",
+    "en": "[Root.GetLeader] today announced some small changes to the draft. While skilled workers were previously exempted from the military draft, this exception has now been removed and all exempt men drafted immediately. At the same time, the War Office has been authorized to take direct control of any factory that produces goods relevant to the war effort if the leadership of those factories has shown a lack of ability.\\n\\nThe announcement was met with silent resignation in the affected cities, especially once it was announced that anyone resisting would be treated the same as a soldier who refused to follow orders. While morale amongst the workers in the factories is at rock-bottom, production has restarted."
+  },
+  {
+    "key": "strikes_event.5.t",
+    "version": "",
+    "type": "title",
+    "en": "A country in defiance"
+  },
+  {
+    "key": "strikes_event.5.desc",
+    "version": "",
+    "type": "desc",
+    "en": "[Root.GetLeader] today announced some small changes to the draft. While skilled workers were previously exempted from the military draft, this exception has now been removed and all exempt men drafted immediately. At the same time, the War Office has been authorized to take direct control of any factory that produces goods relevant to the war effort if the leadership of those factories has shown a lack of ability.\\n\\nThe announcement was met with great laughter in the affected cities, especially once it was announced that anyone resisting would be treated the same as a soldier who refused to follow orders. Policemen sent to deliver draft notices to workers were told to come back with more than ink on paper."
+  },
+  {
+    "key": "strikes_event.6.t",
+    "version": "",
+    "type": "title",
+    "en": "Useful Eaters"
+  },
+  {
+    "key": "strikes_event.6.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Without mentioning the strikes taking place, [Root.GetLeader] announced today that workers in war-relevant industries will get extra rations of sugar, coffee and meat to maintain their strength. Sadly, the rumors that the government was willing to hand out extra chocolate turned out to be false.\\n\\nWhile the ringleaders of the strike try to keep the workers from returning to work, most seem to have accepted that \"Peace and Bread\" were never going to happen and are happy with just the bread."
+  },
+  {
+    "key": "strikes_event.7.t",
+    "version": "",
+    "type": "title",
+    "en": "Operation Black Oak"
+  },
+  {
+    "key": "strikes_event.7.desc",
+    "version": "",
+    "type": "desc",
+    "en": "The troops assembled outside the towns overnight, maintaining noise and light discipline to keep the element of surprise. As the sun crept over the horizon and the workers manning the barricades at the factories looked forward to relief by the day shift, the assault columns moved in. The tired workers were sluggish to organize the resistance and quickly overcome. Leaving a small detachment to guard the prisoners, the troops swept the town, arresting everyone on the list of known factory workers. By noon, the military had taken full control of the cities and instituted a curfew. No further resistance is expected. The majority of workers will soon be released on the condition that they return to work, the ring leaders will be held and put on trial. Death sentences are expected to be handed down."
+  },
+  {
+    "key": "strikes_event.8.t",
+    "version": "",
+    "type": "title",
+    "en": "The Battle of Oak Street"
+  },
+  {
+    "key": "strikes_event.8.desc",
+    "version": "",
+    "type": "desc",
+    "en": "The troops assembled outside the towns overnight, but poor light and noise discipline gave the surprise away. As the troops moved in, they found the workers alert and ready for them. The first assault broke down in hails of thrown stones. A second assault with fixed bayonets was repulsed in brutal hand-to-hand fighting, leaving dozens of dead and dying in the streets.\\n\\nThe officers in charge have pulled back to consolidate their forces, while the workers are extending their fortifications and arming themselves with the weapons left behind in the retreat. A second day of fighting is expected tomorrow, but Military High Command does no longer believe that victory is likely."
+  },
+  {
+    "key": "strikes_event.9.t",
+    "version": "",
+    "type": "title",
+    "en": "The Worker's Rights Protection Act"
+  }
+]

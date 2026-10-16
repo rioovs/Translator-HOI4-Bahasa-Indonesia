@@ -1,0 +1,398 @@
+[
+  {
+    "key": "soviet.37.d",
+    "version": "",
+    "type": "desc",
+    "en": "Our new officers are proving up to the task and are adapting to their new roles in the military high command. With a loyal officer corps in charge of our military [Root.GetLeader]'s purge seems to have some of the effect we hoped for. The Red Army is regaining its power and will soon be stronger than ever."
+  },
+  {
+    "key": "soviet.46.t",
+    "version": "",
+    "type": "title",
+    "en": "Great Patriotic War"
+  },
+  {
+    "key": "soviet.46.d",
+    "version": "",
+    "type": "desc",
+    "en": "Although we still have a lot of work left in rebuilding our military high command, the advancement of the [From.GetAdjective] army on our borders has sparked ingenuity and a patriotic will to fight within our new officer corps. We grow stronger with each blow we take as we prepare to rise up and strike back with all the might of the [Prev.GetName]. Every soldier is willing to throw down their lives and stand firm against our enemies. We expect this to greatly benefit the training and commitment of our new officers even after this war is won!"
+  },
+  {
+    "key": "soviet.48.t",
+    "version": "",
+    "type": "title",
+    "en": "The Permanent Revolution"
+  },
+  {
+    "key": "soviet.48.d",
+    "version": "",
+    "type": "desc",
+    "en": "Although countless people have been executed and imprisoned as traitors and counterrevolutionaries over the past years, leading positions have been largely safe. They have not been exempt from suspicion, however. With the creation of the Fourth International, Stalin appears possessed by the thought that those closest to him were never truly on his side. Those who try to gain his trust have further fueled this idea to cast themselves in a better light.\\n\\nThe current situation is one of exceptional irony: the distrust within the current administration has rendered it unsustainable, and a coup is now imminent. Some party members are arguing that re-inviting Trotsky and turning the purges on the Stalinists could minimize the damage of the civil war that will ensue. Can this plan, which has been the General Secretary's greatest fear for years, truly be executed?"
+  },
+  {
+    "key": "soviet.49.t",
+    "version": "",
+    "type": "title",
+    "en": "The Second Russian Civil War"
+  },
+  {
+    "key": "soviet.49.d",
+    "version": "",
+    "type": "desc",
+    "en": "With Stalin's increasing paranoia, the Party and military have become divided. Those who have managed to earn his trust - at least temporarily - want to keep him in power and retain the cult of personality he has built up, but many others have been informally cut out of the loop. Some of them believe that Stalin's rule has failed, others suspect they are simply waiting for the day when the NKVD will find or make an excuse to have them arrested.\\n\\nTogether, they have formed a faction powerful enough to challenge the current administration. Their stated goal is to overthrow Stalin's tyranny and transition from a totalitarian state, with a board of military officers overseeing the process.\\n\\nStalin's supporters in the military and the Party have rallied to retain the current regime, calling their opponents counterrevolutionary traitors. A new civil war is at hand."
+  },
+  {
+    "key": "soviet.50.t",
+    "version": "",
+    "type": "title",
+    "en": "Russian Liberation Army Founded"
+  },
+  {
+    "key": "soviet.50.d",
+    "version": "",
+    "type": "desc",
+    "en": "The foundation of the Fourth International has reawakened Stalin's fear of traitors in the Party and military command. Having seen the trials and executions in the Great Purge, many suspect another one is incoming. In response, a number of generals led by Andrey Vlasov have formed the Committee for the Liberation of the People of Russia, with the goal of overthrowing Stalin's regime before it can do any more damage.\\n\\nAlthough the stated long-term goal is a transition to democracy, the exact form is unclear as of yet. All that is clear is that they intend to remove Stalin from power and end the rule of the Bolsheviks."
+  },
+  {
+    "key": "soviet.51.t",
+    "version": "",
+    "type": "title",
+    "en": "NKVD Launch Coup"
+  },
+  {
+    "key": "soviet.51.d",
+    "version": "",
+    "type": "desc",
+    "en": "The foundation of the Fourth International has reawakened Stalin's fear of traitors in the Party and military command. Having seen the trials and executions in the Great Purge, many suspect another one is incoming. The NKVD, which has been a crucial tool in the purges, has also been acutely aware of the fact that the agency itself a potential target. Rather than waiting to be imprisoned, executed and replaced, its leaders have decided to strike first and launch a coup with support from the similarly concerned military officials.\\n\\nHowever, despite its influential position, the NKVD has found it difficult to gain the trust of military leaders. The coup has only succeeded in gaining control of a limited area of the Union, but with the remnants of the old agency now facing certain execution, they are unlikely to surrender."
+  },
+  {
+    "key": "soviet.52.t",
+    "version": "",
+    "type": "title",
+    "en": "The Survivors' Coup"
+  },
+  {
+    "key": "soviet.52.d",
+    "version": "",
+    "type": "desc",
+    "en": "The foundation of the Fourth International has reawakened Stalin's fear of traitors in the Party and military command. Having seen the trials and executions in the Great Purge, many suspect another one is incoming. With so many gone, there are only a few under suspicion who managed to avoid execution. Having been brutally interrogated and in some cases imprisoned, they know very well that they will be the first victims of another purge. In an act of desperation, these generals have decided to attempt to overthrow Stalin's regime before this happens.\\n\\nAlthough unlikely to succeed in the attempt, some survivors of the Great Purge have managed to seize control in some areas of the Union. The reign of the General Secretary has at the very least been destabilized."
+  },
+  {
+    "key": "soviet.53.t",
+    "version": "",
+    "type": "title",
+    "en": "The Successful Purge"
+  },
+  {
+    "key": "soviet.53.d",
+    "version": "",
+    "type": "desc",
+    "en": "In the wake of the foundation of the Fourth International the hunt for Trotsky's supporters was intensified and several people close to Stalin were executed. Left with no one but himself, Stalin has retreated to his mansion. With every treacherous friend and family member finally dealt with he can now find some rest and focus fully on bringing glory to [SOV.GetNameDef]."
+  },
+  {
+    "key": "soviet.54.t",
+    "version": "",
+    "type": "title",
+    "en": "Under New Leadership"
+  },
+  {
+    "key": "soviet.54.d_nopurge",
+    "version": "",
+    "type": "desc",
+    "en": "With the waning power of the communist party, it has long been clear that the Stalinist system is unsustainable.\\nNew forces have risen up to seize power, invoking Russian ideals to guide our country along a new path.\\n\\nSymbolising this transition, [Root.GetLeader] has had Stalin deposed and placed in house arrest, far from the halls of power where he devised so many of his dangerous projects.\\nAs a new Russian system grows to replace the decaying corpse of the Party, the secrecy, paranoia and political plotting of the old General Secretary is at an end."
+  },
+  {
+    "key": "soviet.54.d_purge",
+    "version": "",
+    "type": "desc",
+    "en": "It has become clear that the greatest threat to the Russian state is not conspirators against the Communist Party, but the Party itself. With the disillusionment of the communist dream in Russia, new forces have seized power in order to bring our country into the future.\\n\\nFollowing the deposition of Stalin by [Root.GetLeader], the old General Secretary was given an expedient trial. His paranoid witch hunts being described as the destruction of the nation's leadership at a time of desperate need, Stalin was sentenced to death for treason. The old system goes with him into an unmarked grave."
+  },
+  {
+    "key": "usa.14.t",
+    "version": "",
+    "type": "title",
+    "en": "The Fascist Twilight"
+  },
+  {
+    "key": "usa.14.d",
+    "version": "",
+    "type": "desc",
+    "en": "Our great role-model, Nazi Germany, has betrayed their deepest principles and has allied themselves to the great enemy: The Communists. As the knowledge spreads, unrest follows in its wake. The people were willing to follow us this far, through fear of a Communist revolution, but with Germany's defection our great revival is being questioned."
+  },
+  {
+    "key": "usa.24.t",
+    "version": "",
+    "type": "title",
+    "en": "The Red Twilight"
+  },
+  {
+    "key": "usa.24.d",
+    "version": "",
+    "type": "desc",
+    "en": "[SOV.GetNameDefCap], the inspiration that convinced many of how overthrowing capitalism was possible, has betrayed the international revolution and aligned itself with Nazi Germany. Between socialism in one country and this alliance with fascists, people are beginning to doubt the sincerity of the communist ideals worldwide. Is American communism just another tool [Root.GetLeader] has used to consolidate power?"
+  },
+  {
+    "key": "usa.17.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.From.GetName] has declared war on [From.GetName]"
+  },
+  {
+    "key": "usa.17.d",
+    "version": "",
+    "type": "desc",
+    "en": "The world is already an unsafe place. Can we really allow war in our own region or should we ensure that the peace is kept? We can send [From.From.GetName] an ultimatum to make peace with [From.GetName] or leave them to fight it out."
+  },
+  {
+    "key": "usa.18.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetName] intervenes in war against [being_attacked.GetName]"
+  },
+  {
+    "key": "usa.18.d",
+    "version": "",
+    "type": "desc",
+    "en": "[From.GetName] is displeased with our conflict war against [being_attacked.GetName]. They threaten us with a war of their own if we do not immediately sign a peace deal with [being_attacked.GetName]. \\nShould we back down?"
+  },
+  {
+    "key": "usa.19.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetNameWithFlag] gains Puppet (focus) war goal against [Root.GetName]"
+  },
+  {
+    "key": "usa.20.t",
+    "version": "",
+    "type": "title",
+    "en": "US Influence"
+  },
+  {
+    "key": "usa.20.d",
+    "version": "",
+    "type": "desc",
+    "en": "The [From.GetName]'s advocation for democracy is starting to affect our country. Radio broadcasts allow speeches from [From.GetLeader] to reach our people and we have found many [Root.GetAdjective]'s being attracted to the [From.GetAdjective] way of life. [Root.GetName] is no puppet, nor will we allow our politics to be dictated by The [From.GetName]. However, we cannot deny the influence that [From.GetAdjective] politics have on our country."
+  },
+  {
+    "key": "usa.21.d",
+    "version": "",
+    "type": "desc",
+    "en": "The [From.GetName]'s advocation for communism is starting to affect our country. Radio broadcasts allow speeches from [From.GetLeader] to reach our people. We have even found propaganda leaflets encouraging [Root.GetAdjective] workers to organize and promoting the [From.GetAdjective] way of life. [Root.GetName] is no puppet, nor will we allow our politics to be dictated by The [From.GetName]. However, we cannot deny the influence that [From.GetAdjective] politics have on our country."
+  },
+  {
+    "key": "usa.22.d",
+    "version": "",
+    "type": "desc",
+    "en": "The [From.GetName]'s advocation for fascism is starting to affect our country. Radio broadcasts allow speeches from [From.GetLeader] to reach our people and we have even found propaganda leaflets promoting the [From.GetAdjective] way of life being distributed in some parts of the country. [Root.GetName] is no puppet, nor will we allow our politics to be dictated by The [From.GetName]. However, we cannot deny the influence that [From.GetAdjective] politics have on our country."
+  },
+  {
+    "key": "usa.23.t",
+    "version": "",
+    "type": "title",
+    "en": "US Protection"
+  },
+  {
+    "key": "usa.23.d",
+    "version": "",
+    "type": "desc",
+    "en": "The [From.GetName] are now enforcing the Monroe doctrine much more strictly. Besides the political influence they already have on our country, [From.GetName] officials now declare that they are prepared to intervene in any conflict between American countries."
+  },
+  {
+    "key": "usa.30.t",
+    "version": "",
+    "type": "title",
+    "en": "Elections to Congress"
+  },
+  {
+    "key": "usa.30.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Every two years, a third of the Senate seats and all seats in the House of Representatives are up for election. While often overshadowed by world events, the local situation in each constituency can sometimes make the difference. \\n\\nAfter all the votes were counted, the faction in support of the government [USA.GetSenateElectionOutcome] in the Senate and [USA.GetHouseElectionOutcome] in the House."
+  },
+  {
+    "key": "usa.31.t",
+    "version": "",
+    "type": "title",
+    "en": "A Shift in the Political Landscape"
+  },
+  {
+    "key": "usa.31.desc",
+    "version": "",
+    "type": "desc",
+    "en": "With a new president now in office, the former opposition in Congress has largely shifted to support the new administration. President [USA.GetLeader] can count on the support of [?senators_support] Senators and [?representatives_support] Representatives."
+  },
+  {
+    "key": "usa.32.t",
+    "version": "",
+    "type": "title",
+    "en": "Government Faction wins Majority in Congress"
+  },
+  {
+    "key": "usa.32.desc",
+    "version": "",
+    "type": "desc",
+    "en": "It appears that the reforms of the electoral system we instituted have been most successful, as a large number of our supporters were elected to Congress in the last election. With a solid majority, we should have little trouble pushing through our political agenda."
+  },
+  {
+    "key": "usa.40.t",
+    "version": "",
+    "type": "title",
+    "en": "Senator votes for Government Proposal"
+  },
+  {
+    "key": "usa.40.desc",
+    "version": "",
+    "type": "desc",
+    "en": "In a recent vote, a senator has surprisingly switched sides to vote for a government proposal. While the issue itself was fairly minor, the public vote of support from a previously outspoken critic of [USA.GetLeader] has raised many eyebrows around Washington.\\n\\nSome analysts believe that this example will lead additional senators to reconsider their stance."
+  },
+  {
+    "key": "usa.41.t",
+    "version": "",
+    "type": "title",
+    "en": "Representative speaks passionately in support of Government"
+  },
+  {
+    "key": "usa.41.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Asked about her stance on a number of policy issues at a fund-raising dinner, a representative spoke out in support of President [USA.GetLeader]'s policies. She further claimed that many of her fellow representatives had similar views, but were merely held back by \"idiotic short-sightedness, thinking no further than the next election\" instead of doing what was right for the American people. \\n\\nHer comments have been widely reported by the press and put several of her colleagues in hot water as they had to explain where they stood on these issues."
+  },
+  {
+    "key": "usa.42.t",
+    "version": "",
+    "type": "title",
+    "en": "Senator speaks out against Government Policy"
+  },
+  {
+    "key": "usa.42.desc",
+    "version": "",
+    "type": "desc",
+    "en": "A Senator has given an interview in a major newspaper, saying that he can no longer support the \"foolish and dangerous\" policies of President [USA.GetLeader]. He further claimed that he knew several other Senators who thought similarly and would abandon the President in short order."
+  },
+  {
+    "key": "usa.43.t",
+    "version": "",
+    "type": "title",
+    "en": "Representative criticizes President"
+  },
+  {
+    "key": "usa.43.desc",
+    "version": "",
+    "type": "desc",
+    "en": "During a recent debate on tax reform, a Representative launched into a long-winded speech about the many failings of the Administration. According to him, no right-thinking American could possibly want to support the policies of the President, whatever their party affiliation may be. \\n\\nHis harsh words seem to have had an effect, as a number of Representatives previously thought firmly behind the policies of [USA.GetLeader] made noises of support."
+  },
+  {
+    "key": "usa.44.t",
+    "version": "",
+    "type": "title",
+    "en": "Opposition suffers defeat in the Senate"
+  },
+  {
+    "key": "usa.44.desc",
+    "version": "",
+    "type": "desc",
+    "en": "A motion to censure President [USA.GetLeader] has been defeated in the Senate. While even its most ardent supporters had little hope that it would pass, the amount of votes against it came as a shock even to the most pessimistic of observers. It appears that the President enjoys a far greater level of support in the Senate than most believed, which should help in advancing his legislative agenda."
+  },
+  {
+    "key": "usa.45.t",
+    "version": "",
+    "type": "title",
+    "en": "House Committee supports Presidential Policy"
+  },
+  {
+    "key": "usa.45.desc",
+    "version": "",
+    "type": "desc",
+    "en": "The latest round of hearings in the House Committee on Ways and Means has resulted in a report crediting the President's policies with a major improvements in all available metrics of the economy. While stopping short of outright praise, the report nevertheless comes as a blow to those that were criticizing the President and demanding reforms.\\n\\nA number of Representatives have already publicly declared that although they still harbour doubts about the President's agenda, they will now vote in support."
+  },
+  {
+    "key": "usa.46.t",
+    "version": "",
+    "type": "title",
+    "en": "Senator retires"
+  },
+  {
+    "key": "usa.46.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Following a minor heart attack, a senior Senator announced today that he will be retiring for health reasons. With more than two decades in Congress, the Senator built a large network of supporters and his influence carried a lot of weight. While technically only one man with one vote, Washington insiders nonetheless counted him as worth several votes as he was the key to secure several others. \\n\\nWith the seat most likely going to an avowed critic of President [USA.GetLeader], the Administration will find it a lot harder to secure the necessary votes to pass bills."
+  },
+  {
+    "key": "usa.47.t",
+    "version": "",
+    "type": "title",
+    "en": "House hearings into Presidential misconduct"
+  },
+  {
+    "key": "usa.47.desc",
+    "version": "",
+    "type": "desc",
+    "en": "A minor scandal originating in the White House has started to gain momentum. Following weeks of media reports implying that a minor administrative official had been taking bribes in return for lucrative government contracts, the House Committee on Expenditures in the Executive has begun to hold hearings to determine if the President was aware of this. While most observers don't believe that this will lead to any major trouble for President [USA.GetLeader], it will no doubt mean that many of the president's supporters will have to lay low for a while."
+  },
+  {
+    "key": "usa.61.t",
+    "version": "",
+    "type": "title",
+    "en": "Senator from [USA_congress_investment_state.GetName] offers Support"
+  },
+  {
+    "key": "usa.61.desc",
+    "version": "",
+    "type": "desc",
+    "en": "The senior Senator from [USA_congress_investment_state.GetName] has approached the government with an offer of support. His state suffers from critical under-investment, and a government-initiated economic stimulus program would certainly make him reconsider his stance on certain proposed government policies. The senator sits on several important committees, and is quite famous for being able to cut deals, making his vote worth several more in both houses."
+  },
+  {
+    "key": "usa.62.desc",
+    "version": "",
+    "type": "desc",
+    "en": "The Senators from [USA_congress_investment_state.GetName] have approached the government, offering their support for the President in return for an informal guarantee that [USA_congress_investment_state.GetName] would be the site of a new munitions plant for the Army. They argue that building a plant in the area would create a lot of jobs and provide the Army with much needed support in an increasingly dangerous world. The two Senators also mentioned their excellent working relationship with several influential members of the House."
+  },
+  {
+    "key": "usa.63.t",
+    "version": "",
+    "type": "title",
+    "en": "Representatives from [USA_congress_investment_state.GetName] offer Support"
+  },
+  {
+    "key": "usa.63.desc",
+    "version": "",
+    "type": "desc",
+    "en": "The congressional Delegation from [USA_congress_investment_state.GetName] have approached the government with several suggestions to improve the infrastructure of the state. Federal funding should be made available to upgrade roads and bridges in order to promote commerce between the states. They also noted that support from the government in this would certainly make them more inclined to support the President more directly in his agenda."
+  },
+  {
+    "key": "usa.64.t",
+    "version": "",
+    "type": "title",
+    "en": "Senate Committee investigates shipbuilding in [USA_congress_investment_state.GetName]"
+  },
+  {
+    "key": "usa.64.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Prodded by the senior Senator from [USA_congress_investment_state.GetName], the Senate Commerce Committee has begun hearings into the state of the local shipbuilding industry. According to experts, a significant percentage of US trade depends on overseas trade, and the country is desperately lacking in shipbuilding capacity. [USA_congress_investment_state.GetName] has been identified as a region in which a major investment should be made, and several committee members have expressed an expectation that the administration of [USA.GetLeader] will set funds aside for this."
+  },
+  {
+    "key": "usa.65.t",
+    "version": "",
+    "type": "title",
+    "en": "A Surprising Display of [GER.GetAdjective] Mercy."
+  },
+  {
+    "key": "usa.65.desc",
+    "version": "",
+    "type": "desc",
+    "en": "We have been reached by a remarkable story from the Air Force. After a botched bomb run on [GER.GetAdjective] military industry, our bomber ''Ye Olde Pub'' had suffered severe damage, lost one crewmember and saw the rest badly injured. The crew, led by 2nd Lt. Charles ''Charlie'' Brown, had refused to bail and leave behind those that could not make a safe landing to go down with the plane.\\n\\nAs the straggling plane once again found itself intercepted by a hostile fighter with barely any functioning armaments left to defend herself, the crew was shocked to see the fighter would not open fire. Through gestures and mouthing of words the [GER.GetAdjective] pilot attempted to communicate with the crew. Despite great efforts on both sides no means of communication were possible. The fighter accompanied ''Ye Olde Pub'' out of [GER.GetAdjective] airspace and as the crew turned their one remaining gun on the fighter to signal that they no longer needed his support, the fighter pilot gave a salute, and returned back to [GER.GetNameDef].\\n\\nThe story brings hope that there are still good people, even on our opponents side, but allowing this story to spread free among our population and our troops may have unwanted side effects."
+  },
+  {
+    "key": "usa.401.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetNameDefCap] accepts Destroyers for Bases Agreement"
+  },
+  {
+    "key": "usa.401.desc",
+    "version": "",
+    "type": "desc",
+    "en": "British Prime Minister [From.GetLeader] has signaled his acceptance of the terms of the Destroyers for Bases Agreement. A group of [From.GetAdjective] naval officers has arrived to inspect the destroyers and oversee the transfer.\\n\\n There is evidently still some work to do as several [From.GetAdjective] officers seem a little concerned about the sheer amount and thickness of guano and rust on the ships to be transferred."
+  }
+]

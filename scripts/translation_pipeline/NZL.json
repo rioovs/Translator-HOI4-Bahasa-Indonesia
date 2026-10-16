@@ -1,0 +1,350 @@
+[
+  {
+    "line": 1856,
+    "key": "NZL_transfer_the_new_zealand_division_desc",
+    "val": "The 2nd New Zealand Division has been mobilized for action, so we should send it where the fighting is. The NZ Division from the Great War was attached to the Mediterranean, and so will the new division.",
+    "eng_count": 17
+  },
+  {
+    "line": 1858,
+    "key": "NZL_form_the_rnzn_desc",
+    "val": "Our once small coastal patrol has now grown to include ships that can operate independently from Royal Navy supervision. New Zealand will have its own navy.",
+    "eng_count": 9
+  },
+  {
+    "line": 1860,
+    "key": "NZL_expand_devonport_naval_base_desc",
+    "val": "The Devonport Naval Base will be the headquarters for our navy, but it must be expanded to meet the new demands of total war.",
+    "eng_count": 10
+  },
+  {
+    "line": 1864,
+    "key": "NZL_coastal_defense_desc",
+    "val": "New Zealand is an island nation, far from enemies, so we must be prepared for amphibious attack along our coastlines.",
+    "eng_count": 7
+  },
+  {
+    "line": 1866,
+    "key": "NZL_destroyer_effort_desc",
+    "val": "With our small industrial base, destroyers are the most efficient way for New Zealand to project naval power. Patrol the coasts, intercept submarines, and set early warning pickets.",
+    "eng_count": 8
+  },
+  {
+    "line": 1868,
+    "key": "NZL_submarine_effort_desc",
+    "val": "Since any invasion will have to come by sea, the wolves of the ocean can be strong line of defense. Stealthy and hunting in packs, a submarine fleet can protect our sea lanes.",
+    "eng_count": 14
+  },
+  {
+    "line": 1870,
+    "key": "NZL_light_cruiser_effort_desc",
+    "val": "Mid-size ships are appropriate for a mid-size power. Light cruisers can pack a punch, but have the speed to escape major engagements if necessary.",
+    "eng_count": 7
+  },
+  {
+    "line": 1872,
+    "key": "NZL_capital_ship_effort_desc",
+    "val": "If New Zealand is to have a first rate navy, it has to have first rate ships. Kita harus invest in battleships and heavy cruisers.",
+    "eng_count": 9
+  },
+  {
+    "line": 1874,
+    "key": "NZL_expand_the_nzpaf_desc",
+    "val": "The New Zealand Permanent Air Force needs new coastal patrol craft and naval bombers. Modern nations cannot neglect the air war.",
+    "eng_count": 3
+  },
+  {
+    "line": 1876,
+    "key": "NZL_form_the_rnzaf_desc",
+    "val": "The time has come to make the air force independent of the other combat arms. The Royal New Zealand Air Force will have its own command structure but co-operate closely with the Royal Air Force.",
+    "eng_count": 12
+  },
+  {
+    "line": 1878,
+    "key": "NZL_fighter_focus_desc",
+    "val": "Fighters are effective at intercepting and escorting the bombers that will be the decisive weapon for our allies.",
+    "eng_count": 10
+  },
+  {
+    "line": 1880,
+    "key": "NZL_bomber_focus_desc",
+    "val": "Light bombers can effectively protect our coastlines, and will be needed in the fight overseas against our enemies.",
+    "eng_count": 8
+  },
+  {
+    "line": 1882,
+    "key": "NZL_defend_our_islands_desc",
+    "val": "Kita harus be prepared for attack on our island paradise from the sea. Naval bombers can intercept and attack landing craft or even target capital ships.",
+    "eng_count": 9
+  },
+  {
+    "line": 1884,
+    "key": "NZL_modern_fighters_desc",
+    "val": "It is time to upgrade our fighter designs to faster craft with a longer range. Our allies have shown the way with some of the most advanced planes the world has ever seen.",
+    "eng_count": 13
+  },
+  {
+    "line": 1886,
+    "key": "NZL_heavy_bombers_desc",
+    "val": "The war can only be won by striking at the heart of the enemy homeland. Heavy bombers are necessary to deal a devastating blow to enemy factories and cities.",
+    "eng_count": 12
+  },
+  {
+    "line": 1888,
+    "key": "NZL_the_plan_desc",
+    "val": "We have joined with our allies to share experience and insight in the training of pilots. The war could be won from the air, so the Commonwealth Air Training Plan could be the key to victory.",
+    "eng_count": 17
+  },
+  {
+    "line": 1890,
+    "key": "NZL_national_roads_board_desc",
+    "val": "New Zealand's rough terrain has discouraged a coherent road building system, but we need to improve what we have in place. A highway system should be researched, roads should be paved, and new paths cut through the mountains.",
+    "eng_count": 12
+  },
+  {
+    "line": 1892,
+    "key": "NZL_new_zealand_steel_desc",
+    "val": "New Zealand has been blessed with abundant stores of ironsand, especially on the North Island. It takes a special process to extract ore from this sand, but it can serve as the cornerstone of our steel industry for years to come.",
+    "eng_count": 16
+  },
+  {
+    "line": 1894,
+    "key": "NZL_taranaki_oil_desc",
+    "val": "The Taranaki region on the north island is rich in minerals and petroleum. Entrepreneurs have tried to exploit these oil reserves, but more investment is needed in refineries and drilling.",
+    "eng_count": 12
+  },
+  {
+    "line": 1896,
+    "key": "NZL_wairarapa_sheep_farms_desc",
+    "val": "The wool industry of Wairarapa is one of the cornerstones of the New Zealand economy. As the world breaks out of its Depression, there will be greater demand for our wool.",
+    "eng_count": 15
+  },
+  {
+    "line": 1898,
+    "key": "NZL_bureau_of_industry_desc",
+    "val": "New Zealand is an agrarian society, with an emphasis on ranching. The Bureau of Industry must encourage great investment in capital infrastructure and manufacturing.",
+    "eng_count": 9
+  },
+  {
+    "line": 1900,
+    "key": "NZL_department_of_scientific_and_industrial_research_desc",
+    "val": "The other Commonwealth and Dominion nations are investing in scientific and industrial research, so we should do the same.",
+    "eng_count": 8
+  },
+  {
+    "line": 1902,
+    "key": "NZL_industrial_conscription_desc",
+    "val": "There is no reason for any able bodied man to not be serving in the armed forces or working in a war related industry. Our new laws will put every shoulder to the wheel of mobilization and production.",
+    "eng_count": 15
+  },
+  {
+    "line": 1904,
+    "key": "NZL_think_big_desc",
+    "val": "We have become accustomed to see ourselves as a lesser Dominion than our Aussie or Canadian allies. But New Zealand is fully capable of industrial greatness.",
+    "eng_count": 8
+  },
+  {
+    "line": 1906,
+    "key": "NZL_project_seal_desc",
+    "val": "Project Seal is a new initiative with the Americans to develop a weapon that can trigger tsunamis to overwhelm our enemies. It is a little fanciful, but the bouncing bomb that has been developed shows great promise.",
+    "eng_count": 13
+  },
+  {
+    "line": 1908,
+    "key": "NZL_national_defense_institute_desc",
+    "val": "Now that New Zealand is fully a sovereign nation we are no longer receiving access to advanced prototypes and blueprints like we previously did. Kita harus ensure that we always stay ahead of our enemies, and do not fall behind in technology.",
+    "eng_count": 14
+  },
+  {
+    "line": 1910,
+    "key": "NZL_expand_the_university_of_auckland_desc",
+    "val": "The University of Auckland is our most important post-secondary institution. By expanding its facilities, we can try to keep some of our finest minds here at home.",
+    "eng_count": 12
+  },
+  {
+    "line": 1912,
+    "key": "NZL_army_reforms_desc",
+    "val": "We should modernize our army's training and promotion system. This way we can be prepared for whatever happens in the ongoing world crisis.",
+    "eng_count": 11
+  },
+  {
+    "line": 1914,
+    "key": "NZL_charlton_automatic_rifle_desc",
+    "val": "One of our citizens has modified the standard Lee Enfield rifle into a full automatic gun. This is New Zealand ingenuity at its best and we should encourage innovation along these lines.",
+    "eng_count": 12
+  },
+  {
+    "line": 1918,
+    "key": "NZL_domestic_arms_industry_desc",
+    "val": "We should turn as many industries as we can over to the production of small arms. We need ammunition, gun parts, support equipment and so forth. These can be made domestically.",
+    "eng_count": 13
+  },
+  {
+    "line": 1920,
+    "key": "NZL_schofield_tank_desc",
+    "val": "If the Semple Tank didn’t meet our needs, maybe a tank with a proper cannon will do the trick. The combined wheel/track system is original and might lead us to new insights into tank design.",
+    "eng_count": 12
+  },
+  {
+    "line": 1922,
+    "key": "NZL_long_range_patrol_desc",
+    "val": "The Long Range Patrol is intended to cover wide expanses of territory in North Africa. This reconnaissance and commando unit will undertake special missions in some of the world's harshest climates.",
+    "eng_count": 11
+  },
+  {
+    "line": 1924,
+    "key": "NZL_artillery_focus_desc",
+    "val": "Artillery is crucial for the support of any forward movement by our infantry. Expand research into ballistics and larger barrel guns.",
+    "eng_count": 8
+  },
+  {
+    "line": 1926,
+    "key": "NZL_big_bob_tank_desc",
+    "val": "The battlefields of Europe are calling for heavier armor to compete with the super tanks of our enemies. The Big Bob will be New Zealand's contribution to this design effort.",
+    "eng_count": 14
+  },
+  {
+    "line": 1928,
+    "key": "NZL_research_collaboration_desc",
+    "val": "The British showed us the advantage of sharing scientific progress between close allies. Our whole faction will be able to conduct wartime R&D more efficiently if we take the steps necessary to coordinate this.",
+    "eng_count": 14
+  },
+  {
+    "line": 1930,
+    "key": "NZL_the_first_labor_government_desc",
+    "val": "The First Labour Government for New Zealand has the opportunity to pursue a progressive social and economic agenda. Industrial regulation, workers’ rights, social welfare laws and rules for wages are all on the agenda.",
+    "eng_count": 11
+  },
+  {
+    "line": 1932,
+    "key": "NZL_ratana_alliance_desc",
+    "val": "An alliance with the Ratana movement will bring Maori New Zealanders into the government and hopefully begin to heal some of the wounds of British conquest.",
+    "eng_count": 11
+  },
+  {
+    "line": 1934,
+    "key": "NZL_maori_affairs_act_desc",
+    "val": "Much of the land owned by Maori is economically unproductive. If we can consolidate it and bring more under government control, we can turn these barren locations into fruitful sites of industry and commerce.",
+    "eng_count": 14
+  },
+  {
+    "line": 1938,
+    "key": "NZL_the_manpower_act_desc",
+    "val": "Ever since the war started, Maori have come to the cities in large numbers. The Manpower Act will let us steer those energies into New Zealand factories.",
+    "eng_count": 9
+  },
+  {
+    "line": 1940,
+    "key": "NZL_amend_the_maori_affairs_act_desc",
+    "val": "Kita harus amend the Maori Affairs Act so that it boosts the productivity of underutilized lands, but doesn’t needlessly displace our Maori citizens.",
+    "eng_count": 5
+  },
+  {
+    "line": 1942,
+    "key": "NZL_waitangi_tribunal_desc",
+    "val": "British New Zealanders should come to terms with what their ancestors did to displace, disrupt and marginalize the Maori of New Zealand. Bloody wars, land seizures, and natural rights ignored. Recognizing this legacy is a step to healing.",
+    "eng_count": 12
+  },
+  {
+    "line": 1944,
+    "key": "NZL_maori_conscription_desc",
+    "val": "The bravery and heroism of the Maori Battalion attached to the Expeditionary Force is a sign that we should make the most of our entire population by drafting even the reluctant Maori into the service.",
+    "eng_count": 17
+  },
+  {
+    "line": 1946,
+    "key": "NZL_maori_volunteers_desc",
+    "val": "Showing their patriotism, hundreds of Maori are stepping up to volunteer for service in the New Zealand army.",
+    "eng_count": 7
+  },
+  {
+    "line": 1948,
+    "key": "NZL_strengthen_the_commonwealth_desc",
+    "val": "As a smaller Dominion, it is important to stick close to our friends and family. Kita akan reinforce our ties to our fellow British territories.",
+    "eng_count": 9
+  },
+  {
+    "line": 1950,
+    "key": "NZL_statute_of_westminster_desc",
+    "val": "The Statute of Westminster gives us greater independence under the Crown while still keeping us within the Empire.",
+    "eng_count": 6
+  },
+  {
+    "line": 1952,
+    "key": "NZL_2nzef_desc",
+    "val": "Despite the horrors of the last war, New Zealand is ready to march again. The 2nd New Zealand Expeditionary Force is being organized as we speak.",
+    "eng_count": 9
+  },
+  {
+    "line": 1954,
+    "key": "NZL_arrest_pacifist_leaders_desc",
+    "val": "Now is not a time for dissension within the country. Everyone must focus on winning the war, and if that means detaining any who speak against the war, then that is what we will do.",
+    "eng_count": 14
+  },
+  {
+    "line": 1956,
+    "key": "NZL_technology_sharing_with_britain_desc",
+    "val": "Great Britain's scientific and industrial base far exceeds our own, but since we are family, they are willing to share what they know with us.",
+    "eng_count": 10
+  },
+  {
+    "line": 1958,
+    "key": "NZL_the_lee_affair_desc",
+    "val": "John Lee, MP for Grey Lynn, has been causing problems within the Labour caucus. He is agitating for a more radical agenda instead of the cautious path we are taking. Measures must be taken to quiet his revolt.",
+    "eng_count": 13
+  },
+  {
+    "line": 1960,
+    "key": "NZL_empower_the_working_class_desc",
+    "val": "Labour has championed the working class since its founding, indeed many of our leaders have working class origins. Let's push for more dramatic protections and powers for the unions.",
+    "eng_count": 11
+  },
+  {
+    "line": 1962,
+    "key": "NZL_join_comintern_desc",
+    "val": "The time has come to join with our socialist brothers in an alliance. Through the Comintern we will achieve the worker's paradise.",
+    "eng_count": 11
+  },
+  {
+    "line": 1964,
+    "key": "NZL_technology_sharing_with_soviet_union_desc",
+    "val": "The Soviet Union has many of the world's top scientists and technology innovators. They are generous enough to share what they know with us, their comrades in arms.",
+    "eng_count": 13
+  },
+  {
+    "line": 1966,
+    "key": "NZL_in_the_darkness_desc",
+    "val": "There is a rot inherent in the democratic systems championed by our mother country. True strength cannot be demonstrated through compromise.",
+    "eng_count": 6
+  },
+  {
+    "line": 1968,
+    "key": "NZL_befriend_japan_desc",
+    "val": "As a Pacific nation, it suits our security interests to side with the strongest power in the region. Japan and its mighty navies can protect us from the world's dangers.",
+    "eng_count": 13
+  },
+  {
+    "line": 1970,
+    "key": "NZL_rule_them_all_desc",
+    "val": "The antipodean nations of the South Pacific should be one united power. Australia should consider submitting to our superior ethos.",
+    "eng_count": 8
+  },
+  {
+    "line": 1972,
+    "key": "NZL_technology_sharing_with_japan_desc",
+    "val": "Japan has many of the world's top scientists and technology innovators. They are generous enough to share what they know with us, their brothers in arms.",
+    "eng_count": 12
+  },
+  {
+    "line": 1974,
+    "key": "NZL_constitution_amendment_act_desc",
+    "val": "The time has come for New Zealand to consider separating itself from British domination. Kita akan amend our constitution to assert greater control over our own affairs.",
+    "eng_count": 8
+  },
+  {
+    "line": 1976,
+    "key": "NZL_independent_new_zealand_desc",
+    "val": "We are now a Republic! New Zealand owes nothing to the United Kingdom but the gratitude any child owes its mother for raising it safely. But we must leave the safe nest of the Commonwealth and view the world with our own interests in mind.",
+    "eng_count": 16
+  }
+]

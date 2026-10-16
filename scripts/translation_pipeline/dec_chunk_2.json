@@ -1,0 +1,352 @@
+[
+  {
+    "line_num": 121,
+    "key": "decision_cost_ie_1000",
+    "ver": "",
+    "val": "£infantry_equipment_text_icon  §Y1000§!",
+    "comm": ""
+  },
+  {
+    "line_num": 122,
+    "key": "decision_cost_ie_1000_blocked",
+    "ver": "",
+    "val": "£infantry_equipment_text_icon  §R1000§!",
+    "comm": ""
+  },
+  {
+    "line_num": 123,
+    "key": "decision_cost_ie_1000_tooltip",
+    "ver": "",
+    "val": "It costs £infantry_equipment_text_icon  §Y1000§! to take the decision",
+    "comm": ""
+  },
+  {
+    "line_num": 125,
+    "key": "decision_cost_ie_2000",
+    "ver": "",
+    "val": "£infantry_equipment_text_icon  §Y2000§!",
+    "comm": ""
+  },
+  {
+    "line_num": 126,
+    "key": "decision_cost_ie_2000_blocked",
+    "ver": "",
+    "val": "£infantry_equipment_text_icon  §R2000§!",
+    "comm": ""
+  },
+  {
+    "line_num": 127,
+    "key": "decision_cost_ie_2000_tooltip",
+    "ver": "",
+    "val": "It costs £infantry_equipment_text_icon  §Y2000§! to take the decision",
+    "comm": ""
+  },
+  {
+    "line_num": 129,
+    "key": "decision_cost_ie_500",
+    "ver": "",
+    "val": "£infantry_equipment_text_icon  §Y500§!",
+    "comm": ""
+  },
+  {
+    "line_num": 130,
+    "key": "decision_cost_ie_500_blocked",
+    "ver": "",
+    "val": "£infantry_equipment_text_icon  §R500§!",
+    "comm": ""
+  },
+  {
+    "line_num": 131,
+    "key": "decision_cost_ie_500_tooltip",
+    "ver": "",
+    "val": "It costs £infantry_equipment_text_icon  §Y500§! to take the decision",
+    "comm": ""
+  },
+  {
+    "line_num": 133,
+    "key": "decision_cost_civ_factory_1",
+    "ver": "",
+    "val": "£civ_factory  §Y1§!",
+    "comm": ""
+  },
+  {
+    "line_num": 134,
+    "key": "decision_cost_civ_factory_1_blocked",
+    "ver": "",
+    "val": "£civ_factory  §R1§!",
+    "comm": ""
+  },
+  {
+    "line_num": 135,
+    "key": "decision_cost_civ_factory_1_tooltip",
+    "ver": "",
+    "val": "It costs £civ_factory  §Y1§! while this decision is active",
+    "comm": ""
+  },
+  {
+    "line_num": 137,
+    "key": "decision_cost_civ_factory_2",
+    "ver": "",
+    "val": "£civ_factory  §Y2§!",
+    "comm": ""
+  },
+  {
+    "line_num": 138,
+    "key": "decision_cost_civ_factory_2_blocked",
+    "ver": "",
+    "val": "£civ_factory  §R2§!",
+    "comm": ""
+  },
+  {
+    "line_num": 139,
+    "key": "decision_cost_civ_factory_2_tooltip",
+    "ver": "",
+    "val": "It costs £civ_factory  §Y2§! while this decision is active",
+    "comm": ""
+  },
+  {
+    "line_num": 141,
+    "key": "decision_cost_civ_factory_3",
+    "ver": "",
+    "val": "£civ_factory  §Y3§!",
+    "comm": ""
+  },
+  {
+    "line_num": 142,
+    "key": "decision_cost_civ_factory_3_blocked",
+    "ver": "",
+    "val": "£civ_factory  §R3§!",
+    "comm": ""
+  },
+  {
+    "line_num": 143,
+    "key": "decision_cost_civ_factory_3_tooltip",
+    "ver": "",
+    "val": "It costs £civ_factory  §Y3§! while this decision is active",
+    "comm": ""
+  },
+  {
+    "line_num": 145,
+    "key": "decision_cost_civ_factory_5",
+    "ver": "",
+    "val": "£civ_factory  §Y5§!",
+    "comm": ""
+  },
+  {
+    "line_num": 146,
+    "key": "decision_cost_civ_factory_5_blocked",
+    "ver": "",
+    "val": "£civ_factory  §R5§!",
+    "comm": ""
+  },
+  {
+    "line_num": 147,
+    "key": "decision_cost_civ_factory_5_tooltip",
+    "ver": "",
+    "val": "It costs £civ_factory  §Y5§! while this decision is active",
+    "comm": ""
+  },
+  {
+    "line_num": 149,
+    "key": "decision_cost_MP_300_PP_15",
+    "ver": "",
+    "val": "£manpower_texticon  §Y300§! £pol_power §Y15§!",
+    "comm": ""
+  },
+  {
+    "line_num": 150,
+    "key": "decision_cost_MP_300_PP_15_blocked",
+    "ver": "",
+    "val": "£manpower_texticon  §R300§! £pol_power §R15§!",
+    "comm": ""
+  },
+  {
+    "line_num": 151,
+    "key": "decision_cost_MP_300_PP_15_tooltip",
+    "ver": "",
+    "val": "It costs £manpower_texticon  §Y300§! and £pol_power §Y15§! to take this decision",
+    "comm": ""
+  },
+  {
+    "line_num": 153,
+    "key": "decision_cost_CP_50_ArmXP_15",
+    "ver": "",
+    "val": "£command_power  §Y50§! £army_experience  §Y15§!",
+    "comm": ""
+  },
+  {
+    "line_num": 154,
+    "key": "decision_cost_CP_50_ArmXP_15_blocked",
+    "ver": "",
+    "val": "£command_power  §R50§! £army_experience  §R15§!",
+    "comm": ""
+  },
+  {
+    "line_num": 155,
+    "key": "decision_cost_CP_50_ArmXP_15_tooltip",
+    "ver": "",
+    "val": "It costs £command_power  §Y50§! £army_experience  §Y15§! to take the decision",
+    "comm": ""
+  },
+  {
+    "line_num": 157,
+    "key": "decision_cost_CP_25_ArmXP_15",
+    "ver": "",
+    "val": "£command_power  §Y25§! £army_experience  §Y15§!",
+    "comm": ""
+  },
+  {
+    "line_num": 158,
+    "key": "decision_cost_CP_25_ArmXP_15_blocked",
+    "ver": "",
+    "val": "£command_power  §R25§! £army_experience  §R15§!",
+    "comm": ""
+  },
+  {
+    "line_num": 159,
+    "key": "decision_cost_CP_25_ArmXP_15_tooltip",
+    "ver": "",
+    "val": "It costs £command_power  §Y25§! £army_experience  §Y15§! to take the decision",
+    "comm": ""
+  },
+  {
+    "line_num": 161,
+    "key": "decision_cost_CP_25_PP_100",
+    "ver": "",
+    "val": "£command_power  §Y25§! £pol_power  §Y100§!",
+    "comm": ""
+  },
+  {
+    "line_num": 162,
+    "key": "decision_cost_CP_25_PP_100_blocked",
+    "ver": "",
+    "val": "£command_power  §R25§! £pol_power  §R100§!",
+    "comm": ""
+  },
+  {
+    "line_num": 163,
+    "key": "decision_cost_CP_25_PP_100_tooltip",
+    "ver": "",
+    "val": "It costs £command_power  §Y25§! £pol_power  §Y100§! to take the decision",
+    "comm": ""
+  },
+  {
+    "line_num": 165,
+    "key": "decision_cost_ArmXP_50",
+    "ver": "",
+    "val": "£army_experience  §Y50§!",
+    "comm": ""
+  },
+  {
+    "line_num": 166,
+    "key": "decision_cost_ArmXP_50_blocked",
+    "ver": "",
+    "val": "£army_experience  §R50§!",
+    "comm": ""
+  },
+  {
+    "line_num": 167,
+    "key": "decision_cost_ArmXP_50_tooltip",
+    "ver": "",
+    "val": "It costs £army_experience  §Y50§! to take the decision",
+    "comm": ""
+  },
+  {
+    "line_num": 169,
+    "key": "decision_cost_ArmXP_75",
+    "ver": "",
+    "val": "£army_experience  §Y75§!",
+    "comm": ""
+  },
+  {
+    "line_num": 170,
+    "key": "decision_cost_ArmXP_75_blocked",
+    "ver": "",
+    "val": "£army_experience  §R75§!",
+    "comm": ""
+  },
+  {
+    "line_num": 171,
+    "key": "decision_cost_ArmXP_75_tooltip",
+    "ver": "",
+    "val": "It costs £army_experience  §Y75§! to take the decision",
+    "comm": ""
+  },
+  {
+    "line_num": 173,
+    "key": "decision_cost_ArmXP_200",
+    "ver": "",
+    "val": "£army_experience  §Y200§!",
+    "comm": ""
+  },
+  {
+    "line_num": 174,
+    "key": "decision_cost_ArmXP_200_blocked",
+    "ver": "",
+    "val": "£army_experience  §R200§!",
+    "comm": ""
+  },
+  {
+    "line_num": 175,
+    "key": "decision_cost_ArmXP_200_tooltip",
+    "ver": "",
+    "val": "It costs £army_experience  §Y200§! to take the decision",
+    "comm": ""
+  },
+  {
+    "line_num": 177,
+    "key": "decision_cost_ie_500_MP_500_CP_25",
+    "ver": "",
+    "val": "£infantry_equipment_text_icon  §Y500§! £manpower_texticon  §Y500§! £command_power  §Y25§!",
+    "comm": ""
+  },
+  {
+    "line_num": 178,
+    "key": "decision_cost_ie_500_MP_500_CP_25_blocked",
+    "ver": "",
+    "val": "£infantry_equipment_text_icon  §R500§! £manpower_texticon  §R500§! £command_power  §R25§!",
+    "comm": ""
+  },
+  {
+    "line_num": 179,
+    "key": "decision_cost_ie_500_MP_500_CP_25_tooltip",
+    "ver": "",
+    "val": "It costs £infantry_equipment_text_icon  §Y500§! £manpower_texticon  §Y500§! £command_power  §Y25§! to take the decision",
+    "comm": ""
+  },
+  {
+    "line_num": 181,
+    "key": "decision_cost_faction_influence_15_PP_125",
+    "ver": "",
+    "val": "£GFX_influence_texticon  §Y15%§! £pol_power  §Y125§!",
+    "comm": ""
+  },
+  {
+    "line_num": 182,
+    "key": "decision_cost_faction_influence_15_PP_125_blocked",
+    "ver": "",
+    "val": "£GFX_influence_texticon  §R15%§! £pol_power  §R125§!",
+    "comm": ""
+  },
+  {
+    "line_num": 183,
+    "key": "decision_cost_faction_influence_15_PP_125_tooltip",
+    "ver": "",
+    "val": "It costs £GFX_influence_texticon  §Y15%§! §YFaction Influence§! and £pol_power  §Y125§! to take the decision",
+    "comm": ""
+  },
+  {
+    "line_num": 184,
+    "key": "decision_cost_faction_influence_10_PP_75",
+    "ver": "",
+    "val": "£GFX_influence_texticon  §Y10%§! £pol_power  §Y75§!",
+    "comm": ""
+  },
+  {
+    "line_num": 185,
+    "key": "decision_cost_faction_influence_10_PP_75_blocked",
+    "ver": "",
+    "val": "£GFX_influence_texticon  §R10%§! £pol_power  §R75§!",
+    "comm": ""
+  }
+]

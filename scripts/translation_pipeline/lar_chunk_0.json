@@ -1,0 +1,492 @@
+[
+  {
+    "line_num": 2,
+    "key": "operation_boost_resistance",
+    "ver": "",
+    "val": "Strengthen Resistance",
+    "comm": ""
+  },
+  {
+    "line_num": 3,
+    "key": "operation_boost_resistance_desc",
+    "ver": "",
+    "val": "§LPartisans in enemy-occupied territory are desperate for support to continue the fight. They are tying down significant amounts of enemy troops, and would be a very effective investment.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 4,
+    "key": "operation_capture_cipher",
+    "ver": "",
+    "val": "Capture Cipher",
+    "comm": ""
+  },
+  {
+    "line_num": 5,
+    "key": "operation_capture_cipher_desc",
+    "ver": "",
+    "val": "§LCapturing an enemy codebook, or acquiring it by other means, would give our codebreakers a decisive advantage in their efforts.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 6,
+    "key": "infiltration_paradrop",
+    "ver": "",
+    "val": "Infiltration via Parachute",
+    "comm": ""
+  },
+  {
+    "line_num": 7,
+    "key": "infiltration_paradrop_desc",
+    "ver": "",
+    "val": "Agents will be dropped into the area via parachute. Flying low and at night will avoid any interference from enemy fighters.",
+    "comm": ""
+  },
+  {
+    "line_num": 8,
+    "key": "infiltration_submarine",
+    "ver": "",
+    "val": "Deployment via Submarine",
+    "comm": ""
+  },
+  {
+    "line_num": 9,
+    "key": "infiltration_submarine_desc",
+    "ver": "",
+    "val": "Agents will be delivered close to the shore by one of our submarines. We have already reconnoitred possible landing sites and the timing of enemy patrols to avoid detection.",
+    "comm": ""
+  },
+  {
+    "line_num": 10,
+    "key": "infiltration_border",
+    "ver": "",
+    "val": "Infiltration across a neutral border",
+    "comm": ""
+  },
+  {
+    "line_num": 11,
+    "key": "infiltration_border_desc",
+    "ver": "",
+    "val": "Agents will infiltrate across a neutral border. Border guards in the area are expected to be less alert and we have already identified a number of areas where border patrols are very infrequent.",
+    "comm": ""
+  },
+  {
+    "line_num": 12,
+    "key": "infiltration_diplomatic",
+    "ver": "",
+    "val": "Diplomatic Passports",
+    "comm": ""
+  },
+  {
+    "line_num": 13,
+    "key": "infiltration_diplomatic_desc",
+    "ver": "",
+    "val": "Agents will use diplomatic passports to enter the country and move around. We expect enemy counter-intelligence to try and tail them, but this can be overcome with sufficient training.",
+    "comm": ""
+  },
+  {
+    "line_num": 14,
+    "key": "resistance_support_arms_depots",
+    "ver": "",
+    "val": "Create Supply Caches",
+    "comm": ""
+  },
+  {
+    "line_num": 15,
+    "key": "resistance_support_arms_depots_desc",
+    "ver": "",
+    "val": "Our agents will set up a number of hidden caches of explosives and other equipment, in preparation of a general uprising once the resistance is strong enough.",
+    "comm": ""
+  },
+  {
+    "line_num": 16,
+    "key": "resistance_support_distribute_weapons",
+    "ver": "",
+    "val": "Distribute Weapons",
+    "comm": ""
+  },
+  {
+    "line_num": 17,
+    "key": "resistance_support_distribute_weapons_desc",
+    "ver": "",
+    "val": "Our agents will organize and coordinate a series of weapon drops. The weapons will then be handed to trusted members of the local resistance.",
+    "comm": ""
+  },
+  {
+    "line_num": 18,
+    "key": "resistance_support_organize_training",
+    "ver": "",
+    "val": "Organize Training Camps",
+    "comm": ""
+  },
+  {
+    "line_num": 19,
+    "key": "resistance_support_organize_training_desc",
+    "ver": "",
+    "val": "Our agents will hold courses in escape & evasion skills as well as basic fieldcraft. The most promising students will then proceed to basic firearms training.",
+    "comm": ""
+  },
+  {
+    "line_num": 20,
+    "key": "resistance_support_coordinate_groups",
+    "ver": "",
+    "val": "Coordinate Resistance Groups",
+    "comm": ""
+  },
+  {
+    "line_num": 21,
+    "key": "resistance_support_coordinate_groups_desc",
+    "ver": "",
+    "val": "Our agents will travel around to coordinate various resistance groups. Forging an alliance between the politically fractured units will take some doing.",
+    "comm": ""
+  },
+  {
+    "line_num": 22,
+    "key": "exfiltration_air_pickup",
+    "ver": "",
+    "val": "Pickup by Airplane",
+    "comm": ""
+  },
+  {
+    "line_num": 23,
+    "key": "exfiltration_air_pickup_desc",
+    "ver": "",
+    "val": "One of our airplanes will cross into enemy territory at night, find a marked field, land, and pick up our agents.",
+    "comm": ""
+  },
+  {
+    "line_num": 24,
+    "key": "exfiltration_submarine_pickup",
+    "ver": "",
+    "val": "Pickup by Submarine",
+    "comm": ""
+  },
+  {
+    "line_num": 25,
+    "key": "exfiltration_submarine_pickup_desc",
+    "ver": "",
+    "val": "One of our Submarines will be on station at a designated pickup point along the coast. Timing will be of the essence as enemy naval patrols do cover the area.",
+    "comm": ""
+  },
+  {
+    "line_num": 26,
+    "key": "exfiltration_border",
+    "ver": "",
+    "val": "Hiking across the border",
+    "comm": ""
+  },
+  {
+    "line_num": 27,
+    "key": "exfiltration_border_desc",
+    "ver": "",
+    "val": "Our agents will escape by crossing the border at night in a remote location. Local guides are standing by to assist in navigating the treacherous area.",
+    "comm": ""
+  },
+  {
+    "line_num": 28,
+    "key": "exfiltration_go_to_ground",
+    "ver": "",
+    "val": "Going to ground",
+    "comm": ""
+  },
+  {
+    "line_num": 29,
+    "key": "exfiltration_go_to_ground_desc",
+    "ver": "",
+    "val": "Our agents will lay low and blend into the population until they are ready for the next mission. Should an opportunity arise to exfiltrate by other means, they will take it.",
+    "comm": ""
+  },
+  {
+    "line_num": 30,
+    "key": "operation_make_resistance_contacts",
+    "ver": "",
+    "val": "Make Resistance Contacts",
+    "comm": ""
+  },
+  {
+    "line_num": 31,
+    "key": "operation_make_resistance_contacts_desc",
+    "ver": "",
+    "val": "§LAny support we can offer to the partisans active behind enemy lines would become far more effective if we had a way to communicate and coordinate with them.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 32,
+    "key": "capture_cyphers_bribe",
+    "ver": "",
+    "val": "Bribe Soldier",
+    "comm": ""
+  },
+  {
+    "line_num": 33,
+    "key": "capture_cyphers_bribe_desc",
+    "ver": "",
+    "val": "We have a man on the inside and will provide him with the necessary funds to steal a codebook and turn it over to our agent.",
+    "comm": ""
+  },
+  {
+    "line_num": 34,
+    "key": "capture_cyphers_raid",
+    "ver": "",
+    "val": "Commando Raid",
+    "comm": ""
+  },
+  {
+    "line_num": 35,
+    "key": "capture_cyphers_raid_desc",
+    "ver": "",
+    "val": "Our Agent will scout the area and signal a commando unit to land and capture codebooks and encryption equipment. We will also try to capture one or two encryption specialists for interrogation.",
+    "comm": ""
+  },
+  {
+    "line_num": 36,
+    "key": "capture_cyphers_seduction",
+    "ver": "",
+    "val": "Use Seduction",
+    "comm": ""
+  },
+  {
+    "line_num": 37,
+    "key": "capture_cyphers_seduction_desc",
+    "ver": "",
+    "val": "Our Agent will contact a person with access to the cyphers and use their charm  - or other means - to secure a copy.",
+    "comm": ""
+  },
+  {
+    "line_num": 38,
+    "key": "capture_cyphers_reverse_engineer",
+    "ver": "",
+    "val": "Reverse Engineer",
+    "comm": ""
+  },
+  {
+    "line_num": 39,
+    "key": "capture_cyphers_reverse_engineer_desc",
+    "ver": "",
+    "val": "A simpler version of the country's primary encryption machine is commercially available. We will acquire a version legally and then use it to help us reverse-engineer a decryption machine.",
+    "comm": ""
+  },
+  {
+    "line_num": 40,
+    "key": "resistance_contacts_radio_circuits",
+    "ver": "",
+    "val": "Create Radio Circuits",
+    "comm": ""
+  },
+  {
+    "line_num": 41,
+    "key": "resistance_contacts_radio_circuits_desc",
+    "ver": "",
+    "val": "The team will distribute radios to resistance members and teach basic radio protocol, especially with an eye towards avoiding enemy radio-direction finding.",
+    "comm": ""
+  },
+  {
+    "line_num": 42,
+    "key": "resistance_support_pidgeons",
+    "ver": "",
+    "val": "Distribute Pigeons",
+    "comm": ""
+  },
+  {
+    "line_num": 43,
+    "key": "resistance_support_pidgeons_desc",
+    "ver": "",
+    "val": "The team will distribute trained homing pigeons to various breeders connected to the resistance. They will be used to carry messages back to our lines.",
+    "comm": ""
+  },
+  {
+    "line_num": 44,
+    "key": "resistance_contacts_briefings",
+    "ver": "",
+    "val": "Strategy Briefings",
+    "comm": ""
+  },
+  {
+    "line_num": 45,
+    "key": "resistance_contacts_briefings_desc",
+    "ver": "",
+    "val": "Our Agent will brief the leaders of various resistance groups on planned operations to coordinate resistance support.",
+    "comm": ""
+  },
+  {
+    "line_num": 46,
+    "key": "capture_cyphers_smuggle",
+    "ver": "",
+    "val": "Smuggle Cyphers",
+    "comm": ""
+  },
+  {
+    "line_num": 47,
+    "key": "capture_cyphers_smuggle_desc",
+    "ver": "",
+    "val": "One of our double agents will request a new copy of the currently active cypher to be transferred. Coordination with other services is underway to ensure that the drop-off is not interrupted.",
+    "comm": ""
+  },
+  {
+    "line_num": 48,
+    "key": "operation_steal_tech_airforce",
+    "ver": "",
+    "val": "Steal Aviation Industry Blueprints",
+    "comm": ""
+  },
+  {
+    "line_num": 49,
+    "key": "operation_steal_tech_airforce_desc",
+    "ver": "",
+    "val": "§LWe have received a number of very worrying reports that the enemy is ahead of us in several areas of aircraft design. If this is the case, we could attempt to gain insights into exactly how far ahead they are and utilize these findings to advance our own research.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 50,
+    "key": "operation_infiltrate_armed_forces_navy",
+    "ver": "",
+    "val": "Infiltrate Navy",
+    "comm": ""
+  },
+  {
+    "line_num": 51,
+    "key": "operation_infiltrate_armed_forces_navy_desc",
+    "ver": "",
+    "val": "§LWhile the close-knit crews of [From.GetAdjective] ships offer few avenues of infiltration, the support staff back home is another matter. Getting someone on the inside would give us valuable information as well as the opportunity to support more difficult operations later.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 52,
+    "key": "operation_infiltrate_civilian",
+    "ver": "",
+    "val": "Infiltrate Civilian Administration",
+    "comm": ""
+  },
+  {
+    "line_num": 53,
+    "key": "operation_infiltrate_civilian_desc",
+    "ver": "",
+    "val": "§LThe [From.GetAdjective] government has numerous weakpoints through which we might infiltrate an agent into its operations. Doing so would give us valuable insight into the internal workings of [From.GetNameDef] as well as giving us an opportunity to utilize this agent in future operations against [From.GetNameDef].§!",
+    "comm": ""
+  },
+  {
+    "line_num": 54,
+    "key": "operation_infiltrate_armed_forces_airforce",
+    "ver": "",
+    "val": "Infiltrate Air Force",
+    "comm": ""
+  },
+  {
+    "line_num": 55,
+    "key": "operation_infiltrate_armed_forces_airforce_desc",
+    "ver": "",
+    "val": "§LThe [From.getAdjective] Air Force is the youngest of the [From.GetAdjective] armed forces. As such, it has in its ranks many people of unusual backgrounds. We could exploit some of them to get a man on the inside.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 56,
+    "key": "operation_infiltrate_armed_forces_army",
+    "ver": "",
+    "val": "Infiltrate Army",
+    "comm": ""
+  },
+  {
+    "line_num": 57,
+    "key": "operation_infiltrate_armed_forces_army_desc",
+    "ver": "",
+    "val": "§LThe [From.GetAdjective] Army has a number of individuals in its ranks that could be turned to provide additional information and support for future operations.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 58,
+    "key": "operation_steal_tech_army",
+    "ver": "",
+    "val": "Steal Military Blueprints",
+    "comm": ""
+  },
+  {
+    "line_num": 59,
+    "key": "operation_steal_tech_army_desc",
+    "ver": "",
+    "val": "§LOur intelligence analysts believe that [From.GetNameDef] has made significant advances in the field of Ground Warfare and military engineering. A more thorough investigation, coupled with some more direct methods, might yield some valuable insight for our own research projects.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 60,
+    "key": "operation_steal_tech_civilian",
+    "ver": "",
+    "val": "Steal Industrial Blueprints",
+    "comm": ""
+  },
+  {
+    "line_num": 61,
+    "key": "operation_steal_tech_civilian_desc",
+    "ver": "",
+    "val": "§LIt appears that our industry is lagging behind [From.GetNameDef] in several areas. With a bit of cunning and a little subterfuge, we may be able to close the gap considerably.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 62,
+    "key": "operation_steal_tech_navy",
+    "ver": "",
+    "val": "Steal Naval Blueprints",
+    "comm": ""
+  },
+  {
+    "line_num": 63,
+    "key": "operation_steal_tech_navy_desc",
+    "ver": "",
+    "val": "§LThe have been reports that the [From.GetAdjective] seem to be ahead of us in some areas of naval engineering. We might be in a position to acquire some of that tech for reverse-engineering.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 64,
+    "key": "infiltrate_military_bribe",
+    "ver": "",
+    "val": "Offer Bribe",
+    "comm": ""
+  },
+  {
+    "line_num": 65,
+    "key": "infiltrate_military_bribe_desc",
+    "ver": "",
+    "val": "Our agent will identify a person in financial difficulties and offer a substantial sum to provide us with support. Funds will be made available from the treasury.",
+    "comm": ""
+  },
+  {
+    "line_num": 66,
+    "key": "infiltrate_military_seduction",
+    "ver": "",
+    "val": "Apply Charms",
+    "comm": ""
+  },
+  {
+    "line_num": 67,
+    "key": "infiltrate_military_seduction_desc",
+    "ver": "",
+    "val": "Our Agent will enter into a very close and intimate relationship with someone on the inside to gain information and leverage on them.",
+    "comm": ""
+  },
+  {
+    "line_num": 68,
+    "key": "infiltrate_military_turned_pow",
+    "ver": "",
+    "val": "Turn Prisoner of War",
+    "comm": ""
+  },
+  {
+    "line_num": 69,
+    "key": "infiltrate_military_turned_pow_desc",
+    "ver": "",
+    "val": "We will identify a usable Prisoner of War in our care, turn him to our side, and then repatriate him. He will no doubt be interrogated, but with proper training he will be able to overcome this.",
+    "comm": ""
+  },
+  {
+    "line_num": 70,
+    "key": "infiltrate_military_ideological_supporter",
+    "ver": "",
+    "val": "Contact Ideological Supporter",
+    "comm": ""
+  },
+  {
+    "line_num": 71,
+    "key": "infiltrate_military_ideological_supporter_desc",
+    "ver": "",
+    "val": "We will use diplomatic back-channels to identify and contact members of the [From.GetAdjective] administration with political views not shared by their government and encourage them to work for us.",
+    "comm": ""
+  }
+]

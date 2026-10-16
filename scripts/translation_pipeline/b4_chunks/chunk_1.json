@@ -1,0 +1,410 @@
+[
+  {
+    "key": "soviet.1.t",
+    "version": "",
+    "type": "title",
+    "en": "Japanese Build-Up"
+  },
+  {
+    "key": "soviet.1.d",
+    "version": "",
+    "type": "desc",
+    "en": "Tensions along the Manchurian border have been tense for some time, and now we are receiving reports from our Mongolian comrades that the Japanese are massing forces in Heilungkiang. Backing down may be seen as a sign of weakness, but if we respond with force the situation could escalate. What are your orders, tovarisch komandir?"
+  },
+  {
+    "key": "soviet.2.t",
+    "version": "",
+    "type": "title",
+    "en": "Successful Raid"
+  },
+  {
+    "key": "soviet.2.d",
+    "version": "",
+    "type": "desc",
+    "en": "Our raid across the Manchurian border against the Japanese forces massing there was a success! We caught them before they had finished their preparations, and our brave soldiers gave them a good beating in the violent skirmish that ensued."
+  },
+  {
+    "key": "soviet.3.t",
+    "version": "",
+    "type": "title",
+    "en": "Failed Raid"
+  },
+  {
+    "key": "soviet.3.d",
+    "version": "",
+    "type": "desc",
+    "en": "Our raid across the Manchurian border against the Japanese forces massing there was a failure! The enemy caught our forces in a pincer movement and we took heavy casualties before we managed to disengage."
+  },
+  {
+    "key": "soviet.4.t",
+    "version": "",
+    "type": "title",
+    "en": "[FROM.GetNameDefCap] Surrenders Bessarabia"
+  },
+  {
+    "key": "soviet.4.d",
+    "version": "",
+    "type": "desc",
+    "en": "The [FROM.GetAdjective]s have wisely folded to our demands and withdrawn all of their forces from Bessarabia. We will incorporate the territory into the union as the Moldavian Soviet Socialist Republic. Its citizenry will now enjoy the benefits of socialism. "
+  },
+  {
+    "key": "soviet.5.t",
+    "version": "",
+    "type": "title",
+    "en": "Romania Refuses Our Demands"
+  },
+  {
+    "key": "soviet.5.d",
+    "version": "",
+    "type": "desc",
+    "en": "The Romanians have refused to give in to our demands! It looks like we will have to expel their occupying forces from Bessarabia with force."
+  },
+  {
+    "key": "soviet.6.t",
+    "version": "",
+    "type": "title",
+    "en": "[FROM.GetNameDefCap] Submits"
+  },
+  {
+    "key": "soviet.6.d",
+    "version": "",
+    "type": "desc",
+    "en": "[FROM.GetNameDefCap] has surrendered to our demands. We have replaced the decadent government in Tallinn with a People's Parliament, which has unanimously voted to convert [FROM.GetNameDef] into a Soviet Socialist Republic. After deliberations, the Supreme Soviet has decided to accept this request."
+  },
+  {
+    "key": "soviet.7.t",
+    "version": "",
+    "type": "title",
+    "en": "[FROM.GetNameDefCap] Refuses Our Offer"
+  },
+  {
+    "key": "soviet.7.d",
+    "version": "",
+    "type": "desc",
+    "en": "[FROM.GetNameDefCap] has outrageously decided to refuse our generous offer of a mutual assistance pact! The capitalists and sycophants in Tallinn have further had the gall to issue a statement demanding that we respect the territorial integrity of their nation!"
+  },
+  {
+    "key": "soviet.8.t",
+    "version": "",
+    "type": "title",
+    "en": "[FROM.GetNameDefCap] Submits"
+  },
+  {
+    "key": "soviet.8.d",
+    "version": "",
+    "type": "desc",
+    "en": "The [FROM.GetAdjective] government in Riga has agreed to our demands, and we have replaced their corrupt rule with a People's Assembly. This body has unanimously voted to request membership in our great union as a Soviet Socialist Republic. We have graciously agreed to fulfill this request."
+  },
+  {
+    "key": "soviet.9.t",
+    "version": "",
+    "type": "title",
+    "en": "[FROM.GetNameDefCap] Refuses Our Offer"
+  },
+  {
+    "key": "soviet.9.d",
+    "version": "",
+    "type": "desc",
+    "en": "The bourgeoisie oppressors ruling [FROM.GetNameDef] have chosen to abandon all reason. They have rejected our generous mutual assistance pact, and are demanding the immediate withdrawal of all Soviet forces 'massing' along their border."
+  },
+  {
+    "key": "soviet.10.t",
+    "version": "",
+    "type": "title",
+    "en": "[FROM.GetNameDefCap] Submits"
+  },
+  {
+    "key": "soviet.10.d",
+    "version": "",
+    "type": "desc",
+    "en": "Our request for military bases in [FROM.GetNameDef] has been granted, but unfortunately their government has collapsed. We have established a People's Parliament to avoid anarchy, and they have unanimously voted to petition the Supreme Soviet for membership in our union. This request has been granted."
+  },
+  {
+    "key": "soviet.11.t",
+    "version": "",
+    "type": "title",
+    "en": "[FROM.GetNameDefCap] Refuses Our Offer"
+  },
+  {
+    "key": "soviet.11.d",
+    "version": "",
+    "type": "desc",
+    "en": "[FROM.GetNameDefCap] seems bent on self-destruction, and the fools in their government are denying our forces access to their country. Do they think they would be better off under the Germans? Their selfish leaders are committing a crime against the people by denying their citizens true socialism."
+  },
+  {
+    "key": "soviet.12.t",
+    "version": "",
+    "type": "title",
+    "en": "[FROM.GetNameDefCap] Accepts Our Demands"
+  },
+  {
+    "key": "soviet.12.d",
+    "version": "",
+    "type": "desc",
+    "en": "The overwhelming forces we massed along their borders have convinced the [FROM.GetAdjective] government to accept our modest request for a revision of their borders. We have gained control of Karelia, and the position of [195.GetName] is now much more secure."
+  },
+  {
+    "key": "soviet.13.t",
+    "version": "",
+    "type": "title",
+    "en": "[FROM.GetNameDefCap] Rejects Our Demands"
+  },
+  {
+    "key": "soviet.13.d",
+    "version": "",
+    "type": "desc",
+    "en": "The [FROM.GetAdjective] government has rejected our demands, but this was to be expected. If we want Karelia, we will have to take it by force. It is time to teach the stubborn Finns a lesson they won't forget!"
+  },
+  {
+    "key": "soviet.14.t",
+    "version": "",
+    "type": "title",
+    "en": "Membership in the USSR"
+  },
+  {
+    "key": "soviet.14.d",
+    "version": "",
+    "type": "desc",
+    "en": "We are under pressure from Moscow to officially join the USSR. Should we agree to this?"
+  },
+  {
+    "key": "soviet.15.t",
+    "version": "",
+    "type": "title",
+    "en": "Tannu Tuva Refuses!"
+  },
+  {
+    "key": "soviet.15.d",
+    "version": "",
+    "type": "desc",
+    "en": "The Tuvans have outrageously refused to merge with the Soviet Union! What such a pitiful nation could possibly hope to accomplish on its own is a mystery that may never be answered."
+  },
+  {
+    "key": "soviet.16.t",
+    "version": "",
+    "type": "title",
+    "en": "The Annexation of Tannu Tuva"
+  },
+  {
+    "key": "soviet.16.d",
+    "version": "",
+    "type": "desc",
+    "en": "The Supreme Soviet has received a formal request from the Tuvan parliament for membership in the Soviet Union. They will be organized as the Tuvan Autonomous Oblast in the Russian SFSR."
+  },
+  {
+    "key": "soviet.17.t",
+    "version": "",
+    "type": "title",
+    "en": "Improving the Stalin Line"
+  },
+  {
+    "key": "soviet.17.d",
+    "version": "",
+    "type": "desc",
+    "en": "A thorough revision of the defensive fortifications along our western border regions has been completed, and convicts from our corrective labor camps stand ready to begin work. Soon the Stalin Line will live up to its glorious namesake!"
+  },
+  {
+    "key": "soviet.60.t",
+    "version": "",
+    "type": "title",
+    "en": "The Partitioning of Poland"
+  },
+  {
+    "key": "soviet.60.d",
+    "version": "",
+    "type": "desc",
+    "en": "Poland is ours, but the western parts fall under the [GER.GetAdjective] sphere of influence according to the stipulations of the Molotov-Ribbentrop Pact. Should we withdraw our forces and let the [GER.GetAdjective]s occupy this territory? Failure to do so would render our treaty void."
+  },
+  {
+    "key": "soviet.61.t",
+    "version": "",
+    "type": "title",
+    "en": "Soviets honor the pact"
+  },
+  {
+    "key": "soviet.61.d",
+    "version": "",
+    "type": "desc",
+    "en": "In accordance with the treaty, the [SOV.GetAdjective]s have turned over the western parts of Poland to our administration. German troops have moved in to provide security."
+  },
+  {
+    "key": "soviet.62.t",
+    "version": "",
+    "type": "title",
+    "en": "Soviets violate the pact"
+  },
+  {
+    "key": "soviet.62.d",
+    "version": "",
+    "type": "desc",
+    "en": "Despite repeated assurances, the Soviets have so far not pulled back their troops, nor have they made any move to turn over the territories and return to the borders we have agreed on. It appears that they have no intention of following the treaty."
+  },
+  {
+    "key": "soviet.70.t",
+    "version": "",
+    "type": "title",
+    "en": "Pressure from [SOV.GetNameDef]"
+  },
+  {
+    "key": "soviet.70.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Despite the liberation of our homeland from [GER.GetAdjective] occupation, we still have the ever present [SOV.GetName] to contend with. They are now refusing to acknowledge the legitimacy of our government unless the [SOV.GetAdjective] aligned communists in the country are allowed to take a more prominent role in the administration. In reality, this is a thinly veiled threat from the [SOV.GetAdjective]s that they expect us to align ourselves with them. Meanwhile, our partners in the west seem unwilling to offer us any support in resisting [SOV.GetLeader]’s demands."
+  },
+  {
+    "key": "soviet.71.t",
+    "version": "",
+    "type": "title",
+    "en": "[POL.GetAdjective] Alignment Secured"
+  },
+  {
+    "key": "soviet.71.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Following recent pressure from our administration and the ever present threat of the mighty Red Army, the bourgeois administration of [POL.GetNameDef] has agreed to respect the authority of the communist party as the only legitimate representative of the people. While we could have enforced our will by force, that will now be unnecessary as we can safely rely on [POL.GetName] being part of our sphere of influence from now on."
+  },
+  {
+    "key": "soviet.72.t",
+    "version": "",
+    "type": "title",
+    "en": "[POL.GetNameDefCap] Continues to Suppress the Proletariat"
+  },
+  {
+    "key": "soviet.72.desc",
+    "version": "",
+    "type": "desc",
+    "en": "In a foolish display of bourgeois arrogance, the illegitimate administration of [POL.GetName] are refusing to acknowledge the authority of the communist party. We can not allow these fools to once again turn Poland into a staging ground for fascist incursions into [SOV.GetNameDef]. It is a matter of utmost national security that we bring [POL.GetName] into our sphere of influence immediately."
+  },
+  {
+    "key": "soviet.73.t",
+    "version": "",
+    "type": "title",
+    "en": "[SOV.GetNameDefCap] Backs Down"
+  },
+  {
+    "key": "soviet.73.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Recent tension surrounding [POL.GetName]’s foreign policy alignment has subdued recently as [SOV.GetNameDef] backs away from its earlier aggressive rhetoric. Although the chance of another invasion has reduced, we should remain vigilant with regards to our eastern neighbor and their pawns."
+  },
+  {
+    "key": "soviet.74.t",
+    "version": "",
+    "type": "title",
+    "en": "[FROM.GetNameDefCap] to Return [ROOT.GetAdjective] territory"
+  },
+  {
+    "key": "soviet.74.d",
+    "version": "",
+    "type": "desc",
+    "en": "As a gesture of goodwill and friendship between the [FROM.GetAdjective] and [ROOT.GetAdjective] countries, [FROM.GetLeader] has offered to return some of the territory they hold, that was historically part of Poland."
+  },
+  {
+    "key": "soviet.75.t",
+    "version": "",
+    "type": "title",
+    "en": "[FROM.GetLeader] Accepted our Offer."
+  },
+  {
+    "key": "soviet.75.d",
+    "version": "",
+    "type": "desc",
+    "en": "Our offer to return territory was accepted by the [FROM.GetAdjective] government. This should hopefully make everyone satisfied for the foreseeable future, and reduce the risk of internal conflicts."
+  },
+  {
+    "key": "soviet.76.t",
+    "version": "",
+    "type": "title",
+    "en": "[FROM.GetLeader] Refused our Offer."
+  },
+  {
+    "key": "soviet.76.d",
+    "version": "",
+    "type": "desc",
+    "en": "For some reason, our offer to return territory was declined by the [FROM.GetAdjective] government. What they are up to is hard to tell at this point, but at least it means they will find it harder to press claims on the territory later."
+  },
+  {
+    "key": "usa.1.t",
+    "version": "",
+    "type": "title",
+    "en": "Earhart Wants to Enlist"
+  },
+  {
+    "key": "usa.1.d",
+    "version": "",
+    "type": "desc",
+    "en": "As American mobilizes for war, we have received an unusual request. Amelia Earhart, the famous aviator who successfully circumvented the globe not long ago, wishes to enlist in the Army Air Corps as a fighter pilot. She has demonstrated considerable skill in mock dogfights, but there are many within the military establishment who frown on the idea of a having a woman flying combat missions. Should we make an exception in her case and let her join?"
+  },
+  {
+    "key": "usa.2.t",
+    "version": "",
+    "type": "title",
+    "en": "Manifest Destiny"
+  },
+  {
+    "key": "usa.2.d",
+    "version": "",
+    "type": "desc",
+    "en": "The unique foundation and history of the United States makes it our duty to preserve democracy and freedom in the world. The last decade has proven that this mission cannot be fulfilled without taking up arms against those who seek to destroy it. From now on, every oppressor will have to answer to us, and our armed forces will liberate people across the globe."
+  },
+  {
+    "key": "usa.3.t",
+    "version": "",
+    "type": "title",
+    "en": "American Fleet in Pearl Harbor"
+  },
+  {
+    "key": "usa.3.d",
+    "version": "",
+    "type": "desc",
+    "en": "The diplomatic and economic sanctions we have suffered from the United States appears to have been the beginning of something more threatening. The American Pacific Fleet has been stationed in the naval base in Pearl Harbor, Hawaii, clearly signaling that the Americans will maintain a strong presence in the Pacific and continue supporting our enemies. Striking against the base at this point may give us the element of surprise."
+  },
+  {
+    "key": "usa.4.t",
+    "version": "",
+    "type": "title",
+    "en": "Destroyers for Bases Agreement"
+  },
+  {
+    "key": "usa.4.d",
+    "version": "",
+    "type": "desc",
+    "en": "Having taken a stance against the Germans, the US appear interested in ensuring Britain stands strong against the German threat. They are, however, also concerned with maintaining their own naval presence in the Atlantic. In exchange for several of our naval bases, they will supply our nation with destroyer ships. The ships have been in reserve, but accepting will still strengthen the military bonds between our nations, and may be a wise decision."
+  },
+  {
+    "key": "usa.5.t",
+    "version": "",
+    "type": "title",
+    "en": "Britain refuses offer"
+  },
+  {
+    "key": "usa.5.d",
+    "version": "",
+    "type": "desc",
+    "en": "Despite our preparations and good intentions, Britain has refused our offer of old Destroyers in exchange for their naval bases."
+  },
+  {
+    "key": "usa.6.t",
+    "version": "",
+    "type": "title",
+    "en": "Election of [GetYear]"
+  },
+  {
+    "key": "usa.6.d",
+    "version": "",
+    "type": "desc",
+    "en": "The day of the presidential election has arrived. Incumbent Franklin Delano Roosevelt has already implemented several of the programs referred collectively to as the New Deal, intended to take the US out of the Great Depression.\\n\\nWhile many of the efforts have been popular, his plans to further extend the role and power of the government have been met with criticism from his opponent, Republican Alf Landon. Coming from the oil industry, Landon wants to see greater economic freedom, while Roosevelt and the Democratic Party want to expand Social Security and ensure economic stability. The election may be a close call, or a major victory for the Democrats."
+  },
+  {
+    "key": "usa.7.t",
+    "version": "",
+    "type": "title",
+    "en": "Roosevelt vs Willkie"
+  },
+  {
+    "key": "usa.7.d",
+    "version": "",
+    "type": "desc",
+    "en": "Since the office of President of the United States was first established, no president has ruled for three consecutive terms. However, in light of the precarious state of the world and international developments in the last few years, President Roosevelt has decided to break with tradition and run for a third term. Republican Wendell Willkie, characterized as a dark horse candidate with a background as an industrialist with limited political experience, has been critical both of Roosevelt's economic interventionism and his justifications for running for a third term.\\n\\nAlthough the candidates have much in common in their foreign policies and Willkie wants to retain some form of the New Deal, many still consider this election a determining point for the future of American democracy."
+  }
+]

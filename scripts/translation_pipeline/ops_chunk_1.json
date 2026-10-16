@@ -1,0 +1,562 @@
+[
+  {
+    "line_num": 82,
+    "key": "CREATE_AGENCY_BUTTON_TOOLTIP",
+    "ver": "",
+    "val": "§GClick§! to start building the Intelligence Agency",
+    "comm": ""
+  },
+  {
+    "line_num": 83,
+    "key": "CREATE_AGENCY_BUTTON_TOOLTIP_NO_FACTORIES",
+    "ver": "",
+    "val": "§RYou don't have enough §HCivilian Factories§! to create an Agency§! (you can use $CURRENT|H$ Factories and need $NEEDED|H$).",
+    "comm": ""
+  },
+  {
+    "line_num": 84,
+    "key": "CREATE_AGENCY_MODIFIER_NAME",
+    "ver": "",
+    "val": "Agency Creation",
+    "comm": ""
+  },
+  {
+    "line_num": 85,
+    "key": "CREATE_AGENCY_BLOCKED",
+    "ver": "",
+    "val": "§RBlocked§!",
+    "comm": ""
+  },
+  {
+    "line_num": 86,
+    "key": "CREATE_AGENCY_SLOW",
+    "ver": "",
+    "val": "§RYou are lacking Civilian Factories.\\nThis will slow the process by $MALUS|%0$§!",
+    "comm": ""
+  },
+  {
+    "line_num": 87,
+    "key": "AGENCY_UPGRADE_NO_FACTORIES",
+    "ver": "",
+    "val": "§RYou don't have enough §HCivilian Factories§! to upgrade your Agency§! (you can use $CURRENT|H$ Factories and need $NEEDED|H$).",
+    "comm": ""
+  },
+  {
+    "line_num": 88,
+    "key": "CHANGE_INTELLIGENCE_AGENCY_NAME_BUTTON",
+    "ver": "",
+    "val": "§GClick§! to change name and insignia",
+    "comm": ""
+  },
+  {
+    "line_num": 89,
+    "key": "STATUS_NO_AGENCY_NO_OPERATIVE",
+    "ver": "",
+    "val": "Operatives can't be recruited until you have created the Agency.",
+    "comm": ""
+  },
+  {
+    "line_num": 90,
+    "key": "STATUS_NO_AGENCY_UPGRADE",
+    "ver": "",
+    "val": "No upgrade in progress.",
+    "comm": ""
+  },
+  {
+    "line_num": 91,
+    "key": "STATUS_NO_OPERATIVE_RECRUITED",
+    "ver": "",
+    "val": "No operative being recruited.",
+    "comm": ""
+  },
+  {
+    "line_num": 92,
+    "key": "STATUS_RECRUIT_OPERATIVE",
+    "ver": "",
+    "val": "Recruiting operative",
+    "comm": ""
+  },
+  {
+    "line_num": 93,
+    "key": "CRYPTOLOGY",
+    "ver": "",
+    "val": "Cryptology",
+    "comm": ""
+  },
+  {
+    "line_num": 94,
+    "key": "CRYPTOLOGY_DEPARTMENT",
+    "ver": "",
+    "val": "Cryptology Department",
+    "comm": ""
+  },
+  {
+    "line_num": 95,
+    "key": "OPERATIVES",
+    "ver": "",
+    "val": "Operatives",
+    "comm": ""
+  },
+  {
+    "line_num": 96,
+    "key": "OPERATIVE",
+    "ver": "",
+    "val": "Operative",
+    "comm": ""
+  },
+  {
+    "line_num": 97,
+    "key": "OPERATIVE_SLOT",
+    "ver": "",
+    "val": "Operative Slot",
+    "comm": ""
+  },
+  {
+    "line_num": 98,
+    "key": "NUM_OPERATIVE_SLOTS",
+    "ver": "",
+    "val": "Operative slots: $NUM|H$",
+    "comm": ""
+  },
+  {
+    "line_num": 99,
+    "key": "SLOTS_FROM_AGENCY_UPGRADES",
+    "ver": "",
+    "val": "From Agency Upgrades: $NUM|+=$",
+    "comm": ""
+  },
+  {
+    "line_num": 100,
+    "key": "SLOTS_FROM_FACTION_MEMBERS",
+    "ver": "",
+    "val": "From Faction Members: $NUM|+=$",
+    "comm": ""
+  },
+  {
+    "line_num": 101,
+    "key": "OPERATIVE_CAPTURED",
+    "ver": "",
+    "val": "Operatives captured by the enemy",
+    "comm": ""
+  },
+  {
+    "line_num": 102,
+    "key": "OPERATIVE_KILLED",
+    "ver": "",
+    "val": "Operatives killed by the enemy",
+    "comm": ""
+  },
+  {
+    "line_num": 103,
+    "key": "OPERATIVE_COUNT",
+    "ver": "",
+    "val": "Recruited operatives: $COUNT|H$",
+    "comm": ""
+  },
+  {
+    "line_num": 104,
+    "key": "AVAILABLE_SLOTS",
+    "ver": "",
+    "val": "Available slots: $SLOTS|H$",
+    "comm": ""
+  },
+  {
+    "line_num": 105,
+    "key": "OPERATIVE_CAPTURED_FACTION",
+    "ver": "",
+    "val": "Operatives from your faction captured by the enemy",
+    "comm": ""
+  },
+  {
+    "line_num": 106,
+    "key": "OPERATIVE_KILLED_FACTION",
+    "ver": "",
+    "val": "Operatives from your faction killed by the enemy",
+    "comm": ""
+  },
+  {
+    "line_num": 107,
+    "key": "AVAILABLE_SLOTS_FACTION",
+    "ver": "",
+    "val": "Total available slots in faction: $SLOTS|H$",
+    "comm": ""
+  },
+  {
+    "line_num": 108,
+    "key": "OPERATIVE_COUNT_FACTION",
+    "ver": "",
+    "val": "Recruited operatives by faction: $COUNT|H$",
+    "comm": ""
+  },
+  {
+    "line_num": 109,
+    "key": "OPERATIONS",
+    "ver": "",
+    "val": "Operations",
+    "comm": ""
+  },
+  {
+    "line_num": 110,
+    "key": "OPERATIONS_REINFORCEMENT_COLLECTING_ENTRY_HEADER",
+    "ver": "",
+    "val": "$OPERATION|Y$ against $COUNTRY|Y$",
+    "comm": ""
+  },
+  {
+    "line_num": 111,
+    "key": "AGENCY_DEFENSE_LEVEL",
+    "ver": "",
+    "val": "Counter Intelligence: $LEVEL|H$",
+    "comm": ""
+  },
+  {
+    "line_num": 112,
+    "key": "AGENCY_DEFENSE_LEVEL_TITLE",
+    "ver": "",
+    "val": "Counter Intelligence",
+    "comm": ""
+  },
+  {
+    "line_num": 113,
+    "key": "AGENCY_DEFENSE_LEVEL_DESC",
+    "ver": "",
+    "val": "Counter intelligence is used to hinder enemy Operatives. The higher it is the more likely you are to stop Operatives and the longer and more expensive it will be to run Operations against you.",
+    "comm": ""
+  },
+  {
+    "line_num": 114,
+    "key": "CAN_RECRUITE_OPERATIVE",
+    "ver": "",
+    "val": "§GClick§! to recruit an operative to this slot",
+    "comm": ""
+  },
+  {
+    "line_num": 115,
+    "key": "CANNOT_RECRUITE_OPERATIVE_NO_SLOT",
+    "ver": "",
+    "val": "§RNo available slots to recruit an operative§!",
+    "comm": ""
+  },
+  {
+    "line_num": 116,
+    "key": "CANNOT_RECRUITE_OPERATIVE_NO_SLOT_DESC",
+    "ver": "",
+    "val": "You can get the first slot by building the intelligence agency. Other slots will be available after the 5th upgrade or after assigning §HIllusive Gentleman§! advisor.\\nAs a spymaster, more operative slots are unlocked by having more countries in your faction. Puppets or countries with very low factory counts do not contribute to more operative slots.",
+    "comm": ""
+  },
+  {
+    "line_num": 117,
+    "key": "CANNOT_RECRUITE_OPERATIVE_MAX_NUMBER",
+    "ver": "",
+    "val": "The maximum number of operatives is $NUMBER|H$.",
+    "comm": ""
+  },
+  {
+    "line_num": 118,
+    "key": "CANNOT_RECRUITE_OPERATIVE_NOT_TRAINED",
+    "ver": "",
+    "val": "§RAn operative is in training and will be available in $DAYS|H$ days§!",
+    "comm": ""
+  },
+  {
+    "line_num": 119,
+    "key": "CANNOT_RECRUITE_OPERATIVE_AGENCY_IS_NOT_CREATED",
+    "ver": "",
+    "val": "§RIntelligence Agency not yet created§!",
+    "comm": ""
+  },
+  {
+    "line_num": 120,
+    "key": "CANNOT_RECRUITE_OPERATIVE_AGENCY_BEING_CREATED",
+    "ver": "",
+    "val": "§RIntelligence Agency is in creation ($DAYS_TEXT$)§!",
+    "comm": ""
+  },
+  {
+    "line_num": 121,
+    "key": "CANNOT_RECRUITE_OPERATIVE_NOT_TRAINED_SPY_MASTER",
+    "ver": "",
+    "val": "§RNo operative available in any factions. An operative is in training and will be available in $DAYS|H$ days§!",
+    "comm": ""
+  },
+  {
+    "line_num": 122,
+    "key": "CANNOT_RECRUITE_OPERATIVE_NO_USABLE_SLOTS",
+    "ver": "",
+    "val": "§RNo open slots available§!",
+    "comm": ""
+  },
+  {
+    "line_num": 123,
+    "key": "OPERATIVE_SLOT_LOCKED_DESC",
+    "ver": "",
+    "val": "Recruit and assign an operative to this slot. Once obtained, a slot becomes available after a period of time. Getting an operative killed or, as a spy master, losing faction members will lock slots again.",
+    "comm": ""
+  },
+  {
+    "line_num": 124,
+    "key": "OPERATIVE_SLOT_LOCKED",
+    "ver": "",
+    "val": "§RSlot locked!§!",
+    "comm": ""
+  },
+  {
+    "line_num": 125,
+    "key": "OPERATIVE_SLOT_UNLOCK_IN_DAYS",
+    "ver": "",
+    "val": "This slot will unlock in $DAYS|H$ days.",
+    "comm": ""
+  },
+  {
+    "line_num": 126,
+    "key": "OPERATIVE_SLOT_QUEUED",
+    "ver": "",
+    "val": "Another slot is already being unlocked.",
+    "comm": ""
+  },
+  {
+    "line_num": 127,
+    "key": "OPERATIVE_SLOT_QUEUED_STATUS",
+    "ver": "",
+    "val": "Queued",
+    "comm": ""
+  },
+  {
+    "line_num": 128,
+    "key": "SELECT_OPERATIVE_TITLE",
+    "ver": "",
+    "val": "Select an operative to assign",
+    "comm": ""
+  },
+  {
+    "line_num": 129,
+    "key": "RECRUIT_OPERATIVE_TITLE",
+    "ver": "",
+    "val": "Select an operative to recruit",
+    "comm": ""
+  },
+  {
+    "line_num": 130,
+    "key": "OPERATIONS_NOT_ACTIVE",
+    "ver": "",
+    "val": "Operations are not available until an Operative has built an Intelligence Network.",
+    "comm": ""
+  },
+  {
+    "line_num": 131,
+    "key": "OPERATIONS_NOT_ACTIVE_DESC",
+    "ver": "",
+    "val": "Recruit an Operative to enable Operations.",
+    "comm": ""
+  },
+  {
+    "line_num": 132,
+    "key": "OPERATIVE_GENERIC_CODENAME_PATTERN",
+    "ver": "",
+    "val": "Agent $NR$",
+    "comm": ""
+  },
+  {
+    "line_num": 133,
+    "key": "OPERATIVE_HAS_CAPTURED",
+    "ver": "",
+    "val": "Has captured operative of $COUNTRY|H$",
+    "comm": ""
+  },
+  {
+    "line_num": 134,
+    "key": "OPERATIVE_MISSION_ASSIGNMENT_WILL_REASSIGN_OPERATIVES",
+    "ver": "",
+    "val": "§RWill reassign operatives in the network:§!\\n  $CODENAME$",
+    "comm": ""
+  },
+  {
+    "line_num": 135,
+    "key": "OPERATIVE_MISSION_NO_MISSION_TITLE",
+    "ver": "",
+    "val": "Unassigned",
+    "comm": ""
+  },
+  {
+    "line_num": 136,
+    "key": "OPERATIVE_MISSION_NO_MISSION_ACTION",
+    "ver": "",
+    "val": "Unassigned",
+    "comm": ""
+  },
+  {
+    "line_num": 137,
+    "key": "OPERATIVE_MISSION_NO_MISSION_TT",
+    "ver": "",
+    "val": "Currently inactive",
+    "comm": ""
+  },
+  {
+    "line_num": 138,
+    "key": "OPERATIVE_MISSION_BUILD_INTEL_NETWORK_TITLE",
+    "ver": "",
+    "val": "Build Intel Network",
+    "comm": ""
+  },
+  {
+    "line_num": 139,
+    "key": "OPERATIVE_MISSION_BUILD_INTEL_NETWORK_ACTION",
+    "ver": "",
+    "val": "Building an Intel Network",
+    "comm": ""
+  },
+  {
+    "line_num": 140,
+    "key": "OPERATIVE_MISSION_BUILD_INTEL_NETWORK_TT",
+    "ver": "",
+    "val": "Building an Intel Network from $STATE|H$ in $FLAG$ $COUNTRY_DEF|H$",
+    "comm": ""
+  },
+  {
+    "line_num": 141,
+    "key": "OPERATIVE_MISSION_BUILD_INTEL_NETWORK_ASSIGNMENT_DESC",
+    "ver": "",
+    "val": "§GClick§! will highlight the suitable states. Then §GClick§! on a state to start the mission.",
+    "comm": ""
+  },
+  {
+    "line_num": 142,
+    "key": "OPERATIVE_MISSION_BUILD_INTEL_NETWORK_DESC",
+    "ver": "",
+    "val": "§LBuild a network of local informants and other contacts in the target state and its surrounding area.§!\\n§HDaily Intel Network Strength gain: $BASE$§!\\n  Base: $BASE|G$",
+    "comm": ""
+  },
+  {
+    "line_num": 143,
+    "key": "OPERATIVE_MISSION_BUILD_INTEL_NETWORK_VALID_TARGET",
+    "ver": "",
+    "val": "Assign $CODENAME$ to £operative_mission_icons_small|1£ Build an Intel Network in $STATE|H$",
+    "comm": ""
+  },
+  {
+    "line_num": 144,
+    "key": "OPERATIVE_MISSION_BUILD_INTEL_NETWORK_INVALID_TARGET",
+    "ver": "",
+    "val": "Cannot build a network in $STATE|H$\\n\\n$REASON|R$",
+    "comm": ""
+  },
+  {
+    "line_num": 145,
+    "key": "OPERATIVE_MISSION_QUIET_INTEL_NETWORK_TITLE",
+    "ver": "",
+    "val": "Quiet Intel Network",
+    "comm": ""
+  },
+  {
+    "line_num": 146,
+    "key": "OPERATIVE_MISSION_QUIET_INTEL_NETWORK_ACTION",
+    "ver": "",
+    "val": "Putting an Intel Network to sleep",
+    "comm": ""
+  },
+  {
+    "line_num": 147,
+    "key": "OPERATIVE_MISSION_QUIET_INTEL_NETWORK_TT",
+    "ver": "",
+    "val": "Putting an Intel Network in $STATE|H$ to sleep in $FLAG$ $COUNTRY_DEF|H$",
+    "comm": ""
+  },
+  {
+    "line_num": 148,
+    "key": "OPERATIVE_MISSION_QUIET_INTEL_NETWORK_ASSIGNMENT_DESC",
+    "ver": "",
+    "val": "§GClick§! will highlight the suitable states. Then §GClick§! on a state to start the mission.",
+    "comm": ""
+  },
+  {
+    "line_num": 149,
+    "key": "OPERATIVE_MISSION_QUIET_INTEL_NETWORK_DESC",
+    "ver": "",
+    "val": "§LMaintain a network of local informants and other contacts while minimizing the risk of detection.§!\\nPrevents the loss of §YIntel Network Strength§! while the network is inactive.",
+    "comm": ""
+  },
+  {
+    "line_num": 150,
+    "key": "OPERATIVE_MISSION_QUIET_INTEL_NETWORK_VALID_TARGET",
+    "ver": "",
+    "val": "Assign $CODENAME$ to £operative_mission_icons_small|2£ Quiet Intel Network in $STATE|H$",
+    "comm": ""
+  },
+  {
+    "line_num": 151,
+    "key": "OPERATIVE_MISSION_QUIET_INTEL_NETWORK_INVALID_TARGET",
+    "ver": "",
+    "val": "Cannot assign to Quiet Intel Network in $STATE|H$\\n\\n$REASON|R$",
+    "comm": ""
+  },
+  {
+    "line_num": 152,
+    "key": "OPERATIVE_MISSION_COUNTER_INTELLIGENCE_TITLE",
+    "ver": "",
+    "val": "Counter Intelligence",
+    "comm": ""
+  },
+  {
+    "line_num": 153,
+    "key": "OPERATIVE_MISSION_COUNTER_INTELLIGENCE_ACTION",
+    "ver": "",
+    "val": "Defending against subversive attacks",
+    "comm": ""
+  },
+  {
+    "line_num": 154,
+    "key": "OPERATIVE_MISSION_COUNTER_INTELLIGENCE_TT",
+    "ver": "",
+    "val": "Defending against subversive attacks in our homeland",
+    "comm": ""
+  },
+  {
+    "line_num": 155,
+    "key": "OPERATIVE_MISSION_COUNTER_INTELLIGENCE_ASSIGNMENT_DESC",
+    "ver": "",
+    "val": "§GClick§! will highlight the suitable countries. Then §GClick§! on a country to start the mission.\\n§GRight-click§! to start the mission in our home country.",
+    "comm": ""
+  },
+  {
+    "line_num": 156,
+    "key": "OPERATIVE_MISSION_COUNTER_INTELLIGENCE_DESC",
+    "ver": "",
+    "val": "§LOperate in our own or an ally's country to try to deter foreign operatives from conducting subversive actions.§!\\n§HCounter Intelligence contribution: $BASE|1=$§!\\n  Base: $BASE|2+$",
+    "comm": ""
+  },
+  {
+    "line_num": 157,
+    "key": "OPERATIVE_MISSION_COUNTER_INTELLIGENCE_VALID_TARGET",
+    "ver": "",
+    "val": "§GClick§! to assign $CODENAME|H$ to £operative_mission_icons_small|3£ Counter Intelligence in $COUNTRY|H$",
+    "comm": ""
+  },
+  {
+    "line_num": 158,
+    "key": "OPERATIVE_MISSION_COUNTER_INTELLIGENCE_INVALID_TARGET",
+    "ver": "",
+    "val": "§R$COUNTRY|H$ is not an ally§!",
+    "comm": ""
+  },
+  {
+    "line_num": 159,
+    "key": "OPERATIVE_MISSION_ROOT_OUT_RESISTANCE_TITLE",
+    "ver": "",
+    "val": "Root Out Resistance",
+    "comm": ""
+  },
+  {
+    "line_num": 160,
+    "key": "OPERATIVE_MISSION_ROOT_OUT_RESISTANCE_ACTION",
+    "ver": "",
+    "val": "Rooting out resistance",
+    "comm": ""
+  },
+  {
+    "line_num": 161,
+    "key": "OPERATIVE_MISSION_ROOT_OUT_RESISTANCE_TT",
+    "ver": "",
+    "val": "Rooting out $FLAG$ $COUNTRY_ADJ|H$ resistance in $STATE|H$",
+    "comm": ""
+  }
+]

@@ -1,0 +1,1402 @@
+[
+  {
+    "line": 2865,
+    "key": "wuw_GER_weltpolitik.5.a",
+    "ver": "",
+    "en": "Sadly not much can be done about it",
+    "comment": ""
+  },
+  {
+    "line": 2866,
+    "key": "wuw_GER_weltpolitik.5.b",
+    "ver": "",
+    "en": "We can not accept this",
+    "comment": ""
+  },
+  {
+    "line": 2868,
+    "key": "wuw_GER_weltpolitik.6.t",
+    "ver": "",
+    "en": "[FROM.GetLeader] Rejects the Deal",
+    "comment": ""
+  },
+  {
+    "line": 2869,
+    "key": "wuw_GER_weltpolitik.6.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] has stated that [FROM.GetLeader.GetSheHe] stands for all of the brave citizens of [FROM.GetNameDef] when [FROM.GetLeader.GetSheHe] says that they will not support our outlandish ideas of carving up the Congo, a state not connected to any of ours, together. It seems that the decision is final.",
+    "comment": ""
+  },
+  {
+    "line": 2870,
+    "key": "wuw_GER_weltpolitik.6.a",
+    "ver": "",
+    "en": "In that case it will all be ours!",
+    "comment": ""
+  },
+  {
+    "line": 2871,
+    "key": "wuw_GER_weltpolitik.6.b",
+    "ver": "",
+    "en": "We should not push further",
+    "comment": ""
+  },
+  {
+    "line": 2873,
+    "key": "wuw_GER_weltpolitik.7.t",
+    "ver": "",
+    "en": "[BEL.GetNameDefCap] Plans to give up our Freedom",
+    "comment": ""
+  },
+  {
+    "line": 2874,
+    "key": "wuw_GER_weltpolitik.7.desc",
+    "ver": "",
+    "en": "[BEL.GetLeader] of [BEL.GetNameDef] has caved to joint [GER.GetAdjective] and [ENG.GetAdjective] demands and has decided to sign our nation over to be split among them, which will effectively end any sort of independence we may currently possess. Should we really just lie down and accept such a fate?",
+    "comment": ""
+  },
+  {
+    "line": 2875,
+    "key": "wuw_GER_weltpolitik.7.a",
+    "ver": "",
+    "en": "We can not fight this...",
+    "comment": ""
+  },
+  {
+    "line": 2876,
+    "key": "wuw_GER_weltpolitik.7.b",
+    "ver": "",
+    "en": "We can not accept this, to arms!",
+    "comment": ""
+  },
+  {
+    "line": 2878,
+    "key": "wuw_GER_weltpolitik.8.t",
+    "ver": "",
+    "en": "[BEL.GetNameDefCap] will give up the Congo",
+    "comment": ""
+  },
+  {
+    "line": 2879,
+    "key": "wuw_GER_weltpolitik.8.desc",
+    "ver": "",
+    "en": "[BEL.GetLeader] of [BEL.GetNameDef] has caved to our demands and states that the Congo will be signed over to us effective immediately. It is still not certain that the people and governors in the Congo will accept this, but at least the [BEl.GetAdjective]s caved.",
+    "comment": ""
+  },
+  {
+    "line": 2880,
+    "key": "wuw_GER_weltpolitik.8.a",
+    "ver": "",
+    "en": "Perfect",
+    "comment": ""
+  },
+  {
+    "line": 2882,
+    "key": "wuw_GER_weltpolitik.9.t",
+    "ver": "",
+    "en": "[BEL.GetNameDefCap] Refuses to give up the Congo",
+    "comment": ""
+  },
+  {
+    "line": 2883,
+    "key": "wuw_GER_weltpolitik.9.desc",
+    "ver": "",
+    "en": "[BEL.GetLeader] of [BEL.GetNameDef] has decided to stand firm against our demands, stating that the [BEL.GetAdjective] army will not back down in the face of opposition, and will fight to the last man over the Congo. They don't know who they are messing with.",
+    "comment": ""
+  },
+  {
+    "line": 2884,
+    "key": "wuw_GER_weltpolitik.9.a",
+    "ver": "",
+    "en": "Then they will be destroyed",
+    "comment": ""
+  },
+  {
+    "line": 2885,
+    "key": "wuw_GER_weltpolitik.9.b",
+    "ver": "",
+    "en": "There is no need to push for it then",
+    "comment": ""
+  },
+  {
+    "line": 2887,
+    "key": "wuw_GER_weltpolitik.10.t",
+    "ver": "",
+    "en": "The Congo Crisis",
+    "comment": ""
+  },
+  {
+    "line": 2888,
+    "key": "wuw_GER_weltpolitik.10.desc",
+    "ver": "",
+    "en": "The treaty has been officially signed, and the land is to be handed over. There is however resistance in the Congo, resistance which will have to be dealt with...",
+    "comment": ""
+  },
+  {
+    "line": 2889,
+    "key": "wuw_GER_weltpolitik.10.a",
+    "ver": "",
+    "en": "We will take it by force",
+    "comment": ""
+  },
+  {
+    "line": 2890,
+    "key": "wuw_GER_weltpolitik.10.b",
+    "ver": "",
+    "en": "Today is a good day",
+    "comment": ""
+  },
+  {
+    "line": 2892,
+    "key": "wuw_GER_weltpolitik.11.t",
+    "ver": "",
+    "en": "The Congo Crisis",
+    "comment": ""
+  },
+  {
+    "line": 2893,
+    "key": "wuw_GER_weltpolitik.11.desc",
+    "ver": "",
+    "en": "Our governors in the Congo report to us that they will not accept the fate we have chosen for them, and will stand firm on [COG.GetAdjective] autonomy. We will have to crush their resistance lest they be the downfall of our nation, provided [ENG.GetNameDef] and [GER.GetNameDef] see this as an act of resistance by us.",
+    "comment": ""
+  },
+  {
+    "line": 2894,
+    "key": "wuw_GER_weltpolitik.11.a",
+    "ver": "",
+    "en": "We must destroy them for the safety of our people!",
+    "comment": ""
+  },
+  {
+    "line": 2896,
+    "key": "wuw_GER_chinese_diplomacy.5.t",
+    "ver": "",
+    "en": "The Sino-German Joint Research Program",
+    "comment": ""
+  },
+  {
+    "line": 2897,
+    "key": "wuw_GER_chinese_diplomacy.5.desc",
+    "ver": "",
+    "en": "Our great allies in the west, the [FROM.GetAdjective]s, have sent us a delegation, which requests that we start cooperating in development on new technology, referring to their new planned program as the 'Sino-German Joint Research Program'. Should we join them?",
+    "comment": ""
+  },
+  {
+    "line": 2898,
+    "key": "wuw_GER_chinese_diplomacy.5.a",
+    "ver": "",
+    "en": "A great initiative!",
+    "comment": ""
+  },
+  {
+    "line": 2899,
+    "key": "wuw_GER_chinese_diplomacy.5.b",
+    "ver": "",
+    "en": "We don't feel like this will help us",
+    "comment": ""
+  },
+  {
+    "line": 2901,
+    "key": "wuw_GER_chinese_diplomacy.6.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Agrees to Cooperate",
+    "comment": ""
+  },
+  {
+    "line": 2902,
+    "key": "wuw_GER_chinese_diplomacy.6.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] of [FROM.GetNameDef] has decided to agree to our proposal, and has stated great interest in our Sino-German Joint research Program. Now, let the work begin!",
+    "comment": ""
+  },
+  {
+    "line": 2903,
+    "key": "wuw_GER_chinese_diplomacy.6.a",
+    "ver": "",
+    "en": "Splendid",
+    "comment": ""
+  },
+  {
+    "line": 2905,
+    "key": "wuw_GER_chinese_diplomacy.7.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Refuses to Cooperate",
+    "comment": ""
+  },
+  {
+    "line": 2906,
+    "key": "wuw_GER_chinese_diplomacy.7.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] of [FROM.GetNameDef] has decided to refuse our offer, and claims that they can handle themselves on their own, without western technology. It is what it is...",
+    "comment": ""
+  },
+  {
+    "line": 2907,
+    "key": "wuw_GER_chinese_diplomacy.7.a",
+    "ver": "",
+    "en": "They don't realize what they're missing out on",
+    "comment": ""
+  },
+  {
+    "line": 2909,
+    "key": "wuw_GER_weltpolitik.12.t",
+    "ver": "",
+    "en": "[FROM.GetName] Requests the Return of Former Colonial Territories",
+    "comment": ""
+  },
+  {
+    "line": 2910,
+    "key": "wuw_GER_weltpolitik.12.desc",
+    "ver": "",
+    "en": "\\n[FROM.GetLeader] of [FROM.GetNameDef] has approached us with an interesting request. They ask that we return to them old [FROM.GetAdjective] colonial territories in the exchange for a deepening of relations between our countries and their official backing of our government on a global level. It seems a bit one-sided, but perhaps it is for the best?",
+    "comment": ""
+  },
+  {
+    "line": 2911,
+    "key": "wuw_GER_weltpolitik.12.a",
+    "ver": "",
+    "en": "Anything for our friends",
+    "comment": ""
+  },
+  {
+    "line": 2912,
+    "key": "wuw_GER_weltpolitik.12.b",
+    "ver": "",
+    "en": "No, they are ours now",
+    "comment": ""
+  },
+  {
+    "line": 2914,
+    "key": "wuw_GER_weltpolitik.13.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Returns our Colonies",
+    "comment": ""
+  },
+  {
+    "line": 2915,
+    "key": "wuw_GER_weltpolitik.13.desc",
+    "ver": "",
+    "en": "\\n[FROM.GetLeader] of [FROM.GetNameDef] has accepted our request for the return of our former colonies, stating that they are better off in our hands. People are celebrating in the streets, as it seems the [ROOT.GetAdjective] colonial empire is finally back on the map.",
+    "comment": ""
+  },
+  {
+    "line": 2916,
+    "key": "wuw_GER_weltpolitik.13.a",
+    "ver": "",
+    "en": "Imperialism is back on the menu!",
+    "comment": ""
+  },
+  {
+    "line": 2918,
+    "key": "wuw_GER_weltpolitik.14.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] doesn't Return our Colonies",
+    "comment": ""
+  },
+  {
+    "line": 2919,
+    "key": "wuw_GER_weltpolitik.14.desc",
+    "ver": "",
+    "en": "\\n[FROM.GetLeader] of [FROM.GetNameDef] has rejected our request for the return of our old colonies, claiming that it is a one-sided deal in which they stand to gain little to nothing.",
+    "comment": ""
+  },
+  {
+    "line": 2920,
+    "key": "wuw_GER_weltpolitik.14.a",
+    "ver": "",
+    "en": "It wasn't meant to be...",
+    "comment": ""
+  },
+  {
+    "line": 2922,
+    "key": "wuw_GER_weltpolitik.15.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Signs lands over to [GER.GetNameDefCap]",
+    "comment": ""
+  },
+  {
+    "line": 2923,
+    "key": "wuw_GER_weltpolitik.15.desc",
+    "ver": "",
+    "en": "\\n[FROM.GetLeader] of [FROM.GetNameDef] has, in a surprising turn of events, decided to sign over all old [GER.GetAdjective] colonial territories back to them, including those that we held. Sadly we can't do much to stop the new act, but at least we can demand some form of compensation from them.",
+    "comment": ""
+  },
+  {
+    "line": 2924,
+    "key": "wuw_GER_weltpolitik.15.a",
+    "ver": "",
+    "en": "We demand some form  of compensation!",
+    "comment": ""
+  },
+  {
+    "line": 2926,
+    "key": "wuw_GER_reichskommissariats.1.t",
+    "ver": "",
+    "en": "The Leadership of Belgien-Nordfrankreich",
+    "comment": ""
+  },
+  {
+    "line": 2927,
+    "key": "wuw_GER_reichskommissariats.1.desc",
+    "ver": "",
+    "en": "Now that we have established a new civilian administration in Belgium and Northern France, we must decide not only on the purpose of our new subject, but also who will lead the people in the region, and ensure that our policies are properly implemented. Should we place a [ROOT.GetAdjective] politician in the position of Reichskommissar, or should we utilize a local collaborationist?",
+    "comment": ""
+  },
+  {
+    "line": 2928,
+    "key": "wuw_GER_reichskommissariats.1.a",
+    "ver": "",
+    "en": "They need a German Official",
+    "comment": ""
+  },
+  {
+    "line": 2929,
+    "key": "wuw_GER_reichskommissariats.1.b",
+    "ver": "",
+    "en": "It might be wise to use a local collaborator",
+    "comment": ""
+  },
+  {
+    "line": 2931,
+    "key": "wuw_GER_reichskommissariats.2.t",
+    "ver": "",
+    "en": "The Leadership of Niederlande",
+    "comment": ""
+  },
+  {
+    "line": 2932,
+    "key": "wuw_GER_reichskommissariats.2.desc",
+    "ver": "",
+    "en": "Now that we have established a new civilian administration in the Netherlands, we must decide not only on the purpose of our new subject, but also who will lead the people in the region, and ensure that our policies are properly implemented. Should we place a [ROOT.GetAdjective] politician in the position of Reichskommissar, or should we utilize a local collaborationist?",
+    "comment": ""
+  },
+  {
+    "line": 2933,
+    "key": "wuw_GER_reichskommissariats.2.a",
+    "ver": "",
+    "en": "They need a German Official",
+    "comment": ""
+  },
+  {
+    "line": 2934,
+    "key": "wuw_GER_reichskommissariats.2.b",
+    "ver": "",
+    "en": "It might be wise to use a local collaborator",
+    "comment": ""
+  },
+  {
+    "line": 2936,
+    "key": "wuw_GER_reichskommissariats.3.t",
+    "ver": "",
+    "en": "The Leadership of Norwegen",
+    "comment": ""
+  },
+  {
+    "line": 2937,
+    "key": "wuw_GER_reichskommissariats.3.desc",
+    "ver": "",
+    "en": "Now that we have established a new civilian administration in Norway, we must decide not only on the purpose of our new subject, but also who will lead the people in the region, and ensure that our policies are properly implemented. Should we place a [ROOT.GetAdjective] politician in the position of Reichskommissar, or should we utilize a local collaborationist?",
+    "comment": ""
+  },
+  {
+    "line": 2938,
+    "key": "wuw_GER_reichskommissariats.3.a",
+    "ver": "",
+    "en": "They need a German Official",
+    "comment": ""
+  },
+  {
+    "line": 2939,
+    "key": "wuw_GER_reichskommissariats.3.b",
+    "ver": "",
+    "en": "It might be wise to use a local collaborator",
+    "comment": ""
+  },
+  {
+    "line": 2941,
+    "key": "wuw_GER_reichskommissariats.4.t",
+    "ver": "",
+    "en": "The Leadership of Ukraine",
+    "comment": ""
+  },
+  {
+    "line": 2942,
+    "key": "wuw_GER_reichskommissariats.4.desc",
+    "ver": "",
+    "en": "Now that we have established a new civilian administration in Ukraine, we must decide not only on the purpose of our new subject, but also who will lead the people in the region, and ensure that our policies are properly implemented. Should we place a [ROOT.GetAdjective] politician in the position of Reichskommissar, or should we utilize a local collaborationist?",
+    "comment": ""
+  },
+  {
+    "line": 2943,
+    "key": "wuw_GER_reichskommissariats.4.a",
+    "ver": "",
+    "en": "They need a German Official",
+    "comment": ""
+  },
+  {
+    "line": 2944,
+    "key": "wuw_GER_reichskommissariats.4.b",
+    "ver": "",
+    "en": "It might be wise to use a local collaborator",
+    "comment": ""
+  },
+  {
+    "line": 2946,
+    "key": "wuw_GER_reichskommissariats.5.t",
+    "ver": "",
+    "en": "The Leadership of Ostland",
+    "comment": ""
+  },
+  {
+    "line": 2947,
+    "key": "wuw_GER_reichskommissariats.5.desc",
+    "ver": "",
+    "en": "Now that we have established a new civilian administration in Ostland, we must decide not only on the purpose of our new subject, but also who will lead the people in the region, and ensure that our policies are properly implemented. Should we place a [ROOT.GetAdjective] politician in the position of Reichskommissar, or should we utilize a local collaborationist?",
+    "comment": ""
+  },
+  {
+    "line": 2948,
+    "key": "wuw_GER_reichskommissariats.5.a",
+    "ver": "",
+    "en": "They need a German Official",
+    "comment": ""
+  },
+  {
+    "line": 2949,
+    "key": "wuw_GER_reichskommissariats.5.b",
+    "ver": "",
+    "en": "It might be wise to use a local collaborator",
+    "comment": ""
+  },
+  {
+    "line": 2951,
+    "key": "wuw_GER_reichskommissariats.6.t",
+    "ver": "",
+    "en": "The Leadership of Kaukasien",
+    "comment": ""
+  },
+  {
+    "line": 2952,
+    "key": "wuw_GER_reichskommissariats.6.desc",
+    "ver": "",
+    "en": "Now that we have established a new civilian administration in the Caucasus, we must decide not only on the purpose of our new subject, but also who will lead the people in the region, and ensure that our policies are properly implemented. Should we place a [ROOT.GetAdjective] politician in the position of Reichskommissar, or should we utilize a local collaborationist?",
+    "comment": ""
+  },
+  {
+    "line": 2953,
+    "key": "wuw_GER_reichskommissariats.6.a",
+    "ver": "",
+    "en": "They need a German Official",
+    "comment": ""
+  },
+  {
+    "line": 2954,
+    "key": "wuw_GER_reichskommissariats.6.b",
+    "ver": "",
+    "en": "It might be wise to use a local collaborator",
+    "comment": ""
+  },
+  {
+    "line": 2956,
+    "key": "wuw_GER_reichskommissariats.7.t",
+    "ver": "",
+    "en": "The Leadership of Turkestan",
+    "comment": ""
+  },
+  {
+    "line": 2957,
+    "key": "wuw_GER_reichskommissariats.7.desc",
+    "ver": "",
+    "en": "Now that we have established a new civilian administration in Turkestan, we must decide not only on the purpose of our new subject, but also who will lead the people in the region, and ensure that our policies are properly implemented. Should we place a [ROOT.GetAdjective] politician in the position of Reichskommissar, or should we utilize a local collaborationist?",
+    "comment": ""
+  },
+  {
+    "line": 2958,
+    "key": "wuw_GER_reichskommissariats.7.a",
+    "ver": "",
+    "en": "They need a German Official",
+    "comment": ""
+  },
+  {
+    "line": 2959,
+    "key": "wuw_GER_reichskommissariats.7.b",
+    "ver": "",
+    "en": "It might be wise to use a local collaborator",
+    "comment": ""
+  },
+  {
+    "line": 2961,
+    "key": "wuw_GER_reichskommissariats.8.t",
+    "ver": "",
+    "en": "The Leadership of Moskowien",
+    "comment": ""
+  },
+  {
+    "line": 2962,
+    "key": "wuw_GER_reichskommissariats.8.desc",
+    "ver": "",
+    "en": "Now that we have established a new civilian administration in Muscovy, we must decide not only on the purpose of our new subject, but also who will lead the people in the region, and ensure that our policies are properly implemented. Should we place a [ROOT.GetAdjective] politician in the position of Reichskommissar, or should we utilize a local collaborationist?",
+    "comment": ""
+  },
+  {
+    "line": 2963,
+    "key": "wuw_GER_reichskommissariats.8.a",
+    "ver": "",
+    "en": "They need a German Official",
+    "comment": ""
+  },
+  {
+    "line": 2964,
+    "key": "wuw_GER_reichskommissariats.8.b",
+    "ver": "",
+    "en": "It might be wise to use a local collaborator",
+    "comment": ""
+  },
+  {
+    "line": 2966,
+    "key": "wuw_GER_reichskommissariats.9.t",
+    "ver": "",
+    "en": "The Status of Volga Germany",
+    "comment": ""
+  },
+  {
+    "line": 2967,
+    "key": "wuw_GER_reichskommissariats.9.desc",
+    "ver": "",
+    "en": "[ROOT.GetLeader] has been vocal about wishing to turn the Volga German colony into a Reich territory and integrating it as far as possible. Many local administrators however think it would be wiser to govern it from a state closer by. How should the issue be dealt with?",
+    "comment": ""
+  },
+  {
+    "line": 2968,
+    "key": "wuw_GER_reichskommissariats.9.a",
+    "ver": "",
+    "en": "It should be turned into a Reichsgebiet!",
+    "comment": ""
+  },
+  {
+    "line": 2969,
+    "key": "wuw_GER_reichskommissariats.9.b",
+    "ver": "",
+    "en": "It should be incorporated into Moskowien",
+    "comment": ""
+  },
+  {
+    "line": 2970,
+    "key": "wuw_GER_reichskommissariats.9.c",
+    "ver": "",
+    "en": "It should be incorporated into Turkestan",
+    "comment": ""
+  },
+  {
+    "line": 2972,
+    "key": "wuw_GER_reichskommissariats.10.t",
+    "ver": "",
+    "en": "The Status of the Southern Urals",
+    "comment": ""
+  },
+  {
+    "line": 2973,
+    "key": "wuw_GER_reichskommissariats.10.desc",
+    "ver": "",
+    "en": "With the capture of the Southern Ural strategic zone, it has come into question how the region should be dealt with. Some plans include the area within Moskowien, whilst some propose that it could perhaps stand as its own state, or perhaps even be a part of Turkestan. What say we?",
+    "comment": ""
+  },
+  {
+    "line": 2974,
+    "key": "wuw_GER_reichskommissariats.10.a",
+    "ver": "",
+    "en": "It should be its own Reichskommissariat",
+    "comment": ""
+  },
+  {
+    "line": 2975,
+    "key": "wuw_GER_reichskommissariats.10.b",
+    "ver": "",
+    "en": "It should be incorporated into Moskowien",
+    "comment": ""
+  },
+  {
+    "line": 2976,
+    "key": "wuw_GER_reichskommissariats.10.c",
+    "ver": "",
+    "en": "It should be incorporated into Turkestan",
+    "comment": ""
+  },
+  {
+    "line": 2978,
+    "key": "wuw_GER_reichskommissariats.11.t",
+    "ver": "",
+    "en": "The Status of Eastern Karelia",
+    "comment": ""
+  },
+  {
+    "line": 2979,
+    "key": "wuw_GER_reichskommissariats.11.desc",
+    "ver": "",
+    "en": "With the capture of the East-Karelian strategic zone, it has come into question how the region should be dealt with. Some plans include the area within Moskowien, whilst some propose that it could perhaps be attached onto the Finnish state. What say we?",
+    "comment": ""
+  },
+  {
+    "line": 2980,
+    "key": "wuw_GER_reichskommissariats.11.a",
+    "ver": "",
+    "en": "Finland should be rewarded",
+    "comment": ""
+  },
+  {
+    "line": 2981,
+    "key": "wuw_GER_reichskommissariats.11.b",
+    "ver": "",
+    "en": "It should be incorporated into Moskowien",
+    "comment": ""
+  },
+  {
+    "line": 2983,
+    "key": "wuw_GER_reichskommissariats.12.t",
+    "ver": "",
+    "en": "The Leadership of the Generalgouvernement",
+    "comment": ""
+  },
+  {
+    "line": 2984,
+    "key": "wuw_GER_reichskommissariats.12.desc",
+    "ver": "",
+    "en": "Now that we have established a new civilian administration in Southern Poland, we must decide not only on the purpose of our new subject, but also who will lead the people in the region, and ensure that our policies are properly implemented. Should we place a [ROOT.GetAdjective] politician in the position of Governor-General, or should we utilize a local collaborationist?",
+    "comment": ""
+  },
+  {
+    "line": 2985,
+    "key": "wuw_GER_reichskommissariats.12.a",
+    "ver": "",
+    "en": "They need a German Official",
+    "comment": ""
+  },
+  {
+    "line": 2986,
+    "key": "wuw_GER_reichskommissariats.12.b",
+    "ver": "",
+    "en": "It might be wise to use a local collaborator",
+    "comment": ""
+  },
+  {
+    "line": 2988,
+    "key": "wuw_GER_reichskommissariats.13.t",
+    "ver": "",
+    "en": "The Leadership of Böhmen-Mähren",
+    "comment": ""
+  },
+  {
+    "line": 2989,
+    "key": "wuw_GER_reichskommissariats.13.desc",
+    "ver": "",
+    "en": "Now that we have established a new civilian administration in Bohemia and Moravia, we must decide not only on the purpose of our new subject, but also who will lead the people in the region, and ensure that our policies are properly implemented. Should we place a [ROOT.GetAdjective] politician in the position of Reichsprotektor, or should we utilize a local collaborationist?",
+    "comment": ""
+  },
+  {
+    "line": 2990,
+    "key": "wuw_GER_reichskommissariats.13.a",
+    "ver": "",
+    "en": "They need a German Official",
+    "comment": ""
+  },
+  {
+    "line": 2991,
+    "key": "wuw_GER_reichskommissariats.13.b",
+    "ver": "",
+    "en": "It might be wise to use a local collaborator",
+    "comment": ""
+  },
+  {
+    "line": 2993,
+    "key": "wuw_GER_reichskommissariats.14.t",
+    "ver": "",
+    "en": "The Leadership of Iberien",
+    "comment": ""
+  },
+  {
+    "line": 2994,
+    "key": "wuw_GER_reichskommissariats.14.desc",
+    "ver": "",
+    "en": "Now that we have established a new civilian administration in Iberia, we must decide not only on the purpose of our new subject, but also who will lead the people in the region, and ensure that our policies are properly implemented. Should we place a [ROOT.GetAdjective] politician in the position of Reichskommissar, or should we utilize a local collaborationist?",
+    "comment": ""
+  },
+  {
+    "line": 2995,
+    "key": "wuw_GER_reichskommissariats.14.a",
+    "ver": "",
+    "en": "They need a German Official",
+    "comment": ""
+  },
+  {
+    "line": 2996,
+    "key": "wuw_GER_reichskommissariats.14.b",
+    "ver": "",
+    "en": "It might be wise to use a local collaborator",
+    "comment": ""
+  },
+  {
+    "line": 2998,
+    "key": "wuw_GER_reichskommissariats.15.t",
+    "ver": "",
+    "en": "The Leadership of Balkan",
+    "comment": ""
+  },
+  {
+    "line": 2999,
+    "key": "wuw_GER_reichskommissariats.15.desc",
+    "ver": "",
+    "en": "Now that we have established a new civilian administration in the Balkan commissariat, we must decide not only on the purpose of our new subject, but also who will lead the people in the region, and ensure that our policies are properly implemented. Should we place a [ROOT.GetAdjective] politician in the position of Reichskommissar, or should we utilize a local collaborationist?",
+    "comment": ""
+  },
+  {
+    "line": 3000,
+    "key": "wuw_GER_reichskommissariats.15.a",
+    "ver": "",
+    "en": "They need a German Official",
+    "comment": ""
+  },
+  {
+    "line": 3001,
+    "key": "wuw_GER_reichskommissariats.15.b",
+    "ver": "",
+    "en": "It might be wise to use a local collaborator",
+    "comment": ""
+  },
+  {
+    "line": 3003,
+    "key": "wuw_GER_reichskommissariats.16.t",
+    "ver": "",
+    "en": "The Leadership of Großbritannien",
+    "comment": ""
+  },
+  {
+    "line": 3004,
+    "key": "wuw_GER_reichskommissariats.16.desc",
+    "ver": "",
+    "en": "Now that we have established a new civilian administration in Great Britain, we must decide not only on the purpose of our new subject, but also who will lead the people in the region, and ensure that our policies are properly implemented. Should we place a [ROOT.GetAdjective] politician in the position of Reichskommissar, or should we utilize a local collaborationist?",
+    "comment": ""
+  },
+  {
+    "line": 3005,
+    "key": "wuw_GER_reichskommissariats.16.a",
+    "ver": "",
+    "en": "They need a German Official",
+    "comment": ""
+  },
+  {
+    "line": 3006,
+    "key": "wuw_GER_reichskommissariats.16.b",
+    "ver": "",
+    "en": "It might be wise to use a local collaborator",
+    "comment": ""
+  },
+  {
+    "line": 3008,
+    "key": "wuw_GER_reichskommissariats.17.t",
+    "ver": "",
+    "en": "The Status of Slovakia",
+    "comment": ""
+  },
+  {
+    "line": 3009,
+    "key": "wuw_GER_reichskommissariats.17.desc",
+    "ver": "",
+    "en": "With the capture of the Slovakian strategic zone, it has come into question how the region should be dealt with. Some plans include the area within Balkan, whilst some propose that it could perhaps be attached onto the Bohemian state. or potentially even integrated into the Greater German one. What say we?",
+    "comment": ""
+  },
+  {
+    "line": 3010,
+    "key": "wuw_GER_reichskommissariats.17.a",
+    "ver": "",
+    "en": "Hungary should be rewarded",
+    "comment": ""
+  },
+  {
+    "line": 3011,
+    "key": "wuw_GER_reichskommissariats.17.b",
+    "ver": "",
+    "en": "It should be incorporated into Balkan",
+    "comment": ""
+  },
+  {
+    "line": 3012,
+    "key": "wuw_GER_reichskommissariats.17.c",
+    "ver": "",
+    "en": "It should be incorporated into Böhmen-Mähren",
+    "comment": ""
+  },
+  {
+    "line": 3013,
+    "key": "wuw_GER_reichskommissariats.17.d",
+    "ver": "",
+    "en": "It should be incorporated into our realm",
+    "comment": ""
+  },
+  {
+    "line": 3015,
+    "key": "wuw_GER_reichskommissariats.18.t",
+    "ver": "",
+    "en": "The Leadership of Mittelafrika",
+    "comment": ""
+  },
+  {
+    "line": 3016,
+    "key": "wuw_GER_reichskommissariats.18.desc",
+    "ver": "",
+    "en": "Now that we have established a new civilian administration in Central Africa, we must decide not only on the purpose of our new subject, but also who will lead the people in the region, and ensure that our policies are properly implemented. Should we place a [ROOT.GetAdjective] politician in the position of Reichskommissar, or should we utilize a local collaborationist?",
+    "comment": ""
+  },
+  {
+    "line": 3017,
+    "key": "wuw_GER_reichskommissariats.18.a",
+    "ver": "",
+    "en": "They need a German Official",
+    "comment": ""
+  },
+  {
+    "line": 3018,
+    "key": "wuw_GER_reichskommissariats.18.b",
+    "ver": "",
+    "en": "It might be wise to use a local collaborator",
+    "comment": ""
+  },
+  {
+    "line": 3020,
+    "key": "wuw_GER_reichskommissariats.19.t",
+    "ver": "",
+    "en": "The Leadership of Klein-Venedig",
+    "comment": ""
+  },
+  {
+    "line": 3021,
+    "key": "wuw_GER_reichskommissariats.19.desc",
+    "ver": "",
+    "en": "Now that we have established a new civilian administration in Klein-Venedig, we must decide not only on the purpose of our new subject, but also who will lead the people in the region, and ensure that our policies are properly implemented. Should we place a [ROOT.GetAdjective] politician in the position of Reichskommissar, or should we utilize a local collaborationist?",
+    "comment": ""
+  },
+  {
+    "line": 3022,
+    "key": "wuw_GER_reichskommissariats.19.a",
+    "ver": "",
+    "en": "They need a German Official",
+    "comment": ""
+  },
+  {
+    "line": 3023,
+    "key": "wuw_GER_reichskommissariats.19.b",
+    "ver": "",
+    "en": "It might be wise to use a local collaborator",
+    "comment": ""
+  },
+  {
+    "line": 3025,
+    "key": "wuw_GER_reichskommissariats.20.t",
+    "ver": "",
+    "en": "The Leadership of Anden",
+    "comment": ""
+  },
+  {
+    "line": 3026,
+    "key": "wuw_GER_reichskommissariats.20.desc",
+    "ver": "",
+    "en": "Now that we have established a new civilian administration in the Andes, we must decide not only on the purpose of our new subject, but also who will lead the people in the region, and ensure that our policies are properly implemented. Should we place a [ROOT.GetAdjective] politician in the position of Reichskommissar, or should we utilize a local collaborationist?",
+    "comment": ""
+  },
+  {
+    "line": 3027,
+    "key": "wuw_GER_reichskommissariats.20.a",
+    "ver": "",
+    "en": "They need a German Official",
+    "comment": ""
+  },
+  {
+    "line": 3028,
+    "key": "wuw_GER_reichskommissariats.20.b",
+    "ver": "",
+    "en": "It might be wise to use a local collaborator",
+    "comment": ""
+  },
+  {
+    "line": 3030,
+    "key": "wuw_GER_reichskommissariats.21.t",
+    "ver": "",
+    "en": "The Leadership of Kolumbus",
+    "comment": ""
+  },
+  {
+    "line": 3031,
+    "key": "wuw_GER_reichskommissariats.21.desc",
+    "ver": "",
+    "en": "Now that we have established a new civilian administration in the Caribbean, we must decide not only on the purpose of our new subject, but also who will lead the people in the region, and ensure that our policies are properly implemented. Should we place a [ROOT.GetAdjective] politician in the position of Reichskommissar, or should we utilize a local collaborationist?",
+    "comment": ""
+  },
+  {
+    "line": 3032,
+    "key": "wuw_GER_reichskommissariats.21.a",
+    "ver": "",
+    "en": "They need a German Official",
+    "comment": ""
+  },
+  {
+    "line": 3033,
+    "key": "wuw_GER_reichskommissariats.21.b",
+    "ver": "",
+    "en": "It might be wise to use a local collaborator",
+    "comment": ""
+  },
+  {
+    "line": 3035,
+    "key": "wuw_GER_reichskommissariats.22.t",
+    "ver": "",
+    "en": "The Leadership of Nordamerika",
+    "comment": ""
+  },
+  {
+    "line": 3036,
+    "key": "wuw_GER_reichskommissariats.22.desc",
+    "ver": "",
+    "en": "Now that we have established a new civilian administration in North America, we must decide not only on the purpose of our new subject, but also who will lead the people in the region, and ensure that our policies are properly implemented. Should we place a [ROOT.GetAdjective] politician in the position of Reichskommissar, or should we utilize a local collaborationist?",
+    "comment": ""
+  },
+  {
+    "line": 3037,
+    "key": "wuw_GER_reichskommissariats.22.a",
+    "ver": "",
+    "en": "They need a German Official",
+    "comment": ""
+  },
+  {
+    "line": 3038,
+    "key": "wuw_GER_reichskommissariats.22.b",
+    "ver": "",
+    "en": "It might be wise to use a local collaborator",
+    "comment": ""
+  },
+  {
+    "line": 3040,
+    "key": "wuw_GER_reichskommissariats.23.t",
+    "ver": "",
+    "en": "The Status of the American West Coast",
+    "comment": ""
+  },
+  {
+    "line": 3041,
+    "key": "wuw_GER_reichskommissariats.23.desc",
+    "ver": "",
+    "en": "With the capture of the American West-Coast strategic zone, it has come into question how the region should be dealt with. Some plans include the area within Nordamerika, whilst some propose that it could perhaps be attached onto the Kolumbian state. Some even advocate for it to be granted to [JAP.GetNameDef]. What say we?",
+    "comment": ""
+  },
+  {
+    "line": 3042,
+    "key": "wuw_GER_reichskommissariats.23.a",
+    "ver": "",
+    "en": "Treaties with Japan should be honored",
+    "comment": ""
+  },
+  {
+    "line": 3043,
+    "key": "wuw_GER_reichskommissariats.23.b",
+    "ver": "",
+    "en": "It should be incorporated into Nordamerika",
+    "comment": ""
+  },
+  {
+    "line": 3044,
+    "key": "wuw_GER_reichskommissariats.23.c",
+    "ver": "",
+    "en": "It should be incorporated into Kolumbus",
+    "comment": ""
+  },
+  {
+    "line": 3046,
+    "key": "wuw_GER_reichskommissariats.24.t",
+    "ver": "",
+    "en": "The Leadership of Arabien",
+    "comment": ""
+  },
+  {
+    "line": 3047,
+    "key": "wuw_GER_reichskommissariats.24.desc",
+    "ver": "",
+    "en": "Now that we have established a new civilian administration in Arabia, we must decide not only on the purpose of our new subject, but also who will lead the people in the region, and ensure that our policies are properly implemented. Should we place a [ROOT.GetAdjective] politician in the position of Reichskommissar, or should we utilize a local collaborationist?",
+    "comment": ""
+  },
+  {
+    "line": 3048,
+    "key": "wuw_GER_reichskommissariats.24.a",
+    "ver": "",
+    "en": "They need a German Official",
+    "comment": ""
+  },
+  {
+    "line": 3049,
+    "key": "wuw_GER_reichskommissariats.24.b",
+    "ver": "",
+    "en": "It might be wise to use a local collaborator",
+    "comment": ""
+  },
+  {
+    "line": 3051,
+    "key": "wuw_GER_reichskommissariats.25.t",
+    "ver": "",
+    "en": "The Leadership of Großhindustan",
+    "comment": ""
+  },
+  {
+    "line": 3052,
+    "key": "wuw_GER_reichskommissariats.25.desc",
+    "ver": "",
+    "en": "Now that we have established a new civilian administration in Hindustan, we must decide not only on the purpose of our new subject, but also who will lead the people in the region, and ensure that our policies are properly implemented. Should we place a [ROOT.GetAdjective] politician in the position of Reichskommissar, or should we utilize a local collaborationist?",
+    "comment": ""
+  },
+  {
+    "line": 3053,
+    "key": "wuw_GER_reichskommissariats.25.a",
+    "ver": "",
+    "en": "They need a German Official",
+    "comment": ""
+  },
+  {
+    "line": 3054,
+    "key": "wuw_GER_reichskommissariats.25.b",
+    "ver": "",
+    "en": "It might be wise to use a local collaborator",
+    "comment": ""
+  },
+  {
+    "line": 3056,
+    "key": "wuw_GER_reichskommissariats.26.t",
+    "ver": "",
+    "en": "The Leadership of Ostasien",
+    "comment": ""
+  },
+  {
+    "line": 3057,
+    "key": "wuw_GER_reichskommissariats.26.desc",
+    "ver": "",
+    "en": "Now that we have established a new civilian administration in East Asia, we must decide not only on the purpose of our new subject, but also who will lead the people in the region, and ensure that our policies are properly implemented. Should we place a [ROOT.GetAdjective] politician in the position of Reichskommissar, or should we utilize a local collaborationist?",
+    "comment": ""
+  },
+  {
+    "line": 3058,
+    "key": "wuw_GER_reichskommissariats.26.a",
+    "ver": "",
+    "en": "They need a German Official",
+    "comment": ""
+  },
+  {
+    "line": 3059,
+    "key": "wuw_GER_reichskommissariats.26.b",
+    "ver": "",
+    "en": "It might be wise to use a local collaborator",
+    "comment": ""
+  },
+  {
+    "line": 3061,
+    "key": "wuw_GER_reichskommissariats.27.t",
+    "ver": "",
+    "en": "The Leadership of Australasien",
+    "comment": ""
+  },
+  {
+    "line": 3062,
+    "key": "wuw_GER_reichskommissariats.27.desc",
+    "ver": "",
+    "en": "Now that we have established a new civilian administration in Australasia, we must decide not only on the purpose of our new subject, but also who will lead the people in the region, and ensure that our policies are properly implemented. Should we place a [ROOT.GetAdjective] politician in the position of Reichskommissar, or should we utilize a local collaborationist?",
+    "comment": ""
+  },
+  {
+    "line": 3063,
+    "key": "wuw_GER_reichskommissariats.27.a",
+    "ver": "",
+    "en": "They need a German Official",
+    "comment": ""
+  },
+  {
+    "line": 3064,
+    "key": "wuw_GER_reichskommissariats.27.b",
+    "ver": "",
+    "en": "It might be wise to use a local collaborator",
+    "comment": ""
+  },
+  {
+    "line": 3066,
+    "key": "wuw_GER_realpolitik.1.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Invites us to an Alliance",
+    "comment": ""
+  },
+  {
+    "line": 3067,
+    "key": "wuw_GER_realpolitik.1.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] of [FROM.GetNameDef] has arrived at our capital today extending an offer to us. They wish for us to join their alliance, and take part in any and all previously established partnerships and unions. Will we accept this offer?",
+    "comment": ""
+  },
+  {
+    "line": 3068,
+    "key": "wuw_GER_realpolitik.1.a",
+    "ver": "",
+    "en": "We humbly accept this offer",
+    "comment": ""
+  },
+  {
+    "line": 3069,
+    "key": "wuw_GER_realpolitik.1.b",
+    "ver": "",
+    "en": "We do not need their friendship!",
+    "comment": ""
+  },
+  {
+    "line": 3071,
+    "key": "wuw_GER_realpolitik.2.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Accepts our offer",
+    "comment": ""
+  },
+  {
+    "line": 3072,
+    "key": "wuw_GER_realpolitik.2.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] of [FROM.GetNameDef] has responded favorably to our offer, and their diplomats have arrived in our nation to sign the necessarily documents to facilitate their full entry into our alliance.",
+    "comment": ""
+  },
+  {
+    "line": 3073,
+    "key": "wuw_GER_realpolitik.2.a",
+    "ver": "",
+    "en": "Very good",
+    "comment": ""
+  },
+  {
+    "line": 3075,
+    "key": "wuw_GER_realpolitik.3.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Rejects our offer",
+    "comment": ""
+  },
+  {
+    "line": 3076,
+    "key": "wuw_GER_realpolitik.3.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] of [FROM.GetNameDef] has responded to our alliance invitation with strong displeasure, and claims that any sort of partnership between our countries is and will forever be off the table. What do they think we are, some sort of conquerors?",
+    "comment": ""
+  },
+  {
+    "line": 3077,
+    "key": "wuw_GER_realpolitik.3.a",
+    "ver": "",
+    "en": "They are missing out...",
+    "comment": ""
+  },
+  {
+    "line": 3079,
+    "key": "wuw_GER_realpolitik.4.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Sends Military Support",
+    "comment": ""
+  },
+  {
+    "line": 3080,
+    "key": "wuw_GER_realpolitik.4.desc",
+    "ver": "",
+    "en": "The [FROM.GetAdjective]s want to support us in our war effort and have sent some equipment. It's a rather small shipment but any aid is accepted.",
+    "comment": ""
+  },
+  {
+    "line": 3081,
+    "key": "wuw_GER_realpolitik.4.a",
+    "ver": "",
+    "en": "This will surely come in handy",
+    "comment": ""
+  },
+  {
+    "line": 3083,
+    "key": "wuw_GER_weltpolitik.16.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Establishes Spheres of Influence",
+    "comment": ""
+  },
+  {
+    "line": 3084,
+    "key": "wuw_GER_weltpolitik.16.desc",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] has informed us that they have established a Sphere of Influence. While it does not directly affect us, as there is no formal agreement, it is something that we need to be aware of. They might be attempting to push this upon us or demand territory from us should we come into control of it.",
+    "comment": ""
+  },
+  {
+    "line": 3085,
+    "key": "wuw_GER_weltpolitik.16.a",
+    "ver": "",
+    "en": "We will conquer the world, together!",
+    "comment": ""
+  },
+  {
+    "line": 3086,
+    "key": "wuw_GER_weltpolitik.16.b",
+    "ver": "",
+    "en": "No way!",
+    "comment": ""
+  },
+  {
+    "line": 3088,
+    "key": "wuw_GER_weltpolitik.17.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Agrees to the Setup of Spheres of Influence",
+    "comment": ""
+  },
+  {
+    "line": 3089,
+    "key": "wuw_GER_weltpolitik.17.desc",
+    "ver": "",
+    "en": "We have received word from the [FROM.GetAdjective]s that they approve of the idea of setting up our Spheres of Influences. This will prevent hostilities and lessen the risk of conflict over lands in our immediate area.",
+    "comment": ""
+  },
+  {
+    "line": 3090,
+    "key": "wuw_GER_weltpolitik.17.a",
+    "ver": "",
+    "en": "Great!",
+    "comment": ""
+  },
+  {
+    "line": 3092,
+    "key": "wuw_GER_weltpolitik.18.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Rejects the Setup of Spheres of Influence",
+    "comment": ""
+  },
+  {
+    "line": 3093,
+    "key": "wuw_GER_weltpolitik.18.desc",
+    "ver": "",
+    "en": "We have received word from the [FROM.GetAdjective]s that they will refuse to acknowledge and recognize our sphere of influence, as for their own they have stated that they will decide their own sphere of influence, without involvement from our side. This may cause some tensions in the area.",
+    "comment": ""
+  },
+  {
+    "line": 3094,
+    "key": "wuw_GER_weltpolitik.18.a",
+    "ver": "",
+    "en": "How Rude!",
+    "comment": ""
+  },
+  {
+    "line": 3096,
+    "key": "wuw_GER_weltpolitik.19.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Demands Control of our [ANG.GetAdjective] Territories",
+    "comment": ""
+  },
+  {
+    "line": 3097,
+    "key": "wuw_GER_weltpolitik.19.desc",
+    "ver": "",
+    "en": "The rash [FROM.GetLeader] has recently denounced our, as he stated it, unlawful occupation of [FROM.GetAdjective] Angola. Now, we have received a [FROM.GetAdjective] ultimatum, and their troops are amassing on our border. How should we respond?",
+    "comment": ""
+  },
+  {
+    "line": 3098,
+    "key": "wuw_GER_weltpolitik.19.a",
+    "ver": "",
+    "en": "It is not worth shedding any blood over",
+    "comment": ""
+  },
+  {
+    "line": 3099,
+    "key": "wuw_GER_weltpolitik.19.b",
+    "ver": "",
+    "en": "Then come and get it!",
+    "comment": ""
+  },
+  {
+    "line": 3101,
+    "key": "wuw_GER_weltpolitik.20.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] hands over their [ANG.GetAdjective] Territories",
+    "comment": ""
+  },
+  {
+    "line": 3102,
+    "key": "wuw_GER_weltpolitik.20.desc",
+    "ver": "",
+    "en": "The reasonable [FROM.GetLeader] of [FROM.GetNameDef] has agreed to hand over their territories in Angola, and has told their troops to stand down and withdraw from the area. We stand victorious once again!",
+    "comment": ""
+  },
+  {
+    "line": 3103,
+    "key": "wuw_GER_weltpolitik.20.a",
+    "ver": "",
+    "en": "This is a great day!",
+    "comment": ""
+  },
+  {
+    "line": 3105,
+    "key": "wuw_GER_weltpolitik.21.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Stands Firm in Angola",
+    "comment": ""
+  },
+  {
+    "line": 3106,
+    "key": "wuw_GER_weltpolitik.21.desc",
+    "ver": "",
+    "en": "Though not entirely unexpected, the foolish [FROM.GetLeader] of [FROM.GetNameDef] has put the nation's troops on high alert after receiving our ultimatum, and sent an envoy stating that they will not take one single step back regarding the dispute.",
+    "comment": ""
+  },
+  {
+    "line": 3107,
+    "key": "wuw_GER_weltpolitik.21.a",
+    "ver": "",
+    "en": "They will come to regret their decision!",
+    "comment": ""
+  },
+  {
+    "line": 3108,
+    "key": "wuw_GER_weltpolitik.21.b",
+    "ver": "",
+    "en": "We must let this go",
+    "comment": ""
+  },
+  {
+    "line": 3110,
+    "key": "wuw_GER_realpolitik.5.t",
+    "ver": "",
+    "en": "The [LIT.GetAdjective] Question",
+    "comment": ""
+  },
+  {
+    "line": 3111,
+    "key": "wuw_GER_realpolitik.5.desc",
+    "ver": "",
+    "en": "As was stated in the treaty of Brest-Litovsk, the lands known currently as Lithuania were to become a client state of ours, though the exact details hadn't been completely hashed out. Now that it has once again become relevant we must decide, how shall we deal with [LIT.GetNameDef]?",
+    "comment": ""
+  },
+  {
+    "line": 3112,
+    "key": "wuw_GER_realpolitik.5.a",
+    "ver": "",
+    "en": "They should be incorporated into [ROOT.GetNameDef]",
+    "comment": ""
+  },
+  {
+    "line": 3113,
+    "key": "wuw_GER_realpolitik.5.b",
+    "ver": "",
+    "en": "Perhaps we could make them our client state",
+    "comment": ""
+  },
+  {
+    "line": 3115,
+    "key": "wuw_GER_realpolitik.6.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Demands our Annexation",
+    "comment": ""
+  },
+  {
+    "line": 3116,
+    "key": "wuw_GER_realpolitik.6.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] of [FROM.GetNameDef] has demanded that we submit to their rule and become an autonomous region within their nation, as was originally laid out in the treaty of Brest-Litovsk way back when. Should we give in to their demands?",
+    "comment": ""
+  }
+]

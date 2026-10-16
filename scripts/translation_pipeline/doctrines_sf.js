@@ -1,0 +1,21 @@
+module.exports = {
+  "GRAND_DOCTRINE_SPECIAL_FORCES_QUANTITY": "Pasukan Khusus Diperluas",
+  "GRAND_DOCTRINE_SPECIAL_FORCES_QUALITY": "Pasukan Khusus Elite",
+  "mountaineers_1_reward_1": "Pelatihan Cuaca Dingin",
+  "mountaineers_2_reward_4": "Adaptasi terhadap Kesulitan",
+  "mountaineers_2_reward_5": "Pelajaran Perang Gunung",
+  "marines_1_reward_1": "Organisasi Komando Marinir",
+  "marines_1_reward_4": "Ekspansi Korps Marinir",
+  "marines_2_reward_2": "Peningkatan Koordinasi Artileri",
+  "marines_2_reward_3": "Mempertahankan Pangkalan Pendaratan",
+  "SUBDOCTRINE_PARATROOPERS_1": "Regu Sabotase",
+  "paratroopers_1_reward_1": "Misi Sabotase",
+  "paratroopers_1_reward_2": "Pelatihan Bertahan Hidup",
+  "paratroopers_1_reward_3": "Berbagi Pengetahuan Antar-Cabang",
+  "SUBDOCTRINE_PARATROOPERS_2": "Penerjunan Terkonsentrasi",
+  "paratroopers_2_reward_2": "Percepatan Proses Pelatihan",
+  "SUBDOCTRINE_RANGERS_1": "Tradisi Jaeger",
+  "rangers_2_reward_3": "Gerilyawan Hutan",
+  "rangers_2_reward_4": "Brigade Pelatihan Ranger",
+  "rangers_2_reward_5": "Mendirikan Sekolah Ranger"
+};

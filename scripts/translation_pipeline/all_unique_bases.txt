@@ -1,0 +1,322 @@
+Aceh
+Afghanistan
+Africa Orientale Italiana
+Ainu
+Albania
+Algeria
+America
+Andalusia
+Angola
+Antilles
+Arab Emirates
+Argentina
+Armenia
+Assyria
+Australia
+Austria
+Azerbaijan
+Baden-Württemberg
+Bahamas
+Bahrain
+Bali
+Balochistan
+Bangladesh
+Barotseland
+Basque Country
+Bavaria
+Belarus
+Belgium
+Belize
+Benin
+Bhutan
+Biafra
+Bolivia
+Bosnia
+Botswana
+Bougainville
+Brazil
+Britain
+Brittany
+Brunei
+Bulgaria
+Burma
+Burundi
+Cabo Verde
+Cambodia
+Cameroon
+Canada
+Carpatho-Ukraine
+Catalonia
+Central African Republic
+Central Arabia
+Central Indian Princely States
+Chad
+Champa
+Champasak
+Charrúa Nation
+Chile
+China
+Colombia
+Confederation of America
+Congo
+Corsica
+Costa Rica
+Croatia
+Cuba
+Cyprus
+Czechoslovakia
+Côte d'Ivoire
+Dalmatia
+Danzig
+Denmark
+Djibouti
+Dominican Republic
+Don Republic
+East Timor
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Evenkia
+Ezo
+Federation of South Arabia
+Fiji
+Finland
+Formosa
+France
+Gabon
+Galicia
+Galicia and Lodomeria
+Gansu Ma
+Generalgouvernement
+Georgia
+Germany
+Ghana
+Gowa
+Grand Duchy of Tuscany
+Greece
+Greenland
+Guadeloupe
+Guangdong
+Guangxi
+Guaraní Nation
+Guatemala
+Guiana
+Guinea
+Guinea-Bissau
+Gujarat
+Guyana
+Haiti
+Hannover
+Hawai'i
+Hebei-Chahar
+Herzegovina
+Hesse
+Honduras
+Hungary
+Hyderabad
+Iceland
+Imamate of Oman
+India
+Indian Partisans
+Indonesia
+Inuit
+Iran
+Iraq
+Ireland
+Israel
+Isthmo-Amerindia
+Italy
+Itza State
+Jamaica
+Jan Mayen
+Japan
+Jordan
+Kalat
+Kashmir
+Kashubia
+Katanga
+Kazakhstan
+Kenya
+Khalistan
+Khotan Ma
+Kingdom of Lombardy-Venetia
+Kingdom of the Two Sicilies
+Kolhapur and Deccan States
+Korea
+Kosovo
+Kuban People's Republic
+Kumul Khanate
+Kurdistan
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Liberia
+Libya
+Lithuania
+Luxembourg
+Macedonia
+Madagascar
+Madras States
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Manipur
+Mariana Islands
+Mauritania
+Maya
+Mecklenburg
+Mengkukuo
+Mexico
+Micronesia
+Moldova
+Mongolia
+Montenegro
+Morocco
+Mosquitia
+Mozambique
+Mysore
+Nahua Nation
+Namibia
+Neo-Inca State
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Ningxia Ma
+North-Western Frontier Provinces
+Northern Ireland
+Norway
+Occitania
+Okinawa
+Oman
+Pakistan
+Palau
+Palestine
+Panama
+Papal States
+Papua
+Paraguay
+Pashtunistan
+Peru
+Philippines
+Poland
+Pontianak
+Portugal
+Protektorat Böhmen und Mähren
+Prussia
+Puerto Rico
+Qatar
+Qinghai Ma
+Québec
+Rajputana
+Rapa Nui
+Regno del Sud
+Reichskommissariat Anden
+Reichskommissariat Arabien
+Reichskommissariat Australasien
+Reichskommissariat Balkan
+Reichskommissariat Belgien-Nordfrankreich
+Reichskommissariat Großbritannien
+Reichskommissariat Hindustan
+Reichskommissariat Iberien
+Reichskommissariat Kaukasien
+Reichskommissariat Klein-Venedig
+Reichskommissariat Kolumbus
+Reichskommissariat Mittelafrika
+Reichskommissariat Moskowien
+Reichskommissariat Niederlande
+Reichskommissariat Nordafrika
+Reichskommissariat Nordamerika
+Reichskommissariat Norwegen
+Reichskommissariat Ostasien
+Reichskommissariat Ostland
+Reichskommissariat Turkestan
+Reichskommissariat Ukraine
+Reichskommissariat Ural
+Repubblica Sociale Italiana
+Republic of the Rio Grande
+Rhineland
+Romania
+Russia
+Rwanda
+Sabah
+Samoa
+Sarawak
+Sardinia-Piedmont
+Saxony
+Schleswig
+Scotland
+Senegal
+Serbia
+Shandong
+Shanxi
+Siak
+Siam
+Sichuan
+Sierra Leone
+Sikkim
+Silesia
+Sindh
+Singapore
+Sinkiang
+Slovakia
+Slovenia
+Sokoto
+Solomon Islands
+Somalia
+South Africa
+Spain
+Sri Lanka
+Sudan
+Sudetenland
+Suriname
+Sweden
+Switzerland
+Syria
+Sápmi
+Tahiti
+Tajikistan
+Tannu Tuva
+Tanzania
+Ternate
+The Gambia
+Thuringia
+Tibet
+Togo
+Transylvania
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Uganda
+Ukraine
+Unaligned States of America
+United Baltic Duchy
+Upper Volta
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela
+Vietnam
+Vojvodina
+Wales
+West Papua
+Western Sahara
+Xi'an
+Y Wladfa
+Yemen
+Yucatán
+Yugoslavia
+Yunnan
+Zambia
+Zimbabwe

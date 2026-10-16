@@ -1,0 +1,3404 @@
+[
+  {
+    "line_idx": 2,
+    "type": "key_val",
+    "indent": " ",
+    "key": "EQ_MOD_CAT_ship_light_battery_TITLE",
+    "version": "",
+    "value": "Rapid Fire Guns",
+    "comment": ""
+  },
+  {
+    "line_idx": 3,
+    "type": "key_val",
+    "indent": " ",
+    "key": "EQ_MOD_CAT_ship_sub_snorkel_TITLE",
+    "version": "",
+    "value": "Snorkel",
+    "comment": ""
+  },
+  {
+    "line_idx": 4,
+    "type": "key_val",
+    "indent": " ",
+    "key": "EQ_MOD_CAT_ship_torpedo_TITLE",
+    "version": "",
+    "value": "Torpedo Launchers",
+    "comment": ""
+  },
+  {
+    "line_idx": 5,
+    "type": "key_val",
+    "indent": " ",
+    "key": "EQ_MOD_CAT_ship_airplane_launcher_TITLE",
+    "version": "",
+    "value": "Aircraft Facilities",
+    "comment": ""
+  },
+  {
+    "line_idx": 6,
+    "type": "key_val",
+    "indent": " ",
+    "key": "EQ_MOD_CAT_ship_torpedo_sub_TITLE",
+    "version": "",
+    "value": "Torpedo Room",
+    "comment": ""
+  },
+  {
+    "line_idx": 7,
+    "type": "key_val",
+    "indent": " ",
+    "key": "EQ_MOD_CAT_ship_secondaries_TITLE",
+    "version": "",
+    "value": "Secondary Battery",
+    "comment": ""
+  },
+  {
+    "line_idx": 8,
+    "type": "key_val",
+    "indent": " ",
+    "key": "EQ_MOD_CAT_ship_medium_battery_TITLE",
+    "version": "",
+    "value": "Medium Battery",
+    "comment": ""
+  },
+  {
+    "line_idx": 9,
+    "type": "key_val",
+    "indent": " ",
+    "key": "EQ_MOD_CAT_ship_light_medium_battery_TITLE",
+    "version": "",
+    "value": "Light Medium Battery",
+    "comment": ""
+  },
+  {
+    "line_idx": 10,
+    "type": "key_val",
+    "indent": " ",
+    "key": "EQ_MOD_CAT_ship_heavy_battery_TITLE",
+    "version": "",
+    "value": "Heavy Battery",
+    "comment": ""
+  },
+  {
+    "line_idx": 11,
+    "type": "key_val",
+    "indent": " ",
+    "key": "EQ_MOD_CAT_ship_super_heavy_battery_TITLE",
+    "version": "",
+    "value": "Super Heavy Battery",
+    "comment": ""
+  },
+  {
+    "line_idx": 12,
+    "type": "key_val",
+    "indent": " ",
+    "key": "EQ_MOD_CAT_light_ship_engine_TITLE",
+    "version": "",
+    "value": "Destroyer Engines",
+    "comment": ""
+  },
+  {
+    "line_idx": 13,
+    "type": "key_val",
+    "indent": " ",
+    "key": "EQ_MOD_CAT_cruiser_ship_engine_TITLE",
+    "version": "",
+    "value": "Cruiser Engines",
+    "comment": ""
+  },
+  {
+    "line_idx": 14,
+    "type": "key_val",
+    "indent": " ",
+    "key": "EQ_MOD_CAT_heavy_ship_engine_TITLE",
+    "version": "",
+    "value": "Heavy Ship Engines",
+    "comment": ""
+  },
+  {
+    "line_idx": 15,
+    "type": "key_val",
+    "indent": " ",
+    "key": "EQ_MOD_CAT_carrier_ship_engine_TITLE",
+    "version": "",
+    "value": "Carrier Engines",
+    "comment": ""
+  },
+  {
+    "line_idx": 16,
+    "type": "key_val",
+    "indent": " ",
+    "key": "EQ_MOD_CAT_sub_ship_engine_TITLE",
+    "version": "",
+    "value": "Submarine Engines",
+    "comment": ""
+  },
+  {
+    "line_idx": 17,
+    "type": "key_val",
+    "indent": " ",
+    "key": "EQ_MOD_CAT_ship_radar_TITLE",
+    "version": "",
+    "value": "Radar",
+    "comment": ""
+  },
+  {
+    "line_idx": 18,
+    "type": "key_val",
+    "indent": " ",
+    "key": "EQ_MOD_CAT_ship_sonar_TITLE",
+    "version": "",
+    "value": "Sonar",
+    "comment": ""
+  },
+  {
+    "line_idx": 19,
+    "type": "key_val",
+    "indent": " ",
+    "key": "EQ_MOD_CAT_ship_fire_control_system_TITLE",
+    "version": "",
+    "value": "Fire Control Systems",
+    "comment": ""
+  },
+  {
+    "line_idx": 20,
+    "type": "key_val",
+    "indent": " ",
+    "key": "EQ_MOD_CAT_ship_depth_charge_TITLE",
+    "version": "",
+    "value": "Anti-Submarine Warfare",
+    "comment": ""
+  },
+  {
+    "line_idx": 21,
+    "type": "key_val",
+    "indent": " ",
+    "key": "EQ_MOD_CAT_ship_mine_warfare_TITLE",
+    "version": "",
+    "value": "Mine Warfare",
+    "comment": ""
+  },
+  {
+    "line_idx": 22,
+    "type": "key_val",
+    "indent": " ",
+    "key": "EQ_MOD_CAT_ship_mine_layer_sub_TITLE",
+    "version": "",
+    "value": "Mine Warfare",
+    "comment": ""
+  },
+  {
+    "line_idx": 23,
+    "type": "key_val",
+    "indent": " ",
+    "key": "EQ_MOD_CAT_ship_anti_air_TITLE",
+    "version": "",
+    "value": "Anti-Air",
+    "comment": ""
+  },
+  {
+    "line_idx": 24,
+    "type": "key_val",
+    "indent": " ",
+    "key": "fixed_ship_torpedo_slot",
+    "version": "",
+    "value": "Torpedoes",
+    "comment": ""
+  },
+  {
+    "line_idx": 25,
+    "type": "key_val",
+    "indent": " ",
+    "key": "EQ_MOD_CAT_ship_heavy_armor_TITLE",
+    "version": "",
+    "value": "Heavy Armor Scheme",
+    "comment": ""
+  },
+  {
+    "line_idx": 26,
+    "type": "key_val",
+    "indent": " ",
+    "key": "EQ_MOD_CAT_ship_super_heavy_armor_TITLE",
+    "version": "",
+    "value": "Super Heavy Armor Scheme",
+    "comment": ""
+  },
+  {
+    "line_idx": 27,
+    "type": "key_val",
+    "indent": " ",
+    "key": "EQ_MOD_CAT_ship_cruiser_armor_TITLE",
+    "version": "",
+    "value": "Cruiser Armor Scheme",
+    "comment": ""
+  },
+  {
+    "line_idx": 28,
+    "type": "key_val",
+    "indent": " ",
+    "key": "EQ_MOD_CAT_ship_carrier_armor_TITLE",
+    "version": "",
+    "value": "Deck Armor",
+    "comment": ""
+  },
+  {
+    "line_idx": 29,
+    "type": "key_val",
+    "indent": " ",
+    "key": "EQ_MOD_CAT_ship_deck_space_TITLE",
+    "version": "",
+    "value": "Hangar Space",
+    "comment": ""
+  },
+  {
+    "line_idx": 30,
+    "type": "key_val",
+    "indent": " ",
+    "key": "EQ_MOD_CAT_ship_rocket_TITLE",
+    "version": "",
+    "value": "Missile Launcher",
+    "comment": ""
+  },
+  {
+    "line_idx": 31,
+    "type": "key_val",
+    "indent": " ",
+    "key": "EQ_MOD_CAT_ship_nuclear_rocket_TITLE",
+    "version": "",
+    "value": "Nuclear Missile Launcher",
+    "comment": ""
+  },
+  {
+    "line_idx": 32,
+    "type": "key_val",
+    "indent": " ",
+    "key": "EQ_MOD_CAT_ship_extra_fuel_tank_TITLE",
+    "version": "",
+    "value": "Fuel Tank",
+    "comment": ""
+  },
+  {
+    "line_idx": 33,
+    "type": "key_val",
+    "indent": " ",
+    "key": "EQ_MOD_CAT_ship_mine_layer_TITLE",
+    "version": "",
+    "value": "Minelaying Gear",
+    "comment": ""
+  },
+  {
+    "line_idx": 34,
+    "type": "key_val",
+    "indent": " ",
+    "key": "EQ_MOD_CAT_dp_light_battery_TITLE",
+    "version": "",
+    "value": "Dual-Purpose Battery",
+    "comment": ""
+  },
+  {
+    "line_idx": 35,
+    "type": "key_val",
+    "indent": " ",
+    "key": "EQ_MOD_CAT_ship_dp_secondaries_TITLE",
+    "version": "",
+    "value": "Dual-Purpose Secondary Battery",
+    "comment": ""
+  },
+  {
+    "line_idx": 36,
+    "type": "key_val",
+    "indent": " ",
+    "key": "EQ_MOD_CAT_ship_ice_carrier_armor_TITLE",
+    "version": "",
+    "value": "Runway Reinforcements",
+    "comment": ""
+  },
+  {
+    "line_idx": 37,
+    "type": "key_val",
+    "indent": " ",
+    "key": "EQ_MOD_CAT_big_ship_deck_space_TITLE",
+    "version": "",
+    "value": "Hangar Space",
+    "comment": ""
+  },
+  {
+    "line_idx": 38,
+    "type": "key_val",
+    "indent": " ",
+    "key": "EQ_MOD_CAT_sub_ship_nuclear_engine_TITLE",
+    "version": "",
+    "value": "Submarine Nuclear Engines",
+    "comment": ""
+  },
+  {
+    "line_idx": 39,
+    "type": "key_val",
+    "indent": " ",
+    "key": "EQ_MOD_CAT_carrier_ship_nuclear_engine_TITLE",
+    "version": "",
+    "value": "Carrier Nuclear Engines",
+    "comment": ""
+  },
+  {
+    "line_idx": 40,
+    "type": "key_val",
+    "indent": " ",
+    "key": "EQ_MOD_CAT_heavy_ship_nuclear_engine_TITLE",
+    "version": "",
+    "value": "Heavy Ship Nuclear Engines",
+    "comment": ""
+  },
+  {
+    "line_idx": 41,
+    "type": "key_val",
+    "indent": " ",
+    "key": "EQ_MOD_CAT_ship_sub_coating_TITLE",
+    "version": "",
+    "value": "Coating",
+    "comment": ""
+  },
+  {
+    "line_idx": 42,
+    "type": "key_val",
+    "indent": " ",
+    "key": "EQ_MOD_CAT_ship_escort_deck_space_TITLE",
+    "version": "",
+    "value": "Hangar Space",
+    "comment": ""
+  },
+  {
+    "line_idx": 43,
+    "type": "key_val",
+    "indent": " ",
+    "key": "EQ_MOD_CAT_ship_submarine_deck_space_TITLE",
+    "version": "",
+    "value": "Submarine Hangar Space",
+    "comment": ""
+  },
+  {
+    "line_idx": 44,
+    "type": "key_val",
+    "indent": " ",
+    "key": "EQ_MOD_CAT_ship_seaplane_tender_TITLE",
+    "version": "",
+    "value": "Seaplane Tender",
+    "comment": ""
+  },
+  {
+    "line_idx": 46,
+    "type": "key_val",
+    "indent": " ",
+    "key": "EQ_MOD_SLOT_fixed_ship_battery_slot_TITLE",
+    "version": "",
+    "value": "Battery",
+    "comment": ""
+  },
+  {
+    "line_idx": 47,
+    "type": "key_val",
+    "indent": " ",
+    "key": "EQ_MOD_SLOT_fixed_ship_secondaries_slot_TITLE",
+    "version": "",
+    "value": "Secondaries",
+    "comment": ""
+  },
+  {
+    "line_idx": 48,
+    "type": "key_val",
+    "indent": " ",
+    "key": "EQ_MOD_SLOT_fixed_ship_anti_air_slot_TITLE",
+    "version": "",
+    "value": "Anti-Air",
+    "comment": ""
+  },
+  {
+    "line_idx": 49,
+    "type": "key_val",
+    "indent": " ",
+    "key": "EQ_MOD_SLOT_fixed_ship_torpedo_slot_TITLE",
+    "version": "",
+    "value": "Torpedoes",
+    "comment": ""
+  },
+  {
+    "line_idx": 50,
+    "type": "key_val",
+    "indent": " ",
+    "key": "EQ_MOD_SLOT_fixed_ship_deck_slot_1_TITLE",
+    "version": "",
+    "value": "Deck Space 1",
+    "comment": ""
+  },
+  {
+    "line_idx": 51,
+    "type": "key_val",
+    "indent": " ",
+    "key": "EQ_MOD_SLOT_fixed_ship_deck_slot_2_TITLE",
+    "version": "",
+    "value": "Deck Space 2",
+    "comment": ""
+  },
+  {
+    "line_idx": 52,
+    "type": "key_val",
+    "indent": " ",
+    "key": "EQ_MOD_SLOT_fixed_ship_fire_control_system_slot_TITLE",
+    "version": "",
+    "value": "Fire Control System",
+    "comment": ""
+  },
+  {
+    "line_idx": 53,
+    "type": "key_val",
+    "indent": " ",
+    "key": "EQ_MOD_SLOT_fixed_ship_radar_slot_TITLE",
+    "version": "",
+    "value": "Radar/Sonar",
+    "comment": ""
+  },
+  {
+    "line_idx": 54,
+    "type": "key_val",
+    "indent": " ",
+    "key": "EQ_MOD_SLOT_fixed_ship_engine_slot_TITLE",
+    "version": "",
+    "value": "Engine",
+    "comment": ""
+  },
+  {
+    "line_idx": 55,
+    "type": "key_val",
+    "indent": " ",
+    "key": "EQ_MOD_SLOT_fixed_ship_armor_slot_TITLE",
+    "version": "",
+    "value": "Armor",
+    "comment": ""
+  },
+  {
+    "line_idx": 56,
+    "type": "key_val",
+    "indent": " ",
+    "key": "EQ_MOD_SLOT_front_1_custom_slot_TITLE",
+    "version": "",
+    "value": "Front 1 Custom",
+    "comment": ""
+  },
+  {
+    "line_idx": 57,
+    "type": "key_val",
+    "indent": " ",
+    "key": "EQ_MOD_SLOT_front_2_custom_slot_TITLE",
+    "version": "",
+    "value": "Front 2 Custom",
+    "comment": ""
+  },
+  {
+    "line_idx": 58,
+    "type": "key_val",
+    "indent": " ",
+    "key": "EQ_MOD_SLOT_mid_1_custom_slot_TITLE",
+    "version": "",
+    "value": "Mid 1 Custom",
+    "comment": ""
+  },
+  {
+    "line_idx": 59,
+    "type": "key_val",
+    "indent": " ",
+    "key": "EQ_MOD_SLOT_mid_2_custom_slot_TITLE",
+    "version": "",
+    "value": "Mid 2 Custom",
+    "comment": ""
+  },
+  {
+    "line_idx": 60,
+    "type": "key_val",
+    "indent": " ",
+    "key": "EQ_MOD_SLOT_mid_3_custom_slot_TITLE",
+    "version": "",
+    "value": "Mid 3 Custom",
+    "comment": ""
+  },
+  {
+    "line_idx": 61,
+    "type": "key_val",
+    "indent": " ",
+    "key": "EQ_MOD_SLOT_rear_1_custom_slot_TITLE",
+    "version": "",
+    "value": "Rear 1 Custom",
+    "comment": ""
+  },
+  {
+    "line_idx": 62,
+    "type": "key_val",
+    "indent": " ",
+    "key": "EQ_MOD_SLOT_rear_2_custom_slot_TITLE",
+    "version": "",
+    "value": "Rear 2 Custom",
+    "comment": ""
+  },
+  {
+    "line_idx": 64,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_light_battery_1",
+    "version": "",
+    "value": "85 mm RF. Cannon",
+    "comment": ""
+  },
+  {
+    "line_idx": 65,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_light_battery_1_short",
+    "version": "",
+    "value": "Light Battery I",
+    "comment": ""
+  },
+  {
+    "line_idx": 66,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_light_battery_1_desc",
+    "version": "",
+    "value": "A relatively small gun for use on destroyers and smaller ships.",
+    "comment": ""
+  },
+  {
+    "line_idx": 67,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_light_battery_2",
+    "version": "",
+    "value": "105 mm RF. Cannon",
+    "comment": ""
+  },
+  {
+    "line_idx": 68,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_light_battery_2_short",
+    "version": "",
+    "value": "Light Battery II",
+    "comment": ""
+  },
+  {
+    "line_idx": 69,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_light_battery_2_desc",
+    "version": "",
+    "value": "A small gun with a powered mount to allow it to track targets quickly.",
+    "comment": ""
+  },
+  {
+    "line_idx": 70,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_light_battery_3",
+    "version": "",
+    "value": "127 mm RF. Cannon",
+    "comment": ""
+  },
+  {
+    "line_idx": 71,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_light_battery_3_short",
+    "version": "",
+    "value": "Light Battery III",
+    "comment": ""
+  },
+  {
+    "line_idx": 72,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_light_battery_3_desc",
+    "version": "",
+    "value": "A small gun with a gun shield to protect the crew from shell splinters and harsh weather.",
+    "comment": ""
+  },
+  {
+    "line_idx": 73,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_light_battery_4",
+    "version": "",
+    "value": "130 mm RF. Cannon",
+    "comment": ""
+  },
+  {
+    "line_idx": 74,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_light_battery_4_short",
+    "version": "",
+    "value": "Light Battery IV",
+    "comment": ""
+  },
+  {
+    "line_idx": 75,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_light_battery_4_desc",
+    "version": "",
+    "value": "A pair of small guns in a powered, armored mount.",
+    "comment": ""
+  },
+  {
+    "line_idx": 76,
+    "type": "key_val",
+    "indent": " ",
+    "key": "dp_light_battery_1",
+    "version": "",
+    "value": "100mm Dual-Purpose Battery",
+    "comment": ""
+  },
+  {
+    "line_idx": 77,
+    "type": "key_val",
+    "indent": " ",
+    "key": "dp_light_battery_1_short",
+    "version": "",
+    "value": "Dual-Purpose Main Battery I",
+    "comment": ""
+  },
+  {
+    "line_idx": 78,
+    "type": "key_val",
+    "indent": " ",
+    "key": "dp_light_battery_1_desc",
+    "version": "",
+    "value": "A small gun in a special mount, allowing it to engage airplanes as well as surface targets.",
+    "comment": ""
+  },
+  {
+    "line_idx": 79,
+    "type": "key_val",
+    "indent": " ",
+    "key": "dp_light_battery_2",
+    "version": "",
+    "value": "113mm Dual-Purpose Battery",
+    "comment": ""
+  },
+  {
+    "line_idx": 80,
+    "type": "key_val",
+    "indent": " ",
+    "key": "dp_light_battery_2_short",
+    "version": "",
+    "value": "Dual-Purpose Main Battery II",
+    "comment": ""
+  },
+  {
+    "line_idx": 81,
+    "type": "key_val",
+    "indent": " ",
+    "key": "dp_light_battery_2_desc",
+    "version": "",
+    "value": "A small gun with a high angle mount and gun shield, allowing it to engage airplanes as well as surface targets.",
+    "comment": ""
+  },
+  {
+    "line_idx": 82,
+    "type": "key_val",
+    "indent": " ",
+    "key": "dp_light_battery_3",
+    "version": "",
+    "value": "127mm Dual-Purpose Battery",
+    "comment": ""
+  },
+  {
+    "line_idx": 83,
+    "type": "key_val",
+    "indent": " ",
+    "key": "dp_light_battery_3_short",
+    "version": "",
+    "value": "Dual-Purpose Main Battery III",
+    "comment": ""
+  },
+  {
+    "line_idx": 84,
+    "type": "key_val",
+    "indent": " ",
+    "key": "dp_light_battery_3_desc",
+    "version": "",
+    "value": "A small gun in a high angle enclosed turret, allowing it to engage airplanes as well as surface targets.",
+    "comment": ""
+  },
+  {
+    "line_idx": 85,
+    "type": "key_val",
+    "indent": " ",
+    "key": "dp_light_battery_4",
+    "version": "",
+    "value": "127mm RF. Dual-Purpose Battery",
+    "comment": ""
+  },
+  {
+    "line_idx": 86,
+    "type": "key_val",
+    "indent": " ",
+    "key": "dp_light_battery_4_short",
+    "version": "",
+    "value": "Dual-Purpose Main Battery IV",
+    "comment": ""
+  },
+  {
+    "line_idx": 87,
+    "type": "key_val",
+    "indent": " ",
+    "key": "dp_light_battery_4_desc",
+    "version": "",
+    "value": "A small, rapid-fire gun in a high angle powered turret, allowing it to engage airplanes as well as surface targets.",
+    "comment": ""
+  },
+  {
+    "line_idx": 88,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_heavy_battery_1",
+    "version": "",
+    "value": "28 cm Cannon",
+    "comment": ""
+  },
+  {
+    "line_idx": 89,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_heavy_battery_1_short",
+    "version": "",
+    "value": "Heavy Battery I",
+    "comment": ""
+  },
+  {
+    "line_idx": 90,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_heavy_battery_1_desc",
+    "version": "",
+    "value": "A large-caliber cannon dating from before the Great War.",
+    "comment": ""
+  },
+  {
+    "line_idx": 91,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_heavy_battery_2",
+    "version": "",
+    "value": "30.5 cm Cannon",
+    "comment": ""
+  },
+  {
+    "line_idx": 92,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_heavy_battery_2_short",
+    "version": "",
+    "value": "Heavy Battery II",
+    "comment": ""
+  },
+  {
+    "line_idx": 93,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_heavy_battery_2_desc",
+    "version": "",
+    "value": "A set of large-caliber cannons in a heavily armored mount. A redesign of the turret allows for higher gun elevation, thus increasing the range.",
+    "comment": ""
+  },
+  {
+    "line_idx": 94,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_heavy_battery_3",
+    "version": "",
+    "value": "38 cm Cannon",
+    "comment": ""
+  },
+  {
+    "line_idx": 95,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_heavy_battery_3_short",
+    "version": "",
+    "value": "Heavy Battery III",
+    "comment": ""
+  },
+  {
+    "line_idx": 96,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_heavy_battery_3_desc",
+    "version": "",
+    "value": "A heavily armored mount for heavy guns, incorporating a number of new technologies to increase accuracy and firing speed.",
+    "comment": ""
+  },
+  {
+    "line_idx": 97,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_heavy_battery_4",
+    "version": "",
+    "value": "40.6 cm Cannon",
+    "comment": ""
+  },
+  {
+    "line_idx": 98,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_heavy_battery_4_short",
+    "version": "",
+    "value": "Heavy Battery IV",
+    "comment": ""
+  },
+  {
+    "line_idx": 99,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_heavy_battery_4_desc",
+    "version": "",
+    "value": "The ultimate evolution of heavy firepower, this heavily armored mount allows for a high degree of accuracy over long distances.",
+    "comment": ""
+  },
+  {
+    "line_idx": 100,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_super_heavy_battery_1",
+    "version": "",
+    "value": "46 cm Cannon",
+    "comment": ""
+  },
+  {
+    "line_idx": 101,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_super_heavy_battery_1_short",
+    "version": "",
+    "value": "Super-Heavy Battery",
+    "comment": ""
+  },
+  {
+    "line_idx": 102,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_super_heavy_battery_1_desc",
+    "version": "",
+    "value": "The biggest gun ever mounted on a ship, these massive cannons were designed to penetrate any feasible armor at any distance.",
+    "comment": ""
+  },
+  {
+    "line_idx": 103,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_light_medium_battery_1",
+    "version": "",
+    "value": "14.5 cm Cannon",
+    "comment": ""
+  },
+  {
+    "line_idx": 104,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_light_medium_battery_1_short",
+    "version": "",
+    "value": "Light Cruiser Battery I",
+    "comment": ""
+  },
+  {
+    "line_idx": 105,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_light_medium_battery_1_desc",
+    "version": "",
+    "value": "A compromise between rate of fire and weight of shell, this gun is intended for the use in light cruisers to defeat smaller ships.",
+    "comment": ""
+  },
+  {
+    "line_idx": 106,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_light_medium_battery_2",
+    "version": "",
+    "value": "15 cm Cannon",
+    "comment": ""
+  },
+  {
+    "line_idx": 107,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_light_medium_battery_2_short",
+    "version": "",
+    "value": "Light Cruiser Battery II",
+    "comment": ""
+  },
+  {
+    "line_idx": 108,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_light_medium_battery_2_desc",
+    "version": "",
+    "value": "This gun represents a logical evolution from previous models, and is intended to allow light cruisers to have a comfortable advantage in firepower over destroyers and older cruisers.",
+    "comment": ""
+  },
+  {
+    "line_idx": 109,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_light_medium_battery_3",
+    "version": "",
+    "value": "15.5 cm Cannon",
+    "comment": ""
+  },
+  {
+    "line_idx": 110,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_light_medium_battery_3_short",
+    "version": "",
+    "value": "Light Cruiser Battery III",
+    "comment": ""
+  },
+  {
+    "line_idx": 111,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_light_medium_battery_3_desc",
+    "version": "",
+    "value": "Incorporating a number of new technologies, this lightly armored mount further increases the gap between the main batteries of destroyers and light cruisers.",
+    "comment": ""
+  },
+  {
+    "line_idx": 112,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_light_medium_battery_4",
+    "version": "",
+    "value": "15.5 cm Auto-Loading Cannon",
+    "comment": ""
+  },
+  {
+    "line_idx": 113,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_light_medium_battery_4_short",
+    "version": "",
+    "value": "Light Cruiser Battery Auto-loading",
+    "comment": ""
+  },
+  {
+    "line_idx": 114,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_light_medium_battery_4_desc",
+    "version": "",
+    "value": "Designed from the ground up for a high rate of fire, this mount was created to allow light cruisers to disable even bigger enemies through a multitude of hits.",
+    "comment": ""
+  },
+  {
+    "line_idx": 115,
+    "type": "key_val",
+    "indent": " ",
+    "key": "dp_ship_medium_1",
+    "version": "",
+    "value": "152mm RF. Dual-Purpose Battery",
+    "comment": ""
+  },
+  {
+    "line_idx": 116,
+    "type": "key_val",
+    "indent": " ",
+    "key": "dp_ship_medium_1_short",
+    "version": "",
+    "value": "Light Cruiser Battery IV",
+    "comment": ""
+  },
+  {
+    "line_idx": 117,
+    "type": "key_val",
+    "indent": " ",
+    "key": "dp_ship_medium_1_desc",
+    "version": "",
+    "value": "Designed from the ground up for a high angle of fire, this mount was created to allow light cruisers to engage even bigger Ships and Aircraft.",
+    "comment": ""
+  },
+  {
+    "line_idx": 118,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_medium_battery_1",
+    "version": "",
+    "value": "17 cm Cannon",
+    "comment": ""
+  },
+  {
+    "line_idx": 119,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_medium_battery_1_short",
+    "version": "",
+    "value": "Heavy Cruiser Battery I",
+    "comment": ""
+  },
+  {
+    "line_idx": 120,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_medium_battery_1_desc",
+    "version": "",
+    "value": "While unable to do significant damage to battleships, this medium gun allows a heavy cruiser to confidently engage lighter ships and other cruisers.",
+    "comment": ""
+  },
+  {
+    "line_idx": 121,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_medium_battery_2",
+    "version": "",
+    "value": "19 cm Cannon",
+    "comment": ""
+  },
+  {
+    "line_idx": 122,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_medium_battery_2_short",
+    "version": "",
+    "value": "Heavy Cruiser Battery II",
+    "comment": ""
+  },
+  {
+    "line_idx": 123,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_medium_battery_2_desc",
+    "version": "",
+    "value": "An evolution of an earlier design, this gun was made to keep pace with the increases in armor and the longer ranges at which naval battles are fought.",
+    "comment": ""
+  },
+  {
+    "line_idx": 124,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_medium_battery_3",
+    "version": "",
+    "value": "20.3 cm Cannon",
+    "comment": ""
+  },
+  {
+    "line_idx": 125,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_medium_battery_3_short",
+    "version": "",
+    "value": "Heavy Cruiser Battery III",
+    "comment": ""
+  },
+  {
+    "line_idx": 126,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_medium_battery_3_desc",
+    "version": "",
+    "value": "While not the biggest gun one can feasibly mount on a cruiser, this cannon strikes the best balance between weight of armament and fire power and can reliably defeat cruiser-armor.",
+    "comment": ""
+  },
+  {
+    "line_idx": 127,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_medium_battery_4",
+    "version": "",
+    "value": "20.3 cm Auto-Loading Cannon",
+    "comment": ""
+  },
+  {
+    "line_idx": 128,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_medium_battery_4_short",
+    "version": "",
+    "value": "Heavy Cruiser Battery IV",
+    "comment": ""
+  },
+  {
+    "line_idx": 129,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_medium_battery_4_desc",
+    "version": "",
+    "value": "With caliber restricted by existing ammunition supplies and with an eye to retrofit older ships, this new gun features an advanced auto-loading system to drastically improve the rate of fire.",
+    "comment": ""
+  },
+  {
+    "line_idx": 130,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_secondaries_1",
+    "version": "",
+    "value": "75mm RF. Cannon",
+    "comment": ""
+  },
+  {
+    "line_idx": 131,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_secondaries_1_short",
+    "version": "",
+    "value": "Secondary Battery I",
+    "comment": ""
+  },
+  {
+    "line_idx": 132,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_secondaries_1_desc",
+    "version": "",
+    "value": "Housed in a casemate on the ship's side, this light cannon gives larger ships some measure of defense against smaller ships.",
+    "comment": ""
+  },
+  {
+    "line_idx": 133,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_secondaries_2",
+    "version": "",
+    "value": "120mm RF. Cannon",
+    "comment": ""
+  },
+  {
+    "line_idx": 134,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_secondaries_2_short",
+    "version": "",
+    "value": "Secondary Battery II",
+    "comment": ""
+  },
+  {
+    "line_idx": 135,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_secondaries_2_desc",
+    "version": "",
+    "value": "A small turreted mount for rapid-fire cannons, designed to defend capital ships against destroyers and torpedo boats.",
+    "comment": ""
+  },
+  {
+    "line_idx": 136,
+    "type": "key_val",
+    "indent": " ",
+    "key": "dp_ship_secondaries_1",
+    "version": "",
+    "value": "100mm Dual-Purpose Secondary Battery",
+    "comment": ""
+  },
+  {
+    "line_idx": 137,
+    "type": "key_val",
+    "indent": " ",
+    "key": "dp_ship_secondaries_1_short",
+    "version": "",
+    "value": "Dual-Purpose Secondary Battery I",
+    "comment": ""
+  },
+  {
+    "line_idx": 138,
+    "type": "key_val",
+    "indent": " ",
+    "key": "dp_ship_secondaries_1_desc",
+    "version": "",
+    "value": "By combining the duties of the heavy anti-air gun and the secondary battery, this mount drastically boosts the anti-air capabilities of a ship while also providing some measure of defense against smaller surface targets.",
+    "comment": ""
+  },
+  {
+    "line_idx": 139,
+    "type": "key_val",
+    "indent": " ",
+    "key": "dp_ship_secondaries_2",
+    "version": "",
+    "value": "113mm Dual-Purpose Secondary Battery",
+    "comment": ""
+  },
+  {
+    "line_idx": 140,
+    "type": "key_val",
+    "indent": " ",
+    "key": "dp_ship_secondaries_2_short",
+    "version": "",
+    "value": "Dual-Purpose Secondary Battery II",
+    "comment": ""
+  },
+  {
+    "line_idx": 141,
+    "type": "key_val",
+    "indent": " ",
+    "key": "dp_ship_secondaries_2_desc",
+    "version": "",
+    "value": "Housing dual purpose secondary guns in a turret greatly increases the crew protection.",
+    "comment": ""
+  },
+  {
+    "line_idx": 142,
+    "type": "key_val",
+    "indent": " ",
+    "key": "dp_ship_secondaries_3",
+    "version": "",
+    "value": "127mm Dual-Purpose Secondary Battery",
+    "comment": ""
+  },
+  {
+    "line_idx": 143,
+    "type": "key_val",
+    "indent": " ",
+    "key": "dp_ship_secondaries_3_short",
+    "version": "",
+    "value": "Dual-Purpose Secondary Battery III",
+    "comment": ""
+  },
+  {
+    "line_idx": 144,
+    "type": "key_val",
+    "indent": " ",
+    "key": "dp_ship_secondaries_3_desc",
+    "version": "",
+    "value": "Powered twin dual purpose turrets allow for a large increase in firepower.",
+    "comment": ""
+  },
+  {
+    "line_idx": 145,
+    "type": "key_val",
+    "indent": " ",
+    "key": "dp_ship_secondaries_4",
+    "version": "",
+    "value": "127mm RF. Dual-Purpose Secondary Battery",
+    "comment": ""
+  },
+  {
+    "line_idx": 146,
+    "type": "key_val",
+    "indent": " ",
+    "key": "dp_ship_secondaries_4_short",
+    "version": "",
+    "value": "Dual-Purpose Secondary Battery IV",
+    "comment": ""
+  },
+  {
+    "line_idx": 147,
+    "type": "key_val",
+    "indent": " ",
+    "key": "dp_ship_secondaries_4_desc",
+    "version": "",
+    "value": "Created for rapid fire against all forms of target these are the ultimate secondary weapons.",
+    "comment": ""
+  },
+  {
+    "line_idx": 148,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_fire_control_system_0",
+    "version": "",
+    "value": "Central Rangefinding",
+    "comment": ""
+  },
+  {
+    "line_idx": 149,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_fire_control_system_0_short",
+    "version": "",
+    "value": "Fire Control 0",
+    "comment": ""
+  },
+  {
+    "line_idx": 150,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_fire_control_system_0_desc",
+    "version": "",
+    "value": "A central station high up in the ship's mast determines the range to the target and transmits that information to the gun mounts.",
+    "comment": ""
+  },
+  {
+    "line_idx": 151,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_fire_control_system_1",
+    "version": "",
+    "value": "Director Fire",
+    "comment": ""
+  },
+  {
+    "line_idx": 152,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_fire_control_system_1_short",
+    "version": "",
+    "value": "Fire Control I",
+    "comment": ""
+  },
+  {
+    "line_idx": 153,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_fire_control_system_1_desc",
+    "version": "",
+    "value": "A central director station fires all guns simultaneously at the command of the gunnery officer.",
+    "comment": ""
+  },
+  {
+    "line_idx": 154,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_fire_control_system_2",
+    "version": "",
+    "value": "Mechanical Rangekeeper",
+    "comment": ""
+  },
+  {
+    "line_idx": 155,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_fire_control_system_2_short",
+    "version": "",
+    "value": "Fire Control II",
+    "comment": ""
+  },
+  {
+    "line_idx": 156,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_fire_control_system_2_desc",
+    "version": "",
+    "value": "A mechanical computer in the ship continuously updates range and bearing to target from information fed to it by rangefinders and other sensors.",
+    "comment": ""
+  },
+  {
+    "line_idx": 157,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_fire_control_system_3",
+    "version": "",
+    "value": "Ballistic Computer",
+    "comment": ""
+  },
+  {
+    "line_idx": 158,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_fire_control_system_3_short",
+    "version": "",
+    "value": "Fire Control III",
+    "comment": ""
+  },
+  {
+    "line_idx": 159,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_fire_control_system_3_desc",
+    "version": "",
+    "value": "A more complex mechanical computer considers a large variety of factors when calculating the ballistic solutions to engage the target.",
+    "comment": ""
+  },
+  {
+    "line_idx": 160,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_torpedo_1",
+    "version": "",
+    "value": "3x 450mm Torpedo Launcher",
+    "comment": ""
+  },
+  {
+    "line_idx": 161,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_torpedo_1_short",
+    "version": "",
+    "value": "Torpedo Launcher I",
+    "comment": ""
+  },
+  {
+    "line_idx": 162,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_torpedo_1_desc",
+    "version": "",
+    "value": "A set of mid-sized torpedoes that can be mounted on surface warships.",
+    "comment": ""
+  },
+  {
+    "line_idx": 163,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_torpedo_2",
+    "version": "",
+    "value": "4x 450mm Torpedo Launcher",
+    "comment": ""
+  },
+  {
+    "line_idx": 164,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_torpedo_2_short",
+    "version": "",
+    "value": "Torpedo Launcher II",
+    "comment": ""
+  },
+  {
+    "line_idx": 165,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_torpedo_2_desc",
+    "version": "",
+    "value": "By mounting another torpedo tube in the mount, a surface ship can fire a larger spread with higher chance to hit.",
+    "comment": ""
+  },
+  {
+    "line_idx": 166,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_torpedo_3",
+    "version": "",
+    "value": "3x 533mm Torpedo Launcher",
+    "comment": ""
+  },
+  {
+    "line_idx": 167,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_torpedo_3_short",
+    "version": "",
+    "value": "Torpedo Launcher III",
+    "comment": ""
+  },
+  {
+    "line_idx": 168,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_torpedo_3_desc",
+    "version": "",
+    "value": "Larger torpedoes can carry a bigger warhead, doing significantly more damage to the target. This requires the launcher to have fewer tubes, however.",
+    "comment": ""
+  },
+  {
+    "line_idx": 169,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_torpedo_4",
+    "version": "",
+    "value": "4x 533mm Torpedo Launcher",
+    "comment": ""
+  },
+  {
+    "line_idx": 170,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_torpedo_4_short",
+    "version": "",
+    "value": "Torpedo Launcher IV",
+    "comment": ""
+  },
+  {
+    "line_idx": 171,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_torpedo_4_desc",
+    "version": "",
+    "value": "Having solved the mechanical issues of launching large torpedoes from surface ships, this advanced model can also be rapidly reloaded for another salvo.",
+    "comment": ""
+  },
+  {
+    "line_idx": 172,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_torpedo_sub_1",
+    "version": "",
+    "value": "4x 450mm Torpedo Tubes",
+    "comment": ""
+  },
+  {
+    "line_idx": 173,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_torpedo_sub_1_short",
+    "version": "",
+    "value": "Torpedo Tubes I",
+    "comment": ""
+  },
+  {
+    "line_idx": 174,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_torpedo_sub_1_desc",
+    "version": "",
+    "value": "A basic set of torpedo tubes that can be reloaded from inside the submarine.",
+    "comment": ""
+  },
+  {
+    "line_idx": 175,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_torpedo_sub_2",
+    "version": "",
+    "value": "6x 450mm Torpedo Tubes",
+    "comment": ""
+  },
+  {
+    "line_idx": 176,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_torpedo_sub_2_short",
+    "version": "",
+    "value": "Torpedo Tubes II",
+    "comment": ""
+  },
+  {
+    "line_idx": 177,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_torpedo_sub_2_desc",
+    "version": "",
+    "value": "A larger torpedo room allows more torpedo tubes to be mounted. It also provides slightly more living space for the crew.",
+    "comment": ""
+  },
+  {
+    "line_idx": 178,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_torpedo_sub_3",
+    "version": "",
+    "value": "4x 533mm Torpedo Tubes",
+    "comment": ""
+  },
+  {
+    "line_idx": 179,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_torpedo_sub_3_short",
+    "version": "",
+    "value": "Torpedo Tubes III",
+    "comment": ""
+  },
+  {
+    "line_idx": 180,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_torpedo_sub_3_desc",
+    "version": "",
+    "value": "A set of larger torpedo tubes allows submarines to launch bigger torpedoes.",
+    "comment": ""
+  },
+  {
+    "line_idx": 181,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_torpedo_sub_4",
+    "version": "",
+    "value": "6x 533mm Torpedo Tubes",
+    "comment": ""
+  },
+  {
+    "line_idx": 182,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_torpedo_sub_4_short",
+    "version": "",
+    "value": "Torpedo Tubes IV",
+    "comment": ""
+  },
+  {
+    "line_idx": 183,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_torpedo_sub_4_desc",
+    "version": "",
+    "value": "The addition of an electric loading ram allows torpedo tubes to be reloaded within minutes.",
+    "comment": ""
+  },
+  {
+    "line_idx": 184,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_anti_air_1",
+    "version": "",
+    "value": ".50 cal. MG",
+    "comment": ""
+  },
+  {
+    "line_idx": 185,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_anti_air_1_short",
+    "version": "",
+    "value": "Anti-Air I",
+    "comment": ""
+  },
+  {
+    "line_idx": 186,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_anti_air_1_desc",
+    "version": "",
+    "value": "A set of heavy machine guns provides a small amount of close-in defence against airplanes.",
+    "comment": ""
+  },
+  {
+    "line_idx": 187,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_anti_air_2",
+    "version": "",
+    "value": "20mm AA",
+    "comment": ""
+  },
+  {
+    "line_idx": 188,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_anti_air_2_short",
+    "version": "",
+    "value": "Anti-Air II",
+    "comment": ""
+  },
+  {
+    "line_idx": 189,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_anti_air_2_desc",
+    "version": "",
+    "value": "A small automatic cannon throws a significantly larger shell, killing an attacking aircraft in a few hits.",
+    "comment": ""
+  },
+  {
+    "line_idx": 190,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_anti_air_3",
+    "version": "",
+    "value": "37mm AA",
+    "comment": ""
+  },
+  {
+    "line_idx": 191,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_anti_air_3_short",
+    "version": "",
+    "value": "Anti-Air III",
+    "comment": ""
+  },
+  {
+    "line_idx": 192,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_anti_air_3_desc",
+    "version": "",
+    "value": "Previous calibers of guns have proven too light to reliably kill an attacking airplane before they can release their ordnance. A larger shell requires a bigger gun, but has a significantly higher chance of destroying the target when they actually hit.",
+    "comment": ""
+  },
+  {
+    "line_idx": 193,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_anti_air_4",
+    "version": "",
+    "value": "40mm Quad AA",
+    "comment": ""
+  },
+  {
+    "line_idx": 194,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_anti_air_4_short",
+    "version": "",
+    "value": "Anti-Air IV",
+    "comment": ""
+  },
+  {
+    "line_idx": 195,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_anti_air_4_desc",
+    "version": "",
+    "value": "The latest model of anti-air guns features a powered mount to be able to track fast-flying targets and an advanced director system to coordinate the fire of several gun positions against a single target.",
+    "comment": ""
+  },
+  {
+    "line_idx": 196,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_mine_layer_1",
+    "version": "",
+    "value": "Minelaying Rails",
+    "comment": ""
+  },
+  {
+    "line_idx": 197,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_mine_layer_1_desc",
+    "version": "",
+    "value": "Modifications for a surface ship to carry and deploy naval mines.",
+    "comment": ""
+  },
+  {
+    "line_idx": 198,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_mine_sweeper_1",
+    "version": "",
+    "value": "Minesweeping Gear",
+    "comment": ""
+  },
+  {
+    "line_idx": 199,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_mine_sweeper_1_desc",
+    "version": "",
+    "value": "Gear to deploy the various sweeping equipments.",
+    "comment": ""
+  },
+  {
+    "line_idx": 200,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_mine_layer_sub",
+    "version": "",
+    "value": "Minelaying Tubes",
+    "comment": ""
+  },
+  {
+    "line_idx": 201,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_mine_layer_sub_desc",
+    "version": "",
+    "value": "Modifications to the hull of a submarine, allowing it to deploy a number of mines.",
+    "comment": ""
+  },
+  {
+    "line_idx": 202,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_depth_charge_1",
+    "version": "",
+    "value": "Depth Charge Rails",
+    "comment": ""
+  },
+  {
+    "line_idx": 203,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_depth_charge_1_short",
+    "version": "",
+    "value": "Depth Charge I",
+    "comment": ""
+  },
+  {
+    "line_idx": 204,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_depth_charge_1_desc",
+    "version": "",
+    "value": "A simple set of rails allows depth charges to be rolled off the stern of the ship when the ship drives over the submerged target.",
+    "comment": ""
+  },
+  {
+    "line_idx": 205,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_depth_charge_2",
+    "version": "",
+    "value": "Depth Charge Thrower",
+    "comment": ""
+  },
+  {
+    "line_idx": 206,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_depth_charge_2_short",
+    "version": "",
+    "value": "Depth Charge II",
+    "comment": ""
+  },
+  {
+    "line_idx": 207,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_depth_charge_2_desc",
+    "version": "",
+    "value": "Using a small explosive charge, this device throws a depth charge quite some distance, allowing a single ship to drop a pattern of depth charges across a larger area.",
+    "comment": ""
+  },
+  {
+    "line_idx": 208,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_depth_charge_3",
+    "version": "",
+    "value": "Anti-submarine Mortar",
+    "comment": ""
+  },
+  {
+    "line_idx": 209,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_depth_charge_3_short",
+    "version": "",
+    "value": "Depth Charge III",
+    "comment": ""
+  },
+  {
+    "line_idx": 210,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_depth_charge_3_desc",
+    "version": "",
+    "value": "A projector for a smaller depth charge with a contact fuze, allowing the ship to engage a target without breaking sonar contact.",
+    "comment": ""
+  },
+  {
+    "line_idx": 211,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_depth_charge_4",
+    "version": "",
+    "value": "Advanced Anti-submarine Mortar",
+    "comment": ""
+  },
+  {
+    "line_idx": 212,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_depth_charge_4_short",
+    "version": "",
+    "value": "Depth Charge IV",
+    "comment": ""
+  },
+  {
+    "line_idx": 213,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_depth_charge_4_desc",
+    "version": "",
+    "value": "An evolution of the previous model, this mortar can fire a significantly larger charge over a longer distance.",
+    "comment": ""
+  },
+  {
+    "line_idx": 214,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_sub_snorkel_1",
+    "version": "",
+    "value": "Basic Schnorkel",
+    "comment": ""
+  },
+  {
+    "line_idx": 215,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_sub_snorkel_1_desc",
+    "version": "",
+    "value": "A device that allows the submarine to run its main engines underwater, enabling it to recharge its batteries without exposing itself to attack by surfacing.",
+    "comment": ""
+  },
+  {
+    "line_idx": 216,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_sub_snorkel_2",
+    "version": "",
+    "value": "Improved Schnorkel",
+    "comment": ""
+  },
+  {
+    "line_idx": 217,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_sub_snorkel_2_desc",
+    "version": "",
+    "value": "Improvements to the design of the schnorkel reduce the problems when using the main engines in heavy seas while reducing the probability of the schnorkel being detected on radar.",
+    "comment": ""
+  },
+  {
+    "line_idx": 218,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_airplane_launcher_1",
+    "version": "",
+    "value": "Floatplane Catapult",
+    "comment": ""
+  },
+  {
+    "line_idx": 219,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_airplane_launcher_1_desc",
+    "version": "",
+    "value": "A simple airplane launcher propels a small scout plane into the air.",
+    "comment": ""
+  },
+  {
+    "line_idx": 220,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_airplane_launcher_2",
+    "version": "",
+    "value": "Improved Floatplane Catapult",
+    "comment": ""
+  },
+  {
+    "line_idx": 221,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_airplane_launcher_2_desc",
+    "version": "",
+    "value": "An improved launch mechanism that allows the ship to launch a larger plane with greater range and speed.",
+    "comment": ""
+  },
+  {
+    "line_idx": 222,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_seaplane_tender_1",
+    "version": "",
+    "value": "Seaplane Tender",
+    "comment": ""
+  },
+  {
+    "line_idx": 223,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_seaplane_tender_1_desc",
+    "version": "",
+    "value": "Equipment for refueling and recovering seaplanes, keeping them operational with less reliance on shore-based resupply.",
+    "comment": ""
+  },
+  {
+    "line_idx": 224,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_seaplane_tender_2",
+    "version": "",
+    "value": "Improved Seaplane Tender",
+    "comment": ""
+  },
+  {
+    "line_idx": 225,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_seaplane_tender_2_desc",
+    "version": "",
+    "value": "While the earliest seaplane tenders were converted merchant ships, newer types are purpose-built and have greatly improved seaplane support capabilities.",
+    "comment": ""
+  },
+  {
+    "line_idx": 226,
+    "type": "key_val",
+    "indent": " ",
+    "key": "sub_missile_launcher",
+    "version": "",
+    "value": "Submarine Missile Launcher",
+    "comment": ""
+  },
+  {
+    "line_idx": 227,
+    "type": "key_val",
+    "indent": " ",
+    "key": "sub_missile_launcher_desc",
+    "version": "",
+    "value": "A submarine-mounted launcher for guided and ballistic missiles.",
+    "comment": ""
+  },
+  {
+    "line_idx": 228,
+    "type": "key_val",
+    "indent": " ",
+    "key": "slbm_launcher",
+    "version": "",
+    "value": "Submarine Nuclear Missile Launcher",
+    "comment": ""
+  },
+  {
+    "line_idx": 229,
+    "type": "key_val",
+    "indent": " ",
+    "key": "slbm_launcher_desc",
+    "version": "",
+    "value": "A submarine-mounted launcher for nuclear ballistic missiles.",
+    "comment": ""
+  },
+  {
+    "line_idx": 230,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_engine_sub_aip_1",
+    "version": "",
+    "value": "Air-Independent Propulsion",
+    "comment": ""
+  },
+  {
+    "line_idx": 231,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_engine_sub_aip_1_desc",
+    "version": "",
+    "value": "First iteration of the new engine types, allowing submarine to remain operational underwater for a longer time, at the cost of vastly increased fuel consumption and reduced ship range.",
+    "comment": ""
+  },
+  {
+    "line_idx": 232,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_engine_sub_aip_2",
+    "version": "",
+    "value": "AIP-Diesel Combination Engine",
+    "comment": ""
+  },
+  {
+    "line_idx": 233,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_engine_sub_aip_2_desc",
+    "version": "",
+    "value": "New version of the air-independent propulsion systems, offering better performance at the lower fuel consumption.",
+    "comment": ""
+  },
+  {
+    "line_idx": 234,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_engine_sub_aip_3",
+    "version": "",
+    "value": "High Speed Walter Engines",
+    "comment": ""
+  },
+  {
+    "line_idx": 235,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_engine_sub_aip_3_desc",
+    "version": "",
+    "value": "We have reached the pinnacle of what we think can be achieved with AIP Engines. This engine offers excellent speed, while at the same time retaining fuel consumption at acceptable levels.",
+    "comment": ""
+  },
+  {
+    "line_idx": 236,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_anechoic_tile",
+    "version": "",
+    "value": "Anechoic Tiles",
+    "comment": ""
+  },
+  {
+    "line_idx": 237,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_anechoic_tile_desc",
+    "version": "",
+    "value": "Rubber tile coating that is designed to reduce the range at which ship can be detected by both passive and active sonar.",
+    "comment": ""
+  },
+  {
+    "line_idx": 238,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_torpedo_sub_nuclear",
+    "version": "",
+    "value": "Nuclear Torpedo",
+    "comment": ""
+  },
+  {
+    "line_idx": 239,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_torpedo_sub_nuclear_desc",
+    "version": "",
+    "value": "Torpedoes that carry a nuclear warhead, providing a highly effective weapon against enemy ships, at the cost of higher risk for accidents.",
+    "comment": ""
+  },
+  {
+    "line_idx": 240,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_deck_space",
+    "version": "",
+    "value": "Hangar Space",
+    "comment": ""
+  },
+  {
+    "line_idx": 241,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_deck_space_desc",
+    "version": "",
+    "value": "A large open area inside the ship that allows the servicing and arming of wheeled airplanes. Adding further hangar space to a ship dramatically drives up cost.",
+    "comment": ""
+  },
+  {
+    "line_idx": 242,
+    "type": "key_val",
+    "indent": " ",
+    "key": "big_ship_deck_space",
+    "version": "",
+    "value": "Floating Airfield Runway",
+    "comment": ""
+  },
+  {
+    "line_idx": 243,
+    "type": "key_val",
+    "indent": " ",
+    "key": "big_ship_deck_space_desc",
+    "version": "",
+    "value": "Open area that allows to service, refuel and resupply airplanes and prepare them for their missions. Allows to store and use non-carrier plane variants.",
+    "comment": ""
+  },
+  {
+    "line_idx": 244,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_escort_deck_space",
+    "version": "",
+    "value": "Escort Carrier Hangar",
+    "comment": ""
+  },
+  {
+    "line_idx": 245,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_escort_deck_space_desc",
+    "version": "",
+    "value": "Open area inside the ship that allows the servicing and arming of wheeled airplanes. Much smaller and cramped than hangars on the Fleet Carriers.",
+    "comment": ""
+  },
+  {
+    "line_idx": 246,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_submarine_deck_space",
+    "version": "",
+    "value": "Submarine Carrier Hangar",
+    "comment": ""
+  },
+  {
+    "line_idx": 247,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_submarine_deck_space_desc",
+    "version": "",
+    "value": "A watertight compartment and catapult equipment allowing a submarine to carry, launch and recover a small number of seaplanes.",
+    "comment": ""
+  },
+  {
+    "line_idx": 248,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_sonar_1",
+    "version": "",
+    "value": "Hydrophones",
+    "comment": ""
+  },
+  {
+    "line_idx": 249,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_sonar_1_desc",
+    "version": "",
+    "value": "A simple set of hydrophones to track a submerged target by the sound it makes.",
+    "comment": ""
+  },
+  {
+    "line_idx": 250,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_sonar_2",
+    "version": "",
+    "value": "Active Sonar",
+    "comment": ""
+  },
+  {
+    "line_idx": 251,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_sonar_2_desc",
+    "version": "",
+    "value": "An active noise emitter that sends a short 'ping' into the water, then listens for the echo from a submerged submarine hull.",
+    "comment": ""
+  },
+  {
+    "line_idx": 252,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_sonar_3",
+    "version": "",
+    "value": "Advanced Sonar",
+    "comment": ""
+  },
+  {
+    "line_idx": 253,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_sonar_3_desc",
+    "version": "",
+    "value": "Improved active sonar array using stronger signal pulses and directional scanning.",
+    "comment": ""
+  },
+  {
+    "line_idx": 254,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_sonar_4",
+    "version": "",
+    "value": "Modern Sonar",
+    "comment": ""
+  },
+  {
+    "line_idx": 255,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_sonar_4_desc",
+    "version": "",
+    "value": "State of the art sonar system, providing superior tracking of the submerged targets.",
+    "comment": ""
+  },
+  {
+    "line_idx": 256,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_radar_1",
+    "version": "",
+    "value": "Decimetric Naval Search Radar",
+    "comment": ""
+  },
+  {
+    "line_idx": 257,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_radar_1_short",
+    "version": "",
+    "value": "Radar I",
+    "comment": ""
+  },
+  {
+    "line_idx": 258,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_radar_1_desc",
+    "version": "",
+    "value": "A simple radar set that operates in the 50 cm wavelength range allows the detection of surface ships even in bad weather at a range of more than 10 kilometers.",
+    "comment": ""
+  },
+  {
+    "line_idx": 259,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_radar_2",
+    "version": "",
+    "value": "Improved Decimetric Naval Search Radar",
+    "comment": ""
+  },
+  {
+    "line_idx": 260,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_radar_2_short",
+    "version": "",
+    "value": "Radar II",
+    "comment": ""
+  },
+  {
+    "line_idx": 261,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_radar_2_desc",
+    "version": "",
+    "value": "An improved radar set working in the 30cm wavelength range can accurately measure the range and bearing of even a small ship at ranges of over 25 kilometers.",
+    "comment": ""
+  },
+  {
+    "line_idx": 262,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_radar_3",
+    "version": "",
+    "value": "Centimetric Gunnery Radar",
+    "comment": ""
+  },
+  {
+    "line_idx": 263,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_radar_3_short",
+    "version": "",
+    "value": "Radar III",
+    "comment": ""
+  },
+  {
+    "line_idx": 264,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_radar_3_desc",
+    "version": "",
+    "value": "Equipped with cavity magnetrons, this radar set allows not only the detection of very small targets but even detecting the splashes of shells. This allows for true blind-fire against targets, even at night or in bad weather.",
+    "comment": ""
+  },
+  {
+    "line_idx": 265,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_radar_4",
+    "version": "",
+    "value": "Integrated Fire Control Radar",
+    "comment": ""
+  },
+  {
+    "line_idx": 266,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_radar_4_short",
+    "version": "",
+    "value": "Radar IV",
+    "comment": ""
+  },
+  {
+    "line_idx": 267,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_radar_4_desc",
+    "version": "",
+    "value": "Working in the centimeter wavelength range, this radar set is fully integrated into the ships gunnery control and allows highly accurate gunfire control in all weather conditions.",
+    "comment": ""
+  },
+  {
+    "line_idx": 268,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_extra_fuel_tank",
+    "version": "",
+    "value": "Extra Fuel Tanks",
+    "comment": ""
+  },
+  {
+    "line_idx": 269,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_extra_fuel_tank_desc",
+    "version": "",
+    "value": "Extended fuel storage allows greater operational range.",
+    "comment": ""
+  },
+  {
+    "line_idx": 270,
+    "type": "key_val",
+    "indent": " ",
+    "key": "light_ship_engine_1",
+    "version": "",
+    "value": "35,000 Shp Engine",
+    "comment": ""
+  },
+  {
+    "line_idx": 271,
+    "type": "key_val",
+    "indent": " ",
+    "key": "light_ship_engine_1_short",
+    "version": "",
+    "value": "Light Engine I",
+    "comment": ""
+  },
+  {
+    "line_idx": 272,
+    "type": "key_val",
+    "indent": " ",
+    "key": "light_ship_engine_1_desc",
+    "version": "",
+    "value": "A small set of steam turbines can propel a small ship at great speed or power a larger ship at slower speeds.",
+    "comment": ""
+  },
+  {
+    "line_idx": 273,
+    "type": "key_val",
+    "indent": " ",
+    "key": "light_ship_engine_2",
+    "version": "",
+    "value": "40,000 Shp Engine",
+    "comment": ""
+  },
+  {
+    "line_idx": 274,
+    "type": "key_val",
+    "indent": " ",
+    "key": "light_ship_engine_2_short",
+    "version": "",
+    "value": "Light Engine II",
+    "comment": ""
+  },
+  {
+    "line_idx": 275,
+    "type": "key_val",
+    "indent": " ",
+    "key": "light_ship_engine_2_desc",
+    "version": "",
+    "value": "Using high-pressure boilers, the same weight and space of machinery can produce a higher output.",
+    "comment": ""
+  },
+  {
+    "line_idx": 276,
+    "type": "key_val",
+    "indent": " ",
+    "key": "light_ship_engine_3",
+    "version": "",
+    "value": "45,000 Shp Engine",
+    "comment": ""
+  },
+  {
+    "line_idx": 277,
+    "type": "key_val",
+    "indent": " ",
+    "key": "light_ship_engine_3_short",
+    "version": "",
+    "value": "Light Engine III",
+    "comment": ""
+  },
+  {
+    "line_idx": 278,
+    "type": "key_val",
+    "indent": " ",
+    "key": "light_ship_engine_3_desc",
+    "version": "",
+    "value": "New developments in materials allow for much higher steam pressure and thus greater power output.",
+    "comment": ""
+  },
+  {
+    "line_idx": 279,
+    "type": "key_val",
+    "indent": " ",
+    "key": "light_ship_engine_4",
+    "version": "",
+    "value": "50,000 Shp Engine",
+    "comment": ""
+  },
+  {
+    "line_idx": 280,
+    "type": "key_val",
+    "indent": " ",
+    "key": "light_ship_engine_4_short",
+    "version": "",
+    "value": "Light Engine IV",
+    "comment": ""
+  },
+  {
+    "line_idx": 281,
+    "type": "key_val",
+    "indent": " ",
+    "key": "light_ship_engine_4_desc",
+    "version": "",
+    "value": "Improved engine layouts and turbine gearing allow higher efficiency for the same amount of weight.",
+    "comment": ""
+  },
+  {
+    "line_idx": 282,
+    "type": "key_val",
+    "indent": " ",
+    "key": "sub_ship_engine_1",
+    "version": "",
+    "value": "1,000 Shp Engine",
+    "comment": ""
+  },
+  {
+    "line_idx": 283,
+    "type": "key_val",
+    "indent": " ",
+    "key": "sub_ship_engine_1_short",
+    "version": "",
+    "value": "Submarine Engine I",
+    "comment": ""
+  },
+  {
+    "line_idx": 284,
+    "type": "key_val",
+    "indent": " ",
+    "key": "sub_ship_engine_1_desc",
+    "version": "",
+    "value": "A combination of diesel and electric engines allow a submarine to operate underwater at a reasonable speed.",
+    "comment": ""
+  },
+  {
+    "line_idx": 285,
+    "type": "key_val",
+    "indent": " ",
+    "key": "sub_ship_engine_2",
+    "version": "",
+    "value": "2,000 Shp Engine",
+    "comment": ""
+  },
+  {
+    "line_idx": 286,
+    "type": "key_val",
+    "indent": " ",
+    "key": "sub_ship_engine_2_short",
+    "version": "",
+    "value": "Submarine Engine II",
+    "comment": ""
+  },
+  {
+    "line_idx": 287,
+    "type": "key_val",
+    "indent": " ",
+    "key": "sub_ship_engine_2_desc",
+    "version": "",
+    "value": "A more powerful diesel engine gives the submarine the ability to sprint into position when it detects a target.",
+    "comment": ""
+  },
+  {
+    "line_idx": 288,
+    "type": "key_val",
+    "indent": " ",
+    "key": "sub_ship_engine_3",
+    "version": "",
+    "value": "3,000 Shp Engine",
+    "comment": ""
+  },
+  {
+    "line_idx": 289,
+    "type": "key_val",
+    "indent": " ",
+    "key": "sub_ship_engine_3_short",
+    "version": "",
+    "value": "Submarine Engine III",
+    "comment": ""
+  },
+  {
+    "line_idx": 290,
+    "type": "key_val",
+    "indent": " ",
+    "key": "sub_ship_engine_3_desc",
+    "version": "",
+    "value": "New materials and production methods allow for the creation of engines that can run longer at full power.",
+    "comment": ""
+  },
+  {
+    "line_idx": 291,
+    "type": "key_val",
+    "indent": " ",
+    "key": "sub_ship_engine_4",
+    "version": "",
+    "value": "4,000 Shp Engine",
+    "comment": ""
+  },
+  {
+    "line_idx": 292,
+    "type": "key_val",
+    "indent": " ",
+    "key": "sub_ship_engine_4_short",
+    "version": "",
+    "value": "Submarine Engine IV",
+    "comment": ""
+  },
+  {
+    "line_idx": 293,
+    "type": "key_val",
+    "indent": " ",
+    "key": "sub_ship_engine_4_desc",
+    "version": "",
+    "value": "Advanced engines with turbochargers are able to run much faster for a brief period, either to chase targets or to recharge the batteries quicker.",
+    "comment": ""
+  },
+  {
+    "line_idx": 294,
+    "type": "key_val",
+    "indent": " ",
+    "key": "sub_ship_nuclear_engine_1",
+    "version": "",
+    "value": "Nuclear Submarine Reactor",
+    "comment": ""
+  },
+  {
+    "line_idx": 295,
+    "type": "key_val",
+    "indent": " ",
+    "key": "sub_ship_nuclear_engine_1_short",
+    "version": "",
+    "value": "Submarine Reactor",
+    "comment": ""
+  },
+  {
+    "line_idx": 296,
+    "type": "key_val",
+    "indent": " ",
+    "key": "sub_ship_nuclear_engine_1_desc",
+    "version": "",
+    "value": "A small reactor that provides nuclear propulsion for submarines, ensuring extended underwater endurance and efficient operation for modern naval fleets",
+    "comment": ""
+  },
+  {
+    "line_idx": 297,
+    "type": "key_val",
+    "indent": " ",
+    "key": "cruiser_ship_engine_1",
+    "version": "",
+    "value": "60,000 Shp Engine",
+    "comment": ""
+  },
+  {
+    "line_idx": 298,
+    "type": "key_val",
+    "indent": " ",
+    "key": "cruiser_ship_engine_1_short",
+    "version": "",
+    "value": "Cruiser Engine I",
+    "comment": ""
+  },
+  {
+    "line_idx": 299,
+    "type": "key_val",
+    "indent": " ",
+    "key": "cruiser_ship_engine_1_desc",
+    "version": "",
+    "value": "A basic set of boilers providing steam to an ungeared turbine.",
+    "comment": ""
+  },
+  {
+    "line_idx": 300,
+    "type": "key_val",
+    "indent": " ",
+    "key": "cruiser_ship_engine_2",
+    "version": "",
+    "value": "70,000 Shp Engine",
+    "comment": ""
+  },
+  {
+    "line_idx": 301,
+    "type": "key_val",
+    "indent": " ",
+    "key": "cruiser_ship_engine_2_short",
+    "version": "",
+    "value": "Cruiser Engine II",
+    "comment": ""
+  },
+  {
+    "line_idx": 302,
+    "type": "key_val",
+    "indent": " ",
+    "key": "cruiser_ship_engine_2_desc",
+    "version": "",
+    "value": "A steam turbine equipped with gearing is dramatically more efficient, allowing the extra weight to be used for additional power.",
+    "comment": ""
+  },
+  {
+    "line_idx": 303,
+    "type": "key_val",
+    "indent": " ",
+    "key": "cruiser_ship_engine_3",
+    "version": "",
+    "value": "80,000 Shp Engine",
+    "comment": ""
+  },
+  {
+    "line_idx": 304,
+    "type": "key_val",
+    "indent": " ",
+    "key": "cruiser_ship_engine_3_short",
+    "version": "",
+    "value": "Cruiser Engine III",
+    "comment": ""
+  },
+  {
+    "line_idx": 305,
+    "type": "key_val",
+    "indent": " ",
+    "key": "cruiser_ship_engine_3_desc",
+    "version": "",
+    "value": "Improved boiler arrangements give higher steam pressure for more power.",
+    "comment": ""
+  },
+  {
+    "line_idx": 306,
+    "type": "key_val",
+    "indent": " ",
+    "key": "cruiser_ship_engine_4",
+    "version": "",
+    "value": "90,000 Shp Engine",
+    "comment": ""
+  },
+  {
+    "line_idx": 307,
+    "type": "key_val",
+    "indent": " ",
+    "key": "cruiser_ship_engine_4_short",
+    "version": "",
+    "value": "Cruiser Engine IV",
+    "comment": ""
+  },
+  {
+    "line_idx": 308,
+    "type": "key_val",
+    "indent": " ",
+    "key": "cruiser_ship_engine_4_desc",
+    "version": "",
+    "value": "Advanced materials make this engine able to run much longer at high load.",
+    "comment": ""
+  },
+  {
+    "line_idx": 309,
+    "type": "key_val",
+    "indent": " ",
+    "key": "heavy_ship_engine_1",
+    "version": "",
+    "value": "30,000 Shp Engine",
+    "comment": ""
+  },
+  {
+    "line_idx": 310,
+    "type": "key_val",
+    "indent": " ",
+    "key": "heavy_ship_engine_1_short",
+    "version": "",
+    "value": "Heavy Engine I",
+    "comment": ""
+  },
+  {
+    "line_idx": 311,
+    "type": "key_val",
+    "indent": " ",
+    "key": "heavy_ship_engine_1_desc",
+    "version": "",
+    "value": "Intended to free up weight for guns and armor, this engine was never designed to give particularly high speed.",
+    "comment": ""
+  },
+  {
+    "line_idx": 312,
+    "type": "key_val",
+    "indent": " ",
+    "key": "heavy_ship_engine_2",
+    "version": "",
+    "value": "90,000 Shp Engine",
+    "comment": ""
+  },
+  {
+    "line_idx": 313,
+    "type": "key_val",
+    "indent": " ",
+    "key": "heavy_ship_engine_2_short",
+    "version": "",
+    "value": "Heavy Engine II",
+    "comment": ""
+  },
+  {
+    "line_idx": 314,
+    "type": "key_val",
+    "indent": " ",
+    "key": "heavy_ship_engine_2_desc",
+    "version": "",
+    "value": "Dramatically more powerful than previous designs, this engine is intended to give a heavy ship a comfortable speed margin over older models.",
+    "comment": ""
+  },
+  {
+    "line_idx": 315,
+    "type": "key_val",
+    "indent": " ",
+    "key": "heavy_ship_engine_3",
+    "version": "",
+    "value": "150,000 Shp Engine",
+    "comment": ""
+  },
+  {
+    "line_idx": 316,
+    "type": "key_val",
+    "indent": " ",
+    "key": "heavy_ship_engine_3_short",
+    "version": "",
+    "value": "Heavy Engine III",
+    "comment": ""
+  },
+  {
+    "line_idx": 317,
+    "type": "key_val",
+    "indent": " ",
+    "key": "heavy_ship_engine_3_desc",
+    "version": "",
+    "value": "As guns and armor grow in weight, this engine was designed to allow for higher speeds to chase down fleeing enemies or keep the range open against superior enemies.",
+    "comment": ""
+  },
+  {
+    "line_idx": 318,
+    "type": "key_val",
+    "indent": " ",
+    "key": "heavy_ship_engine_4",
+    "version": "",
+    "value": "210,000 Shp Engine",
+    "comment": ""
+  },
+  {
+    "line_idx": 319,
+    "type": "key_val",
+    "indent": " ",
+    "key": "heavy_ship_engine_4_short",
+    "version": "",
+    "value": "Heavy Engine IV",
+    "comment": ""
+  },
+  {
+    "line_idx": 320,
+    "type": "key_val",
+    "indent": " ",
+    "key": "heavy_ship_engine_4_desc",
+    "version": "",
+    "value": "Designed with new materials and improved boiler design, this powerplant is intended to allow a modern battleship to keep up with fast carriers and cruisers.",
+    "comment": ""
+  },
+  {
+    "line_idx": 321,
+    "type": "key_val",
+    "indent": " ",
+    "key": "heavy_ship_nuclear_engine_1",
+    "version": "",
+    "value": "Nuclear Heavy Ship Reactor",
+    "comment": ""
+  },
+  {
+    "line_idx": 322,
+    "type": "key_val",
+    "indent": " ",
+    "key": "heavy_ship_nuclear_engine_1_short",
+    "version": "",
+    "value": "Heavy Ship Reactor",
+    "comment": ""
+  },
+  {
+    "line_idx": 323,
+    "type": "key_val",
+    "indent": " ",
+    "key": "heavy_ship_nuclear_engine_1_desc",
+    "version": "",
+    "value": "A powerful nuclear reactor, capable of powering the heaviest of ships without need for refuelling.",
+    "comment": ""
+  },
+  {
+    "line_idx": 324,
+    "type": "key_val",
+    "indent": " ",
+    "key": "carrier_ship_engine_1",
+    "version": "",
+    "value": "50,000 Shp Engine",
+    "comment": ""
+  },
+  {
+    "line_idx": 325,
+    "type": "key_val",
+    "indent": " ",
+    "key": "carrier_ship_engine_1_short",
+    "version": "",
+    "value": "Carrier Engine I",
+    "comment": ""
+  },
+  {
+    "line_idx": 326,
+    "type": "key_val",
+    "indent": " ",
+    "key": "carrier_ship_engine_1_desc",
+    "version": "",
+    "value": "A basic set of engines allow a mid-sized carrier to reach the speeds necessary for the safe operation of aircraft.",
+    "comment": ""
+  },
+  {
+    "line_idx": 327,
+    "type": "key_val",
+    "indent": " ",
+    "key": "carrier_ship_engine_2",
+    "version": "",
+    "value": "120,000 Shp Engine",
+    "comment": ""
+  },
+  {
+    "line_idx": 328,
+    "type": "key_val",
+    "indent": " ",
+    "key": "carrier_ship_engine_2_short",
+    "version": "",
+    "value": "Carrier Engine II",
+    "comment": ""
+  },
+  {
+    "line_idx": 329,
+    "type": "key_val",
+    "indent": " ",
+    "key": "carrier_ship_engine_2_desc",
+    "version": "",
+    "value": "This new powerplant is designed to allow a carrier to outpace most older cruisers and some destroyers, allowing it to evade enemy surface forces.",
+    "comment": ""
+  },
+  {
+    "line_idx": 330,
+    "type": "key_val",
+    "indent": " ",
+    "key": "carrier_ship_engine_3",
+    "version": "",
+    "value": "150,000 Shp Engine",
+    "comment": ""
+  },
+  {
+    "line_idx": 331,
+    "type": "key_val",
+    "indent": " ",
+    "key": "carrier_ship_engine_3_short",
+    "version": "",
+    "value": "Carrier Engine III",
+    "comment": ""
+  },
+  {
+    "line_idx": 332,
+    "type": "key_val",
+    "indent": " ",
+    "key": "carrier_ship_engine_3_desc",
+    "version": "",
+    "value": "An engine designed to allow even large carriers to move at very high speeds.",
+    "comment": ""
+  },
+  {
+    "line_idx": 333,
+    "type": "key_val",
+    "indent": " ",
+    "key": "carrier_ship_engine_4",
+    "version": "",
+    "value": "210,000 Shp Engine",
+    "comment": ""
+  },
+  {
+    "line_idx": 334,
+    "type": "key_val",
+    "indent": " ",
+    "key": "carrier_ship_engine_4_short",
+    "version": "",
+    "value": "Carrier Engine IV",
+    "comment": ""
+  },
+  {
+    "line_idx": 335,
+    "type": "key_val",
+    "indent": " ",
+    "key": "carrier_ship_engine_4_desc",
+    "version": "",
+    "value": "This powerplant was designed to equip a modern 'fast carrier' intended to function as the centerpiece of a carrier group.",
+    "comment": ""
+  },
+  {
+    "line_idx": 336,
+    "type": "key_val",
+    "indent": " ",
+    "key": "carrier_ship_nuclear_engine_1",
+    "version": "",
+    "value": "Nuclear Carrier Reactor",
+    "comment": ""
+  },
+  {
+    "line_idx": 337,
+    "type": "key_val",
+    "indent": " ",
+    "key": "carrier_ship_nuclear_engine_1_short",
+    "version": "",
+    "value": "Carrier Reactor",
+    "comment": ""
+  },
+  {
+    "line_idx": 338,
+    "type": "key_val",
+    "indent": " ",
+    "key": "carrier_ship_nuclear_engine_1_desc",
+    "version": "",
+    "value": "A powerful nuclear reactor, capable of powering colossal carriers without need them needing to refuel.",
+    "comment": ""
+  },
+  {
+    "line_idx": 339,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_armor_bb_1",
+    "version": "",
+    "value": "200mm Belt/40mm Deck",
+    "comment": ""
+  },
+  {
+    "line_idx": 340,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_armor_bb_1_short",
+    "version": "",
+    "value": "Battleship Armor I",
+    "comment": ""
+  },
+  {
+    "line_idx": 341,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_armor_bb_1_desc",
+    "version": "",
+    "value": "Designed to protect a ship against guns of its own caliber, this armor scheme ensures that every part of the ship is well-protected according to its usefulness.",
+    "comment": ""
+  },
+  {
+    "line_idx": 342,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_armor_bc_1",
+    "version": "",
+    "value": "150mm Belt/25mm Deck",
+    "comment": ""
+  },
+  {
+    "line_idx": 343,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_armor_bc_1_short",
+    "version": "",
+    "value": "Battlecruiser Armor I",
+    "comment": ""
+  },
+  {
+    "line_idx": 344,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_armor_bc_1_desc",
+    "version": "",
+    "value": "Designed to protect the ship against smaller guns, this armor scheme weighs far less to allow for higher speed.",
+    "comment": ""
+  },
+  {
+    "line_idx": 345,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_armor_bb_2",
+    "version": "",
+    "value": "350mm Belt/150mm Deck",
+    "comment": ""
+  },
+  {
+    "line_idx": 346,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_armor_bb_2_short",
+    "version": "",
+    "value": "Battleship Armor II",
+    "comment": ""
+  },
+  {
+    "line_idx": 347,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_armor_bb_2_desc",
+    "version": "",
+    "value": "Featuring an inclined belt, this armor scheme is designed to protect a ship of the line against guns of its own caliber.",
+    "comment": ""
+  },
+  {
+    "line_idx": 348,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_armor_bc_2",
+    "version": "",
+    "value": "305mm Belt/100mm Deck",
+    "comment": ""
+  },
+  {
+    "line_idx": 349,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_armor_bc_2_short",
+    "version": "",
+    "value": "Battlecruiser Armor II",
+    "comment": ""
+  },
+  {
+    "line_idx": 350,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_armor_bc_2_desc",
+    "version": "",
+    "value": "A compromise between speed and protection, this armor scheme is designed to defend a ship against the guns of cruisers and destroyers.",
+    "comment": ""
+  },
+  {
+    "line_idx": 351,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_armor_bb_3",
+    "version": "",
+    "value": "380mm Belt/155mm Deck",
+    "comment": ""
+  },
+  {
+    "line_idx": 352,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_armor_bb_3_short",
+    "version": "",
+    "value": "Battleship Armor III",
+    "comment": ""
+  },
+  {
+    "line_idx": 353,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_armor_bb_3_desc",
+    "version": "",
+    "value": "A radical departure from previous armor schemes, this design creates a heavily-armored citadel at the center of the ship but sacrifices protection for other parts of the ship. It is intended to defend a ship against guns of its own caliber.",
+    "comment": ""
+  },
+  {
+    "line_idx": 354,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_armor_bc_3",
+    "version": "",
+    "value": "330mm Belt/130mm Deck",
+    "comment": ""
+  },
+  {
+    "line_idx": 355,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_armor_bc_3_short",
+    "version": "",
+    "value": "Battlecruiser Armor III",
+    "comment": ""
+  },
+  {
+    "line_idx": 356,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_armor_bc_3_desc",
+    "version": "",
+    "value": "Designed with an eye towards weight limitations, this armor scheme attempts to maximize protection for the vital parts of a ship by leaving other areas exposed. This scheme is not supposed to stand up to battleship-grade weaponry for long.",
+    "comment": ""
+  },
+  {
+    "line_idx": 357,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_armor_shbb",
+    "version": "",
+    "value": "450mm Belt/210mm Deck",
+    "comment": ""
+  },
+  {
+    "line_idx": 358,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_armor_shbb_short",
+    "version": "",
+    "value": "Super-Heavy Armor",
+    "comment": ""
+  },
+  {
+    "line_idx": 359,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_armor_shbb_desc",
+    "version": "",
+    "value": "The last word in armor design, this armor scheme is intended to defeat all known main battery projectiles, allowing a ship so equipped to engage and sink any other battleship in the world today.",
+    "comment": ""
+  },
+  {
+    "line_idx": 360,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_armor_cruiser_1",
+    "version": "",
+    "value": "50mm Belt/40mm Deck",
+    "comment": ""
+  },
+  {
+    "line_idx": 361,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_armor_cruiser_1_short",
+    "version": "",
+    "value": "Cruiser Armor I",
+    "comment": ""
+  },
+  {
+    "line_idx": 362,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_armor_cruiser_1_desc",
+    "version": "",
+    "value": "An armor scheme intended to give a cruiser a slight edge when fighting against destroyers and other lightly-armed ships.",
+    "comment": ""
+  },
+  {
+    "line_idx": 363,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_armor_cruiser_2",
+    "version": "",
+    "value": "100mm Belt/30mm Deck",
+    "comment": ""
+  },
+  {
+    "line_idx": 364,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_armor_cruiser_2_short",
+    "version": "",
+    "value": "Cruiser Armor II",
+    "comment": ""
+  },
+  {
+    "line_idx": 365,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_armor_cruiser_2_desc",
+    "version": "",
+    "value": "A heavier belt intended to allow a cruiser to engage older light cruisers and smaller ships with a good deal of protection.",
+    "comment": ""
+  },
+  {
+    "line_idx": 366,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_armor_cruiser_3",
+    "version": "",
+    "value": "120mm Belt/50mm Deck",
+    "comment": ""
+  },
+  {
+    "line_idx": 367,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_armor_cruiser_3_short",
+    "version": "",
+    "value": "Cruiser Armor III",
+    "comment": ""
+  },
+  {
+    "line_idx": 368,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_armor_cruiser_3_desc",
+    "version": "",
+    "value": "Copying methods used for armoring battleships, this armor scheme is designed to keep pace with developments in armaments around the world.",
+    "comment": ""
+  },
+  {
+    "line_idx": 369,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_armor_cruiser_4",
+    "version": "",
+    "value": "150mm Belt/60mm Deck",
+    "comment": ""
+  },
+  {
+    "line_idx": 370,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_armor_cruiser_4_short",
+    "version": "",
+    "value": "Cruiser Armor IV",
+    "comment": ""
+  },
+  {
+    "line_idx": 371,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_armor_cruiser_4_desc",
+    "version": "",
+    "value": "This armor scheme attempts to maximize protection over the areas absolutely needed to keep a ship afloat and in the fight, at the cost of all other areas.",
+    "comment": ""
+  },
+  {
+    "line_idx": 372,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_armor_carrier_deck",
+    "version": "",
+    "value": "90mm Deck",
+    "comment": ""
+  },
+  {
+    "line_idx": 373,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_armor_carrier_deck_short",
+    "version": "",
+    "value": "Flight Deck Armor",
+    "comment": ""
+  },
+  {
+    "line_idx": 374,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_armor_carrier_deck_desc",
+    "version": "",
+    "value": "Heavy armor plates protect the hangar spaces against hits by enemy bombers at the cost of less working space.",
+    "comment": ""
+  },
+  {
+    "line_idx": 375,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_armor_ice_carrier_deck_1",
+    "version": "",
+    "value": "Pykrete Runway Reinforcements",
+    "comment": ""
+  },
+  {
+    "line_idx": 376,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_armor_ice_carrier_deck_1_desc",
+    "version": "",
+    "value": "Additional construction reinforcements, ensuring stronger and more resilient construction, while also providing better resistance against the elements.",
+    "comment": ""
+  },
+  {
+    "line_idx": 377,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_armor_ice_carrier_deck_2",
+    "version": "",
+    "value": "Steel-Reinforced Pykrete Runway",
+    "comment": ""
+  },
+  {
+    "line_idx": 378,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_armor_ice_carrier_deck_2_desc",
+    "version": "",
+    "value": "Steel-Reinforced Pykrete provides sturdier construction, capable of withstanding more damage, while offering better insulation.",
+    "comment": ""
+  },
+  {
+    "line_idx": 379,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_armor_ice_carrier_deck_3",
+    "version": "",
+    "value": "Ice-Composite Runway",
+    "comment": ""
+  },
+  {
+    "line_idx": 380,
+    "type": "key_val",
+    "indent": " ",
+    "key": "ship_armor_ice_carrier_deck_3_desc",
+    "version": "",
+    "value": "Materials and methods used offer the best structure resilience and reducing the impact of weather on the ship operations.",
+    "comment": ""
+  },
+  {
+    "line_idx": 381,
+    "type": "key_val",
+    "indent": " ",
+    "key": "SHIP_DESIGNER_MODULE_SELECTION",
+    "version": "",
+    "value": "§HModule Slot:§! $NAME$\\nSelect a Module:",
+    "comment": ""
+  }
+]

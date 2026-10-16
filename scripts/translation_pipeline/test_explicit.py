@@ -1,0 +1,103 @@
+# -*- coding: utf-8 -*-
+import json
+import re
+
+with open('scripts/all_unique_roots.txt', 'r', encoding='utf-8') as f:
+    roots = [line.strip() for line in f if line.strip()]
+
+with open('scripts/country_base_id.json', 'r', encoding='utf-8') as f:
+    base_map = json.load(f)
+
+with open('scripts/adjectives_id.json', 'r', encoding='utf-8') as f:
+    adj_map = json.load(f)
+
+# Specific historical & unique country overrides in Indonesian
+EXPLICIT_OVERRIDES = {
+    # Major Countries & Mandated Names
+    "German Reich": "Reich Jerman",
+    "Socialist Republic of Germany": "Republik Sosialis Jerman",
+    "German Republic": "Republik Jerman",
+    "German Empire": "Kekaisaran Jerman",
+    "United States": "Amerika Serikat",
+    "United States of America": "Amerika Serikat",
+    "Free American Empire": "Kekaisaran Amerika Bebas",
+    "Communist States of America": "Negara-Negara Komunis Amerika",
+    "Confederate States of America": "Negara-Negara Konfederasi Amerika",
+    "United Kingdom": "Britania Raya",
+    "British Empire": "Imperium Britania",
+    "Union of Britain": "Uni Britania",
+    "Great Britain": "Britania Raya",
+    "Soviet Union": "Uni Soviet",
+    "Russian Federation": "Federasi Rusia",
+    "Russian Empire": "Kekaisaran Rusia",
+    "Russian Soviet Federative Socialist Republic": "Republik Sosialis Federasi Soviet Rusia",
+    "France": "Prancis",
+    "French Republic": "Republik Prancis",
+    "French Commune": "Komune Prancis",
+    "French State": "Negara Prancis",
+    "Bourbon France": "Prancis Bourbon",
+    "Nation Française": "Bangsa Prancis",
+    "Vichy France": "Prancis Vichy",
+    "Free France": "Prancis Bebas",
+    "Italy": "Italia",
+    "Italian Republic": "Republik Italia",
+    "Italian Union": "Uni Italia",
+    "Kingdom of Italy": "Kerajaan Italia",
+    "Italian Empire": "Kekaisaran Italia",
+    "Japanese Empire": "Kekaisaran Jepang",
+    "Empire of Japan": "Kekaisaran Jepang",
+    "Netherlands": "Belanda",
+    "Kingdom of Netherlands": "Kerajaan Belanda",
+    "Dutch East Indies": "Hindia Belanda",
+    "Republic of Indonesia": "Republik Indonesia",
+    "Dominion of Indonesia": "Dominion Indonesia",
+    "United States of Indonesia": "Republik Indonesia Serikat",
+    "Netherlands-Indonesia Union": "Uni Belanda-Indonesia",
+    "Defenders of the Homeland": "Pembela Tanah Air",
+    "People's Democratic Front": "Front Demokrasi Rakyat",
+    "Union of Indonesian Provinces": "Uni Provinsi Indonesia",
+    "Federation of Malayan Peoples": "Federasi Rakyat Melayu",
+    "Union of Malayan Peoples": "Uni Rakyat Melayu",
+    "Malayan Empire": "Kekaisaran Melayu",
+    "British Malaya": "Malaya Britania",
+    "British Raj": "Kemaharajaan Britania",
+    "Dominion of India": "Dominion India",
+    "Republic of India": "Republik India",
+    "Provisional Government of Free India": "Pemerintahan Sementara India Bebas",
+    "Manchukuo": "Manchukuo",
+    "Empire of Manchuria": "Kekaisaran Manchuria",
+    "Mengkukuo": "Mengkukuo",
+    "Republic of China": "Republik Tiongkok",
+    "Chinese People's Republic": "Republik Rakyat Tiongkok",
+    "Reorganized Nationalist China": "Pemerintahan Nasionalis Tiongkok Rekorganisasi",
+    "Reorganized Government of China": "Pemerintahan Tiongkok Rekorganisasi",
+    "Austria-Hungary": "Austria-Hongaria",
+    "Austro-Hungarian Empire": "Kekaisaran Austria-Hongaria",
+    "Holy Roman Empire": "Kekaisaran Romawi Suci",
+    "Roman Empire": "Kekaisaran Romawi",
+    "Byzantine Empire": "Kekaisaran Bizantium",
+    "Ottoman Empire": "Kekaisaran Utsmaniyah",
+    "Third Rome": "Roma Ketiga",
+    "Iberian Union": "Uni Iberia",
+    "Scandinavian Union": "Uni Skandinavia",
+    "Scandinavia": "Skandinavia",
+    "Benelux": "Benelux",
+    "Benelux Federation": "Federasi Benelux",
+    "European Union": "Uni Eropa",
+    "Danubian Federation": "Federasi Donau",
+    "Danubian Confederation": "Konfederasi Donau",
+    "Gran Colombia": "Kolombia Raya",
+    "United Provinces of Central America": "Provinsi Bersatu Amerika Tengah",
+    "Central American Federation": "Federasi Amerika Tengah",
+    "Arab Federation": "Federasi Arab",
+    "United Arab Republic": "Republik Arab Bersatu",
+    "Arab Union": "Uni Arab",
+    "Polynesian Empire": "Kekaisaran Polinesia",
+    "Pacific Federation": "Federasi Pasifik",
+    "League of Nations": "Liga Bangsa-Bangsa",
+    "Weimar Republic": "Republik Weimar",
+    "Generalgouvernement": "Pemerintahan Umum (Generalgouvernement)",
+    "Reichsprotektorat Böhmen-Mähren": "Protektorat Bohemia-Moravia",
+}
+
+print(f"Loaded {len(EXPLICIT_OVERRIDES)} explicit overrides")

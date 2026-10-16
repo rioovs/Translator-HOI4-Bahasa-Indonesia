@@ -1,0 +1,4403 @@
+[
+  {
+    "idx": 3037,
+    "indent": " ",
+    "key": "FOCUS_ICON_SET_HISTORICAL_KEY_FOCUS",
+    "ver": "",
+    "val": "Historical Key Focus",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3039,
+    "indent": " ",
+    "key": "GER_prioritize_economic_growth",
+    "ver": "",
+    "val": "Prioritize Economic Growth",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3040,
+    "indent": " ",
+    "key": "GER_prioritize_economic_growth_desc",
+    "ver": "",
+    "val": "Years of negligent fiscal policies have almost ruined our economy. We must build tractors instead of tanks, hand out shovels instead of rifles, and prioritize economic growth instead of growing the arms industry!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3041,
+    "indent": " ",
+    "key": "GER_currency_reforms",
+    "ver": "",
+    "val": "Currency Reforms",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3042,
+    "indent": " ",
+    "key": "GER_currency_reforms_desc",
+    "ver": "",
+    "val": "The first step of economic recovery and revitalization is to make sweeping currency reforms.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3043,
+    "indent": " ",
+    "key": "GER_lower_taxes",
+    "ver": "",
+    "val": "Lower Taxes",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3044,
+    "indent": " ",
+    "key": "GER_lower_taxes_desc",
+    "ver": "",
+    "val": "The tax burden on our people has gradually become heavier and heavier to pay for the rearmament program. By lessening this burden we might lose out on state income in the short term, but people will be able to spend more of the hard-earned money down the line.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3045,
+    "indent": " ",
+    "key": "GER_workers_rights",
+    "ver": "",
+    "val": "Worker's Rights",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3046,
+    "indent": " ",
+    "key": "GER_workers_rights_desc",
+    "ver": "",
+    "val": "The trade unions have changed fundamentally in the past few years, and are unrecognizable from what they once were. By reforming them we can rally the workers and reap the benefits.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3047,
+    "indent": " ",
+    "key": "GER_abolish_price_controls",
+    "ver": "",
+    "val": "Abolish Price Controls",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3048,
+    "indent": " ",
+    "key": "GER_abolish_price_controls_desc",
+    "ver": "",
+    "val": "The price control measures that have been implemented to bolster the rearmament are stifling the economy. Removing these might lessen the state's funds but will enable people to start new businesses and kick-start the economy.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3049,
+    "indent": " ",
+    "key": "GER_increased_trade",
+    "ver": "",
+    "val": "Increased Trade",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3050,
+    "indent": " ",
+    "key": "GER_increased_trade_desc",
+    "ver": "",
+    "val": "If the German people are to thrive we must import what we cannot extract or build within our own borders. We must look outward and sign new trade deals with other nations - deals that favor us of course.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3051,
+    "indent": " ",
+    "key": "GER_housing_developments",
+    "ver": "",
+    "val": "Housing Developments",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3052,
+    "indent": " ",
+    "key": "GER_housing_developments_desc",
+    "ver": "",
+    "val": "We can revitalize our economy by launching a housing development program, aimed at renovating and creating modern homes and setting a new standard of living.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3053,
+    "indent": " ",
+    "key": "GER_invest_in_vereinigte_stahlwerke",
+    "ver": "",
+    "val": "Invest in Vereinigte Stahlwerke",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3054,
+    "indent": " ",
+    "key": "GER_invest_in_vereinigte_stahlwerke_desc",
+    "ver": "",
+    "val": "Vereinigte Stahlwerke is one of our biggest and most important steel producers. Investing resources into the company will surely yield increased productivity, and transform the German steel industry.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3055,
+    "indent": " ",
+    "key": "GER_industrial_expansion",
+    "ver": "",
+    "val": "Industrial Expansion",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3056,
+    "indent": " ",
+    "key": "GER_industrial_expansion_desc",
+    "ver": "",
+    "val": "Having a strong industry that can compete internationally and pioneer new technologies will be crucial for our continued growth. [ROOT.GetNameDefCap] will become synonymous with quality.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3057,
+    "indent": " ",
+    "key": "GER_agricultural_reforms",
+    "ver": "",
+    "val": "Agricultural Reforms",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3058,
+    "indent": " ",
+    "key": "GER_agricultural_reforms_desc",
+    "ver": "",
+    "val": "Our agricultural sector is mostly made up of small-scale, family-held farms, doing a lot of manual labor. We can reform the entire agrarian sector by introducing modern equipment and increasing the production output of every individual farm. The entirety of our nation stands to benefit!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3059,
+    "indent": " ",
+    "key": "GER_urbanization",
+    "ver": "",
+    "val": "Urbanization",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3060,
+    "indent": " ",
+    "key": "GER_urbanization_desc",
+    "ver": "",
+    "val": "The introduction of modern machinery in agriculture has freed up a lot of people, who now flock to the cities, seeking new employment. These folks can be put to good use in our factories where they can continue to make our economy one of the strongest in the world.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3061,
+    "indent": " ",
+    "key": "GER_wirtschaftswunder",
+    "ver": "",
+    "val": "Wirtschaftswunder",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3062,
+    "indent": " ",
+    "key": "GER_wirtschaftswunder_desc",
+    "ver": "",
+    "val": "All of our programs and initiatives to revitalize the economy have finally paid off! People around the world are in awe of our financial and industrial recovery and call it ‘Wirtschaftswunder’ - an economic miracle.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3063,
+    "indent": " ",
+    "key": "GER_mass_production",
+    "ver": "",
+    "val": "Mass Production",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3064,
+    "indent": " ",
+    "key": "GER_mass_production_desc",
+    "ver": "",
+    "val": "With all the industrial progress we have made recently we have learned a lot about the means of production. We should put all this newly found knowledge and understanding into streamlining our assembly lines and producing material on a scale never before seen.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3065,
+    "indent": " ",
+    "key": "GER_build_defense_industry",
+    "ver": "",
+    "val": "Build a Defense Industry",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3066,
+    "indent": " ",
+    "key": "GER_build_defense_industry_desc",
+    "ver": "",
+    "val": "Having finally been able to stabilize, and even strengthen our economy many folds, we can now turn our attention to securing the sovereignty of our nation and building a proper defense industry, safeguarding the German people’s industriousness and drive for progress and excellence.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3067,
+    "indent": " ",
+    "key": "GER_war_production",
+    "ver": "",
+    "val": "War Production",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3068,
+    "indent": " ",
+    "key": "GER_war_production_desc",
+    "ver": "",
+    "val": "War has engulfed us once again, but we will not buckle and we will not fall! We will mobilize our industrial might and outproduce any foe unwise enough to think they can crush the German people’s unbending will!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3069,
+    "indent": " ",
+    "key": "GER_construct_the_reichsautobahn",
+    "ver": "",
+    "val": "Construct the [GetAutobahnName]",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3070,
+    "indent": " ",
+    "key": "GER_autobahn_fascism",
+    "ver": "",
+    "val": "Reichsautobahn",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3071,
+    "indent": " ",
+    "key": "GER_autobahn_neutral",
+    "ver": "",
+    "val": "Kaiserliche Autobahn",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3072,
+    "indent": " ",
+    "key": "GER_autobahn_democratic",
+    "ver": "",
+    "val": "Autobahn",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3073,
+    "indent": " ",
+    "key": "GER_autobahn_communism",
+    "ver": "",
+    "val": "Volksautobahn",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3074,
+    "indent": " ",
+    "key": "GER_construct_the_reichsautobahn_desc",
+    "ver": "",
+    "val": "$GER_autobahn_desc$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3075,
+    "indent": " ",
+    "key": "GER_kdf_wagen_factories",
+    "ver": "",
+    "val": "[GetKfdWagenNames]",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3076,
+    "indent": " ",
+    "key": "GER_kdf_wagen_factories_fascist",
+    "ver": "",
+    "val": "KdF-Wagen Factories",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3077,
+    "indent": " ",
+    "key": "GER_kdf_wagen_factories_neutral",
+    "ver": "",
+    "val": "Wilhelm-Wagen Factories",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3078,
+    "indent": " ",
+    "key": "GER_kdf_wagen_factories_volkswagen",
+    "ver": "",
+    "val": "Volkswagen Factories",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3079,
+    "indent": " ",
+    "key": "GER_kdf_wagen_factories_desc",
+    "ver": "",
+    "val": "[GetKDFFactoriesText]",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3080,
+    "indent": " ",
+    "key": "GER_kdf_wagen_factories_autarky_text",
+    "ver": "",
+    "val": "$GER_kdf_wagen_desc$",
+    "comment": " #old loc ",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3081,
+    "indent": " ",
+    "key": "GER_kdf_wagen_factories_economic_growth_text",
+    "ver": "",
+    "val": "With our new [GetAutobahnName]s constructed, we must fill them with cars. To become a truly prosperous and modern economy we need to construct factories that can produce these cars - all the while creating jobs and employment.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3082,
+    "indent": " ",
+    "key": "GER_expand_the_reichsautobahn_south",
+    "ver": "",
+    "val": "Expand the [GetAutobahnName] South",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3083,
+    "indent": " ",
+    "key": "GER_expand_the_reichsautobahn_south_desc",
+    "ver": "",
+    "val": "Expanding the Autobahn network south will stimulate economic growth and development in the region. It will also strengthen our military capabilities by enabling rapid troop transportation towards the Alps.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3084,
+    "indent": " ",
+    "key": "GER_expand_the_reichsautobahn_south_tt",
+    "ver": "",
+    "val": "Add §G1§! §Y$infrastructure$§! in §Y[53.GetName]§!, §Y[52.GetName]§!, §Y[152.GetName]§!, §Y[4.GetName]§! and a level §Y1§! railway from §Y[53.GetName]§! to §Y[4.GetName]§!, if §Y[ROOT.GetName]§! or a German subject controls the states. Current effect:",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3085,
+    "indent": " ",
+    "key": "GER_expand_the_reichsautobahn_east",
+    "ver": "",
+    "val": "Expand the [GetAutobahnName] East",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3086,
+    "indent": " ",
+    "key": "GER_expand_the_reichsautobahn_east_desc",
+    "ver": "",
+    "val": "Expanding the Autobahn network towards East Prussia will showcase our nation’s determination to once again connect and unify our easternmost region with the rest of [ROOT.GetNameDef]. It will also allow us to strike eastward harder and faster if needed.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3087,
+    "indent": " ",
+    "key": "GER_expand_the_reichsautobahn_east_tt",
+    "ver": "",
+    "val": "Add §G1§! §Y$infrastructure$§! in §Y[68.GetName]§!, §Y[63.GetName]§!, §Y[807.GetName]§!, §Y[85.GetName]§! and a level §Y1§! railway from §Y[63.GetName]§! to §Y[85.GetName]§!, if §Y[ROOT.GetName]§! or a German subject controls the states. Current effect:",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3088,
+    "indent": " ",
+    "key": "GER_develop_heraeus_facilities",
+    "ver": "",
+    "val": "Develop Heraeus Research Facilities",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3089,
+    "indent": " ",
+    "key": "GER_develop_heraeus_facilities_desc",
+    "ver": "",
+    "val": "Investing in new facilities can secure access to the growing demand for precious metals that a modern military needs. These specialized materials are essential for electronics and high-quality armament.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3090,
+    "indent": " ",
+    "key": "GER_build_the_rur_dam",
+    "ver": "",
+    "val": "Build the Rur Dam",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3091,
+    "indent": " ",
+    "key": "GER_build_the_rur_dam_desc",
+    "ver": "",
+    "val": "Constructing the Rur Dam is more than simply a feat of engineering - it’s an investment for the future. The dam would not only bolster the economic development in the region, it would also help fuel our industrial efforts and production output.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3092,
+    "indent": " ",
+    "key": "GER_trade_deal_with_sweden",
+    "ver": "",
+    "val": "Trade Deal with Sweden",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3093,
+    "indent": " ",
+    "key": "GER_trade_deal_with_sweden_desc",
+    "ver": "",
+    "val": "$GER_swedish_trade_agreement_desc$",
+    "comment": " #old loc",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3094,
+    "indent": " ",
+    "key": "GER_the_four_year_plan",
+    "ver": "",
+    "val": "The Four-Year Plan",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3095,
+    "indent": " ",
+    "key": "GER_the_four_year_plan_desc",
+    "ver": "",
+    "val": "$GER_four_year_plan_desc$",
+    "comment": " #old loc",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3096,
+    "indent": " ",
+    "key": "GER_autarky_efforts",
+    "ver": "",
+    "val": "Autarky Efforts",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3097,
+    "indent": " ",
+    "key": "GER_autarky_efforts_desc",
+    "ver": "",
+    "val": "$GER_autarky_desc$",
+    "comment": " #old loc",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3098,
+    "indent": " ",
+    "key": "GER_gain_autarkic_economy_lock_free_trade_tt",
+    "ver": "",
+    "val": "§RLock§! §Y$free_trade$§! and §Y$export_focus$§!. Gain §Y$autarkic_economy$§!.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3099,
+    "indent": " ",
+    "key": "GER_improve_trade_relations_tt",
+    "ver": "",
+    "val": "Improve §YTrade Influence§! with current and future §YFaction Members§!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3100,
+    "indent": " ",
+    "key": "GER_institute_price_controls",
+    "ver": "",
+    "val": "Institute Price Controls",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3101,
+    "indent": " ",
+    "key": "GER_institute_price_controls_desc",
+    "ver": "",
+    "val": "We must impose various measures to strengthen our control over the finances so it won't buckle under our ambitious goals of becoming self-sufficient. We must be able to regulate the prices of imports, essential goods, and worker's wages to curb inflation and secure economic stability.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3102,
+    "indent": " ",
+    "key": "GER_unlock_price_controls_decision_tt",
+    "ver": "",
+    "val": "Unlocks Decision: §Y$GER_price_controls_cat$§!, which can reduce §Y$MODIFIER_CONSUMER_GOODS_FACTOR$§!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3103,
+    "indent": " ",
+    "key": "GER_industrial_consumer_goods_factor_limit_tt",
+    "ver": "",
+    "val": "§Y[GetIndustrialModifier]§! have §Rless§! than $MODIFIER_CONSUMER_GOODS_FACTOR$: §Y90%§!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3104,
+    "indent": " ",
+    "key": "GER_establish_the_reichswerke",
+    "ver": "",
+    "val": "Establish the $GER_reichswerke$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3105,
+    "indent": " ",
+    "key": "GER_establish_the_reichswerke_desc",
+    "ver": "",
+    "val": "$GER_hermann_goring_werke_desc$",
+    "comment": " #old loc",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3106,
+    "indent": " ",
+    "key": "GER_unlock_reichswerke_tt",
+    "ver": "",
+    "val": "Unlocks the Industrial Concern §Y$GER_reichswerke$§!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3107,
+    "indent": " ",
+    "key": "GER_seize_foreign_industries",
+    "ver": "",
+    "val": "Seize Foreign Industries",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3108,
+    "indent": " ",
+    "key": "GER_seize_foreign_industries_desc",
+    "ver": "",
+    "val": "By integrating foreign industries into our economy we secure vital resources that bolster our war effort and production.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3109,
+    "indent": " ",
+    "key": "GER_coal_liquefaction",
+    "ver": "",
+    "val": "Coal Liquefaction",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3110,
+    "indent": " ",
+    "key": "GER_coal_liquefaction_desc",
+    "ver": "",
+    "val": "$GER_coal_liquidization_desc$",
+    "comment": " #old loc",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3111,
+    "indent": " ",
+    "key": "GER_subsidize_hoesch_benzin",
+    "ver": "",
+    "val": "Subsidize Hoesch-Benzin",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3112,
+    "indent": " ",
+    "key": "GER_subsidize_hoesch_benzin_desc",
+    "ver": "",
+    "val": "It used to be said that an army marches on its stomach, but a modern army runs on fuel. To sustain our military capabilities, we must intensify our efforts to produce synthetic fuels.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3113,
+    "indent": " ",
+    "key": "GER_establish_buna_werke",
+    "ver": "",
+    "val": "Establish Buna-Werke",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3114,
+    "indent": " ",
+    "key": "GER_establish_buna_werke_desc",
+    "ver": "",
+    "val": "Large-scale motorization and aviation requires large amounts of rubber, of which we own no sources in Germany proper. In order to become less reliant on foreign trade we must build factories that can produce synthetic rubber.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3115,
+    "indent": " ",
+    "key": "GER_autarky_achieved",
+    "ver": "",
+    "val": "Autarky Achieved",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3116,
+    "indent": " ",
+    "key": "GER_autarky_achieved_desc",
+    "ver": "",
+    "val": "We have finally achieved our ambitious goals of becoming fully self-sufficient! Our nation has become abundantly rich with natural resources, which will only strengthen us further - making us unstoppable!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3117,
+    "indent": " ",
+    "key": "GER_improve_autarkic_economy_tt",
+    "ver": "",
+    "val": "Improve §Y$autarkic_economy$§!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3118,
+    "indent": " ",
+    "key": "GER_accelerate_the_rearmament_program",
+    "ver": "",
+    "val": "Accelerate the Rearmament Program",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3119,
+    "indent": " ",
+    "key": "GER_accelerate_the_rearmament_program_desc",
+    "ver": "",
+    "val": "We must break the shackles of the Versailles Treaty, and let the anvils of industry forge a glorious destiny for [ROOT.GetNameDef]. Every tank produced, every plane assembled will stand as a testimony to the unbending will of the German people.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3120,
+    "indent": " ",
+    "key": "GER_concentrated_armament_program",
+    "ver": "",
+    "val": "Concentrated Armament Program",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3121,
+    "indent": " ",
+    "key": "GER_concentrated_armament_program_desc",
+    "ver": "",
+    "val": "Our industries must support our military needs to rearm our nation. A comprehensive rearmament program to rapidly modernize and expand our armed forces must be launched!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3122,
+    "indent": " ",
+    "key": "GER_establish_production_targets",
+    "ver": "",
+    "val": "Establish Production Targets",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3123,
+    "indent": " ",
+    "key": "GER_establish_production_targets_desc",
+    "ver": "",
+    "val": "Before we can launch any military campaigns, we must first modernize and equip our armed forces. In order to ramp up production output, we must implement quotas and ambitious production targets.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3124,
+    "indent": " ",
+    "key": "GER_prioritize_the_army",
+    "ver": "",
+    "val": "Prioritize the Army",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3125,
+    "indent": " ",
+    "key": "GER_prioritize_the_army_desc",
+    "ver": "",
+    "val": "Germany, and Prussia before that, have always been a land power and relied on the army to safeguard our sovereignty and security. We must redirect our industrial efforts to ensure our army is well-equipped and capable of subjugating any foe.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3126,
+    "indent": " ",
+    "key": "GER_prioritize_the_navy",
+    "ver": "",
+    "val": "Prioritize the Navy",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3127,
+    "indent": " ",
+    "key": "GER_prioritize_the_navy_desc",
+    "ver": "",
+    "val": "Control over the seas will be vital if we want to expand our reach beyond our current borders. We must prioritize the navy so that it can rival any enemy fleet in size and power.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3128,
+    "indent": " ",
+    "key": "GER_extra_funds_to_waffenamt",
+    "ver": "",
+    "val": "Extra Funds to Waffenamt",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3129,
+    "indent": " ",
+    "key": "GER_extra_funds_to_waffenamt_desc",
+    "ver": "",
+    "val": "The Waffenamt, or Weapon Agency, supervises the design and development of military equipment. It collaborates with arms manufacturers and research institutes, and by giving it extra funds we might increase the rate of progress.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3130,
+    "indent": " ",
+    "key": "GER_zentrale_planung",
+    "ver": "",
+    "val": "Form the Zentrale Planung",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3131,
+    "indent": " ",
+    "key": "GER_zentrale_planung_desc",
+    "ver": "",
+    "val": "The war has exposed shortcomings in our armament efforts, shortcomings we must address! By forming a Central Planning Board with members from the government, industries, and military, we can coordinate economic policies and redirect resources efficiently to bolster our arms production and support our national goals and military supremacy.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3132,
+    "indent": " ",
+    "key": "GER_criteria_for_economy_laws_tt",
+    "ver": "",
+    "val": "Having §Y$partial_economic_mobilisation$§! enabled will change the Economy Law to §Y$war_economy$§! if it is available.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3133,
+    "indent": " ",
+    "key": "GER_create_rustungsstab",
+    "ver": "",
+    "val": "Create the Rüstungsstab",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3134,
+    "indent": " ",
+    "key": "GER_create_rustungsstab_desc",
+    "ver": "",
+    "val": "Our effort to streamline weapons manufacturing has proved successful, but further improvements are needed! Creating an Armaments Staff would allow us to devise strategies to allocate resources and prioritize projects to increase our arms production.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3135,
+    "indent": " ",
+    "key": "GER_armament_rationalization",
+    "ver": "",
+    "val": "Armament Rationalization",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3136,
+    "indent": " ",
+    "key": "GER_armament_rationalization_desc",
+    "ver": "",
+    "val": "Our production lines can barely keep up with our armed forces' needs. We must implement armament rationalization measures to increase the efficiency and effectiveness of our industrial war machine.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3137,
+    "indent": " ",
+    "key": "GER_totaler_krieg",
+    "ver": "",
+    "val": "Totaler Krieg",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3138,
+    "indent": " ",
+    "key": "GER_totaler_krieg_desc",
+    "ver": "",
+    "val": "To achieve total victory, we must mobilize our entire society and bring total war to our enemy’s doorstep. It’s time for [ROOT.GetNameDef] to rise up, and let the storm break loose!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3139,
+    "indent": " ",
+    "key": "GER_gain_totaler_krieg_remove_total_mob_tt",
+    "ver": "",
+    "val": "§RRemove§! §Y$tot_economic_mobilisation$§!. Gain §Y$totaler_krieg_economy$§!.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3141,
+    "indent": " ",
+    "key": "GER_develop_modern_maneuver_warfare",
+    "ver": "",
+    "val": "Develop Modern Maneuver Warfare",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3142,
+    "indent": " ",
+    "key": "GER_develop_modern_maneuver_warfare_desc",
+    "ver": "",
+    "val": "We must recognize the evolving nature of modern warfare and develop a new doctrine emphasizing the integration of infantry and new technologies to maximize our military effectiveness on the battlefield.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3143,
+    "indent": " ",
+    "key": "GER_fortify_the_vaterland",
+    "ver": "",
+    "val": "Fortify the Vaterland",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3144,
+    "indent": " ",
+    "key": "GER_fortify_the_vaterland_desc",
+    "ver": "",
+    "val": "To secure [GER.GetNameDef] we must construct fortifications wherever needed. Fortifying our defenses will allow us to hold the borders with fewer men, freeing up divisions to participate in any potential offensives elsewhere.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3145,
+    "indent": " ",
+    "key": "GER_fortify_the_vaterland_unlock_decision_tt",
+    "ver": "",
+    "val": "Unlocks Decision: §Y$GER_fortify_the_vaterland_cat$§!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3146,
+    "indent": " ",
+    "key": "GER_all_terrain_military_motorcycle",
+    "ver": "",
+    "val": "All-Terrain Military Motorcycle",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3147,
+    "indent": " ",
+    "key": "GER_all_terrain_military_motorcycle_desc",
+    "ver": "",
+    "val": "The importance of rapid reconnaissance cannot be overestimated. Investing in motorbike units will provide crucial battlefield intelligence, yielding strategic decision-making and enhancing operational effectiveness.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3148,
+    "indent": " ",
+    "key": "GER_salvage_captured_equipment",
+    "ver": "",
+    "val": "Salvage Captured Equipment",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3149,
+    "indent": " ",
+    "key": "GER_salvage_captured_equipment_desc",
+    "ver": "",
+    "val": "By establishing facilities to salvage and repurpose captured enemy equipment for our military, we can refurbish and integrate captured weapons, vehicles, and machinery to bolster our armed forces.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3150,
+    "indent": " ",
+    "key": "GER_salvage_captured_equipment_custom_tt",
+    "ver": "",
+    "val": "Two random [ROOT.GetAdjective] generals will gain the §YScavenger§! trait.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3151,
+    "indent": " ",
+    "key": "GER_unlock_operational_planning_blitzkrieg_tt",
+    "ver": "",
+    "val": "Unlocks Decision: §Y$GER_operational_planning_category$§!, which when activated will grant for §Y45 days§!:",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3152,
+    "indent": " ",
+    "key": "GER_unlock_operational_planning_bewegungskrieg_tt",
+    "ver": "",
+    "val": "Unlocks Decision: §Y$GER_operational_planning_category$§!, which when activated will grant for §Y90 days§!:",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3153,
+    "indent": " ",
+    "key": "GER_the_prussian_legacy",
+    "ver": "",
+    "val": "The Prussian Legacy",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3154,
+    "indent": " ",
+    "key": "GER_the_prussian_legacy_desc",
+    "ver": "",
+    "val": "'Where some states have an army, the Prussian Army has a state', Voltaire once said. We will embody this by evolving the old German doctrine of Bewegungskrieg - maneuver warfare - to ensure swift and overwhelming victories on the battlefield.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3155,
+    "indent": " ",
+    "key": "GER_improve_motorized_troops",
+    "ver": "",
+    "val": "Improve the Motorized Troops",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3156,
+    "indent": " ",
+    "key": "GER_improve_motorized_troops_desc",
+    "ver": "",
+    "val": "Modern warfare revolves around speed and rapid offensive capabilities. We must ensure that our Schnelltruppen, our motorized units, are ready and capable of leading the charge and delivering a quick and decisive victory.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3157,
+    "indent": " ",
+    "key": "GER_lessons_of_the_great_war",
+    "ver": "",
+    "val": "Lessons of the Great War",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3158,
+    "indent": " ",
+    "key": "GER_lessons_of_the_great_war_desc",
+    "ver": "",
+    "val": "Our failures in the Great War offer invaluable insights crucial for our future conflicts. We have studied the past in great detail, and now we must implement the lessons taught by history.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3159,
+    "indent": " ",
+    "key": "GER_stormtroopers",
+    "ver": "",
+    "val": "Stormtroopers",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3160,
+    "indent": " ",
+    "key": "GER_stormtroopers_desc",
+    "ver": "",
+    "val": "The Stosstruppen of the Great War were elite shock troopers meant to lead assaults on the enemy's trenches and create breakthroughs the main infantry could exploit. We should revive this idea and train new elite shock troopers that will epitomize speed, agility, and ruthless efficiency on the battlefield.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3161,
+    "indent": " ",
+    "key": "GER_sturmtruppe_battalion_tt",
+    "ver": "",
+    "val": "Unlocks support battalion §Y$sturmtruppe_battalion$§!.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3162,
+    "indent": " ",
+    "key": "GER_artillery_bombardment",
+    "ver": "",
+    "val": "Artillery Bombardment",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3163,
+    "indent": " ",
+    "key": "GER_artillery_bombardment_desc",
+    "ver": "",
+    "val": "The infantry is the backbone of our army, and for them to excel they need proper support. We must invest heavily in artillery so that our infantry can press any advantages and vanquish any foe before them.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3164,
+    "indent": " ",
+    "key": "GER_instill_auftragstaktik",
+    "ver": "",
+    "val": "Instill Auftragstaktik",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3165,
+    "indent": " ",
+    "key": "GER_instill_auftragstaktik_desc",
+    "ver": "",
+    "val": "Our military has long practiced auftragstaktik, or mission command, emphasizing decentralized command and individual initiative. This has led to flexibility and autonomy, enhancing our ability to adapt and succeed in unforeseen situations. It is paramount that we continue this practice for our forces to be ever-victorious!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3166,
+    "indent": " ",
+    "key": "GER_establish_the_afrikakorps",
+    "ver": "",
+    "val": "Establish the Afrikakorps",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3167,
+    "indent": " ",
+    "key": "GER_establish_the_afrikakorps_desc",
+    "ver": "",
+    "val": "To be able to disrupt our enemy’s supply lines and secure vital resources and strategic positions, we must take the war out of Europe and onto foreign shores!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3168,
+    "indent": " ",
+    "key": "GER_unlock_operational_planning_in_africa_tt",
+    "ver": "",
+    "val": "Unlocks Decision: §YOperational Planning in Africa§!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3169,
+    "indent": " ",
+    "key": "GER_revive_the_schutztruppe",
+    "ver": "",
+    "val": "Revive the Schutztruppe",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3170,
+    "indent": " ",
+    "key": "GER_revive_the_schutztruppe_desc",
+    "ver": "",
+    "val": "The Schutztruppen were the colonial troops we employed in our African territories of our colonial empire. They served us well during the  East African Campaign of the Great War as well as during earlier smaller-scale conflicts. Seeing as our eyes are once again looking towards Africa and Asia, it might be time to reestablish the colonial offices and consider a new and improved Schutztruppe corps.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3171,
+    "indent": " ",
+    "key": "GER_revive_the_schutztruppe_tt",
+    "ver": "",
+    "val": "Unlocks §YSchutztruppe§! colonial militias and decisions to §YRecruit§! and §YImprove§! them",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3172,
+    "indent": " ",
+    "key": "GER_establish_the_skijager",
+    "ver": "",
+    "val": "Establish the Skijäger",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3173,
+    "indent": " ",
+    "key": "GER_establish_the_skijager_desc",
+    "ver": "",
+    "val": "To ensure that our armed forces maintain their effectiveness and adaptability in all weather conditions, we must master the art of winter warfare. To this end, we will train and equip specialized mountain troops, known as Skijäger, to operate effectively in snowy and mountainous terrain.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3174,
+    "indent": " ",
+    "key": "GER_panzergrenadier",
+    "ver": "",
+    "val": "Panzergrenadier",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3175,
+    "indent": " ",
+    "key": "GER_panzergrenadier_desc",
+    "ver": "",
+    "val": "Our military doctrine rests on mobility and will depend on how well our motorized troops perform. Neither infantry nor panzer divisions will be successful in their advancements without proper support. By integrating mechanized infantry with our spearheads, we ensure our forces maintain superiority in offensive operations.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3176,
+    "indent": " ",
+    "key": "GER_modify_bewegungskrieg_or_blitzkrieg_tt",
+    "ver": "",
+    "val": "Modify §Y$GER_blitzkrieg_modifier$§! or §Y$GER_bewegungskrieg_modifier$§! by:",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3177,
+    "indent": " ",
+    "key": "GER_heavy_armored_car_recon_company_tt",
+    "ver": "",
+    "val": "\\n§Y$armored_car_recon$§!:\\n§YArmor§!: §G+5%§!\\n§YForest§!:\\n Movement Effective Change: §G+5%§!\\n§YDesert§!:\\n  Movement Effective Change: §G+10%§!\\n§YPlains§!:\\n Movement Effective Change: §G+10%§!\\n",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3178,
+    "indent": " ",
+    "key": "GER_nationalize_ford_factories",
+    "ver": "",
+    "val": "Nationalize Ford Factories",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3179,
+    "indent": " ",
+    "key": "GER_nationalize_ford_factories_desc",
+    "ver": "",
+    "val": "Seizing control of Ford’s factories in [51.GetName] and placing them under state control would strengthen our industrial capacity and ensure a steady supply of vital equipment and vehicles to support our armed forces and logistics.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3180,
+    "indent": " ",
+    "key": "GER_kriegslokomotiven",
+    "ver": "",
+    "val": "Kriegslokomotiven",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3181,
+    "indent": " ",
+    "key": "GER_kriegslokomotiven_desc",
+    "ver": "",
+    "val": "The logistical challenges of warfare necessitate the production of kriegslokomotiven, or war locomotives. These trains will be tailored towards our economic circumstances and the need for rapid, cheap mass production.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3182,
+    "indent": " ",
+    "key": "GER_improve_the_logistics_system",
+    "ver": "",
+    "val": "Improve the Logistics System",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3183,
+    "indent": " ",
+    "key": "GER_improve_the_logistics_system_desc",
+    "ver": "",
+    "val": "Too many of our generals in the High Command have a dismissive attitude toward logistics and supply chains, suffering from a lack of understanding of the issues of our current system. They must be made aware of the paramount importance of efficient logistics in modern warfare as we embark on a comprehensive initiative to enhance our logistical system.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3184,
+    "indent": " ",
+    "key": "GER_defend_the_vaterland",
+    "ver": "",
+    "val": "Defend the Vaterland",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3185,
+    "indent": " ",
+    "key": "GER_defend_the_vaterland_desc",
+    "ver": "",
+    "val": "With threats looming at our borders, we must stand firm in defense of the Vaterland! To safeguard the German people, we have to fortify our positions and rally our troops - [ROOT.GetNameDef] will persevere and triumph!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3186,
+    "indent": " ",
+    "key": "GER_uranverein",
+    "ver": "",
+    "val": "Uranverein",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3187,
+    "indent": " ",
+    "key": "GER_uranverein_desc",
+    "ver": "",
+    "val": "Our nation must pioneer the research of atomic energy and harness its potential for ourselves. We have some of the sharpest minds on Earth to pursue this and become the destroyer of worlds.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3188,
+    "indent": " ",
+    "key": "GER_adopt_new_panzer_doctrine",
+    "ver": "",
+    "val": "Adopt New Panzer Doctrine",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3189,
+    "indent": " ",
+    "key": "GER_adopt_new_panzer_doctrine_desc",
+    "ver": "",
+    "val": "$GER_army_innovation_desc$",
+    "comment": " #old loc",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3190,
+    "indent": " ",
+    "key": "GER_panzer_troops_school",
+    "ver": "",
+    "val": "Panzer Troops School",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3191,
+    "indent": " ",
+    "key": "GER_panzer_troops_school_desc",
+    "ver": "",
+    "val": "The panzer divisions will play a pivotal role in any modern conflict, and we must ensure that our armored forces are at the forefront of military innovation. Through rigorous training and expert instructors, we will cultivate the elite panzer units necessary for victory.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3192,
+    "indent": " ",
+    "key": "GER_advanced_panzer_research",
+    "ver": "",
+    "val": "Advanced Panzer Research",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3193,
+    "indent": " ",
+    "key": "GER_advanced_panzer_research_desc",
+    "ver": "",
+    "val": "Allocating resources to research and develop cutting-edge tank technologies will yield new insights and breakthrough results. This will enhance our combat capabilities, making our panzers even deadlier.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3194,
+    "indent": " ",
+    "key": "GER_expand_kummersdorfs_capacity",
+    "ver": "",
+    "val": "Expand Kummersdorf's Capacity",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3195,
+    "indent": " ",
+    "key": "GER_expand_kummersdorfs_capacity_desc",
+    "ver": "",
+    "val": "We must lead the charge in panzer development and spearhead innovations to ensure our dominance on the battlefield. By studying enemy tank designs at the facilities at Kummerdorf and leveraging cutting-edge technology, we'll pioneer advancements that outmatch all rivals.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3196,
+    "indent": " ",
+    "key": "GER_combined_arms",
+    "ver": "",
+    "val": "Combined Arms",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3197,
+    "indent": " ",
+    "key": "GER_combined_arms_desc",
+    "ver": "",
+    "val": "The rapid advancements in technology have changed how warfare is conducted, something we ought to take advantage of. Embracing the principle of combined arms and establishing a comprehensive strategy to synchronize infantry, armor, and air support, we will create a formidable fighting force and assure their supremacy.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3199,
+    "indent": " ",
+    "key": "GER_expanding_the_luftwaffe",
+    "ver": "",
+    "val": "Expanding the Luftwaffe",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3200,
+    "indent": " ",
+    "key": "GER_expanding_the_luftwaffe_desc",
+    "ver": "",
+    "val": "$air_innovation_desc$",
+    "comment": " #old loc",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3201,
+    "indent": " ",
+    "key": "GER_aeronautical_research_institute",
+    "ver": "",
+    "val": "Aeronautical Research Institute",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3202,
+    "indent": " ",
+    "key": "GER_aeronautical_research_institute_desc",
+    "ver": "",
+    "val": "Airwarfare has grown in importance and complexity since the Great War, and since the Versailles Treaty forbade us from fielding an air force, we have been lagging behind in aircraft development. To remedy this, we must build a Luftfahrtforschungsanstalt, or an Aeronautical Research Institute, to develop innovative airframes, engines, and weapons to secure air supremacy.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3203,
+    "indent": " ",
+    "key": "GER_dive_bombers",
+    "ver": "",
+    "val": "Dive Bombers",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3204,
+    "indent": " ",
+    "key": "GER_dive_bombers_desc",
+    "ver": "",
+    "val": "$GER_tactical_air_effort_desc$",
+    "comment": " #old loc",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3205,
+    "indent": " ",
+    "key": "GER_tactical_bombers",
+    "ver": "",
+    "val": "Tactical Bombers",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3206,
+    "indent": " ",
+    "key": "GER_tactical_bombers_desc",
+    "ver": "",
+    "val": "$GER_strategic_air_effort_desc$ Leveling every factory outside our borders with the ground will guarantee that only we can field an effective military.",
+    "comment": " #Old and new loc",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3207,
+    "indent": " ",
+    "key": "GER_uralbomber_program",
+    "ver": "",
+    "val": "Uralbomber Program",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3208,
+    "indent": " ",
+    "key": "GER_uralbomber_program_desc",
+    "ver": "",
+    "val": "Victory will be achieved once we can reach our enemies wherever they may be. Developing an aircraft capable of flying to the Ural Mountains would put almost any potential enemy within our reach.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3209,
+    "indent": " ",
+    "key": "GER_aerodynamic_research_institute",
+    "ver": "",
+    "val": "Aerodynamic Research Institute",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3210,
+    "indent": " ",
+    "key": "GER_aerodynamic_research_institute_desc",
+    "ver": "",
+    "val": "[ROOT.GetNameDefCap] has recently become synonymous with air innovation as we have invested heavily in our Air Force. We must continue to pour resources into this field to stay ahead of the competition. Funding the Aerodynamic Research Institute and their development of new propulsion techniques will surely yield new innovations in our pursuit to become masters of the sky.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3211,
+    "indent": " ",
+    "key": "GER_aerodynamic_research_institute_tt",
+    "ver": "",
+    "val": "Unlocks the MIO trait §Y$GER_mio_trait_aerodynamic_research_insitute$§! for all §YPlane Designers§!. §RIt can however only be applied to one of them§!.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3212,
+    "indent": " ",
+    "key": "GER_fallschirmjager",
+    "ver": "",
+    "val": "Fallschirmjäger",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3213,
+    "indent": " ",
+    "key": "GER_fallschirmjager_desc",
+    "ver": "",
+    "val": "The strategic importance of airborne troops, the Fallschirmjäger, has not been lost to us. Training these elite paratroopers for rapid deployment behind enemy lines will enhance their versatility and combat prowess, bolstering our overall offensive capabilities.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3214,
+    "indent": " ",
+    "key": "GER_unlocks_eben_emael_raid_tt",
+    "ver": "",
+    "val": "Unlocks §YParatrooper Raid§! on §YEben Emael§!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3215,
+    "indent": " ",
+    "key": "GER_form_the_jagdwaffe",
+    "ver": "",
+    "val": "Form the Jagdwaffe",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3216,
+    "indent": " ",
+    "key": "GER_form_the_jagdwaffe_desc",
+    "ver": "",
+    "val": "We should form a Jagdwaffe, a dedicated force of fighter aircraft, to secure air superiority. Combining rigorous training, advanced tactics, and cutting-edge technology, we will dominate the skies and allow our land forces to roll across the battlefield, shaking the ground like thunder.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3217,
+    "indent": " ",
+    "key": "GER_reorganize_the_luftwaffe",
+    "ver": "",
+    "val": "Reorganize the Luftwaffe",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3218,
+    "indent": " ",
+    "key": "GER_reorganize_the_luftwaffe_desc",
+    "ver": "",
+    "val": "Even though our Air Force was formed just a few years ago, it has become a formidable instrument of national power. However, its quick formation and rapid expansion have left several structural faults in the organization. Delegating more responsibilities, and discouraging competitiveness and internal power struggle, will empower our Air Force to achieve greater operational efficiency and effectiveness.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3219,
+    "indent": " ",
+    "key": "GER_solve_the_logistical_bottlenecks",
+    "ver": "",
+    "val": "Solve the Logistical Bottlenecks",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3220,
+    "indent": " ",
+    "key": "GER_solve_the_logistical_bottlenecks_desc",
+    "ver": "",
+    "val": "With the Air Force reorganization done, we can turn our attention toward the ineffective logistical system and supply chains. Streamlining these issues will free up more people to do other things and will facilitate faster repairs of our aircraft.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3221,
+    "indent": " ",
+    "key": "GER_experimental_rotorcrafts",
+    "ver": "",
+    "val": "Experimental Rotorcrafts",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3222,
+    "indent": " ",
+    "key": "GER_experimental_rotorcrafts_desc",
+    "ver": "",
+    "val": "By investing in cutting-edge designs and developing new technologies, we strive to develop early prototypes that will revolutionize aerial mobility on the battlefield. We aspire to efficiently transform the capabilities of vertical takeoff and landing with so-called helicopters.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3223,
+    "indent": " ",
+    "key": "GER_develop_the_knickebein",
+    "ver": "",
+    "val": "Develop the Knickebein",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3224,
+    "indent": " ",
+    "key": "GER_develop_the_knickebein_desc",
+    "ver": "",
+    "val": "By using an intricate system of radio navigation we have found a way of guiding our aircraft to make more accurate precision bombing. By utilizing these new technologies, we might be able to more effectively level our enemy's factories with the ground - even during the night.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3225,
+    "indent": " ",
+    "key": "GER_defense_of_the_reich",
+    "ver": "",
+    "val": "Defense of [GetDefenseofGermanyName]",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3226,
+    "indent": " ",
+    "key": "GER_defense_of_the_reich_fascism",
+    "ver": "",
+    "val": "the Reich",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3227,
+    "indent": " ",
+    "key": "GER_defense_of_the_reich_neutral",
+    "ver": "",
+    "val": "the Empire",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3228,
+    "indent": " ",
+    "key": "GER_defense_of_the_reich_democratic",
+    "ver": "",
+    "val": "[GER.GetName]",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3229,
+    "indent": " ",
+    "key": "GER_defense_of_the_reich_communism",
+    "ver": "",
+    "val": "the Proletarian Revolution",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3230,
+    "indent": " ",
+    "key": "GER_defense_of_the_reich_desc",
+    "ver": "",
+    "val": "We must safeguard the Vaterland from enemy air raids. Securing the skies over [ROOT.GetNameDef] and protecting the industries on the ground must take precedence over everything else!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3231,
+    "indent": " ",
+    "key": "GER_construct_the_kammhuber_line",
+    "ver": "",
+    "val": "Construct the Kammhuber Line",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3232,
+    "indent": " ",
+    "key": "GER_construct_the_kammhuber_line_desc",
+    "ver": "",
+    "val": "We cannot allow enemy bombers and fighters to roam free in the skies over [ROOT.GetNameDef]. We have to construct a defensive line along the coast of France to be able to intercept them before reaching our heartlands.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3233,
+    "indent": " ",
+    "key": "GER_controls_atlantic_coast_brittany_finnmark_tt",
+    "ver": "",
+    "val": "§Y[ROOT.GetName]§! or a German subject fully controls a non-German state along the §YAtlantic coast§! from §Y[14.GetName]§! to §Y[925.GetName]§!.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3234,
+    "indent": " ",
+    "key": "GER_controls_atlantic_coast_brittany_finnmark_effects_tt",
+    "ver": "",
+    "val": "Every controlled state along the §YEuropean Atlantic coast§!: Add §G1§! §Y$anti_air_building$§!. Current effect:",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3235,
+    "indent": " ",
+    "key": "GER_establish_night_fighter_squadrons",
+    "ver": "",
+    "val": "Establish Night Fighter Squadrons",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3236,
+    "indent": " ",
+    "key": "GER_establish_night_fighter_squadrons_desc",
+    "ver": "",
+    "val": "As the next step in our defense of the Vaterland, we should create Nachtjagdgeschwader, Night Fighter Squadrons. Using airborne radars will make them effective day and night in their pursuit to keep our heavens free from the enemy.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3237,
+    "indent": " ",
+    "key": "GER_torpedobomber",
+    "ver": "",
+    "val": "Torpedobomber",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3238,
+    "indent": " ",
+    "key": "GER_torpedobomber_desc",
+    "ver": "",
+    "val": "$naval_air_effort_desc$",
+    "comment": " #old loc",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3239,
+    "indent": " ",
+    "key": "GER_establish_carrier_groups",
+    "ver": "",
+    "val": "Establish Carrier Groups",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3240,
+    "indent": " ",
+    "key": "GER_establish_carrier_groups_desc",
+    "ver": "",
+    "val": "Determined to create an unrivaled air carrier fleet, we must drill our pilots to operate from these decks. Our air planes will rule the skies over both sea and land!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3241,
+    "indent": " ",
+    "key": "GER_rocketry_innovations",
+    "ver": "",
+    "val": "Rocketry Innovations",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3242,
+    "indent": " ",
+    "key": "GER_rocketry_innovations_desc",
+    "ver": "",
+    "val": "The next great leap in aeronautical development is within our grasp! Our engineers have tirelessly worked on perfecting rocket propulsion, which could have major ramifications and utility in our pursuit to become masters of the sky.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3243,
+    "indent": " ",
+    "key": "GER_amerikabomber",
+    "ver": "",
+    "val": "Amerikabomber",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3244,
+    "indent": " ",
+    "key": "GER_amerikabomber_desc",
+    "ver": "",
+    "val": "We must fully commit to the ambitious goal of mastering the sky and creating a long-range aircraft capable of shocking our enemies by striking targets deep within their territory - or crossing the Atlantic to show everyone that no one is safe from our reach.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3245,
+    "indent": " ",
+    "key": "GER_war_with_american_country_tt",
+    "ver": "",
+    "val": "At war with an §YAmerican§! country",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3246,
+    "indent": " ",
+    "key": "GER_unlocks_statue_of_liberty_raid_tt",
+    "ver": "",
+    "val": "Unlocks §YAir Raid§! on §Ythe Statue of Liberty§! when at war with §Y[USA.GetNameWithFlag]§!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3248,
+    "indent": " ",
+    "key": "GER_strengthen_the_kriegsmarine",
+    "ver": "",
+    "val": "Strengthen the [GetStrengthenKriegsmarineName]",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3249,
+    "indent": " ",
+    "key": "GER_strengthen_kriegsmarine_fascism",
+    "ver": "",
+    "val": "Kriegsmarine",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3250,
+    "indent": " ",
+    "key": "GER_strengthen_kriegsmarine_neutrality",
+    "ver": "",
+    "val": "Kaiserliche Marine",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3251,
+    "indent": " ",
+    "key": "GER_strengthen_kriegsmarine_democratic",
+    "ver": "",
+    "val": "Deutsche Marine",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3252,
+    "indent": " ",
+    "key": "GER_strengthen_kriegsmarine_communism",
+    "ver": "",
+    "val": "Volksmarine",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3253,
+    "indent": " ",
+    "key": "GER_strengthen_the_kriegsmarine_desc",
+    "ver": "",
+    "val": "$GER_naval_rearmament_desc$",
+    "comment": " #old loc",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3254,
+    "indent": " ",
+    "key": "GER_expand_kriegsmarinewerft",
+    "ver": "",
+    "val": "Expand the [GetKriegsmarinewerftName]",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3255,
+    "indent": " ",
+    "key": "GER_expand_kriegsmarinewerft_fascism",
+    "ver": "",
+    "val": "Kriegsmarinewerft",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3256,
+    "indent": " ",
+    "key": "GER_expand_kriegsmarinewerft_neutrality",
+    "ver": "",
+    "val": "Kaiserliche Marinewerft",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3257,
+    "indent": " ",
+    "key": "GER_expand_kriegsmarinewerft_democratic",
+    "ver": "",
+    "val": "Marinewerft",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3258,
+    "indent": " ",
+    "key": "GER_expand_kriegsmarinewerft_communism",
+    "ver": "",
+    "val": "Volksmarinewerft",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3259,
+    "indent": " ",
+    "key": "GER_expand_kriegsmarinewerft_desc",
+    "ver": "",
+    "val": "We must double down on our efforts to build a navy to rival that of our enemies. By deploying technologies at the forefront of shipbuilding and constructing cutting-edge warships we will assuredly wrestle the control of the high seas out of our foes' control.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3260,
+    "indent": " ",
+    "key": "GER_construct_aircraft_carriers",
+    "ver": "",
+    "val": "Construct Aircraft Carriers",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3261,
+    "indent": " ",
+    "key": "GER_construct_aircraft_carriers_desc",
+    "ver": "",
+    "val": "Any great and modern navy worth its name must have aircraft carriers in its fleet. These ships will become more and more important to dominate the seas, so in order not to fall behind our foes, we must launch an ambitious program of air carrier construction.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3262,
+    "indent": " ",
+    "key": "GER_carrier_variants_tt",
+    "ver": "",
+    "val": "Create Carrier §Yvariant§! and §Yproduction line§! depending on §Y$early_ship_hull_carrier$§!, §Y$basic_ship_hull_carrier$§!, or §Y$ship_hull_carrier_2$§! technology. Current effect:\\n",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3263,
+    "indent": " ",
+    "key": "GER_grosskampfschiff_construction",
+    "ver": "",
+    "val": "Grosskampfschiff Construction",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3264,
+    "indent": " ",
+    "key": "GER_grosskampfschiff_construction_desc",
+    "ver": "",
+    "val": "$GER_pride_of_the_modern_germany_desc$",
+    "comment": " #old loc",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3265,
+    "indent": " ",
+    "key": "GER_high_seas_fleet",
+    "ver": "",
+    "val": "The High Seas Fleet",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3266,
+    "indent": " ",
+    "key": "GER_high_seas_fleet_desc",
+    "ver": "",
+    "val": "Our ambitious goal can be nothing less than to make [ROOT.GetNameDef] a truly global power. For that purpose, we need to revive the Hochseeflotte, or High Seas Fleet, which almost rivaled the Royal Navy’s dominance on the oceans once.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3267,
+    "indent": " ",
+    "key": "GER_unlock_trade_interdiction_tt",
+    "ver": "",
+    "val": "Unlocks §Y$GER_trade_interdiction$§! focus.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3268,
+    "indent": " ",
+    "key": "GER_re_establish_the_seekriegsleitung",
+    "ver": "",
+    "val": "Re-establish the Seekriegsleitung",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3269,
+    "indent": " ",
+    "key": "GER_re_establish_the_seekriegsleitung_desc",
+    "ver": "",
+    "val": "Reestablishing the Seekriegsleitung, the Maritime Naval Command, will effectivize the planning and implementation of naval orders and direct deployment.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3270,
+    "indent": " ",
+    "key": "GER_marinestosstrupp",
+    "ver": "",
+    "val": "Form the Marine Stosstrupp",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3271,
+    "indent": " ",
+    "key": "GER_marinestosstrupp_desc",
+    "ver": "",
+    "val": "We need to form a naval infantry unit, so-called naval shock troops, capable of daring naval invasions and breaching the enemy's coastal defenses if we wish to extend our power overseas.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3272,
+    "indent": " ",
+    "key": "GER_atlantic_naval_bases",
+    "ver": "",
+    "val": "Atlantic Naval Bases",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3273,
+    "indent": " ",
+    "key": "GER_atlantic_naval_bases_desc",
+    "ver": "",
+    "val": "Recognizing the strategic importance of the Atlantic coastal regions, and as part of our efforts to assert dominance over the Atlantic Ocean, we must prioritize the expansion and modernization of naval bases in pursuit of maritime superiority.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3274,
+    "indent": " ",
+    "key": "GER_naval_bases_along_atlantic_coast_tt",
+    "ver": "",
+    "val": "Every §Y[ROOT.GetName]§! or German subject controlled state with a §Y$naval_base$§! along the §YEuropean Atlantic coast§!: Add §G1§! §Y$naval_base$§!. Add §G1§! §Y$coastal_bunker$§!. Current effect:",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3275,
+    "indent": " ",
+    "key": "GER_atlantic_naval_dominance",
+    "ver": "",
+    "val": "Atlantic Naval Dominance",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3276,
+    "indent": " ",
+    "key": "GER_atlantic_naval_dominance_desc",
+    "ver": "",
+    "val": "To secure our dominance in the Atlantic Ocean we need to expand our operational range even further and expand our naval presence from coast to coast.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3277,
+    "indent": " ",
+    "key": "GER_controls_an_atantic_island_tt",
+    "ver": "",
+    "val": "§Y[ROOT.GetName]§! or German subject fully controls an island in the North Atlantic Ocean",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3278,
+    "indent": " ",
+    "key": "GER_naval_bases_on_atlantic_islands_tt",
+    "ver": "",
+    "val": "Every §Y[ROOT.GetName]§! or German subject controlled island with a §Y$naval_base$§! in the §YNorth Atlantic Ocean§!: Add §G1§! §Y$naval_base$§!. Add §G1§! §Y$coastal_bunker$§!. Current effect:",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3279,
+    "indent": " ",
+    "key": "GER_trade_interdiction",
+    "ver": "",
+    "val": "Trade Interdiction",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3280,
+    "indent": " ",
+    "key": "GER_trade_interdiction_desc",
+    "ver": "",
+    "val": "To disrupt enemy supply lines and weaken their war effort, we must pursue a strategy of trade interdiction to cripple their ability to wage war. By deploying our surface fleet and U-boats throughout the sea, we will prevent the shipping of vital resources and merchant vessels, forcing our foes into submission.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3281,
+    "indent": " ",
+    "key": "GER_cruiser_warfare",
+    "ver": "",
+    "val": "Cruiser Warfare",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3282,
+    "indent": " ",
+    "key": "GER_cruiser_warfare_desc",
+    "ver": "",
+    "val": "Our light cruisers can be more useful than simply being relegated to escort duties; we must send them out on the open seas to interrupt our enemies’ convoys and cripple their industrial capabilities.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3283,
+    "indent": " ",
+    "key": "GER_panzerschiff_raiders",
+    "ver": "",
+    "val": "Panzerschiff Raiders",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3284,
+    "indent": " ",
+    "key": "GER_panzerschiff_raiders_desc",
+    "ver": "",
+    "val": "We should utilize our heavier ships in our trade interdiction strategy. These vessels can hit hard and withdraw before the enemy’s main battle fleet has the chance to even leave port.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3285,
+    "indent": " ",
+    "key": "GER_wolfpack_tactics",
+    "ver": "",
+    "val": "Wolfpack Tactics",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3286,
+    "indent": " ",
+    "key": "GER_wolfpack_tactics_desc",
+    "ver": "",
+    "val": "The idea of attacking convoys with submarines isn’t new and was used during the Great War, but a new tactic has been suggested. This new approach would see our U-boats cooperate in a Rudel, a pack, to locate and sink merchant ships. This may well be the key to depriving the enemy of raw materials and the ability to continue this war.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3287,
+    "indent": " ",
+    "key": "GER_u_boat_efforts",
+    "ver": "",
+    "val": "U-Boat Efforts",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3288,
+    "indent": " ",
+    "key": "GER_u_boat_efforts_desc",
+    "ver": "",
+    "val": "The successes of the Wolfpack tactics have convinced Naval High Command to double down on this approach and focus on building more and better U-boats in order to secure our victory on the high seas.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3289,
+    "indent": " ",
+    "key": "GER_unrestricted_convoy_raiding",
+    "ver": "",
+    "val": "Unrestricted Convoy Raiding",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3290,
+    "indent": " ",
+    "key": "GER_unrestricted_convoy_raiding_desc",
+    "ver": "",
+    "val": "We must double our convoy raiding efficiency, and triple our planning efforts to bring the seas under our complete control!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3291,
+    "indent": " ",
+    "key": "GER_unlock_plan_z_tt",
+    "ver": "",
+    "val": "Unlocks §Y$GER_plan_z$§! focus.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3292,
+    "indent": " ",
+    "key": "GER_with_panzerschiff_completed_tt",
+    "ver": "",
+    "val": "With §Y$GER_panzerschiff_raiders$§! completed:",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3293,
+    "indent": " ",
+    "key": "GER_with_u_boat_efforts_completed_tt",
+    "ver": "",
+    "val": "With §Y$GER_u_boat_efforts$§! completed:",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3294,
+    "indent": " ",
+    "key": "GER_seeherrschaft",
+    "ver": "",
+    "val": "Seeherrschaft",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3295,
+    "indent": " ",
+    "key": "GER_seeherrschaft_desc",
+    "ver": "",
+    "val": "We are well on our way to becoming the undisputed masters of the oceans and fulfilling our vision of Seeherrschaft, or sea dominance. Now [ROOT.GetNameDef] rules the waves!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3297,
+    "indent": " ",
+    "key": "GER_remilitarize_the_rhineland",
+    "ver": "",
+    "val": "Remilitarize the Rhineland",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3298,
+    "indent": " ",
+    "key": "GER_remilitarize_the_rhineland_desc",
+    "ver": "",
+    "val": "$GER_rhineland_desc$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3299,
+    "indent": " ",
+    "key": "GER_legion_condor",
+    "ver": "",
+    "val": "Legion Condor",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3300,
+    "indent": " ",
+    "key": "GER_legion_condor_desc",
+    "ver": "",
+    "val": "As the civil war rages on the Iberian peninsula a great opportunity presents itself to us. By sending them as many volunteers as we can manage can we not only ensure that the right side wins, but also offer our troops battlefield experience and tie the [SPR.GetAdjective] people that share our ideals closer to us.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3301,
+    "indent": " ",
+    "key": "GER_reorganize_secret_services",
+    "ver": "",
+    "val": "Reorganize Secret Services",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3302,
+    "indent": " ",
+    "key": "GER_reorganize_secret_services_desc",
+    "ver": "",
+    "val": "$GER_wilhelm_canaris$ have proven to be inefficient, or even outright disloyal towards the current government if rumors are to be trusted. We need to remove him and reorganize the Abwehr into a more competent institution.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3303,
+    "indent": " ",
+    "key": "GER_fuhrerprinzip",
+    "ver": "",
+    "val": "Führerprinzip",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3304,
+    "indent": " ",
+    "key": "GER_fuhrerprinzip_desc",
+    "ver": "",
+    "val": "The Führer expects full loyalty from those closest to him, yet those who are among his trusted few must remember that none of them counts more than the stones that they are standing on. A single step out of line or failure to act in accordance with the Führer's wishes might have dire consequences. The Führer alone will set our course.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3305,
+    "indent": " ",
+    "key": "GER_party_chancellor_hess",
+    "ver": "",
+    "val": "Party Chancellor Hess",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3306,
+    "indent": " ",
+    "key": "GER_party_chancellor_hess_desc",
+    "ver": "",
+    "val": "Rudolf Hess has been an active member of the party for a long time. He has the trust of several elevated members of the political elite, the Führer himself among them. It is only right that he is awarded the post as Chancellor of the Party.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3307,
+    "indent": " ",
+    "key": "GER_party_chancellor_bormann",
+    "ver": "",
+    "val": "Party Chancellor Bormann",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3308,
+    "indent": " ",
+    "key": "GER_party_chancellor_bormann_desc",
+    "ver": "",
+    "val": "Martin Bormann has proven most apt in his position as the private secretary of the Deputy Führer. Also having a rather expansive knowledge of finance from previously having headed the Hilfskasse der NSDAP, an auxiliary fund for the NSDAP, he would make a perfect Chancellor of the Party.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3309,
+    "indent": " ",
+    "key": "GER_mega_reichskommissariats",
+    "ver": "",
+    "val": "Mega Reichskommisariat",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3310,
+    "indent": " ",
+    "key": "GER_mega_reichskommissariats_desc",
+    "ver": "",
+    "val": "Seeing as the Reichskommisariats have proven a most beneficial endeavor it comes as no surprise that our leader [ROOT.GetLeader] has spent much time considering further improvements. One of the issues with the Reichskommisariats is the growing amount of them, and with that, the growing amount of administration needed to govern them. Surely some of them could be merged...",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3311,
+    "indent": " ",
+    "key": "GER_optimize_reich_labour_service",
+    "ver": "",
+    "val": "Optimize Reich Service",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3312,
+    "indent": " ",
+    "key": "GER_optimize_reich_labour_service_desc",
+    "ver": "",
+    "val": "The Reich Labour Service serves a great purpose in keeping our population employed but we think it can be used for more. We could optimize our use of the RAD to make sure we get the most out of it in all aspects, labour, propaganda and war preparation.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3313,
+    "indent": " ",
+    "key": "GER_ascension_of_himmler",
+    "ver": "",
+    "val": "$GER_inner_circle_member_title$ Himmler",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3314,
+    "indent": " ",
+    "key": "GER_ascension_of_himmler_desc",
+    "ver": "",
+    "val": "Under the organization and leadership of Heinrich Himmler the SS has grown from its rather small beginnings into a more prominent force within our country. Promoting him would let us further take advantage of his skills and make better use of the SS as it stands",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3315,
+    "indent": " ",
+    "key": "GER_expand_ss_recruitment",
+    "ver": "",
+    "val": "Expand SS Recruitment",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3316,
+    "indent": " ",
+    "key": "GER_expand_ss_recruitment_desc",
+    "ver": "",
+    "val": "The requirements to join the SS are steep, and the process itself has been described as having to pass through the eye of a needle. While the requirements must remain high to ensure a top quality force, the recruitment can be expanded in other ways that doesn't entail lowering our standards.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3317,
+    "indent": " ",
+    "key": "GER_create_four_militia_units_tt",
+    "ver": "",
+    "val": "Create §Y4 German Militia§! units",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3318,
+    "indent": " ",
+    "key": "GER_create_two_motorized_units_tt",
+    "ver": "",
+    "val": "Create §Y2 German Motorized§! units",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3319,
+    "indent": " ",
+    "key": "GER_SS_recruitment_tt",
+    "ver": "",
+    "val": "Unlocks Decision: §Y$SS_recruitment$§!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3320,
+    "indent": " ",
+    "key": "GER_strengthen_the_waffen_ss",
+    "ver": "",
+    "val": "Strengthen the Waffen-SS",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3321,
+    "indent": " ",
+    "key": "GER_strengthen_the_waffen_ss_desc",
+    "ver": "",
+    "val": "The Waffen-SS, the combat branch of the SS, has proven valuable asset for us while in combat. Though technically a paramilitary branch, we firmly believe that given more resources they could operate just as effectively as our regular army.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3322,
+    "indent": " ",
+    "key": "GER_create_two_militia_units_tt",
+    "ver": "",
+    "val": "Create §Y2 German Militia§! units",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3323,
+    "indent": " ",
+    "key": "GER_create_one_motorized_units_tt",
+    "ver": "",
+    "val": "Create §Y1 German Motorized§! unit",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3324,
+    "indent": " ",
+    "key": "GER_create_two_light_panzer_units_tt",
+    "ver": "",
+    "val": "Create §Y2 German Light Armor§! units",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3325,
+    "indent": " ",
+    "key": "GER_create_two_medium_panzer_units_tt",
+    "ver": "",
+    "val": "Create §Y2 German Medium Armor§! units",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3326,
+    "indent": " ",
+    "key": "GER_expand_ss_security_duties",
+    "ver": "",
+    "val": "Expand SS Security Duties",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3327,
+    "indent": " ",
+    "key": "GER_expand_ss_security_duties_desc",
+    "ver": "",
+    "val": "With the SS growing steadily under Heinrich Himmler's guidance it is time that they take a bigger responsibility for our security. By allowing their duties to expand, we can free up resource for use elsewhere.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3328,
+    "indent": " ",
+    "key": "GER_hegemony_of_the_ss",
+    "ver": "",
+    "val": "Hegemony of the SS",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3329,
+    "indent": " ",
+    "key": "GER_hegemony_of_the_ss_desc",
+    "ver": "",
+    "val": "With increased recruitment and better equipment the SS now is a formidable force on the battlefield. Under the leadership of Himmler the group has grown to be one of our most prominent assets, capable of things far beyond our expectations. Entrusting them with the power they now have was a wise decision, going forward we must keep providing them with the means necessary for success.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3330,
+    "indent": " ",
+    "key": "GER_expand_gestapo",
+    "ver": "",
+    "val": "Expand Gestapo",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3331,
+    "indent": " ",
+    "key": "GER_expand_gestapo_desc",
+    "ver": "",
+    "val": "Gestapo has proven most apt at dealing with political opposition and other troublemakers. By expanding it we can ensure our population acts in accordance with current laws and expectations.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3332,
+    "indent": " ",
+    "key": "GER_absorb_the_abwehr",
+    "ver": "",
+    "val": "Absorb the Abwehr",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3333,
+    "indent": " ",
+    "key": "GER_absorb_the_abwehr_desc",
+    "ver": "",
+    "val": "Keeping the Abwehr separate from the Command of the Army was a decision that made sense at the time when the decision was made. With the current situation it appears that the opposite might now be true. We should consider absorbing the Abwehr.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3334,
+    "indent": " ",
+    "key": "GER_innovative_warfare",
+    "ver": "",
+    "val": "Innovative Warfare",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3335,
+    "indent": " ",
+    "key": "GER_innovative_warfare_desc",
+    "ver": "",
+    "val": "Our methods of waging war must be constantly evolving or we risk stagnating. Only by constant evolution and change can we keep our enemies from getting wise to our tactics and technology.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3336,
+    "indent": " ",
+    "key": "GER_form_organization_todt",
+    "ver": "",
+    "val": "Form Organization Todt",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3337,
+    "indent": " ",
+    "key": "GER_form_organization_todt_desc",
+    "ver": "",
+    "val": "While there are several large construction projects that the Führer would like to see done, most of them shall have to wait. Most pressingly [ROOT.GetNameDef] is in dire need of more military industry. With the planning in the hands of Fritz Todt we are certain that the outcome will be good.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3338,
+    "indent": " ",
+    "key": "GER_employ_philipp_holzmann",
+    "ver": "",
+    "val": "Employ Philipp Holzmann",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3339,
+    "indent": " ",
+    "key": "GER_employ_philipp_holzmann_desc",
+    "ver": "",
+    "val": "Albert Speer, has brought forth the idea to employ Philipp Holzmann AG for the several large construction projects that the Führer wishes to undertake. The company has a good reputation and long history, having built architectural masterpieces such as the Hamburg City Hall, and the original Reichstag. They will be a good fit for our needs!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3340,
+    "indent": " ",
+    "key": "GER_prioritize_the_four_year_plan",
+    "ver": "",
+    "val": "Prioritize the Four Year Plan",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3341,
+    "indent": " ",
+    "key": "GER_prioritize_the_four_year_plan_desc",
+    "ver": "",
+    "val": "We knew from the start that [ROOT.GetLeader]'s Four Year Plan would be a necessary step to prepare the nation for war. As the Führer himself is a very busy man, someone will be needed to oversee and coordinate the required measures.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3342,
+    "indent": " ",
+    "key": "GER_plenipotentiary_of_the_four_year_plan",
+    "ver": "",
+    "val": "Plenipotentiary of the Four Year Plan",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3343,
+    "indent": " ",
+    "key": "GER_plenipotentiary_of_the_four_year_plan_desc",
+    "ver": "",
+    "val": "It has become clear that the work to oversee and effectivize the execution of the Four Year Plan was a more extensive task than initially thought. By making Hermann Göring a Reich Plenipotentiary we grant a lot of power to a single man, but with regards to his great results, the Führer is certain. Hermann Göring is too useful for us not to allow him full diplomatic rights in this matter.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3344,
+    "indent": " ",
+    "key": "GER_autonomous_organization_todt",
+    "ver": "",
+    "val": "Autonomous Organization Todt",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3345,
+    "indent": " ",
+    "key": "GER_autonomous_organization_todt_desc",
+    "ver": "",
+    "val": "Fritz Todt's initiative, Organization Todt, has proven most effective. Construction projects are rapidly finished up to a degree that even the Führer himself is pleased with. Given the status as a Reich Plenipotentiary of Armaments and War Production, Todt could become a real asset for our country.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3346,
+    "indent": " ",
+    "key": "GER_plenipotentiary_of_armaments",
+    "ver": "",
+    "val": "Plenipotentiary of Armaments",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3347,
+    "indent": " ",
+    "key": "GER_plenipotentiary_of_armaments_desc",
+    "ver": "",
+    "val": "It is becoming increasingly clear that someone needs to take the overarching responsibility for supplying the Wehrmacht with what they require. Albert Speer has shown most promising results in his efforts in supplying the Wehrmacht. Given the status as a Reich Plenipotentiary of Armaments and War Production, this man could achieve miraculously good results!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3348,
+    "indent": " ",
+    "key": "GER_integration_of_puppet_economies",
+    "ver": "",
+    "val": "Integration of Puppet Economies",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3349,
+    "indent": " ",
+    "key": "GER_integration_of_puppet_economies_desc",
+    "ver": "",
+    "val": "As we look upon how our subjects are faring it becomes clear how badly they manage their economy. While of course this mainly affects them, by extension they are also dragging our economy down. The Führer demands something to be done about the issue at hand!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3350,
+    "indent": " ",
+    "key": "GER_ministry_of_public_enlightenment",
+    "ver": "",
+    "val": "Ministry of Public Enlightenment",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3351,
+    "indent": " ",
+    "key": "GER_ministry_of_public_enlightenment_desc",
+    "ver": "",
+    "val": "The Ministry of Propaganda has served us greatly in recent times. By rebranding the Ministry of Propaganda as the Ministry of Public Enlightenment we should be able to extend its duties, as well as increase the funding without raising concerns.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3352,
+    "indent": " ",
+    "key": "GER_fund_the_film_department",
+    "ver": "",
+    "val": "Fund the Film Department",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3353,
+    "indent": " ",
+    "key": "GER_fund_the_film_department_desc",
+    "ver": "",
+    "val": "Film has proven a powerful tool to inspire and lead the people. By producing and promoting patriotic films we will spur our nation to fully devote themselves to our glorious [ROOT.GetName]!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3354,
+    "indent": " ",
+    "key": "GER_the_triumphant_will",
+    "ver": "",
+    "val": "The Triumphant Will",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3355,
+    "indent": " ",
+    "key": "GER_the_triumphant_will_desc",
+    "ver": "",
+    "val": "$GER_improve_national_spirit_desc$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3356,
+    "indent": " ",
+    "key": "GER_propaganda_master",
+    "ver": "",
+    "val": "Propaganda Master",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3357,
+    "indent": " ",
+    "key": "GER_propaganda_master_desc",
+    "ver": "",
+    "val": "We had no doubts when appointing Joseph Goebbels as our Minister of Propaganda. He was already an accomplished speaker and writer. Now that he voices ideas for how to improve our intelligence organization we have full faith that acting upon these ideas is within our best interest.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3358,
+    "indent": " ",
+    "key": "GER_bribe_senior_officers",
+    "ver": "",
+    "val": "Bribe Senior Officers",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3359,
+    "indent": " ",
+    "key": "GER_bribe_senior_officers_desc",
+    "ver": "",
+    "val": "To ensure loyalty from our senior officers towards the Führer we should consider rewarding loyalty and obedience. By offering money, land and tax exemptions we ensure that not only will they remain loyal, but also that they will stay in their lane, and not question their Führer.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3360,
+    "indent": " ",
+    "key": "GER_army_indoctrination",
+    "ver": "",
+    "val": "Army Indoctrination",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3361,
+    "indent": " ",
+    "key": "GER_army_indoctrination_desc",
+    "ver": "",
+    "val": "Bribery and monetary incentives works great for our senior officers and select individuals within the Wehrmacht. However, for the common soldier we cannot rely upon bribes or our economy will be in ruins. Indoctrinating them into fully agreeing with our decisions by propaganda efforts might be the more sensible course of action.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3362,
+    "indent": " ",
+    "key": "GER_autonomy_in_the_kriegsschulen",
+    "ver": "",
+    "val": "Autonomy in the Kriegsschulen",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3363,
+    "indent": " ",
+    "key": "GER_autonomy_in_the_kriegsschulen_desc",
+    "ver": "",
+    "val": "The War Academies, or Kriegsschulen, have a long tradition within our country. Though it is tempting to manage and tailor every last bit of the education provided at the academies, it might be for the better that we allow and empower the schools to themselves to provide the best possible training for our future officers.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3364,
+    "indent": " ",
+    "key": "GER_strafbataillon",
+    "ver": "",
+    "val": "Strafbataillon",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3365,
+    "indent": " ",
+    "key": "GER_strafbataillon_desc",
+    "ver": "",
+    "val": "Having enacted measures for indoctrination in the army we can now make use of it in more ways than just to make our soldiers loyal to us. By deploying penal battalions we can foster the desired nationalistic sentiments in these individuals by both indoctrination and having them serve the Fatherland!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3366,
+    "indent": " ",
+    "key": "GER_expand_the_truppenschulen",
+    "ver": "",
+    "val": "Expand the Truppenschulen",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3367,
+    "indent": " ",
+    "key": "GER_expand_the_truppenschulen_desc",
+    "ver": "",
+    "val": "To keep up with the increasing demands for specialized officers our branch of service schools needs to be vastly expanded. Providing the best possible training to our officer candidates will ensure our success on the battlefield.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3368,
+    "indent": " ",
+    "key": "GER_demonstration_of_military_achievements",
+    "ver": "",
+    "val": "Demonstration of Military Achievements",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3369,
+    "indent": " ",
+    "key": "GER_demonstration_of_military_achievements_desc",
+    "ver": "",
+    "val": "Our history is saturated with great military achievements. By acknowledging that what our troops have currently achieved will be another of these great military achievements we could heighten morale and further increase their loyalty towards us.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3370,
+    "indent": " ",
+    "key": "GER_demonstration_of_military_achievements_trigger",
+    "ver": "",
+    "val": "One of the following must be true:\\n   More than §Y2§! Subject nations\\n   More than §Y19§! occupied states in §YEurope§!",
+    "comment": " #TODO_Danne make these numbers into a variable!",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3371,
+    "indent": " ",
+    "key": "GER_country_leader_change_blocks_progress_demonstration_military_achievement_tt",
+    "ver": "",
+    "val": "§RChanging Country Leader after completing §Y$GER_demonstration_of_military_achievements$§! will block §Y$GER_an_invincible_army$§! and §Y$GER_the_supreme_leader$§! from being completed§!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3372,
+    "indent": " ",
+    "key": "GER_an_invincible_army",
+    "ver": "",
+    "val": "German Army, Invincible",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3373,
+    "indent": " ",
+    "key": "GER_an_invincible_army_desc",
+    "ver": "",
+    "val": "Through the many achievements and victories our army has earned for itself on the battlefield, we have proven to the world that despite what enemy demagogues may say, the [ROOT.GetAdjective] army is truly invincible!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3374,
+    "indent": " ",
+    "key": "GER_country_leader_change_blocks_progress_invincible_army_tt",
+    "ver": "",
+    "val": "§RChanging Country Leader after completing §Y$GER_an_invincible_army$§! will block §Y$GER_the_supreme_leader$§! from being completed§!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3375,
+    "indent": " ",
+    "key": "GER_an_invincible_army_trigger",
+    "ver": "",
+    "val": "One of the following must be true:\\n   More than §Y5§! Subject nations\\n   More than §Y49§! occupied states in §YEurope§!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3376,
+    "indent": " ",
+    "key": "GER_the_supreme_leader_trigger",
+    "ver": "",
+    "val": "[ROOT.GetNameDefCap] has §YCapitulated§! more than §Y2 Major§! Countries",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3377,
+    "indent": " ",
+    "key": "GER_the_supreme_leader",
+    "ver": "",
+    "val": "The Supreme Leader",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3378,
+    "indent": " ",
+    "key": "GER_the_supreme_leader_desc",
+    "ver": "",
+    "val": "Through directed reforms and revitalization programs the loyalty of the Wehrmacht towards [ROOT.GetLeader] and his cause has reached a new height. This trend of full support to our leader and Fatherland must be continued.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3379,
+    "indent": " ",
+    "key": "GER_a_strong_successor",
+    "ver": "",
+    "val": "A Strong Successor",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3380,
+    "indent": " ",
+    "key": "GER_a_strong_successor_desc",
+    "ver": "",
+    "val": "A changing of the guards are upon us and a new Führer must ascend. We have the opportunity to install a new leader to reflect our aspirations for [ROOT.GetNameDef]. This shift will reinvigorate our efforts to bring a brighter future for the German people.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3381,
+    "indent": " ",
+    "key": "GER_loyalty_to_the_fuhrer",
+    "ver": "",
+    "val": "Loyalty to the Führer",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3382,
+    "indent": " ",
+    "key": "GER_loyalty_to_the_fuhrer_desc",
+    "ver": "",
+    "val": "As per the 1934 referendum when the roles of President and Chancellor were merged we are aware of the immense support that Hitler has among our population. We have seen no indications that the political landscape has changed and as such we shall continue to support the Führer.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3383,
+    "indent": " ",
+    "key": "GER_heed_von_neuraths_concerns",
+    "ver": "",
+    "val": "Heed von Neurath's Concerns",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3384,
+    "indent": " ",
+    "key": "GER_heed_von_neuraths_concerns_desc",
+    "ver": "",
+    "val": "Concerns regarding our current military tactics and policies have been raised by a number of elevated members of our military, headed by Konstantin von Neurath. According to them the Führer's rather aggressive plans for the military will not hold, and that in the face of the risk of an all out war that might ensue if we pursue them, our army is not yet strong enough.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3385,
+    "indent": " ",
+    "key": "GER_reorganize_the_wehrmacht",
+    "ver": "",
+    "val": "Reorganize the Wehrmacht",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3386,
+    "indent": " ",
+    "key": "GER_reorganize_the_wehrmacht_desc",
+    "ver": "",
+    "val": "For us to be able to follow through with the Führer's ambitious plans an expansive reorganization must take place within the Wehrmacht. Too many of the current leaders spend their time voicing petty and baseless concerns instead of carrying out the Führer's orders. Only by removing these individuals can our goals be achieved!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3387,
+    "indent": " ",
+    "key": "GER_anschluss",
+    "ver": "",
+    "val": "Anschluss",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3388,
+    "indent": " ",
+    "key": "GER_anschluss_desc",
+    "ver": "",
+    "val": "Despite the words of [AUS.GetAdjective] politicians it is clear that the largely [GER.GetAdjective] speaking population of [AUS.GetNameDef] longs to reunite with the Fatherland. We should pressure the corrupt leader [AUS.GetLeader] to resign, and let the will of the people be carried out.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3389,
+    "indent": " ",
+    "key": "GER_anschluss_army_trigger_tt",
+    "ver": "",
+    "val": "The §Y[ROOT.GetAdjective]§! Army is at least §Y[?global.deployed_manpower_ratio_needed_for_anschluss]§! times bigger than the §Y[AUS.GetAdjective]§! Army when counting only properly equipped units.\\n\\nWe estimate that we have [GetAnschlussProgress] this",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3390,
+    "indent": " ",
+    "key": "GER_antischluss_progress_minimal",
+    "ver": "",
+    "val": "made §RMinimal§! headway towards",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3391,
+    "indent": " ",
+    "key": "GER_antischluss_progress_moderate",
+    "ver": "",
+    "val": "made §OModerate§! headway towards",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3392,
+    "indent": " ",
+    "key": "GER_antischluss_progress_significant",
+    "ver": "",
+    "val": "made §YSignificant§! headway towards",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3393,
+    "indent": " ",
+    "key": "GER_antischluss_progress_complete",
+    "ver": "",
+    "val": "§GAchieved§!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3394,
+    "indent": " ",
+    "key": "GER_austrian_army_does_not_exist",
+    "ver": "",
+    "val": "Currently §Y[AUS.GetnameDef]§! does not have any standing army.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3395,
+    "indent": " ",
+    "key": "GER_befriend_czechoslovakia",
+    "ver": "",
+    "val": "$GER_czech_friend$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3396,
+    "indent": " ",
+    "key": "GER_befriend_czechoslovakia_desc",
+    "ver": "",
+    "val": "$GER_czech_friend_desc$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3397,
+    "indent": " ",
+    "key": "GER_war_preparations",
+    "ver": "",
+    "val": "War Preparations",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3398,
+    "indent": " ",
+    "key": "GER_war_preparations_desc",
+    "ver": "",
+    "val": "To fully ready the nation for an upcoming war we must ensure that preparations are made not only within the Wehrmacht, but also within the industry, and the infrastructure.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3399,
+    "indent": " ",
+    "key": "GER_prepare_for_the_next_blockade_ww",
+    "ver": "",
+    "val": "Prepare for the Next Blockade",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3400,
+    "indent": " ",
+    "key": "GER_prepare_for_the_next_blockade_ww_desc",
+    "ver": "",
+    "val": "As other countries realize the extent of our preparations it is inevitable that some will object. We have been subjected to blockades before, and know how to tackle them. With due preparations, their blockades will have little to no effect upon us.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3401,
+    "indent": " ",
+    "key": "GER_subversive_infiltrators",
+    "ver": "",
+    "val": "Subversive Infiltrators",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3402,
+    "indent": " ",
+    "key": "GER_subversive_infiltrators_desc",
+    "ver": "",
+    "val": "Intelligence and Information about one's enemy is crucial for a successful invasion. As we increase spending on so many areas, it is only logical that we also invest in improving our intelligence gathering.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3403,
+    "indent": " ",
+    "key": "GER_integrate_czechoslovakia",
+    "ver": "",
+    "val": "Integrate Czechoslovakia",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3404,
+    "indent": " ",
+    "key": "GER_integrate_czechoslovakia_desc",
+    "ver": "",
+    "val": "As we gain more insight into how [CZE.GetNameDef] has been run it is becoming more and more clear that the people long for a change. Integration into [GER.GetNameDef] would provide this well needed change. We should send a delegation over with an ultimatum.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3405,
+    "indent": " ",
+    "key": "GER_fate_of_czechoslovakia",
+    "ver": "",
+    "val": "$GER_end_of_czechoslovakia$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3406,
+    "indent": " ",
+    "key": "GER_fate_of_czechoslovakia_desc",
+    "ver": "",
+    "val": "$GER_end_of_czechoslovakia_desc$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3407,
+    "indent": " ",
+    "key": "GER_support_a_coup_in_liechtenstein",
+    "ver": "",
+    "val": "Support a Coup in Liechtenstein",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3408,
+    "indent": " ",
+    "key": "GER_support_a_coup_in_liechtenstein_desc",
+    "ver": "",
+    "val": "We have received word that like-minded individuals in Liechtenstein are planning to overthrow the regent in the micro-country. A man named Alfons Goop has come to request our support, and ensures us that we too will benefit from this.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3409,
+    "indent": " ",
+    "key": "GER_reassert_eastern_claims",
+    "ver": "",
+    "val": "$GER_demand_memel$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3410,
+    "indent": " ",
+    "key": "GER_reassert_eastern_claims_desc",
+    "ver": "",
+    "val": "$GER_demand_memel_desc$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3411,
+    "indent": " ",
+    "key": "GER_expand_claims_in_baltic",
+    "ver": "",
+    "val": "Expand Claims in Baltic",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3412,
+    "indent": " ",
+    "key": "GER_expand_claims_in_baltic_desc",
+    "ver": "",
+    "val": "Historically there has been a sizeable [ROOT.GetAdjective] diaspora living in the Baltics. It is in their best interest, much like it is in ours, to bring them back home to [ROOT.GetNameDef]!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3413,
+    "indent": " ",
+    "key": "GER_influence_the_baltics",
+    "ver": "",
+    "val": "Influence the Baltics",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3414,
+    "indent": " ",
+    "key": "GER_influence_the_baltics_desc",
+    "ver": "",
+    "val": "The Baltic states are precariously situated between us and [SOV.GetNameDef]. With some diplomatic effort and mutually beneficial offers we should be able to align them more closely to us without the need for conflict.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3415,
+    "indent": " ",
+    "key": "GER_danzig_for_slovakia",
+    "ver": "",
+    "val": "$GER_danzig_vs_slovakia$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3416,
+    "indent": " ",
+    "key": "GER_danzig_for_slovakia_desc",
+    "ver": "",
+    "val": "$GER_danzig_vs_slovakia_desc$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3417,
+    "indent": " ",
+    "key": "GER_befriend_poland",
+    "ver": "",
+    "val": "$GER_poland_friend$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3418,
+    "indent": " ",
+    "key": "GER_befriend_poland_desc",
+    "ver": "",
+    "val": "$GER_poland_friend_desc$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3419,
+    "indent": " ",
+    "key": "GER_subjugate_romanian_economy",
+    "ver": "",
+    "val": "Subjugate Romanian Economy",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3420,
+    "indent": " ",
+    "key": "GER_subjugate_romanian_economy_desc",
+    "ver": "",
+    "val": "[ROM.GetNameDefCap] has become an important trading partner for us. The vast amount of raw oil extracted within the country has boosted the country's economy and they are now starting to raise their prices. Surely we could apply some pressure to ensure the best prices for an old, return customer such as ourselves?",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3421,
+    "indent": " ",
+    "key": "GER_influence_the_benelux",
+    "ver": "",
+    "val": "Influence the Benelux",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3422,
+    "indent": " ",
+    "key": "GER_influence_the_benelux_desc",
+    "ver": "",
+    "val": "The Benelux area holds importance for our continued war effort, but also for their industrial capabilities and geographical positions. While we likely could overrun them easily, why not sway them to our sides instead?",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3423,
+    "indent": " ",
+    "key": "GER_operation_weserubung",
+    "ver": "",
+    "val": "$GER_weserubung$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3424,
+    "indent": " ",
+    "key": "GER_operation_weserubung_desc",
+    "ver": "",
+    "val": "$GER_weserubung_desc$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3425,
+    "indent": " ",
+    "key": "GER_utilize_the_nordliche_gesellschaft",
+    "ver": "",
+    "val": "Utilize the Nordische Gesellschaft",
+    "comment": " # was Befriend Scandinavia",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3426,
+    "indent": " ",
+    "key": "GER_utilize_the_nordliche_gesellschaft_desc",
+    "ver": "",
+    "val": "Scandinavia is traditionally neutral. There is no use in opening up another front to try and take the resources they hold if we can acquire it diplomatically. Thus we should utilize Alfred Rosenbergs Nordic Society, an association for strengthening German-Nordic cultural and political cooperation, in order to speak favorably to the Nordic nations.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3427,
+    "indent": " ",
+    "key": "GER_form_rome_berlin_axis",
+    "ver": "",
+    "val": "Form the Rome-Berlin Axis",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3428,
+    "indent": " ",
+    "key": "GER_form_rome_berlin_axis_desc",
+    "ver": "",
+    "val": "$GER_italy_ally_desc$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3429,
+    "indent": " ",
+    "key": "GER_invade_italy",
+    "ver": "",
+    "val": "Operation Alaric",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3430,
+    "indent": " ",
+    "key": "GER_invade_italy_desc",
+    "ver": "",
+    "val": "While at first glance [ITA.GetNameDef] might seem a good potential ally to us, we know their true colors. At the start of the Great War they rejected to fight alongside us, and in 1915 even turned against us, despite our earlier alliance. We learned our lesson then, the mistake that is trusting them will not be made again.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3431,
+    "indent": " ",
+    "key": "GER_alliance_with_spain",
+    "ver": "",
+    "val": "$GER_nationalist_spain_ally$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3432,
+    "indent": " ",
+    "key": "GER_alliance_with_spain_desc",
+    "ver": "",
+    "val": "$GER_nationalist_spain_ally_desc$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3433,
+    "indent": " ",
+    "key": "GER_operation_felix",
+    "ver": "",
+    "val": "Operation Felix",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3434,
+    "indent": " ",
+    "key": "GER_operation_felix_desc",
+    "ver": "",
+    "val": "With the Spanish Civil War finally over it is time for us pry [118.GetName] from the [ENG.GetAdjective]. As we cannot attack from the sea however, we must first ensure loyalty from the [SPR.GetAdjective] to allow us through their territory. Considering our ideologies it should not be difficult to get them to submit.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3435,
+    "indent": " ",
+    "key": "GER_secure_spain_desc",
+    "ver": "",
+    "val": "[SPR.GetNameDef] has proven a most volatile country. As they struggle with their administration, perhaps we should offer them a helping hand? At this point, surely being our puppet regime must be preferable to the chaos they are used to?",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3436,
+    "indent": " ",
+    "key": "GER_alliance_with_portugal",
+    "ver": "",
+    "val": "Alliance with Portugal",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3437,
+    "indent": " ",
+    "key": "GER_alliance_with_portugal_desc",
+    "ver": "",
+    "val": "Historically we have not had the most positive relations with [POR.GetNameDef]. Despite us being bitter enemies in the Great War however, they seem to have had a change of mind. Having supported the nationalists in Spain, we believe that there might be ideological similarities and that we could come to an agreement with the [POR.GetAdjective].",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3438,
+    "indent": " ",
+    "key": "GER_operation_isabella",
+    "ver": "",
+    "val": "Operation Isabella",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3439,
+    "indent": " ",
+    "key": "GER_operation_isabella_desc",
+    "ver": "",
+    "val": "With only [POR.GetNameDef] standing between us and complete control of the Iberian Peninsula our next move must be to make them submit to us. Keeping the local government but ensuring their loyalty to us should allow us everything we need from them in terms of land, infrastructure and military structures.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3440,
+    "indent": " ",
+    "key": "GER_secure_portugal_desc",
+    "ver": "",
+    "val": "Back during the Great War the [POR.GetAdjective] were swayed by propaganda from our opponents and turned against us. Some of our old ships are still laying in their harbors, and not a word has been said about returning them. While they seem friendly enough now, we cannot trust them and we should make clear to them that unless they wish for a war, it is time to submit to our rule.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3441,
+    "indent": " ",
+    "key": "GER_operation_sea_lion",
+    "ver": "",
+    "val": "Operation Sea Lion",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3442,
+    "indent": " ",
+    "key": "GER_operation_sea_lion_desc",
+    "ver": "",
+    "val": "The geographical position of [ENG.GetNameDef] has proven a complicating factor in our current war effort. Launching an all out offensive operation from both the air and the sea seems the best course of action to finally break the [ENG.GetAdjective]!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3443,
+    "indent": " ",
+    "key": "GER_operation_green",
+    "ver": "",
+    "val": "Operation Green",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3444,
+    "indent": " ",
+    "key": "GER_operation_green_desc",
+    "ver": "",
+    "val": "In support of operation Sea Lion, our operational command for the western flank should plan for full-scale operations on Ireland, and prepare for the occupation of the island in order to ensure that the British Isles can fall fully under our control. For this our high command have drafted Fall Grün as a detailed plan of operations.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3445,
+    "indent": " ",
+    "key": "GER_challenge_the_monroe_doctrine",
+    "ver": "",
+    "val": "Challenge the Monroe Doctrine",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3446,
+    "indent": " ",
+    "key": "GER_challenge_the_monroe_doctrine_desc",
+    "ver": "",
+    "val": "Though far from us in distance, some of the countries in Central and South America are ideologically very close to us. By establishing and maintaining good relations with them we could both benefit greatly. Furthermore, establishing a foothold on yet another continent could prove most valuable for the future.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3447,
+    "indent": " ",
+    "key": "GER_shatter_usas_hegemony",
+    "ver": "",
+    "val": "Shatter [USA.GetAdjective] Hegemony",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3448,
+    "indent": " ",
+    "key": "GER_shatter_usas_hegemony_desc",
+    "ver": "",
+    "val": "The [USA.GetAdjective]s have long been given way too much power on the international stage. As we grow stronger, it is now time for them to move over.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3449,
+    "indent": " ",
+    "key": "GER_challenge_the_monroe_doctrine_tt",
+    "ver": "",
+    "val": "Unlocks decisions to §YDestabilize the Monroe Doctrine§!.\\n\\nNotifies §Y[USA.GetNameDef]§! and allows them to attempt to §RIntervene§!.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3450,
+    "indent": " ",
+    "key": "GER_challenge_the_monroe_doctrine_tt_2",
+    "ver": "",
+    "val": "At least 7 Countries still have the §YMonroe Doctrine§! active",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3451,
+    "indent": " ",
+    "key": "GER_establish_protectorates_in_america",
+    "ver": "",
+    "val": "Establish Protectorates in America",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3452,
+    "indent": " ",
+    "key": "GER_establish_protectorates_in_america_desc",
+    "ver": "",
+    "val": "The countries on the American continents have been governed in ways that are not aligned with our ideals for too long. A full scale re-organization will be needed to straighten out these territories after a long time of sub-optimal management.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3453,
+    "indent": " ",
+    "key": "GER_demands_to_sweden",
+    "ver": "",
+    "val": "Demands to Sweden",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3454,
+    "indent": " ",
+    "key": "GER_demands_to_sweden_desc",
+    "ver": "",
+    "val": "The steel mines in northern [SWE.GetNameDef] are a vital asset to our military industry. We cannot leave to chance whether we can keep trading with the [SWE.GetAdjective] or not. This trade route needs to be secured as soon as possible.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3455,
+    "indent": " ",
+    "key": "GER_the_swiss_gold",
+    "ver": "",
+    "val": "The Swiss Gold",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3456,
+    "indent": " ",
+    "key": "GER_the_swiss_gold_desc",
+    "ver": "",
+    "val": "Seeing as the [SWI.GetAdjective] have decided to stay out of any global conflicts for now, they present a perfect opportunity for trade and espionage. We should make sure to station operatives in their state, as well as use them to their fullest potential when it comes to storing away the gold we have obtained.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3457,
+    "indent": " ",
+    "key": "GER_secure_finland",
+    "ver": "",
+    "val": "Secure Finland",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3458,
+    "indent": " ",
+    "key": "GER_secure_finland_desc",
+    "ver": "",
+    "val": "[FIN.GetNameDefCap] has a long land border with [SOV.GetNameDef]. Getting access to this border grants us another potential front against the Red Menace in the east and might very well prove valuable should we ever need to fight the [SOV.GetAdjective]s",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3459,
+    "indent": " ",
+    "key": "GER_befriend_china",
+    "ver": "",
+    "val": "$GER_china_friend$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3460,
+    "indent": " ",
+    "key": "GER_befriend_china_desc",
+    "ver": "",
+    "val": "$GER_china_friend_desc$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3461,
+    "indent": " ",
+    "key": "GER_befriend_japan",
+    "ver": "",
+    "val": "$GER_japan_friend$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3462,
+    "indent": " ",
+    "key": "GER_befriend_japan_desc",
+    "ver": "",
+    "val": "$GER_japan_friend_desc$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3463,
+    "indent": " ",
+    "key": "GER_reclaim_former_african_colonies",
+    "ver": "",
+    "val": "Reclaim Former African Colonies",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3464,
+    "indent": " ",
+    "key": "GER_reclaim_former_african_colonies_desc",
+    "ver": "",
+    "val": "Asia is not the only place where we formerly had holdings that has since been lost. Our territories in Africa are still of interest to us and we should do our utmost to regain them and integrate them once more.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3465,
+    "indent": " ",
+    "key": "GER_mittelafrika",
+    "ver": "",
+    "val": "Mittelafrika",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3466,
+    "indent": " ",
+    "key": "GER_mittelafrika_desc",
+    "ver": "",
+    "val": "There are more territory in Africa than what we used to own that are of interest to us. With its immense natural wealth the region we have chosen to call Mittelafrika would benefit [ROOT.GetNameDef] greatly.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3467,
+    "indent": " ",
+    "key": "GER_mittelafrika_revive_the_schutztruppe_tt",
+    "ver": "",
+    "val": "Unlocks §YSchutztruppe§! colonial militias and decisions to §YRecruit§! and §YImprove§! them in §YAfrica§!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3468,
+    "indent": " ",
+    "key": "GER_asia_revive_the_schutztruppe_tt",
+    "ver": "",
+    "val": "Unlocks §YSchutztruppe§! colonial militias and decisions to §YRecruit§! and §YImprove§! them in §YAsia§!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3469,
+    "indent": " ",
+    "key": "GER_re_establish_german_control_over_qingdao",
+    "ver": "",
+    "val": "Re-Establish German Control over Qingdao",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3470,
+    "indent": " ",
+    "key": "GER_re_establish_german_control_over_qingdao_desc",
+    "ver": "",
+    "val": "In 1898 we negotiated a leasehold of Qingdao. That leasehold was cut short in 1914 by the [JAP.GetAdjective] occupation shortly after the start of the Great War. As the area is no longer under occupation, maybe it is time we remind them of the agreement.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3471,
+    "indent": " ",
+    "key": "GER_claim_old_colonies_in_the_east",
+    "ver": "",
+    "val": "Claim Old Colonies in the East",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3472,
+    "indent": " ",
+    "key": "GER_claim_old_colonies_in_the_east_desc",
+    "ver": "",
+    "val": "The Treaty of Versailles stripped us of our colonies and distributed these to the Allied nations. Our people has made clear that they, much like us, think this was unlawful. As part of establishing diplomatic relations in the East we should also consider attempting to get our colonies back.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3473,
+    "indent": " ",
+    "key": "GER_ally_chiang_kai_shek",
+    "ver": "",
+    "val": "Ally Chiang Kai-Shek",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3474,
+    "indent": " ",
+    "key": "GER_ally_chiang_kai_shek_desc",
+    "ver": "",
+    "val": "Our current ventures in Eastern Asia can prove useful not only to us. By allying [CHI.GetLeader] of [CHI.GetNameDef] and aligning him to us we expand our sphere of influence and facilitate colonial growth in the area.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3475,
+    "indent": " ",
+    "key": "GER_japanese_naval_cooperation",
+    "ver": "",
+    "val": "Japanese Naval Cooperation",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3476,
+    "indent": " ",
+    "key": "GER_japanese_naval_cooperation_desc",
+    "ver": "",
+    "val": "We have much to learn from the [JAP.GetAdjective], particularly regarding naval matters. By establishing a joint technology effort we can make sure to make the most out of each others knowledge and reduce the amount of time spent on reinventing what we, as a joint force, already have access to.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3477,
+    "indent": " ",
+    "key": "GER_negotiate_old_colonies_in_the_east",
+    "ver": "",
+    "val": "Negotiate Old Colonies in the East",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3478,
+    "indent": " ",
+    "key": "GER_negotiate_old_colonies_in_the_east_desc",
+    "ver": "",
+    "val": "Many of our colonial holdings in Eastern Asia were taken from us by the [JAP.GetAdjective] during the Great War. As we are now actively engaging in the betterment of our diplomatic relations we might be able to regain some of these colonies by diplomatic means.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3479,
+    "indent": " ",
+    "key": "GER_claim_old_colonies_in_the_east_tt",
+    "ver": "",
+    "val": "Sends an event to §YFaction Members§! and §Y[CHI.GetNameWithFlag]§! requesting control over former [GER.GetAdjective] colonies in §YSouth-East Asia§!. Should they reject, or the territory be controlled by a country we do not consider an ally, gain §Yclaims§! on the contested states.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3480,
+    "indent": " ",
+    "key": "GER_negotiate_old_colonies_in_the_east_tt",
+    "ver": "",
+    "val": "Any of the following states that they control will be transferred to us:\\n§Y[684.GetName]\\n[647.GetName]\\n[646.GetName]\\n[633.GetName]\\n[743.GetName]\\n[979.GetName]\\n[737.GetName]\\n[726.GetName]\\n[725.GetName]\\n[1070.GetName]§!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3481,
+    "indent": " ",
+    "key": "GER_sentinels_of_the_pacific",
+    "ver": "",
+    "val": "Sentinels of the Pacific",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3482,
+    "indent": " ",
+    "key": "GER_sentinels_of_the_pacific_desc",
+    "ver": "",
+    "val": "Our footholds in the Pacific are generally underdeveloped and ill-fitted to be of any use for either our own Kriegsmarine, or those of our allies. A significant effort must be made to make sure proper naval infrastructure is established in relevant areas in the Pacific.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3483,
+    "indent": " ",
+    "key": "GER_sentinels_of_the_pacific_tt",
+    "ver": "",
+    "val": "Every controlled state of the following: §Y\\n[336.GetName]\\n[335.GetName]\\n[743.GetName]\\n[633.GetName]\\n[646.GetName]§!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3484,
+    "indent": " ",
+    "key": "GER_create_asian_reichskommissariat",
+    "ver": "",
+    "val": "Create Asian Reichskommisariats",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3485,
+    "indent": " ",
+    "key": "GER_create_asian_reichskommissariat_desc",
+    "ver": "",
+    "val": "An ordinary colony has many benefits, but our Führer has even bigger plans for our colonies in Asia. Enacting his colonial law should prove beneficial to everyone involved!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3486,
+    "indent": " ",
+    "key": "GER_south_east_asian_natural_wealth",
+    "ver": "",
+    "val": "South-East Asian Natural Wealth",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3487,
+    "indent": " ",
+    "key": "GER_south_east_asian_natural_wealth_desc",
+    "ver": "",
+    "val": "The South-East Asian region is plentiful in regards to natural resources that would benefit us greatly. Their current owners are not developing these lands ideally, and while the lands never belonged to us, such sentiment didn't stop the so called democracies from stealing colonies that were rightfully ours, and nor will it stop us!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3488,
+    "indent": " ",
+    "key": "GER_south_east_asian_natural_wealth_tt",
+    "ver": "",
+    "val": "Unlocks §YOn-Map Decisions§! to improve our South-East Asian territories",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3489,
+    "indent": " ",
+    "key": "GER_the_proud_eagle_and_the_resurgent_dragon",
+    "ver": "",
+    "val": "The Proud Eagle and the Resurgent Dragon",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3490,
+    "indent": " ",
+    "key": "GER_the_proud_eagle_and_the_resurgent_dragon_desc",
+    "ver": "",
+    "val": "The threat of a [JAP.GetAdjective] invasion of our friends in [CHI.GetNameDef] has continuously been looming above us. There will be no use of passively waiting for them to attack. We must prepare for warfare against the warriors of [JAP.GetNameDef], on our territory, or theirs.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3491,
+    "indent": " ",
+    "key": "GER_blitzkrieg_across_the_pacific",
+    "ver": "",
+    "val": "Blitzkrieg Across the Pacific",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3492,
+    "indent": " ",
+    "key": "GER_blitzkrieg_across_the_pacific_desc",
+    "ver": "",
+    "val": "Waging war in the Pacific is unlike what our troops have mostly been trained for. Furthermore our tactics might need some tweaking. We do not believe that this is a weakness, but indeed we think this makes us stronger. The enemy's defenses build upon what they know and by devising a new way of waging war in the Pacific, we can take them by surprise.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3493,
+    "indent": " ",
+    "key": "GER_molotov_ribbentrop_pact",
+    "ver": "",
+    "val": "$GER_mol_rib_pact$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3494,
+    "indent": " ",
+    "key": "GER_molotov_ribbentrop_pact_desc",
+    "ver": "",
+    "val": "$GER_mol_rib_pact_desc$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3495,
+    "indent": " ",
+    "key": "GER_treaty_with_the_ussr",
+    "ver": "",
+    "val": "$GER_soviet_treaty$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3496,
+    "indent": " ",
+    "key": "GER_treaty_with_the_ussr_desc",
+    "ver": "",
+    "val": "$GER_soviet_treaty_desc$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3497,
+    "indent": " ",
+    "key": "GER_support_finland",
+    "ver": "",
+    "val": "Support Finland",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3498,
+    "indent": " ",
+    "key": "GER_support_finland_desc",
+    "ver": "",
+    "val": "The [FIN.GetAdjective] have long since had a conflict over [146.GetName] with the [SOV.GetAdjective]s. As tensions are now rising in the area it lays within our best interest to support them, and in turn align them more closely to us.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3499,
+    "indent": " ",
+    "key": "GER_alliance_with_the_ussr",
+    "ver": "",
+    "val": "$GER_soviet_ally$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3500,
+    "indent": " ",
+    "key": "GER_alliance_with_the_ussr_desc",
+    "ver": "",
+    "val": "$GER_soviet_ally_desc$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3501,
+    "indent": " ",
+    "key": "GER_war_with_the_ussr",
+    "ver": "",
+    "val": "$GER_ussr_war_goal$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3502,
+    "indent": " ",
+    "key": "GER_war_with_the_ussr_desc",
+    "ver": "",
+    "val": "$GER_ussr_war_goal_desc$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3503,
+    "indent": " ",
+    "key": "GER_puppet_turkey",
+    "ver": "",
+    "val": "$GER_turkey_puppet$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3504,
+    "indent": " ",
+    "key": "GER_puppet_turkey_desc",
+    "ver": "",
+    "val": "$GER_turkey_puppet_desc$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3505,
+    "indent": " ",
+    "key": "GER_befriend_turkey",
+    "ver": "",
+    "val": "$GER_turkey_friend$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3506,
+    "indent": " ",
+    "key": "GER_befriend_turkey_desc",
+    "ver": "",
+    "val": "$GER_turkey_friend_desc$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3507,
+    "indent": " ",
+    "key": "GER_influence_the_middle_east",
+    "ver": "",
+    "val": "Influence the Middle East",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3508,
+    "indent": " ",
+    "key": "GER_influence_the_middle_east_desc",
+    "ver": "",
+    "val": "Though we historically have little in common with the Middle East none can deny that the area is of interest to us. We should spread our influence in the area to ensure that we have some diplomatic weight in the area, should it be needed.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3509,
+    "indent": " ",
+    "key": "GER_the_final_blow_to_communism",
+    "ver": "",
+    "val": "The Final Blow to Communism",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3510,
+    "indent": " ",
+    "key": "GER_the_final_blow_to_communism_desc",
+    "ver": "",
+    "val": "Dealing with [SOV.GetNameDef] cannot be the end of our crusade against communism in Europe. So long as communist nations exist in our vicinity we must keep up the fight. We cannot rest until the red menace is fully eradicated!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3511,
+    "indent": " ",
+    "key": "GER_war_against_communism_tt",
+    "ver": "",
+    "val": "Gain §YAnnex§! war goal against any §YCommunist§! nation in the world. Current targets:",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3512,
+    "indent": " ",
+    "key": "GER_war_against_european_communism_tt",
+    "ver": "",
+    "val": "Gain §YAnnex§! war goal against any §YCommunist§! nation in §YEurope§!. Current targets:",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3513,
+    "indent": " ",
+    "key": "GER_crossing_the_atlantic_dockyards_tt",
+    "ver": "",
+    "val": "Add §Y2 $dockyard$s§! in European coastal states fully controlled by [ROOT.GetNameWithFlag], removing §Y1 $arms_factory$§! per dockyard built. \\n(Effects apply to a maximum of [?crossing_the_atlantic_max_states_for_dockyards|Y0] states prioritizing coastal states with at least one $arms_factory$ in them)",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3516,
+    "indent": " ",
+    "key": "GER_inner_circle_member_title",
+    "ver": "",
+    "val": "Reichsleiter",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3517,
+    "indent": " ",
+    "key": "GER_ascension_of_todt",
+    "ver": "",
+    "val": "$GER_inner_circle_member_title$ Todt",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3518,
+    "indent": " ",
+    "key": "GER_ascension_of_todt_desc",
+    "ver": "",
+    "val": "As a skilled engineer with military experience Fritz Todt has proven a competent advisor to the Führer. If given the relative freedom to act we believe that he could be of much use to [ROOT.GetNameDef].",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3519,
+    "indent": " ",
+    "key": "GER_ascension_of_speer",
+    "ver": "",
+    "val": "$GER_inner_circle_member_title$ Speer",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3520,
+    "indent": " ",
+    "key": "GER_ascension_of_speer_desc",
+    "ver": "",
+    "val": "As a trained architect Albert Speer possesses skills that are most valuable to the continued prosperity of the country. By allowing him relative freedom to act we can draw benefit from both his skills and contacts with the bigger players in [ROOT.GetAdjective] construction industry.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3521,
+    "indent": " ",
+    "key": "GER_ascension_of_goring",
+    "ver": "",
+    "val": "$GER_inner_circle_member_title$ Göring",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3522,
+    "indent": " ",
+    "key": "GER_ascension_of_goring_desc",
+    "ver": "",
+    "val": "A skilled commander has a given place in the Führer's Inner Circle. As Hermann Göring is not only a skilled commander but also a long term accomplice of the Führer, allowing him the relative freedom to act should prove little risk for much reward.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3523,
+    "indent": " ",
+    "key": "GER_ascension_of_goebbels",
+    "ver": "",
+    "val": "$GER_inner_circle_member_title$ Goebbels",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3524,
+    "indent": " ",
+    "key": "GER_ascension_of_goebbels_desc",
+    "ver": "",
+    "val": "The Führer always has space in his innermost circle for those that can help him maintain the support of the people. As a close follower and skilled public speaker, allowing Joseph Goebbles the relative freedom to act should prove most beneficial to us.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3525,
+    "indent": " ",
+    "key": "GER_rally_the_industrialists",
+    "ver": "",
+    "val": "Rally the Industrialists",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3526,
+    "indent": " ",
+    "key": "GER_rally_the_industrialists_desc",
+    "ver": "",
+    "val": "The industrialists hold significant power within our country. Rallying them to our side will be a time investment, but one that Rudolf Hess has assured us will be worth making.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3527,
+    "indent": " ",
+    "key": "GER_glorify_party_rallies",
+    "ver": "",
+    "val": "Glorify Party Rallies",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3528,
+    "indent": " ",
+    "key": "GER_glorify_party_rallies_desc",
+    "ver": "",
+    "val": "Without our political core the country will falter. Martin Bormann has brought to attention that our Party Rallies could be improved to garner more support from the public, and thereby allowing us to act more freely in terms of how the government is assembled.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3529,
+    "indent": " ",
+    "key": "GER_total_control_over_domestic_affairs",
+    "ver": "",
+    "val": "Total Control Over Domestic Affairs",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3530,
+    "indent": " ",
+    "key": "GER_total_control_over_domestic_affairs_desc",
+    "ver": "",
+    "val": "The prospect of completely letting go of our domestic affairs to let the Party Chancellor handle them might seem a daring move. The Führer is certain however. The duties carried out by the Party Chancellor so far have been handled way beyond expectations and [ROOT.GetLeader] feels at ease with leaving this to him, to focus on more important matters.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3531,
+    "indent": " ",
+    "key": "GER_fuhrerprinzip_inner_circle_tt",
+    "ver": "",
+    "val": "Activates the §YInner Circle§! Mechanic.\\n\\n",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3532,
+    "indent": " ",
+    "key": "GER_rally_the_industrialists_hess_tt",
+    "ver": "",
+    "val": "Will prevent the §Y$germany.107.t$§! event chain from happening.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  }
+]

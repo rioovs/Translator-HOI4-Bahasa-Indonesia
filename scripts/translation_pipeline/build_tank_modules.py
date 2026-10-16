@@ -1,0 +1,626 @@
+# -*- coding: utf-8 -*-
+"""
+Generates tank_modules_l_braz_por.yml
+"""
+import os
+import re
+import json
+
+def generate_tank_modules():
+    with open('tank_modules_en.json', 'r', encoding='utf-8') as f:
+        en_entries = json.load(f)
+
+    # We will build a translation dict mapping each key
+    t = {}
+
+    # Category and UI
+    t["MODULE_ALLOW_ROLE"] = "§GMengizinkan§! peran $ROLE|H$"
+    t["MODULE_ALLOW_ROLE_BUT_OTHER_FORBID"] = "§GMengizinkan§! peran $ROLE|H$, tetapi $FORBIDDING_MODULE|H$ §Rmelarangnya§!"
+    t["MODULE_FORBID_ROLE"] = "§RMelarang§! peran $ROLE|H$"
+    t["MODULE_ALLOWED_ROLE_IS_FORBIDDEN_BY_ANOTHER_MODULE"] = "Peran $ROLE|H$ bernilai £trigger_yes£ oleh modul $ALLOWING_MODULE|H$ tetapi bernilai £trigger_no£ oleh modul $FORBIDDING_MODULE|H$.\\n\\n"
+    
+    t["EQ_MOD_CAT_tank_engine_type_TITLE"] = "Tipe Mesin"
+    t["EQ_MOD_CAT_tank_armor_type_TITLE"] = "Tipe Lapis Baja"
+    t["EQ_MOD_CAT_tank_suspension_type_TITLE"] = "Suspensi Rantai"
+    t["EQ_MOD_CAT_tank_light_turret_type_TITLE"] = "Tipe Kubah Ringan"
+    t["EQ_MOD_CAT_tank_medium_turret_type_TITLE"] = "Tipe Kubah Sedang"
+    t["EQ_MOD_CAT_tank_heavy_turret_type_TITLE"] = "Tipe Kubah Berat"
+    t["EQ_MOD_CAT_tank_super_heavy_turret_type_TITLE"] = "Tipe Kubah Super Berat"
+    t["EQ_MOD_CAT_tank_modern_turret_type_TITLE"] = "Tipe Kubah Modern"
+    t["EQ_MOD_CAT_tank_small_main_armament_TITLE"] = "Persenjataan Kaliber Kecil"
+    t["EQ_MOD_CAT_tank_medium_main_armament_TITLE"] = "Persenjataan Kaliber Sedang"
+    t["EQ_MOD_CAT_tank_heavy_main_armament_TITLE"] = "Persenjataan Kaliber Berat"
+    t["EQ_MOD_CAT_tank_flamethrower_TITLE"] = "Penyembur Api"
+    t["EQ_MOD_CAT_tank_super_heavy_main_armament_TITLE"] = "Persenjataan Super Berat"
+    t["EQ_MOD_CAT_tank_special_module_TITLE"] = "Modul Khusus"
+    t["EQ_MOD_CAT_tank_radio_module_TITLE"] = "Radio"
+    t["EQ_MOD_CAT_tank_secondary_turret_TITLE"] = "Kubah Sekunder"
+    t["EQ_MOD_CAT_tank_non_tracked_suspension_type_TITLE"] = "Suspensi Non-Rantai"
+    t["EQ_MOD_SLOT_main_armament_slot_TITLE"] = "Persenjataan Utama"
+    t["EQ_MOD_SLOT_turret_type_slot_TITLE"] = "Kubah"
+    t["EQ_MOD_SLOT_suspension_type_slot_TITLE"] = "Suspensi"
+    t["EQ_MOD_SLOT_armor_type_slot_TITLE"] = "Tipe Lapis Baja"
+    t["EQ_MOD_SLOT_engine_type_slot_TITLE"] = "Tipe Mesin"
+    t["EQ_MOD_SLOT_special_type_slot_1_TITLE"] = "Fitur Khusus"
+    t["EQ_MOD_SLOT_special_type_slot_2_TITLE"] = "Fitur Khusus"
+    t["EQ_MOD_SLOT_special_type_slot_3_TITLE"] = "Fitur Khusus"
+    t["EQ_MOD_SLOT_special_type_slot_4_TITLE"] = "Fitur Khusus"
+
+    # Engines
+    t["tank_gasoline_engine"] = "Mesin Bensin"
+    t["tank_gasoline_engine_desc"] = "Mesin berbahan bakar bensin akan lebih cepat untuk ukuran mesin tertentu, namun bahan bakarnya jauh lebih rentan terbakar."
+    t["tank_diesel_engine"] = "Mesin Diesel"
+    t["tank_diesel_engine_desc"] = "Mesin berbahan bakar solar (diesel) lebih andal daripada mesin bensin, namun tidak secepat itu untuk ukuran mesin yang sama."
+    t["tank_petrol_electric_engine"] = "Mesin Bensin-Listrik"
+    t["tank_petrol_electric_engine_desc"] = "Kombinasi mesin berbahan bakar bensin yang menyediakan daya ke motor listrik. Kompleks, mahal, dan kurang andal, namun menawarkan kinerja tak tertandingi dalam pergerakan taktis."
+    t["tank_gas_turbine_engine"] = "Turbin Gas"
+    t["tank_gas_turbine_engine_desc"] = "Turbin yang dikembangkan dari mesin jet. Konsumsi bahan bakar tinggi, namun menghasilkan kecepatan tertinggi di antara mesin mana pun pada ukuran mesin tertentu."
+
+    # Armor
+    t["tank_riveted_armor"] = "Lapis Baja Keling"
+    t["tank_riveted_armor_desc"] = "Pelat lapis baja dibaut ke rangka dan disatukan oleh paku keling pada tepinya. Teknologi yang sangat teruji dan cukup murah, namun tepi sambungan paku keling menjadi titik lemah dan dapat mencederai awak jika terkena hantaman."
+    t["tank_cast_armor"] = "Lapis Baja Tuang"
+    t["tank_cast_armor_desc"] = "Seluruh sasis, termasuk pelindung lapis baja, dicetak/dituang sebagai satu kesatuan utuh. Proses yang mahal dan memakan waktu namun memungkinkan lapis baja yang jauh lebih tebal dengan titik lemah yang lebih sedikit."
+    t["tank_welded_armor"] = "Lapis Baja Las"
+    t["tank_welded_armor_desc"] = "Pelat lapis baja dilas ke sasis. Proses yang lebih cepat daripada penuangan, sembari tetap memberikan perlindungan yang sangat baik."
+    t["NOR_tank_rikstanken_armor"] = "Lapis Baja Darurat"
+    t["NOR_tank_rikstanken_armor_desc"] = "Dibuat dari lembaran besi alih-alih baja untuk menghemat biaya. Lebih baik daripada tanpa lapis baja sama sekali... mungkin."
+
+    # Suspensions
+    t["tank_torsion_bar_suspension"] = "Batang Torsi"
+    t["tank_torsion_bar_suspension_desc"] = "Sistem suspensi yang cukup andal berupa batang logam yang dipasang pada sasis kendaraan yang memberikan kenyamanan berkendara lebih halus dibandingkan jenis suspensi lainnya."
+    t["tank_christie_suspension"] = "Suspensi Christie"
+    t["tank_christie_suspension_desc"] = "Dikembangkan oleh penemu Amerika, suspensi ini memungkinkan pergerakan dengan kecepatan sangat tinggi."
+    t["tank_bogie_suspension"] = "Suspensi Bogie"
+    t["tank_bogie_suspension_desc"] = "Jenis suspensi sederhana dan cukup murah di mana roda jalan dipasang secara terpisah, memungkinkan perbaikan atau penggantian dengan mudah jika rusak."
+    t["tank_interleaved_suspension"] = "Roda Jalan Bersilangan"
+    t["tank_interleaved_suspension_desc"] = "Dengan menumpuk roda jalan secara bersilangan, lebih banyak roda dapat dimuat dalam panjang lambung yang sama, sehingga meningkatkan mobilitas serta memberikan perlindungan tambahan pada sisi lambung."
+    t["tank_wheeled_suspension"] = "Suspensi Beroda"
+    t["tank_wheeled_suspension_desc"] = "Berasal dari sasis truk, suspensi ini sangat terbatas daya angkutnya dan memiliki kemampuan lintas medan yang terbatas, namun memiliki keunggulan biaya pembuatan yang sangat murah."
+    t["tank_half_track_suspension"] = "Suspensi Half-track"
+    t["tank_half_track_suspension_desc"] = "Hibrida antara kendaraan beroda rantai penuh dan suspensi beroda biasa, susunan ini memiliki sepasang roda depan untuk kemudi dan poros belakang beroda rantai untuk meningkatkan kinerja lintas medan. Meski kapasitas muatnya terbatas, biaya pembuatannya tetap lebih murah daripada desain rantai penuh."
+
+    # Turrets
+    t["tank_light_one_man_tank_turret"] = "Kubah Satu Awak"
+    t["tank_light_one_man_tank_turret_desc"] = "Kubah kecil yang nyaris tidak cukup untuk menampung satu awak, yang bertugas membidik dan mengisi amunisi senjata utama sekaligus mengawasi target dan ancaman musuh."
+    t["tank_light_two_man_tank_turret"] = "Kubah Dua Awak"
+    t["tank_light_two_man_tank_turret_desc"] = "Kubah yang memungkinkan dua awak berbagi tugas mengoperasikan persenjataan dan mengamati situasi medan. Hal ini tetap belum memberikan pembagian kerja yang efektif di antara awak."
+    t["tank_light_three_man_tank_turret"] = "Kubah Tiga Awak"
+    t["tank_light_three_man_tank_turret_desc"] = "Kubah yang cukup besar bagi tiga awak untuk membagi tugas mengisi amunisi, membidik persenjataan utama, dan mempertahankan kesadaran situasional di sekitar mereka."
+    t["tank_light_fixed_superstructure_turret"] = "Kasemat Tetap Ringan"
+    t["tank_light_fixed_superstructure_turret_desc"] = "Kasemat (suprastruktur tetap) hanya memungkinkan senjata utama berputar dalam sudut sempit tanpa memutar seluruh kendaraan. Namun, ini memungkinkan kendaraan membawa meriam lebih besar dengan ukuran keseluruhan yang lebih kecil, sangat cocok untuk penyergapan."
+
+    t["tank_medium_one_man_tank_turret"] = "Kubah Satu Awak"
+    t["tank_medium_one_man_tank_turret_desc"] = "Kubah kecil yang nyaris tidak cukup untuk menampung satu awak, yang bertugas membidik dan mengisi amunisi senjata utama sekaligus mengawasi target dan ancaman musuh."
+    t["tank_medium_two_man_tank_turret"] = "Kubah Dua Awak"
+    t["tank_medium_two_man_tank_turret_desc"] = "Kubah yang memungkinkan dua awak berbagi tugas mengoperasikan persenjataan dan mengamati situasi medan. Hal ini tetap belum memberikan pembagian kerja yang efektif di antara awak."
+    t["tank_medium_three_man_tank_turret"] = "Kubah Tiga Awak"
+    t["tank_medium_three_man_tank_turret_desc"] = "Kubah yang cukup besar bagi tiga awak untuk membagi tugas mengisi amunisi, membidik persenjataan utama, dan mempertahankan kesadaran situasional di sekitar mereka."
+    t["tank_medium_fixed_superstructure_turret"] = "Kasemat Tetap Sedang"
+    t["tank_medium_fixed_superstructure_turret_desc"] = "Kasemat (suprastruktur tetap) hanya memungkinkan senjata utama berputar dalam sudut sempit tanpa memutar seluruh kendaraan. Namun, ini memungkinkan kendaraan membawa meriam lebih besar dengan ukuran keseluruhan yang lebih kecil, sangat cocok untuk penyergapan."
+
+    t["tank_heavy_two_man_tank_turret"] = "Kubah Dua Awak"
+    t["tank_heavy_two_man_tank_turret_desc"] = "Kubah yang memungkinkan dua awak berbagi tugas mengoperasikan persenjataan dan mengamati situasi medan. Hal ini tetap belum memberikan pembagian kerja yang efektif di antara awak."
+    t["tank_heavy_three_man_tank_turret"] = "Kubah Tiga Awak"
+    t["tank_heavy_three_man_tank_turret_desc"] = "Kubah yang cukup besar bagi tiga awak untuk membagi tugas mengisi amunisi, membidik persenjataan utama, dan mempertahankan kesadaran situasional di sekitar mereka."
+    t["tank_heavy_fixed_superstructure_turret"] = "Kasemat Tetap Berat"
+    t["tank_heavy_fixed_superstructure_turret_desc"] = "Kasemat (suprastruktur tetap) hanya memungkinkan senjata utama berputar dalam sudut sempit tanpa memutar seluruh kendaraan. Namun, ini memungkinkan kendaraan membawa meriam lebih besar dengan ukuran keseluruhan yang lebih kecil, sangat cocok untuk penyergapan."
+
+    t["tank_super_heavy_four_man_tank_turret"] = "Kubah Empat Awak"
+    t["tank_super_heavy_four_man_tank_turret_desc"] = "Kubah masif dengan ruang tambahan bagi juru isi kedua untuk melayani meriam utama yang sangat besar."
+    t["tank_super_heavy_three_man_tank_turret"] = "Kubah Tiga Awak"
+    t["tank_super_heavy_three_man_tank_turret_desc"] = "Kubah yang cukup besar bagi tiga awak untuk membagi tugas mengisi amunisi, membidik persenjataan utama, dan mempertahankan kesadaran situasi di sekitar mereka."
+    t["tank_modern_tank_turret"] = "Kubah Modern"
+    t["tank_modern_tank_turret_desc"] = "Kubah dengan tata letak yang dirancang sangat baik memungkinkan tiga awak mengoperasikan persenjataan utama secara efisien dan memantau lingkungan sekitar."
+    t["NOR_rikstanken_turret"] = "Kubah Improvvisasi"
+    t["NOR_rikstanken_turret_desc"] = "Menampung senjata dan dapat berputar. Ketika sedang berfungsi."
+
+    # Weapons
+    t["tank_heavy_machine_gun"] = "Senapan Mesin Berat"
+    t["tank_heavy_machine_gun_desc"] = "Senapan mesin memberikan kemampuan anti-infanteri yang lumayan dengan biaya rendah. Bahkan dengan amunisi penembus baja khusus, performa anti-lapis bajanya masih sangat terbatas."
+    t["flamethrower"] = "Penyembur Api"
+    t["flamethrower_desc"] = "Alat untuk menyemburkan cairan yang menyala. Sangat berguna dalam pertempuran kota dan melawan perbentengan, namun tidak memiliki kemampuan anti-lapis baja dan harus digunakan oleh awak terlatih khusus dalam unit terpisah agar efektif."
+    t["advanced_flamethrower"] = "Penyembur Api Mutakhir"
+    t["advanced_flamethrower_desc"] = "Sistem penyembur api yang ditingkatkan, ideal untuk membersihkan posisi pertahanan berbenteng dan menimbulkan kerusakan mematikan dalam pertempuran jarak dekat."
+    t["tank_auto_cannon"] = "Meriam Otomatis"
+    t["tank_auto_cannon_desc"] = "Diadaptasi dari meriam anti-udara tembak cepat, meriam otomatis ini mampu melancarkan tembakan beruntun yang menghancurkan sasaran lunak. Kaliber kecilnya membatasi performa anti-lapis baja."
+    t["tank_auto_cannon_2"] = "Meriam Otomatis Ditingkatkan"
+    t["tank_auto_cannon_2_desc"] = "Diadaptasi dari meriam anti-udara tembak cepat, meriam otomatis ini mampu melancarkan tembakan beruntun yang menghancurkan sasaran lunak. Kaliber kecilnya membatasi performa anti-lapis baja."
+    t["tank_anti_air_cannon"] = "Meriam Anti-Udara Dasar"
+    t["tank_anti_air_cannon_desc"] = "Meriam otomatis tembak cepat yang dirancang untuk menghadapi pesawat tempur. Memiliki potensi terbatas sebagai senjata bantuan tembakan terhadap sasaran darat."
+    t["tank_anti_air_cannon_2"] = "Meriam Anti-Udara Ditingkatkan"
+    t["tank_anti_air_cannon_2_desc"] = "Meriam otomatis tembak cepat yang dirancang untuk menghadapi pesawat tempur. Memiliki potensi terbatas sebagai senjata bantuan tembakan terhadap sasaran darat."
+    t["tank_anti_air_cannon_3"] = "Meriam Anti-Udara Mutakhir"
+    t["tank_anti_air_cannon_3_desc"] = "Meriam otomatis tembak cepat yang dirancang untuk menghadapi pesawat tempur. Memiliki potensi terbatas sebagai senjata bantuan tembakan terhadap sasaran darat."
+    t["tank_medium_howitzer"] = "Howitzer Sedang"
+    t["tank_medium_howitzer_desc"] = "Howitzer medan kaliber sedang yang disesuaikan untuk dipasang pada kendaraan. Tujuan utamanya adalah bantuan tembakan tidak langsung terhadap sasaran lunak, namun dapat ditembakkan langsung jika diperlukan. Membawa sedikit amunisi penembus baja menjadikannya kurang cocok untuk tugas anti-tank."
+    t["tank_medium_howitzer_2"] = "Howitzer Sedang Ditingkatkan"
+    t["tank_medium_howitzer_2_desc"] = "Howitzer medan kaliber sedang yang disesuaikan untuk dipasang pada kendaraan. Tujuan utamanya adalah bantuan tembakan tidak langsung terhadap sasaran lunak, namun dapat ditembakkan langsung jika diperlukan. Membawa sedikit amunisi penembus baja menjadikannya kurang cocok untuk tugas anti-tank."
+    t["tank_heavy_howitzer"] = "Howitzer Berat"
+    t["tank_heavy_howitzer_desc"] = "Howitzer medan kaliber berat yang disesuaikan untuk dipasang pada kendaraan. Tujuan utamanya adalah bantuan tembakan tidak langsung terhadap sasaran lunak, namun dapat ditembakkan langsung jika diperlukan. Membawa sedikit amunisi penembus baja menjadikannya kurang cocok untuk tugas anti-tank."
+    t["tank_small_cannon"] = "Meriam Kecil"
+    t["tank_small_cannon_desc"] = "Meriam kecil dan murah, mampu menembakkan proyektil anti-infanteri maupun anti-lapis baja. Kalibernya yang kecil membatasi kegunaannya."
+    t["tank_small_cannon_2"] = "Meriam Kecil Ditingkatkan"
+    t["tank_small_cannon_2_desc"] = "Meriam kecil dan murah, mampu menembakkan proyektil anti-infanteri maupun anti-lapis baja. Kalibernya yang kecil membatasi kegunaannya."
+    t["tank_medium_cannon"] = "Meriam Sedang"
+    t["tank_medium_cannon_desc"] = "Senjata serbaguna yang sangat cocok untuk berbagai macam tugas. Senjata ini tidak terlalu unggul dalam pertempuran anti-infanteri maupun anti-tank murni, tetapi memberikan fleksibilitas tinggi bagi kendaraan."
+    t["tank_medium_cannon_2"] = "Meriam Sedang Ditingkatkan"
+    t["tank_medium_cannon_2_desc"] = "Senjata serbaguna yang sangat cocok untuk berbagai macam tugas. Senjata ini tidak terlalu unggul dalam pertempuran anti-infanteri maupun anti-tank murni, tetapi memberikan fleksibilitas tinggi bagi kendaraan."
+    t["tank_high_velocity_cannon"] = "Meriam Kecepatan Tinggi Dasar"
+    t["tank_high_velocity_cannon_desc"] = "Meriam yang dirancang khusus untuk mencapai kecepatan laras tinggi. Menggunakan amunisi khusus, meriam ini memiliki karakteristik anti-lapis baja yang luar biasa, namun performanya terhadap sasaran lunak menurun."
+    t["tank_high_velocity_cannon_2"] = "Meriam Kecepatan Tinggi Ditingkatkan"
+    t["tank_high_velocity_cannon_2_desc"] = "Meriam yang dirancang khusus untuk mencapai kecepatan laras tinggi. Menggunakan amunisi khusus, meriam ini memiliki karakteristik anti-lapis baja yang luar biasa, namun performanya terhadap sasaran lunak menurun."
+    t["tank_high_velocity_cannon_3"] = "Meriam Kecepatan Tinggi Mutakhir"
+    t["tank_high_velocity_cannon_3_desc"] = "Meriam yang dirancang khusus untuk mencapai kecepatan laras tinggi. Menggunakan amunisi khusus, meriam ini memiliki karakteristik anti-lapis baja yang luar biasa, namun performanya terhadap sasaran lunak menurun."
+    t["tank_heavy_cannon"] = "Meriam Berat Dasar"
+    t["tank_heavy_cannon_desc"] = "Senjata yang dapat menembakkan peluru kaliber besar. Dengan penetrasi lapis baja yang luar biasa dan performa yang layak terhadap sasaran lunak, kelemahan terbesarnya adalah ukuran dan biaya yang besar, membuatnya terlalu berat untuk dipasang pada kendaraan yang tidak dirancang khusus untuk membawanya."
+    t["tank_heavy_cannon_2"] = "Meriam Berat Ditingkatkan"
+    t["tank_heavy_cannon_2_desc"] = "Senjata yang dapat menembakkan peluru kaliber besar. Dengan penetrasi lapis baja yang luar biasa dan performa yang layak terhadap sasaran lunak, kelemahan terbesarnya adalah ukuran dan biaya yang besar, membuatnya terlalu berat untuk dipasang pada kendaraan yang tidak dirancang khusus untuk membawanya."
+    t["tank_heavy_cannon_3"] = "Meriam Berat Mutakhir"
+    t["tank_heavy_cannon_3_desc"] = "Senjata yang dapat menembakkan peluru kaliber besar. Dengan penetrasi lapis baja yang luar biasa dan performa yang layak terhadap sasaran lunak, kelemahan terbesarnya adalah ukuran dan biaya yang besar, membuatnya terlalu berat untuk dipasang pada kendaraan yang tidak dirancang khusus untuk membawanya."
+    t["tank_super_heavy_cannon"] = "Meriam Super Berat"
+    t["tank_super_heavy_cannon_desc"] = "Senjata berukuran luar biasa besar dengan kinerja tanpa tanding. Hanya ada sedikit target yang tidak dapat dihancurkan oleh senjata ini di medan perang."
+    t["tank_close_support_gun"] = "Meriam Bantuan Dekat"
+    t["tank_close_support_gun_desc"] = "Senjata kaliber sedang berlaras pendek yang dirancang untuk menembakkan peluru berdaya ledak tinggi terhadap benteng lapangan musuh guna membantu gerak maju infanteri. Walau mampu menyerang tank musuh, laras pendek dan amunisi terbatas membuatnya kurang memadai menghadapi tank musuh yang lebih kuat."
+    t["tank_rocket_launcher"] = "Peluncur Roket"
+    t["tank_rocket_launcher_desc"] = "Peluncur multi-laras untuk roket berdaya ledak tinggi tanpa kendali. Volume tembakan yang tinggi memberikan kinerja sangat baik terhadap sasaran lunak, namun tembakan langsung sekalipun berdampak kecil terhadap target lapis baja tebal."
+    t["tank_rocket_launcher_2"] = "Peluncur Roket Ditingkatkan"
+    t["tank_rocket_launcher_2_desc"] = "Meskipun terdapat sejumlah peningkatan akurasi, keuntungan utama dari peluncur roket yang ditingkatkan ini adalah kapasitas roket yang lebih banyak untuk ditembakkan ke arah musuh."
+
+    # Radios & Special Modules
+    t["tank_radio_1"] = "Radio Dasar"
+    t["tank_radio_1_desc"] = "Radio dua arah dasar memungkinkan tank mengoordinasikan manuver taktis mereka dalam skala kecil."
+    t["tank_radio_2"] = "Radio Ditingkatkan"
+    t["tank_radio_2_desc"] = "Radio yang ditingkatkan memungkinkan komandan memegang kendali efektif atas formasi tank yang lebih besar, memungkinkan manuver operasional skala besar."
+    t["tank_radio_3"] = "Radio Mutakhir"
+    t["tank_radio_3_desc"] = "Dengan pemancar yang lebih kuat dan penerimaan yang lebih jernih, radio ini memungkinkan komunikasi jarak puluhan kilometer dan mampu mengatasi gangguan sinyal (jamming) musuh."
+    t["amphibious_drive"] = "Penggerak Amfibi"
+    t["amphibious_drive_desc"] = "Perangkat pelampung dan baling-baling pendorong memungkinkan tank ini dipersiapkan dengan cepat untuk melintasi air, baik dari kapal ke pantai maupun menyeberangi sungai."
+    t["secondary_turret_hmg"] = "Senapan Mesin Berat"
+    t["secondary_turret_hmg_desc"] = "Senapan mesin berat di kubah sekunder. Penempatan kubah membatasi sudut tembaknya, menurunkan efektivitas senjata secara keseluruhan, namun memungkinkan tank menghadapi lebih banyak sasaran, terutama saat menyerang."
+    t["secondary_turret_small_cannon"] = "Meriam Kecil"
+    t["secondary_turret_small_cannon_desc"] = "Meriam kecil di kubah sekunder. Penempatan kubah membatasi sudut tembaknya, menurunkan efektivitas senjata secara keseluruhan, namun memungkinkan tank menghadapi lebih banyak sasaran, terutama saat menyerang."
+    t["secondary_turret_close_support_gun"] = "Meriam Bantuan Dekat"
+    t["secondary_turret_close_support_gun_desc"] = "Meriam bantuan dekat di kubah sekunder. Penempatan kubah membatasi sudut tembaknya, menurunkan efektivitas senjata secara keseluruhan, namun memungkinkan tank menghadapi lebih banyak sasaran, terutama saat menyerang."
+    t["sloped_armor"] = "Lapis Baja Miring"
+    t["sloped_armor_desc"] = "Lapis baja yang diposisikan miring terhadap proyektil yang datang memiliki ketebalan efektif yang jauh lebih besar dibandingkan ketebalan baja yang sama secara vertikal. Hal ini juga meningkatkan peluang proyektil memantul (ricochet). Namun, perancangannya menuntut seluruh bodi tank disesuaikan sehingga kendaraan lebih rumit dirakit."
+    t["stabilizer"] = "Stabilisator"
+    t["stabilizer_desc"] = "Perangkat mekanis untuk menjaga moncong meriam tetap mengarah ke sasaran saat tank bergerak. Walau belum cukup canggih untuk menembak akurat saat melaju kencang, perangkat ini memungkinkan penembak melepas tembakan tepat saat berhenti sejenak tanpa perlu membidik ulang."
+    t["smoke_launchers"] = "Pelontar Asap"
+    t["smoke_launchers_desc"] = "Pelontar piroteknik yang dapat dipicu dari dalam tank untuk menciptakan tabir asap tebal guna menyembunyikan tank. Sangat berguna saat bertahan atau setelah terjebak dalam penyergapan."
+    t["extra_ammo_storage"] = "Penyimpanan Amunisi Tambahan"
+    t["extra_ammo_storage_desc"] = "Rak amunisi cadangan memungkinkan tank bertempur jauh lebih lama tanpa perlu pasokan ulang. Namun, jika pelindung baja tertembus, risikonya menjadi sangat fatal. Hal ini menjadi masalah besar terutama saat melakukan serangan."
+    t["wet_ammo_storage"] = "Penyimpanan Amunisi Basah"
+    t["wet_ammo_storage_desc"] = "Selubung cairan yang ditambahkan ke rak amunisi secara drastis mengurangi risiko ledakan amunisi setelah tank terkena tembakan, suatu fitur yang sangat dihargai oleh para awak tank."
+    t["squeezebore_adaptor"] = "Adaptor Squeeze-bore"
+    t["squeezebore_adaptor_desc"] = "Adaptor khusus di ujung laras mempersempit diameter laras dan memeras proyektil ke kaliber yang lebih kecil. Hal ini secara signifikan meningkatkan kecepatan laras dan daya tembus meriam, namun membutuhkan amunisi khusus dari bahan langka."
+    t["armor_skirts"] = "Rok Pelindung Baja"
+    t["armor_skirts_desc"] = "Rangkaian pelat logam tipis yang dipasang di sisi samping kendaraan, memberikan perlindungan ekstra terhadap senapan anti-tank dan hulu ledak terarah (shaped charges)."
+    t["dozer_blade"] = "Bilah Buldoser"
+    t["dozer_blade_desc"] = "Bilah buldoser memungkinkan kendaraan membangun posisi tempur lapangan secara mandiri dengan cepat tanpa bantuan pasukan zeni."
+    t["auto_loader"] = "Pengisi Otomatis (Autoloader)"
+    t["auto_loader_desc"] = "Mekanisme otomatis yang mengisi proyektil dan memungkinkan tank mempertahankan laju tembakan tinggi dalam jangka waktu yang lama."
+    t["easy_maintenance"] = "Perawatan Mudah"
+    t["easy_maintenance_desc"] = "Pintu palka di sekeliling kendaraan memberikan akses mudah ke berbagai komponen penting, memungkinkan awak melakukan pemeliharaan bahkan yang rumit sekalipun secara efisien."
+    t["additional_machine_guns"] = "Senapan Mesin Tambahan"
+    t["additional_machine_guns_desc"] = "Pemasangan senapan mesin tambahan pada sponson atau dudukan putar memberikan pertahanan ekstra terhadap serangan infanteri jarak dekat."
+    t["expanded_fuel_tank"] = "Tong Bahan Bakar"
+    t["expanded_fuel_tank_desc"] = "Tong bahan bakar eksternal yang dipasang untuk memperjauh jangkauan operasional kendaraan lapis baja."
+
+    # Tech tooltips
+    t["armor_tech_1_tt"] = "Mengaktifkan nilai Peningkatan Lapis Baja 5 ke atas."
+    t["armor_tech_2_tt"] = "Mengaktifkan nilai Peningkatan Lapis Baja 10 ke atas."
+    t["armor_tech_3_tt"] = "Mengaktifkan nilai Peningkatan Lapis Baja 15 ke atas."
+    t["armor_tech_4_tt"] = "Mengaktifkan nilai Peningkatan Lapis Baja 18 ke atas."
+    t["engine_tech_1_tt"] = "Mengaktifkan nilai Peningkatan Mesin 5 ke atas."
+    t["engine_tech_2_tt"] = "Mengaktifkan nilai Peningkatan Mesin 10 ke atas."
+    t["engine_tech_3_tt"] = "Mengaktifkan nilai Peningkatan Mesin 15 ke atas."
+    t["engine_tech_4_tt"] = "Mengaktifkan nilai Peningkatan Mesin 18 ke atas."
+
+    # Techs
+    t["armor_tech_1"] = "Perlindungan Lapis Baja Dasar"
+    t["armor_tech_1_desc"] = "Tank selama Perang Besar hanya perlu menghadapi senjata ringan musuh, sehingga cukup menggunakan lapis baja tipis. Senjata anti-tank generasi baru menjadikan medan perang jauh lebih berbahaya bagi tank, dan perlindungan yang jauh lebih tebal sangat dibutuhkan."
+    t["armor_tech_2"] = "Perlindungan Lapis Baja Ditingkatkan"
+    t["armor_tech_2_desc"] = "Dengan senjata anti-tank yang semakin berat dikerahkan di seluruh dunia, generasi tank berikutnya akan membutuhkan perlindungan yang lebih kuat."
+    t["armor_tech_3"] = "Perlindungan Lapis Baja Mutakhir"
+    t["armor_tech_3_desc"] = "Meskipun batas kemampuan meriam anti-tank tarik kemungkinan telah tercapai, generasi tank baru akan membawa persenjataan lebih canggih yang mampu menembus perlindungan saat ini pada jarak jauh."
+    t["armor_tech_4"] = "Perlindungan Lapis Baja Modern"
+    t["armor_tech_4_desc"] = "Selama perang, ancaman yang dihadapi tank berlipat ganda, mulai dari tank musuh, meriam anti-tank, penghancur tank khusus, hingga senjata infanteri modern berhulu ledak terarah yang mampu menembus lapis baja tebal. Kita harus mengembangkan metode perlindungan baru agar tank kita tetap bertahan menghadapi ancaman ini."
+
+    t["engine_tech_1"] = "Mesin Dasar"
+    t["engine_tech_1_desc"] = "Bila tank Perang Besar bergerak lamban dan berat, tank modern sangat mengandalkan kecepatan dan kelincahan gerak untuk meraih kemenangan."
+    t["engine_tech_2"] = "Mesin Ditingkatkan"
+    t["engine_tech_2_desc"] = "Dengan meriam yang lebih besar dan lapis baja yang lebih tebal, generasi tank baru membutuhkan mesin yang lebih bertenaga agar tetap lincah."
+    t["engine_tech_3"] = "Mesin Mutakhir"
+    t["engine_tech_3_desc"] = "Peperangan mekanis menuntut pengambilan keputusan cepat serta pergerakan pasukan dan logistik yang gesit. Jika tank kita ingin membawa senjata modern dan lapis baja tebal untuk bertahan hidup, mereka membutuhkan mesin bertenaga besar untuk mengimbangi infanteri bermotor."
+    t["engine_tech_4"] = "Mesin Modern"
+    t["engine_tech_4_desc"] = "Berbagai penambahan fitur modern pada tank telah meningkatkan bobot kendaraan secara substansial. Untuk menggerakkan massa seberat itu, kita membutuhkan mesin dengan tenaga yang sangat besar."
+
+    # UI Stats labels
+    t["DESIGNER_CHASSIS_BASE"] = "Sasis: "
+    t["DESIGNER_FROM_MODULES"] = "Modul: "
+    t["DESIGNER_UNSAVED_CHANGES"] = "Perubahan belum disimpan: "
+
+    # Chassis base names & variations
+    t["light_tank_chassis"] = "Tank Ringan"
+    t["medium_tank_chassis"] = "Tank Sedang"
+    t["heavy_tank_chassis"] = "Tank Berat"
+    t["super_heavy_tank_chassis"] = "Tank Super Berat"
+    t["modern_tank_chassis"] = "Tank Modern"
+    t["main_battle_tank_chassis"] = "Tank Tempur Utama Modern"
+    t["amphibious_tank_chassis"] = "Tank Amfibi"
+    t["land_cruiser_chassis"] = "Sasis Penjelajah Darat"
+    t["land_cruiser_chassis_1"] = "Sasis Penjelajah Darat"
+
+    # Chassis models
+    t["light_tank_chassis_0"] = "Tank Ringan Antar-Perang"
+    t["light_tank_chassis_desc"] = "Sasis kecil dan ringkas, ideal untuk kendaraan ringan berbiaya murah yang menjalankan tugas pengintaian dan bantuan tembakan. Daya angkutnya yang terbatas membuatnya kurang cocok untuk membawa lapis baja tebal atau meriam besar."
+    t["light_tank_chassis_1"] = "Tank Ringan Dasar"
+    t["basic_light_tank_chassis"] = "Tank Ringan Dasar"
+    t["basic_light_tank_chassis_short"] = "Ringan 1934"
+    t["basic_light_tank_chassis_desc"] = "Kemajuan teknologi telah membuat desain pasca-perang usang. Medan perang modern membutuhkan desain baru yang memadukan kemajuan metalurgi dan tata letak interior yang efisien."
+    t["light_tank_chassis_2"] = "Tank Ringan Ditingkatkan"
+    t["improved_light_tank_chassis"] = "Tank Ringan Ditingkatkan"
+    t["improved_light_tank_chassis_short"] = "Ringan 1936"
+    t["improved_light_tank_chassis_desc"] = "Penyempurnaan lebih lanjut berdasarkan pengalaman dari tank ringan sebelumnya, sasis ini memberikan keandalan dan kemudahan perawatan yang lebih baik."
+    t["light_tank_chassis_3"] = "Tank Ringan Mutakhir"
+    t["advanced_light_tank_chassis"] = "Tank Ringan Mutakhir"
+    t["advanced_light_tank_chassis_short"] = "Ringan 1941"
+    t["advanced_light_tank_chassis_desc"] = "Dengan tank sedang yang semakin mendominasi pertempuran, peran tank ringan sebagian besar dialihkan ke fungsi pendukung. Desain sasis baru diperlukan untuk mengakomodasi kebutuhan peran-peran ini."
+
+    t["light_tank_amphibious_chassis_0"] = "Tank Ringan Antar-Perang (Amfibi)"
+    t["light_tank_amphibious_chassis_1"] = "Tank Ringan Dasar (Amfibi)"
+    t["light_tank_amphibious_chassis_2"] = "Tank Ringan Ditingkatkan (Amfibi)"
+    t["light_tank_amphibious_chassis_3"] = "Tank Ringan Mutakhir (Amfibi)"
+    t["light_tank_amphibious_equipment_0"] = "Tank Amfibi Ringan Antar-Perang"
+    t["light_tank_amphibious_chassis_desc"] = "Tank ringan yang dilengkapi dengan perangkat pelampung dan baling-baling."
+
+    t["light_tank_artillery_chassis_0"] = "Artileri Swagerak Ringan Antar-Perang"
+    t["light_tank_artillery_chassis"] = "Artileri Swagerak Ringan"
+    t["light_tank_artillery_chassis_desc"] = "Kendaraan kecil dan ringkas, terutama untuk bantuan tembakan bagi infanteri yang maju."
+    t["light_tank_artillery_chassis_1"] = "Artileri Swagerak Ringan Dasar"
+    t["light_tank_artillery_chassis_2"] = "Artileri Swagerak Ringan Ditingkatkan"
+    t["light_tank_artillery_chassis_3"] = "Artileri Swagerak Ringan Mutakhir"
+
+    t["light_tank_destroyer_chassis_0"] = "Penghancur Tank Ringan Antar-Perang"
+    t["light_tank_destroyer_chassis"] = "Penghancur Tank Ringan"
+    t["light_tank_destroyer_chassis_desc"] = "Kendaraan kecil dan ringkas, membawa meriam berkekuatan tinggi untuk menghancurkan kendaraan lapis baja musuh."
+    t["light_tank_destroyer_chassis_1"] = "Penghancur Tank Ringan Dasar"
+    t["light_tank_destroyer_chassis_2"] = "Penghancur Tank Ringan Ditingkatkan"
+    t["light_tank_destroyer_chassis_3"] = "Penghancur Tank Ringan Mutakhir"
+
+    t["light_tank_aa_chassis_0"] = "Anti-Udara Swagerak Ringan Antar-Perang"
+    t["light_tank_aa_chassis"] = "Anti-Udara Swagerak Ringan"
+    t["light_tank_aa_chassis_desc"] = "Kendaraan kecil dan ringkas, membawa meriam pertahanan udara untuk melindungi pasukan dari pesawat musuh."
+    t["light_tank_aa_chassis_1"] = "Anti-Udara Swagerak Ringan Dasar"
+    t["light_tank_aa_chassis_2"] = "Anti-Udara Swagerak Ringan Ditingkatkan"
+    t["light_tank_aa_chassis_3"] = "Anti-Udara Swagerak Ringan Mutakhir"
+
+    # Medium tank chassis
+    t["medium_tank_chassis_0"] = "Tank Sedang Antar-Perang"
+    t["medium_tank_chassis_1"] = "Tank Sedang Dasar"
+    t["medium_tank_chassis_2"] = "Tank Sedang Ditingkatkan"
+    t["medium_tank_chassis_3"] = "Tank Sedang Mutakhir"
+    t["basic_medium_tank_chassis"] = "Tank Sedang Dasar"
+    t["basic_medium_tank_chassis_short"] = "Sedang 1938"
+    t["basic_medium_tank_chassis_desc"] = "Meskipun tank ringan menjadi tulang punggung formasi mekanis pada masa lalu, potensi perkembangannya mulai mencapai batas. Kita membutuhkan kendaraan yang lebih besar dengan tetap mempertahankan tingkat mobilitas tinggi."
+    t["improved_medium_tank_chassis"] = "Tank Sedang Ditingkatkan"
+    t["improved_medium_tank_chassis_short"] = "Sedang 1940"
+    t["improved_medium_tank_chassis_desc"] = "Berdasarkan pengalaman generasi tank sedang sebelumnya, desain baru dengan daya angkut lebih besar sangat diperlukan agar tetap relevan di garis depan."
+    t["advanced_medium_tank_chassis"] = "Tank Sedang Mutakhir"
+    t["advanced_medium_tank_chassis_short"] = "Sedang 1943"
+    t["advanced_medium_tank_chassis_desc"] = "Pertumbuhan bobot persenjataan dan ketebalan lapis baja menuntut sasis yang lebih besar, menghasilkan kendaraan seukuran tank berat masa-masa awal."
+    t["medium_tank_chassis_desc"] = "Sasis berukuran sedang yang seimbang, menawarkan fleksibilitas tinggi untuk membangun beragam jenis kendaraan tempur."
+
+    t["medium_tank_amphibious_chassis_0"] = "Tank Sedang Antar-Perang (Amfibi)"
+    t["medium_tank_amphibious_chassis_1"] = "Tank Sedang Dasar (Amfibi)"
+    t["medium_tank_amphibious_chassis_2"] = "Tank Sedang Ditingkatkan (Amfibi)"
+    t["medium_tank_amphibious_chassis_3"] = "Tank Sedang Mutakhir (Amfibi)"
+    t["medium_tank_amphibious_equipment_0"] = "Tank Amfibi Sedang Antar-Perang"
+    t["medium_tank_amphibious_chassis_desc"] = "Tank sedang yang dilengkapi dengan perangkat pelampung dan baling-baling."
+
+    t["medium_tank_artillery_chassis_0"] = "Artileri Swagerak Sedang Antar-Perang"
+    t["medium_tank_artillery_chassis"] = "Artileri Swagerak Sedang"
+    t["medium_tank_artillery_chassis_desc"] = "Kendaraan tempur seimbang, terutama untuk bantuan tembakan bagi infanteri yang maju."
+    t["medium_tank_artillery_chassis_1"] = "Artileri Swagerak Sedang Dasar"
+    t["medium_tank_artillery_chassis_2"] = "Artileri Swagerak Sedang Ditingkatkan"
+    t["medium_tank_artillery_chassis_3"] = "Artileri Swagerak Sedang Mutakhir"
+
+    t["medium_tank_destroyer_chassis_0"] = "Penghancur Tank Sedang Antar-Perang"
+    t["medium_tank_destroyer_chassis"] = "Penghancur Tank Sedang"
+    t["medium_tank_destroyer_chassis_desc"] = "Kendaraan tempur seimbang, membawa meriam bertenaga besar untuk menghancurkan kendaraan lapis baja musuh."
+    t["medium_tank_destroyer_chassis_1"] = "Penghancur Tank Sedang Dasar"
+    t["medium_tank_destroyer_chassis_2"] = "Penghancur Tank Sedang Ditingkatkan"
+    t["medium_tank_destroyer_chassis_3"] = "Penghancur Tank Sedang Mutakhir"
+
+    t["medium_tank_aa_chassis_0"] = "Anti-Udara Swagerak Sedang Antar-Perang"
+    t["medium_tank_aa_chassis"] = "Anti-Udara Swagerak Sedang"
+    t["medium_tank_aa_chassis_desc"] = "Kendaraan tempur seimbang, membawa meriam pertahanan udara untuk melindungi pasukan dari pesawat musuh."
+    t["medium_tank_aa_chassis_1"] = "Anti-Udara Swagerak Sedang Dasar"
+    t["medium_tank_aa_chassis_2"] = "Anti-Udara Swagerak Sedang Ditingkatkan"
+    t["medium_tank_aa_chassis_3"] = "Anti-Udara Swagerak Sedang Mutakhir"
+
+    # Heavy tank chassis
+    t["heavy_tank_chassis_0"] = "Tank Berat Antar-Perang"
+    t["heavy_tank_chassis_1"] = "Tank Berat Dasar"
+    t["heavy_tank_chassis_2"] = "Tank Berat Ditingkatkan"
+    t["heavy_tank_chassis_3"] = "Tank Berat Mutakhir"
+    t["basic_heavy_tank_chassis"] = "Tank Berat Dasar"
+    t["basic_heavy_tank_chassis_desc"] = "Analisis mendalam dari Perang Besar membuktikan perlunya kendaraan berat untuk menerobos garis parit musuh dan membuka jalan bagi pasukan yang lebih ringan untuk memanfaatkan penerobosan tersebut. Kendaraan semacam itu harus bersenjata berat dan berlapis baja tebal, meski tidak harus bergerak sangat cepat."
+    t["basic_heavy_tank_chassis_short"] = "Berat 1934"
+    t["improved_heavy_tank_chassis"] = "Tank Berat Ditingkatkan"
+    t["improved_heavy_tank_chassis_desc"] = "Kendati corak peperangan telah berubah, tetap ada tempat bagi kendaraan berat berlapis baja tebal untuk menciptakan penerobosan di garis musuh atau memperkuat pertahanan dari serangan lawan."
+    t["improved_heavy_tank_chassis_short"] = "Berat 1940"
+    t["advanced_heavy_tank_chassis"] = "Tank Berat Mutakhir"
+    t["advanced_heavy_tank_chassis_desc"] = "Dengan kemajuan dalam teknologi lapis baja dan daya tembak, tank modern membutuhkan lapisan baja tebal dan meriam besar agar tetap efektif. Hal ini memerlukan kendaraan bertubuh besar."
+    t["advanced_heavy_tank_chassis_short"] = "Berat 1943"
+    t["heavy_tank_chassis_desc"] = "Sasis besar yang dapat memuat meriam berat, lapis baja tebal, atau keduanya."
+
+    t["heavy_tank_amphibious_chassis_0"] = "Tank Berat Antar-Perang (Amfibi)"
+    t["heavy_tank_amphibious_chassis_1"] = "Tank Berat Dasar (Amfibi)"
+    t["heavy_tank_amphibious_chassis_2"] = "Tank Berat Ditingkatkan (Amfibi)"
+    t["heavy_tank_amphibious_chassis_3"] = "Tank Berat Mutakhir (Amfibi)"
+    t["heavy_tank_amphibious_equipment_0"] = "Tank Amfibi Berat Antar-Perang"
+    t["heavy_tank_amphibious_chassis_desc"] = "Tank berat yang dilengkapi dengan perangkat pelampung dan baling-baling."
+
+    t["heavy_tank_artillery_chassis_0"] = "Artileri Swagerak Berat Antar-Perang"
+    t["heavy_tank_artillery_chassis"] = "Artileri Swagerak Berat"
+    t["heavy_tank_artillery_chassis_desc"] = "Kendaraan besar, terutama untuk bantuan tembakan bagi infanteri yang bergerak maju."
+    t["heavy_tank_artillery_chassis_1"] = "Artileri Swagerak Berat Dasar"
+    t["heavy_tank_artillery_chassis_2"] = "Artileri Swagerak Berat Ditingkatkan"
+    t["heavy_tank_artillery_chassis_3"] = "Artileri Swagerak Berat Mutakhir"
+
+    t["heavy_tank_destroyer_chassis_0"] = "Penghancur Tank Berat Antar-Perang"
+    t["heavy_tank_destroyer_chassis"] = "Penghancur Tank Berat"
+    t["heavy_tank_destroyer_chassis_desc"] = "Kendaraan besar, membawa meriam bertenaga besar untuk menghancurkan kendaraan lapis baja musuh."
+    t["heavy_tank_destroyer_chassis_1"] = "Penghancur Tank Berat Dasar"
+    t["heavy_tank_destroyer_chassis_2"] = "Penghancur Tank Berat Ditingkatkan"
+    t["heavy_tank_destroyer_chassis_3"] = "Penghancur Tank Berat Mutakhir"
+
+    t["heavy_tank_aa_chassis_0"] = "Anti-Udara Swagerak Berat Antar-Perang"
+    t["heavy_tank_aa_chassis"] = "Anti-Udara Swagerak Berat"
+    t["heavy_tank_aa_chassis_desc"] = "Kendaraan besar, membawa meriam pertahanan udara untuk melindungi pasukan dari pesawat musuh."
+    t["heavy_tank_aa_chassis_1"] = "Anti-Udara Swagerak Berat Dasar"
+    t["heavy_tank_aa_chassis_2"] = "Anti-Udara Swagerak Berat Ditingkatkan"
+    t["heavy_tank_aa_chassis_3"] = "Anti-Udara Swagerak Berat Mutakhir"
+
+    # Modern Tank Chassis
+    t["modern_tank_chassis_desc"] = "Sasis modern yang mengadopsi banyak rancangan tank sedang sebelumnya, namun memberikan penekanan lebih besar pada kecepatan dan kemampuan manuver, serta memungkinkan lapis baja yang lebih tebal dan meriam yang lebih besar daripada tank sedang biasa. Hasilnya adalah kendaraan yang dapat mengisi berbagai macam peran tempur."
+    t["main_battle_tank_chassis_desc"] = "Pengalaman membuktikan bahwa desain tank ringan, sedang, dan berat semakin berkonvergensi. Tank berat menjadi semakin lincah, sementara tank ringan membawa persenjataan dan lapis baja yang lebih berat untuk bertahan hidup. Karena itu, sangat bernilai untuk menyatukan ketiga desain menjadi satu tipe universal: Tank Tempur Utama (Main Battle Tank)."
+    t["modern_tank_chassis_1"] = "Tank Modern"
+    t["modern_tank_artillery_chassis"] = "Artileri Swagerak Modern"
+    t["modern_tank_artillery_chassis_desc"] = "Kendaraan modern yang dirancang sebagai artileri fungsional penuh yang dapat mengimbangi pergerakan tank modern dan terlindung dari berbagai ancaman di medan perang."
+    t["modern_tank_artillery_chassis_1"] = "Artileri Swagerak Modern"
+    t["modern_tank_destroyer_chassis"] = "Penghancur Tank Modern"
+    t["modern_tank_destroyer_chassis_desc"] = "Kendaraan modern yang dimaksudkan untuk memberikan respons cepat terhadap serangan tank musuh, dengan tingkat perlindungan lapis baja yang sebanding."
+    t["modern_tank_destroyer_chassis_1"] = "Penghancur Tank Modern"
+    t["modern_tank_aa_chassis"] = "Anti-Udara Swagerak Modern"
+    t["modern_tank_aa_chassis_desc"] = "Kendaraan modern yang dimaksudkan untuk memberikan pertahanan bergerak dan terlindung rapat dari serangan udara musuh."
+    t["modern_tank_aa_chassis_1"] = "Anti-Udara Swagerak Modern"
+
+    # Super-heavy tank chassis
+    t["super_heavy_tank_chassis_desc"] = "Kendaraan raksasa yang mampu memasang lapis baja paling tebal dan meriam terbesar, namun konsekuensinya cukup lambat dan kurang andal."
+    t["super_heavy_tank_chassis_1"] = "Tank Super Berat"
+    t["super_heavy_tank_artillery_chassis_desc"] = "Kendaraan raksasa yang mampu memasang lapis baja paling tebal dan meriam terbesar, namun konsekuensinya cukup lambat dan kurang andal."
+    t["super_heavy_tank_artillery_chassis_1"] = "Artileri Swagerak Super Berat"
+    t["super_heavy_tank_artillery_chassis"] = "Artileri Swagerak Super Berat"
+    t["super_heavy_tank_destroyer_chassis_desc"] = "Kendaraan raksasa yang mampu memasang lapis baja paling tebal dan meriam terbesar, namun konsekuensinya cukup lambat dan kurang andal."
+    t["super_heavy_tank_destroyer_chassis_1"] = "Penghancur Tank Super Berat"
+    t["super_heavy_tank_destroyer_chassis"] = "Penghancur Tank Super Berat"
+    t["super_heavy_tank_aa_chassis_desc"] = "Kendaraan raksasa yang mampu memasang lapis baja paling tebal dan meriam terbesar, namun konsekuensinya cukup lambat dan kurang andal."
+    t["super_heavy_tank_aa_chassis_1"] = "Anti-Udara Swagerak Super Berat"
+    t["super_heavy_tank_aa_chassis"] = "Anti-Udara Swagerak Super Berat"
+
+    # Flame tanks
+    t["light_tank_flame_chassis_0"] = "Tank Penyembur Api Ringan Antar-Perang"
+    t["light_tank_flame_chassis_desc"] = "Kendaraan kecil yang membawa penyembur api di kubahnya untuk menyerang perkubuan dan bangunan berbenteng."
+    t["light_tank_flame_chassis_1"] = "Tank Penyembur Api Ringan Dasar"
+    t["light_tank_flame_chassis_2"] = "Tank Penyembur Api Ringan Ditingkatkan"
+    t["light_tank_flame_chassis_3"] = "Tank Penyembur Api Ringan Mutakhir"
+    t["medium_tank_flame_chassis_0"] = "Tank Penyembur Api Sedang Antar-Perang"
+    t["medium_tank_flame_chassis_desc"] = "Kendaraan berukuran sedang yang membawa penyembur api di kubahnya untuk menyerang perkubuan dan bangunan berbenteng."
+    t["medium_tank_flame_chassis_1"] = "Tank Penyembur Api Sedang Dasar"
+    t["medium_tank_flame_chassis_2"] = "Tank Penyembur Api Sedang Ditingkatkan"
+    t["medium_tank_flame_chassis_3"] = "Tank Penyembur Api Sedang Mutakhir"
+    t["heavy_tank_flame_chassis_0"] = "Tank Penyembur Api Berat Antar-Perang"
+    t["heavy_tank_flame_chassis_desc"] = "Kendaraan besar yang membawa penyembur api di kubahnya untuk menyerang perkubuan dan bangunan berbenteng."
+    t["heavy_tank_flame_chassis_1"] = "Tank Penyembur Api Berat Dasar"
+    t["heavy_tank_flame_chassis_2"] = "Tank Penyembur Api Berat Ditingkatkan"
+    t["heavy_tank_flame_chassis_3"] = "Tank Penyembur Api Berat Mutakhir"
+    t["light_tank_flame_chassis"] = "Tank Penyembur Api Ringan"
+    t["medium_tank_flame_chassis"] = "Tank Penyembur Api Sedang"
+    t["heavy_tank_flame_chassis"] = "Tank Penyembur Api Berat"
+
+    # Amphibious & interwar
+    t["amphibious_tank_chassis_desc"] = "Lambung tank kecil yang dirancang khusus untuk mengapung. Untuk mencapai hal ini, batasan ketat harus diterapkan pada ukuran senjata dan ketebalan lapis baja yang dibawa kendaraan."
+    t["amphibious_tank_chassis_1"] = "Tank Amfibi"
+    t["gwtank_chassis"] = "Pengembangan Tank Antar-Perang"
+    t["gwtank_chassis_desc"] = "Tank telah membuktikan dirinya sebagai senjata ampuh dalam Perang Besar. Walau pengembangannya sempat melambat pada tahun-tahun berikutnya, tank dipastikan akan memainkan peran utama dalam perang-perang mendatang."
+
+    # German historical equipment names (keep designations intact)
+    t["GER_light_tank_flame_equipment_0"] = "Versuchsflammpanzer"
+    t["GER_medium_tank_flame_equipment_0"] = "Versuchsflammpanzer (Mittelschwer)"
+    t["GER_heavy_tank_flame_equipment_0"] = "Versuchsflammpanzer (schwer)"
+    t["GER_light_tank_flame_equipment_1"] = "Flammpanzer I"
+    t["GER_light_tank_flame_equipment_2"] = "Flammpanzer II"
+    t["GER_light_tank_flame_equipment_3"] = "Flammpanzer Leopard"
+    t["GER_medium_tank_flame_equipment_1"] = "Flammpanzer III"
+    t["GER_medium_tank_flame_equipment_2"] = "Flammpanzer IV"
+    t["GER_medium_tank_flame_equipment_3"] = "Flammpanzer Panther"
+    t["GER_heavy_tank_flame_equipment_1"] = "Flammpanzer (Schwer)"
+    t["GER_heavy_tank_flame_equipment_2"] = "Flammpanzer Tiger"
+    t["GER_heavy_tank_flame_equipment_3"] = "Flammpanzer Tiger II"
+    t["GER_light_tank_amphibious_equipment_0"] = "Versuchsschwimmpanzer"
+    t["GER_medium_tank_amphibious_equipment_0"] = "Versuchschwimmpanzer (Mittelschwer)"
+    t["GER_heavy_tank_amphibious_equipment_0"] = "Versuchsschwimmpanzer (schwer)"
+    t["GER_light_tank_amphibious_equipment_1"] = "Schwimmpanzer I"
+    t["GER_light_tank_amphibious_equipment_2"] = "Schwimmpanzer II"
+    t["GER_light_tank_amphibious_equipment_3"] = "Schwimmpanzer Leopard"
+    t["GER_medium_tank_amphibious_equipment_1"] = "Schwimmpanzer III"
+    t["GER_medium_tank_amphibious_equipment_2"] = "Schwimmpanzer IV"
+    t["GER_medium_tank_amphibious_equipment_3"] = "Schwimmpanzer Panther"
+    t["GER_heavy_tank_amphibious_equipment_1"] = "Schwimmpanzer (Schwer)"
+    t["GER_heavy_tank_amphibious_equipment_2"] = "Schwimmpanzer Tiger"
+    t["GER_heavy_tank_amphibious_equipment_3"] = "Schwimmpanzer Tiger II"
+
+    # IW base equipment
+    t["light_tank_equipment_0"] = "Tank Ringan Antar-Perang"
+    t["medium_tank_equipment_0"] = "Tank Sedang Antar-Perang"
+    t["heavy_tank_equipment_0"] = "Tank Berat Antar-Perang"
+    t["light_tank_flame_equipment_0"] = "Tank Penyembur Api Ringan Antar-Perang"
+    t["medium_tank_flame_equipment_0"] = "Tank Penyembur Api Sedang Antar-Perang"
+    t["heavy_tank_flame_equipment_0"] = "Tank Penyembur Api Berat Antar-Perang"
+    t["light_tank_aa_equipment_0"] = "Tank Anti-Udara Ringan Antar-Perang"
+    t["medium_tank_aa_equipment_0"] = "Tank Anti-Udara Sedang Antar-Perang"
+    t["heavy_tank_aa_equipment_0"] = "Tank Anti-Udara Berat Antar-Perang"
+    t["light_tank_destroyer_equipment_0"] = "Penghancur Tank Ringan Antar-Perang"
+    t["medium_tank_destroyer_equipment_0"] = "Penghancur Tank Sedang Antar-Perang"
+    t["heavy_tank_destroyer_equipment_0"] = "Penghancur Tank Berat Antar-Perang"
+    t["light_tank_artillery_equipment_0"] = "Artileri Swagerak Ringan Antar-Perang"
+    t["medium_tank_artillery_equipment_0"] = "Artileri Swagerak Sedang Antar-Perang"
+    t["heavy_tank_artillery_equipment_0"] = "Artileri Swagerak Berat Antar-Perang"
+
+    t["GER_heavy_tank_equipment_0"] = "Versuchspanzerkampfwagen (schwer)"
+    t["GER_light_tank_equipment_0"] = "Leichttraktor"
+    t["GER_medium_tank_equipment_0"] = "Mittlerer Traktor"
+    t["GER_modern_tank_destroyer_chassis"] = "Jagdpanzer E-25"
+    t["EQUIPMENT_AMPHIBIOUS"] = "Tank Amfibi"
+
+    # Flame Tank Companies
+    t["light_flame_tank"] = "Kompi Tank Penyembur Api Ringan"
+    t["light_flame_tank_desc"] = "Kompi kendaraan ringan berpenyembur api untuk memberikan bantuan tembakan dalam menyerbu perkotaan dan perbentengan."
+    t["medium_flame_tank"] = "Kompi Tank Penyembur Api Sedang"
+    t["medium_flame_tank_desc"] = "Kompi kendaraan sedang berpenyembur api untuk memberikan bantuan tembakan dalam menyerbu perkotaan dan perbentengan."
+    t["heavy_flame_tank"] = "Kompi Tank Penyembur Api Berat"
+    t["heavy_flame_tank_desc"] = "Kompi kendaraan berat berpenyembur api untuk memberikan bantuan tembakan dalam menyerbu perkotaan dan perbentengan."
+
+    # Land Cruiser modules & stats
+    t["land_cruiser_chassis_desc"] = "Sasis raksasa berlapis baja sangat tebal yang dirancang untuk membawa persenjataan super berat dan menahan gempuran dahsyat di medan tempur, namun boros bahan bakar dan bergerak sangat lambat karena bobotnya yang luar biasa."
+    t["EQ_MOD_SLOT_lc_main_armament_slot_TITLE"] = "Persenjataan Utama"
+    t["EQ_MOD_SLOT_lc_secondary_armament_slot_TITLE"] = "Persenjataan Sekunder"
+    t["EQ_MOD_SLOT_lc_additional_armament_slot_1_TITLE"] = "Persenjataan Tambahan"
+    t["EQ_MOD_SLOT_lc_additional_armament_slot_2_TITLE"] = "Persenjataan Tambahan"
+    t["EQ_MOD_SLOT_lc_additional_armament_slot_3_TITLE"] = "Persenjataan Tambahan"
+    t["EQ_MOD_SLOT_lc_additional_armament_slot_4_TITLE"] = "Persenjataan Tambahan"
+    t["EQ_MOD_SLOT_lc_special_features_slot_1_TITLE"] = "Fitur Khusus"
+    t["EQ_MOD_SLOT_lc_special_features_slot_2_TITLE"] = "Fitur Khusus"
+    t["EQ_MOD_SLOT_lc_special_features_slot_3_TITLE"] = "Fitur Khusus"
+    t["EQ_MOD_CAT_lc_main_armament_TITLE"] = "Persenjataan Utama"
+    t["EQ_MOD_CAT_lc_secondary_armament_TITLE"] = "Persenjataan Sekunder"
+    t["EQ_MOD_CAT_lc_additional_armament_TITLE"] = "Persenjataan Tambahan"
+    t["EQ_MOD_CAT_lc_special_features_TITLE"] = "Fitur Khusus"
+    t["EQ_MOD_CAT_lc_radio_module_TITLE"] = "Sistem Radio"
+    t["EQ_MOD_CAT_lc_structural_features_TITLE"] = "Fitur Struktural"
+    t["EQ_MOD_CAT_lc_external_features_TITLE"] = "Fitur Eksternal"
+    t["EQ_MOD_CAT_lc_aerial_deployment_TITLE"] = "Pengerahan Udara"
+
+    t["lc_heavy_naval_guns"] = "Meriam Laut Kaliber Berat"
+    t["lc_heavy_naval_guns_desc"] = "Persenjataan utama standar untuk kendaraan lapis baja raksasa ini, meriam kelas kapal perang bertenaga besar ini disesuaikan untuk konfrontasi langsung, melancarkan daya tembak dahsyat terhadap sasaran lapis baja dan benteng pertahanan."
+    t["lc_super_heavy_railway_gun"] = "Meriam Rel Kereta Super Berat"
+    t["lc_super_heavy_railway_gun_desc"] = "Meriam raksasa ini, yang awalnya dirancang untuk platform rel kereta api, mampu membombardir target dari jarak ekstrem dengan daya rusak tak tertandingi."
+    t["lc_high_impact_obliterator_cannon"] = "Meriam Penghancur Berdaya Pukul Tinggi"
+    t["lc_high_impact_obliterator_cannon_desc"] = "Dirancang khusus untuk menembus lapis baja super tebal, energi kinetik tinggi senjata ini menjadikannya penangkal ampuh dalam menghadapi tank super berat lainnya."
+    t["lc_heavy_anti_air_platform"] = "Platform Anti-Udara Kaliber Berat"
+    t["lc_heavy_anti_air_platform_desc"] = "Platform yang memuat beberapa meriam flak kaliber besar, dirancang untuk bertahan dari pesawat pengebom dan intai musuh yang mengancam Land Cruiser."
+    t["lc_medium_naval_guns"] = "Meriam Laut Kaliber Sedang"
+    t["lc_medium_naval_guns_desc"] = "Menawarkan kombinasi seimbang antara laju tembakan dan daya hancur, meriam ini efektif untuk menghadapi kendaraan yang lebih ringan dan memberikan bantuan tembakan terhadap sasaran tanpa lapis baja."
+    t["lc_hull_mounted_railway_gun"] = "Meriam Rel Tertanam di Lambung"
+    t["lc_hull_mounted_railway_gun_desc"] = "Meriam rel kereta yang dipasang langsung ke dalam lambung demi stabilitas maksimal, memberikan bantuan tembakan berat dan dapat mengenai sasaran jauh dengan presisi tinggi."
+    t["lc_super_heavy_howitzer"] = "Howitzer Super Berat"
+    t["lc_super_heavy_howitzer_desc"] = "Howitzer raksasa yang dirancang untuk menghancurkan perbentengan dan pertahanan perkotaan. Varian ini mengkhususkan diri meluncurkan proyektil berdaya ledak masif, ideal untuk melumat posisi perkubuan dan meruntuhkan struktur kokoh."
+    t["lc_heavy_high_velocity_cannons"] = "Meriam Kecepatan Tinggi Kaliber Berat"
+    t["lc_heavy_high_velocity_cannons_desc"] = "Meriam anti-tank yang dirancang untuk menghadapi dan menghancurkan kendaraan lapis baja musuh dengan akurasi tinggi. Proyektil berkecepatan tinggi memastikan penetrasi luar biasa pada jarak jauh."
+    t["lc_heavy_anti_air_battery"] = "Baterai Anti-Udara Kaliber Berat"
+    t["lc_heavy_anti_air_battery_desc"] = "Baterai pertahanan udara dengan meriam berkaliber besar untuk menarget pesawat berkecepatan tinggi dan berketinggian tinggi, menciptakan kubah pertahanan di sekitar kendaraan."
+    t["lc_medium_cannon_turret"] = "Meriam Koaksial Kaliber Sedang"
+    t["lc_medium_cannon_turret_desc"] = "Meriam kubah standar yang mampu menghadapi infanteri dan kendaraan ringan. Desainnya yang ringkas membuatnya serbaguna untuk pertempuran jarak dekat dan peran sekunder."
+    t["lc_assault_gun"] = "Meriam Serbu"
+    t["lc_assault_gun_desc"] = "Dirancang untuk pertempuran perkotaan jarak dekat dan penghancur bungker. Senjata ini menembakkan proyektil berdaya ledak tinggi untuk membersihkan infanteri dan sasaran yang diperkeras."
+    t["lc_high_velocity_cannon_turret"] = "Meriam Koaksial Kecepatan Tinggi"
+    t["lc_high_velocity_cannon_turret_desc"] = "Kubah yang dilengkapi meriam kecepatan tinggi untuk melawan kendaraan lapis baja musuh. Ukurannya yang lebih kecil memungkinkannya memberikan bantuan tembakan cepat dan responsif terhadap ancaman lapis baja yang lebih ringan."
+    t["lc_light_anti_air_battery"] = "Baterai Anti-Udara Ringan"
+    t["lc_light_anti_air_battery_desc"] = "Baterai anti-udara ringan yang dirancang untuk menarget pesawat terbang rendah dan melindungi kendaraan dari serangan berondongan peluru (strafing) dan pengebom tukik."
+    t["lc_flamethrower_turret"] = "Gugusan Penyembur Api"
+    t["lc_flamethrower_turret_desc"] = "Kubah khusus yang menyemburkan aliran api, sempurna untuk membersihkan posisi pertahanan, infanteri, dan titik penyergapan. Sangat ideal untuk pertempuran jarak dekat di lingkungan perkotaan yang padat."
+    t["lc_rocket_launcher"] = "Peluncur Roket"
+    t["lc_rocket_launcher_desc"] = "Sistem roket modular yang dipasang pada Land Cruiser, melancarkan rentetan roket mematikan untuk menekan pertahanan musuh dan melumpuhkan formasi besar."
+
+    t["lc_radio_1"] = "$tank_radio_1$"
+    t["lc_radio_1_desc"] = "$tank_radio_1_desc$"
+    t["lc_radio_2"] = "$tank_radio_2$"
+    t["lc_radio_2_desc"] = "$tank_radio_2_desc$"
+    t["lc_radio_3"] = "$tank_radio_3$"
+    t["lc_radio_3_desc"] = "$tank_radio_3_desc$"
+    t["lc_command_center"] = "Pusat Komando"
+    t["lc_command_center_desc"] = "Pusat komando terintegrasi penuh yang mengubah Land Cruiser menjadi markas bergerak, dilengkapi dengan sistem komunikasi canggih untuk mengoordinasikan operasi militer skala besar."
+    t["lc_radar"] = "Radar"
+    t["lc_radar_desc"] = "Sistem deteksi dini yang meningkatkan kewaspadaan terhadap pesawat musuh dan pasukan sekitar, memungkinkan Land Cruiser mempersiapkan diri menghadapi potensi ancaman udara maupun darat."
+    t["lc_aircraft_catapult"] = "Ketapel Peluncur Pesawat"
+    t["lc_aircraft_catapult_desc"] = "Sistem peluncur untuk pesawat pengintai kecil, memungkinkan Land Cruiser mengintai area jauh dan memberikan intelijen medan perang waktu nyata."
+    t["lc_helipad"] = "Landasan Helikopter (Helipad)"
+    t["lc_helipad_desc"] = "Platform peluncur helikopter, dirancang untuk menyediakan pengintaian udara tingkat lanjut dan meningkatkan kesadaran situasi di medan pertempuran."
+    t["lc_armored_skirts"] = "Rok Pelindung Baja"
+    t["lc_armored_skirts_desc"] = "Pelat lapis baja yang diperkuat dipasang di sepanjang sisi untuk melindungi rantai roda dan sistem suspensi yang rentan dari tembakan senjata anti-tank dan senjata ringan."
+    t["lc_bunker_emplacement"] = "Kedudukan Bungker"
+    t["lc_bunker_emplacement_desc"] = "Struktur pertahanan internal berbenteng yang mengubah Land Cruiser menjadi bungker bergerak. Memungkinkan awak mempertahankan posisi defensif dan membalas tembakan musuh bahkan di bawah hujan peluru yang hebat."
+    t["lc_obstacle_clearance_gear"] = "Peralatan Pembersih Rintangan"
+    t["lc_obstacle_clearance_gear_desc"] = "Perlengkapan tugas berat, seperti bilah buldoser raksasa dan derek, dirancang untuk membersihkan puing-puing, membuka jalur melalui medan sulit, dan membantu operasi perbentengan."
+    t["lc_internal_fuel_tanks"] = "Tangki Bahan Bakar Internal"
+    t["lc_internal_fuel_tanks_desc"] = "Kompartemen bahan bakar yang diperluas di dalam lambung, meningkatkan jangkauan operasional kendaraan dan mengurangi kebutuhan pengisian bahan bakar berkala selama kampanye berkepanjangan."
+    t["lc_internal_ammunition_compartments"] = "Kompartemen Amunisi Internal"
+    t["lc_internal_ammunition_compartments_desc"] = "Area penyimpanan amunisi yang diperkuat untuk membawa pasokan amunisi tambahan, memungkinkan Land Cruiser bertahan dalam pertempuran berkepanjangan tanpa pasokan ulang."
+    t["lc_wet_ammunition_storage"] = "Penyimpanan Amunisi Basah"
+    t["lc_wet_ammunition_storage_desc"] = "Kompartemen khusus yang diisi dengan cairan pendingin untuk meminimalkan risiko detonasi amunisi akibat tembakan musuh, secara signifikan meningkatkan keselamatan awak."
+    t["lc_smoke_generators"] = "Generator Asap"
+    t["lc_smoke_generators_desc"] = "Sistem yang dirancang untuk menggelar tabir asap tebal, menyamarkan pergerakan kendaraan dan mengurangi visibilitasnya terhadap ancaman darat maupun udara."
+    t["lc_stabilizers"] = "Stabilisator"
+    t["lc_stabilizers_desc"] = "Perangkat mekanis yang meredam tolak balik dan menjaga kelurusan laras meriam saat menembak, memungkinkan pembidikan ulang sasaran lebih cepat dan tembakan lebih akurat saat berhenti sejenak."
+
+    # Now verify all entries from tank_modules_en.json
+    src = r'F:\Apps\Hearts_of_Iron_IV\Hearts of Iron IV\localisation\english\tank_modules_l_english.yml'
+    with open(src, 'r', encoding='utf-8-sig', errors='ignore') as f:
+        lines = f.readlines()
+
+    out_lines = ['l_braz_por:\n']
+    missing = []
+    translated_count = 0
+
+    for line in lines[1:]:
+        raw = line.rstrip('\r\n')
+        stripped = raw.strip()
+        if not stripped or stripped.startswith('#'):
+            out_lines.append(raw + '\n')
+            continue
+        m = re.match(r'^(\s*)([a-zA-Z0-9_.\-]+):(\d*)\s*"(.*)"\s*$', raw)
+        if m:
+            indent, key, version, val = m.groups()
+            v_suffix = f":{version}" if version != "" else ":"
+            trans_val = t.get(key)
+            if trans_val is None:
+                trans_val = t.get(f"{key}:{version}")
+            if trans_val is not None:
+                translated_count += 1
+                out_lines.append(f'{indent}{key}{v_suffix} "{trans_val}"\n')
+            else:
+                missing.append((key, val))
+                out_lines.append(f'{indent}{key}{v_suffix} "{val}"\n')
+        else:
+            out_lines.append(raw + '\n')
+
+    print(f'Tank modules: {translated_count} translated, {len(missing)} missing')
+    if missing:
+        print('Missing sample:', missing[:10])
+
+    content = ''.join(out_lines)
+    dests = [
+        r'F:\Apps\Hearts_of_Iron_IV\Hearts of Iron IV\localisation\braz_por\tank_modules_l_braz_por.yml',
+        r'f:\New Coding\rea-hoi4-indonesia\localisation\braz_por\tank_modules_l_braz_por.yml'
+    ]
+    for d in dests:
+        os.makedirs(os.path.dirname(d), exist_ok=True)
+        with open(d, 'w', encoding='utf-8-sig') as f:
+            f.write(content)
+        print('Written to', d)
+
+if __name__ == '__main__':
+    generate_tank_modules()

@@ -1,0 +1,1402 @@
+[
+  {
+    "line": 1266,
+    "key": "WW_hungary.118.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Accepts the Referendum",
+    "comment": ""
+  },
+  {
+    "line": 1267,
+    "key": "WW_hungary.118.desc",
+    "ver": "",
+    "en": "The leadership in [FROM.GetNameDef] have gone out in public stating their unyielding support for the self-determination of the people in the region of [45.GetName]. It is time that they got to choose in which state they wish to live, stated [FROm.GetLeader] earlier this week, essentially relinquishing their claims to the area.",
+    "comment": ""
+  },
+  {
+    "line": 1268,
+    "key": "WW_hungary.118.a",
+    "ver": "",
+    "en": "A reasonable response",
+    "comment": ""
+  },
+  {
+    "line": 1270,
+    "key": "WW_hungary.119.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Declares the Referendum Illegitimate",
+    "comment": ""
+  },
+  {
+    "line": 1271,
+    "key": "WW_hungary.119.desc",
+    "ver": "",
+    "en": "The leadership in [FROM.GetNameDef] have gone out in public declaring the results of the referendums held in the region of [45.GetName] earlier this month to be illegitimate, stating that the voter turnouts and international observers were highly fraudulent, clearly harboring a bias towards the [ROOT.GetAdjective] government.",
+    "comment": ""
+  },
+  {
+    "line": 1272,
+    "key": "WW_hungary.119.a",
+    "ver": "",
+    "en": "We will have to accept it",
+    "comment": ""
+  },
+  {
+    "line": 1274,
+    "key": "WW_hungary.120.t",
+    "ver": "",
+    "en": "Referendum to join the [HUN.GetAdjective] State",
+    "comment": ""
+  },
+  {
+    "line": 1275,
+    "key": "WW_hungary.120.desc",
+    "ver": "",
+    "en": "A public referendum has been ongoing for the last month in [76.GetName], with the goal of deciding whether or not they wish to join [HUN.GetNameDef]. Being approved by international observers, it can be safe to assume that not much electoral fraud will have taken place. The results are in however, with a large portion of the people voting to leave our nation. Should we accept this?",
+    "comment": ""
+  },
+  {
+    "line": 1276,
+    "key": "WW_hungary.120.a",
+    "ver": "",
+    "en": "If it is what the people wish for",
+    "comment": ""
+  },
+  {
+    "line": 1277,
+    "key": "WW_hungary.120.b",
+    "ver": "",
+    "en": "The referendum was fraudulent",
+    "comment": ""
+  },
+  {
+    "line": 1279,
+    "key": "WW_hungary.121.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Accepts the Referendum",
+    "comment": ""
+  },
+  {
+    "line": 1280,
+    "key": "WW_hungary.121.desc",
+    "ver": "",
+    "en": "The leadership in [FROM.GetNameDef] have gone out in public stating their unyielding support for the self-determination of the people in the region of [76.GetName]. It is time that they got to choose in which state they wish to live, stated [FROm.GetLeader] earlier this week, essentially relinquishing their claims to the area.",
+    "comment": ""
+  },
+  {
+    "line": 1281,
+    "key": "WW_hungary.121.a",
+    "ver": "",
+    "en": "A reasonable response",
+    "comment": ""
+  },
+  {
+    "line": 1283,
+    "key": "WW_hungary.122.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Declares the Referendum Illegitimate",
+    "comment": ""
+  },
+  {
+    "line": 1284,
+    "key": "WW_hungary.122.desc",
+    "ver": "",
+    "en": "The leadership in [FROM.GetNameDef] have gone out in public declaring the results of the referendums held in the region of [76.GetName] earlier this month to be illegitimate, stating that the voter turnouts and international observers were highly fraudulent, clearly harboring a bias towards the [ROOT.GetAdjective] government.",
+    "comment": ""
+  },
+  {
+    "line": 1285,
+    "key": "WW_hungary.122.a",
+    "ver": "",
+    "en": "We will have to accept it",
+    "comment": ""
+  },
+  {
+    "line": 1287,
+    "key": "WW_hungary.123.t",
+    "ver": "",
+    "en": "The Scythe Cross March on Budapest",
+    "comment": ""
+  },
+  {
+    "line": 1288,
+    "key": "WW_hungary.123.desc",
+    "ver": "",
+    "en": "Our troops have intercepted the radical national-socialist politician Zoltán Böszörmény and his followers marching on Budapest, in a coup attempt heavily influenced by Mussolini's march on Rome. This fringe political activist, referring to himself as a 'giant among the giants of intellect, and great Hungarian poet with a prophetic mission', has gathered his group of disgruntled agrarian followers under the banner of their Scythe Cross, and are moving towards our capital. How should we handle this?",
+    "comment": ""
+  },
+  {
+    "line": 1289,
+    "key": "WW_hungary.123.a",
+    "ver": "",
+    "en": "Disperse them and arrest their pathetic leader!",
+    "comment": ""
+  },
+  {
+    "line": 1290,
+    "key": "WW_hungary.123.b",
+    "ver": "",
+    "en": "Open fire and scare them off",
+    "comment": ""
+  },
+  {
+    "line": 1292,
+    "key": "HUN_third_mexican_empire_tt",
+    "ver": "",
+    "en": "§YMexico§! will be known as §Ythe Third Mexican Empire§!.\\n",
+    "comment": ""
+  },
+  {
+    "line": 1293,
+    "key": "HUN_croatia_slavonia_tt",
+    "ver": "",
+    "en": "§YCroatia§! will be known as §Ythe Kingdom of Croatia-Slavonia§!.\\n",
+    "comment": ""
+  },
+  {
+    "line": 1294,
+    "key": "HUN_bohemia_and_silesia_tt",
+    "ver": "",
+    "en": "§YCzechoslovakia§! will be known as §Ythe Kingdom of Bohemia-Moravia and Silesia§!.\\n",
+    "comment": ""
+  },
+  {
+    "line": 1295,
+    "key": "HUN_cisleithania_tt",
+    "ver": "",
+    "en": "§YAustria§! will be known as §Ythe Kingdoms and Lands Represented in the Imperial Council§!.\\n",
+    "comment": ""
+  },
+  {
+    "line": 1297,
+    "key": "WW_hungary.124.t",
+    "ver": "",
+    "en": "A Man Return to his Home",
+    "comment": ""
+  },
+  {
+    "line": 1298,
+    "key": "WW_hungary.124.desc",
+    "ver": "",
+    "en": "Early this morning, authorities in Gori reported a man demanding the return of a farm estate he claims was once his, saying he just recently managed to return to his homeland and escape the clutches of the Russian menace. He also promised that if he was to be allowed into politics, he could lead our nation to glory, apparently stemming from a line of successful politicians. Is he the man we need to restore our dreams of a greater Georgia?",
+    "comment": ""
+  },
+  {
+    "line": 1299,
+    "key": "WW_hungary.124.a",
+    "ver": "",
+    "en": "Give this man an office, now!",
+    "comment": ""
+  },
+  {
+    "line": 1300,
+    "key": "WW_hungary.124.b",
+    "ver": "",
+    "en": "Whatever he says, we cannot trust him",
+    "comment": ""
+  },
+  {
+    "line": 1309,
+    "key": "wuw_HUN_news_events.1.t",
+    "ver": "",
+    "en": "[HUN.GetNameDEFCAP] Announces the Győri Program",
+    "comment": ""
+  },
+  {
+    "line": 1310,
+    "key": "wuw_HUN_news_events.1.d",
+    "ver": "",
+    "en": "\\nThe [HUN.GetAdjective] government under [HUN.GetLeader] has announced a new large-scale industrial program, with the intent of efficiently rearming the nation as quickly as possible. Foreign spectators view this as an act of aggression by [HUN.GetNameDef] towards their neighbors, but only time will tell what their true intentions are.",
+    "comment": ""
+  },
+  {
+    "line": 1311,
+    "key": "wuw_HUN_news_events.1.a",
+    "ver": "",
+    "en": "They are building up for something...",
+    "comment": ""
+  },
+  {
+    "line": 1312,
+    "key": "wuw_HUN_news_events.1.b",
+    "ver": "",
+    "en": "This will secure our future!",
+    "comment": ""
+  },
+  {
+    "line": 1314,
+    "key": "wuw_HUN_news_events.2.t",
+    "ver": "",
+    "en": "[HUN.GetNameDefCap] Joins the [GER.GetAdjective]s",
+    "comment": ""
+  },
+  {
+    "line": 1315,
+    "key": "wuw_HUN_news_events.2.d",
+    "ver": "",
+    "en": "After signing a new pact of mutual assistance and the furthering of respective national goals, [GER.GetLeader] and [HUN.GetLeader] have today announced [HUN.GetNameDef]'s accession to the [GER.GetAdjective] faction.",
+    "comment": ""
+  },
+  {
+    "line": 1316,
+    "key": "wuw_HUN_news_events.2.a",
+    "ver": "",
+    "en": "How will this pan out?",
+    "comment": ""
+  },
+  {
+    "line": 1317,
+    "key": "wuw_HUN_news_events.2.b",
+    "ver": "",
+    "en": "For a greater future!",
+    "comment": ""
+  },
+  {
+    "line": 1318,
+    "key": "wuw_HUN_news_events.2.c",
+    "ver": "",
+    "en": "They will be a useful pawn",
+    "comment": ""
+  },
+  {
+    "line": 1320,
+    "key": "wuw_HUN_news_events.3.t",
+    "ver": "",
+    "en": "[HUN.GetNameDefCap] Reforms the Central Powers",
+    "comment": ""
+  },
+  {
+    "line": 1321,
+    "key": "wuw_HUN_news_events.3.desc",
+    "ver": "",
+    "en": "\\nWith no viable options for alliances in their immediate area [HUN.GetNameDef] has taken to once more reforming the Central Powers. Having broken free from the treaties placed upon them the country has taken a turn towards re-militarization at a rapid pace. Whether this new alliance of theirs will be anything like its' namesake from the Great War or not remains to be seen.",
+    "comment": ""
+  },
+  {
+    "line": 1322,
+    "key": "wuw_HUN_news_events.3.a",
+    "ver": "",
+    "en": "Very concerning",
+    "comment": ""
+  },
+  {
+    "line": 1323,
+    "key": "wuw_HUN_news_events.3.b",
+    "ver": "",
+    "en": "We will reclaim our past glory!",
+    "comment": ""
+  },
+  {
+    "line": 1324,
+    "key": "wuw_HUN_news_events.3.c",
+    "ver": "",
+    "en": "They carry on our legacy",
+    "comment": ""
+  },
+  {
+    "line": 1325,
+    "key": "GER_Rejected_HUN_central_powers",
+    "ver": "",
+    "en": "Germany rejected our entry into the Central Powers",
+    "comment": ""
+  },
+  {
+    "line": 1327,
+    "key": "wuw_HUN_news_events.4.t",
+    "ver": "",
+    "en": "[HUN.GetNameDefCap] Declares Global Dominion",
+    "comment": ""
+  },
+  {
+    "line": 1328,
+    "key": "wuw_HUN_news_events.4.desc",
+    "ver": "",
+    "en": "[HUN.GetLeader] of [HUN.GetNameDef] has announced the nation's ambitions to dominate the globe, and establish a [HUN.GetAdjective] hegemony on all continents. They claim that this is the birthright of the people of the Apostolic Kingdom, and that they will never bow down to foreign powers again.",
+    "comment": ""
+  },
+  {
+    "line": 1329,
+    "key": "wuw_HUN_news_events.4.a",
+    "ver": "",
+    "en": "They need to be destroyed!",
+    "comment": ""
+  },
+  {
+    "line": 1330,
+    "key": "wuw_HUN_news_events.4.b",
+    "ver": "",
+    "en": "The world is our oyster!",
+    "comment": ""
+  },
+  {
+    "line": 1332,
+    "key": "wuw_HUN_news_events.5.t",
+    "ver": "",
+    "en": "[HUN.GetLeader] assumes the Hungarian Crown",
+    "comment": ""
+  },
+  {
+    "line": 1333,
+    "key": "wuw_HUN_news_events.5.desc",
+    "ver": "",
+    "en": "Seeking a King for their nation, the [HUN.GetAdjective]s, after long negotiations and preparations, officially crowned [HUN.GetLeader] earlier this week. Today, amidst much fanfare and celebration, he was crowned King of Hungary in a solemn ceremony at the Royal Palace in Budapest.",
+    "comment": ""
+  },
+  {
+    "line": 1334,
+    "key": "wuw_HUN_news_events.5.a",
+    "ver": "",
+    "en": "A king, at long last!",
+    "comment": ""
+  },
+  {
+    "line": 1335,
+    "key": "wuw_HUN_news_events.5.b",
+    "ver": "",
+    "en": "A new enemy rises",
+    "comment": ""
+  },
+  {
+    "line": 1336,
+    "key": "wuw_HUN_news_events.5.c",
+    "ver": "",
+    "en": "A potential ally?",
+    "comment": ""
+  },
+  {
+    "line": 1338,
+    "key": "wuw_HUN_news_events.6.t",
+    "ver": "",
+    "en": "Joseph August assumes the Hungarian Crown",
+    "comment": ""
+  },
+  {
+    "line": 1339,
+    "key": "wuw_HUN_news_events.6.desc",
+    "ver": "",
+    "en": "Seeking a King for their nation, the [HUN.GetAdjective]s, after long negotiations and preparations, officially crowned Joseph August von Habsburg, last Palatine of Hungary, Archduke of Austria and Prince of Hungary and Bohemia, as well as Feldmarschall of the former Austro-Hungarian army, earlier this week. Today, amidst much fanfare and celebration, he was crowned King of Hungary in a solemn ceremony at the Royal Palace in Budapest.\\nA Vitez and a Habsburg aristocrat, the new King's ideological leanings are clear, and he has already declared that he 'will bring Hungary the greatness it deserves, without breaking the treaties that dissolved the Austro-Hungarian Empire'. Together with the King's promise to 'undo the injustices visited on us in the past', it is therefore unlikely this coronation will result in the easing of tensions in the region.",
+    "comment": ""
+  },
+  {
+    "line": 1340,
+    "key": "wuw_HUN_news_events.6.a",
+    "ver": "",
+    "en": "A king, at long last!",
+    "comment": ""
+  },
+  {
+    "line": 1341,
+    "key": "wuw_HUN_news_events.6.b",
+    "ver": "",
+    "en": "A new enemy rises",
+    "comment": ""
+  },
+  {
+    "line": 1342,
+    "key": "wuw_HUN_news_events.6.c",
+    "ver": "",
+    "en": "A potential ally?",
+    "comment": ""
+  },
+  {
+    "line": 1344,
+    "key": "wuw_HUN_news_events.7.t",
+    "ver": "",
+    "en": "Restoration of the Hungarian Soviet Republic",
+    "comment": ""
+  },
+  {
+    "line": 1345,
+    "key": "wuw_HUN_news_events.7.desc",
+    "ver": "",
+    "en": "Today, the Chairman of the Central Executive Council of Hungary, Béla Kun, has announced the recreation of the Socialist Federative Republic of Councils in Hungary, which previously came to an abrupt end on August of 1919. Though it was crushed by a combined force of anti-revolutionaries and the Little Entente in the past, Béla Kun has stated that this time will be different. What awaits the Balkans in the coming years?",
+    "comment": ""
+  },
+  {
+    "line": 1346,
+    "key": "wuw_HUN_news_events.7.a",
+    "ver": "",
+    "en": "Workers of the world, unite!",
+    "comment": ""
+  },
+  {
+    "line": 1347,
+    "key": "wuw_HUN_news_events.7.b",
+    "ver": "",
+    "en": "What in the world are they planning?",
+    "comment": ""
+  },
+  {
+    "line": 1348,
+    "key": "wuw_HUN_news_events.7.c",
+    "ver": "",
+    "en": "Revisionist Posers...",
+    "comment": ""
+  },
+  {
+    "line": 1350,
+    "key": "wuw_HUN_news_events.8.t",
+    "ver": "",
+    "en": "Proclamation of the Hungarian People's Republic",
+    "comment": ""
+  },
+  {
+    "line": 1351,
+    "key": "wuw_HUN_news_events.8.desc",
+    "ver": "",
+    "en": "Today, the General Secretary of Hungary, Mátyás Rákosi, has proclaimed the creation of a new Hungarian People's Republic, announcing that the nation seeks to increase cooperation with [SOV.GetNameDef]. Though he has declared the nation to be an open democracy, the nation's dictatorial rule is not hard to notice. What is the future of the Hungarian people?",
+    "comment": ""
+  },
+  {
+    "line": 1352,
+    "key": "wuw_HUN_news_events.8.a",
+    "ver": "",
+    "en": "At long last!",
+    "comment": ""
+  },
+  {
+    "line": 1353,
+    "key": "wuw_HUN_news_events.8.b",
+    "ver": "",
+    "en": "Peace was never an option...",
+    "comment": ""
+  },
+  {
+    "line": 1354,
+    "key": "wuw_HUN_news_events.8.c",
+    "ver": "",
+    "en": "A surprise to be sure, but a welcome one",
+    "comment": ""
+  },
+  {
+    "line": 1356,
+    "key": "wuw_HUN_news_events.9.t",
+    "ver": "",
+    "en": "[HUN.GetNameDefCap] Occupies Burgenland",
+    "comment": ""
+  },
+  {
+    "line": 1357,
+    "key": "wuw_HUN_news_events.9.desc",
+    "ver": "",
+    "en": "Earlier this week, [HUN.GetAdjective] forces entered Eisenstadt, occupying the area. They claim this is an act to protect the [HUN.GetAdjective] people in the region, who just recently took to the streets in protest of the according to them illegal occupation of the region post-Trianon. Will this perhaps lead to a new war in the Balkans, or will it simply be a slight border readjustment?",
+    "comment": ""
+  },
+  {
+    "line": 1358,
+    "key": "wuw_HUN_news_events.9.a",
+    "ver": "",
+    "en": "Back in the right hands",
+    "comment": ""
+  },
+  {
+    "line": 1359,
+    "key": "wuw_HUN_news_events.9.b",
+    "ver": "",
+    "en": "It's not theirs!",
+    "comment": ""
+  },
+  {
+    "line": 1360,
+    "key": "wuw_HUN_news_events.9.c",
+    "ver": "",
+    "en": "An Interesting Development",
+    "comment": ""
+  },
+  {
+    "line": 1372,
+    "key": "ww_BEL_event_political.1.t",
+    "ver": "",
+    "en": "The Government Resigns and Snap Election",
+    "comment": ""
+  },
+  {
+    "line": 1373,
+    "key": "ww_BEL_event_political.1.desc",
+    "ver": "",
+    "en": "Pressure on the government due to the ongoing corruption scandal finally caused it to collapse. Investigators lead by Leon Degrelle, leader of the fascist Rexist movement, has been investigating the bribery of ministers for several years resulting in numerous payments to be discovered. \\n\\nIn a bid to regain legitimacy, the embattled Prime Minister Paul van Zeeland called a snap election to regain credibility and legitimacy, and the results are now in. \\n\\nParti Ouvrier Belge (Belgian Worker's Party) led by Emile Vandervelde performed best, capitalizing on the unpopularity of his political rival. He could take this victory and form a Minority Government, or work together with Paul van Zeeland's Catholic party to form a more stable majority and form a Government of National Unity. \\n\\nIt should also be noted that Leon Degrelle's Rexist party also performed very well, with his anti-corruption stance proving to be very popular.",
+    "comment": ""
+  },
+  {
+    "line": 1374,
+    "key": "ww_BEL_event_political.1.a",
+    "ver": "",
+    "en": "Form the Government of National Unity",
+    "comment": ""
+  },
+  {
+    "line": 1375,
+    "key": "ww_BEL_event_political.1.b",
+    "ver": "",
+    "en": "Vandervelde forms a Minority Government",
+    "comment": ""
+  },
+  {
+    "line": 1376,
+    "key": "BEL_paul_van_zeeland_remains_tt",
+    "ver": "",
+    "en": "§YPaul van Zeeland§! remains the Prime Minister, leading a broad coalition of §YDemocratic§! parties.",
+    "comment": ""
+  },
+  {
+    "line": 1379,
+    "key": "ww_BEL_event_political.2.t",
+    "ver": "",
+    "en": "Paul van Zeeland Corruption Scandal",
+    "comment": ""
+  },
+  {
+    "line": 1380,
+    "key": "ww_BEL_event_political.2.desc",
+    "ver": "",
+    "en": "The corruption scandal haunting Paul van Zeeland's Catholic party today worsened as the Prime Minister himself was found to have accepted \"contributions\"! It would seem to be simply a matter of time before his government collapses again...",
+    "comment": ""
+  },
+  {
+    "line": 1381,
+    "key": "ww_BEL_event_political.2.a",
+    "ver": "",
+    "en": "Is there no end to the corruption?!",
+    "comment": ""
+  },
+  {
+    "line": 1384,
+    "key": "ww_BEL_event_political.3.t",
+    "ver": "",
+    "en": "The Royal Appointment",
+    "comment": ""
+  },
+  {
+    "line": 1385,
+    "key": "ww_BEL_event_political.3.desc",
+    "ver": "",
+    "en": "Paul van Zeeland finally resigned as Prime Minister, and leaves his post in disgrace. This time Leopold III, the King himself, has declared that he will step in and appoint a new Prime Minister. There are two prominent candidates: \\n\\nPaul-Émile Janson, a member of the Liberal Party and member of the Government of National Unity is seen as a stable hand. The other is Leon Degrelle, heralded as the voice of law and order, and recently bolstered by his own party's success in the election.",
+    "comment": ""
+  },
+  {
+    "line": 1386,
+    "key": "ww_BEL_event_political.3.a",
+    "ver": "",
+    "en": "Appoint the stable hand, Liberal Paul-Émile Janson",
+    "comment": ""
+  },
+  {
+    "line": 1387,
+    "key": "ww_BEL_event_political.3.b",
+    "ver": "",
+    "en": "Go with the Rexist Leon Degrelle, to restore law and order",
+    "comment": ""
+  },
+  {
+    "line": 1390,
+    "key": "ww_BEL_event_political.4.t",
+    "ver": "",
+    "en": "Budgetary Crisis",
+    "comment": ""
+  },
+  {
+    "line": 1391,
+    "key": "ww_BEL_event_political.4.desc",
+    "ver": "",
+    "en": "Despite the initial signs of our economic recovery, we are once against faced with a financial crisis. Prime Minister [BEL.GetLeader] has failed to push [BEL.GetHerHis] budget through parliament, unable to get a broad consensus on the needed tax reforms needed to counter the worsening state of the public finances, leading once again to the collapse of the government. \\n\\nThis led to a quick handing over of power to Paul-Henri Spaak, a rising star of the Labour Party and the first Socialist Prime Minister of Belgium.",
+    "comment": ""
+  },
+  {
+    "line": 1392,
+    "key": "ww_BEL_event_political.4.a",
+    "ver": "",
+    "en": "Hopefully Prime Minister Spaak lasts longer!",
+    "comment": ""
+  },
+  {
+    "line": 1395,
+    "key": "ww_BEL_event_political.5.t",
+    "ver": "",
+    "en": "Adriaan Martens Crisis",
+    "comment": ""
+  },
+  {
+    "line": 1396,
+    "key": "ww_BEL_event_political.5.desc",
+    "ver": "",
+    "en": "What started as a fairly normal appointment turned into another political crisis for our government. The Prime Minister needed to appoint a new member to the Royal Academy of Medicine, and he put forward Adriaan Martens for consideration. This turned out to be a controversial choice due to Martens' Flemish nationalism and collaboration with the German occupiers during the Great War. This choice has been heavily opposed by veterans, liberals, French-speaking Belgians and even the King has indicated displeasure. \\n\\n[BEL.GetLeader] has tried to defend the choice, but has come under increasing pressure. His opponents have called for a snap election to choose a new leader, although Spaak could potentially have the political capital to fight for this position.",
+    "comment": ""
+  },
+  {
+    "line": 1397,
+    "key": "ww_BEL_event_political.5.a",
+    "ver": "",
+    "en": "The Prime Minister should resign and call a snap election",
+    "comment": ""
+  },
+  {
+    "line": 1398,
+    "key": "ww_BEL_event_political.5.b",
+    "ver": "",
+    "en": "Spaak has the political support to survive this",
+    "comment": ""
+  },
+  {
+    "line": 1401,
+    "key": "ww_BEL_event_political.6.t",
+    "ver": "",
+    "en": "The Flemish Question",
+    "comment": ""
+  },
+  {
+    "line": 1402,
+    "key": "ww_BEL_event_political.6.desc",
+    "ver": "",
+    "en": "Ever since its inception, Belgium is a country been divided between two language groups: the Walloons speaking French, and the Flemish speaking Dutch. This has led to a whole range of issues within our nation, from simple misunderstandings between friends, military commands being executed wrongly, to miscarriages of justice due to defendants not speaking the same language as the court trying them.\\n\\nIt is time to put this division aside once and for all, and decide how best to unite our nation under a common language model.",
+    "comment": ""
+  },
+  {
+    "line": 1403,
+    "key": "ww_BEL_event_political.6.a",
+    "ver": "",
+    "en": "Dutch should be prioritized.",
+    "comment": ""
+  },
+  {
+    "line": 1404,
+    "key": "ww_BEL_event_political.6.b",
+    "ver": "",
+    "en": "French should be prioritized.",
+    "comment": ""
+  },
+  {
+    "line": 1405,
+    "key": "ww_BEL_event_political.6.c",
+    "ver": "",
+    "en": "Belgium is defined by both cultures, equally.",
+    "comment": ""
+  },
+  {
+    "line": 1408,
+    "key": "ww_BEL_event_political.7.t",
+    "ver": "",
+    "en": "The Snap Election",
+    "comment": ""
+  },
+  {
+    "line": 1409,
+    "key": "ww_BEL_event_political.7.desc",
+    "ver": "",
+    "en": "With the Constitutional Crisis contained for the moment, it's time to ensure the government once again has its legitimacy otherwise it's no different from those it just deposed. At the moment Paul-Henri Spaak of the Socialists and Hubert Pierlot of the Catholic Party are the forerunners in the potential snap election.",
+    "comment": ""
+  },
+  {
+    "line": 1410,
+    "key": "ww_BEL_event_political.7.a",
+    "ver": "",
+    "en": "Hubert Pierlot and the Catholic Party shall remain defiant against those who threaten us.",
+    "comment": ""
+  },
+  {
+    "line": 1411,
+    "key": "ww_BEL_event_political.7.b",
+    "ver": "",
+    "en": "Paul-Henri Spaak and the Labour Party will lead us to a new socialist future.",
+    "comment": ""
+  },
+  {
+    "line": 1414,
+    "key": "ww_BEL_event_political.8.t",
+    "ver": "",
+    "en": "The Language of the People",
+    "comment": ""
+  },
+  {
+    "line": 1415,
+    "key": "ww_BEL_event_political.8.desc",
+    "ver": "",
+    "en": "Our people have long been divided by language. The Walloons speaking French, and the Flemish speaking Dutch which drives a rift between the groups and prevents a more unified [ROOT.GetName] from developing. We must come to a decision regarding what our official language is, otherwise misunderstandings between friends, military commands being executed wrongly and miscarriages of justice will never stop being part of everyday [ROOT.GetAdjective] life.",
+    "comment": ""
+  },
+  {
+    "line": 1416,
+    "key": "ww_BEL_event_political.8.a",
+    "ver": "",
+    "en": "Dutch is our language",
+    "comment": ""
+  },
+  {
+    "line": 1417,
+    "key": "ww_BEL_event_political.8.b",
+    "ver": "",
+    "en": "French is our language",
+    "comment": ""
+  },
+  {
+    "line": 1418,
+    "key": "ww_BEL_event_political.8.c",
+    "ver": "",
+    "en": "Our languages are equal and we will keep both!",
+    "comment": ""
+  },
+  {
+    "line": 1423,
+    "key": "ww_BEL_event_diplomatic.1.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Repudiates Our Guarantees",
+    "comment": ""
+  },
+  {
+    "line": 1424,
+    "key": "ww_BEL_event_diplomatic.1.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] has let us know that the mutual defense treaty between our countries are null and void as they seek a neutral approach in these troubling times. That did not really pan out for them during the Great War, however....",
+    "comment": ""
+  },
+  {
+    "line": 1425,
+    "key": "ww_BEL_event_diplomatic.1.a",
+    "ver": "",
+    "en": "Let them forge ahead alone",
+    "comment": ""
+  },
+  {
+    "line": 1428,
+    "key": "ww_BEL_event_diplomatic.2.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Demands Our Annexation",
+    "comment": ""
+  },
+  {
+    "line": 1429,
+    "key": "ww_BEL_event_diplomatic.2.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] has called upon the bonds of the past and our shared heritage and language in a bid to secure our annexation into their nation.",
+    "comment": ""
+  },
+  {
+    "line": 1430,
+    "key": "ww_BEL_event_diplomatic.2.a",
+    "ver": "",
+    "en": "We are stronger together.",
+    "comment": ""
+  },
+  {
+    "line": 1431,
+    "key": "ww_BEL_event_diplomatic.2.b",
+    "ver": "",
+    "en": "Luxembourg is a proud and independent nation!",
+    "comment": ""
+  },
+  {
+    "line": 1434,
+    "key": "ww_BEL_event_diplomatic.3.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Yields",
+    "comment": ""
+  },
+  {
+    "line": 1435,
+    "key": "ww_BEL_event_diplomatic.3.desc",
+    "ver": "",
+    "en": "We have received excellent news! The people of [FROM.GetNameDefCap] have wisely determined that we are stronger united together, and arrangements are already being made to see to the new administration of this territory.",
+    "comment": ""
+  },
+  {
+    "line": 1436,
+    "key": "ww_BEL_event_diplomatic.3.a",
+    "ver": "",
+    "en": "Splendid",
+    "comment": ""
+  },
+  {
+    "line": 1439,
+    "key": "ww_BEL_event_diplomatic.4.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Resists!",
+    "comment": ""
+  },
+  {
+    "line": 1440,
+    "key": "ww_BEL_event_diplomatic.4.desc",
+    "ver": "",
+    "en": "Unfortunately it would seem that the people of [FROM.GetNameDefCap] have an inflated sense of their own sovereign power, and have chosen to reject our kind offer of unification. We shall need to show them the strength of our nation, and bring them into our union through force.",
+    "comment": ""
+  },
+  {
+    "line": 1441,
+    "key": "ww_BEL_event_diplomatic.4.a",
+    "ver": "",
+    "en": "They made the wrong choice",
+    "comment": ""
+  },
+  {
+    "line": 1446,
+    "key": "ww_BEL_event_diplomatic.5.t",
+    "ver": "",
+    "en": "How Should We Get Calais?",
+    "comment": ""
+  },
+  {
+    "line": 1447,
+    "key": "ww_BEL_event_diplomatic.5.desc",
+    "ver": "",
+    "en": "We have decided to demand Calais from France, however, we must still choose just how to get it. Of course, our mighty armies can take this land without issue, however, we should be mindful of the possibility of collateral damage so perhaps should pursue an alternative method of acquisition. The manner of unification is not important to us, just so long as we get what is rightfully ours!",
+    "comment": ""
+  },
+  {
+    "line": 1448,
+    "key": "ww_BEL_event_diplomatic.5.a",
+    "ver": "",
+    "en": "Threaten war for it.",
+    "comment": ""
+  },
+  {
+    "line": 1449,
+    "key": "ww_BEL_event_diplomatic.5.b",
+    "ver": "",
+    "en": "Congo for Calais.",
+    "comment": ""
+  },
+  {
+    "line": 1450,
+    "key": "ww_BEL_event_diplomatic.5.c",
+    "ver": "",
+    "en": "Provide financial recompense.",
+    "comment": ""
+  },
+  {
+    "line": 1451,
+    "key": "ww_BEL_event_diplomatic.5.d",
+    "ver": "",
+    "en": "Offer an alliance in exchange.",
+    "comment": ""
+  },
+  {
+    "line": 1454,
+    "key": "ww_BEL_event_diplomatic.6.t",
+    "ver": "",
+    "en": "Belgium Demands Calais",
+    "comment": ""
+  },
+  {
+    "line": 1455,
+    "key": "ww_BEL_event_diplomatic.6.desc",
+    "ver": "",
+    "en": "We have just received an impudent demand from [BEL.GetName] to hand them Calais! They claim that this land is rightfully a part of Belgium due to the historical Duchy of Burgundy, to which they claim some form of heritage. Their ambassadors were quite clear in their threats of violence should we not accede to their demand, however, knowing their military strength this is in all likelihood a bluff.",
+    "comment": ""
+  },
+  {
+    "line": 1456,
+    "key": "ww_BEL_event_diplomatic.6.a",
+    "ver": "",
+    "en": "Sacre Bleu! Non!",
+    "comment": ""
+  },
+  {
+    "line": 1457,
+    "key": "ww_BEL_event_diplomatic.6.b",
+    "ver": "",
+    "en": "We cannot afford another enemy right now.",
+    "comment": ""
+  },
+  {
+    "line": 1460,
+    "key": "ww_BEL_event_diplomatic.7.t",
+    "ver": "",
+    "en": "Belgium Wishes To Exchange Calais",
+    "comment": ""
+  },
+  {
+    "line": 1461,
+    "key": "ww_BEL_event_diplomatic.7.desc",
+    "ver": "",
+    "en": "We have just received an interesting offer from the [BEL.GetAdjective] delegation. They have proposed an exchange of territory, Calais for a large portion of Congo. We would secure the states of Coquilhatville and Stanleyville which border our current territories in the area. There were some implied threats from their diplomats if we were to refuse this offer, and this would be a significant expansion of our African holdings, but is it worth the cost?",
+    "comment": ""
+  },
+  {
+    "line": 1462,
+    "key": "ww_BEL_event_diplomatic.7.a",
+    "ver": "",
+    "en": "No, Calais is more valuable to us.",
+    "comment": ""
+  },
+  {
+    "line": 1463,
+    "key": "ww_BEL_event_diplomatic.7.b",
+    "ver": "",
+    "en": "Very well, this is a fair exchange.",
+    "comment": ""
+  },
+  {
+    "line": 1466,
+    "key": "ww_BEL_event_diplomatic.8.t",
+    "ver": "",
+    "en": "Belgium Wishes To Buy Calais",
+    "comment": ""
+  },
+  {
+    "line": 1467,
+    "key": "ww_BEL_event_diplomatic.8.desc",
+    "ver": "",
+    "en": "We have just received an interesting offer from the [BEL.GetAdjective] delegation. They have expressed an interest in buying Calais from us in a bid to \"reunite their historical territories\". The sum they have proposed is quite high, and would certainly go some way to improving our own economy, the question is whether we believe this loss of land is worth that price. It should also be noted, that their diplomats did imply an escalation in tensions should we reject their offer.",
+    "comment": ""
+  },
+  {
+    "line": 1468,
+    "key": "ww_BEL_event_diplomatic.8.a",
+    "ver": "",
+    "en": "No, Calais is more valuable to us.",
+    "comment": ""
+  },
+  {
+    "line": 1469,
+    "key": "ww_BEL_event_diplomatic.8.b",
+    "ver": "",
+    "en": "That seems a fair price!",
+    "comment": ""
+  },
+  {
+    "line": 1472,
+    "key": "ww_BEL_event_diplomatic.9.t",
+    "ver": "",
+    "en": "Coquilhatville and Stanleyville Sold To France!",
+    "comment": ""
+  },
+  {
+    "line": 1473,
+    "key": "ww_BEL_event_diplomatic.9.desc",
+    "ver": "",
+    "en": "Our Colonial Governor has just been informed that [BEL.GetName] has concluded a deal with [FRA.GetName] to trade Calais for a couple of our states, namely Coquilhatville and Stanleyville. Once again the European overlords change the borders of Africa with zero input from those of us who actually live here!",
+    "comment": ""
+  },
+  {
+    "line": 1474,
+    "key": "ww_BEL_event_diplomatic.9.a",
+    "ver": "",
+    "en": "We'll have to update our maps... Again.",
+    "comment": ""
+  },
+  {
+    "line": 1477,
+    "key": "ww_BEL_event_diplomatic.10.t",
+    "ver": "",
+    "en": "France Accepted!",
+    "comment": ""
+  },
+  {
+    "line": 1478,
+    "key": "ww_BEL_event_diplomatic.10.desc",
+    "ver": "",
+    "en": "We have received word from our delegation in Paris, that [FRA.GetName] has chosen to accept our offer, and the process is already underway to transfer administration of Calais and its surrounding territories to us!",
+    "comment": ""
+  },
+  {
+    "line": 1479,
+    "key": "ww_BEL_event_diplomatic.10.a",
+    "ver": "",
+    "en": "Our rightful territory has been restored!",
+    "comment": ""
+  },
+  {
+    "line": 1482,
+    "key": "ww_BEL_event_diplomatic.11.t",
+    "ver": "",
+    "en": "Escalating Tensions Over Calais",
+    "comment": ""
+  },
+  {
+    "line": 1483,
+    "key": "ww_BEL_event_diplomatic.11.desc",
+    "ver": "",
+    "en": "Our delegation in Paris has sent word that the negotiations for Calais have broken down, and we may need to resort to force in order to secure this land that is rightfully ours. We have tried to be reasonable in our offers, however they have turned us down at every step. It is time to show them the true force of [BEL.GetAdjective] military might.",
+    "comment": ""
+  },
+  {
+    "line": 1484,
+    "key": "ww_BEL_event_diplomatic.11.a",
+    "ver": "",
+    "en": "Step back from the precipice.",
+    "comment": ""
+  },
+  {
+    "line": 1485,
+    "key": "ww_BEL_event_diplomatic.11.b",
+    "ver": "",
+    "en": "Then they have chosen war!",
+    "comment": "#Tool tip to say occupying Paris may be enough to force peace."
+  },
+  {
+    "line": 1488,
+    "key": "ww_BEL_event_diplomatic.12.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Requests our Aid",
+    "comment": ""
+  },
+  {
+    "line": 1489,
+    "key": "ww_BEL_event_diplomatic.12.desc",
+    "ver": "",
+    "en": "A communication from the [FROM.GetAdjective] leadership has just reached us. As the world grows all the more hostile around them they harbor worries about their own abilities to safeguard their country. Our help would be most appreciated, and would be integral to keep the peace in the region.",
+    "comment": ""
+  },
+  {
+    "line": 1490,
+    "key": "ww_BEL_event_diplomatic.12.a",
+    "ver": "",
+    "en": "They shall have our help!",
+    "comment": ""
+  },
+  {
+    "line": 1491,
+    "key": "ww_BEL_event_diplomatic.12.b",
+    "ver": "",
+    "en": "We cannot aid them",
+    "comment": ""
+  },
+  {
+    "line": 1494,
+    "key": "ww_BEL_event_diplomatic.13.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Guarantees our Independence",
+    "comment": ""
+  },
+  {
+    "line": 1495,
+    "key": "ww_BEL_event_diplomatic.13.desc",
+    "ver": "",
+    "en": "We have received the most wondrous news from the [FROM.GetAdjective] diplomats. They agree that our safety might be threatened and that our army might not be enough to safeguard our independence. With regards to this they have offered us the guarantee that we have requested.",
+    "comment": ""
+  },
+  {
+    "line": 1496,
+    "key": "ww_BEL_event_diplomatic.13.a",
+    "ver": "",
+    "en": "This will keep us safe",
+    "comment": ""
+  },
+  {
+    "line": 1499,
+    "key": "ww_BEL_event_diplomatic.14.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Refuses us a Guarantee",
+    "comment": ""
+  },
+  {
+    "line": 1500,
+    "key": "ww_BEL_event_diplomatic.14.desc",
+    "ver": "",
+    "en": "Despite the obvious threats to our very existence the [FROM.GetAdjective] leadership has rejected our request for a guarantee. We have tried to reason with them but they refuse to see the gravity of the situation. It seems that we will have to make do on our own.",
+    "comment": ""
+  },
+  {
+    "line": 1501,
+    "key": "ww_BEL_event_diplomatic.14.a",
+    "ver": "",
+    "en": "How rude of them!",
+    "comment": ""
+  },
+  {
+    "line": 1504,
+    "key": "ww_BEL_event_diplomatic.15.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Requests Equipment",
+    "comment": ""
+  },
+  {
+    "line": 1505,
+    "key": "ww_BEL_event_diplomatic.15.desc",
+    "ver": "",
+    "en": "A request from the exiled [FROM.GetAdjective] leadership has just reached us. They wish to have some equipment from us to train what troops they still have in hopes that they will at some point be able to retake their homeland.",
+    "comment": ""
+  },
+  {
+    "line": 1506,
+    "key": "ww_BEL_event_diplomatic.15.a",
+    "ver": "",
+    "en": "We will send them $infantry_equipment$!",
+    "comment": ""
+  },
+  {
+    "line": 1507,
+    "key": "ww_BEL_event_diplomatic.15.c",
+    "ver": "",
+    "en": "We will send them $support_equipment$!",
+    "comment": ""
+  },
+  {
+    "line": 1508,
+    "key": "ww_BEL_event_diplomatic.15.b",
+    "ver": "",
+    "en": "Their ambition is noble but we can't help",
+    "comment": ""
+  },
+  {
+    "line": 1511,
+    "key": "ww_BEL_event_diplomatic.16.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Requests Factories",
+    "comment": ""
+  },
+  {
+    "line": 1512,
+    "key": "ww_BEL_event_diplomatic.16.desc",
+    "ver": "",
+    "en": "We have received a request from the [FROM.GetAdjective] leadership to use our factories to produce equipment for their remaining troops. They aspire to take their homelands back and for that, their troops will need equipment.",
+    "comment": ""
+  },
+  {
+    "line": 1513,
+    "key": "ww_BEL_event_diplomatic.16.a",
+    "ver": "",
+    "en": "Of course we will help",
+    "comment": ""
+  },
+  {
+    "line": 1514,
+    "key": "ww_BEL_event_diplomatic.16.b",
+    "ver": "",
+    "en": "We do not have the capacity to help",
+    "comment": ""
+  },
+  {
+    "line": 1517,
+    "key": "ww_BEL_event_diplomatic.17.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Proposes Sharing of Military Experience",
+    "comment": ""
+  },
+  {
+    "line": 1518,
+    "key": "ww_BEL_event_diplomatic.17.desc",
+    "ver": "",
+    "en": "The exiled government of [FROM.GetNameDef] has reached out to us to propose a joint effort to share military experience between our armies. This could benefit us just as much as it could them.",
+    "comment": ""
+  },
+  {
+    "line": 1519,
+    "key": "ww_BEL_event_diplomatic.17.a",
+    "ver": "",
+    "en": "A great idea!",
+    "comment": ""
+  },
+  {
+    "line": 1520,
+    "key": "ww_BEL_event_diplomatic.17.b",
+    "ver": "",
+    "en": "It is not worth the time",
+    "comment": ""
+  },
+  {
+    "line": 1523,
+    "key": "ww_BEL_event_diplomatic.18.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Agrees",
+    "comment": ""
+  },
+  {
+    "line": 1524,
+    "key": "ww_BEL_event_diplomatic.18.desc",
+    "ver": "",
+    "en": "Our suggested efforts to strengthen our position and help rebuild our army for retaking the homeland has been met with approval from [FROM.GetNameDef]. Though this cannot on its own solve our problems, it will be a great stepping stone for us to finally regain independence.",
+    "comment": ""
+  },
+  {
+    "line": 1525,
+    "key": "ww_BEL_event_diplomatic.18.a",
+    "ver": "",
+    "en": "Great news!",
+    "comment": ""
+  },
+  {
+    "line": 1528,
+    "key": "ww_BEL_event_diplomatic.19.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Rejects",
+    "comment": ""
+  },
+  {
+    "line": 1529,
+    "key": "ww_BEL_event_diplomatic.19.desc",
+    "ver": "",
+    "en": "Our suggested efforts to strengthen our position and help rebuild our army for retaking the homeland has been met with rejection from [FROM.GetNameDef]. We had hoped that this would be a stepping stone for the future, but it seems those plans have been squandered.",
+    "comment": ""
+  },
+  {
+    "line": 1530,
+    "key": "ww_BEL_event_diplomatic.19.a",
+    "ver": "",
+    "en": "Unfortunate",
+    "comment": ""
+  },
+  {
+    "line": 1532,
+    "key": "ww_BEL_event_diplomatic.20.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Invites us to a European Cooperation Project",
+    "comment": ""
+  },
+  {
+    "line": 1533,
+    "key": "ww_BEL_event_diplomatic.20.desc",
+    "ver": "",
+    "en": "We have received a formal invitation from [FROM.GetNameDef] to join the [FROM.GetFactionName]. This is their new initiative to encourage cooperation within the region, their hope is that this initiative will stabilize the region and promote better diplomatic relations.",
+    "comment": ""
+  },
+  {
+    "line": 1534,
+    "key": "ww_BEL_event_diplomatic.20.a",
+    "ver": "",
+    "en": "A great initiative!",
+    "comment": ""
+  },
+  {
+    "line": 1535,
+    "key": "ww_BEL_event_diplomatic.20.b",
+    "ver": "",
+    "en": "This sounds suspicious...",
+    "comment": ""
+  },
+  {
+    "line": 1537,
+    "key": "ww_BEL_event_diplomatic.21.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Joins the [ROOT.GetFactionName]",
+    "comment": ""
+  },
+  {
+    "line": 1538,
+    "key": "ww_BEL_event_diplomatic.21.desc",
+    "ver": "",
+    "en": "Our invitation to [FROM.GetNameDef] has been received with approval. They agree that a larger European community is the right way to go. With joint effort we will be able to stabilize the region once more.",
+    "comment": ""
+  },
+  {
+    "line": 1539,
+    "key": "ww_BEL_event_diplomatic.21.a",
+    "ver": "",
+    "en": "Great News!",
+    "comment": ""
+  },
+  {
+    "line": 1541,
+    "key": "ww_BEL_event_diplomatic.22.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Rejects our Invitation to [ROOT.GetFactionName]",
+    "comment": ""
+  },
+  {
+    "line": 1542,
+    "key": "ww_BEL_event_diplomatic.22.desc",
+    "ver": "",
+    "en": "The [FROM.GetAdjective] diplomats have returned to us with a disappointing reply. They claim that while the idea might be noble, it will inevitable fail, much like similar initiatives has before us.",
+    "comment": ""
+  },
+  {
+    "line": 1543,
+    "key": "ww_BEL_event_diplomatic.22.a",
+    "ver": "",
+    "en": "Shame, really...",
+    "comment": ""
+  },
+  {
+    "line": 1545,
+    "key": "ww_BEL_event_diplomatic.23.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Invites Us to Their Research Efforts",
+    "comment": ""
+  },
+  {
+    "line": 1546,
+    "key": "ww_BEL_event_diplomatic.23.desc",
+    "ver": "",
+    "en": "A [FROM.GetAdjective] delegation has approached us to propose a [FROM.GetFactionName]-wide research effort. As close allies we need to share our technologies amongst ourselves in order to advance everyone in the Union.",
+    "comment": ""
+  },
+  {
+    "line": 1547,
+    "key": "ww_BEL_event_diplomatic.23.a",
+    "ver": "",
+    "en": "Sure, we'll join",
+    "comment": ""
+  },
+  {
+    "line": 1548,
+    "key": "ww_BEL_event_diplomatic.23.b",
+    "ver": "",
+    "en": "Our own tech will remain our own",
+    "comment": ""
+  },
+  {
+    "line": 1550,
+    "key": "ww_BEL_event_diplomatic.24.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Joins the European Union Research Group",
+    "comment": ""
+  },
+  {
+    "line": 1551,
+    "key": "ww_BEL_event_diplomatic.24.desc",
+    "ver": "",
+    "en": "Our initiative to create a venue for sharing technology among our allies have been met with approval from [FROM.GetNameDef]. They have joined the effort and will share their technological advancements with us and our mutual allies, just as we will share ours with them.",
+    "comment": ""
+  },
+  {
+    "line": 1552,
+    "key": "ww_BEL_event_diplomatic.24.a",
+    "ver": "",
+    "en": "Excellent!",
+    "comment": ""
+  },
+  {
+    "line": 1554,
+    "key": "ww_BEL_event_diplomatic.25.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Refuses to Join the European Union Research Group",
+    "comment": ""
+  },
+  {
+    "line": 1555,
+    "key": "ww_BEL_event_diplomatic.25.desc",
+    "ver": "",
+    "en": "Though we thought we presented a solid case for the European Union Research Group to [FROM.GetNameDef], they have refused to join the initiative. We hope to still be able to profit from the initiative, but it will have to be without [FROM.GetNameDef].",
+    "comment": ""
+  },
+  {
+    "line": 1556,
+    "key": "ww_BEL_event_diplomatic.25.a",
+    "ver": "",
+    "en": "Oh well...",
+    "comment": ""
+  },
+  {
+    "line": 1558,
+    "key": "ww_BEL_event_diplomatic.26.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Requests Limited Federalization",
+    "comment": ""
+  },
+  {
+    "line": 1559,
+    "key": "ww_BEL_event_diplomatic.26.desc",
+    "ver": "",
+    "en": "We have received a request from [FROM.GetNameDef]. As the president of the [ROOT.GetFactionName] they have come to the realization that a more federal Europe would enhance the defensive and commercial efforts of the bloc, and have requested that we join this effort.",
+    "comment": ""
+  },
+  {
+    "line": 1560,
+    "key": "ww_BEL_event_diplomatic.26.a",
+    "ver": "",
+    "en": "For the betterment of [FROM.GetFactionName]",
+    "comment": ""
+  },
+  {
+    "line": 1561,
+    "key": "ww_BEL_event_diplomatic.26.b",
+    "ver": "",
+    "en": "No, we must think of our sovereignty!",
+    "comment": ""
+  },
+  {
+    "line": 1562,
+    "key": "ww_BEL_event_diplomatic.26.b_tt",
+    "ver": "",
+    "en": "§RThey might kick us from the faction!§!",
+    "comment": ""
+  }
+]

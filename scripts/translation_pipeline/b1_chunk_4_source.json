@@ -1,0 +1,422 @@
+[
+  {
+    "key": "news.156.d",
+    "version": "",
+    "type": "desc",
+    "en": "The appearance of a Komet in the sky has caused unrest amongst our people. The Me 163 Komet, an experimental rocket plane out of one of its test flights, has shocked the rural population who have spotted this uniquely fast craft. It has been developed with the utmost secrecy, but will soon be unveiled. This minor incident will only make its first formal appearance all the more impressive."
+  },
+  {
+    "key": "news.157.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.From.GetName] Intervenes in [From.GetAdjective] war"
+  },
+  {
+    "key": "news.157.d",
+    "version": "",
+    "type": "desc",
+    "en": "Only a few days ago troops from [From.GetName] mobilized towards [From.From.From.GetName] in a declaration of war. Subsequently [From.From.GetName] gave an ultimatum, ordering the parties to stop fighting and all [From.GetAdjective] troops withdrawn. [From.GetLeader] states that their war was justified and has refused to give in. The country is now in full conflict with both [From.From.From.GetName] and [From.From.GetName]."
+  },
+  {
+    "key": "news.158.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.From.GetName] Intervenes in [From.GetAdjective] war"
+  },
+  {
+    "key": "news.158.d",
+    "version": "",
+    "type": "desc",
+    "en": "A few days ago [From.GetName] declared war on [From.From.From.GetName]. Not long after [From.From.GetName] issued an ultimatum, stating that it would go to war with [From.GetName] if they would not cease all aggression and sign a peace deal. [From.GetLeader] states that their reasons for war were just, but has chosen to demobilize and agree to peace."
+  },
+  {
+    "key": "news.159.t",
+    "version": "",
+    "type": "title",
+    "en": "The Dawn of [From.GetFactionName]"
+  },
+  {
+    "key": "news.159.d_01",
+    "version": "",
+    "type": "desc",
+    "en": "[From.GetLeader] announced today that [From.GetName] has reached out to form a new alliance. [From.GetFactionName] have made public their intent to cooperate in the case of war.\\n\\nAlthough great coalitions can deter against aggression, we've seen the consequences they bring when conflict does arise. The intentions of the different parties joining in this new alliance is still debatable, but what purpose it may end up serving may be unknown even to its instigators."
+  },
+  {
+    "key": "news.159.d_02",
+    "version": "",
+    "type": "desc",
+    "en": "It has been theorized that democracies do not go to war with each other, but this does not mean they are guaranteed to aid each other in wars. As political interests are diverse and the people want peace, entering a war often comes at a great cost for these nations.\\n\\nHowever, this has not stopped [From.GetName] from announcing today that they have formed a military alliance, the [From.GetFactionName], to join forces in protecting their people and their ideals."
+  },
+  {
+    "key": "news.159.d_03",
+    "version": "",
+    "type": "desc",
+    "en": "Even [From.GetName], famed for its faith in the strength and superiority of its people and nation, is not beyond forming alliances with those they respect. [From.GetLeader] announced today that the final agreements had been made about the [From.GetFactionName], a military coalition which purportedly room only for honorable nations destined for greatness.\\n\\nWhether this greatness is intended to come from building the ideal society within the borders of the respective nations or by working together to expand beyond them, the world may not know until it is too late."
+  },
+  {
+    "key": "news.159.d_04",
+    "version": "",
+    "type": "desc",
+    "en": "Despite the recent Soviet focus on communism in one country, the internationalist roots of the movement transcend borders. This solidarity with workers around the world was a key element in [From.GetLeader]'s speech today when the [From.GetFactionName] was announced.\\n\\nGoing beyond a political International, this is an alliance that binds the countries militarily, with both regimes promising to aid each other against outside threats. Whether it will act as a sword or a shield for the communist revolution remains to be seen."
+  },
+  {
+    "key": "news.160.t",
+    "version": "",
+    "type": "title",
+    "en": "Germany Under Attack"
+  },
+  {
+    "key": "news.160.d",
+    "version": "",
+    "type": "desc",
+    "en": "Not long ago Germany found itself dragged into another war. While everyone had hoped for a long lasting peace in Europe, it is clear that tensions on the continent are still too great. German officials' state that they can no longer afford to keep the Rheinland demilitarized, arguing that they need full mobility within their own borders in order to defend themselves."
+  },
+  {
+    "key": "news.161.t",
+    "version": "",
+    "type": "title",
+    "en": "France Bans Communism"
+  },
+  {
+    "key": "news.161.d",
+    "version": "",
+    "type": "desc",
+    "en": "The [From.GetLeader] Cabinet have decreed the dissolution of [From.GetCommunistParty]. Ever since Soviet Russia signed the non-aggression pact with Nazi Germany there have been talks of proscribing communism in France. The decree was instated following the agreement between the two nations for the partition of Poland.\\n[From.GetLeader] took the opportunity as support for a ban rose and even leftist papers started advocating for the abolition of [From.GetCommunistParty]."
+  },
+  {
+    "key": "news.162.d",
+    "version": "",
+    "type": "desc",
+    "en": "With a final peace treaty splitting Spain in two accepted by both parties, the Spanish Civil War has come to an end. Although dissidents on both sides decry this compromise, this fragile peace will at least give the divided nation time to recover and rebuild on both sides."
+  },
+  {
+    "key": "news.163.t",
+    "version": "",
+    "type": "title",
+    "en": "London Conference"
+  },
+  {
+    "key": "news.163.d",
+    "version": "",
+    "type": "desc",
+    "en": "Using the annexation of Austria into the [GER.GetName] as the basis for their claim, Germany has now demanded the \"rightful return\" of the former Austrian territory of Slovenia from [YUG.GetName]. \\n\\nIn response, the signatories of the Treaty of Versailles have gathered in London to discuss a solution to the \"Slovenian Question.\" This great peace conference has led to the decision that Yugoslavia should cede Slovenia to Germany in the name of a lasting peace.\\n\\nConsidering itself abandoned by the great powers of Europe, [YUG.GetLeader]'s government sees no option but to sign the agreement as presented."
+  },
+  {
+    "key": "news.164.t",
+    "version": "",
+    "type": "title",
+    "en": "Crisis In Slovenia"
+  },
+  {
+    "key": "news.164.d",
+    "version": "",
+    "type": "desc",
+    "en": "Using the annexation of Austria into the [GER.GetName] as the basis for their claim, Germany has now demanded the \"rightful return\" of the former Austrian territory of Slovenia from [YUG.GetName]. \\n\\nIn response, the signatories of the Treaty of Versailles have gathered in London to discuss a solution to the \"Slovenian Question.\"\\n\\nAt the conference, Britain and France stood united in the face of German demands, declaring that Yugoslavia must keep the borders as stipulated by Versailles."
+  },
+  {
+    "key": "news.164.d_FRA_abandoned_yugoslavia",
+    "version": "",
+    "type": "desc",
+    "en": "Using the annexation of Austria into the [GER.GetName] as the basis for their claim, Germany has now demanded the \"rightful return\" of the former Austrian territory of Slovenia from [YUG.GetName]. \\n\\nIn response, the signatories of the Treaty of Versailles have gathered in London to discuss a solution to the \"Slovenian Question.\"\\n\\nWhile Britain insisted that the integrity of Versailles must be kept, France backed German demands in the name of peace in Europe."
+  },
+  {
+    "key": "news.165.t",
+    "version": "",
+    "type": "title",
+    "en": "Crisis In Slovenia"
+  },
+  {
+    "key": "news.165.d",
+    "version": "",
+    "type": "desc",
+    "en": "Using the annexation of Austria into the [GER.GetName] as the basis for their claim, Germany has now demanded the \"rightful return\" of the former Austrian territory of Slovenia from [YUG.GetName]. \\n\\nIn response, the signatories of the Treaty of Versailles have gathered in London to discuss a solution to the \"Slovenian Question.\"\\n\\nDespite days of negotiations, the conference failed to come to an agreement. Although the British government sought a peaceful solution, the French remained resolute in the face of German threats. The German delegation walked out in protest, and the clouds of war are gathering above Slovenia."
+  },
+  {
+    "key": "news.166.t",
+    "version": "",
+    "type": "title",
+    "en": "London Agreement"
+  },
+  {
+    "key": "news.166.d",
+    "version": "",
+    "type": "desc",
+    "en": "Using the annexation of Austria into the [GER.GetName] as the basis for their claim, Germany has now demanded the \"rightful return\" of the former Austrian territory of Slovenia from [YUG.GetName]. \\n\\nIn response, the signatories of the Treaty of Versailles have gathered in London to discuss a solution to the \"Slovenian Question.\"\\n\\nThe Great Powers agreed that Slovenia should be ceded to Germany in a last ditch effort to retain peace. \\nHowever, in an impassioned speech speaking against the German threat to European stability, [YUG.GetLeader] declared unequivocally that [YUG.GetName] would refuse to give up even an inch of land, regardless of the fact that they stand utterly abandoned in their time of need."
+  },
+  {
+    "key": "news.167.t",
+    "version": "",
+    "type": "title",
+    "en": "Crisis In Slovenia"
+  },
+  {
+    "key": "news.167.d",
+    "version": "",
+    "type": "desc",
+    "en": "Using the annexation of Austria into the [GER.GetName] as the basis for their claim, Germany has now demanded the \"rightful return\" of the former Austrian territory of Slovenia from [YUG.GetName]. \\n\\nIn response, the signatories of the Treaty of Versailles have gathered in London to discuss a solution to the \"Slovenian Question.\"\\n\\nThe conference was determined by a surprising turn of loyalties, as Italy backed Yugoslavian territorial integrity, leaving German demands unacknowledged. \\n\\nAs ever, Italian foreign policy is entirely unpredictable, and it remains to be seen where they hope this gambit will take them."
+  },
+  {
+    "key": "news.168.t",
+    "version": "",
+    "type": "title",
+    "en": "First Ljubljana Award"
+  },
+  {
+    "key": "news.168.d",
+    "version": "",
+    "type": "desc",
+    "en": "With the loss of Slovenia the ethnic fault lines inside Yugoslavia have started to show more clearly, and the central authority has grown weaker by the day. \\n\\nToday, the German foreign minister announced a plan to finally solve \"the mistake of the Versailles State.\" In a treaty signed by some of [YUG.GetName]'s most powerful neighbors, much of its territory has been divided between countries friendly to Germany.\\n\\nThis treaty was not even seen by [YUG.GetAdjective] diplomats before its ratification, but with multiple countries scrambling to seize Yugoslav lands from a collapsing central government, there is little [YUG.GetLeader]'s government can do."
+  },
+  {
+    "key": "news.169.t",
+    "version": "",
+    "type": "title",
+    "en": "The Fate Of Yugoslavia"
+  },
+  {
+    "key": "news.169.d_annex_YUG",
+    "version": "",
+    "type": "desc",
+    "en": "Recent territorial losses have caused fractures within the Yugoslav state leading to ethnic conflict and weakening of central authority. Germany has stepped into the growing vacuum and chosen to declare a 'protectorate' on the rump of Yugoslavia"
+  },
+  {
+    "key": "news.169.d_puppet_CRO_annex_YUG",
+    "version": "",
+    "type": "desc",
+    "en": "Recent territorial loses have caused fractures within the Yugoslav state leading to ethnic conflict and weakening of central authority. Germany has created an 'independent' state of Croatia and annexed the remainder"
+  },
+  {
+    "key": "news.169.d_puppet_CRO_YUG",
+    "version": "",
+    "type": "desc",
+    "en": "Recent territorial loses have caused fractures within the Yugoslav state leading to ethnic conflict and weakening of central authority. Germany has chosen to divide the remainder between a Serb and Croat state under their direction"
+  },
+  {
+    "key": "news.170.t",
+    "version": "",
+    "type": "title",
+    "en": "Second Ljubljana Award"
+  },
+  {
+    "key": "news.170.d_BUL",
+    "version": "",
+    "type": "desc",
+    "en": "Claiming they are attempting to ensure peace in the Balkans, Germany has presented the Greek government with a demand that they cede territory to Bulgaria. While [GRE.GetName] has protested immensely, the strength of German influence in the Balkans leaves them with little choice. The only way to avoid a confrontation with the [GER.GetName] is to allow German diplomacy to dictate their territorial integrity."
+  },
+  {
+    "key": "news.170.d_ITA",
+    "version": "",
+    "type": "desc",
+    "en": "Claiming they are attempting to ensure peace in the Balkans, Germany has presented the Greek government with a demand that they cede any territory that [ITA.GetName] has laid claim to. While [GRE.GetName] has protested immensely, the strength of German influence in the Balkans leaves them with little choice. The only way to avoid a confrontation with both the [GER.GetName] and [ITA.GetName] is to allow German diplomacy to dictate their territorial integrity."
+  },
+  {
+    "key": "news.170.d_ITA_BUL",
+    "version": "",
+    "type": "desc",
+    "en": "Claiming they are attempting to ensure peace in the Balkans, Germany has presented the Greek government with a demand that they cede any territory claimed by [BUL.GetName] and [ITA.GetName]. With the strong [GER.GetAdjective] presence in the Balkans, and the threatening approach of both Bulgaria and Italy, [GRE.GetLeader] has seen no choice but to accept."
+  },
+  {
+    "key": "news.170.d_GER",
+    "version": "",
+    "type": "desc",
+    "en": "Having established itself as a force in the Balkans, the [GER.GetName] now claims it is motivated by keeping the peace in the troubled region. To this end, it has now also demanded the ceding of Greek territory to its authority.\\n\\nFacing the German war machine, [GRE.GetName] had no choice but to accept the demands, even as they were cursing the demands as a sham."
+  },
+  {
+    "key": "news.171.t",
+    "version": "",
+    "type": "title",
+    "en": "Second Ljubljana Award"
+  },
+  {
+    "key": "news.171.d_BUL",
+    "version": "",
+    "type": "desc",
+    "en": "Greece has rejected German mediation in their border dispute with Bulgaria, claiming that the German offer is tantamount to a surrender. \\n\\nTalking to the press, [GRE.GetLeader] said that if [BUL.GetLeader] and [GER.GetLeader] wanted these territories, they could \"come and get them\". \\n\\nThe [BUL.GetAdjective] government has rejected any claims that they offered military and economic support to [GER.GetNameDef] in return for help in gaining the Greek territories."
+  },
+  {
+    "key": "news.171.d_ITA",
+    "version": "",
+    "type": "desc",
+    "en": "Following a meeting between [GER.GetLeader] and [ITA.GetLeader], the [GER.GetAdjective] government has publicly backed the [ITA.GetAdjective] position in the ongoing border dispute with [GRE.GetNameDef]. \\n\\nGreek Leader [GRE.GetLeader] has declared the offered solution to be utterly unacceptable and vowed to defend the country \"to the last bullet, the last shell, the last breath.\""
+  },
+  {
+    "key": "news.171.d_ITA_BUL",
+    "version": "",
+    "type": "desc",
+    "en": "German offers of mediation in the border dispute between Greece on the one side and Italy and Bulgaria on the other have been rebuffed by Greece. A [GRE.GetAdjective] government spokesman announced that the [GRE.GetAdjective] army stands ready to defend the country against any invaders, and would rather die fighting than surrender to the jackals and vultures clinging to Germany's coattails."
+  },
+  {
+    "key": "news.171.d_GER",
+    "version": "",
+    "type": "desc",
+    "en": "Talks between [GRE.GetNameDef] and [GER.GetNameDef] to resolve a number of border disputes have collapsed. Claiming that the German proposal to lease some areas for German military bases would effectively mean surrendering large parts of the country, [GRE.GetLeader] has called on all able-bodied Greeks to come to the defense of the country."
+  },
+  {
+    "key": "news.172.t",
+    "version": "",
+    "type": "title",
+    "en": "Greece Submits"
+  },
+  {
+    "key": "news.172.d",
+    "version": "",
+    "type": "desc",
+    "en": "Following a long and heated conversation with the German ambassador, [GRE.GetLeader] has announced that the [GRE.GetAdjective] government will closely coordinate its policies with [GER.GetNameDef] in the future. \\n\\nPolice in the [GRE.GetAdjective] capital had to use force to break up a number of spontaneous protests against this decision, with many in the crowd calling for the head of \"that coward [GRE.GetLeader]\"."
+  },
+  {
+    "key": "news.173.t",
+    "version": "",
+    "type": "title",
+    "en": "The Fourth International"
+  },
+  {
+    "key": "news.173.d_1",
+    "version": "",
+    "type": "desc",
+    "en": "A number of communist delegates from around the world met in Paris today for a founding conference. With supporters of Trotsky's theories taking the lead, the groundwork for the Fourth International was laid.\\n\\nAlthough it is still unclear what impact these efforts of organize will have on the international political stage, the news appear to have stirred Stalin's suspicions. He has suspected many high-ranking members of the party and the military to secretly support Trotsky, and many of them are still alive. With his paranoia back in full force, he has grown increasingly reclusive. His distrust and instability have caused a crisis in the Soviet government. At this rate, the nation will be plunged into civil war."
+  },
+  {
+    "key": "news.173.d_2",
+    "version": "",
+    "type": "desc",
+    "en": "A number of communist delegates from around the world met in Paris today for a founding conference, laying the groundwork for what has been known as the Fourth International. Calls for its formation have existed for years, with supporters of Trotsky's theories taking the lead.\\n\\nStalin has responded to the growing support for Trotskyism abroad by ordering additional assassinations and increasing propaganda against his old rival. With the past purges of suspected Trotskyists in the high ranks of the Soviet military and leadership in recent memory, this is unlikely to be met with any resistance."
+  },
+  {
+    "key": "news.174.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetName] Pursues Nuclear Technology"
+  },
+  {
+    "key": "news.174.d",
+    "version": "",
+    "type": "desc",
+    "en": "Following initial tests, the politicians of [From.GetName] have decided to direct [From.GetAdjective] research towards the development of nuclear technology. \\n\\nThe technology is still highly experimental, and there is great uncertainty whether it has any practical applications at all. Who knows where this might lead their war effort."
+  },
+  {
+    "key": "news.175.t",
+    "version": "",
+    "type": "title",
+    "en": "France and Britain Announce Alliance"
+  },
+  {
+    "key": "news.175.d",
+    "version": "",
+    "type": "desc",
+    "en": "Calling upon the bonds forged during the Great War, France has requested a formal alliance with Britain, citing unspecified threats against the stability of Europe.\\n\\nToday their request was approved by the British Parliament, and France has joined the [ENG.GetFactionName]."
+  },
+  {
+    "key": "news.176.t",
+    "version": "",
+    "type": "title",
+    "en": "Britain Rejects Alliance With France"
+  },
+  {
+    "key": "news.176.d",
+    "version": "",
+    "type": "desc",
+    "en": "In a surprising turn of events, the British Parliament today rejected [FRA.GetName]'s request for a formal alliance between the two nations. The reason given was to avoid agitating the already fragile balance on the European continent.\\n\\nThe French government has condemned it as a political move, sacrificing French security for British interests."
+  },
+  {
+    "key": "news.177.t",
+    "version": "",
+    "type": "title",
+    "en": "The Little Entente"
+  },
+  {
+    "key": "news.177.d",
+    "version": "",
+    "type": "desc",
+    "en": "Seeking to form a united front against common enemies, [From.GetName] has reached out to Czechoslovakia with an offer of forming a \"Little Entente\" to unite against common enemies, thereby foregoing their bonds with Britain from the Great War. While offered a place in the defensive pact, the British Prime Minister made it clear that Britain does not consider the alliance 'beneficial to the protection of European liberty.' \\n\\nFrance have nevertheless established diplomatic ties with other nations that might feel threatened, and are encouraging unity for the sake of keeping the diplomatic balance in Europe, and prevent future conflict. Only time will tell if they can succeed."
+  },
+  {
+    "key": "news.178.t",
+    "version": "",
+    "type": "title",
+    "en": "The Left Ascendant in France"
+  },
+  {
+    "key": "news.178.d",
+    "version": "",
+    "type": "desc",
+    "en": "Following close to two decades of political turmoil, the people of [From.GetName] feel they have yet to regain what was lost in the Great War. The [From.GetAdjective] have set their sights on reconstructing the [From.GetAdjective] state, with her people, and for her people.\\n\\nThese new political reforms enable the flourishing of workers unions and communist organizations. If France continues down this path, they are set for a political realignment towards the far left, or even a full-scale revolution."
+  },
+  {
+    "key": "news.179.t",
+    "version": "",
+    "type": "title",
+    "en": "The Right Ascendant in France"
+  },
+  {
+    "key": "news.179.d",
+    "version": "",
+    "type": "desc",
+    "en": "Following close to two decades of political turmoil, the people of [From.GetName] feel they have yet to regain what was lost in the Great War. The [From.GetAdjective] establishment have set their sights on reconstructing the [From.GetAdjective] state, and reestablish [From.GetAdjective] greatness.\\n\\nThese political reforms are strengthening the power of the state and the army, with the [From.GetAdjective] people convinced by [From.GetLeader]'s promises of greatness."
+  },
+  {
+    "key": "news.180.t",
+    "version": "",
+    "type": "title",
+    "en": "France is Welcomed Into the Comintern"
+  },
+  {
+    "key": "news.180.d",
+    "version": "",
+    "type": "desc",
+    "en": "Following the shift towards communism not only among the French people, but also in the French halls of power, [France.GetName] publicly announced its desire to become a part of the [From.GetFactionName].\\n\\n[From.GetName] responded instantly, indicating the weeks of negotiations that must have been going on outside of the public view. [From.GetLeader] spoke at length how the people of the world must work together to bring about revolution in all countries. \\n\\n[France.GetLeader] agreed, and threatened in no uncertain terms those \"who have reason to fear the [From.GetFactionName].\""
+  },
+  {
+    "key": "news.181.t",
+    "version": "",
+    "type": "title",
+    "en": "[France.GetName] and [From.GetName] Unite"
+  },
+  {
+    "key": "news.181.d",
+    "version": "",
+    "type": "desc",
+    "en": "Following increasingly autocratic politics, [France.GetName] has announced that it is time they find allies to counter the threat of global communism. Now it seems that [From.GetName] is that ally.\\n\\nThis morning, [From.GetLeader] announced that [France.GetName] and [From.GetName] will stand together as brothers. \"Our shared heritage will no longer make us enemies, but allies! The Titans of Europe stand together.\""
+  },
+  {
+    "key": "news.182.t",
+    "version": "",
+    "type": "title",
+    "en": "[France.GetName] Joins the [From.GetFactionName]!"
+  },
+  {
+    "key": "news.182.d",
+    "version": "",
+    "type": "desc",
+    "en": "European politics were turned on its head today, as French and German diplomats announced a military pact between [France.GetName] and [From.GetName]. They announced that too much blood has been spilt on their border, when there are other forces out there seeking their destruction.\\n\\nThe [From.GetName] encouraged everyone to consider what it means that rather than weakening themselves against each other, the old enemies will grow even stronger together."
+  },
+  {
+    "key": "news.183.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetName] Rejects French Alliance!"
+  },
+  {
+    "key": "news.183.d",
+    "version": "",
+    "type": "desc",
+    "en": "Rebuffing [France.GetAdjective] diplomatic advances, [From.GetLeader] publicly announced that [From.GetName] would not be pursuing a military pact with [France.GetName].\\n\\nCalling the [France.GetAdjective] state weak and corrupt, [From.GetAdjective] diplomats said that no true [From.GetAdjective] will allow \"the [France.GetAdjective] Disease\" to spread."
+  },
+  {
+    "key": "news.184.t",
+    "version": "",
+    "type": "title",
+    "en": "Italy Pursues Closer Bonds With Germany"
+  },
+  {
+    "key": "news.184.d",
+    "version": "",
+    "type": "desc",
+    "en": "Italy and Germany have expressed many conflicting interests, particularly in Austria and the Balkans. This has not, however, prevented the countries' foreign policies growing ever friendlier towards each other, and negotiations are under way for a pact that will \"protect common interests.\"\\n\\nIf negotiations are successful, we could see an alliance that will be able to exert great influence in Central and Eastern Europe."
+  },
+  {
+    "key": "news.185.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetName] Seeks Extensive Military Pact"
+  }
+]

@@ -1,0 +1,1826 @@
+[
+  {
+    "key": "china.1.t",
+    "version": "",
+    "type": "title",
+    "en": "The Marco Polo Bridge Incident"
+  },
+  {
+    "key": "china.1.d",
+    "version": "",
+    "type": "desc",
+    "en": "Japanese soldiers recently launched an attack on the strategic Marco Polo Bridge just south of Beijing, but they were repelled by our brave soldiers. No doubt this is an orchestrated event aimed at placing blame on us and forcing us to surrender more territory - just like the Mukden Incident when the Japanese invaded Manchuria. \\n\\nHow should we respond?"
+  },
+  {
+    "key": "china.2.t",
+    "version": "",
+    "type": "title",
+    "en": "Germany Withdraws Advisors"
+  },
+  {
+    "key": "china.2.d",
+    "version": "",
+    "type": "desc",
+    "en": "Germany has caved in to Japanese diplomatic pressure, and decided to withdraw their military advisors from our country! Von Falkenhausen promised at a farewell dinner that he would not reveal any of our battle plans to the Japanese, but the end of German support is sure to hurt our military."
+  },
+  {
+    "key": "china.3.t",
+    "version": "",
+    "type": "title",
+    "en": "Poor Sino - German Relations"
+  },
+  {
+    "key": "china.3.d",
+    "version": "",
+    "type": "desc",
+    "en": "Our deteriorating relationship with Germany has resulted in them recalling all of their military advisors from our country."
+  },
+  {
+    "key": "china.4.t",
+    "version": "",
+    "type": "title",
+    "en": "Military Advisors Detained"
+  },
+  {
+    "key": "china.4.d",
+    "version": "",
+    "type": "desc",
+    "en": "As we are now in a state of war with Germany, all of their military advisors that were present in our country have been detained. Von Falkenhausen and a few of his cronies managed to elude our grasp, and have returned to Europe!"
+  },
+  {
+    "key": "china.5.t",
+    "version": "",
+    "type": "title",
+    "en": "Cornered No More"
+  },
+  {
+    "key": "china.5.d",
+    "version": "",
+    "type": "desc",
+    "en": "The Red Army once survived in a state of what seemed like hopelessness, but since the Long March several years back, the tide has slowly turned. With significant territorial advances, our role as an underdog is a thing of the past. Having fought through this time of struggle, our desperation is now behind us. Mao Zedong has gone from guerrilla army leader to chairman."
+  },
+  {
+    "key": "china.6.t",
+    "version": "",
+    "type": "title",
+    "en": "Preparing Attack Against Communists"
+  },
+  {
+    "key": "china.6.d",
+    "version": "",
+    "type": "desc",
+    "en": "After the long retreat of the Communist Party of China's Red Army, they have managed to regroup and establish themselves in Shaanxi. Their continued effort to turn the rural population against us and seek support from the Soviet Union suggest that they might grow more powerful if left to their own devices. However, many of the surrounding warlords, despite supporting our government, are unwilling or unable to make the necessary sacrifices for an effective attack.\\n\\nIt's currently unclear whether the Red Army is still recuperating or ready to face us in battle, but time is not on our side. To strengthen our political position, we need to strike against the communists."
+  },
+  {
+    "key": "china.7.t",
+    "version": "",
+    "type": "title",
+    "en": "Kuomintang Launch Offensive"
+  },
+  {
+    "key": "china.7.d",
+    "version": "",
+    "type": "desc",
+    "en": "Although we have escaped certain defeat through the Long March, the nationalists are not planning to let us grow stronger without more confrontations. Our spies suggest they are mounting an offensive against us, which could weaken our political support if we try to retreat further.\\n\\nWe don't know how committed the Kuomintang are to pushing us back right now. Trying to confront them carries significant risks. If the local warlords have been rallied to support the attack, our chances may be slim. On the other hand, retreating now when we have finally stopped may not be an option."
+  },
+  {
+    "key": "china.8.t",
+    "version": "",
+    "type": "title",
+    "en": "Communists Retreat"
+  },
+  {
+    "key": "china.8.d",
+    "version": "",
+    "type": "desc",
+    "en": "Discovering our planned offensive through their local spy network, the CPC have withdrawn their Red Army further into Shaanxi. Although this deprived us of the opportunity to further weaken their numbers, this has shown that the communists are not ready to confront us, despite what their propaganda says. To some extent, the effort has still worked to our benefit."
+  },
+  {
+    "key": "china.9.t",
+    "version": "",
+    "type": "title",
+    "en": "Victory Against Communists"
+  },
+  {
+    "key": "china.9.d",
+    "version": "",
+    "type": "desc",
+    "en": "Our commitment to routing the Red Army has been successful, at least for now. Despite gaining information about the attack, the communists decided to confront our forces and lost. They have now been forced to withdraw further and many of the locals have grown skeptical of their ability to deliver on their promises of overthrowing our government."
+  },
+  {
+    "key": "china.10.t",
+    "version": "",
+    "type": "title",
+    "en": "Communists Repel Attack"
+  },
+  {
+    "key": "china.10.d",
+    "version": "",
+    "type": "desc",
+    "en": "Having gained information about our plans to launch an offensive beforehand, the Red Army was prepared and confronted our attack. The troops we had managed to assemble in this area, where our power base is weak, were insufficient to defeat the communist forces. \\nSadly, the attack has been turned against us and seen as a sign of the Red Army's recovery after their long retreat."
+  },
+  {
+    "key": "china.11.t",
+    "version": "",
+    "type": "title",
+    "en": "Defeat Against the Kuomintang"
+  },
+  {
+    "key": "china.11.d",
+    "version": "",
+    "type": "desc",
+    "en": "Despite our best efforts to repel the attack of locally assembled troops supporting the nationalist government, our preparations were insufficient to stop it. With significant losses, we have been forced into a new retreat, albeit shorter.\\n\\nConfronting the nationalists before we had fully recovered may have been a mistake. Our magnificent recovery in the Long March instilled hope in our supporters, but now, seeds of doubt have been sown."
+  },
+  {
+    "key": "china.12.t",
+    "version": "",
+    "type": "title",
+    "en": "Victory Against the Kuomintang"
+  },
+  {
+    "key": "china.12.d",
+    "version": "",
+    "type": "desc",
+    "en": "Challenging the Kuomintang offensive has worked in our favor. The locally assembled troops sent to confront the Red Army were not prepared for our knowledge of the impending attack and were defeated, all serving as a warning to nearby warlords that attacking us can be costly. \\n\\nThe nationalists have only proven that they underestimate us as a foe, and that the People's Republic is once again on the rise."
+  },
+  {
+    "key": "china.13.t",
+    "version": "",
+    "type": "title",
+    "en": "Clash with Communist Guerrillas"
+  },
+  {
+    "key": "china.13.d",
+    "version": "",
+    "type": "desc",
+    "en": "With both us and the Chinese Red Army barely having recovered from our previous offensive, our mutual troop presence close to the border has reignited the conflict. In addition to the local warlords and militias, we have considered moving in more troops from elsewhere.\\n\\nAlthough this may not give us opportunity to crush the communist menace once and for all, it would be an important ideological victory to show that they will not be allowed to expand further."
+  },
+  {
+    "key": "china.14.t",
+    "version": "",
+    "type": "title",
+    "en": "Defeat in [From.GetName]"
+  },
+  {
+    "key": "china.14.d",
+    "version": "",
+    "type": "desc",
+    "en": "Despite our efforts to push show that the communists will not be allowed to expand their influence outside of where they have currently taken refuge, we could not afford to commit enough resources to win the conflict along the [From.GetName] border.\\n\\nThe sporadic conflicts with communist militias slowly turned out more and more in their favor, which in the end made the campaign a failure in demonstrating that we have the situation under control. If their popular support keeps increasing, the communists could turn out to be a genuine threat."
+  },
+  {
+    "key": "china.15.t",
+    "version": "",
+    "type": "title",
+    "en": "Victory in [From.From.GetName]"
+  },
+  {
+    "key": "china.15.d",
+    "version": "",
+    "type": "desc",
+    "en": "After a number of smaller encounters in the outskirts of our controlled territory, the conflict with the Kuomintang appears to have turned to our advantage. Although maintaining constant pressure has been taxing on our troops and supplies, the effort has been worthwhile. \\n\\nNo decisive battles have been fought, we have won a slow victory this time, which has strengthened the faith in our cause and fanned the flames of the revolution once again."
+  },
+  {
+    "key": "china.16.t",
+    "version": "",
+    "type": "title",
+    "en": "Defeat in [From.GetName]"
+  },
+  {
+    "key": "china.16.d",
+    "version": "",
+    "type": "desc",
+    "en": "Our efforts to wage an indirect war against the increased Kuomintang presence has proven disastrous. The nationalists were simply more dedicated to pushing us back than we thought, perhaps expecting the impact this failure would have on our reputation. Although our army is once again safe to recover, for now, the losses have not gone unnoticed by the locals, and rumors of the failure of the revolution are already spreading to nearby villages."
+  },
+  {
+    "key": "china.17.t",
+    "version": "",
+    "type": "title",
+    "en": "Victory in [From.From.GetName]"
+  },
+  {
+    "key": "china.17.d",
+    "version": "",
+    "type": "desc",
+    "en": "Our efforts to draw the line against the threat of communism have been successful. The CPCs guerrilla campaigns in response to our increased troop presence in regions surrounding their power base failed to anticipate our dedication to stopping them. This show of strength, although not entirely without costs, has convinced many of the locals who previously gave their tacit support to [From.GetLeader] and his party have now begun to realize that China can never be united under such an ideology."
+  },
+  {
+    "key": "china.18.t",
+    "version": "",
+    "type": "title",
+    "en": "Clash with Nationalist Army"
+  },
+  {
+    "key": "china.18.d",
+    "version": "",
+    "type": "desc",
+    "en": "While we have still barely recovered from their previous offensive, the nationalists appear to be increasing their troop presence in the areas close to our border. Clearly, they are trying to show that they once again have us contained and that the Great March only delayed their final strike against the CPC. We cannot let the people think this is true."
+  },
+  {
+    "key": "china.100.t",
+    "version": "",
+    "type": "title",
+    "en": "China Comes Under Further Attack"
+  },
+  {
+    "key": "china.100.d",
+    "version": "",
+    "type": "desc",
+    "en": "Like a cat Japan advances and took Korea. They sought to humiliate us with their twenty-one demands, they occupy Manchuria and now they advance again. Well, no more, China will fight to her last to be free. In a speech to the people, [Root.GetLeader] appealed to all [Root.GetAdjective], that they stand together or face certain doom alone."
+  },
+  {
+    "key": "china.101.t",
+    "version": "",
+    "type": "title",
+    "en": "China Is Under Attack"
+  },
+  {
+    "key": "china.101.d",
+    "version": "",
+    "type": "desc",
+    "en": "It is time we stand together against our common foe, the Japanese. Let us lay aside petty squabbles and fight as a strong, united China!"
+  },
+  {
+    "key": "china.102.t",
+    "version": "",
+    "type": "title",
+    "en": "China Is Under Attack"
+  },
+  {
+    "key": "china.102.d",
+    "version": "",
+    "type": "desc",
+    "en": "With the Soviet Union occupied with the war against Germany we have been advised that they will no longer be able to provide the same amount of protection as they have done in the past. It will be in our best interests to gain the support of the KMT and join them in their war against Japan."
+  },
+  {
+    "key": "china.103.t",
+    "version": "",
+    "type": "title",
+    "en": "China Unites"
+  },
+  {
+    "key": "china.103.d",
+    "version": "",
+    "type": "desc",
+    "en": "[From.GetName] has chosen to join us in the fight against the Japanese. United we will drive the invader back."
+  },
+  {
+    "key": "china.104.t",
+    "version": "",
+    "type": "title",
+    "en": "China Is Under Attack"
+  },
+  {
+    "key": "china.104.d",
+    "version": "",
+    "type": "desc",
+    "en": "China is under attack. The warlords are putting aside their grievances to fight against the invading Japanese forces. This is an opportunity to advance the interests of the CPC, we can show the people of China that it is us and not the decadent KMT who are the true future for China. Should we join the fight as well and ensure that there is a future for China?"
+  },
+  {
+    "key": "china.105.t",
+    "version": "",
+    "type": "title",
+    "en": "China Unites"
+  },
+  {
+    "key": "china.105.d",
+    "version": "",
+    "type": "desc",
+    "en": "[From.GetName] wants us to join forces in the fight against Japan. They have already joined the [From.GetFactionName] and are ready to put aside old grievances to stand against the Japanese invasion."
+  },
+  {
+    "key": "china.106.t",
+    "version": "",
+    "type": "title",
+    "en": "China Unites"
+  },
+  {
+    "key": "china.106.d",
+    "version": "",
+    "type": "desc",
+    "en": "[From.GetName] has joined [Root.GetFactionName] and are ready to fight."
+  },
+  {
+    "key": "china.107.t",
+    "version": "",
+    "type": "title",
+    "en": "No Longer United"
+  },
+  {
+    "key": "china.107.d_PRC_joined",
+    "version": "",
+    "type": "desc",
+    "en": "[Root.GetFactionName] has served its purpose. There is no longer an enemy to stand united against. Mao Zedong is consolidating his hold over the territories in Northern China. However what hope will they have against our victorious armies."
+  },
+  {
+    "key": "china.107.d_PRC_refused",
+    "version": "",
+    "type": "desc",
+    "en": "With the end of the war the true patriots have triumphed. It is time to settle scores with those who hid while we bled."
+  },
+  {
+    "key": "china.108.t",
+    "version": "",
+    "type": "title",
+    "en": "Communism Advances"
+  },
+  {
+    "key": "china.108.d",
+    "version": "",
+    "type": "desc",
+    "en": "Our role in the struggle against the hated Japanese dogs has given much prestige to the CPC. More and more people are seeing that we are the future for China, especially in comparison to the corrupt Kuomintang. Party cadres are already organising these people into a new army that will swim the peasant sea."
+  },
+  {
+    "key": "china.109.t",
+    "version": "",
+    "type": "title",
+    "en": "Fight For China!"
+  },
+  {
+    "key": "china.109.d",
+    "version": "",
+    "type": "desc",
+    "en": "It is time to rid China of the sickness that is the Kuomintang. We will liberate every Chinese and have a united people under the wise leadership of Mao."
+  },
+  {
+    "key": "china.110.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetName] Declares War"
+  },
+  {
+    "key": "china.110.d",
+    "version": "",
+    "type": "desc",
+    "en": "[From.GetName] and the [From.GetLeader] cabinet has declared war on us."
+  },
+  {
+    "key": "china.111.t",
+    "version": "",
+    "type": "title",
+    "en": "No Longer United"
+  },
+  {
+    "key": "china.111.d",
+    "version": "",
+    "type": "desc",
+    "en": "[Root.GetFactionName] has served its purpose. There is no longer an enemy to stand united against. We have used the time wisely to build up our support across Northern China and Manchuria and now it is time to formalise our control in this region."
+  },
+  {
+    "key": "china.200.t",
+    "version": "",
+    "type": "title",
+    "en": "Joining the People's Republic of China"
+  },
+  {
+    "key": "china.200.d",
+    "version": "",
+    "type": "desc",
+    "en": "Having broken with the nationalist Kuomintang to liberate the people, we must now join forces with the existing People's Republic of China to avoid splintering the movement. The enemies of China have always relied on our infighting to weaken us; the new socialist state will not make such a mistake!"
+  },
+  {
+    "key": "china.201.t",
+    "version": "",
+    "type": "title",
+    "en": "Communist Revolters Join the Republic"
+  },
+  {
+    "key": "china.201.d",
+    "version": "",
+    "type": "desc",
+    "en": "Having broken free from nationalist control, Chinese revolutionaries who sympathize with our cause have made the decision to join their state with ours under the leadership of [Root.GetLeader]. Now and henceforth, there shall be one united People's Republic of China."
+  },
+  {
+    "key": "china.202.t",
+    "version": "",
+    "type": "title",
+    "en": "Communist uprisings in [CHI_communist_state.GetName]"
+  },
+  {
+    "key": "china.202.d",
+    "version": "",
+    "type": "desc",
+    "en": "The growing communist support in [CHI_communist_state.GetName] has come to a breaking point. Government facilities have been overrun and the rebels have declared that they no longer consider themselves a part of [Root.GetName]. We have effectively lost all control of [CHI_communist_state.GetName] to the communist regime."
+  },
+  {
+    "key": "china.203.t",
+    "version": "",
+    "type": "title",
+    "en": "Communist uprisings in [CHI_communist_state.GetName]"
+  },
+  {
+    "key": "china.203.d",
+    "version": "",
+    "type": "desc",
+    "en": "Having broken free from nationalist control, Chinese revolutionaries who sympathize with our cause have made the decision to join their state with ours under the leadership of [Root.GetLeader]. Now and henceforth, there shall be one united [Root.GetName]."
+  },
+  {
+    "key": "china.204.t",
+    "version": "",
+    "type": "title",
+    "en": "A [Root.GetAdjective] Capital"
+  },
+  {
+    "key": "china.204.d",
+    "version": "",
+    "type": "desc",
+    "en": "With the end of the Chinese Civil War, it is time for us to consolidate power in China and show the people that we are the modern incarnation of the Middle Kingdom. We are the state that will guide them into the future.\\n\\nTo this end, we should have a capital befitting our great state."
+  },
+  {
+    "key": "italy.9.t",
+    "version": "",
+    "type": "title",
+    "en": "Request Balearic Islands from Spain"
+  },
+  {
+    "key": "italy.9.d",
+    "version": "",
+    "type": "desc",
+    "en": "During the civil war, Italy offered volunteers to fight for the nationalist cause. Although ideological motivations were paramount, Italy also had a strategic stake in the outcome. The defense of the Balearic Islands, especially Majorca, was of special interest to Italy due to their position in the Mediterranean Sea, especially in relation to west European colonies.\\n\\nNow, [From.GetLeader] has suggested the islands to be transferred to Italian control permanently. Considering their contribution to our victory, there may be merits to the suggestions."
+  },
+  {
+    "key": "italy.10.t",
+    "version": "",
+    "type": "title",
+    "en": "Spain Gives Up Balearic Islands"
+  },
+  {
+    "key": "italy.10.d",
+    "version": "",
+    "type": "desc",
+    "en": "Thankful of our support and defense of the fascist cause during the Spanish Civil War, [From.GetLeader] has agreed to make our temporary military installations on Majorca, Minorca and Ibiza permanent. Although these islands with their important strategic position are a welcome addition to our empire, it seems the Spaniards now consider the debt repaid."
+  },
+  {
+    "key": "italy.11.t",
+    "version": "",
+    "type": "title",
+    "en": "Spain Refuses to Give Up Islands"
+  },
+  {
+    "key": "italy.11.d",
+    "version": "",
+    "type": "desc",
+    "en": "Despite the aid we gave them in the civil war, [From.GetLeader] has now refused to give us the Balearic Islands, which our countrymen fought to defend. Although they insist that they seek to maintain good relations with our nation, making us withdraw the military installations that kept these islands Spanish in the first place is a slight we won't forget."
+  },
+  {
+    "key": "italy.12.t",
+    "version": "",
+    "type": "title",
+    "en": "London Conference"
+  },
+  {
+    "key": "italy.12.d",
+    "version": "",
+    "type": "desc",
+    "en": "Our friends in Yugoslavia have come under pressure from our northern neighbor. The corrupt and decadent western powers have shown why they are fading away by failing to stand up for the rights of Yugoslavia. This could be exactly the opening for a younger, more dynamic power who has the right leadership to stride purposely upon the world stage! The Commando Supremo reports they are almost ready to unleash our invincible legions."
+  },
+  {
+    "key": "italy.13.t",
+    "version": "",
+    "type": "title",
+    "en": "First Ljubljana Award"
+  },
+  {
+    "key": "italy.13.d_dalmatia_montenegro",
+    "version": "",
+    "type": "desc",
+    "en": "As the Yugoslav state collapses under its own contradictions it is time for Italy to take her due. The fading powers in the West may be so afraid of Italy that they will deny her due but new powers are rising who see Italy's true worth. Not only have we secured what was denied to us in the Mutilated Victory but our protectorate of Albania has seen its territory grow too."
+  },
+  {
+    "key": "italy.13.d_montenegro",
+    "version": "",
+    "type": "desc",
+    "en": "Our decision to align with the rising power of Germany has paid off. The Yugoslav state is heading for dissolution and the German leadership has the foresight to see the benefits of Italian friendship. Montenegro will be passed to Albania as is only right"
+  },
+  {
+    "key": "italy.13.d_dalmatia",
+    "version": "",
+    "type": "desc",
+    "en": "After the betrayal of our former allies in the west at the Paris peace conference, where we were promised northern Dalmatia, we chose to align ourselves with Berlin. Germany has wisely judged that Italian friendship is too valuable to ignore and our claims in Yugoslavia are to be recognized. The Adriatic will be an Italian lake and justice will be done."
+  },
+  {
+    "key": "italy.14.t",
+    "version": "",
+    "type": "title",
+    "en": "Germany Thwarts our Demands"
+  },
+  {
+    "key": "italy.14.d",
+    "version": "",
+    "type": "desc",
+    "en": "Germany has seen fit to thwart our modest, fair and reasonable demands for Vichy territory. Should we leave [From.GetFactionName]?"
+  },
+  {
+    "key": "italy.15.t",
+    "version": "",
+    "type": "title",
+    "en": "Germany Supports our Demands"
+  },
+  {
+    "key": "italy.15.d",
+    "version": "",
+    "type": "desc",
+    "en": "Germany has seen the wisdom of supporting our demands for Vichy territory. Vichy has surrendered Savoy and Corsica to us."
+  },
+  {
+    "key": "italy.15.d_Corsica",
+    "version": "",
+    "type": "desc",
+    "en": "With a small amount of Germany support Vichy has surrendered Corsica to us"
+  },
+  {
+    "key": "italy.16.t",
+    "version": "",
+    "type": "title",
+    "en": "Germany Almost Supports Us"
+  },
+  {
+    "key": "italy.16.d",
+    "version": "",
+    "type": "desc",
+    "en": "Germany has seen fit to meddle in our dispute with Vichy France. They have blocked our attempt to gain Corsica but we still have Savoy."
+  },
+  {
+    "key": "france.1.t",
+    "version": "",
+    "type": "title",
+    "en": "Japan Demands Indochina"
+  },
+  {
+    "key": "france.1.d",
+    "version": "",
+    "type": "desc",
+    "en": "Japanese forces are positioned along the borders of our colony in Indochina, and they are demanding total access to our bases and facilities! If we agree to their request, we are effectively signing over control of Indochina to them. On the other hand, we don't exactly have the means to fight them on this issue."
+  },
+  {
+    "key": "france.2.t",
+    "version": "",
+    "type": "title",
+    "en": "Extension of the Maginot Line"
+  },
+  {
+    "key": "france.2.d",
+    "version": "",
+    "type": "desc",
+    "en": "Plans for the extension of the Maginot Line all the way to the English Channel have been finished, and construction orders placed. The Belgians have lodged an official protest after seeing our preparations from across the border, but work continues."
+  },
+  {
+    "key": "france.3.t",
+    "version": "",
+    "type": "title",
+    "en": "Extension of the Alpine Line"
+  },
+  {
+    "key": "france.3.d",
+    "version": "",
+    "type": "desc",
+    "en": "We have begun work on improving the fortifications of the Alpine Line. When these new defenses are finished, the Italians would have to be mad to cross the border!"
+  },
+  {
+    "key": "france.10.t",
+    "version": "",
+    "type": "title",
+    "en": "Defeat"
+  },
+  {
+    "key": "france.10.d",
+    "version": "",
+    "type": "desc",
+    "en": "The battle is lost. Paris has fallen into German hands, and it is only a matter of time before the rest of the country is occupied. We must now think to the future. Elements within the government want an armistice with Germany, but many officers wish to continue the struggle from Britain.\\n\\nCertain members of the British War Cabinet have suggested another option - a merger of France and Great Britain into a single nation, which will fight on until all of France has been liberated."
+  },
+  {
+    "key": "france.11.t",
+    "version": "",
+    "type": "title",
+    "en": "France Proposes Union"
+  },
+  {
+    "key": "france.11.d",
+    "version": "",
+    "type": "desc",
+    "en": "The situation in France is dire. Many in their government wish to seek an armistice with Germany, but some have responded favorably to a suggestion by members of the British War Cabinet to merge our two nations into one. This Franco-British Union will continue the fight against the Germans until victory is achieved. How should we respond?"
+  },
+  {
+    "key": "france.12.t",
+    "version": "",
+    "type": "title",
+    "en": "Britain Agrees to Union"
+  },
+  {
+    "key": "france.12.d",
+    "version": "",
+    "type": "desc",
+    "en": "Britain has agreed to merge our two nations into one. Even now, a new joint government is being formed in London."
+  },
+  {
+    "key": "france.13.t",
+    "version": "",
+    "type": "title",
+    "en": "Britain Refuses Union"
+  },
+  {
+    "key": "france.13.d",
+    "version": "",
+    "type": "desc",
+    "en": "The British government has dismissed any possibility of merging our two nations into one. An armistice with Germany at this point is inevitable."
+  },
+  {
+    "key": "france.14.t",
+    "version": "",
+    "type": "title",
+    "en": "Triumph in France"
+  },
+  {
+    "key": "france.14.d",
+    "version": "",
+    "type": "desc",
+    "en": "Our victory in France is nearly complete. The French government has asked for an armistice, and our diplomats have prepared terms which they have agreed to. They will retain control of southern France, while we are free to occupy the rest."
+  },
+  {
+    "key": "france.15.t",
+    "version": "",
+    "type": "title",
+    "en": "Germany Refuses Armistice!"
+  },
+  {
+    "key": "france.15.d",
+    "version": "",
+    "type": "desc",
+    "en": "The Germans have refused our request for an armistice! They are evidently seeking to enslave us all... we have no choice but to fight to the last!"
+  },
+  {
+    "key": "france.16.t",
+    "version": "",
+    "type": "title",
+    "en": "Stay Together, Stay Strong!"
+  },
+  {
+    "key": "france.16.d",
+    "version": "",
+    "type": "desc",
+    "en": "As recent events in Paris had an impact on most of us, it is more important than ever that we come together as a nation. We must look at the state our country and not accept, but change the outcome of this war. \\n\\nForget the past and look to new horizons. We don't know what to expect these following months, but we will face it together!"
+  },
+  {
+    "key": "france.17.t",
+    "version": "",
+    "type": "title",
+    "en": "Invitation to French Faction"
+  },
+  {
+    "key": "france.17.d",
+    "version": "",
+    "type": "desc",
+    "en": "In an effort to strengthen the Little Entente - Czechoslovakia, Yugoslavia and Romania - and contain the possible resurgence of aggressive expansionism on part of the old Central Powers, France has requested that we join them in an alliance aiming to bring these nations together."
+  },
+  {
+    "key": "france.18.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetName] Joins French Faction"
+  },
+  {
+    "key": "france.18.d",
+    "version": "",
+    "type": "desc",
+    "en": "Our plan to stop the Little Entente alliance from falling apart and away from us is making progress. [From.GetLeader] approves of our efforts and has accepted our invitation to an alliance."
+  },
+  {
+    "key": "france.19.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetName] Refuses French Alliance"
+  },
+  {
+    "key": "france.19.d",
+    "version": "",
+    "type": "desc",
+    "en": "Despite our best efforts to offer support to the Little Entente, our most recent attempt to reach out to one of the nations has been met with skepticism. [From.GetLeader] has refused to join the alliance, perhaps doubting our motives, or perhaps being concerned that aligning too closely with us would make them a target."
+  },
+  {
+    "key": "france.20.t",
+    "version": "",
+    "type": "title",
+    "en": "Resistance to the armistice"
+  },
+  {
+    "key": "france.20.d",
+    "version": "",
+    "type": "desc",
+    "en": "In the wake of the French armistice with Germany and establishment of a new government in Vichy France, a group of senior officers have rebelled against the new French government. Charles de Gaulle delivered a radio broadcast urging resistance against the collaborationist Vichy regime. De Gaulle effectively assumes leadership of the Free French Forces and continues the fight against the Germans."
+  },
+  {
+    "key": "france.21.t",
+    "version": "",
+    "type": "title",
+    "en": "Workers threaten with strikes"
+  },
+  {
+    "key": "france.21.d",
+    "version": "",
+    "type": "desc",
+    "en": "Following the sacking of two workers at a large factory, struggles between workers and factory owners have erupted across the country. Workers backed by [Root.GetCommunistParty] have organized and are demanding better conditions, such as higher wages and shorter work weeks. This will greatly reduce the output of our factories and is viewed as a victory for [Root.GetCommunistParty]. We are invited to Matignon for negotiations. Do we give in to their demands or stand firm and risk a countrywide strike?"
+  },
+  {
+    "key": "france.22.t",
+    "version": "",
+    "type": "title",
+    "en": "Revisit Matignon Agreements"
+  },
+  {
+    "key": "france.22.d",
+    "version": "",
+    "type": "desc",
+    "en": "With the recently signed Matignon agreements our industry have no way of competing with the German. We are falling behind in production capacity with each passing day. Some factory owners have already started renegotiating some of the rights that were granted at the Matignon Agreements, with little to no resistance from the workers. We have an opportunity to officially revoke the newly gained worker rights countrywide, but risk them rallying behind [Root.GetCommunistParty] once again, in hopes that they will back another strike. Letting the workers keep their rights and focusing on optimizing the current workflow may help reunite the French people and let us grow together."
+  },
+  {
+    "key": "france.23.t",
+    "version": "",
+    "type": "title",
+    "en": "Strikes Are Over"
+  },
+  {
+    "key": "france.23.d",
+    "version": "",
+    "type": "desc",
+    "en": "Most workers have now realized that their unreasonable demands will not be met. Their children go hungry and even though [Root.GetCommunistParty] are urging them to continue the strike, they do not possess the resources to continue. With each passing day workers are caving and return to the factories. Our industry will be back to full capacity and it is unlikely we will have strikes anytime soon."
+  },
+  {
+    "key": "france.24.t",
+    "version": "",
+    "type": "title",
+    "en": "The Communist Threat"
+  },
+  {
+    "key": "france.24.d",
+    "version": "",
+    "type": "desc",
+    "en": "The threat that a united Germany and Soviet pose is too great to be ignored. After the two countries agreement for the partition of Poland we have a difficult choice to make. If we let [Root.GetCommunistParty] operate as they have so far we open ourselves to internal struggle as the Soviet grow in power. By proscribing any communist activities or affiliation with [Root.GetCommunistParty] we send a powerful signal to all citizens that we will not tolerate anyone who pose a threat to peace. \\nTraditionally we have been able to include [Root.GetCommunistParty] in political discussions, but as they refuse to renounce their allegiance to Moscow it may be time to take drastic measures."
+  },
+  {
+    "key": "france.25.t",
+    "version": "",
+    "type": "title",
+    "en": "London Conference"
+  },
+  {
+    "key": "france.25.d",
+    "version": "",
+    "type": "desc",
+    "en": "With the regime in Berlin ratcheting up the tension over the border between them and Yugoslavia, the British have chosen to give way. However, Yugoslavia is one of the three pillars on which the Eastern European settlement is built. If it weakens then France's security will suffer. Should prove that we are the greater power and risk fighting alone?"
+  },
+  {
+    "key": "france.26.t",
+    "version": "",
+    "type": "title",
+    "en": "London Conference"
+  },
+  {
+    "key": "france.26.d",
+    "version": "",
+    "type": "desc",
+    "en": "With the regime in Berlin ratcheting up the tension over the border between them and Yugoslavia, the British have made the decision to stand against German aggression. Yet the wounds of the last war are not yet healed and our country is deeply divided, are we strong enough to go it alone?"
+  },
+  {
+    "key": "france.27.t",
+    "version": "",
+    "type": "title",
+    "en": "Germany Backs Italian Demands"
+  },
+  {
+    "key": "france.27.d_1_state",
+    "version": "",
+    "type": "desc",
+    "en": "Germany has acceded to Italian demands for our territory. After our defeat we are really in no condition to contest it."
+  },
+  {
+    "key": "france.27.d_both",
+    "version": "",
+    "type": "desc",
+    "en": "Italy is to be given both Savoy and Corsica. This decision from Germany has caused worry in the colonial governors wondering who will be next. The governor of Syria has not waited to find out and has defected to Free France."
+  },
+  {
+    "key": "france.28.t",
+    "version": "",
+    "type": "title",
+    "en": "Syria Defects"
+  },
+  {
+    "key": "france.28.d",
+    "version": "",
+    "type": "desc",
+    "en": "Following the German decision to grant Vichy lands to Italy the Syrian administration has chosen to join our side."
+  },
+  {
+    "key": "france.29.t",
+    "version": "",
+    "type": "title",
+    "en": "Britain accepts ally request"
+  },
+  {
+    "key": "france.29.d",
+    "version": "",
+    "type": "desc",
+    "en": "'History has shown how much can be accomplished when our great nations stand side by side. In the spirit of the Entente Cordiale, we are proud to welcome you not only as friends, but as Allies. Together we will be a shining beacon of liberty in a world encroached by the darkness of oppression!'\\n\\nOur request to join Britain as Allies has been accepted. We can count on their full support in the turbulent times ahead."
+  },
+  {
+    "key": "france.30.t",
+    "version": "",
+    "type": "title",
+    "en": "Britain denies ally request"
+  },
+  {
+    "key": "france.30.d",
+    "version": "",
+    "type": "desc",
+    "en": "'While we have enjoyed good relations in the past, we cannot risk an escalation of the conflicts across the channel. Germany has earned our trust in the honoring of our Naval Pact, and while we will defend ourselves should the fires spread we will not risk fanning the flames. Peace must always be the goal of any democratic nation.'\\n\\nOur request to join Britain as Allies has been denied. The British government is unwilling to antagonize Germany further, and will not jeopardize the current peace."
+  },
+  {
+    "key": "france.33.title",
+    "version": "",
+    "type": "title",
+    "en": "French Liberation"
+  },
+  {
+    "key": "france.33.desc",
+    "version": "",
+    "type": "desc",
+    "en": "With the end of the war, the need to maintain a close union with the French nation is also passing. French political parties are increasingly calling for the establishment of a provisional government and a general election."
+  },
+  {
+    "key": "france.34.title",
+    "version": "",
+    "type": "title",
+    "en": "Franco-British Union Ends"
+  },
+  {
+    "key": "france.34.desc",
+    "version": "",
+    "type": "desc",
+    "en": "With Britain at peace, [From.GetLeader] has agreed to the requests by French political parties for the restoration of a provisional French government. Their political integration has been halted, but no doubt the nations will continue to be close friends in the future."
+  },
+  {
+    "key": "japan.1.d",
+    "version": "",
+    "type": "desc",
+    "en": "Chinese authorities claim that the 'breaking point' has been reached in regards to our 'unwarranted aggressions' towards China! Our demands for reparations have been refused, and there are reports of Japanese nationals coming under attack in Shanghai. If we needed an excuse to deal decisively with the Chinese, this is it!"
+  },
+  {
+    "key": "japan.2.d",
+    "version": "",
+    "type": "desc",
+    "en": "Surprisingly, the Chinese have chosen to back down following the skirmish at the Marco Polo Bridge. They understand that angering us carries a steep price, and have agreed to extensive territorial concessions that include Beijing and its surrounding regions. Little by little, China is becoming ours."
+  },
+  {
+    "key": "japan.3.t",
+    "version": "",
+    "type": "title",
+    "en": "Border Skirmish: Soviet Victory"
+  },
+  {
+    "key": "japan.3.d",
+    "version": "",
+    "type": "desc",
+    "en": "The Russians and their Mongolian lap dogs detected the build-up of our troops in Heilungkiang, and responded with a large raid across the border before our preparations had been completed! Our forces were badly mauled in the intense skirmishing that followed before the two sides disengaged."
+  },
+  {
+    "key": "japan.4.t",
+    "version": "",
+    "type": "title",
+    "en": "Border Skirmish: Japanese Victory"
+  },
+  {
+    "key": "japan.4.d",
+    "version": "",
+    "type": "desc",
+    "en": "The Russians and their Mongolian lap dogs detected the build-up of our troops in Heilungkiang, and attempt to launch a large raid across the border to disrupt our preparations! Fortunately, our quick-thinking commanders caught their forces in a pincer movement. We inflicted severe losses on their forces before they fled back across the border."
+  },
+  {
+    "key": "japan.5.t",
+    "version": "",
+    "type": "title",
+    "en": "Soviet Withdrawal"
+  },
+  {
+    "key": "japan.5.d",
+    "version": "",
+    "type": "desc",
+    "en": "After detecting our troop build-up, the Soviets wisely chose to withdraw their forces from the areas immediately adjacent to the Manchurian border. Our soldiers have temporarily occupied several of their abandoned border outposts. This will hopefully put an end to the ludicrous border claims the Russians and their Mongolian allies have been putting forward."
+  },
+  {
+    "key": "japan.6.t",
+    "version": "",
+    "type": "title",
+    "en": "The French Accept Our Demands"
+  },
+  {
+    "key": "japan.6.d",
+    "version": "",
+    "type": "desc",
+    "en": "The French have agreed to our demands, and their bases and facilities in Indochina are at our complete disposal. They have effectively turned over full control of their colony to us."
+  },
+  {
+    "key": "japan.7.t",
+    "version": "",
+    "type": "title",
+    "en": "The French Refuse Our Demands"
+  },
+  {
+    "key": "japan.7.d",
+    "version": "",
+    "type": "desc",
+    "en": "The French have outrageously refused our demands! It seems that if we want Indochina, we'll have to take it by force!"
+  },
+  {
+    "key": "japan.8.t",
+    "version": "",
+    "type": "title",
+    "en": "Germany Recalls Advisors"
+  },
+  {
+    "key": "japan.8.d",
+    "version": "",
+    "type": "desc",
+    "en": "The Germans have agreed to recall all of their advisors from China. They should be boarding planes bound for Berlin even now. Germany recognizes that the future of Greater East Asia belongs to Japan, not China."
+  },
+  {
+    "key": "japan.9.t",
+    "version": "",
+    "type": "title",
+    "en": "Germany Refuses Our Request"
+  },
+  {
+    "key": "japan.9.d",
+    "version": "",
+    "type": "desc",
+    "en": "The Germans have refused to recall their advisors from China, despite the fact that their military mission interferes directly with our plans for East Asia! Do they not see that this erodes the foundation for our nations to build diplomacy on? Can the Germans even be trusted?"
+  },
+  {
+    "key": "japan.11.t",
+    "version": "",
+    "type": "title",
+    "en": "Issue Ultimatum to Siam"
+  },
+  {
+    "key": "japan.11.d",
+    "version": "",
+    "type": "desc",
+    "en": "Amassing troops in Indochina, close to the Siamese border, we have made it clear that our intent to use their land as a base for freeing Southeast Asia from European colonialism is sincere. Hopefully, by allowing them the option of joining us in a military alliance, effectively making Siam a puppet state of the Japanese Empire, we can avoid a meaninglessly one-sided invasion. Of course, if they reject it, this will be tantamount to a declaration of war."
+  },
+  {
+    "key": "japan.12.t",
+    "version": "",
+    "type": "title",
+    "en": "Japan Issues Ultimatum"
+  },
+  {
+    "key": "japan.12.d",
+    "version": "",
+    "type": "desc",
+    "en": "Japan has been gathering forces close to our border for a long time and as suspected, their plan is to use our ports as bases for further expansion into Burma and Malaya. Now, they have presented us with the choices of submitting and allowing them to pass through or facing invasion.\\n\\nAlthough this could be seen as giving up our sovereignty and turning us into a Japanese puppet state, avoiding a war may be in our best interest."
+  },
+  {
+    "key": "japan.13.t",
+    "version": "",
+    "type": "title",
+    "en": "Siam Accepts Ultimatum"
+  },
+  {
+    "key": "japan.13.d",
+    "version": "",
+    "type": "desc",
+    "en": "[From.GetLeader] has wisely decided to accept our ultimatum and forge a military alliance between our nations. Effectively, we will be able to use Siam as a base for future operations in the Pacific."
+  },
+  {
+    "key": "japan.14.t",
+    "version": "",
+    "type": "title",
+    "en": "Siam Rejects Ultimatum"
+  },
+  {
+    "key": "japan.14.d",
+    "version": "",
+    "type": "desc",
+    "en": "[From.GetLeader] has rejected our demands to enter Siam and our offer of a military alliance. Having announced our intent to enter regardless, this means war."
+  },
+  {
+    "key": "italy.1.t",
+    "version": "",
+    "type": "title",
+    "en": "Albania Yields"
+  },
+  {
+    "key": "italy.1.d",
+    "version": "",
+    "type": "desc",
+    "en": "The Albanian authorities have agreed to our demands, and [ALB.GetLeader] has been forced to resign. From now and until the end of time, Albania shall be Italian!"
+  },
+  {
+    "key": "italy.2.t",
+    "version": "",
+    "type": "title",
+    "en": "Zog Rejects the Ultimatum"
+  },
+  {
+    "key": "italy.2.d",
+    "version": "",
+    "type": "desc",
+    "en": "Defiant to the last, King Zog has rejected our ultimatum. He and his advisors are now trying to scrape together whatever pitiful defenses Albania can muster. We must occupy Tirana and put an end to this farce!"
+  },
+  {
+    "key": "italy.3.t",
+    "version": "",
+    "type": "title",
+    "en": "Italian Ultimatum"
+  },
+  {
+    "key": "italy.3.d",
+    "version": "",
+    "type": "desc",
+    "en": "Italian diplomats have presented an ultimatum to us demanding that we submit to their occupation! Albania is to be ruled in a personal union under the Italian king!"
+  },
+  {
+    "key": "italy.4.t",
+    "version": "",
+    "type": "title",
+    "en": "Extension of the Vallo Alpino"
+  },
+  {
+    "key": "italy.4.d",
+    "version": "",
+    "type": "desc",
+    "en": "Engineers from the Regio Esercito have studied our northern frontier and identified the locations where the Vallo Alpino needs to be strengthened and expanded. The necessary build orders have already been issued."
+  },
+  {
+    "key": "italy.5.t",
+    "version": "",
+    "type": "title",
+    "en": "Italian-German Technology Treaty"
+  },
+  {
+    "key": "italy.5.d",
+    "version": "",
+    "type": "desc",
+    "en": "[FROM.GetNameDefCap] suggest an exchange of technology and ideas that will bring our nations closer and make us both stronger."
+  },
+  {
+    "key": "italy.6.t",
+    "version": "",
+    "type": "title",
+    "en": "Italian-German Technology Treaty - Accepted!"
+  },
+  {
+    "key": "italy.6.d",
+    "version": "",
+    "type": "desc",
+    "en": "As we expected, the Germans were delighted to draw up a series of exchanges for technology. It's clear that new winds are blowing in Europe and Italy is now a step closer to reclaiming its former glory!"
+  },
+  {
+    "key": "italy.7.t",
+    "version": "",
+    "type": "title",
+    "en": "Italian-German Technology Treaty - Rejected!"
+  },
+  {
+    "key": "italy.7.d",
+    "version": "",
+    "type": "desc",
+    "en": "The Germans have rejected our offer of a treaty."
+  },
+  {
+    "key": "italy.8.t",
+    "version": "",
+    "type": "title",
+    "en": "Join the French faction."
+  },
+  {
+    "key": "italy.8.d",
+    "version": "",
+    "type": "desc",
+    "en": "Mouvement Franciste is gaining ground in France and has asked us to join their faction. Does this further the interests of Italy?"
+  },
+  {
+    "key": "political.1.t",
+    "version": "",
+    "type": "title",
+    "en": "Communism on the Rise"
+  },
+  {
+    "key": "political.1.d",
+    "version": "",
+    "type": "desc",
+    "en": "'While workers rise up against their oppressors around the world, those who claim to have achieved class consciousness in [Root.GetName] sit idly by and wait for change to come from within a political system so thoroughly corrupt, only revolution could save us from it!'\\n\\nSo speak new voices in the [Root.GetAdjective] communist movement. Referring to the rule of [Root.GetRulingParty] as a dictatorship of the bourgeois, they have begun calling for it to be brought out of power by any means necessary. Whether those means will come from within or without remains to be seen."
+  },
+  {
+    "key": "political.2.t",
+    "version": "",
+    "type": "title",
+    "en": "Marxist Sympathies in Government"
+  },
+  {
+    "key": "political.2.d",
+    "version": "",
+    "type": "desc",
+    "en": "Although the party line of the [Root.GetRulingParty] is to strongly oppose revolutionary socialism, keeping a watchful eye on the nation's radical left-wing elements, some people in government are more open to the possibility. If nothing else, they see room for addressing the concerns of the people who look to communists for solutions without risking a full-scale civil war.\\n\\nAlthough they may be seen as traitors by those who remain loyal to [Root.GetLeader], these dissident voices may be the ones to ensure a relatively bloodless transition should the revolution come."
+  },
+  {
+    "key": "political.3.t",
+    "version": "",
+    "type": "title",
+    "en": "Communists Execute Coup"
+  },
+  {
+    "key": "political.3.d",
+    "version": "",
+    "type": "desc",
+    "en": "While the popular movement for communist revolution has been loud and terrifying, a certain section of the political movement has been largely quiet and waiting. The wait is now over. Today, just as the [Root.GetRulingParty] leadership and army were bracing for a revolt on national scale, a number of officials in the [Root.GetAdjective] government swiftly placed [Root.GetLeader] under house arrest and entered negotiations with the rebels.\\n\\nWhile retaining a pretense of safeguarding order, what the negotiations effectively amounted to was to secure positions within the new socialist state for those who chose to cooperate. The coup was finished before anyone could move to stop it, and those who would have are now imprisoned, exiled or executed by the new regime."
+  },
+  {
+    "key": "political.4.t",
+    "version": "",
+    "type": "title",
+    "en": "Class Conflicts Divide [Root.GetName]"
+  },
+  {
+    "key": "political.4.d",
+    "version": "",
+    "type": "desc",
+    "en": "The communist revolutionary movement, once a fringe popular among radical academics in theory and troublemakers in practice, has seen increased support among the [Root.GetAdjective] working class. The fact that even more people choose to identify themselves with a 'class' at all implies that Marxist ideas are spreading beyond those who actively seek to overthrow the government.\\n\\n[Root.GetRulingParty] members lament this development, longing for a time when '[Root.GetAdjective]' was what people identified as first and foremost. Their concerns are not unfounded. It could be argued that a revolution is already underway, occurring on several levels of society, and it may be too late to stop it."
+  },
+  {
+    "key": "political.5.t",
+    "version": "",
+    "type": "title",
+    "en": "Soldiers Desert to Communist Partisans"
+  },
+  {
+    "key": "political.5.d",
+    "version": "",
+    "type": "desc",
+    "en": "'Capitalists and nationalists would have you spill your blood for them on the front lines, turning brother against brother over disputes that do not concern the working man! Instead of taking up arms against workers who struggle abroad, raise them against the oppressors and overthrow the tyrants!'\\n\\nThe army, usually a bastion of patriotism and loyalty, has proven not to be immune to the communist propaganda spreading rapidly in [Root.GetName]. Soldiers are deserting, refusing to fight for their country, sometimes going as far as joining partisan movements that claim to be preparing for revolution."
+  },
+  {
+    "key": "political.6.t",
+    "version": "",
+    "type": "title",
+    "en": "The [GetMonth] Revolution"
+  },
+  {
+    "key": "political.6.d",
+    "version": "",
+    "type": "desc",
+    "en": "The notion that the communist movement represents the people has certainly gotten wind in its sails in [Root.GetName], where the public support for the communist party has increased rapidly in the past months. But those who call for revolution are no longer a disparate collection of guerrillas and disgruntled labor unions. The group behind the call for revolt is organized enough to form a government if they succeed.\\n\\nNevertheless, if the revolution started now, it could hardly be executed without launching [Root.GetName] into civil war. Should the revolutionaries risk tearing the nation in two to satisfy their impatience, or wait for a better opportunity in the future?"
+  },
+  {
+    "key": "political.7.t",
+    "version": "",
+    "type": "title",
+    "en": "Fascism on the Rise"
+  },
+  {
+    "key": "political.7.d",
+    "version": "",
+    "type": "desc",
+    "en": "'The [Root.GetAdjective] people have been subjected too long to the incompetent rule of [Root.GetRulingParty]! They claim to represent the people, but fail to even keep our streets in order! Only by removing them from power can we make this nation grow!'\\n\\nThe fascist speakers in [Root.GetName] have made no secret of what they think of our current rulership and political system. Speeches like these have tapped into a public dissent that is particularly pronounced in the more conservative sections of the military."
+  },
+  {
+    "key": "political.8.t",
+    "version": "",
+    "type": "title",
+    "en": "Fascist Sympathies in the Military"
+  },
+  {
+    "key": "political.8.d",
+    "version": "",
+    "type": "desc",
+    "en": "Several high-ranking members of the [Root.GetAdjective] military have expressed support, some privately and some openly, for the Fascist movement in [Root.GetName]. They feel the [Root.GetRulingParty] has forgotten how important force of arms is to keeping the country together, and are increasingly annoyed by the army being treated by the government as more of a tool than a one of the nation's most important institutions. Some of them go as far as to suggest that a new government is needed, one that knows how to lead [Root.GetName] into the next half of the century.\\n\\nThis faction may not predominantly be politicians, but some of them have gained positions in the department of defense. If these developments continue, they may have sufficient political support to execute a coup."
+  },
+  {
+    "key": "political.9.t",
+    "version": "",
+    "type": "title",
+    "en": "Fascist Coup d'état"
+  },
+  {
+    "key": "political.9.d",
+    "version": "",
+    "type": "desc",
+    "en": "Some will say they saw it coming. Both those who warned against the dangers of fascism and those who extolled it as the savior of [Root.GetName] have found their prophecies made reality today, as the military in [Root.Capital.GetName] overthrew the [Root.GetRulingParty]-led government and seized power. [Root.GetLeader] is missing, rumored to have gone into exile, and the coup has been met with little initial resistance.\\n\\nThe new [Root.GetAdjective] leadership has no plans to allow resistance to grow, either. Martial law has been declared and with the changes that are underway, whatever comes after is unlikely to be very different."
+  },
+  {
+    "key": "political.10.t",
+    "version": "",
+    "type": "title",
+    "en": "Civil War for Fascism"
+  },
+  {
+    "key": "political.10.d",
+    "version": "",
+    "type": "desc",
+    "en": "While the attempts of the fascist movement to revive nationalistic sentiment have seen some success, the resistance against these ideas remains high. The generals plotting to overthrow the current administration are disappointed in the lack of confidence the [Root.GetAdjective] population themselves seem to have in [Root.GetFascistParty].\\n\\nThey remain certain that the people will eventually tire of [Root.GetLeader], but are divided on what course of action to take. Some call for a coup to be executed now, before [Root.GetName]'s enemies take action. However, doing so while public support is limited would plunge the nation into civil war."
+  },
+  {
+    "key": "political.11.t",
+    "version": "",
+    "type": "title",
+    "en": "Fascist Assault Divisions Form"
+  },
+  {
+    "key": "political.11.d",
+    "version": "",
+    "type": "desc",
+    "en": "The political and the martial have always been intertwined in fascism. In parallel with its growing political movement, fascist parties have begun to form paramilitary organizations to protect against both internal and external threats, the internal threats being their political opponents. Although many people find this development worrying, the wave of militaristic furor has led to an increased amount of volunteers joining our armed forces.\\n\\nThe political leaders of the movement have pointed out that their opponents have reason to be afraid. Having the army permeated on several levels by so explicitly political elements, the enemies of [Root.GetName] and the enemies of fascism are beginning to look very much alike."
+  },
+  {
+    "key": "political.12.t",
+    "version": "",
+    "type": "title",
+    "en": "The Threat of Communism"
+  },
+  {
+    "key": "political.12.d",
+    "version": "",
+    "type": "desc",
+    "en": "'[Root.GetLeader] would have you believe [Root.GetName] stands safe and united. It is no surprise such lies have poisoned the minds of our people, when a snake is coiled up next door! Look no further than across our border to see countrymen having turned on each other in the name of communism, declaring the end of nations. How long until they declare our nation dead as well? Will the [Root.GetRulingParty] protect us from this threat?'\\n\\nThe growth of the fascist movement in [Root.GetName] has been bolstered by the proximity of the communist revolution. Many moderates who might normally dismiss fascism as another misguided ideological experiment find this to be a very real concern for them as well. Given the choice between the communism of our neighbors and a fascist regime, they would admittedly prefer the latter. They might even be willing to actively support it."
+  },
+  {
+    "key": "political.13.t",
+    "version": "",
+    "type": "title",
+    "en": "Move Towards Democracy"
+  },
+  {
+    "key": "political.13.d",
+    "version": "",
+    "type": "desc",
+    "en": "'If we silence the voices of the people, how can any of us claim to be the voice of [Root.GetName] ourselves? If we fear dissent, if we fear being publicly denounced or ousted by public vote, what we truly fear is that we are hated and reviled by our own citizens. Does the [Root.GetRulingParty] really have so little confidence in its principles?'\\n\\nA careful and loosely organized, but passionate faction in the government has begun to push for less repressive policies against enemies of the state. They want the public involved in decision-making through referendums and local party meetings, even if this means risking the future of the current agenda."
+  },
+  {
+    "key": "political.14.t",
+    "version": "",
+    "type": "title",
+    "en": "[Root.GetRulingParty] Debates Democracy"
+  },
+  {
+    "key": "political.14.d",
+    "version": "",
+    "type": "desc",
+    "en": "Surprisingly, the call for more referendums and less repressive measures against opponents of the regime has received some support in internal party discussions. While [Root.GetRulingParty] leadership remains skeptical, several influential members have supported a shift.\\n\\nPerhaps they have confidence that little will change in practice, or perhaps they are secretly traitors to the party cause, as many of their opponents would have it. Regardless, if the public call for such changes should come, some of the leaders of [Root.GetName] are ready to compromise."
+  },
+  {
+    "key": "political.15.t",
+    "version": "",
+    "type": "title",
+    "en": "Democratic Opposition Forming"
+  },
+  {
+    "key": "political.15.d",
+    "version": "",
+    "type": "desc",
+    "en": "Relaxing the restrictions on what sort of anti-[Root.GetRulingParty] propaganda can be spread publicly has, predictably, lead to an increase in public expressions of dissent. Organized demonstrations and pamphlets are so far found mostly in academic institutions and some of [Root.GetName]'s more unfortunate areas, but there is little doubt that the movement is spreading.\\n\\nThe nation's leaders are torn over the issue. [Root.GetLeader], who maintains an iron grip on party leadership, has little desire to diversify public debate. The first steps have already been taken, however, and there may be no turning back."
+  },
+  {
+    "key": "political.16.t",
+    "version": "",
+    "type": "title",
+    "en": "Public Call for Elections"
+  },
+  {
+    "key": "political.16.d",
+    "version": "",
+    "type": "desc",
+    "en": "The demonstrations of public dissent which were once confined to limited areas are now widespread. While people gather in the streets, the [Root.GetRulingParty] finds itself at a crossroads. If we continue allowing this propaganda to spread, the referendums suggested both from within the party itself as well as the opposition may show that we do not have the support of the public. The unity we have strived for is giving way to a plurality of opinions, united against us."
+  },
+  {
+    "key": "political.17.t",
+    "version": "",
+    "type": "title",
+    "en": "Public Election in [Root.GetName]"
+  },
+  {
+    "key": "political.17.d",
+    "version": "",
+    "type": "desc",
+    "en": "As freedom of expression and assembly have grown to become increasingly accepted in [Root.GetName], the faction within the [Root.GetRulingParty] calling for holding elections has gone from secret conspirators to publicly supported reformers. Despite [Root.GetLeader]'s protests, the country has been making a slow but steady move towards democracy for the past months and an election now seems like the natural next step.\\n\\nHowever, far from all [Root.GetAdjective] citizens are in favor of democratic reforms. There is still debate within the party regarding whether to wait holding the election until we can ensure a stable development."
+  },
+  {
+    "key": "political.18.t",
+    "version": "",
+    "type": "title",
+    "en": "Fascists Demand Referendum"
+  },
+  {
+    "key": "political.18.d",
+    "version": "",
+    "type": "desc",
+    "en": "The rapidly growing [Root.GetAdjective] fascist movement has never claimed that they need majority support before they seize power, counting on uniting the nation under their leadership once their rule is established. However, it seems their public support has grown rapidly. Many fascists are now calling [Root.GetLeader] a hypocrite, claiming to represent the wishes of the people while in reality turning a deaf ear to the masses.\\n\\nThe call for a referendum has been dismissed as typical attempts at disrupting the system by [Root.GetRulingParty] members so far, but at least it's a political measure. If we do not act now, the fascists may choose the violent struggle as a better path to power."
+  },
+  {
+    "key": "political.19.t",
+    "version": "",
+    "type": "title",
+    "en": "Communists Demand Referendum"
+  },
+  {
+    "key": "political.19.d",
+    "version": "",
+    "type": "desc",
+    "en": "Marxist ideas took root in [Root.GetName] a long time ago, but have gained much more widespread support lately. The movement has spread outside political theory and into political practice, with disgruntled workers and even some high-profile celebrities voicing support. The communists call this class consciousness. The [Root.GetRulingParty] call it a fast track to riots and treason.\\n\\nShowing little faith in [Root.GetLeader] being willing to implement the reforms they demand, the more vocal communists have called for an immediate referendum to have the current government removed. While we might be able to reverse the momentum of this mass movement, failure to do so will doubtlessly result in the more popular communist method of removal: Revolution."
+  },
+  {
+    "key": "political.20.t",
+    "version": "",
+    "type": "title",
+    "en": "Democrats Demand Referendum"
+  },
+  {
+    "key": "political.20.d",
+    "version": "",
+    "type": "desc",
+    "en": "Unsurprisingly, the idea of the people ruling the nation they inhabit can easily grow very popular among the people. The [Root.GetRulingParty], of course, sees the idea of democracy as represented by these movements - freedom of speech, public elections, free press - merely populist rhetoric meant to weaken [Root.GetLeader]'s government.\\n\\nHowever, there is no denying those ideas have taken hold among the [Root.GetAdjective] population. In true democratic fashion, they call for a public referendum on replacing the current regime. Although currently easy to ignore, these ideas have a way of growing very persistent. What will happen to us if we make peaceful revolution impossible?"
+  },
+  {
+    "key": "political.21.t",
+    "version": "",
+    "type": "title",
+    "en": "Fascists March on [Root.Capital.GetName]"
+  },
+  {
+    "key": "political.21.d",
+    "version": "",
+    "type": "desc",
+    "en": "Having been refused their referendum, almost a token attempt at seizing power legally, the fascists have used their significant public support and connections in the [Root.GetAdjective] military to attempt a coup. The [Root.GetRulingParty] government has refused their terms and claims it is going to fight to the end to preserve [Root.GetName] as we know it."
+  },
+  {
+    "key": "political.22.t",
+    "version": "",
+    "type": "title",
+    "en": "Communists Rise Up"
+  },
+  {
+    "key": "political.22.d",
+    "version": "",
+    "type": "desc",
+    "en": "After their request for a referendum was denied, the few reformers of the communist movement in [Root.GetName] rapidly lost influence to the more radical elements. With the [Root.GetRulingParty]'s refusal to acknowledge the public support for the suggested reforms, the romantic view of the revolution gradually grew more widespread and the leaders of the movement become those who could most easily start a riot. Those riots have now erupted into a full-scale civil war, with the future of the nation at stake."
+  },
+  {
+    "key": "political.23.t",
+    "version": "",
+    "type": "title",
+    "en": "The [Root.GetAdjective] Spring"
+  },
+  {
+    "key": "political.23.d",
+    "version": "",
+    "type": "desc",
+    "en": "After their attempt at a public referendum to institute democracy was refused, the people behind the suggestion have dismissed the [Root.GetLeader] regime as incorrigible. A broad coalition of rebel groups, united by their common goal of instituting more representative political systems in [Root.GetName], have taken up arms and announced that they will not rest until the [Root.GetRulingParty] is overthrown."
+  },
+  {
+    "key": "political.24.t",
+    "version": "",
+    "type": "title",
+    "en": "Fascists Ridiculed"
+  },
+  {
+    "key": "political.24.d",
+    "version": "",
+    "type": "desc",
+    "en": "The [Root.GetAdjective] people's infatuation with nationalistic pride and attempts to revive the glories of the past appears to have passed. A rude awakening for its ardent supporters, whose uniforms, militaristic posturing and over-the-top speeches are now more commonly the subject of mockery than sympathies.\\n\\nOnce considered a threat to the [Root.GetRulingParty] power base, [Root.GetAdjective] fascism is now increasingly seen as an absurd, extremist position and an attack on the most fundamental values of our nation, the very nation they claim to hold in such high regard. The word seems more suited as an insult than a political designation."
+  },
+  {
+    "key": "political.25.t",
+    "version": "",
+    "type": "title",
+    "en": "Communist Fad Blows Over"
+  },
+  {
+    "key": "political.25.d",
+    "version": "",
+    "type": "desc",
+    "en": "Many communists had predicted that [Root.GetName] was going to be the next nation to fall to the so-called international revolution, but after a few months of strikes and red flags in the streets, the movement seems to have died down. The working class, the supposed driving force of the revolution, has more pressing concerns than overthrowing [Root.GetLeader] and seem decidedly unimpressed with how well these revolutions have played out elsewhere. Meanwhile, the intellectuals who wrote passionate calls for slitting the throats of the oppressors have turned out to be surprisingly reluctant to instigate anything that might actually upset their comfortable lifestyle.\\n\\nTalk of the revolution will likely continue, whether over cheap beers or expensive wines, but it will likely be talk and nothing more."
+  },
+  {
+    "key": "political.26.t",
+    "version": "",
+    "type": "title",
+    "en": "Democratic Movement Goes Silent"
+  },
+  {
+    "key": "political.26.d",
+    "version": "",
+    "type": "desc",
+    "en": "After a few months of loud opposition against [Root.GetLeader]'s regime, calling for public elections and more liberal laws on freedom of assembly and speech, the movement seems to have fallen apart. People now express more concern about the stability of [Root.GetName] if such reforms were to take place, with those who clamor for democracy being seen more as troublemakers than everything else.\\n\\nMore mysteriously, many of the leading figures of the movement appear to have gone missing or stopped their work suddenly. Perhaps some of them chose to go into exile when they saw the failure of their efforts. Regardless, the [Root.GetRulingParty] government denies all knowledge and involvement."
+  },
+  {
+    "key": "political.27.t",
+    "version": "",
+    "type": "title",
+    "en": "[Root.GetLeader] Abandons Neutral Foreign Policy"
+  },
+  {
+    "key": "political.27.d_fascism",
+    "version": "",
+    "type": "desc",
+    "en": "After [Root.GetRulingParty]'s recent rise to power, [Root.GetLeader] announced that [Root.GetName] would no longer keep its Neutral Foreign Policy.\\n'The world has become tangled and complex. We are no longer safe on our own. We must stand with our fascist partners against our enemies. If we do not choose a side, we will perish alone.'"
+  },
+  {
+    "key": "political.27.d_communism",
+    "version": "",
+    "type": "desc",
+    "en": "After [Root.GetRulingParty]'s recent rise to power, [Root.GetLeader] announced that [Root.GetName] would no longer keep its Neutral Foreign Policy.\\n'The world has become tangled and complex. This country has always stood on it principles and been ready to defend them. We are no longer safe on our own. Neutrality is no longer the safe haven it used to be and those who seek power in this world do not respect it. We must stand with our communist brothers against the powers that seek to oppress us. Against the bourgeois majority who wants nothing more than keep us down. If we do not take a stand, we will perish alone.'"
+  },
+  {
+    "key": "political.28.t",
+    "version": "",
+    "type": "title",
+    "en": "[Root.GetNameDefCap] Reunited"
+  },
+  {
+    "key": "political.28.d",
+    "version": "",
+    "type": "desc",
+    "en": "The terrible civil war that has devastated our land draws to an end, and we have finally reached a political agreement. We now see eye to eye with our fellow [Root.GetAdjective]s, and together we will rebuild our great nation. The enemies that have sought to capitalize on our infighting must now face a united [Root.GetAdjective] state.\\n\\nThe new [Root.GetRulingIdeology] [Root.GetName] will never be divided again!"
+  },
+  {
+    "key": "political.29.t",
+    "version": "",
+    "type": "title",
+    "en": "End of Civil Conflict"
+  },
+  {
+    "key": "political.29.d",
+    "version": "",
+    "type": "desc",
+    "en": "The civil war that has divided our nation has now ended, and our cause has prevailed. We cannot, however, let those who supported our adversaries continue to spread their insidious propaganda among the population. A firm hand is required in the days to come, so that we may stand united, ready, and strong against any external threats that would endanger our fledgling government."
+  },
+  {
+    "key": "political.31.t",
+    "version": "",
+    "type": "title",
+    "en": "Talk of a [ROOT.GetAdjective] Reunification"
+  },
+  {
+    "key": "political.31.desc",
+    "version": "",
+    "type": "desc",
+    "en": "War has divided our country. It is time to start rebuilding now that we once more are at peace. There is a strong push for reunification among the [ROOT.GetRulingIdeology] [ROOT.GetAdjective] factions."
+  },
+  {
+    "key": "political.32.t",
+    "version": "",
+    "type": "title",
+    "en": "The [ROOT.GetAdjective] Reunification"
+  },
+  {
+    "key": "political.32.desc",
+    "version": "",
+    "type": "desc",
+    "en": "The time has come to re-unite the divided [ROOT.GetRulingIdeology] [ROOT.GetAdjective] that rose after the war. [ROOT.GetNameDefCap] shall be whole again."
+  },
+  {
+    "key": "political.33.t",
+    "version": "",
+    "type": "title",
+    "en": "[ROOT.GetCountryAppropriateFilmProduction]"
+  },
+  {
+    "key": "political.33.desc",
+    "version": "",
+    "type": "desc",
+    "en": "In an effort to improve public opinion towards the war effort, our propaganda ministers selected the exceptional cinematic production '[ROOT.GetCountryAppropriateFilmProduction]' - a sublime viewing experience with a strong patriotic sentiment - for screening across the country.\\n\\nWe hope this heralds the beginning of a long and storied tradition for our patriotic film industry - the results have been excellent so far."
+  },
+  {
+    "key": "britain.1.t",
+    "version": "",
+    "type": "title",
+    "en": "The Tizard mission"
+  },
+  {
+    "key": "britain.1.d",
+    "version": "",
+    "type": "desc",
+    "en": "The British government have sent us a scientific delegation led by Henry Tizard with an interesting proposal. The British are willing to pool their research efforts with ours in several key areas as they do not have the industrial capacity to produce their inventions in great enough numbers."
+  },
+  {
+    "key": "britain.2.t",
+    "version": "",
+    "type": "title",
+    "en": "Tizard successful"
+  },
+  {
+    "key": "britain.2.d",
+    "version": "",
+    "type": "desc",
+    "en": "The US government has agreed to our proposal and have shared some of their research data with our delegation."
+  },
+  {
+    "key": "britain.3.t",
+    "version": "",
+    "type": "title",
+    "en": "Tizard rejected"
+  },
+  {
+    "key": "britain.3.d",
+    "version": "",
+    "type": "desc",
+    "en": "The US government has rejected our proposal, we will get no help from them."
+  },
+  {
+    "key": "britain.4.t",
+    "version": "",
+    "type": "title",
+    "en": "The Burma Road"
+  },
+  {
+    "key": "britain.4.d",
+    "version": "",
+    "type": "desc",
+    "en": "In order to aid our war against Japan, Britain has improved the Infrastructure and constructed air bases along our Burmese border"
+  },
+  {
+    "key": "japan.16.t",
+    "version": "",
+    "type": "title",
+    "en": "A Puppet of Japan"
+  },
+  {
+    "key": "japan.16.d",
+    "version": "",
+    "type": "desc",
+    "en": "The Japanese seek to control the wealth of China, and will not be stopped short of war. If we do not wish to fight them, we must submit to their control and become nothing more than a Japanese Puppet."
+  },
+  {
+    "key": "japan.17.t",
+    "version": "",
+    "type": "title",
+    "en": "China submits"
+  },
+  {
+    "key": "japan.17.d",
+    "version": "",
+    "type": "desc",
+    "en": "The cowardly Chinese have once again submitted to our demands, they have agreed to become a mere puppet of our nation."
+  },
+  {
+    "key": "japan.18.t",
+    "version": "",
+    "type": "title",
+    "en": "China refuses"
+  },
+  {
+    "key": "japan.18.d",
+    "version": "",
+    "type": "desc",
+    "en": "The foolish Chinese have refused our perfectly reasonable request that we manage certain aspects of their government. We will need to conquer them if we want access to their resources."
+  },
+  {
+    "key": "britain.6.t",
+    "version": "",
+    "type": "title",
+    "en": "Indian Independence"
+  },
+  {
+    "key": "britain.6.d",
+    "version": "",
+    "type": "desc",
+    "en": "Four years ago we promised India independence within four years. Time is up, and the Indians want us to honor our promise. Shall the crown jewel leave the British empire?"
+  },
+  {
+    "key": "japan.15.t",
+    "version": "",
+    "type": "title",
+    "en": "Indian National Army"
+  },
+  {
+    "key": "japan.15.d",
+    "version": "",
+    "type": "desc",
+    "en": "Following our defeats of the British we have a great number of Indian prisoners of war. With the right persuasion, we could use those prisoners to bolster our forces..."
+  },
+  {
+    "key": "britain.7.t",
+    "version": "",
+    "type": "title",
+    "en": "End trade with Germany"
+  },
+  {
+    "key": "britain.7.d",
+    "version": "",
+    "type": "desc",
+    "en": "Great Britain has issued us an ultimatum: Either we stop our trade with Germany, or they invade."
+  },
+  {
+    "key": "britain.8.t",
+    "version": "",
+    "type": "title",
+    "en": "Demand refused!"
+  },
+  {
+    "key": "britain.8.d",
+    "version": "",
+    "type": "desc",
+    "en": "[From.GetName] has rejected our demand that they cease trading with Germany. "
+  },
+  {
+    "key": "britain.9.t",
+    "version": "",
+    "type": "title",
+    "en": "Chamberlain Resigns"
+  },
+  {
+    "key": "britain.9.d",
+    "version": "",
+    "type": "desc",
+    "en": "With the war developing to the detriment of us and our allies, the Prime Minister has come under fire for both his peacetime and wartime decisions at critical junctions. At a moment when Britain needs to stand united more than ever, it finds itself divided as portions of the parliament holds Chamberlain in contempt.\\n\\nLacking vital support from Labour, the Prime Minister has made the decision to resign, favoring Lord Halifax as his replacement. However, Halifax has been skeptical and Chamberlain has advised the King to call on Winston Churchill. Churchill, who has long warned of the war that is now upon us, is believed to be capable leading us through it."
+  },
+  {
+    "key": "britain.10.t",
+    "version": "",
+    "type": "title",
+    "en": "Chamberlain Passes Away"
+  },
+  {
+    "key": "britain.10.d",
+    "version": "",
+    "type": "desc",
+    "en": "Prime Minister Neville Chamberlain has fallen ill recently, despite previously generally having been healthy for his age. After being diagnosed with bowel cancer, increased pain and lost sleep has led him to resign from his post. Chamberlain still enjoys strong popular support and steps down only as a last resort, realizing he will not live to return to work.\\n\\nThe question remains who will take up the torch after this great statesman and lead Britain through the dark times that may still lie ahead of us."
+  },
+  {
+    "key": "britain.21.t",
+    "version": "",
+    "type": "title",
+    "en": "Tizard triumphant"
+  },
+  {
+    "key": "britain.21.d",
+    "version": "",
+    "type": "desc",
+    "en": "The US government has not only agreed to our initial proposal but even offered a more long-term cooperation between researchers in our nations."
+  },
+  {
+    "key": "britain.11.t",
+    "version": "",
+    "type": "title",
+    "en": "The Berlin-Moscow Axis"
+  },
+  {
+    "key": "britain.11.d",
+    "version": "",
+    "type": "desc",
+    "en": "A full military alliance between the Germans and the Soviets has the potential to overthrow the world order and bring about a new era of totalitarianism. In order to counter this development we must forge the Democratic nations of the world into a Grand Alliance to combat the Nazi-Communist menace."
+  },
+  {
+    "key": "britain.12.t",
+    "version": "",
+    "type": "title",
+    "en": "The Grand Alliance"
+  },
+  {
+    "key": "britain.12.d",
+    "version": "",
+    "type": "desc",
+    "en": "Britain invites us to join their faction in order to combat the Nazi-Communist menace. How should we reply?"
+  },
+  {
+    "key": "britain.13.t",
+    "version": "",
+    "type": "title",
+    "en": "France wants to join Allies"
+  },
+  {
+    "key": "britain.13.d",
+    "version": "",
+    "type": "desc",
+    "en": "The world is growing increasingly unsafe. Britain and France remain bastions of democracy and liberty in Europe and France now propose that they join the Allies.\\nHow should we reply?"
+  },
+  {
+    "key": "britain.14.t",
+    "version": "",
+    "type": "title",
+    "en": "London Conference"
+  },
+  {
+    "key": "britain.14.d",
+    "version": "",
+    "type": "desc",
+    "en": "The German government has started to agitate over the status of Slovenia, which they claim is the historic German province of Carniola, where they claim that Germans and Slovenes are being oppressed by the Yugoslav government. His Majesty's Government has invited the governments of France, Germany and Italy to a conference in London to seek a fair resolution this issue. There is no doubt that the small German minority wishes to join Germany, but the wishes of the Slovene population are less clear. Germany seems ready to let slip the dogs of war over this and the dark clouds of war gather once more upon the continent of Europe."
+  },
+  {
+    "key": "britain.15.t",
+    "version": "",
+    "type": "title",
+    "en": "France Deserts Us"
+  },
+  {
+    "key": "britain.15.d",
+    "version": "",
+    "type": "desc",
+    "en": "The government of France has failed to see reason over our proposed modest border readjustment and resolved to break the peace and wage terrible war. We will let them exhaust themselves in another round of futile trench warfare and then they will beg for our help."
+  },
+  {
+    "key": "britain.16.t",
+    "version": "",
+    "type": "title",
+    "en": "King George V Dies"
+  },
+  {
+    "key": "britain.16.d",
+    "version": "",
+    "type": "desc",
+    "en": "His Majesty, George V, King of United Kingdom and the British Dominions and Emperor of India has passed away. His quiet calm and devotion to his subjects saw the Empire through both the Great War and the Great Depression. His son will assume the mantle as King Edward VIII, but there are already concerns that he will be too independent of thought. Stanley Baldwin and Neville Chamberlain are preparing to ensure that he will accept direction from the Prime Minister and the Cabinet."
+  },
+  {
+    "key": "britain.17.t",
+    "version": "",
+    "type": "title",
+    "en": "King Edward Abdicates"
+  },
+  {
+    "key": "britain.17.d",
+    "version": "",
+    "type": "desc",
+    "en": "Prime Minister Baldwin has made it quite clear that the dignity of the King-Emperor will be impinged if he were to marry not just a commoner, but also a divorcée and if that was not bad enough, an American. After much soul searching his majesty has chosen love over duty and has chosen to abdicate. His younger brother, Albert, will assume the mantle as King George VI. London bookmakers are already taking odds on whether this shy man will make it to his own coronation."
+  },
+  {
+    "key": "britain.18.t",
+    "version": "",
+    "type": "title",
+    "en": "Return of the King"
+  },
+  {
+    "key": "britain.18.d",
+    "version": "",
+    "type": "desc",
+    "en": "It is no secret that no love is lost between George VI and the [Root.GetRulingParty]. Voices in parliament are now calling for his resignation in favour of his exiled brother, Edward the VIII. This is a man less foreign to the idea of unity through strength, and a man with a vision for England. His are the qualities we seek in a leader of our nation!"
+  },
+  {
+    "key": "britain.19.t",
+    "version": "",
+    "type": "title",
+    "en": "Free India Government Established"
+  },
+  {
+    "key": "britain.19.d",
+    "version": "",
+    "type": "desc",
+    "en": "With the support of Japan, Indian nationalists have established a government-in-exile, the Azad Hind.\\n\\nThe nationalists are spreading propaganda in the Raj, and encouraging Sepoy desertion. While they are lacking support for now, their efforts could eventually become dangerous."
+  },
+  {
+    "key": "britain.20.t",
+    "version": "",
+    "type": "title",
+    "en": "Azad Hind Leads Indian Revolt"
+  },
+  {
+    "key": "britain.20.d",
+    "version": "",
+    "type": "desc",
+    "en": "The Azad hind, the Free India government-in-exile, has been spreading propaganda and canvassing for support among the people of the Raj. Despite the importance of the Empire working together being greater than ever, they have decided that this is the time to strike."
+  },
+  {
+    "key": "britain.23.t",
+    "version": "",
+    "type": "title",
+    "en": "The Indian Revolt"
+  },
+  {
+    "key": "britain.23.d",
+    "version": "",
+    "type": "desc",
+    "en": "The Azad Hind, the Free India government-in-exile, has declared that the time has come for all true patriots to take up arms against the British overlords. The fate of India hangs in the balance, and we must make a choice."
+  },
+  {
+    "key": "britain.24.t",
+    "version": "",
+    "type": "title",
+    "en": "Shadow Scheme Factories Taken in Use"
+  },
+  {
+    "key": "britain.24.d",
+    "version": "",
+    "type": "desc",
+    "en": "The careful preparations we took in the Shadow Scheme to ease the transition of our civilian factories to full war-time industry have now paid off. The new factories are already much more efficient than could reasonably have been expected within this time-frame."
+  },
+  {
+    "key": "britain.22.t",
+    "version": "",
+    "type": "title",
+    "en": "Stanley Baldwin Resigns"
+  },
+  {
+    "key": "britain.22.d",
+    "version": "",
+    "type": "desc",
+    "en": "Two weeks after the coronation of King George VI, Mr. Baldwin has announced that he will resign the premiership in order to retire at the age of 70. Having led the National Government on-and-off since 1923, he has been the steady hand responsible for bringing the British Empire out of the Great Depression, and in recent years has reluctantly overseen the beginning of Imperial re-armament and the abdication of King Edward VIII. He steps down as a popular and successful prime minister, but has he done enough to counter the growing threat from Germany?"
+  },
+  {
+    "key": "france.31.t",
+    "version": "",
+    "type": "title",
+    "en": "Édouard Daladier Resigns"
+  },
+  {
+    "key": "france.31.d",
+    "version": "",
+    "type": "desc",
+    "en": "With the collapse of the Third Republic and the refusal of the German government to offer an Armistice, it must fall to fresh leadership to continue the fight from the colonies. Whilst few would doubt that Monsieur Daladier has been a fine prime minister, he simply could not contend with the extraordinary set of circumstances in which France has found herself. We can but pray there is light at the end of the tunnel."
+  }
+]

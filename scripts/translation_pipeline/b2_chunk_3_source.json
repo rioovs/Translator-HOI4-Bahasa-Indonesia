@@ -1,0 +1,422 @@
+[
+  {
+    "key": "news.252.d",
+    "version": "",
+    "type": "desc",
+    "en": "Seeing themselves as natural allies, [GER.GetNameDef] and [CAN.GetNameDef] have signed a pact of mutual defense. [CAN.GetAdjective] Premier [CAN.GetLeader] announced the alliance in a speech quoting the natural alignment of [CAN.GetAdjective] and [GER.GetAdjective] interests.\\n\\nConsidering increased mobilization across Europe and [CAN.GetNameDef]'s recent distancing from the Commonwealth, it is not difficult to forecast the kind of interests under discussion.\\nBoth in Europe and the Americas, the old powers watch with growing concern."
+  },
+  {
+    "key": "news.253.t",
+    "version": "",
+    "type": "title",
+    "en": "[AST.GetNameDefCap] Seeks Distance from Commonwealth"
+  },
+  {
+    "key": "news.253.d",
+    "version": "",
+    "type": "desc",
+    "en": "\\nIn a speech this morning, Prime Minister [AST.GetLeader] announced the Australian government's dedication to growth and stability as an Oceanic state. This means looking to new shores than those of Britain's Europe, as the Australian people can no longer bear the weight of foreign conflicts on their shoulders. In a direct reference to the King's Speech at the open of the last parliament, [AST.GetLeader] hit the point home by stating \"Never Another Gallipoli!\"\\n\\nThe rapturous cheers from the crowds indicate a new era of Australian politics has begun. Where it will end, the world can only begin to speculate."
+  },
+  {
+    "key": "news.254.t",
+    "version": "",
+    "type": "title",
+    "en": "[AST.GetNameDefCap] and New Zealand \"United\""
+  },
+  {
+    "key": "news.254.d",
+    "version": "",
+    "type": "desc",
+    "en": "[AST.GetNameDefCap], asserting its complete independence, has started exerting its influence on the South Pacific. As part of this the [AST.GetAdjective] government has demanded that all former colonial states of Oceania be placed under their authority.\\n\\nNaturally unwilling, the hard-pressed [ENG.GetAdjective] and New Zealander governments initially offered diplomatic resistance. However, without any base for projecting the Empire's authority in the region - a role previously fulfilled by Australia, it was only a question of time before [AST.GetNameDef] presented an ultimatum backed by force.\\nNew Zealand is now the eastmost province of [AST.GetNameDef]."
+  },
+  {
+    "key": "news.260.t",
+    "version": "",
+    "type": "title",
+    "en": "[SAF.GetNameDefCap] assumes responsibility for African colonies"
+  },
+  {
+    "key": "news.260.desc",
+    "version": "",
+    "type": "desc",
+    "en": "\\nIn a formal ceremony today, [SAF.GetLeader] signed the treaty that will give his government control over the British dependencies in Africa. The territories of Bechuanaland, Rhodesia and Kenya will now be administered from Pretoria. \\n\\nSpeaking before the House of Commons, [ENG.GetLeader] denied that the move weakened Britain's position in the continent, calling it instead \"a most sensible change to allow for a more efficient administration and defense of these areas.\""
+  },
+  {
+    "key": "news.261.t",
+    "version": "",
+    "type": "title",
+    "en": "[ENG.GetNameDefCap] reorganizes African colonies"
+  },
+  {
+    "key": "news.261.desc",
+    "version": "",
+    "type": "desc",
+    "en": "British Parliament has narrowly accepted a measure that will fundamentally reorganize parts of the British colonies in Africa. The new act creates, effectively, two new colonial regimes in the states of Rhodesia and Kenya. These new states will have a certain measure of freedom to manage their own affairs, but will also have responsibilities to provide their own defenses. \\n\\nSome conservatives opposed to the decision openly voiced fears that this decision is just the first step in a process they call 'decolonization'. \\n\\n[ENG.GetLeader] was not immediately available for comment."
+  },
+  {
+    "key": "news.262.t",
+    "version": "",
+    "type": "title",
+    "en": "The South African Civil War"
+  },
+  {
+    "key": "news.262.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Long simmering tensions in [SAF.GetName] have now broken out into open war. The fascist Nationalists claim that the policies of the democratic Unionist government are threatening the [SAF.GetAdjective] way of life. The Unionists, they say, stab the brave warriors of the Boer Wars in the back with their unconditional support for [ENG.GetName]. \\n\\nThe Nationalist Provisional Government under [SAF.GetLeader] has called on all true patriots to join them in restoring freedom to South Africa through force of arms. The Unionist government in Pretoria has labeled the Nationalists \"insurgents and traitors of the worst kind\". With military forces declaring equally for both sides, the conflict in South Africa may take a long time to resolve."
+  },
+  {
+    "key": "news.263.t",
+    "version": "",
+    "type": "title",
+    "en": "Anti-Royalist riots in [SAF.GetNameDef]"
+  },
+  {
+    "key": "news.263.desc",
+    "version": "",
+    "type": "desc",
+    "en": "A wave of anti-monarchy demonstrations, many of which turned violent, has swept across South Africa. Thousands of protesters took to the street, storming police stations and other government buildings. Portraits of the King were torn down, slashed, burned, and, in one occasion, dissolved in acid. \\n\\nThe police and the military were noted by observers to be very reluctant to try and contain the uprising, opting instead to guard factories and bridges. This has raised the question whether the riots really came as a surprise to the government."
+  },
+  {
+    "key": "news.264.t",
+    "version": "",
+    "type": "title",
+    "en": "The African People's Union"
+  },
+  {
+    "key": "news.264.desc",
+    "version": "",
+    "type": "desc",
+    "en": "The founding members of the [SAF.GetFactionName] have assembled in Pretoria to announce the creation of their new alliance. European observers were quick to note that the only government with any legitimacy present was the government of [SAF.GetNameDef] itself, [SAF.GetLeader] presiding over a motley assembly of self-appointed governments-in-exile and other revolutionary groups.\\n\\nThe parties present released a joint declaration, calling on the European Imperial Powers to release any lands they hold in Africa to its rightful owners at once, condemning the practice of colonialism and vowing the bring freedom to the oppressed African peoples - by whatever means necessary."
+  },
+  {
+    "key": "news.264.d",
+    "version": "",
+    "type": "desc",
+    "en": "They aren't real communists after all."
+  },
+  {
+    "key": "news.265.t",
+    "version": "",
+    "type": "title",
+    "en": "[SAF.GetAdjective] Pressure on France"
+  },
+  {
+    "key": "news.265.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Following the stunning defeat France suffered in its homeland, the legitimacy of its colonial empire has been called into question. The governments of [SOV.GetNameDef] and [SAF.GetNameDef] have issued a joint statement declaring that France can no longer be trusted with maintaining order in Madagascar, demanding that the island be turned over to [SAF.GetNameDef]. \\n\\nThe free French government has met to discuss the issue. Defense experts think it unlikely that the depleted French forces would be able to defend the island, should it come to war."
+  },
+  {
+    "key": "news.265.d",
+    "version": "",
+    "type": "desc",
+    "en": "Another bloodless victory for communism."
+  },
+  {
+    "key": "news.270.t",
+    "version": "",
+    "type": "title",
+    "en": "The birth of [NZL.GetAdjective] Armor"
+  },
+  {
+    "key": "news.270.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Rumbling down the main street of the capital, the new Bob Semple tank of the New Zealand Defense Force stands as a true testament to the ingenuity and the fighting spirit of the [NZL.GetAdjective] people. Armed with six machineguns and armored with almost certainly bulletproof iron plating, it will be quite possibly the biggest obstacle any invader will have to overcome. \\n\\nSome so-called experts point to the lackluster performance and weak armament of the vehicle as reasons why it should not be built, but as Prime Minister [NZL.GetLeader] said during the official acceptance ceremony of the vehicle, the timely defense of the realm is of such importance that perfect equipment can neither be expected nor demanded."
+  },
+  {
+    "key": "news.271.t",
+    "version": "",
+    "type": "title",
+    "en": "Big Bob enters the scene"
+  },
+  {
+    "key": "news.271.desc",
+    "version": "",
+    "type": "desc",
+    "en": "After the stunning success of the Bob Semple tank, the high command of the [NZL.GetName] Defense Force requested that an upscaled version be produced. Standing at more than 15 feet tall, and weighing in at no less than 120 tons, the new vehicle is awe-inspiring in every sense of the word. It's armament consisting of twin 17-pounder anti-tank guns will make short work of any enemy, while its heavy armor - extensively tested to ensure that it is, in fact, bulletproof - will allow it to move into the thick of battle without fear. \\n\\nAt the unveiling ceremony, one observer called it \"the most remarkable tank ever produced,\" while another called it \"unparalleled.\" \\nMass production is expected to start within the month."
+  },
+  {
+    "key": "news.272.t",
+    "version": "",
+    "type": "title",
+    "en": "The Bengal Famine strikes"
+  },
+  {
+    "key": "news.272.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Natural disasters, incompetent administration and the ravages of war have conspired to create a wide-spread famine in India.\\n\\nFollowing a cyclone which devastated large parts of the area and wiped out nearly the entire rice harvest, colonial administrators have proven slow - some might say conspicuously slow - to address the issue. Despite a food surplus in other areas of India, there have been no relief shipments out of fear that they might fall into the hands of the enemy.\\n\\nLarge parts of the area have been devastated, and the cost in lives and lost production can not even be estimated yet."
+  },
+  {
+    "key": "news.273.t",
+    "version": "",
+    "type": "title",
+    "en": "The Bengal Famine ends"
+  },
+  {
+    "key": "news.273.desc",
+    "version": "",
+    "type": "desc",
+    "en": "After months of relative inaction, the colonial government and the Indian army have finally decided to act. Distribution of emergency food supplies have started to reach the affected areas, while the new rice harvest has exceeded expectations. \\n\\nFood prices in the affected areas remain high, however, and the long-term effects of the famine can not yet be estimated."
+  },
+  {
+    "key": "news.280.t",
+    "version": "",
+    "type": "title",
+    "en": "India gains Home Rule"
+  },
+  {
+    "key": "news.280.desc",
+    "version": "",
+    "type": "desc",
+    "en": "After a tense meeting between the [GER.GetAdjective] ambassador and the [ENG.GetAdjective] foreign minister, the government of [ENG.GetNameDef] today announced that [RAJ.GetNameDef] will be allowed to determine its own policies from now on. The centuries of British rule over the subcontinent have come to a surprisingly quick end as civil servants are ordered home and colonial administration is turned over to native Indians.\\n\\nOne of the first actions of the new Indian leadership was to announce a wide-ranging cooperation treaty with [GER.GetNameDef]. The Indian government refused to comment on allegations that this was the price they paid for German support."
+  },
+  {
+    "key": "news.280.d",
+    "version": "",
+    "type": "desc",
+    "en": "Not our finest hour."
+  },
+  {
+    "key": "news.281.t",
+    "version": "",
+    "type": "title",
+    "en": "India gains Home Rule"
+  },
+  {
+    "key": "news.281.desc",
+    "version": "",
+    "type": "desc",
+    "en": "In a joint statement, a visibly shaken [ENG.GetAdjective] Foreign Minister together with the [SOV.GetAdjective] ambassador announced that India will be given full sovereignty over their own affairs at once. It is not quite clear what role [SOV.GetNameDef] played in bringing this sudden change of [ENG.GetAdjective] policy about, but it appears to be significant.\\n\\nOne of the first actions of the new Indian leadership was to announce a closer cooperation with [SOV.GetNameDef], giving additional weight to the rumors that [SOV.GetNameDef] intervened on their behalf."
+  },
+  {
+    "key": "news.281.d",
+    "version": "",
+    "type": "desc",
+    "en": "Not our finest hour."
+  },
+  {
+    "key": "news.282.t",
+    "version": "",
+    "type": "title",
+    "en": "Quit India Movement"
+  },
+  {
+    "key": "news.282.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Indian calls for independence have intensified lately. Now things have come to a head, as the radical Quit India Movement has called for [ENG.GetNameDef] to leave the country as soon as possible. [ENG.GetAdjective] authorities were quick to react, however, and have cracked down on the movement, arresting several leaders in dawn raids on homes across India. \\n\\nReports prepared by Special Branch indicate that many sympathizers are still at large, however, and many in the Civil Service have expressed fears that more extremist elements of the movement may even resort to violence."
+  },
+  {
+    "key": "news.283.t",
+    "version": "",
+    "type": "title",
+    "en": "Indian National Congress triumphs in Provincial Elections"
+  },
+  {
+    "key": "news.283.desc",
+    "version": "",
+    "type": "desc",
+    "en": "\\nIn the recent local elections, the Indian National Congress has achieved an overwhelming majority for their platform of slow and ordered transition to local government and dominion status in the future. \\n\\nIt appears that Indians have rejected the more radical policies advocated by Gandhi, who had argued for a total break with Britain and absolute home rule as soon as possible."
+  },
+  {
+    "key": "news.284.t",
+    "version": "",
+    "type": "title",
+    "en": "Swaraj Movement makes gains in Provincial Elections"
+  },
+  {
+    "key": "news.284.desc",
+    "version": "",
+    "type": "desc",
+    "en": "\\nBritish Civil Servants woke to a rude shock this morning as the results of the recent provincial elections came in. It is clear now that a large majority of Indians have given their votes to pro-Swaraj candidates. In provinces across India, calls have already started to turn this limited amount of local government into total self-rule as quickly as possible. \\n\\nA spokesman for the [ENG.GetAdjective] government stressed that now was not the time to discuss such measures, and that any transfer of further authority to Indians was out of the question."
+  },
+  {
+    "key": "news.285.t",
+    "version": "",
+    "type": "title",
+    "en": "Pakistan is free"
+  },
+  {
+    "key": "news.285.desc",
+    "version": "",
+    "type": "desc",
+    "en": "In accordance with the Two Nation Theory, the Muslim minority has been granted a sovereign homeland in the areas where Muslims form a majority of the population. Originally named Pakstan to show the combination of Punjab, Afghani, Kashmir, Singh and Baloch people, it has since been renamed Pakistan to aid pronunciation.\\n\\nTensions remain between the newly freed India and Pakistan, however, as parts of the borderlands are claimed by both new countries. Some observers even warn of a renewed war on the subcontinent."
+  },
+  {
+    "key": "news.286.t",
+    "version": "",
+    "type": "title",
+    "en": "Australia severs ties with Britain"
+  },
+  {
+    "key": "news.286.desc",
+    "version": "",
+    "type": "desc",
+    "en": "\\nIn a hotly contested vote, a small majority in the [AST.GetAdjective] parliament decided that the country should leave the British Empire. The last few remnants of British legal rule have been declared null and void. [AST.GetLeader] has already signed the decision into law, thereby bypassing the long-standing legal tradition of Royal Assent being granted by the Governor-General and turning [AST.GetNameDef] into a fully sovereign nation.\\n\\nParliament also voted to form a Constitutional Committee, which will discuss and advise on changes that will be made to the Constitution to remove all traces of British intervention into [AST.GetAdjective] affairs."
+  },
+  {
+    "key": "news.287.t",
+    "version": "",
+    "type": "title",
+    "en": "Germany Occupies Western Poland"
+  },
+  {
+    "key": "news.287.desc",
+    "version": "",
+    "type": "desc",
+    "en": "German troops have occupied western Poland, officially for the purpose of protecting German minorities from the chaos that followed the collapse of the Polish government. \\n\\nSoviet forces have withdrawn from these areas in good order, resulting in Poland's effective partitioning between the two powers."
+  },
+  {
+    "key": "news.288.t",
+    "version": "",
+    "type": "title",
+    "en": "The Chinese United Front forms"
+  },
+  {
+    "key": "news.288.desc",
+    "version": "",
+    "type": "desc",
+    "en": "[CHI.GetLeader] and [PRC.GetLeader] have issued a joint announcement, declaring that they have set aside their differences in the face of Japanese attack. Both sides will observe a strict policy of non-aggression against each other for as long as the war against Japan lasts and have vowed to do everything in their power to throw back the invader. A number of smaller warlords have also declared their support, putting their forces under the command of [CHI.GetLeader].\\n\\nWhether the long-time enemies of the Chinese Civil War will actually work together remains to be seen, and many experts believe that this will do little more than delay the inevitable defeat of China."
+  },
+  {
+    "key": "news.337.title",
+    "version": "",
+    "type": "title",
+    "en": "Humiliation in Africa"
+  },
+  {
+    "key": "news.337.desc",
+    "version": "",
+    "type": "desc",
+    "en": "A peace treaty was signed today between [ETH.GetLeader] and [ITA.GetLeader] ending the hostilities between the two nations. Despite the massive power difference between the landlocked kingdom and the world-spanning empire, the Ethiopian government definitely came out on top in these negotiations. Not only must Italy enter a truce with Ethiopia, but the territories of Eritrea and Italian Somaliland have been officially ceded to [ETH.GetNameDef].\\n\\nWith this being the second defeat for the Italian armed forces in Ethiopia, the government of [ITA.GetLeader] is in shambles, and it will likely take many years before the wounded Italian pride truly recovers from this defeat."
+  },
+  {
+    "key": "news.337.desc_some_states",
+    "version": "",
+    "type": "desc",
+    "en": "A peace treaty was signed today between [ETH.GetLeader] and [ITA.GetLeader] ending the hostilities between the two nations. Despite the massive power difference between the landlocked kingdom and the world-spanning empire, the Ethiopian government definitely came out on top in these negotiations. Not only must Italy enter a truce with Ethiopia, but some of the former Italian territories in East Africa have been officially ceded to [ETH.GetNameDef].\\n\\nWith this being the second defeat for the Italian armed forces in Ethiopia, the government of [ITA.GetLeader] is in shambles, and it will likely take many years before the wounded Italian pride truly recovers from this defeat."
+  },
+  {
+    "key": "news.337.desc_no_states",
+    "version": "",
+    "type": "desc",
+    "en": "A peace treaty was signed today between [ETH.GetLeader] and [ITA.GetLeader] ending the hostilities between the two nations. Despite the massive power difference between the landlocked kingdom and the world-spanning empire, the Ethiopian government managed to hold their ground against the Italian forces. \\n\\nWith this being the second defeat for the Italian armed forces in Ethiopia, the government of [ITA.GetLeader] is in shambles, and it will likely take many years before the wounded Italian pride truly recovers from this defeat."
+  },
+  {
+    "key": "news.337.d",
+    "version": "",
+    "type": "desc",
+    "en": "Ras Alula's Empire is reborn!"
+  },
+  {
+    "key": "news.338.t",
+    "version": "",
+    "type": "title",
+    "en": "Successful Nuclear Tests"
+  },
+  {
+    "key": "news.338.desc",
+    "version": "",
+    "type": "desc",
+    "en": "[FROM.GetNameDefCap] has performed successful tests with nuclear reactors, [FROM.GetLeader] announced in a public speech yesterday. [FROM.GetNameDefCap] appears to currently be in the lead in the global atomic race."
+  },
+  {
+    "key": "news.350.t",
+    "version": "",
+    "type": "title",
+    "en": "Peaceful Re-unification of [ROOT.GetNameDef]"
+  },
+  {
+    "key": "news.350.desc",
+    "version": "",
+    "type": "desc",
+    "en": "\\n\\nListening to the will of the [ROOT.GetAdjective] people, [ROOT.GetLeader] has managed to bring together a peaceful unification of the [ROOT.GetRulingIdeology] [ROOT.GetAdjective] states. It remains to be seen what effect this will have on the world at large, but at least in [ROOT.Capital.GetCapitalVictoryPointName], the people were celebrating this historic event."
+  },
+  {
+    "key": "news.409.t",
+    "version": "",
+    "type": "title",
+    "en": "Yellow River Blown"
+  },
+  {
+    "key": "news.409.desc",
+    "version": "",
+    "type": "desc",
+    "en": "In a last ditch attempt to halt the oncoming might of the [JAP.GetAdjective] forces, the network of dikes and flood defenses along the Yellow River were destroyed by the [FROM.GetAdjective] army.\\n\\nThe ensuing flash floods have displaced huge numbers of the rural population, who were given only a brief window to prepare.\\n\\nIt remains to be seen if this act can buy the [FROM.GetAdjective] military enough time to regroup and face further combat."
+  },
+  {
+    "key": "news.289.t",
+    "version": "",
+    "type": "title",
+    "en": "[alliance_applicant.GetNameDefCap] joins the [alliance_inviter.GetFactionName]"
+  },
+  {
+    "key": "news.289.d",
+    "version": "",
+    "type": "desc",
+    "en": "\\nEarlier today, [alliance_inviter.GetNameDef] and [alliance_applicant.GetNameDef] issued a joint statement that the latter has now been formally granted member status of the [alliance_inviter.GetFactionName]. Whether this partnership will be used for offensive or defensive purposes remains to be seen, but undoubtedly extensive joint military planning is already under way."
+  },
+  {
+    "key": "news.290.t",
+    "version": "",
+    "type": "title",
+    "en": "Otto assumes the Hungarian Crown"
+  },
+  {
+    "key": "news.290.desc",
+    "version": "",
+    "type": "desc",
+    "en": "In search of a suitable king, the Kingdom of Hungary extended an invitation to Otto von Habsburg to return to the lands that were until recently ruled by his family. Otto, who has lived in exile throughout Western Europe since the end of the Great War and the dissolution of his father's empire, chose to accept the offer. Today, amidst much fanfare and celebration, he was crowned King of Hungary in a solemn ceremony at the Royal Palace in Budapest.\\n\\nDuring his coronation speech King Otto thanked the Hungarian people for their loyalty and devotion, and vowed to see the Habsburg lands reunited once more, promising that this time Hungary would be the dominant constituent part."
+  },
+  {
+    "key": "news.291.t",
+    "version": "",
+    "type": "title",
+    "en": "Austria votes to unite with Hungary"
+  },
+  {
+    "key": "news.291.desc",
+    "version": "",
+    "type": "desc",
+    "en": "At the insistence of the Hungarians, Austria has carried out a referendum on the possible reunification of the two nations, under the Habsburg crown. The final count has almost been completed, but it is already clear that it is a landslide victory for the reunification camp. No irregularities in the voting process have been reported, and the Austrian government has found itself obligated to reform into a regional government of the Hungarian state.\\n\\nThough the move is greatly welcomed by the Hungarian public, the political repercussions of the referendum will likely be felt keenly throughout Europe."
+  },
+  {
+    "key": "news.292.desc",
+    "version": "",
+    "type": "desc",
+    "en": "At the insistence of the Hungarians, Austria has carried out a referendum on the possible reunification of the two nations, under the Habsburg crown. The final count has almost been completed, but it is already clear that it is a landslide victory for the reunification camp. There have been ample reports of inconsistencies, voter fraud, and election-rigging, but Austrian officials have dismissed these allegations and have already begun to reform the administration into a regional government of the Hungarian state.\\n\\nThough the move is greatly welcomed by the Hungarian public, the political repercussions of the referendum will likely be felt keenly throughout Europe."
+  },
+  {
+    "key": "news.293.t",
+    "version": "",
+    "type": "title",
+    "en": "Austria votes against reunification"
+  },
+  {
+    "key": "news.293.desc",
+    "version": "",
+    "type": "desc",
+    "en": "At the insistence of the Hungarians, Austria has carried out a referendum on the possible reunification of the two nations, under the Habsburg crown. The final count has almost been completed, but a victory for the reunification camp is already out of reach. The Austrian government has therefore decided against joining an Austria-Hungarian union.\\n\\nIn the spirit of democracy and self-determination, Hungary has accepted the result and has decided not to push their proposals any further."
+  },
+  {
+    "key": "news.294.t",
+    "version": "",
+    "type": "title",
+    "en": "Austria votes against reunification"
+  },
+  {
+    "key": "news.294.desc",
+    "version": "",
+    "type": "desc",
+    "en": "At the insistence of the Hungarians, Austria has carried out a referendum on the possible reunification of the two nations, under the Habsburg crown. The final count has almost been completed, but a victory for the reunification camp is already out of reach. The Austrian government has therefore decided against joining an Austria-Hungarian union.\\n\\nHungary, however, has accused the Austria government of rigging the elections against reunification. They have stated that they will not shy away from the use of force to protect the Austrian people's desire to be reunified with their Hungarian brethren. Both sides have now begun to mobilize, and war seems inevitable."
+  },
+  {
+    "key": "news.295.t",
+    "version": "",
+    "type": "title",
+    "en": "Restoration of Austria-Hungary"
+  }
+]

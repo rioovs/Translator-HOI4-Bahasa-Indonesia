@@ -1,0 +1,3701 @@
+[
+  {
+    "idx": 1701,
+    "indent": "",
+    "key": "BEL_perpetual_neutrality",
+    "ver": "",
+    "val": "Perpetual Neutrality",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1702,
+    "indent": "",
+    "key": "BEL_perpetual_neutrality_desc",
+    "ver": "",
+    "val": "Due to our being the primary battlefield, our nation was left in rubble following the First World War. Never again should this be allowed to be repeated. As such, we will announce that [BEL.GetNameDef] shall form an independent and perpetually neutral state, and it shall observe the same neutrality toward all other states.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1704,
+    "indent": "",
+    "key": "BEL_independent_neutral_and_loyal",
+    "ver": "",
+    "val": "Independent, Neutral and Loyal",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1705,
+    "indent": "",
+    "key": "BEL_independent_neutral_and_loyal_desc",
+    "ver": "",
+    "val": "During the last war, we relied on our allies, and our country became a battlefield as a result. Therefore, in a bid to keep war out of [BEL.GetNameDef], our ruler has declared us to be \"Independent, Neutral and Loyal\". \\n \\n This will rally the political classes together in the need to address our own defenses, and thus develop our own military deterrent.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1707,
+    "indent": "",
+    "key": "BEL_defensive_neutrality",
+    "ver": "",
+    "val": "Defensive Neutrality",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1708,
+    "indent": "",
+    "key": "BEL_defensive_neutrality_desc",
+    "ver": "",
+    "val": "Now that we have made our neutral stance clear, it is time for us to begin working towards enforcing it. We will make ourselves too difficult to conquer, thereby making invasion unfeasible.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1710,
+    "indent": "",
+    "key": "BEL_national_redoubt_at_antwerp",
+    "ver": "",
+    "val": "National Redoubt at Antwerp",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1711,
+    "indent": "",
+    "key": "BEL_national_redoubt_at_antwerp_available_tt",
+    "ver": "",
+    "val": "One of the following must be true:\\n 1 §Y$bunker$§! can be constructed in the city of Brussels\\n 2 §Y$bunker$s§! can be constructed in the city of Antwerpen",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1712,
+    "indent": "",
+    "key": "BEL_national_redoubt_at_antwerp_bypass_tt",
+    "ver": "",
+    "val": "All of the following must be true:\\n 1 §Y$bunker$§! can NOT be constructed in the city of Brussels\\n 2 §Y$bunker$s§! can be NOT constructed in the city of Antwerpen",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1713,
+    "indent": "",
+    "key": "BEL_national_redoubt_at_antwerp_desc",
+    "ver": "",
+    "val": "The historical cornerstone to our defense has always been Antwerp. We will upgrade the fortifications there, and use it as the fulcrum to reinforce the rest of the country.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1715,
+    "indent": "",
+    "key": "BEL_belgian_gates",
+    "ver": "",
+    "val": "Belgian Gates",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1716,
+    "indent": "",
+    "key": "BEL_belgian_gates_desc",
+    "ver": "",
+    "val": "Also known as Cointet-elements, these large iron constructions are designed specifically to deny tanks passage.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1718,
+    "indent": "",
+    "key": "BEL_fortify_liege",
+    "ver": "",
+    "val": "Fortify Liege",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1719,
+    "indent": "",
+    "key": "BEL_fortify_liege_available_tt",
+    "ver": "",
+    "val": "At least one province in §Y[34.GetName]§!, bordering the river Meuse has room to build 1 §Y$bunker$§!",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1720,
+    "indent": "",
+    "key": "BEL_fortify_liege_bypass_tt",
+    "ver": "",
+    "val": "No provinces in §Y[34.GetName]§!, bordering the river Meuse has room to build 1 §Y$bunker$§!",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1721,
+    "indent": "",
+    "key": "BEL_fortify_liege_tt",
+    "ver": "",
+    "val": "Builds level 1 §Y$bunker$§! in §Y[34.GetName]§! along the river Meuse in provinces that have space for it",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1722,
+    "indent": "",
+    "key": "BEL_fortify_liege_desc",
+    "ver": "",
+    "val": "During the First World War, the fortified position of Liege played a significant role in holding up the German forces, allowing for a successful defense to be mounted. Despite this, serious shortcomings were highlighted with the design of the forts. We have learned our lessons, and it is now time to upgrade the fortifications again.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1724,
+    "indent": "",
+    "key": "BEL_iron_wall",
+    "ver": "",
+    "val": "Iron Wall",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1725,
+    "indent": "",
+    "key": "BEL_iron_wall_desc",
+    "ver": "",
+    "val": "Our Belgian Gates have proven to be a significant obstacle to enemy maneuvers in testing, so we should deploy them en-mass throughout our nation to halt those who would invade us.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1727,
+    "indent": "",
+    "key": "BEL_eben_emael_fortress",
+    "ver": "",
+    "val": "Eben Emael Fortress",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1728,
+    "indent": "",
+    "key": "BEL_eben_emael_fortress_available_tt",
+    "ver": "",
+    "val": "Can build at least 2 §Y$bunker$s§! in §YLiège§!",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1729,
+    "indent": "",
+    "key": "BEL_eben_emael_fortress_bypass_tt",
+    "ver": "",
+    "val": "Can not build at least 2 §Y$bunker$s§! in §YLiège§!",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1730,
+    "indent": "",
+    "key": "BEL_eben_emael_fortress_desc",
+    "ver": "",
+    "val": "The largest and grandest fortification in our line, positioned on an elevated point overlooking the Albert Canal, Eben Emael will provide the defensive staging ground and artillery support for any surrounding forces, and prove an impregnable obstacle to any who would violate our borders.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1732,
+    "indent": "",
+    "key": "BEL_our_southern_neighbour",
+    "ver": "",
+    "val": "Our Southern Neighbour",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1733,
+    "indent": "",
+    "key": "BEL_our_southern_neighbour_desc",
+    "ver": "",
+    "val": "Thanks to our experiences in the last war, most of our defenses have been directed towards our eastern neighbour, however, they are not the only bordering great power. We should ensure we are similarly fortified to the south.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1735,
+    "indent": "",
+    "key": "BEL_koningshooikt_wavre_line",
+    "ver": "",
+    "val": "Koningshooikt-Wavre Line",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1736,
+    "indent": "",
+    "key": "BEL_koningshooikt_wavre_line_desc",
+    "ver": "",
+    "val": "The Koningshooikt–Wavre Line, or the KW Line for short, are a second line of defenses between Koningshooikt and Wavre. These positions are prepared specifically for occupation by our and allied forces rather than garrisons, and consist of trenches, pill boxes and Belgian gates. This is a very solid line of defense and should provide the primary point of resistance for us.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1738,
+    "indent": "",
+    "key": "BEL_mobilize_the_nation",
+    "ver": "",
+    "val": "Mobilize the Nation",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1739,
+    "indent": "",
+    "key": "BEL_mobilize_the_nation_desc",
+    "ver": "",
+    "val": "Fortifications are not the only thing we should prepare, but the population itself can be our greatest asset. During the last war they strove valiantly against the invaders, let us harness that same passion and rally our people to the defense.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1741,
+    "indent": "",
+    "key": "BEL_flooded_tank_barriers",
+    "ver": "",
+    "val": "Flooded Tank Barriers",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1742,
+    "indent": "",
+    "key": "BEL_flooded_tank_barriers_desc",
+    "ver": "",
+    "val": "We believe that tanks will play a vital role in any future wars, and our defenses should reflect this. We can prepare Belgian Gates, and sink them in water to double their effectiveness.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1744,
+    "indent": "",
+    "key": "BEL_protect_against_france",
+    "ver": "",
+    "val": "Protect Against France",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1745,
+    "indent": "",
+    "key": "BEL_protect_against_france_desc",
+    "ver": "",
+    "val": "Previous preparations to the south were more preparations in case of envelopment, but the reality is that there could be a full scale invasion from the French- and we should prepare forts and fortifications accordingly!",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1746,
+    "indent": "",
+    "key": "BEL_protect_against_france_available_tt",
+    "ver": "",
+    "val": "Can build §Y1 Land Fort§! in §YCharleroi§!, §YKortrijik§! or §Ythe coastal province North-West of Kortrijik§!",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1748,
+    "indent": "",
+    "key": "BEL_dam_the_consequences",
+    "ver": "",
+    "val": "Dam the Consequences",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1749,
+    "indent": "",
+    "key": "BEL_dam_the_consequences_desc",
+    "ver": "",
+    "val": "The massive Gileppe Dam provides water and power for our eastern regions, it also provides an excellent opportunity to inundate the lands there should we fear a potential enemy breakthrough.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1751,
+    "indent": "",
+    "key": "BEL_defensive_reorganization",
+    "ver": "",
+    "val": "Defensive Reorganization",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1752,
+    "indent": "",
+    "key": "BEL_defensive_reorganization_desc",
+    "ver": "",
+    "val": "We have done what we can to prepare for invasion, the only thing left to do is identify more strategic and high-level doctrinal changes directed along the most modern lines of defensive thinking.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1754,
+    "indent": "",
+    "key": "BEL_defense_bill",
+    "ver": "",
+    "val": "Defense Bill",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1755,
+    "indent": "",
+    "key": "BEL_defense_bill_desc",
+    "ver": "",
+    "val": "Our declaration of perpetual neutrality was not precisely well received on the international stage, however, the reality is this needed to be done to concentrate political support towards a significant rearmament program.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1757,
+    "indent": "",
+    "key": "BEL_royal_military_academy",
+    "ver": "",
+    "val": "Royal Military Academy",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1758,
+    "indent": "",
+    "key": "BEL_royal_military_academy_desc",
+    "ver": "",
+    "val": "The Royal Military Academy is [ROOT.GetNameDef]'s only institute of military learning, but with the global situation becoming more uncertain we must ensure we prepare the officers of tomorrow with the best of military theory, and this will require expansion of the academy.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1760,
+    "indent": "",
+    "key": "BEL_multi_language_courses",
+    "ver": "",
+    "val": "Multi-Language Courses",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1761,
+    "indent": "",
+    "key": "BEL_multi_language_courses_desc",
+    "ver": "",
+    "val": "One of the major problems facing our military is the dual-language nature of our population. Let us turn this into an advantage! We can teach our officers both French and Dutch, and leverage the benefits of a bilingual officer corps.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1763,
+    "indent": "",
+    "key": "BEL_department_of_telecommunications",
+    "ver": "",
+    "val": "Department of Telecommunications",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1764,
+    "indent": "",
+    "key": "BEL_department_of_telecommunications_desc",
+    "ver": "",
+    "val": "Communication is of paramount importance to the military, so we must direct the education towards use of new technologies like the radio alongside the old, proven ones such as carrier pigeons.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1766,
+    "indent": "",
+    "key": "BEL_department_of_ballistic_metrology",
+    "ver": "",
+    "val": "Department of Ballistic Metrology",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1767,
+    "indent": "",
+    "key": "BEL_department_of_ballistic_metrology_desc",
+    "ver": "",
+    "val": "The Department of Ballistic Metrology specializes in measurement and ballistics, allowing for the accurate calculation of trajectories.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1769,
+    "indent": "",
+    "key": "BEL_resist_and_bite",
+    "ver": "",
+    "val": "Resist and Bite",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1770,
+    "indent": "",
+    "key": "BEL_resist_and_bite_desc",
+    "ver": "",
+    "val": "The Chasseurs Ardennais are an elite unit of the [ROOT.GetAdjective] forces, composed primarily from those living in the Luxembourg province, who are used to the heavy forests of the region. Their motto is \"Resist and Bite!\"",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1772,
+    "indent": "",
+    "key": "BEL_center_for_advanced_military_studies",
+    "ver": "",
+    "val": "Center For Advanced Military Studies",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1773,
+    "indent": "",
+    "key": "BEL_center_for_advanced_military_studies_desc",
+    "ver": "",
+    "val": "As militaries grow larger, the demands of command grow ever more stringent. We must keep ahead of the curve and train our high command with the very latest of strategic principles and grow their aptitude in fields such as logistics, command and control, and combined arms integration, possibly with a consideration for allied forces too.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1775,
+    "indent": "",
+    "key": "BEL_anti_tank_guns",
+    "ver": "",
+    "val": "Excellent Anti-Tank Guns",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1776,
+    "indent": "",
+    "key": "BEL_anti_tank_guns_desc",
+    "ver": "",
+    "val": "The great quality of [ROOT.GetAdjective] metallurgy has allowed our machinists to craft the finest guns, and we should harness our capability to create some true high velocity beasts! We can even go a step further, and put these in any tanks we own too.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1778,
+    "indent": "",
+    "key": "BEL_junior_officer_training",
+    "ver": "",
+    "val": "Junior Officer Training",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1779,
+    "indent": "",
+    "key": "BEL_junior_officer_training_desc",
+    "ver": "",
+    "val": "A decent officer will inspire his soldiers to fight on against the odds, but may be blind to a hopeless situation. A good leader will correctly identify it being bleak, but will make the best of it that they can. A great leader will have a plan ready to remove themselves from that situation and strike again from a better position. We will identify and train our officers to become the best they can be.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1781,
+    "indent": "",
+    "key": "BEL_belgian_special_forces",
+    "ver": "",
+    "val": "[ROOT.GetAdjective] Special Forces",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1782,
+    "indent": "",
+    "key": "BEL_belgian_special_forces_desc",
+    "ver": "",
+    "val": "[ROOT.GetAdjective] soldiers have always been resilient and dedicated, but we must wonder what could they be capable of if led by someone as competent as Eddy Blondeel, then we can speculate just how special these forces could be.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1784,
+    "indent": "",
+    "key": "BEL_senior_officer_training",
+    "ver": "",
+    "val": "Senior Officer Training",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1785,
+    "indent": "",
+    "key": "BEL_senior_officer_training_desc",
+    "ver": "",
+    "val": "Officers can be said to have two of these four traits: laziness, stupidity, industriousness and cleverness. Staff officers should be industrious and clever, senior officers lazy and clever. Even the stupid and lazy have their uses. Above all, we must identify the stupid and industrious, for they make the decisions that turn towards disaster, and have the will and energy to see it carried through.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1787,
+    "indent": "",
+    "key": "BEL_fonderie_royale_de_canons_liege",
+    "ver": "",
+    "val": "Fonderie Royale de Canons Liege",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1788,
+    "indent": "",
+    "key": "BEL_fonderie_royale_de_canons_liege_desc",
+    "ver": "",
+    "val": "Established by Napoleon Bonaparte in 1803, when Liege was a part of France, the royal canon foundry at Liege has been the principle developer of heavy weapons in Belgium. Benefiting greatly from the quality of metalwork in the region, the high caliber weapons have some renown, and these facilities are just asking for further investment to expand our capabilities further.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1790,
+    "indent": "",
+    "key": "BEL_interpreters",
+    "ver": "",
+    "val": "Interpreters",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1791,
+    "indent": "",
+    "key": "BEL_interpreters_desc",
+    "ver": "",
+    "val": "One of the great obstacles our armed forces had to overcome was the naturally bilingual requirement of its officer corps to be able to command Flemish and Walloon soldiers. Now, it can become one of our greatest strengths as we can operate almost with impunity in our neighboring territories without language barriers.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1792,
+    "indent": "",
+    "key": "BEL_interpreters_tt",
+    "ver": "",
+    "val": "This §YNational Spirit§! will be added both to current faction members and future faction members.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1794,
+    "indent": "",
+    "key": "BEL_center_of_nuclear_chemistry",
+    "ver": "",
+    "val": "Center of Nuclear Chemistry",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1795,
+    "indent": "",
+    "key": "BEL_center_of_nuclear_chemistry_desc",
+    "ver": "",
+    "val": "We have been following carefully the theories of Oppenheimer, Heisenberg and Bohr and have decided that we should consider the application of this science for ourselves. After all, we are one of the few nations with easy access to uranium from the Congo.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1797,
+    "indent": "",
+    "key": "BEL_strategic_doctrine_development",
+    "ver": "",
+    "val": "Strategic Doctrine Development",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1798,
+    "indent": "",
+    "key": "BEL_strategic_doctrine_development_desc",
+    "ver": "",
+    "val": "It is not enough to think battle to battle, we must instead have a solid grasp of the strategic layer, and arrange our military according to specific doctrines to ensure that all our forces are driving for that same singular goal: victory.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1800,
+    "indent": "",
+    "key": "BEL_belgian_tank_development",
+    "ver": "",
+    "val": "[ROOT.GetAdjective] Tank Development",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1801,
+    "indent": "",
+    "key": "BEL_belgian_tank_development_desc",
+    "ver": "",
+    "val": "Despite our ample automobile industry, we have never taken a particular interest in the development of armored warfare. Taking into account the latest military advances, it is clearly time that we invested in our own tank development program.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1803,
+    "indent": "",
+    "key": "BEL_doctrinal_innovations",
+    "ver": "",
+    "val": "Doctrinal Innovations",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1804,
+    "indent": "",
+    "key": "BEL_doctrinal_innovations_desc",
+    "ver": "",
+    "val": "Doctrines can help direct an army and ensure everyone is marching to the same beat, however, sometimes to really get ahead you need to think outside of the box. We want to go beyond this, smash the box, break the mold and do our own thing. Our enemies will never see it coming.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1806,
+    "indent": "",
+    "key": "BEL_modernized_army",
+    "ver": "",
+    "val": "Modernized Army",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1807,
+    "indent": "",
+    "key": "BEL_modernized_army_desc",
+    "ver": "",
+    "val": "Often the difference between winners and losers in war is who learned the best lessons from their experiences. It's time for us to reflect on all we have won and lost, then reform the army to bring it to new, modern standards.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1809,
+    "indent": "",
+    "key": "BEL_increased_length_of_service",
+    "ver": "",
+    "val": "Increased Length of Service",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1810,
+    "indent": "",
+    "key": "BEL_increased_length_of_service_desc",
+    "ver": "",
+    "val": "With tensions rising around the globe, and our strategic position between military giants we must show our willingness to defend ourselves and ensure our territorial sovereignty. As such, we will put our reserves on heightened alert and increase the length of service for those currently serving.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1812,
+    "indent": "",
+    "key": "BEL_fn_herstal",
+    "ver": "",
+    "val": "FN Herstal",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1813,
+    "indent": "",
+    "key": "BEL_fn_herstal_desc",
+    "ver": "",
+    "val": "[ROOT.GetNameDefCap] is blessed by a world renowned arms industry, Fabrique Nationale de Herstal or FN Herstal being the most prominent. This arms manufacturer produces exceptional quality arms, designed by the very best in the business. A close working collaboration with the Browning Arms Company further reinforces the truly global reach our companies enjoy.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1815,
+    "indent": "",
+    "key": "BEL_legacy_of_the_great_war",
+    "ver": "",
+    "val": "Legacy of the Great War",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1816,
+    "indent": "",
+    "key": "BEL_legacy_of_the_great_war_desc",
+    "ver": "",
+    "val": "We have come a long way since the horrors of the \"great\" war, and while our wounds have not yet fully healed, we bear our scars with pride. We resisted the invader once, we can, no, we will, resist them again.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1818,
+    "indent": "",
+    "key": "BEL_poudreries_reunies_de_belgique",
+    "ver": "",
+    "val": "Poudreries Réunies de Belgique",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1819,
+    "indent": "",
+    "key": "BEL_poudreries_reunies_de_belgique_desc",
+    "ver": "",
+    "val": "The second oldest arms company in Belgium, the Poudreries specialize in munitions, so streamlining their position in our logistical network will provide us with real explosive results.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1821,
+    "indent": "",
+    "key": "BEL_minerva_imperia",
+    "ver": "",
+    "val": "Minerva-Imperia",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1822,
+    "indent": "",
+    "key": "BEL_minerva_imperia_desc",
+    "ver": "",
+    "val": "Not only was Belgium a leading player in the use of armored cars in the First World War, we have also enjoyed a prime spot in the automobile industry throughout the inter-war years. Two of our largest manufacturers, Minerva and Imperia recently merged and it would be a real shame if we did not leverage their pole position to our unified benefit.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1824,
+    "indent": "",
+    "key": "BEL_repudiate_treaty_with_france",
+    "ver": "",
+    "val": "Repudiate Treaty With France",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1825,
+    "indent": "",
+    "key": "BEL_repudiate_treaty_with_france_desc",
+    "ver": "",
+    "val": "[FRA.GetNameDefCap]'s refusal to extend the Maginot line along our borders, in essence leaves a wide open door through which an enemy will be forced to attack. By repudiating our treaties with them, we can be free of any military obligations to assist them, but they will still be forced to intervene should we be attacked, or risk a follow-through invasion into their unguarded territory.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1827,
+    "indent": "",
+    "key": "BEL_german_non_aggression",
+    "ver": "",
+    "val": "German Non-Aggression",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1828,
+    "indent": "",
+    "key": "BEL_german_non_aggression_desc",
+    "ver": "",
+    "val": "[GER.GetName] has applauded our announcement of neutrality, and have publicly indicated their interest in a mutual non-aggression pact to reinforce this stance, and secure the security of their borders.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1830,
+    "indent": "",
+    "key": "BEL_dyle_plan",
+    "ver": "",
+    "val": "Dyle Plan",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1831,
+    "indent": "",
+    "key": "BEL_dyle_plan_desc",
+    "ver": "",
+    "val": "Despite all our public announcements of neutrality and military non-interventionism, behind closed doors we continue to work with our strategic partners and draw up plans and contingencies in case of invasion. The general idea being that we hold as long as we can behind the Dyle river until expeditionary forces can arrive to bolster our defenses.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1832,
+    "indent": "",
+    "key": "BEL_dyle_plan_tt",
+    "ver": "",
+    "val": "In the event that war breaks out, §Y[ENG.GetNameWithFlag]§! and §Y[FRA.GetNameWithFlag]§! will be more likely to come to our aid!",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1834,
+    "indent": "",
+    "key": "BEL_british_guarantee",
+    "ver": "",
+    "val": "British Guarantee",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1835,
+    "indent": "",
+    "key": "BEL_british_guarantee_desc",
+    "ver": "",
+    "val": "Our good relations with [ENG.GetNameDef] has never been a secret, so let us make this relationship official and extend mutual military guarantees.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1837,
+    "indent": "",
+    "key": "BEL_government_resigns",
+    "ver": "",
+    "val": "Government Resigns",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1838,
+    "indent": "",
+    "key": "BEL_government_resigns_desc",
+    "ver": "",
+    "val": "Pressure on the government has been mounting due to widespread allegations from the Fascist Rexist organization of corruption, leading to the fall of the government, and beginning preparations for a new election.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1839,
+    "indent": "",
+    "key": "BEL_auto_complete_government_resigns_tt",
+    "ver": "",
+    "val": "This focus is auto-completed by the outcome of the §YGovernment Resigns§! event.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1841,
+    "indent": "",
+    "key": "BEL_government_of_national_unity",
+    "ver": "",
+    "val": "Government of National Unity",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1842,
+    "indent": "",
+    "key": "BEL_government_of_national_unity_desc",
+    "ver": "",
+    "val": "Despite growing opposition from the Fascist movement, the democratic Liberal, Socialist and Catholic parties unified under Paul van Zeeland once more, and formed a new Government of National Unity.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1844,
+    "indent": "",
+    "key": "BEL_investigate_bribery_charges",
+    "ver": "",
+    "val": "Investigate Bribery Charges",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1845,
+    "indent": "",
+    "key": "BEL_investigate_bribery_charges_desc",
+    "ver": "",
+    "val": "The allegations of corruption never left the government, and calls for an investigation have intensified. Leon Degrelle, the Fascists Rexist leader has even directly implicated Paul van Zeeland himself accusing him of taking bribes.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1847,
+    "indent": "",
+    "key": "BEL_royal_intervention",
+    "ver": "",
+    "val": "Royal Intervention",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1848,
+    "indent": "",
+    "key": "BEL_royal_intervention_desc",
+    "ver": "",
+    "val": "The government has fallen again, and it is time for the King to step in and take action. There are two candidates for Prime Minister, the sure hand of Paul-Émile Janson or Leon Degrelle who led the complaints against the corruption of the previous regime. ",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1849,
+    "indent": "",
+    "key": "BEL_auto_complete_royal_intervention_tt",
+    "ver": "",
+    "val": "This focus is auto-completed by the outcome of the §YRoyal Appointment§! event.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1851,
+    "indent": "",
+    "key": "BEL_paul_emile_janson",
+    "ver": "",
+    "val": "Paul-Émile Janson",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1852,
+    "indent": "",
+    "key": "BEL_paul_emile_janson_desc",
+    "ver": "",
+    "val": "The liberal choice for Prime Minister, Paul-Émile Janson was chosen by the King as a steady hand to guide the government back to stability in these increasingly unstable days.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1854,
+    "indent": "",
+    "key": "BEL_plan_de_man",
+    "ver": "",
+    "val": "Plan de Man",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1855,
+    "indent": "",
+    "key": "BEL_plan_de_man_desc",
+    "ver": "",
+    "val": "Although it comes at a great political cost, the Prime Minister has been working hard to continue the reforms of Henri de Man, and implement further unemployment measures. This is aimed to further reduce the unemployment rate from a high of 23.5% in 1932, down to 15%.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1857,
+    "indent": "",
+    "key": "BEL_economic_recovery",
+    "ver": "",
+    "val": "Economic Recovery",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1858,
+    "indent": "",
+    "key": "BEL_economic_recovery_desc",
+    "ver": "",
+    "val": "The work of our government, even against the numerous obstacles which have faced it, has led to growth and a rapid recovery of our economy, but even with this there are already rumblings that even this has not been enough.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1860,
+    "indent": "",
+    "key": "BEL_adriaan_martens_crisis",
+    "ver": "",
+    "val": "Adriaan Martens Crisis",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1861,
+    "indent": "",
+    "key": "BEL_adriaan_martens_crisis_desc",
+    "ver": "",
+    "val": "What seemed like a simple appointment, Adriaan Martens to the Royal Academy of Medicine, has since spiraled into a full blown political crisis. This is because it has come to light that Martens was a collaborator in the last war, and has outspoken fascist views. This could very well lead to the collapse of the Spaak government.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1863,
+    "indent": "",
+    "key": "BEL_benelux_union",
+    "ver": "",
+    "val": "Benelux Union",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1864,
+    "indent": "",
+    "key": "BEL_benelux_union_desc",
+    "ver": "",
+    "val": "Prime Minister Spaak has put forward a proposal to unify the BeNeLux nations, [BEL.GetNameDef], [HOL.GetNameDef] and [LUX.GetNameDef] in a singular customs union, with the ultimate goal of a potential full unification into one super-union state. This could even be the blueprint towards a future European Union.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1865,
+    "indent": "",
+    "key": "BEL_benelux_union_tt",
+    "ver": "",
+    "val": "If they are Democratic or Non-Aligned, §Y[HOL.GetNameWithFlag]§! and §Y[LUX.GetNameWithFlag]§! are invited to the §Y$BEL_benelux_union_faction$§!",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1867,
+    "indent": "",
+    "key": "BEL_tripartite_government",
+    "ver": "",
+    "val": "Tripartite Government",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1868,
+    "indent": "",
+    "key": "BEL_tripartite_government_desc",
+    "ver": "",
+    "val": "Like the governments of national unity that came before, Prime Minister Pierlot has managed to unite several democratic parties together in a show of Belgian solidarity. With this politically united front, he finally has the power to push through more radical legislation.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1870,
+    "indent": "",
+    "key": "BEL_the_council_of_europe",
+    "ver": "",
+    "val": "The Council of Europe",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1871,
+    "indent": "",
+    "key": "BEL_the_council_of_europe_desc",
+    "ver": "",
+    "val": "It has become increasingly clear that neutrality is no protection against military expansionism from aggressive neighbors. As such, the only way to ensure peace in Europe is unity. We should bring together the diplomats and heads of state to a singular table, and so found the Council of Europe.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1872,
+    "indent": "",
+    "key": "BEL_the_council_of_europe_tt",
+    "ver": "",
+    "val": "Unlocks decisions to §YInvite other countries to $BEL_european_union$§!.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1874,
+    "indent": "",
+    "key": "BEL_broken_neutrality",
+    "ver": "",
+    "val": "Broken Neutrality",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1875,
+    "indent": "",
+    "key": "BEL_broken_neutrality_desc",
+    "ver": "",
+    "val": "Our declaration of neutrality has served our nation well, and allowed us to grow to a position of strength. We can now cast off these shackles, and usher [BEL.GetNameDef] into a new era.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1877,
+    "indent": "",
+    "key": "BEL_degrelle",
+    "ver": "",
+    "val": "Degrelle",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1878,
+    "indent": "",
+    "key": "BEL_degrelle_desc",
+    "ver": "",
+    "val": "Leon Degrelle, leader of the Rexist party and one of the foremost fascists in [BEL.GetName], has been agitating for some time against the current leadership, successfully revealing their corruption to the public. After the Van Zealand government fell, the King stepped in and appointed Degrelle the new Prime Minister.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1880,
+    "indent": "",
+    "key": "BEL_support_the_rexists",
+    "ver": "",
+    "val": "Support the Rexists",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1881,
+    "indent": "",
+    "key": "BEL_support_the_rexists_desc",
+    "ver": "",
+    "val": "Now that Degrelle has taken his place as Prime Minister, it is time that the party that supported him in getting to this position sees their service rewarded, and senior members promoted to positions on the cabinet.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1883,
+    "indent": "",
+    "key": "BEL_dissolve_political_parties",
+    "ver": "",
+    "val": "Dissolve Political Parties",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1884,
+    "indent": "",
+    "key": "BEL_dissolve_political_parties_desc",
+    "ver": "",
+    "val": "The weakness of democracy has been self-evident as nothing more than a spawning pool for corruption and greed. The people do not need choices, they need to be lead, and only the [ROOT.GetRulingPartyLong] are capable of doing this.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1886,
+    "indent": "",
+    "key": "BEL_the_flemish_question",
+    "ver": "",
+    "val": "The Flemish Question",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1887,
+    "indent": "",
+    "key": "BEL_the_flemish_question_desc",
+    "ver": "",
+    "val": "The ongoing division within [BEL.GetName] continues to cause a rift between our people. We should settle this question once and for all, and decide for ourselves what the proper linguistic standard should be. The people will do what they are told, after all we are all [BEL.GetAdjective], and this trumps any singular quibble like language.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1889,
+    "indent": "",
+    "key": "BEL_christian_corporatism",
+    "ver": "",
+    "val": "Christian Corporatism",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1890,
+    "indent": "",
+    "key": "BEL_christian_corporatism_desc",
+    "ver": "",
+    "val": "We have been studying Italian Corporatism with interest, the concept of collective state-led worker organizations all pushing towards the same economic goals. It is our intention to follow that model, but apply Christian ethics and ideals to create something more uniquely Belgian.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1892,
+    "indent": "",
+    "key": "BEL_legacy_of_the_soldier_king",
+    "ver": "",
+    "val": "Legacy of the Soldier King",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1893,
+    "indent": "",
+    "key": "BEL_legacy_of_the_soldier_king_desc",
+    "ver": "",
+    "val": "King Albert, the Soldier King, war-hero and savior of Belgium. There is much we can learn from this great man, and his example is one that all in our armed forces, nay, all in our nation can learn from. We shall resist and fight any invader to the very last.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1895,
+    "indent": "",
+    "key": "BEL_the_lost_tribe",
+    "ver": "",
+    "val": "The Lost Tribe",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1896,
+    "indent": "",
+    "key": "BEL_the_lost_tribe_desc",
+    "ver": "",
+    "val": "A stain that [BEL.GetName] has had to bear was being brushed together with the conquered and enslaved Gaullic peoples. We are our own lost tribe of Germanics. We are those who resist. We are those who fight. We are those who conquer.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1898,
+    "indent": "",
+    "key": "BEL_invite_german_tank_organization",
+    "ver": "",
+    "val": "Invite [GER.GetAdjective] Tank Developers",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1899,
+    "indent": "",
+    "key": "BEL_invite_german_tank_organization_desc",
+    "ver": "",
+    "val": "With most of our previous armored contacts closed off to us now, we need to seek new partners to work with to bring Panzers to the people.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1901,
+    "indent": "",
+    "key": "BEL_the_walloon_legion",
+    "ver": "",
+    "val": "The Walloon Legion",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1902,
+    "indent": "",
+    "key": "BEL_the_walloon_legion_desc",
+    "ver": "",
+    "val": "With our true ancestry properly established and clarified, it is time we seized on this glorious tradition, and show the world what we can really do.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1904,
+    "indent": "",
+    "key": "BEL_the_new_ruhr",
+    "ver": "",
+    "val": "The New Ruhr",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1905,
+    "indent": "",
+    "key": "BEL_the_new_ruhr_desc",
+    "ver": "",
+    "val": "The Ruhr region in Germany is renowned for its raw industrial output, to such an extent that it has become the envy of the other great powers. Belgium also has a claim to industrial greatness, and a potential which can far surpass that of our neighbor. We have the opportunity, we have the resources, we have the drive and most importantly. We have the people.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1907,
+    "indent": "",
+    "key": "BEL_traditional_family_values",
+    "ver": "",
+    "val": "Traditional Family Values",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1908,
+    "indent": "",
+    "key": "BEL_traditional_family_values_desc",
+    "ver": "",
+    "val": "The Catholic Church has always led us well in terms of proper family ethics, and it is to these teachings that we should continue to adhere. This is the only way we can ensure the stability and growth needed for continued future expansion and prosperity.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1910,
+    "indent": "",
+    "key": "BEL_the_french_horse_and_the_red_rider",
+    "ver": "",
+    "val": "The French Horse And the Red Rider",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1911,
+    "indent": "",
+    "key": "BEL_the_french_horse_and_the_red_rider_desc",
+    "ver": "",
+    "val": "Belgium has for too long been cast under the hoofs of the French, a beast commanded by communist riders. We must rise and stand our ground against this insidious invasion. It is only through showing our confidence and strength, that the creature will shy away and be cowed.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1913,
+    "indent": "",
+    "key": "BEL_nationalize_the_banks",
+    "ver": "",
+    "val": "Nationalize the Banks",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1914,
+    "indent": "",
+    "key": "BEL_nationalize_the_banks_desc",
+    "ver": "",
+    "val": "For too long the banks have been run by greedy little men, caring nothing more than for profit. The banks are an institution in the service of all, so it is only just that we seize control of them, and properly guide their financial instruments to our collective benefit.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1916,
+    "indent": "",
+    "key": "BEL_abandon_neutrality",
+    "ver": "",
+    "val": "Abandon Neutrality",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1917,
+    "indent": "",
+    "key": "BEL_abandon_neutrality_desc",
+    "ver": "",
+    "val": "The cries for neutrality were the words of the weak. In this world, the only diplomacy that matters is demonstrated through strength.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1919,
+    "indent": "",
+    "key": "BEL_international_stipend",
+    "ver": "",
+    "val": "International Stipend",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1920,
+    "indent": "",
+    "key": "BEL_international_stipend_desc",
+    "ver": "",
+    "val": "We have been offered a stipend from fellow fascist nations in order to buy our continued neutrality in their own affairs. If this is to be the price of non-interference, then it is one we can accept. After all, they seem to have forgotten to enter an end-date.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1922,
+    "indent": "",
+    "key": "BEL_civil_service_purge",
+    "ver": "",
+    "val": "Civil Service Purge",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1923,
+    "indent": "",
+    "key": "BEL_civil_service_purge_desc",
+    "ver": "",
+    "val": "The taint of corruption went untreated for too long, and it has thoroughly infiltrated all ranks of the government. Radical diseases need radical cures, and in this instance that cure is the complete purge of anyone we suspect of corrupt practices.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1925,
+    "indent": "",
+    "key": "BEL_royal_commander_in_chief",
+    "ver": "",
+    "val": "Royal Commander In Chief",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1926,
+    "indent": "",
+    "key": "BEL_royal_commander_in_chief_desc",
+    "ver": "",
+    "val": "King Leopold III comes from good, soldier stock. King Albert was a war hero, he stood by the nation during its darkest hours and led us to glorious victory. All Leopold wants is to prove himself and step outside of his father's shadow. We just need to give him the opportunity.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1928,
+    "indent": "",
+    "key": "BEL_the_european_crusade",
+    "ver": "",
+    "val": "The European Crusade",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1929,
+    "indent": "",
+    "key": "BEL_the_european_crusade_desc",
+    "ver": "",
+    "val": "There are vultures circling on the boundaries of Europe, their barbaric ideologies seeking weakness against the civilized nations contained within. It is our calling to stand as the bastion for order and progress, our nation having proved its unparalleled determination rightfully stand as leaders in this struggle.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1931,
+    "indent": "",
+    "key": "BEL_belgian_renaissance",
+    "ver": "",
+    "val": "Belgian Renaissance",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1932,
+    "indent": "",
+    "key": "BEL_belgian_renaissance_desc",
+    "ver": "",
+    "val": "We have been battered, we have been beaten, but never have we been broken. It is only through the exceptional example of the [ROOT.GetRulingPartyLong] that this has been possible. It will only be through our continued leadership that this Belgian renaissance will be able to continue, well on the road to another golden age.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1934,
+    "indent": "",
+    "key": "BEL_support_the_vnv",
+    "ver": "",
+    "val": "Support the VNV",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1935,
+    "indent": "",
+    "key": "BEL_support_the_vnv_desc",
+    "ver": "",
+    "val": "As part of the recent election, the Vlaamsch Nationaal Verbond, or Flemish National Union allied with the Rex party with the intention of creating a corporatist state. Now that Degrelle has risen to power, it's time for him to reward his allies and begin making steps towards a more expansionist fascist state with their eyes firmly on reunification with the Netherlands.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1936,
+    "indent": "",
+    "key": "BEL_vnv_dominant_tt",
+    "ver": "",
+    "val": "§Y[BEL.GetName]§! will be known as §YVlaanderen§!",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1938,
+    "indent": "",
+    "key": "BEL_revitalize_nederlands",
+    "ver": "",
+    "val": "Revitalize Nederlands",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1939,
+    "indent": "",
+    "key": "BEL_revitalize_nederlands_desc",
+    "ver": "",
+    "val": "Our language has virtually disappeared! Even the courts give out their pronouncements in French, and only local dialects are remembered. The first step to restoring Flemish greatness is to ensure the proper language is spoken by our government and our people. Nederlands!",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1941,
+    "indent": "",
+    "key": "BEL_flanders_ascendant",
+    "ver": "",
+    "val": "Flanders Ascendant",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1942,
+    "indent": "",
+    "key": "BEL_flanders_ascendant_desc",
+    "ver": "",
+    "val": "Now that pride in Flemish traditions and history is on the rise, it is time for us to seize on this newly rekindled nationalist feeling and lead our nation towards its destiny- unification with the Netherlands.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1944,
+    "indent": "",
+    "key": "BEL_dietsland",
+    "ver": "",
+    "val": "Dietsland",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1945,
+    "indent": "",
+    "key": "BEL_dietsland_desc",
+    "ver": "",
+    "val": "Our efforts to secure the rest of the Dutch speaking lands in Europe have been a success, but it seems that not all of our brothers have adapted to this new future quite so well as we had expected. We should remind them of the culture and language that we share.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1946,
+    "indent": "",
+    "key": "BEL_dietsland_tt",
+    "ver": "",
+    "val": "§Y[BEL.GetName]§! will be known as §YDietsland§!",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1948,
+    "indent": "",
+    "key": "BEL_demand_calais",
+    "ver": "",
+    "val": "Demand Calais",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1949,
+    "indent": "",
+    "key": "BEL_demand_calais_desc",
+    "ver": "",
+    "val": "Although our project to reunite the nation is almost complete, there is a critical part of Flanders still in foreign hands; Kales. It was originally a part of the County of Flanders a thousand years ago, and thus it is now only proper that it be restored to us.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1950,
+    "indent": "",
+    "key": "treaty_of_calais",
+    "ver": "",
+    "val": "The Treaty of Calais has been signed",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1951,
+    "indent": "",
+    "key": "BEL_demand_calais_tt",
+    "ver": "",
+    "val": "Our options for this will range from attempting to §Ybuy Calais§!, to §Ytrading a part of Congo for Calais§!, to making a §Ydemand§!, and §Yfighting for it§!, should such action be needed.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1953,
+    "indent": "",
+    "key": "BEL_belgian_east_indies",
+    "ver": "",
+    "val": "Belgian East Indies",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1954,
+    "indent": "",
+    "key": "BEL_belgian_east_indies_desc",
+    "ver": "",
+    "val": "The Dutch had significant colonial possessions abroad, in particular the East Indies. Our own imperial ambitions never went away, and there is always space to add a couple more jewels to our crown.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1956,
+    "indent": "",
+    "key": "BEL_burgundy_rising",
+    "ver": "",
+    "val": "Burgundy Rising",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1957,
+    "indent": "",
+    "key": "BEL_burgundy_rising_desc",
+    "ver": "",
+    "val": "The golden age of Flemish power and influence was when we dominated the Duchy of Burgundy. If we ever wish to restore our global prestige, we must uphold the martial and financial traditions of our ancestors. The first step in achieving this will of course be to reclaim those territories.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1958,
+    "indent": "",
+    "key": "BEL_burgundy_tt",
+    "ver": "",
+    "val": "§Y[BEL.GetName]§! will be known as §YBurgundy§!",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1960,
+    "indent": "",
+    "key": "BEL_join_axis",
+    "ver": "",
+    "val": "Join Axis",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1961,
+    "indent": "",
+    "key": "BEL_join_axis_desc",
+    "ver": "",
+    "val": "We have been isolated for too long, it is time that we joined with our Germanic brethren and secure an alliance between us in order to protect and expand our mutual ambitions.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1963,
+    "indent": "",
+    "key": "BEL_strength_and_brotherhood",
+    "ver": "",
+    "val": "Strength and Brotherhood",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1964,
+    "indent": "",
+    "key": "BEL_strength_and_brotherhood_desc",
+    "ver": "",
+    "val": "We will seek out those whose ideals of strength and brotherhood align with ours, and like the lion form our own pride. In this way, we can carry forward that which makes us powerful, and tear apart those weaker in mind and spirit like the prey they are.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1966,
+    "indent": "",
+    "key": "BEL_demand_further_gallic_concessions",
+    "ver": "",
+    "val": "Demand Further Gallic Concessions",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1967,
+    "indent": "",
+    "key": "BEL_demand_further_gallic_concessions_desc",
+    "ver": "",
+    "val": "It is time that we threw off the cloak of intrigue and allow our real intentions to shine. The rifts between us have never been a secret, but we must show our superiority once and for all. It is time to seize our destiny, come what may.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1968,
+    "indent": "",
+    "key": "BEL_demand_further_gallic_concessions_tt",
+    "ver": "",
+    "val": "Unlocks decisions to §YGain Cores on the Gallic Claims§! after we have come in control of them.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1970,
+    "indent": "",
+    "key": "BEL_belgica",
+    "ver": "",
+    "val": "Belgica",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1971,
+    "indent": "",
+    "key": "BEL_belgica_desc",
+    "ver": "",
+    "val": "Belgica was one of the northern most territories of the Roman Empire, so called because of the most influential group of people living in the area. Clearly, if the Romans were able to identify the power of the Belgian people, then it is only right that we seize on their example and take it further than the Romans ever dreamed possible.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1972,
+    "indent": "",
+    "key": "BEL_belgica_tt",
+    "ver": "",
+    "val": "§Y[BEL.GetName]§! will be known as §YBelgica§!",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1974,
+    "indent": "",
+    "key": "BEL_constitutional_crisis",
+    "ver": "",
+    "val": "Constitutional Crisis",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1975,
+    "indent": "",
+    "key": "BEL_constitutional_crisis_desc",
+    "ver": "",
+    "val": "Hubert Pierlot, an outspoken critic of Fascism and Leon Degrelle vocally opposed the King's decision to appoint the latter as Prime Minister. He has rallied support in Parliament and forced through an emergency bill declaring the king temporarily unable to reign and thus to declare the appointment void before it could get the royal assent.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1977,
+    "indent": "",
+    "key": "BEL_kings_abdication",
+    "ver": "",
+    "val": "Kings Abdication",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1978,
+    "indent": "",
+    "key": "BEL_kings_abdication_desc",
+    "ver": "",
+    "val": "Following the public break down of relations between the parliament and the monarch, pressure has been applied to King Leopold to abdicate. The hope is that he will go peacefully.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1979,
+    "indent": "",
+    "key": "BEL_kings_abdication_tt",
+    "ver": "",
+    "val": "§GWith King Leopold gone, Belgium will be far more resilient to invasion.§!",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1981,
+    "indent": "",
+    "key": "BEL_snap_election",
+    "ver": "",
+    "val": "Snap Election",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1982,
+    "indent": "",
+    "key": "BEL_snap_election_desc",
+    "ver": "",
+    "val": "With the Constitutional Crisis contained for the moment, it's time to ensure the government once again has its legitimacy otherwise it's no different from those it just deposed. At the moment Paul-Henri Spaak of the Socialists and Hubert Pierlot of the Catholic Party are the forerunners.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1983,
+    "indent": "",
+    "key": "BEL_auto_complete_snap_election_tt",
+    "ver": "",
+    "val": "This focus is auto-completed by the outcome of the §YSnap Election§! event.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1985,
+    "indent": "",
+    "key": "BEL_liberal_victory",
+    "ver": "",
+    "val": "Liberal Victory",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1986,
+    "indent": "",
+    "key": "BEL_liberal_victory_desc",
+    "ver": "",
+    "val": "The economically liberal Catholic Party took the top spot in the recent election, and Hubert Pierlot will lead [BEL.GetName] promising to defend it and the Belgian people to the last.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1988,
+    "indent": "",
+    "key": "BEL_socialist_victory",
+    "ver": "",
+    "val": "Socialist Victory",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1989,
+    "indent": "",
+    "key": "BEL_socialist_victory_desc",
+    "ver": "",
+    "val": "Paul-Henri Spaak led the Labour Party to victory in the snap election, and has vowed to do all in his power to maintain the integrity of Belgian borders, regardless of whether they align with the Communists or Democrats to do so.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1991,
+    "indent": "",
+    "key": "BEL_expression_of_belgian_unity",
+    "ver": "",
+    "val": "Expression of Belgian Unity",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1992,
+    "indent": "",
+    "key": "BEL_expression_of_belgian_unity_desc",
+    "ver": "",
+    "val": "The cultures that comprise the [BEL.GetAdjective] identity are our greatest strength, for it is from different ideals, perspectives, and indeed languages that we can find true understanding. That which divides us, unites us.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1994,
+    "indent": "",
+    "key": "BEL_anti_corruption_taskforce",
+    "ver": "",
+    "val": "Anti-Corruption Taskforce",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1995,
+    "indent": "",
+    "key": "BEL_anti_corruption_taskforce_desc",
+    "ver": "",
+    "val": "Corruption has been rampant within the state for too long, now that we have rid ourselves of the rot at the top, it is time we clamp down on the rest. We shall order a special investigatory task force with sweeping powers to uncover, and cast out those who have been enriching themselves at the cost of the taxpayer.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1997,
+    "indent": "",
+    "key": "BEL_diplomatic_rapprochment",
+    "ver": "",
+    "val": "Diplomatic Rapprochement",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 1998,
+    "indent": "",
+    "key": "BEL_diplomatic_rapprochment_desc",
+    "ver": "",
+    "val": "Our expression of neutrality was necessary to the political and diplomatic realities of the time, however, this has now changed. We never stopped speaking to our friends in other nations, but we should now be more open and public about this.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2000,
+    "indent": "",
+    "key": "BEL_belgian_maginot",
+    "ver": "",
+    "val": "Belgian Maginot",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2001,
+    "indent": "",
+    "key": "BEL_belgian_maginot_desc",
+    "ver": "",
+    "val": "Belgium is a buffer state between two mighty, military nations and throughout its history has been threatened by both. As such, we have become masters of defensive warfare. The French Maginot line reaches our border, and we need to lengthen it to defend our own nation. If we make ourselves unconquerable, we will never even be attacked.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2002,
+    "indent": "",
+    "key": "BEL_belgian_maginot_available_tt",
+    "ver": "",
+    "val": "Controls and can build at least §Y3 Land Forts§! in a province in §Y[980.GetName]§!, §Y[6.GetName]§!, §Y[34.GetName]§! or §Y[977.GetName]§! on the §Y[ROOT.GetAdjective]§!-§Y[HOL.GetAdjective]§! Border",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2003,
+    "indent": "",
+    "key": "BEL_belgian_maginot_bypass_tt",
+    "ver": "",
+    "val": "Does §RNOT§! control or cannot build at least §Y3 Land Forts§! in a province in §Y[980.GetName]§!, §Y[6.GetName]§!, §Y[34.GetName]§! or §Y[977.GetName]§! on the §Y[ROOT.GetAdjective]§!-§Y[HOL.GetAdjective]§! Border",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2004,
+    "indent": "",
+    "key": "BEL_belgian_maginot_tt",
+    "ver": "",
+    "val": "Add §YLand Forts§! along the §Y[ROOT.GetAdjective]§!-§Y[HOL.GetAdjective]§! Border",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2006,
+    "indent": "",
+    "key": "BEL_soviet_guarantee",
+    "ver": "",
+    "val": "Soviet Guarantee",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2007,
+    "indent": "",
+    "key": "BEL_soviet_guarantee_desc",
+    "ver": "",
+    "val": "Despite our more democratic leanings, we have embraced the socialist way, and we have much to offer [SOV.GetNameDef]. So long as we offer the correct platitudes, and abide by their broad diplomatic overtures then we might make a friend of the Russian Bear.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2008,
+    "indent": "",
+    "key": "BEL_soviet_guarantee_tt",
+    "ver": "",
+    "val": "They will be more likely to §Gaccept§! if we have completed §Y$BEL_raise_the_red_flag$§!.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2010,
+    "indent": "",
+    "key": "BEL_expedite_fort_construction",
+    "ver": "",
+    "val": "Expedite Fort Construction",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2011,
+    "indent": "",
+    "key": "BEL_expedite_fort_construction_desc",
+    "ver": "",
+    "val": "This is a dangerous world, beset by hostile powers. We need to ensure we are ready, and invest more heavily in our fortification and engineering sectors so that we have the preparations in place, before they are needed.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2013,
+    "indent": "",
+    "key": "BEL_democratization_of_education",
+    "ver": "",
+    "val": "Democratization of Education",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2014,
+    "indent": "",
+    "key": "BEL_democratization_of_education_desc",
+    "ver": "",
+    "val": "Our society has a tradition of care to each other, best embodied by the social contract between our workers and the corporations. Similarly, the state should seek to give everyone an equality of opportunity and highlight the importance of a good education.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2016,
+    "indent": "",
+    "key": "BEL_invite_soviet_tank_makers",
+    "ver": "",
+    "val": "Invite [SOV.GetAdjective] Tank Developers",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2017,
+    "indent": "",
+    "key": "BEL_invite_soviet_tank_makers_desc",
+    "ver": "",
+    "val": "Previously we have always relied on our allies for armored units, and even though our friends have changed this policy has not. Thanks to our friendly relations with the Soviet Union, we might be able to convince them to support us with some insights.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2019,
+    "indent": "",
+    "key": "BEL_join_allies",
+    "ver": "",
+    "val": "Join Allies",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2020,
+    "indent": "",
+    "key": "BEL_join_allies_desc",
+    "ver": "",
+    "val": "The Great War saw us stand together as allies before, and together we stood the test of invasion. Together we will stand again, against all who would do us harm.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2022,
+    "indent": "",
+    "key": "BEL_unity_makes_strength",
+    "ver": "",
+    "val": "Unity Makes Strength",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2023,
+    "indent": "",
+    "key": "BEL_unity_makes_strength_desc",
+    "ver": "",
+    "val": "Initially the motto of the Dutch Republic, back when it ruled both the Netherlands and Belgium. It was formally embraced by the Belgian state following the Revolution in 1830 which led to our independence. It was really enshrined by the unity of liberal progressives and Catholic conservatives who stood at the center of Belgian politics, and has embodied the Belgian ideal ever since.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2025,
+    "indent": "",
+    "key": "BEL_join_comintern",
+    "ver": "",
+    "val": "Join Comintern",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2026,
+    "indent": "",
+    "key": "BEL_join_comintern_desc",
+    "ver": "",
+    "val": "The Comintern has a history of aiding those who stand for the socialist way, and beset as we are on all sides by those who wish to stifle the burgeoning liberation of our workers, we must look to the east for new friends.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2028,
+    "indent": "",
+    "key": "BEL_better_than_maginot",
+    "ver": "",
+    "val": "Better Than Maginot",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2029,
+    "indent": "",
+    "key": "BEL_better_than_maginot_desc",
+    "ver": "",
+    "val": "Our fortifications must go from world leading, to world beating. We never know where the next attack will come from, so we must be prepared for anything. We must build trenches supported by trenches, bunkers upon bunkers, and most importantly. We need more guns. Lots more guns. Big ones.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2031,
+    "indent": "",
+    "key": "BEL_vandervelde_minority",
+    "ver": "",
+    "val": "Vandervelde Minority",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2032,
+    "indent": "",
+    "key": "BEL_vandervelde_minority_desc",
+    "ver": "",
+    "val": "Émile Vandervelde swept to victory in the election, however, his Labour Party was only able to win through a minority. After coalition negotiations collapsed, he has elected to go it alone, though the political road ahead will be tough.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2034,
+    "indent": "",
+    "key": "BEL_problem_of_language",
+    "ver": "",
+    "val": "Problem of Language",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2035,
+    "indent": "",
+    "key": "BEL_problem_of_language_desc",
+    "ver": "",
+    "val": "Belgium has for too long been divided by language, and if the Labour Party stands any hope of uniting the nation behind their rule, the obvious place to stand would be by making their stance on language primacy clear - or even to lead efforts towards official bilingualism as is practiced in Brussels.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2037,
+    "indent": "",
+    "key": "BEL_trade_union_support",
+    "ver": "",
+    "val": "Trade Union Support",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2038,
+    "indent": "",
+    "key": "BEL_trade_union_support_desc",
+    "ver": "",
+    "val": "Our natural allies in the political struggle are the trade unions, but so far their support for our movement has been lukewarm. We can intensify our promises to them, and in turn they will rally their membership in our favor.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2040,
+    "indent": "",
+    "key": "BEL_cooperative_cooperation",
+    "ver": "",
+    "val": "Cooperative Cooperation",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2041,
+    "indent": "",
+    "key": "BEL_cooperative_cooperation_desc",
+    "ver": "",
+    "val": "Cooperatives have been a part of Belgian society for some time, and their business model is very compatible with the economic ideal which we espouse. We should cooperate with those already established, and use their expertise to train a new generation of socially aware businesses.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2043,
+    "indent": "",
+    "key": "BEL_aid_for_spain",
+    "ver": "",
+    "val": "Aid For Spain",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2044,
+    "indent": "",
+    "key": "BEL_aid_for_spain_desc",
+    "ver": "",
+    "val": "The Spanish Republicans are fighting for their democratic ideals against dangerous fascist and anarchist radicals. We should quietly offer them support in their struggle, but be careful to maintain our appearance of neutrality.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2046,
+    "indent": "",
+    "key": "BEL_the_grand_place",
+    "ver": "",
+    "val": "The Grand-Place",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2047,
+    "indent": "",
+    "key": "BEL_the_grand_place_desc",
+    "ver": "",
+    "val": "The grand square at the center of Brussels has long been a hotbed of socialist thinking. Most famously, Karl Marx wrote the Communist Manifesto here, followed to that same place hosting the 3rd Congress of the First International, and eventually being the foundational location of the first socialist party, the Belgian Workers Party.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2049,
+    "indent": "",
+    "key": "BEL_la_belgique_et_le_congo",
+    "ver": "",
+    "val": "La Belgique et le Congo",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2050,
+    "indent": "",
+    "key": "BEL_la_belgique_et_le_congo_desc",
+    "ver": "",
+    "val": "Belgium's role in the Congo has long been one of exploitation and persecution, when it should be one of promoting equality and opportunity. With our renewed domestic emphasis on socialist ideals, it is high time that we begin to educate our colonial brethren in this philosophy, and begin to invest in their socialist future.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2052,
+    "indent": "",
+    "key": "BEL_spanish_intervention",
+    "ver": "",
+    "val": "Spanish Intervention",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2053,
+    "indent": "",
+    "key": "BEL_spanish_intervention_desc",
+    "ver": "",
+    "val": "The Republican situation in Spain is tenuous, and it is clear that for democracy to prevail, those who hold it dear must escalate their support of those who fight for it.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2054,
+    "indent": "",
+    "key": "BEL_spanish_intervention_tt",
+    "ver": "",
+    "val": "Unlocks decisions for further §Y$BEL_intervention_in_spain_cat$§!.\\n\\nWe will be able to send equipment, encourage emigration to help their effort, and support them politically.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2056,
+    "indent": "",
+    "key": "BEL_contradictions_in_socialism",
+    "ver": "",
+    "val": "Contradictions in Socialism",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2057,
+    "indent": "",
+    "key": "BEL_contradictions_in_socialism_desc",
+    "ver": "",
+    "val": "Our recent successes in expanding socialist ideals in the Congo has clearly borne fruit, as the people there are more prosperous than ever. As such it is very clear to us that we must expand this, our \"Socializing Mission\" throughout Africa!",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2058,
+    "indent": "",
+    "key": "BEL_contradictions_in_socialism_tt",
+    "ver": "",
+    "val": "Gains §YTake Claimed State§! Wargoals against countries currently holding claims gained from this focus.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2060,
+    "indent": "",
+    "key": "BEL_growing_threat_of_fascism",
+    "ver": "",
+    "val": "Growing Threat of Fascism",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2061,
+    "indent": "",
+    "key": "BEL_growing_threat_of_fascism_desc",
+    "ver": "",
+    "val": "The rise of radical fascist support throughout Europe, and indeed the world, has become a very concerning trend, and we should be prepared to do what we must to prevent its spread. Even if such actions must be preemptive.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2063,
+    "indent": "",
+    "key": "BEL_peacekeeping_missions",
+    "ver": "",
+    "val": "Peacekeeping Missions",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2064,
+    "indent": "",
+    "key": "BEL_peacekeeping_missions_desc",
+    "ver": "",
+    "val": "Ongoing conflicts throughout the world continue to cause us concern, however, in order to maintain an outward veneer of neutrality we can only send troops abroad in sanctioned peacekeeping missions.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2066,
+    "indent": "",
+    "key": "BEL_international_socialist_bureau",
+    "ver": "",
+    "val": "International Socialist Bureau",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2067,
+    "indent": "",
+    "key": "BEL_international_socialist_bureau_desc",
+    "ver": "",
+    "val": "The Second International had a permanent secretariat stationed in Brussels, and while that organization was dissolved in 1916, the socialist struggle continues. Now that we have regained our footing on the international stage, we should reestablish the institution and take a leadership role within the Socialist International again.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2069,
+    "indent": "",
+    "key": "BEL_raise_the_red_flag",
+    "ver": "",
+    "val": "Raise the Red Flag",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2070,
+    "indent": "",
+    "key": "BEL_raise_the_red_flag_desc",
+    "ver": "",
+    "val": "To date, most of our efforts have been in line with the more moderate socialist ideal, however, in order to align ourselves more with the Soviet bloc, we may need to increase our support of the Communist party. The first step towards this would be to endorse \"Le Drapeau Rouge\" (The Red Flag), the Communist Newspaper within Belgium.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2071,
+    "indent": "",
+    "key": "BEL_raise_the_red_flag_tt",
+    "ver": "",
+    "val": "Unlocks the decisions to §Y$BEL_rekindle_the_red_flame_cat$§! and turn [BEL.GetNameDef] §YCommunist§!.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2073,
+    "indent": "",
+    "key": "BEL_support_the_european_project",
+    "ver": "",
+    "val": "Support the European Project",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2074,
+    "indent": "",
+    "key": "BEL_support_the_european_project_desc",
+    "ver": "",
+    "val": "In a world dominated by war and conflict, it has become extremely apparent to us that neutrality is no guarantee of peace. As such, we should reach out to fellow European states and create a body dedicated to mutual security and economic stability, and thus together we can prosper.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2076,
+    "indent": "",
+    "key": "BEL_european_community",
+    "ver": "",
+    "val": "European Community",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2077,
+    "indent": "",
+    "key": "BEL_european_community_desc",
+    "ver": "",
+    "val": "The early days of the European Project have gone well, so we should consider expansion of our membership and the ratification of a series of treaties that govern the future of our community. We could even consider moving towards a more federal model, with Belgium taking a leading role at it's heart.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2078,
+    "indent": "",
+    "key": "BEL_european_community_tt",
+    "ver": "",
+    "val": "Unlocks decisions to pursue §Y$BEL_closer_european_union_cat$§!",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2080,
+    "indent": "",
+    "key": "BEL_the_king_surrenders",
+    "ver": "",
+    "val": "The King Surrenders",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2081,
+    "indent": "",
+    "key": "BEL_the_king_surrenders_desc",
+    "ver": "",
+    "val": "In a surprise move, King Leopold III has invoked his powers as Commander in Chief to offer the unconditional surrender of all Belgian military units to the enemy. Ostensibly this was to save as many lives as possible, but there are whispers of a darker motivation.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2083,
+    "indent": "",
+    "key": "BEL_unfit_to_reign",
+    "ver": "",
+    "val": "Unfit to Reign",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2084,
+    "indent": "",
+    "key": "BEL_unfit_to_reign_desc",
+    "ver": "",
+    "val": "In light of the unconditional surrender offered by King Leopold III without parliamentary approval, the civilian government has declared him unfit to rule, and have vowed to continue the war from abroad.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2086,
+    "indent": "",
+    "key": "BEL_prisoner_king",
+    "ver": "",
+    "val": "Prisoner King",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2087,
+    "indent": "",
+    "key": "BEL_prisoner_king_desc",
+    "ver": "",
+    "val": "King Leopold III, eager to serve the sentence alongside his people has chosen to remain in [BEL.GetNameDef] as a captive. Now dubbed the 'Prisoner-King', his people met this action with approval and have begun to rally around his example in these difficult times.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2089,
+    "indent": "",
+    "key": "BEL_government_in_exile",
+    "ver": "",
+    "val": "Government in Exile",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2090,
+    "indent": "",
+    "key": "BEL_government_in_exile_desc",
+    "ver": "",
+    "val": "The surviving [BEL.GetAdjective] political elite have now arrived in their host capital, among them a number of key ministers including, Hubert Pierlot, Paul-Henri Spaak, Camille Gutt and Albert van Vleeshauwer. Together, they have formed the \"Government of Four\", and have vowed to see the war through to its victorious conclusion.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2092,
+    "indent": "",
+    "key": "BEL_la_dame_blanche",
+    "ver": "",
+    "val": "La Dame Blanche",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2093,
+    "indent": "",
+    "key": "BEL_la_dame_blanche_desc",
+    "ver": "",
+    "val": "Dame Blanche, or The White Lady was the underground resistance organization during the Great War. Walthère Dewé, the leader of the movement during that time has been quietly preparing for Belgium to be occupied again, and it is now time for us to unleash the capabilities of this organization for a second time.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2094,
+    "indent": "",
+    "key": "BEL_government_in_exile_tt",
+    "ver": "",
+    "val": "Unlocks §Y$BEL_government_in_exile_cat$§! to allow for the strengthening of [ROOT.GetName]'s legitimacy and resistance.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2096,
+    "indent": "",
+    "key": "BEL_moi_dabord",
+    "ver": "",
+    "val": "Moi d'abord",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2097,
+    "indent": "",
+    "key": "BEL_moi_dabord_desc",
+    "ver": "",
+    "val": "Moi d'abord! Me first! Spaak's famous cry when the enemy ambassador came with the declaration of war. Already furious about the outbreak of hostilities, Spaak wanted to get the surprise attack noted in the international record before the declaration of war could be delivered. This has since become a rallying cry for supporters of the government in exile.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2099,
+    "indent": "",
+    "key": "BEL_v_for_victory",
+    "ver": "",
+    "val": "V For Victory",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2100,
+    "indent": "",
+    "key": "BEL_v_for_victory_desc",
+    "ver": "",
+    "val": "Victoire! Vryheid! Two words, victory and freedom, found between the Belgian languages and identified by the same letter. The upraised index and middle finger have become a symbol of defiance and determination among the Belgian populace before spreading to foreign shores, and is even being adopted by similarly defiant national leaders.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2102,
+    "indent": "",
+    "key": "BEL_democratic_homecoming",
+    "ver": "",
+    "val": "Democratic Homecoming",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2103,
+    "indent": "",
+    "key": "BEL_democratic_homecoming_desc",
+    "ver": "",
+    "val": "It was not royalty that won us our homeland back, but our democratic institutions and the process of raising the most able of our citizens to lead us. We should acknowledge their valuable contribution to this moment, and enshrine their successes for future generations.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2105,
+    "indent": "",
+    "key": "BEL_charles_count_of_flanders",
+    "ver": "",
+    "val": "Charles, Count of Flanders",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2106,
+    "indent": "",
+    "key": "BEL_charles_count_of_flanders_desc",
+    "ver": "",
+    "val": "It is clear that Leopold cannot be trusted to resume the throne, having abdicated his responsibility as soon as he surrendered the nation. Thankfully he has a younger brother, Prince Charles, the Count of Flanders, who would make an excellent regent until we can formerly decide what to do with the 'king'.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2108,
+    "indent": "",
+    "key": "BEL_leopolds_return",
+    "ver": "",
+    "val": "Leopold's Return",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2109,
+    "indent": "",
+    "key": "BEL_leopolds_return_desc",
+    "ver": "",
+    "val": "King Leopold III is the legitimate ruler of [BEL.GetNameDef], and he should resume his throne now that Belgium has been restored to us.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2111,
+    "indent": "",
+    "key": "BEL_secretaries_general",
+    "ver": "",
+    "val": "Secretaries General",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2112,
+    "indent": "",
+    "key": "BEL_secretaries_general_desc",
+    "ver": "",
+    "val": "Although we would do all we can to defend our nation, we had to be realistic when looking at our much larger neighbours, and take the tough decision to create legislation in case of our capitulation. As such, we have formed the Secretaries General, these are civil servants who have been legally allowed to collaborate with any occupier, and ensure that local government is able to continue.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2114,
+    "indent": "",
+    "key": "BEL_the_secret_army",
+    "ver": "",
+    "val": "The Secret Army",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2115,
+    "indent": "",
+    "key": "BEL_the_secret_army_desc",
+    "ver": "",
+    "val": "Now that our country has been occupied, we need to begin the task of building the resistance to engage in acts of sabotage and disruption. The Secret Army is our conduit to this, founded by a number of officers from our defeated army, they have the organizational and logistical skills needed to set this in motion. All we need do, is give the order.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2117,
+    "indent": "",
+    "key": "BEL_the_belgian_legion",
+    "ver": "",
+    "val": "The Belgian Legion",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2118,
+    "indent": "",
+    "key": "BEL_the_belgian_legion_desc",
+    "ver": "",
+    "val": "The Belgian Legion are a collection of conservative and royalist loyalists, ready and eager to take up arms in the name of their king. We should smuggle who we can out of the nation, and put them to good use.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2120,
+    "indent": "",
+    "key": "BEL_develop_home_support",
+    "ver": "",
+    "val": "Develop Home Support",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2121,
+    "indent": "",
+    "key": "BEL_develop_home_support_desc",
+    "ver": "",
+    "val": "Even though most of the war effort is coordinated from our place in exile, we still enjoy broad support at home. This is primarily thanks to the work of the Secretaries General, who have proven well able to organize civic efforts without unduly antagonizing the occupiers.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2123,
+    "indent": "",
+    "key": "BEL_military_service_for_all_in_exile",
+    "ver": "",
+    "val": "Military Service For All In Exile",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2124,
+    "indent": "",
+    "key": "BEL_military_service_for_all_in_exile_desc",
+    "ver": "",
+    "val": "There are a great many [BEL.GetAdjective]s living all over the world. We should decree that they are all to be pressed into immediate service for the purposes of liberating our homeland. Patriotic fervor is high, and we can expect a great influx of support.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2126,
+    "indent": "",
+    "key": "BEL_consolidate_resistance_groups",
+    "ver": "",
+    "val": "Consolidate Resistance Groups",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2127,
+    "indent": "",
+    "key": "BEL_consolidate_resistance_groups_desc",
+    "ver": "",
+    "val": "There are a great number of resistance organizations within [BEL.GetNameDef], all eager to support our liberation but divided by a plethora of different ideologies, opinions, ideals, interest groups and supporters. As the government in exile, it is within our power to provide the central organizing initiative to bring them all towards our united goal.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2129,
+    "indent": "",
+    "key": "BEL_free_belgian_forces",
+    "ver": "",
+    "val": "Free Belgian Forces",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2130,
+    "indent": "",
+    "key": "BEL_free_belgian_forces_desc",
+    "ver": "",
+    "val": "Our presence abroad has grown enough now that we can begin proper military actions against our occupiers. Even though the battle might not immediately be for Belgium itself, we can at least bring the fight to our enemies at last, and contribute more directly to the war effort with [BEL.GetAdjective] blood and steel.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2131,
+    "indent": "",
+    "key": "BEL_free_belgian_forces_tt",
+    "ver": "",
+    "val": "2 §YDivision d'Infanterie§! will spawn in a random state in the homeland of the exile host.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2133,
+    "indent": "",
+    "key": "BEL_king_law_freedom",
+    "ver": "",
+    "val": "King, Law, Freedom",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2134,
+    "indent": "",
+    "key": "BEL_king_law_freedom_desc",
+    "ver": "",
+    "val": "A good Belgian fights for King, Law and Freedom. We should note that the king comes before all others, as should Leopold III as our king. For it is his laws that we uphold, and for his freedom that we fight.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2136,
+    "indent": "",
+    "key": "BEL_king_of_the_belgians",
+    "ver": "",
+    "val": "King of the Belgians",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2137,
+    "indent": "",
+    "key": "BEL_king_of_the_belgians_desc",
+    "ver": "",
+    "val": "'I swear to observe the Constitution and the laws of the Belgian people, to maintain the national independence and the integrity of the territory' these are the words by which a man becomes a king, uttered in three languages, French, Dutch and German.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2139,
+    "indent": "",
+    "key": "BEL_rally_to_the_king",
+    "ver": "",
+    "val": "Rally to the King",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2140,
+    "indent": "",
+    "key": "BEL_rally_to_the_king_desc",
+    "ver": "",
+    "val": "The King has become more than simply a prisoner, he has become a symbol for our struggling nation. We are sure that with his leadership, skill, intelligence and determination we shall come through these dark days, and emerge a stronger, more prosperous nation.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2142,
+    "indent": "",
+    "key": "BEL_van_overstraeten_on_the_home_front",
+    "ver": "",
+    "val": "Van Overstraeten on the Home Front",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2143,
+    "indent": "",
+    "key": "BEL_van_overstraeten_on_the_home_front_desc",
+    "ver": "",
+    "val": "By far the most intelligent of all military personnel, the drawback is that he knows it. Van Overstraeten has capably served as the King's military advisor before the outbreak of the war, and while his character makes working with him a challenge, our circumstances are such that we must ask him to take the field, and lead our nation to victory.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2145,
+    "indent": "",
+    "key": "BEL_expand_the_belgian_legion",
+    "ver": "",
+    "val": "Expand the Belgian Legion",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2146,
+    "indent": "",
+    "key": "BEL_expand_the_belgian_legion_desc",
+    "ver": "",
+    "val": "More and more flock to the king's banner, ready to give their all in service to the crown. We have but to give the word, and they will march where we bid.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2147,
+    "indent": "",
+    "key": "BEL_expand_the_belgian_legion_tt",
+    "ver": "",
+    "val": "3 §YDivision d'Infanterie§! will spawn in a random state in the homeland of the exile host.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2149,
+    "indent": "",
+    "key": "BEL_the_price_to_pay",
+    "ver": "",
+    "val": "The Price to Pay",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2150,
+    "indent": "",
+    "key": "BEL_the_price_to_pay_desc",
+    "ver": "",
+    "val": "The King has been in discussions with our occupiers for some time now, and his character has enabled him to earn their trust. As such, it is possible that we could have the lands lost in Belgium restored to us. The price they ask in return is simple. Kneel.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2152,
+    "indent": "",
+    "key": "BEL_monetary_reconstruction",
+    "ver": "",
+    "val": "Monetary Reconstruction",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2153,
+    "indent": "",
+    "key": "BEL_monetary_reconstruction_desc",
+    "ver": "",
+    "val": "Following the First World War, the Belgian economy was left in tatters. In a bid to facilitate reconstruction and to pay off its massive debts the Belgian finance ministry started printing money. Lots of money. Although this helped at the time, we are at risk of hyperinflation, and must get this under control before any other reforms can take place.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2155,
+    "indent": "",
+    "key": "BEL_rebuild_wallonian_industry",
+    "ver": "",
+    "val": "Rebuild Wallonian Industry",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2156,
+    "indent": "",
+    "key": "BEL_rebuild_wallonian_industry_desc",
+    "ver": "",
+    "val": "Wallonia was the area hardest hit during the German occupation in the First World War, with much of its industry and resources plundered by the occupiers. Reconstruction has come on apace in the mean time, but it could always do with more investment to reach it's true potential as the [ROOT.GetAdjective] industrial heartland.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2158,
+    "indent": "",
+    "key": "BEL_gold_reserves",
+    "ver": "",
+    "val": "Gold Reserves",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2159,
+    "indent": "",
+    "key": "BEL_gold_reserves_desc",
+    "ver": "",
+    "val": "Thankfully the [ROOT.GetAdjective] state maintains a sizable gold reserve. At present this provides us with a stable foundation for borrowing and lending within our country, although we could also choose to sell our gold to temporarily boost development and construction.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2161,
+    "indent": "",
+    "key": "BEL_social_partners",
+    "ver": "",
+    "val": "Social Partners",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2162,
+    "indent": "",
+    "key": "BEL_social_partners_desc",
+    "ver": "",
+    "val": "Our government convened the National Labor Conference to bring together trade union and company representatives. The result of this has been an introduction of the minimum wage and six days paid holiday per year.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2164,
+    "indent": "",
+    "key": "BEL_revive_coal_mining",
+    "ver": "",
+    "val": "Revive Coal Mining",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2165,
+    "indent": "",
+    "key": "BEL_revive_coal_mining_desc",
+    "ver": "",
+    "val": "The cornerstone of Wallonian industry has always been steel, and to better produce this important material we need to aggressively expand our coal mines in that region.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2167,
+    "indent": "",
+    "key": "BEL_40_hour_workweek",
+    "ver": "",
+    "val": "40 Hour Workweek",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2168,
+    "indent": "",
+    "key": "BEL_40_hour_workweek_desc",
+    "ver": "",
+    "val": "Another result of the National Labor Conference has been the radical introduction of the 40-hour work week. While initially sceptical, we have seen an increase in productivity and worker happiness.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2170,
+    "indent": "",
+    "key": "BEL_cockerill",
+    "ver": "",
+    "val": "Cockerill",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2171,
+    "indent": "",
+    "key": "BEL_cockerill_desc",
+    "ver": "",
+    "val": "Cockerill are the foremost steel manufacturer in [ROOT.GetNameDef], with massive plants capable of producing anything from engines to artillery. With the increasing demand for all those products, we are in a prime position to see to their further expansion.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2172,
+    "indent": "",
+    "key": "BEL_cockerill_tt",
+    "ver": "",
+    "val": "§GReduces§! the cost of assigning §Y$BEL_cockerill_industrial$§! as an Industrial Concern",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2174,
+    "indent": "",
+    "key": "BEL_railway_expansion",
+    "ver": "",
+    "val": "Railway Expansion",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2175,
+    "indent": "",
+    "key": "BEL_railway_expansion_desc",
+    "ver": "",
+    "val": "The arteries which feed [ROOT.GetAdjective] commerce and industry are its railways. As our economy recovers and rebounds, we must ensure that the infrastructure we have keeps pace.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2177,
+    "indent": "",
+    "key": "BEL_corporate_social_responsibility",
+    "ver": "",
+    "val": "Corporate Social Responsibility",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2178,
+    "indent": "",
+    "key": "BEL_corporate_social_responsibility_desc",
+    "ver": "",
+    "val": "Despite the significant industrialization and urbanization of [ROOT.GetNameDef], surprisingly the trade unions have never held as much power as can be expected. This is because there is a cultural tradition for corporations to have a social responsibility to their workers- though it doesn't hurt to remind them of this from time to time.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2180,
+    "indent": "",
+    "key": "BEL_val_benoit_institutes",
+    "ver": "",
+    "val": "Val-Benoît Institutes",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2181,
+    "indent": "",
+    "key": "BEL_val_benoit_institutes_desc",
+    "ver": "",
+    "val": "We should establish the Val-Benoît Institutes at the University of Liege, establishing several new scientific departments on the ruins of the old Val-Benoît Abbey.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2183,
+    "indent": "",
+    "key": "BEL_stk",
+    "ver": "",
+    "val": "Establish STK",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2184,
+    "indent": "",
+    "key": "BEL_stk_desc",
+    "ver": "",
+    "val": "We aim to establish the Studiecentrum voor de Toepassingen van de Kernenergie (Research Centre for the Applications of Nuclear Energy), or STK, as a dedicated body to investigate the scientific possibilities behind atomic energy.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2186,
+    "indent": "",
+    "key": "BEL_embrace_export_economy",
+    "ver": "",
+    "val": "Embrace Export Economy",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2187,
+    "indent": "",
+    "key": "BEL_embrace_export_economy_desc",
+    "ver": "",
+    "val": "Although never quite so famous for it as our northern neighbor, [ROOT.GetNameDef] has a proud tradition for trade centered from the city of Antwerp. Let us tap more into this potential for profit- after all, it's just good business.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2189,
+    "indent": "",
+    "key": "BEL_engine_of_the_economy",
+    "ver": "",
+    "val": "Engine of the Economy",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2190,
+    "indent": "",
+    "key": "BEL_engine_of_the_economy_desc",
+    "ver": "",
+    "val": "Trains hold a special place in the [ROOT.GetAdjective] heart, they fire up new innovations, keep production on track, and are the fuel for further growth. Above all though, they are the engine of the economy.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2192,
+    "indent": "",
+    "key": "BEL_belgian_miracle",
+    "ver": "",
+    "val": "Belgian Miracle",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2193,
+    "indent": "",
+    "key": "BEL_belgian_miracle_desc",
+    "ver": "",
+    "val": "It is tough to imagine that two decades ago, Belgium lay in ruins, considered by many as just another European battlefield. Compare that to how we are now, a beacon of productivity and innovation. It is thanks to the bravery of our soldiers, tenacity of our workers and the loyalty of our allies and friends.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2195,
+    "indent": "",
+    "key": "BEL_belgian_air_force",
+    "ver": "",
+    "val": "[ROOT.GetAdjective] Air Force",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2196,
+    "indent": "",
+    "key": "BEL_belgian_air_force_desc",
+    "ver": "",
+    "val": "[ROOT.GetNameDef] was an early adopter of air power, developing a force during the last war which gave a very good account of themselves. Unfortunately, budgetary constraints have held innovation back since. As tensions rise, we must ensure that our air deterrent remains strong.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2198,
+    "indent": "",
+    "key": "BEL_develop_belgian_air_industry",
+    "ver": "",
+    "val": "Develop Belgian Air Industry",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2199,
+    "indent": "",
+    "key": "BEL_develop_belgian_air_industry_desc",
+    "ver": "",
+    "val": "We do not have much experience developing our own aircraft, the airplane industry being woefully under developed since the last war. There are a number of very innovative young designers and start-up companies whom we could subsidize and held develop.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2201,
+    "indent": "",
+    "key": "BEL_renard_constructions_aeronautiques",
+    "ver": "",
+    "val": "Renard Constructions Aéronautiques",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2202,
+    "indent": "",
+    "key": "BEL_renard_constructions_aeronautiques_desc",
+    "ver": "",
+    "val": "One of the most promising designers lately has been Alfred Renard, he has some very innovative designs, and we should support these endevours and his company.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2204,
+    "indent": "",
+    "key": "BEL_stampe_et_vertrongen",
+    "ver": "",
+    "val": "Stampe et Vertrongen",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2205,
+    "indent": "",
+    "key": "BEL_stampe_et_vertrongen_desc",
+    "ver": "",
+    "val": "Although Stampe et Vertrongen specialize in training aircraft, we should invest in this home grown firm and adapt their designs for additional front-line duties.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2207,
+    "indent": "",
+    "key": "BEL_relocate_air_production",
+    "ver": "",
+    "val": "Relocate Air Production",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2208,
+    "indent": "",
+    "key": "BEL_relocate_air_production_desc",
+    "ver": "",
+    "val": "Aircraft manufacturing requires significant quantities of specialized components, and rely on hard to replace aeronautical engineers. Once produced, however, aircraft can be deployed virtually anywhere. We should enter into contracts with foreign firms to produce our aircraft abroad so our production lines are protected.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2210,
+    "indent": "",
+    "key": "BEL_pressurized_cabin_development",
+    "ver": "",
+    "val": "Pressurized Cabin Development",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2211,
+    "indent": "",
+    "key": "BEL_pressurized_cabin_development_desc",
+    "ver": "",
+    "val": "In an effort to improve the quality of air travel between Belgium and the Congo, we have been working on pressurized cabins which will allow us to fly far higher than is usually possible. Adapting this same technology to our war-time aircraft will significantly improve their capabilities.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2213,
+    "indent": "",
+    "key": "BEL_foreign_plane_purchases",
+    "ver": "",
+    "val": "Foreign Plane Purchases",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2214,
+    "indent": "",
+    "key": "BEL_foreign_plane_purchases_desc",
+    "ver": "",
+    "val": "Unfortunately, due to the state of the [ROOT.GetAdjective] aeronautical industry, we are forced to look abroad for aircraft purchases. Let us announce a contest, and have other nations bid for contracts.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2216,
+    "indent": "",
+    "key": "BEL_aviation_school",
+    "ver": "",
+    "val": "Aviation School",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2217,
+    "indent": "",
+    "key": "BEL_aviation_school_desc",
+    "ver": "",
+    "val": "Our pilots need somewhere to learn their trade, we should develop our training facilities accordingly.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2219,
+    "indent": "",
+    "key": "BEL_polish_licences",
+    "ver": "",
+    "val": "Polish Licences",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2220,
+    "indent": "",
+    "key": "BEL_polish_licences_desc",
+    "ver": "",
+    "val": "[POL.GetNameDef] has reached out about providing some of their aircraft designs under license, and they can be made available to us for far under market rates.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2222,
+    "indent": "",
+    "key": "BEL_early_helicopters",
+    "ver": "",
+    "val": "Early Helicopters",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2223,
+    "indent": "",
+    "key": "BEL_early_helicopters_desc",
+    "ver": "",
+    "val": "Nicolas Florine chose to emigrate to [ROOT.GetNameDef] following the Russian Civil War, and has shown an interest in a radical new form of flight using fast spinning rotors. We should fund this development, and see where this new field of aeronautical science takes us!",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2225,
+    "indent": "",
+    "key": "BEL_air_doctrine",
+    "ver": "",
+    "val": "Air Doctrine",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2226,
+    "indent": "",
+    "key": "BEL_air_doctrine_desc",
+    "ver": "",
+    "val": "Modern warfare is constantly changing and evolving. We should fund a study into the current doctrines utilized by other military powers, and see what lessons can be learned and applied to our own air force.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2228,
+    "indent": "",
+    "key": "BEL_legacy_of_the_belgian_airforce",
+    "ver": "",
+    "val": "Legacy of the Belgian Air Force",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2229,
+    "indent": "",
+    "key": "BEL_legacy_of_the_belgian_airforce_desc",
+    "ver": "",
+    "val": "Our pilots were considered among the most brave of those who fought above the battlefields of the Great War, and this proud tradition is still being upheld today.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2231,
+    "indent": "",
+    "key": "BEL_re_establish_belgian_navy",
+    "ver": "",
+    "val": "Re-Establish Belgian Navy",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2232,
+    "indent": "",
+    "key": "BEL_re_establish_belgian_navy_desc",
+    "ver": "",
+    "val": "Despite winning several vessels from Germany in the Versailles treaty, following the First World War, Belgium abolished its navy in 1927 due to budgetary constraints. With looming threats abroad, and our need to maintain strategic communications and trade, particularly with the Congo, we must ensure that we re-establish our fleet.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2234,
+    "indent": "",
+    "key": "BEL_re_build_the_fleet",
+    "ver": "",
+    "val": "Rebuild the Fleet",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2235,
+    "indent": "",
+    "key": "BEL_re_build_the_fleet_desc",
+    "ver": "",
+    "val": "The first step to restoring our naval power, is to actually build a new navy. This will require significant investment into new dockyards and shipbuilding capabilities.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2237,
+    "indent": "",
+    "key": "BEL_allied_donations",
+    "ver": "",
+    "val": "Allied Donations",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2238,
+    "indent": "",
+    "key": "BEL_allied_donations_desc",
+    "ver": "",
+    "val": "The circumstances around our needing to boost our maritime presence have become more pressing, so we should reach out to our allies and see if they are able to give us some assistance in re-developing our naval capabilities.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2240,
+    "indent": "",
+    "key": "BEL_port_of_antwerp",
+    "ver": "",
+    "val": "Port of Antwerp",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2241,
+    "indent": "",
+    "key": "BEL_port_of_antwerp_desc",
+    "ver": "",
+    "val": "Antwerp is a city renowned for its mercantile past, and the port remains an important one to this day. Let us harness this reputation to facilitate favourable trade agreements.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2243,
+    "indent": "",
+    "key": "BEL_corvette_fleet",
+    "ver": "",
+    "val": "Corvette Fleet",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2244,
+    "indent": "",
+    "key": "BEL_corvette_fleet_desc",
+    "ver": "",
+    "val": "Ship building takes a long time, especially so for large capital ships. Instead, because of the urgent need to expand our navy, we should focused instead on small, easily produced vessels, specializing in what we need them for most: protecting our mercantile interests.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2246,
+    "indent": "",
+    "key": "BEL_boelwerf",
+    "ver": "",
+    "val": "Boelwerf",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2247,
+    "indent": "",
+    "key": "BEL_boelwerf_desc",
+    "ver": "",
+    "val": "Boelwerf is one of the largest shipyards in Antwerp, we should utilize their capabilities and invest more heavily in the expansion of their docks so that we can reinforce our naval strength more easily.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2249,
+    "indent": "",
+    "key": "BEL_cockerill_shipyards",
+    "ver": "",
+    "val": "Cockerill Shipyards",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2250,
+    "indent": "",
+    "key": "BEL_cockerill_shipyards_desc",
+    "ver": "",
+    "val": "Cockerill Shipyards, a subsidiary of the greater Cockerill conglomerate is the type of industrial connections we should really build upon. Warships of this age are built from steel, and no-one does steel-work better than Cockerill.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2252,
+    "indent": "",
+    "key": "BEL_antwerp_maritime_academy",
+    "ver": "",
+    "val": "Antwerp Maritime Academy",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2253,
+    "indent": "",
+    "key": "BEL_antwerp_maritime_academy_desc",
+    "ver": "",
+    "val": "Although more dedicated to civilian and commercial shipping, we can still harness the expertise of the teachers here to train and develop our naval presence at sea. They will be especially useful in showing our officers how best to work with the mercantile shipping that keeps our trade flowing.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2255,
+    "indent": "",
+    "key": "BEL_naval_doctrine",
+    "ver": "",
+    "val": "Naval Doctrine",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2256,
+    "indent": "",
+    "key": "BEL_naval_doctrine_desc",
+    "ver": "",
+    "val": "There is only so much that our civilian trainers can teach us, to really expand our understanding of naval affairs, we must look to hire some foreign talent and thus shore up our knowledge and training abilities.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2258,
+    "indent": "",
+    "key": "BEL_convoy_protection_duties",
+    "ver": "",
+    "val": "Defensively Equipped Merchant Ships",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2259,
+    "indent": "",
+    "key": "BEL_convoy_protection_duties_desc",
+    "ver": "",
+    "val": "In times of great peril and need, it becomes acceptable to arm merchant ships, and provide them with the guns and marine complements to see to their own protection. In this way, those who hunt our merchants, will find that suddenly the prey have teeth.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2261,
+    "indent": "",
+    "key": "BEL_maritime_phoenix",
+    "ver": "",
+    "val": "Maritime Phoenix",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2262,
+    "indent": "",
+    "key": "BEL_maritime_phoenix_desc",
+    "ver": "",
+    "val": "From nothing, our fleet has blossomed. Our dockyards are lit with the fires of industry as new ships leave the slipways at an increasing rate, and our strategic interests abroad are being met by our fleets flying the [ROOT.GetAdjective] ensign.",
+    "comment": "",
+    "section": "### BELGIAN FOCUS TREE ###"
+  },
+  {
+    "idx": 2266,
+    "indent": "",
+    "key": "BEL_government_resigns_complete_national_unity_tt",
+    "ver": "",
+    "val": "§RElecting the Government of National Unity in the Government Resigns event will complete this focus.§!",
+    "comment": "",
+    "section": "### Belgium Focus Tooltip Loc ###"
+  },
+  {
+    "idx": 2267,
+    "indent": "",
+    "key": "BEL_government_resigns_complete_vandervelde_tt",
+    "ver": "",
+    "val": "§RElecting the Vandervelde Minority in the Government Resigns event will complete this focus.§!",
+    "comment": "",
+    "section": "### Belgium Focus Tooltip Loc ###"
+  },
+  {
+    "idx": 2268,
+    "indent": "",
+    "key": "BEL_royal_intervention_complete_janson_tt",
+    "ver": "",
+    "val": "§RChoosing Janson in the Royal Intervention event will complete this focus.§!",
+    "comment": "",
+    "section": "### Belgium Focus Tooltip Loc ###"
+  },
+  {
+    "idx": 2269,
+    "indent": "",
+    "key": "BEL_royal_intervention_complete_degrelle_tt",
+    "ver": "",
+    "val": "§RChoosing Degrelle in the Royal Intervention event will complete this focus.§!",
+    "comment": "",
+    "section": "### Belgium Focus Tooltip Loc ###"
+  },
+  {
+    "idx": 2270,
+    "indent": "",
+    "key": "BEL_royal_intervention_tt",
+    "ver": "",
+    "val": "The King will step in to deal with the Collapsing Government.",
+    "comment": "",
+    "section": "### Belgium Focus Tooltip Loc ###"
+  },
+  {
+    "idx": 2271,
+    "indent": "",
+    "key": "BEL_snap_election_tt",
+    "ver": "",
+    "val": "A snap election will be called to determine our future political direction.",
+    "comment": "",
+    "section": "### Belgium Focus Tooltip Loc ###"
+  },
+  {
+    "idx": 2272,
+    "indent": "",
+    "key": "BEL_royal_intervention_complete_pierlot_tt",
+    "ver": "",
+    "val": "§RChoosing Pierlot in the Snap Election event will complete this focus.§!",
+    "comment": "",
+    "section": "### Belgium Focus Tooltip Loc ###"
+  },
+  {
+    "idx": 2273,
+    "indent": "",
+    "key": "BEL_royal_intervention_complete_spaak_tt",
+    "ver": "",
+    "val": "§RChoosing Spaak in the Snap Election event will complete this focus.§!",
+    "comment": "",
+    "section": "### Belgium Focus Tooltip Loc ###"
+  },
+  {
+    "idx": 2274,
+    "indent": "",
+    "key": "BEL_investigate_pm_tt",
+    "ver": "",
+    "val": "Allegations against the Prime Minister himself will also be investigated more thoroughly.",
+    "comment": "",
+    "section": "### Belgium Focus Tooltip Loc ###"
+  },
+  {
+    "idx": 2275,
+    "indent": "",
+    "key": "BEL_relocate_air_production_tt",
+    "ver": "",
+    "val": "Grants §G2§! off-map military factories when entering a war.",
+    "comment": "",
+    "section": "### Belgium Focus Tooltip Loc ###"
+  },
+  {
+    "idx": 2276,
+    "indent": "",
+    "key": "BEL_unlock_gold_reserve_decisions_tt",
+    "ver": "",
+    "val": "Unlocks decisions to §Y$BEL_gold_reserves_cat$§!",
+    "comment": "",
+    "section": "### Belgium Focus Tooltip Loc ###"
+  },
+  {
+    "idx": 2277,
+    "indent": "",
+    "key": "BEL_legacy_of_the_soldier_king_tt",
+    "ver": "",
+    "val": "§YKing Leopold§! will no-longer buckle to military pressure and surrender the country if invaded.",
+    "comment": "",
+    "section": "### Belgium Focus Tooltip Loc ###"
+  },
+  {
+    "idx": 2278,
+    "indent": "",
+    "key": "BEL_anti_tank_guns_tt",
+    "ver": "",
+    "val": "Enables §HExcellent Anti-Tank Guns§!\\nSupport Anti-Tank Hard attack: §G+10%§!\\nSupport Anti-Tank Piercing: §G+10%§!\\nLine Anti-Tank Hard attack: §G+10%§!\\nLine Anti-Tank Piercing: §G+10%§!\\nMotorized Anti-Tank Hard attack: §G+10%§!\\nMotorized Anti-Tank Piercing: §G+10%§!\\nTank Destroyer Hard attack: §G+10%§!\\nTank Destroyer Piercing: §G+10%§!\\n",
+    "comment": "",
+    "section": "### Belgium Focus Tooltip Loc ###"
+  },
+  {
+    "idx": 2279,
+    "indent": "",
+    "key": "BEL_chasseurs_ardennais_tt",
+    "ver": "",
+    "val": "§Y$mountaineers$§!:\\n§YForest§!:\\n Movement Effective Change: §G+10%§!\\n Attack Effective Change: §G+20%§!\\n Defense Effective Change: §G+20%§!\\n§YMountain§!:\\n Movement Effective Change: §R-10%§!\\n Attack Effective Change: §R-20%§!",
+    "comment": "",
+    "section": "### Belgium Focus Tooltip Loc ###"
+  },
+  {
+    "idx": 2280,
+    "indent": "",
+    "key": "BEL_chasseurs_ardennais_ncns_tt",
+    "ver": "",
+    "val": "§Y$ranger_battalion$§!:\\n§YHills§!:\\n Movement Effective Change: §G+10%§!\\n Attack Effective Change: §G+15%§!\\n Defense Effective Change: §G+15%§!\\n§YMountain§!:\\n Movement Effective Change: §G+5%§!\\n Attack Effective Change: §G+5%§!",
+    "comment": "",
+    "section": "### Belgium Focus Tooltip Loc ###"
+  },
+  {
+    "idx": 2281,
+    "indent": "",
+    "key": "BEL_the_european_crusade_tt",
+    "ver": "",
+    "val": "§YThe European Crusade§! effects will depend on whether the §YRexists§! or §YVNV§! came to power.",
+    "comment": "",
+    "section": "### Belgium Focus Tooltip Loc ###"
+  },
+  {
+    "idx": 2282,
+    "indent": "",
+    "key": "BEL_european_crusade_no_focus_tt",
+    "ver": "",
+    "val": "§YRexists§! will benefit from Recruitable Population Factor \\nIf the §YVNV§!",
+    "comment": "",
+    "section": "### Belgium Focus Tooltip Loc ###"
+  },
+  {
+    "idx": 2283,
+    "indent": "",
+    "key": "BEL_the_king_surrenders_tt",
+    "ver": "",
+    "val": "§RCapitulating with the King still in power will complete this focus.§!",
+    "comment": "",
+    "section": "### Belgium Focus Tooltip Loc ###"
+  },
+  {
+    "idx": 2284,
+    "indent": "",
+    "key": "BEL_royal_commander_in_chief_tt",
+    "ver": "",
+    "val": "§YKing Leopold III§! becomes a §YField Marshal§!",
+    "comment": "",
+    "section": "### Belgium Focus Tooltip Loc ###"
+  },
+  {
+    "idx": 2285,
+    "indent": "",
+    "key": "BEL_lucien_lippert_tt",
+    "ver": "",
+    "val": "§YLucien Lippert§! becomes a §YGeneral§!",
+    "comment": "",
+    "section": "### Belgium Focus Tooltip Loc ###"
+  },
+  {
+    "idx": 2286,
+    "indent": "",
+    "key": "BEL_lambert_chardome_tt",
+    "ver": "",
+    "val": "§YLambert Chardome§! becomes a §YGeneral§!",
+    "comment": "",
+    "section": "### Belgium Focus Tooltip Loc ###"
+  },
+  {
+    "idx": 2287,
+    "indent": "",
+    "key": "BEL_eddy_blondeel_tt",
+    "ver": "",
+    "val": "§YEddy Blondeel§! becomes a §YGeneral§!",
+    "comment": "",
+    "section": "### Belgium Focus Tooltip Loc ###"
+  },
+  {
+    "idx": 2288,
+    "indent": "",
+    "key": "BEL_scars_of_ww1_ns_fake_tt",
+    "ver": "",
+    "val": "Division Organization: §R-15%§! \\nRecruitable Population Factor: §R-15%§! \\nWar Support: §R-30%§! \\n§YMilitary Factory§! Construction Speed: §R-20%§!",
+    "comment": "",
+    "section": "### Belgium Focus Tooltip Loc ###"
+  },
+  {
+    "idx": 2289,
+    "indent": "",
+    "key": "BEL_corruption_ns_fake_tt",
+    "ver": "",
+    "val": "Daily Political Power Gain: §R-0.25%§! \\nStability: §R-20%§! \\nConstruction Speed: §R-20%§! \\nDaily Fascism Support: §G+0.10%§!",
+    "comment": "",
+    "section": "### Belgium Focus Tooltip Loc ###"
+  }
+]

@@ -1,0 +1,434 @@
+[
+  {
+    "key": "news.1.t",
+    "version": "",
+    "type": "title",
+    "en": "Marco Polo Bridge Incident"
+  },
+  {
+    "key": "news.1.d",
+    "version": "",
+    "type": "desc",
+    "en": "Japanese and Chinese forces have skirmished inconclusively over the strategic Marco Polo Bridge located just southwest of Beijing. \\n\\n[CHI.GetNameDef] has rejected [JAP.GetNameDef]'s demands for an apology and territorial concessions, claiming instead that the 'breaking point' of Japanese aggression has been reached. \\n\\nDiplomats fear that the volatile situation could result in war at any time."
+  },
+  {
+    "key": "news.2.d",
+    "version": "",
+    "type": "desc",
+    "en": "Japanese and Chinese forces have skirmished inconclusively over the strategic Marco Polo Bridge located just southwest of Beijing. \\n\\n[CHI.GetNameDef] has accepted full responsibility for the incident, forwarding an apology to [JAP.GetNameDef] as well as agreeing to extensive territorial concessions. This has surprised many experts, who had predicted that the border tensions would erupt into a full-blown war. \\n\\nDoes this mean lasting peace in Asia?"
+  },
+  {
+    "key": "news.5.t",
+    "version": "",
+    "type": "title",
+    "en": "[JAP.GetNameDefCap] Demands French Indochina"
+  },
+  {
+    "key": "news.5.d",
+    "version": "",
+    "type": "desc",
+    "en": "Taking advantage of French weakness in light of the struggle in Europe, [JAP.GetNameDef] has coerced the new government into surrendering control over their colony in Indochina! \\n\\nJapanese troops have already moved to occupy all major bases in the region, and experts fear that the colony could be used as a launching point for future military expeditions."
+  },
+  {
+    "key": "news.6.d",
+    "version": "",
+    "type": "desc",
+    "en": "Attempting to take advantage of France's weakness in light of their defeat in Europe, [JAP.GetNameDef] recently issued a demand to the new French government for complete access to their bases in Indochina. \\n\\nThis would effectively mean transferring over control of the entire colony to Japan, something the French could not agree to.\\n\\nExperts consider it likely that this decision will lead to Japanese military reprisals."
+  },
+  {
+    "key": "news.7.t",
+    "version": "",
+    "type": "title",
+    "en": "Soviet - Japanese Skirmish"
+  },
+  {
+    "key": "news.7.d",
+    "version": "",
+    "type": "desc",
+    "en": "Soviet and Japanese forces recently clashed in a major skirmish along the Manchurian border. \\n\\nA significant Soviet raiding force supported by Mongolian cavalry apparently caught the Japanese by surprise, inflicting heavy casualties. \\n\\nThe mood in Tokyo has been reported as tense, but it is too early to tell if the conflict will escalate into open warfare."
+  },
+  {
+    "key": "news.8.d",
+    "version": "",
+    "type": "desc",
+    "en": "Soviet and Japanese forces recently clashed in a major skirmish along the Manchurian border. \\n\\nAccounts from the battle indicate that the Japanese caught the Soviets in a pincer movement when they attacked across the border, forcing the survivors to withdraw in disarray. \\n\\nWill this incident prompt Moscow to dispatch more forces to the Russian Far East?"
+  },
+  {
+    "key": "news.9.t",
+    "version": "",
+    "type": "title",
+    "en": "Soviet Withdrawal"
+  },
+  {
+    "key": "news.9.d",
+    "version": "",
+    "type": "desc",
+    "en": "After a build-up of Japanese forces in Manchuria, the Soviet Union appears to have unexpectedly withdrawn units that were stationed right alongside the border. \\n\\nThis may be a bid by Moscow to avoid a future confrontation with Japan, possibly triggered by the stinging memory of the defeat Russia endured in the Russo - Japanese War."
+  },
+  {
+    "key": "news.10.t",
+    "version": "",
+    "type": "title",
+    "en": "Soviet Union Claims Bessarabia"
+  },
+  {
+    "key": "news.10.d",
+    "version": "",
+    "type": "desc",
+    "en": "After massing forces along the Romanian border, [SOV.GetNameDef] has issued an ultimatum to the government in Bucharest for the immediate transfer of Bessarabia, to their control. The region once belonged to the Russian Empire, which [SOV.GetNameDef] sees as sufficient legal basis for their demands.\\n\\nRomania has declared that it has no choice but to accede, and its forces have been withdrawn from Bessarabia."
+  },
+  {
+    "key": "news.11.t",
+    "version": "",
+    "type": "title",
+    "en": "Romania Rejects Soviet Demands"
+  },
+  {
+    "key": "news.11.d",
+    "version": "",
+    "type": "desc",
+    "en": "[SOV.GetNameDefCap] has been concentrating significant forces along its border to [ROM.GetNameDef], and today Moscow issued an ultimatum to the Romanian government, calling for the immediate transfer of Bessarabia to its control. The region once belonged to the Russian Empire, which [SOV.GetNameDef] sees as sufficient legal basis for their demands.\\n\\nIn a defiant move, Bucharest has chosen to reject all Soviet territorial demands, and the Romanian army has been given the order for a complete mobilization. \\n\\nInternational observers expect Soviet forces to cross the border at any moment."
+  },
+  {
+    "key": "news.12.t",
+    "version": "",
+    "type": "title",
+    "en": "[FIN.GetNameDefCap] Rejects Soviet Demands"
+  },
+  {
+    "key": "news.12.d",
+    "version": "",
+    "type": "desc",
+    "en": "Soviet diplomats have presented an ultimatum to the government of [FIN.GetNameDef], demanding border adjustments in the region of Karelia. \\n\\nDespite a significant build-up of Soviet forces on the border, Helsinki has rejected these demands, stating that \"not a single foot of Finnish soil will be given willingly to the Russian aggressors.\" \\n\\nInternational observers fear that a Soviet invasion may be imminent."
+  },
+  {
+    "key": "news.13.t",
+    "version": "",
+    "type": "title",
+    "en": "[FIN.GetNameDefCap] Accepts Soviet Demands"
+  },
+  {
+    "key": "news.13.d",
+    "version": "",
+    "type": "desc",
+    "en": "After much debate, the government of [FIN.GetNameDef] has decided to accept Soviet demands for border adjustments in the region of Karelia. \\n\\n[SOV.GetNameDef] has cited the need to create a buffer zone to improve the security of Leningrad, located only 30 kilometers from the now former Finnish border. \\n\\nMany observers had feared that a full-scale Soviet invasion of Finland was imminent, but this diplomatic solution should lay those fears to rest."
+  },
+  {
+    "key": "news.14.t",
+    "version": "",
+    "type": "title",
+    "en": "[SOV.GetNameDefCap] Annexes [TAN.GetNameDef]"
+  },
+  {
+    "key": "news.14.d",
+    "version": "",
+    "type": "desc",
+    "en": "In a press release earlier today, Moscow announced the formal annexation of [TAN.GetNameDef]. \\n\\nThe Supreme Soviet agreed to a request from the Tuvan parliament for membership in the USSR. \\n\\nThe small Tuvan People's Republic, which had only been officially recognized by the Soviet Union and Mongolia, will be organized as an autonomous oblast."
+  },
+  {
+    "key": "news.15.t",
+    "version": "",
+    "type": "title",
+    "en": "Second Vienna Award"
+  },
+  {
+    "key": "news.15.d",
+    "version": "",
+    "type": "desc",
+    "en": "A treaty has been signed at Vienna following German arbitration that will see Northern Transylvania restored to Hungarian rule.\\n\\nThe territory had previously been awarded to [ROM.GetNameDef] upon the conclusion of World War I, leading to a bitter dispute. \\n\\nAre these the first of many borders to be adjusted, now that a new order seems to have been established in Europe?"
+  },
+  {
+    "key": "news.16.d",
+    "version": "",
+    "type": "desc",
+    "en": "Following German arbitration, a treaty has been signed at Vienna that will see all of Transylvania restored to Hungarian rule. \\n\\nThe territory had previously been awarded to [ROM.GetNameDef] upon the conclusion of World War I, leading to a bitter dispute. \\n\\nAre these the first of many borders to be adjusted now that a new order seems to have been established in Europe?"
+  },
+  {
+    "key": "news.17.t",
+    "version": "",
+    "type": "title",
+    "en": "Romania Rejects German Arbitration"
+  },
+  {
+    "key": "news.17.d",
+    "version": "",
+    "type": "desc",
+    "en": "Negotiations between [HUN.GetNameDef] and [ROM.GetNameDef] regarding a territorial dispute have broken down at Vienna. \\n\\n[GER.GetNameDef] acted as arbiter, but when they decided to return Northern Transylvania to [HUN.GetNameDef], [ROM.GetNameDef] rejected the decision. The Romanian government promptly ordered their delegation to return to Bucharest. \\n\\nIt would appear that [GER.GetNameDef] does not yet wield the diplomatic influence they imagined they did."
+  },
+  {
+    "key": "news.18.d",
+    "version": "",
+    "type": "desc",
+    "en": "Negotiations between [HUN.GetNameDef] and [ROM.GetNameDef] regarding a territorial dispute have broken down at Vienna. \\n\\n[GER.GetNameDef] acted as arbiter, but when they decided to return Northern Transylvania to [HUN.GetNameDef], [ROM.GetNameDef] rejected the decision. The Romanian government promptly ordered their delegation to return to Bucharest. \\n\\nIt would appear that [GER.GetNameDef] does not yet wield the diplomatic influence they imagined they did."
+  },
+  {
+    "key": "news.19.t",
+    "version": "",
+    "type": "title",
+    "en": "[GER.GetNameDefCap] Claims Memel"
+  },
+  {
+    "key": "news.19.d",
+    "version": "",
+    "type": "desc",
+    "en": "With German forces on their border poised to attack, [FROM.GetNameDef] has given in to a [GER.GetAdjective] ultimatum demanding the surrender of the old Prussian territory of Memel.\\n\\nIt was passed to [FROM.GetNameDef] by the Treaty of Versailles, but has now been reintegrated into the region of Ostpreussen. \\n\\nHave we yet reached the extent of German territorial ambitions in Europe? Experts are doubtful..."
+  },
+  {
+    "key": "news.20.t",
+    "version": "",
+    "type": "title",
+    "en": "[FROM.GetNameDefCap] Rejects [GER.GetAdjective] Demands"
+  },
+  {
+    "key": "news.20.d",
+    "version": "",
+    "type": "desc",
+    "en": "Even with [GER.GetAdjective] forces lined up on their border, [FROM.GetNameDef] has rejected an ultimatum issued by Berlin for the return of territory of Memel. \\n\\nMemel once belonged to East Prussia, but was annexed by [FROM.GetNameDef] following the Treaty of Versailles. It was the integrity of the Treaty [FROM.GetLeader] said it was necessary to protect when the [FROM.GetAdjective] government announced their rejection.\\n\\nInternational observers now expect that Germany may attempt to take the territory by force..."
+  },
+  {
+    "key": "news.21.t",
+    "version": "",
+    "type": "title",
+    "en": "Treaty of Craiova"
+  },
+  {
+    "key": "news.21.d",
+    "version": "",
+    "type": "desc",
+    "en": "More concessions have been forced on [ROM.GetNameDef], with [BUL.GetNameDef] reclaiming Southern Dobrudja. \\n\\nThe territory was annexed by Romania in 1913, after the Second Balkan War, and is still mostly populated by ethnic Bulgarians and Turks.\\n\\nRegardless of the reasoning, [ROM.GetNameDef] now stands significantly weakened."
+  },
+  {
+    "key": "news.22.t",
+    "version": "",
+    "type": "title",
+    "en": "[ALB.GetLeader] Submits to Italy"
+  },
+  {
+    "key": "news.22.d",
+    "version": "",
+    "type": "desc",
+    "en": "An ultimatum has been delivered to the Albanian government by Italian diplomats, demanding that they submit to complete military occupation. \\n\\n[ALB.GetLeader] has abdicated after realizing the futility of resistance, and Albania will now be ruled in a personal union under King Vittorio Emanuele III.\\n\\n[ITA.GetNameDef] looks to the Balkans..."
+  },
+  {
+    "key": "news.23.t",
+    "version": "",
+    "type": "title",
+    "en": "Zog Defiant"
+  },
+  {
+    "key": "news.23.d",
+    "version": "",
+    "type": "desc",
+    "en": "Diplomats from [ITA.GetNameDef] have delivered an ultimatum to [ALB.GetNameDef], demanding the latter's annexation into Greater Italy. \\n\\nIn a brave act of national leadership, King Zog has refused to yield to the Italian demands, urging the Albanian people to resist pressure from [ITA.GetNameDef]. \\n\\nNevertheless, foreign military experts agree that [ALB.GetNameDef] has little chance of resisting an invasion."
+  },
+  {
+    "key": "news.24.t",
+    "version": "",
+    "type": "title",
+    "en": "The Polish Question"
+  },
+  {
+    "key": "news.24.d",
+    "version": "",
+    "type": "desc",
+    "en": "In a heated speech today before the Reichstag, [GER.GetLeader] denounced Poland and their treatment of Germans living in Danzig and the Polish Corridor. \\n\\nClaiming that German minorities in Poland are being 'persecuted in the vilest manner imaginable,' [GER.GetLeader] made the position of his government clear:\\n'Danzig was a German city and is a German city! The Corridor was German and is German! Without the German Volk, these eastern regions would still be plunged in the depths of barbarism.'"
+  },
+  {
+    "key": "news.25.t",
+    "version": "",
+    "type": "title",
+    "en": "The Remilitarization of the Rhineland"
+  },
+  {
+    "key": "news.25.d",
+    "version": "",
+    "type": "desc",
+    "en": "Germany has stationed troops in the Rhineland territory, close to the French border, in clear violation of the Treaty of Versailles. The local population cheered the German soldiers on, while the diplomatic reactions from France and Britain have so far been muted.\\n\\n'It is no more than the Germans walking into their own backyard', a political commentator in Britain observed."
+  },
+  {
+    "key": "news.26.d",
+    "version": "",
+    "type": "desc",
+    "en": "In a direct violation of the Treaty of Versailles, German troops have crossed the Rhine and entered the Rhineland territory, close to the French border.\\n\\nCalling this an 'unforgivable breach' of the peace treaty that ended the Great War, both France and Britain have mobilized their forces in preparation for an armed incursion into Germany. \\n\\nWar has once again broken out in Europe!"
+  },
+  {
+    "key": "news.27.d",
+    "version": "",
+    "type": "desc",
+    "en": "In what is a direct violation of the Treaty of Versailles, German troops have crossed the Rhine and marched into the Rhineland territory, close to the French border.\\n\\nWhile the reaction from Britain has been muted so far, the French are mobilizing their forces in preparation for an armed incursion into Germany. \\n\\nWar has once again broken out in Europe!"
+  },
+  {
+    "key": "news.28.t",
+    "version": "",
+    "type": "title",
+    "en": "Hitler Assassinated!"
+  },
+  {
+    "key": "news.28.d",
+    "version": "",
+    "type": "desc",
+    "en": "A group of Wehrmacht officers opposed to the war have launched a coup in Berlin. An unidentified party of armed men stormed the Reichskanzlei and, following a shootout with his bodyguards, successfully took the life of the German Führer.\\nThe surviving conspirators have all been arrested by the Gestapo, and this morning Heinrich Himmler was sworn in as the new Führer of the German Reich. \\n\\nIn a speech before the Reichstag, Himmler accused Britain and France of masterminding Hitler's assassination and stated Germany's unequivocal commitment to the utter destruction of both nations."
+  },
+  {
+    "key": "news.29.d",
+    "version": "",
+    "type": "desc",
+    "en": "A group of Wehrmacht officers opposed to the war have launched a coup in Berlin. An unidentified party of armed men stormed the Reichskanzlei and, following a shootout with his bodyguards, successfully took the life of the German Führer.\\nThe surviving conspirators have all been arrested by the Gestapo, and this morning Hermann Göring was sworn in as the new Führer of the German Reich. \\n\\nIn a speech before the Reichstag, Göring accused Britain and France of masterminding Hitler's assassination and stated Germany's unequivocal commitment to the utter destruction of both nations."
+  },
+  {
+    "key": "news.30.t",
+    "version": "",
+    "type": "title",
+    "en": "Failed Attempt on Hitler's Life"
+  },
+  {
+    "key": "news.30.d",
+    "version": "",
+    "type": "desc",
+    "en": "A group of Wehrmacht officers opposed to the war have launched a coup against Hitler in Berlin. An unidentified party of armed men stormed the Reichskanzlei, but they were successfully fought off by members of the Führer's SS bodyguard.\\nGestapo agents have arrested all conspirators, which include high-ranking officers such as Ludwig Beck and Wilhelm Canaris. \\n\\nIn a speech before the Reichstag, Hitler vowed revenge against France and Britain for masterminding this 'underhanded attempt' on his life."
+  },
+  {
+    "key": "news.31.t",
+    "version": "",
+    "type": "title",
+    "en": "Civil War in Germany!"
+  },
+  {
+    "key": "news.31.d",
+    "version": "",
+    "type": "desc",
+    "en": "A group of Wehrmacht officers opposed to the current war have launched a coup against Hitler in Berlin. An unidentified party of armed men stormed the Reichskanzlei and successfully liquidated the German Führer after an intense gun battle with his SS bodyguards.\\n\\nThe conspirators have managed to take control over most of Berlin, and many Wehrmacht units have gone over to their side. Forces still loyal to the Nazis have rallied under new leadership, and vowed to purge Germany of the 'communist dissidents and foreign agents currently occupying Berlin.'"
+  },
+  {
+    "key": "news.32.t",
+    "version": "",
+    "type": "title",
+    "en": "The Molotov-Ribbentrop Pact"
+  },
+  {
+    "key": "news.32.d",
+    "version": "",
+    "type": "desc",
+    "en": "Diplomats from Germany and the Soviet Union concluded what observers are describing as a historic agreement today with the signing of the Molotov-Ribbentrop Pact. \\nNamed after German foreign minister Joachim von Ribbentrop and his Soviet counterpart, Vyacheslav Molotov, this non-aggression pact stipulates that neither side will ally itself to nor aid an enemy of the other.\\n\\nForeign diplomats warn that this treaty effectively gives Germany a free hand to wage war in Europe without having to fear Soviet intervention."
+  },
+  {
+    "key": "news.32.d_finland",
+    "version": "",
+    "type": "desc",
+    "en": "$news.32.d$ The [ROOT.GetAdjective] people, however, seem to be more concerned about the threat that [SOV.GetNameDef] might pose to them."
+  },
+  {
+    "key": "news.33.t",
+    "version": "",
+    "type": "title",
+    "en": "USSR Occupies Eastern Poland"
+  },
+  {
+    "key": "news.33.d",
+    "version": "",
+    "type": "desc",
+    "en": "Soviet troops have occupied eastern Poland, officially for the purpose of protecting Belorussian and Ukrainian minorities from the chaos that followed the collapse of the Polish government. \\n\\nGerman forces have withdrawn from these areas in good order, resulting in Poland's effective partitioning between the two powers."
+  },
+  {
+    "key": "news.34.t",
+    "version": "",
+    "type": "title",
+    "en": "The Second Armistice at Compiégne"
+  },
+  {
+    "key": "news.34.d",
+    "version": "",
+    "type": "desc",
+    "en": "An armistice between the [From.GetName] and the French Third Republic has been signed at Compiégne, in the very railway carriage in which the German surrender in World War I was negotiated.\\n\\nUnder the terms of the armistice, a French government under [vichy_france.GetLeader] based out of Vichy will continue to administer most of southern France, while the rest of the country falls under a German Occupation Zone. \\n\\nSome French officers have vowed to continue resistance from abroad, but this puts an effective end to the fighting in France, at least for the time being."
+  },
+  {
+    "key": "news.35.t",
+    "version": "",
+    "type": "title",
+    "en": "The Birth of the Franco-British Union"
+  },
+  {
+    "key": "news.35.d",
+    "version": "",
+    "type": "desc",
+    "en": "Facing defeat in France, the French and British governments have decided to join their two nations as one until victory over Germany has been assured. \\n\\nA new joint government is being formed in London, with Edward VIII remaining as the head of state. In an issued 'Declaration of Union,' the new Joint War Cabinet stated:\\n\\n'France and Great Britain shall no longer be two nations, but one Franco-British Union. The constitution of the Union will provide for joint organs of defense, foreign, financial and economic policies. Every citizen of France or Britain will enjoy immediate citizenship of the other state.'"
+  },
+  {
+    "key": "news.36.t",
+    "version": "",
+    "type": "title",
+    "en": "The Anschluss of Austria"
+  },
+  {
+    "key": "news.36.d",
+    "version": "",
+    "type": "desc",
+    "en": "After a successful coup d'état by the local Nazi party in Vienna, German troops have crossed the Austrian border and taken control of the country. \\n\\nNo fighting has been reported, and the German soldiers were greeted by cheering crowds in the cities.\\n\\nIn a speech before a massive crowd at the Heldenplatz in Vienna, Hitler announced the Anschluss of Austria, annexing the country into Germany:\\n\\n'The oldest eastern province of the German people shall be, from this point on, the newest bastion of the German Reich!'"
+  },
+  {
+    "key": "news.37.t",
+    "version": "",
+    "type": "title",
+    "en": "The Assassination of Lev Trotsky"
+  },
+  {
+    "key": "news.37.d",
+    "version": "",
+    "type": "desc",
+    "en": "Lev Trotsky, once the top lieutenant and heir presumptive of Vladimir Ilich Lenin, died today in a Mexico City hospital. He was attacked in his home with an ice axe by a Spanish national believed to have been in the employ of the NKVD.\\n\\nAfter a failed power struggle with $SOV_iosif_stalin$ and his allies for control of the Communist Party of the Soviet Union, Trotsky spent the thirties in exile, living in Turkey, France and Norway before finally settling in Mexico. \\n\\nHe remained a constant critic of Stalin and the 'degenerated 'workers' state' of the Soviet Union."
+  },
+  {
+    "key": "news.38.t",
+    "version": "",
+    "type": "title",
+    "en": "Trotsky Survives Assassination Attempt"
+  },
+  {
+    "key": "news.38.d",
+    "version": "",
+    "type": "desc",
+    "en": "After a violent struggle in his Mexico City home earlier today, Lev Trotsky killed a would-be assassin with the ice axe the man tried to attack him with. The killer has been identified as a Spanish national believed to have been in the employ of the NKVD.\\n\\nTrotsky was once the top lieutenant and heir presumptive of Vladimir Lenin, but after a failed power struggle he was forced into exile from the Soviet Union by $SOV_iosif_stalin$. \\n\\nSpeaking to the press, Trotsky denounced the attempt on his life as 'yet another cowardly plot hatched by Stalin to silence his critics.'"
+  },
+  {
+    "key": "news.39.t",
+    "version": "",
+    "type": "title",
+    "en": "Trotsky Killed on Soviet Border"
+  },
+  {
+    "key": "news.39.d",
+    "version": "",
+    "type": "desc",
+    "en": "Soviet authorities have released photos of the dead body of Lev Trotsky, confirming rumors that he was killed recently while trying to sneak into [SOV.GetNameDef]. \\n\\nHis body was found washed up on the shores of the Atrek River which runs along the Soviet - Persian border.\\n\\nIt is believed that Trotsky sought to capitalize on the current turmoil within the USSR by seeking allies against his long-time rival Stalin and replacing him in a coup d'état."
+  },
+  {
+    "key": "news.40.t",
+    "version": "",
+    "type": "title",
+    "en": "Trotsky Launches Coup!"
+  },
+  {
+    "key": "news.40.d",
+    "version": "",
+    "type": "desc",
+    "en": "A violent power struggle has occurred in the provisional Soviet capital. Lev Trotsky appears to have stealthily entered the remnants of the USSR, putting an end to the long exile that was forced upon him. \\n\\nTogether with allies in the highest echelons of the Communist Party, he launched a successful coup again Stalin.\\n\\nAfter a brief trial by a People's Court, Stalin was sentenced to death by hanging. The sentence was carried out this morning."
+  },
+  {
+    "key": "news.41.t",
+    "version": "",
+    "type": "title",
+    "en": "Trotsky Meets His End"
+  },
+  {
+    "key": "news.41.d",
+    "version": "",
+    "type": "desc",
+    "en": "Lev Trotsky was found dead this morning in a Buenos Aires hotel room. \\n\\nHe appears to have been strangled to death by a mountaineering sling, and the killer was apprehended by Trotsky's bodyguards before he could leave the building.\\n\\nAlthough the murderer is a Portuguese national, there is evidence linking him to the Soviet intelligence directorate GRU. It would appear that Stalin has finally dealt a mortal blow to his old rival."
+  },
+  {
+    "key": "news.42.t",
+    "version": "",
+    "type": "title",
+    "en": "The Hindenburg Disaster"
+  }
+]

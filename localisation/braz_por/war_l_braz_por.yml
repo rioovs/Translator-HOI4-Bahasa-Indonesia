@@ -1,0 +1,12 @@
+﻿l_braz_por:
+ ST: "."
+ ND: "."
+ RD: "."
+ TH: "."
+ WAR_NAME: "$ORDER$Perang $FIRST$-$SECOND$"
+ CIVIL_WAR_NAME: "$ORDER$Perang Saudara $SECOND$"
+ WAR_TAKE_CORE_NAME: "$ORDER$Reklamasi $STATE$ oleh $FIRST$"
+ WAR_TAKE_CLAIM_NAME: "$ORDER$Agresi $FIRST$ untuk $STATE$"
+ WAR_NAME_ITA_ETH: "Perang Italia di Etiopia"
+ INDEPENDENCE_WAR_NAME: "$ORDER$Perang Kemerdekaan $FIRST$"
+ create_puppet_wargoal_usa: "Tujuan perang §HBoneka (Fokus)§! diperoleh oleh §Y[ROOT.GetNameDef]§!"

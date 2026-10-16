@@ -1,0 +1,1580 @@
+[
+  {
+    "lineNum": 839,
+    "key": "uk_carrier_focus",
+    "val": "Carrier Focus",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 840,
+    "key": "uk_carrier_focus_desc",
+    "val": "There is an intense argument among naval theorists about the continued viability of the battleship. There are those who argue that modern air power will come to dominate naval power, and that the aircraft carrier will replace the battleship as the king of the oceans.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 841,
+    "key": "uk_spain_focus",
+    "val": "Coerce Spain",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 842,
+    "key": "uk_spain_focus_desc",
+    "val": "The Spanish know better than most the power of the Royal Navy, but perhaps a reminder is in order...",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 843,
+    "key": "uk_battleship_focus",
+    "val": "Battleship Focus",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 844,
+    "key": "uk_battleship_focus_desc",
+    "val": "While the theorists bicker about air supremacy or naval supremacy, no one wants the guns of a battleship pointing at their palace. Even if the carrier enthusiasts prove right in the end, battleships will still dominate the oceans for years to come.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 845,
+    "key": "uk_turkey_focus",
+    "val": "Coerce Turkey",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 846,
+    "key": "uk_turkey_focus_desc",
+    "val": "They don't have to love us, but Johnny Turkey should know enough to fear our battleships...",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 847,
+    "key": "uk_amphibious_focus",
+    "val": "Amphibious Warfare",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 848,
+    "key": "uk_amphibious_focus_desc",
+    "val": "Ruling the waves is fine, but sometimes you need to get your feet wet. We must not neglect our ability to land invasion forces in hostile territory.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 849,
+    "key": "singapore_focus",
+    "val": "The Singapore Strategy",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 850,
+    "key": "singapore_focus_desc",
+    "val": "Singapore should remain our primary naval base in the East. Hong Kong may fall to the Japanese, but Singapore must remain impregnable until the Main Fleet can arrive to decisively defeat the enemy.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 851,
+    "key": "sp_landward_forts_focus",
+    "val": "Landward Fortifications",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 852,
+    "key": "sp_landward_forts_focus_desc",
+    "val": "The current defenses on Singapore Island are inadequate. We must focus our efforts on beefing up the fortifications!",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 853,
+    "key": "peninsular_focus",
+    "val": "Peninsular War",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 854,
+    "key": "peninsular_focus_desc",
+    "val": "We should preempt and slow down an enemy coming down from the north through Malaya before they even reach Singapore.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 857,
+    "key": "hk_landward_forts_focus",
+    "val": "Landward Fortifications",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 858,
+    "key": "hk_landward_forts_focus_desc",
+    "val": "Hong Kong will have to become a fortress city in order to withstand a sustained attack from mainland China.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 859,
+    "key": "hk_air_focus",
+    "val": "Air Defenses",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 860,
+    "key": "hk_air_focus_desc",
+    "val": "We must expand and improve the anti-air emplacements in Hong Kong greatly.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 861,
+    "key": "uk_embargo_focus",
+    "val": "Embargo Policy",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 862,
+    "key": "uk_embargo_focus_desc",
+    "val": "The best way of defeating dictators - whether red or brown - is to simply starve them of the resources they need to wage war. The problem is just to browbeat the bankers and corporations who do business with them...",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 863,
+    "key": "uk_sanction_italy_focus",
+    "val": "Sanction Italy",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 864,
+    "key": "uk_sanction_italy_focus_desc",
+    "val": "Mussolini dreams of a new Roman Empire and, absurd as it may sound, might someday attack us to achieve his dream. We should do what we can to prevent this before it comes to war.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 865,
+    "key": "uk_sanction_japan_focus",
+    "val": "Sanction Japan",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 866,
+    "key": "uk_sanction_japan_focus_desc",
+    "val": "The Japanese seem committed to creating their 'Greater East Asia Co-Prosperity Sphere'; under their hegemony, of course. The British Empire is the primary obstacle, together with the colonies of other Western powers. They must be denied access to the resources they need.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 867,
+    "key": "uk_burma_focus",
+    "val": "The Burma Road",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 868,
+    "key": "uk_burma_focus_desc",
+    "val": "We should aid the Chinese in their struggle against Japan by constructing a road - and associated infrastructure - between Burma and China, where supplies can reach them overland, safe from Japanese predation.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 869,
+    "key": "uk_scandinavian_focus",
+    "val": "Scandinavian Intervention",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 870,
+    "key": "uk_scandinavian_focus_desc",
+    "val": "Scandinavia would have little strategic import if it were not for one thing; Swedish iron exports. We must put pressure on both Sweden and Norway in order to prevent this vital resource from reaching Germany. If they refuse, we might have to be prepared to invade...",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 871,
+    "key": "uk_iraq_focus",
+    "val": "Secure Iraq",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 872,
+    "key": "uk_iraq_focus_desc",
+    "val": "We granted Iraq independence in 1932, but considering the current global situation, that might have been a mistake. Iraqi oil must never be allowed to reach our enemies...",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 873,
+    "key": "uk_iran_focus",
+    "val": "Secure Iran",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 874,
+    "key": "uk_iran_focus_desc",
+    "val": "Iran is not just rich in oil that must be denied our enemies; it is also the strategic nexus between India, the Middle East and the Soviet Union.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 875,
+    "key": "uk_free_india_focus",
+    "val": "Indian Independence",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 876,
+    "key": "uk_free_india_focus_desc",
+    "val": "Japan is actively fomenting rebellion in India and has even formed a 'National Indian Army' composed of Indian recruits. The situation could grow dangerous if nothing is done to prevent it. We can either defeat Japan quickly, or promise the Indians independence in a few years.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 887,
+    "key": "northern_expansion_focus",
+    "val": "Northern Expansion",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 888,
+    "key": "northern_expansion_focus_desc",
+    "val": "The Northern Expansion Doctrine, which has the support of the Imperial Army, recognizes that the Soviet Union poses the greatest threat to Japanese ambitions. With tensions rising in Europe, a favorable moment to attack the Russian Far East is bound to present itself. We must strike quickly.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 889,
+    "key": "southern_expansion_focus",
+    "val": "Southern Expansion",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 890,
+    "key": "southern_expansion_focus_tt",
+    "val": "Add §Ynon-aggression pact§! with §YSoviet Union§! when selected\\n",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 891,
+    "key": "southern_expansion_focus_desc",
+    "val": "The Southern Expansion Doctrine, favored by the Imperial Navy, dictates that Japan must expand south into Southeast Asia and the Pacific. The rich colonies of the European powers have resources critical to Japanese industry, but this path will lead to conflict with the United States. A preemptive strike is in order.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 892,
+    "key": "new_ideas",
+    "val": "New Ministers available.\\n",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 893,
+    "key": "available_political_advisor",
+    "val": "§GAvailable§! as §YPolitical Advisor§!:\\n",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 894,
+    "key": "available_chief_of_army",
+    "val": "§GAvailable§! as §YChief of Army§!:\\n",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 895,
+    "key": "available_chief_of_navy",
+    "val": "§GAvailable§! as §YChief of Navy§!:\\n",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 896,
+    "key": "available_chief_of_airforce",
+    "val": "§GAvailable§! as §YChief of Airforce§!:\\n",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 897,
+    "key": "available_military_high_command",
+    "val": "§GAvailable§! as §YMilitary High Command§!:\\n",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 898,
+    "key": "available_theorist",
+    "val": "§GAvailable§! as §YTheorist§!:\\n",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 899,
+    "key": "available_designer",
+    "val": "§GAvailable§! as §YDesign Company§!:\\n",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 900,
+    "key": "available_industrial_concern",
+    "val": "§GAvailable§! as §YIndustrial Concern§!:\\n",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 901,
+    "key": "remove_political_advisor",
+    "val": "§RRemove§! as §YPolitical Advisor§!:\\n",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 902,
+    "key": "remove_chief_of_army",
+    "val": "§RRemove§! as §YChief of Army§!:\\n",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 903,
+    "key": "remove_chief_of_navy",
+    "val": "§RRemove§! as §YChief of Navy§!:\\n",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 904,
+    "key": "remove_chief_of_airforce",
+    "val": "§RRemove§! as §YChief of Airforce§!:\\n",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 905,
+    "key": "remove_military_high_command",
+    "val": "§RRemove§! as §YMilitary High Command§!:\\n",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 906,
+    "key": "remove_theorist",
+    "val": "§RRemove§! as §YTheorist§!:\\n",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 908,
+    "key": "USA_issue_war_bonds",
+    "val": "Issue War Bonds",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 909,
+    "key": "USA_issue_war_bonds_desc",
+    "val": "With war bonds, we rely on the people's support of the war effort and patriotism to finance military expenses.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 910,
+    "key": "USA_office_of_strategic_services",
+    "val": "Office of Strategic Services",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 911,
+    "key": "USA_office_of_strategic_services_desc",
+    "val": "Forming a dedicated intelligence agency will not only aid the war, but future operations abroad. British intelligence services can serve as a model.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 912,
+    "key": "USA_wartime_industry",
+    "val": "Wartime Industry",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 913,
+    "key": "USA_wartime_industry_desc",
+    "val": "We have a strong industry, but not all of it is well adapted for production of war materials. Finding efficient processes to facilitate this change will be key to utilizing our resources.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 914,
+    "key": "USA_first_special_service_force",
+    "val": "First Special Service Force",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 915,
+    "key": "USA_first_special_service_force_desc",
+    "val": "Operations behind enemy lines in inhospitable territory will be part of any global conflict. Forming commando units to fulfill these roles is essential to our future warfare.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 916,
+    "key": "USA_rubber_reserve_company",
+    "val": "Rubber Reserve Company",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 917,
+    "key": "USA_rubber_reserve_company_desc",
+    "val": "With the eruption of war, we have lost almost all our sources of imported rubber.\\n\\nWith an enormous coordinated effort, the rubber companies in the United States can cooperate to find better means of producing synthetic rubber, possibly even meeting the demands of the war effort.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 918,
+    "key": "USA_manifest_destiny",
+    "val": "Manifest Destiny",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 919,
+    "key": "USA_manifest_destiny_desc",
+    "val": "The special circumstances around our nation's foundation and history give us mandate to act on injustice and oppression anywhere in the world. To create a safe international community, our primary export must be freedom.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 920,
+    "key": "USA_manifest_destiny_tt",
+    "val": "§YGives wargoals against all Fascist and Communist nations.§!\\n",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 921,
+    "key": "USA_scientist_haven",
+    "val": "Scientist Haven",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 922,
+    "key": "USA_scientist_haven_desc",
+    "val": "Having asserted ourselves as guardians of liberty in the world, we can welcome researchers and intellectuals driven out of the oppressive regimes abroad, giving them a chance to succeed and aid our cause in the land of opportunity.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 925,
+    "key": "USA_committee_on_technocracy",
+    "val": "Committee on Technocracy",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 926,
+    "key": "USA_committee_on_technocracy_desc",
+    "val": "We should replace a number of politicians and businesspeople with scientists and engineers. They have the technical expertise to manage the economy and we will see great scientific progress, which will lead to our economy flourishing once again.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 937,
+    "key": "USA_war_propaganda",
+    "val": "War Propaganda",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 938,
+    "key": "USA_war_propaganda_desc",
+    "val": "Our people don't want to send their children to die in another war, but many politicians see a need for intervention. Propaganda to demonize the enemy and call for open conflict may not only be a tool for tyrants.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 939,
+    "key": "USA_war_plan_black",
+    "val": "War Plan Black",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 940,
+    "key": "USA_war_plan_black_desc",
+    "val": "It's plain to see that Germany's politics and expansionism goes far beyond any measure of sanity. They must be stopped before their war machine reaches the point of no return.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 941,
+    "key": "USA_embargo_germany",
+    "val": "Embargo Germany",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 942,
+    "key": "USA_embargo_germany_desc",
+    "val": "Germany is dependent on oil and other natural resources for their war effort. Cutting off their access to these is the least we can do.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 943,
+    "key": "USA_destroyers_for_bases",
+    "val": "Destroyers For Bases",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 944,
+    "key": "USA_destroyers_for_bases_desc",
+    "val": "The UK is in need of ships, and we need to protect our home territory. For the right to set up military bases in currently British territories, we can exchange some Destroyers, which will hopefully be put to good use as well.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 945,
+    "key": "USA_destroyers_for_bases_tt",
+    "val": "§Y[USA.GetNameDef]§!: \\n",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 946,
+    "key": "USA_war_plan_white",
+    "val": "War Plan White",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 947,
+    "key": "USA_war_plan_white_desc",
+    "val": "The [GetSovietThreatName] Menace cannot be allowed to expand unchecked. Whether from without or from within, there is no greater threat to our nation and the world at large.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 948,
+    "key": "USA_embargo_USSR",
+    "val": "Embargo USSR",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 949,
+    "key": "USA_embargo_USSR_desc",
+    "val": "Depriving the Soviet Union of trade opportunities with us will both keep us from aiding their military efforts and prove our economic model as superior.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 950,
+    "key": "USA_war_plan_red",
+    "val": "War Plan Red",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 951,
+    "key": "USA_war_plan_red_desc",
+    "val": "After appearing to be on the path to respecting the people, our old oppressors are now at odds with the winds of change we've accepted. The British Empire is showing its true colors. We must let them know where we stand.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 952,
+    "key": "USA_embargo_the_empire",
+    "val": "Embargo The Empire",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 953,
+    "key": "USA_embargo_the_empire_desc",
+    "val": "Despite having enjoyed good relations for a long time, the British have betrayed the ideals we hoped they learned to live up to. It's time to let them know the consequences.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 954,
+    "key": "USA_war_plan_orange",
+    "val": "War Plan Orange",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 955,
+    "key": "USA_war_plan_orange_desc",
+    "val": "There is no greater threat to us than Japan's imperialistic ambitions. Their efforts to expand into Asia and the Pacific will put them at odds with our interests quickly.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 956,
+    "key": "USA_unlock_contain_japan_tt",
+    "val": "Currently inactive rewards that will be granted if §Y[JAP.GetNameDef]§! expands a dangerous amount:",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 957,
+    "key": "USA_embargo_japan",
+    "val": "Embargo Japan",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 958,
+    "key": "USA_embargo_japan_desc",
+    "val": "We must show Japan that their aggression will not be accepted or aided by the USA. An embargo will be the first step to thwarting their designs on the Pacific.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 959,
+    "key": "USA_prepare_intervention",
+    "val": "Prepare Intervention",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 960,
+    "key": "USA_prepare_intervention_desc",
+    "val": "Through diplomatic and trade decisions, our position on the international scene has shifted from neutral and isolationist to taking a stance on foreign aggressions. Our military policies will reflect this in the future.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 961,
+    "key": "USA_extra_tech_team",
+    "val": "Extra Tech Team",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 964,
+    "key": "USA_unholy_alliance",
+    "val": "Unholy Alliance",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 965,
+    "key": "USA_unholy_alliance_desc",
+    "val": "Sometimes, we have to choose our enemies. Often, the choice is not easy. The future may judge us for standing side by side with one tyrant, or praise us for saving it from the other.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 966,
+    "key": "USA_unholy_alliance_tt",
+    "val": "Boosts opinion and trade opinion with [SOV.GetNameDef] or Germany if they are at war, siding with the defender.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 967,
+    "key": "USA_limited_intervention",
+    "val": "Limited Intervention",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 968,
+    "key": "USA_limited_intervention_desc",
+    "val": "It would take extraordinary aggression to draw us into a war at full force, but after recent developments, many people are freely willing to assist in conflicts abroad.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 969,
+    "key": "USA_the_giant_wakes",
+    "val": "The Giant Wakes",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 970,
+    "key": "USA_the_giant_wakes_desc",
+    "val": "Nations turn to us to protect the values of democracy and liberty. The world where non-interventionist America was born no longer exists and we must adapt accordingly.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 971,
+    "key": "USA_pearl_harbor_gambit",
+    "val": "Pearl Harbor Gambit",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 972,
+    "key": "USA_pearl_harbor_gambit_desc",
+    "val": "The naval base in Pearl Harbor is an easy target for the Japanese. By basing a fleet there, we will demonstrate our power in the Pacific. Will they dare challenge such a bold move?",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 973,
+    "key": "USA_pearl_harbor_gambit_tt",
+    "val": "§YWhile the focus is running, Japan will have the opportunity to launch an attack.§!",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 974,
+    "key": "USA_cancel_pearl_harbor_gambit",
+    "val": "Cancel Pearl Harbor Gambit",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 975,
+    "key": "USA_cancel_pearl_harbor_gambit_desc",
+    "val": "Stationing a fleet in Pearl Harbor endangers the lives of our sailors. We will not risk them to provoke a war with Japan.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 990,
+    "key": "USA_battleship_primacy",
+    "val": "Battleship Primacy",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 991,
+    "key": "USA_battleship_primacy_desc",
+    "val": "With the Japanese denunciation of the Washington Naval Treaty, we may face another arms race on the oceans. We will ensure we have both the most and best battleships.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 992,
+    "key": "USA_advanced_mahanian_doctrine",
+    "val": "Advanced Mahanian Doctrine",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 993,
+    "key": "USA_advanced_mahanian_doctrine_desc",
+    "val": "The influence of Alfred Thayer Mahan on naval warfare can hardly be underestimated. Building on his work will allow us to make good use of battleships, which he considered a decisive factor.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 994,
+    "key": "USA_carrier_primacy",
+    "val": "Carrier Primacy",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 995,
+    "key": "USA_carrier_primacy_desc",
+    "val": "Air power will be needed in battles to come, and the most practical means of extending its range is the use of aircraft carriers. We must create more advanced and specialized models.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 996,
+    "key": "USA_bureau_of_aeronautics",
+    "val": "Bureau of Aeronautics",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 997,
+    "key": "USA_bureau_of_aeronautics_desc",
+    "val": "To meet the needs for naval aviation development, the Bureau of Aeronautics, which has been responsible for these matters for decades, will have to be expanded.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 998,
+    "key": "USA_escort_effort",
+    "val": "Escort Effort",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 999,
+    "key": "USA_escort_effort_desc",
+    "val": "Submarines constitute a danger to our merchant convoys. Focusing on development of new destroyer models will allow us to wage anti-submarine warfare efficiently.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1000,
+    "key": "USA_convoy_tactics",
+    "val": "Convoy Tactics",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1001,
+    "key": "USA_convoy_tactics_desc",
+    "val": "Protecting our trade vessels is not just about escorts and effective intelligence, but also tactical choices in how to arrange our trade routes and routines.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1002,
+    "key": "USA_amphibious_operations",
+    "val": "Amphibious Operations",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1003,
+    "key": "USA_amphibious_operations_desc",
+    "val": "Unless our worst nightmares come true, this war will not be ended on American soil. Well-executed landings will need to be part of the path to victory.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1004,
+    "key": "USA_expand_the_USMC",
+    "val": "Expand The USMC",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1005,
+    "key": "USA_expand_the_USMC_desc",
+    "val": "The United States Marine Corps have been a decisive force in many past wars and may be more relevant than ever for our amphibious campaigns. Semper fidelis!",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1006,
+    "key": "USA_reinforce_monroe_doctrine",
+    "val": "Reaffirm Monroe Doctrine",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1007,
+    "key": "USA_reinforce_monroe_doctrine_desc",
+    "val": "Dating over a 100 years back, the Monroe Doctrine codified US intervention in the case of European attempts to colonize the Americas, but stay out of European affairs. Strengthening our role as peace-keepers on these continents will improve our influence in the region.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1008,
+    "key": "USA_carribean_sphere",
+    "val": "Caribbean Sphere",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1009,
+    "key": "USA_carribean_sphere_desc",
+    "val": "The Caribbean islands offer the perfect location to launch strikes against our Eastern coast or the Panama canal, so of course we must make it clear that no hostile takeovers of the area will be permitted.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1010,
+    "key": "USA_central_america",
+    "val": "Central America",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1011,
+    "key": "USA_central_america_desc",
+    "val": "It would be unthinkable to let any foreign power take control of, or even be able to threaten, the Panama canal. As such, we shall guarantee the independence of all the Central American nations.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1012,
+    "key": "USA_the_neighbors",
+    "val": "The Neighbors",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1013,
+    "key": "USA_the_neighbors_desc",
+    "val": "We must first and foremost see to the safety of the countries closest to us. Rather than having the enemy cross our neighbors to get to us, they'll cross us if they cross our neighbors.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1014,
+    "key": "USA_south_america",
+    "val": "South America",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1015,
+    "key": "USA_south_america_desc",
+    "val": "Colonial empires must never again be able to expand into South America, we shall guarantee the independence of our Southern brothers to keep them safe.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1016,
+    "key": "USA_pax_americana",
+    "val": "Pax Americana",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1017,
+    "key": "USA_pax_americana_desc",
+    "val": "The peace in America must be kept. We have the strength to ensure that petty squabbles between neighboring nations do not escalate. A war at our doorsteps is exactly what our enemies want, and we must do everything we can to prevent it.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1018,
+    "key": "USA_pax_americana_tt",
+    "val": "@USA §YUnited States§! can intervene in wars between American countries",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1019,
+    "key": "USA_black_chamber",
+    "val": "Black Chamber Operation",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1020,
+    "key": "USA_black_chamber_complete",
+    "val": "§RCLASSIFIED§!",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1021,
+    "key": "USA_black_chamber_desc",
+    "val": "We have information of political activities in a number of American countries that does not align with our interests. Fortunately we have established an underground propaganda network and are ready to push these countries in our direction. This is something we must do to ensure that we are not under threat at home.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1022,
+    "key": "USA_preemptive_intervention",
+    "val": "Preemptive Intervention",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1023,
+    "key": "USA_preemptive_intervention_desc",
+    "val": "We can no longer sit idly by and watch neighboring countries build tools of war meant to suppress us or our allies. We must intervene for the greater good of our mighty country and the world.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1024,
+    "key": "construction_tech_bonus",
+    "val": "Construction technology bonus",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1025,
+    "key": "excavation_tech_bonus",
+    "val": "Excavation technology bonus",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1026,
+    "key": "air_sup_bonus",
+    "val": "Air Superiority doctrines bonus",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1046,
+    "key": "special_bonus",
+    "val": "Special forces bonus",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1048,
+    "key": "air_bonus",
+    "val": "Air models bonus",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1051,
+    "key": "con_def_bonus",
+    "val": "Convoy Defense doctrine bonus",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1052,
+    "key": "synth_bonus",
+    "val": "Synthetic resource technologies",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1053,
+    "key": "naval_doc_bonus",
+    "val": "Naval Doctrines bonus",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1055,
+    "key": "heavy_bomber_bonus",
+    "val": "Strategic Bomber bonus",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1056,
+    "key": "jet_bonus",
+    "val": "Jet Aircraft models bonus",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1060,
+    "key": "air_doc_bonus",
+    "val": "Air doctrine bonus",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1062,
+    "key": "infantry_weapons_bonus",
+    "val": "Infantry Weapons bonus",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1071,
+    "key": "SOV_nkvd_upgrade_tooltip",
+    "val": "§YThe NKVD§! is now more tightly integrated in our army, making sure soldier morale and faith in the Party is high.\\n",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1072,
+    "key": "ger_sov_buddies_tooltip_2",
+    "val": "This will disband [Root.GetFactionName] and create the §YBerlin-Moscow§! faction.\\n",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1073,
+    "key": "ger_sov_buddies_tooltip",
+    "val": "§RIf the [SOV.GetAdjective]s accept our offer we will suffer some loss of Stability due to this change of policy. Needless to say, our fellow Fascists and the Democratic powers will also be upset by this turn of events.§!\\n",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1074,
+    "key": "purged_kalinin",
+    "val": " Purged by Stalin",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1075,
+    "key": "purged_khrushchev",
+    "val": " Purged by Stalin",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1076,
+    "key": "purged_yezhov",
+    "val": " Purged by Stalin",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1088,
+    "key": "FRA_algerie_france_tt",
+    "val": "Not enough building slots for §YInfrastructure§! in Colonial France",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1090,
+    "key": "FRA_industrial_expansion",
+    "val": "Industrial Expansion",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1091,
+    "key": "FRA_industrial_expansion_tt",
+    "val": "Not enough building slots for §YCivilian Factories§! in Metropolitan France",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1092,
+    "key": "FRA_industrial_expansion_desc",
+    "val": "We need a stronger industrial presence at home. We have plenty of labor ready, but need more factory lines.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1094,
+    "key": "FRA_colonial_industry_tt",
+    "val": "Not enough building slots for §YCivilian Factories§! in Colonial France",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1096,
+    "key": "FRA_military_factories",
+    "val": "Military Factories",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1097,
+    "key": "FRA_military_factories_tt",
+    "val": "Not enough building slots for §YMilitary Factory§! in Metropolitan France",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1098,
+    "key": "FRA_military_factories_desc",
+    "val": "Our war-machine is falling behind in capacity. We need to focus on production of military equipment on home soil to make sure that our forces are constantly given new equipment.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1099,
+    "key": "FRA_colonial_military_factories",
+    "val": "Colonial Military Factories",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1100,
+    "key": "FRA_colonial_military_factories_tt",
+    "val": "Not enough building slots for §YMilitary Factory§! in Colonial France",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1101,
+    "key": "FRA_colonial_military_factories_desc",
+    "val": "Placing our military production outside Europe ensures that even if the enemy gains control of our airspace, we will maintain a constant flow of equipment to our front-line troops.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1102,
+    "key": "FRA_extra_research_slot",
+    "val": "Support the Grandes Écoles",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1103,
+    "key": "FRA_extra_research_slot_desc",
+    "val": "Promising young minds are popping up everywhere. We need to supply them with facilities to conduct their research. Advances in technology can give us the edge where we most need it.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1104,
+    "key": "FRA_nuclear_effort",
+    "val": "Nuclear Effort",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1105,
+    "key": "FRA_nuclear_effort_desc",
+    "val": "Initial tests in nuclear science has shown promising results. Harnessing its power can give us a weapon unlike anything mankind has seen.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1106,
+    "key": "FRA_jet_effort",
+    "val": "Jet Effort",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1107,
+    "key": "FRA_jet_effort_desc",
+    "val": "Air combat is all about mobility. The jet engine is such a powerful advance that the enemy pilots will seem to stand still while we rip them out of the sky.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1108,
+    "key": "FRA_extra_research_slot_2",
+    "val": "Form the National Research Center",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1109,
+    "key": "FRA_extra_research_slot_2_desc",
+    "val": "Promising young minds are popping up everywhere. We need to supply them with facilities to conduct their research. Advances in technology can give us the edge where we most need it.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1110,
+    "key": "FRA_defensive_focus",
+    "val": "Defensive Focus",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1111,
+    "key": "FRA_defensive_focus_desc",
+    "val": "In times like these, it is best to strengthen our defenses. If there are threats, let them come to us so that we can deal with them on our own land. We have a perfect candidate to lead our army, all we need is your word.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1112,
+    "key": "FRA_aggressive_focus",
+    "val": "Aggressive Focus",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1113,
+    "key": "FRA_aggressive_focus_desc",
+    "val": "We cannot sit idly by as enemies move in on our borders. And we cannot leave our allies to fend for themselves in a war scenario. Prepare our army! Gamelin is the man for the job.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1114,
+    "key": "FRA_fortification_focus",
+    "val": "Fortification Focus",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1115,
+    "key": "FRA_fortification_focus_desc",
+    "val": "As critical as our forts have been, we need to find ways to construct them more efficiently. The Maginot line has been a powerful deterrent of enemy forces, we could use the security of more defenses like it.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1116,
+    "key": "FRA_alpine_forts",
+    "val": "Alpine Forts",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1117,
+    "key": "FRA_alpine_forts_desc",
+    "val": "The Italians won't cross the border so easily once we finish covering the Alps with our newly planned line of defense. We will have time to respond and reinforce our position.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1120,
+    "key": "FRA_infantry_focus",
+    "val": "Levée en masse",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1121,
+    "key": "FRA_infantry_focus_desc",
+    "val": "All men and women who can fight will do so. Producing weapons in mass will lower the cost. We will put a rifle in the hands of everyone.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1122,
+    "key": "FRA_artillery_focus",
+    "val": "Grande Batterie",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1123,
+    "key": "FRA_artillery_focus_desc",
+    "val": "Our Artillery will form a single powerful unit to focus fire on specific points. One volley at a time and we will weaken the enemy line and punch our way through if we have to!",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1124,
+    "key": "FRA_heavy_armor_focus",
+    "val": "Char de Bataille",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1125,
+    "key": "FRA_heavy_armor_focus_desc",
+    "val": "Battle tanks are the way forward for the French Army. We want to control the battlefield and for this we will need new powerful tanks!",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1126,
+    "key": "FRA_motorized_focus",
+    "val": "Motorized Focus",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1137,
+    "key": "FRA_improved_screen_ships",
+    "val": "Improved Screen Ships",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1138,
+    "key": "FRA_improved_screen_ships_desc",
+    "val": "Destroyers and Lighter Cruisers play a key role in defending our heavier Battleships or Carriers. If we lose our line of defense at sea we risk all ships and men. We must make sure our ships are built with the latest technology.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1139,
+    "key": "FRA_capital_ship_focus",
+    "val": "Capital Ship Focus",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1140,
+    "key": "FRA_capital_ship_focus_desc",
+    "val": "Improving the design of our Battleships would lead to great tactical advantages. With their range and power uncontested, no one will be able to outrun their guns.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1141,
+    "key": "FRA_carrier_focus",
+    "val": "Carrier Focus",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1142,
+    "key": "FRA_carrier_focus_desc",
+    "val": "Naval theorists have directed our attention to our outdated Carriers. They have suggestions on how Carriers can be further utilized if development is pushed in the right direction. Real progress cannot be made without our full support.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1143,
+    "key": "FRA_initiate_government_reform",
+    "val": "Government Reform",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1144,
+    "key": "FRA_initiate_government_reform_desc",
+    "val": "The world has grown dangerous. We can no longer be tied down by our own petty squabbles. It is time to empower our politicians and move forward for the sake of France.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1145,
+    "key": "FRA_support_the_left",
+    "val": "Support The Left",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1146,
+    "key": "FRA_support_the_left_desc",
+    "val": "The Comintern is growing stronger. It is time to show that our interests can be aligned, and support our communist organizations.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1147,
+    "key": "FRA_leftist_rhetoric",
+    "val": "Leftist Rhetoric",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1148,
+    "key": "FRA_leftist_rhetoric_desc",
+    "val": "The goal is clear. Equality for all. We do not want capitalist interests in french politics. It is imperative that we give optimal conditions for our communist organizations to flourish.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1149,
+    "key": "FRA_scw_intervention_republicans",
+    "val": "Republican Intervention",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1150,
+    "key": "FRA_scw_intervention_republicans_desc",
+    "val": "Republican Spain needs our help! \\nAnyone willing to fight for the cause should be allowed to. We cannot allow another fascist regime to gain ground.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1151,
+    "key": "FRA_national_mobilization",
+    "val": "National Mobilization",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1152,
+    "key": "FRA_national_mobilization_desc",
+    "val": "We finally have a government capable of taking action. Now it is time to strengthen our army and be prepared to fight for France.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1153,
+    "key": "FRA_humanite_unie",
+    "val": "Humanité Unie",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1154,
+    "key": "FRA_humanite_unie_desc",
+    "val": "The fat bankers and the powerhungry demagogues are strengthening their bloody grip on the world. With each passing day we see free men enslaved and the world plunged further into crisis, created by the greed of the individual. French ideals are needed more than ever! Humanity needs us and we need to unite humanity!",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1155,
+    "key": "FRA_join_comintern",
+    "val": "Join Comintern",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1156,
+    "key": "FRA_join_comintern_desc",
+    "val": "With enemies everywhere we turn, we need to strengthen our position with some powerful allies. Our ties with the Comintern has grown stronger and it is time to dedicate ourselves fully to their cause.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1157,
+    "key": "FRA_support_status_quo",
+    "val": "Support The Status Quo",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1158,
+    "key": "FRA_support_status_quo_desc",
+    "val": "France is the cradle and protector of liberty and should remain so. If we ever wish to achieve unity again, then we must stabilize our democracy before it dwindles.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1163,
+    "key": "FRA_strengthen_government_support",
+    "val": "Strengthen Government",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1164,
+    "key": "FRA_strengthen_government_support_desc",
+    "val": "We have made plans for the following year that will meet the wishes of people in all parts of France. Show them that we are capable of action and worthy to rule France, so we can once again stand united.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1165,
+    "key": "FRA_defensive_strategems",
+    "val": "Defensive Stratagems",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1166,
+    "key": "FRA_defensive_strategems_desc",
+    "val": "If we want the people of France to fight a war for us it is more important than ever that we have a clear direction. We must stop fighting amongst ourselves and fight for France and \"Liberté, égalité, fraternité\" instead.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1167,
+    "key": "FRA_invite_yugoslavia",
+    "val": "Invite Yugoslavia",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1168,
+    "key": "FRA_invite_yugoslavia_desc",
+    "val": "Yugoslavia has enough concerns without having to worry about expansionist neighbors. Bringing them back into the Little Entente would be a great service to both them and ourselves.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1169,
+    "key": "FRA_invite_romania",
+    "val": "Invite Romania",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1170,
+    "key": "FRA_invite_romania_desc",
+    "val": "The Romanian democracy is fragile, caught between its internal fascist factions and Soviet communism. Bringing them into the Little Entente will allow them to retain stability with our backing.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1171,
+    "key": "FRA_polish_guarantee",
+    "val": "Polish Guarantee",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1172,
+    "key": "FRA_polish_guarantee_desc",
+    "val": "Polish diplomats have expressed concerns about the tension on their borders. A guarantee from our mighty nation should deter anyone planning an invasion.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1173,
+    "key": "FRA_czech_guarantee",
+    "val": "Czech Guarantee",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1174,
+    "key": "FRA_czech_guarantee_desc",
+    "val": "Tension is rising at the Czech border. We cannot allow expansive nations to take over a free and democratic nation. The Czechs must remain a free people. With a guarantee from us anyone planning an invasion will think twice.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1175,
+    "key": "FRA_revise_versailles",
+    "val": "Revise Versailles",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1176,
+    "key": "FRA_revise_versailles_desc",
+    "val": "The Germans are already ignoring the reparations stipulated by the Versailles Treaty, showing that France no longer inspires respect. If anything, we have the right to demand more for the lives lost in the Great War, but a just treaty would require a strong France, a new France, to enforce it.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1187,
+    "key": "FRA_woo_italy",
+    "val": "Woo Italy",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1188,
+    "key": "FRA_woo_italy_desc",
+    "val": "Italy has the potential to become a powerful nation. Thanks to the strong leadership of Mussolini the people of Italy are united and ready to fight for the right cause. Let that cause be ours.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1189,
+    "key": "FRA_dismantle_the_democracies",
+    "val": "Dismantle the Democracies",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1190,
+    "key": "FRA_dismantle_the_democracies_desc",
+    "val": "The new [GER.GetAdjective] democratic alliance in central Europe is threatening our new-found position. We must take action now, before they grow more powerful.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1191,
+    "key": "FRA_join_germany",
+    "val": "Join Germany",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1192,
+    "key": "FRA_join_germany_desc",
+    "val": "The German Reich is becoming a force to be reckoned with. Their vision of a better future can be aligned with our interests. We should support them and once the dust settles France will get its rightful piece of Europe.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1193,
+    "key": "FRA_naval_doctrine",
+    "val": "Naval Doctrine",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1194,
+    "key": "FRA_naval_doctrine_desc",
+    "val": "Recent progress in ship designs have opened up new options in tactical and strategical maneuvers. Before we take chances with these new theories we need to have them properly tested and plans solidified.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1195,
+    "key": "FRA_air_focus",
+    "val": "Air Focus",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1196,
+    "key": "air_focus_bypass_tt",
+    "val": "Not enough building slots for §YAir Base§!",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1197,
+    "key": "FRA_air_focus_desc",
+    "val": "Time has come to expand on our air force! Plans have already been made to start construction of new Air Bases to support a big increase in both personnel and aircraft.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1198,
+    "key": "FRA_cas_focus",
+    "val": "CAS Focus",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1199,
+    "key": "FRA_cas_focus_desc",
+    "val": "Planes which provide support for our land forces and ships have been a very efficient addition at a relatively small investment. These planes now have several suggested improvements. Our engineers can develop the next generation of support aircraft.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1200,
+    "key": "FRA_fighter_focus",
+    "val": "Fighter Focus",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1201,
+    "key": "FRA_fighter_focus_desc",
+    "val": "Some revolutionary civilian engineering can be applied on our Fighters to improve their speed, range and max altitude. We need to focus on this if we want to keep up with the advancements made by others.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1202,
+    "key": "FRA_bomber_focus",
+    "val": "Bomber Focus",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1203,
+    "key": "FRA_bomber_focus_desc",
+    "val": "Air support is an important part of both our defensive and offensive capabilities. If we focus our efforts on developing fast, more agile and accurate bombers we will maintain an edge in any land battle.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1204,
+    "key": "FRA_heavy_fighter_focus",
+    "val": "Heavy Fighter Focus",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1205,
+    "key": "FRA_heavy_fighter_focus_desc",
+    "val": "Our Heavy Fighters must be able to support the more vulnerable bomber airplanes. This requires heavier armament and longer range at the cost of some speed.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1206,
+    "key": "FRA_air_doctrine",
+    "val": "Air Doctrine",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1207,
+    "key": "FRA_air_doctrine_desc",
+    "val": "We have gained enough experience to test new theories in air warfare at a faster pace. This will allow us to explore new tactical and strategic possibilities. Air combat is the key in modern warfare.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1208,
+    "key": "FRA_heavy_bomber_focus",
+    "val": "Heavy Bomber Focus",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1209,
+    "key": "FRA_heavy_bomber_focus_desc",
+    "val": "Modern heavy bombers will be armed to handle lesser aerial skirmishes on their own. If we allow our engineers to focus on developing the newest technology we will have a better chance of destroying enemy production facilities.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1210,
+    "key": "FRA_naval_bomber_focus",
+    "val": "Naval Bomber Focus",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1211,
+    "key": "FRA_naval_bomber_focus_desc",
+    "val": "Ships have proven exceptionally vulnerable to aircraft. We should keep improving on their technology to ensure we stay ahead of any countermeasures.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1212,
+    "key": "limited_rearmament_focus",
+    "val": "Limited Rearmament",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1213,
+    "key": "limited_rearmament_focus_desc",
+    "val": "[Root.GetLimitedRearmamentDesc]",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1214,
+    "key": "ENG_LIMITED_REARMAMENT_HISTORICAL",
+    "val": "The recent stirrings from Germany and other Fascist powers around the world suggest that we may not enjoy peace in our time. In preparation, we should begin to set the pieces in motion for our own rearmament if the situation gets any worse.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1215,
+    "key": "ENG_LIMITED_REARMAMENT_AHISTORICAL",
+    "val": "Our new approach to domestic politics and international relations requires a healthy military to support it. In preparation, we should begin to expand upon our civilian industry, so that it may form a stable foundation for a future expansion of our military industry, in due time.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1216,
+    "key": "ENG_motorized_focus",
+    "val": "A Motorized Army",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1217,
+    "key": "ENG_motorized_focus_desc",
+    "val": "Recently the Army has been experimenting with fully motorized infantry units. As yet, they have not formed any fully motorized divisions, but with right words to the Secretary of State for War this could soon be possible.",
+    "isPureVar": false
+  }
+]

@@ -1,0 +1,90 @@
+# -*- coding: utf-8 -*-
+import json
+
+chunk_0_translations = {
+  "spain.1.t": "Perang Saudara!",
+  "spain.1.d": "Sekelompok jenderal berpengaruh di Angkatan Bersenjata telah mengeluarkan pronunciamiento, mengecam pemerintah Spanyol saat ini! Mereka melancarkan kudeta sayap kanan dengan dukungan kaum monarki konservatif dan kalangan rohaniwan. Sebagian besar kekuatan militer telah berpihak pada kaum Nasionalis ini, tetapi sejauh ini mereka gagal merebut kota-kota besar Spanyol selain Sevilla.\\n\\nSementara itu, para sukarelawan sayap kiri berbondong-bondong merapat ke panji-panji pemerintah Republik, siap mendukungnya melawan para pemberontak. Para loyalis ini mungkin kurang terlatih, tetapi tak ada yang bisa meragukan semangat mereka.\\n\\nGaris pertempuran telah ditarik - faksi mana yang harus kita dukung?",
+  "spain.10.d": "Setelah terpilihnya Jenderal Francisco Franco secara damai sebagai presiden Spanyol, sempat ada harapan bahwa pemberontakan penuh kekerasan dan gejolak politik beberapa tahun terakhir akan berakhir. Rumor bahwa Franco akan berupaya membentuk kediktatoran satu partai dengan dirinya sebagai kepala negara kian diperkuat oleh hilangnya sejumlah pemimpin oposisi secara mendadak.\\nSetelah pengadilan kilat, perwira Carabineros José Galán dinyatakan bersalah atas pengkhianatan dan eksekusi matinya di depan umum menyusul tak lama kemudian. Meski dimaksudkan untuk memadamkan segala tekad melawan bangkitnya Spanyol Nasionalis, tindakan itu justru memicu dampak sebaliknya. Para sukarelawan sayap kiri bahkan sekelompok jenderal berbondong-bondong merapat ke panji Tentara Rakyat yang baru dibentuk, siap bertempur melawan kaum Nasionalis yang menindas. Walaupun sebagian besar kurang terlatih, mereka berhasil merebut sejumlah kota penting di tengah kekacauan pasca-pemberontakan.\\n\\nGaris pertempuran telah ditarik - faksi mana yang harus kita dukung?",
+  "spain.2.t": "Mencari Dukungan Internasional?",
+  "spain.2.d": "Kudeta ini belum sepenuhnya berhasil, namun kaum Carlist, Falangis, dan Konfederasi Hak Otonom (CEDA) telah berhasil memobilisasi sebagian besar tentara untuk menggulingkan Republik, yang telah terlalu lama membiarkan bangsa Kristen kita yang bangga ini terjerumus ke dalam anarki. Hasil akhirnya masih belum pasti, sementara dunia memperhatikan dengan cemas pihak mana yang akan keluar sebagai pemenang.\\n\\nNamun, kita tidak melancarkan kudeta ini hanya untuk berpangku tangan, begitu pula dunia jika ingin menghancurkan ancaman merah. Negara-negara lain yang tengah berjuang memulihkan kejayaan nasional mereka semestinya bersedia datang membantu kita.",
+  "spain.3.d": "Kekuatan reaksioner dan fasis di tubuh militer berupaya menghancurkan Republik dalam satu pukulan cepat, tetapi mereka tidak memperkirakan perlawanan sengit di kota-kota besar maupun cepatnya mobilisasi milisi buruh. Alih-alih kudeta singkat, mereka justru menyulut perang—perang melawan kemajuan dan masa depan yang diinginkan rakyat Spanyol.\\n\\nNegara-negara demokratis maupun sosialis sama-sama menyuarakan dukungan bagi Republik, tetapi hanya sedikit yang berani berkomitmen untuk terlibat langsung. Kita dapat meminta mereka mendukung perjuangan kita, atau para penindas itu kelak akan merenggut kebebasan dan solidaritas mereka berikutnya.",
+  "spain.4.t": "Spanyol Nasionalis Meminta Bantuan Kita",
+  "spain.4.d": "Perang Saudara Spanyol telah menjadi semacam mikrokosmos dari pandangan kita terhadap situasi global: kaum Komunis dan liberal berupaya menghancurkan nilai-nilai lama, dan kita mengangkat senjata untuk membangkitkannya kembali. Tidaklah mengherankan jika kaum Nasionalis di Spanyol telah menghubungi kita dan pihak lain untuk melengkapi persenjataan mereka demi konflik yang kian mendekat.",
+  "spain.5.t": "Spanyol Republikan Meminta Bantuan Kita",
+  "spain.5.d": "Upaya untuk menggulingkan Republik Spanyol Kedua adalah sinyal nyata bahwa kaum fasis tidak akan membiarkan bunga kemajuan berkembang bahkan di tempat ia berakar secara alami. Kaum Republikan dan sekutunya—campuran kaum demokrat, komunis, dan anarkis—telah berpaling kepada kita dan komunitas internasional lainnya untuk memohon bantuan. Banyak negara yang mengaku membela demokrasi dan kebebasan justru menahan dukungan mereka karena takut terseret ke dalam perang. Bagaimana kita menanggapinya?",
+  "spain.6.t": "Spanyol Nasionalis Menghargai Bantuan Kita",
+  "spain.6.d": "Bantuan pinjam-sewa kita kepada Spanyol Nasionalis tidak luput dari perhatian. Jika mereka keluar sebagai pemenang, kita mungkin akan memiliki sekutu yang kuat setelah Spanyol dibangun kembali.",
+  "spain.7.t": "Spanyol Republikan Menghargai Bantuan Kita",
+  "spain.7.d": "Bantuan pinjam-sewa kita kepada Spanyol Republikan tidak luput dari perhatian. Jika Republik pulih, kita dapat meyakini bahwa mereka akan mendukung upaya berkelanjutan kita untuk membersihkan dunia dari sampah fasis.",
+  "spain.8.t": "Madrid Direbut Kembali",
+  "spain.8.d": "Perang telah dimenangkan. Madrid kembali menjadi milik kita dan kita memiliki kesempatan untuk menjadikan kota kuno ini sebagai pusat Spanyol sekali lagi. Kota ini telah menyaksikan begitu banyak pertempuran dan membutuhkan pembangunan kembali. Adakah cara yang lebih baik untuk mewujudkannya selain menjadikannya ibu kota kita?",
+  "spain.9.t": "Pemilu Spanyol 1936",
+  "spain.9.d": "Republik Kedua terbukti sangat rentan. [Root.GetLeader] dapat menjadi presiden dengan dukungan Front Populer, sebuah koalisi luas kelompok sayap kiri yang disokong oleh kaum republikan, komunis, dan anarkis.\\n\\nNamun, oposisi sayap kanan—yang mencakup kaum konservatif, monarkis, dan fasis—juga mulai bersatu demi menumbangkan Front Populer. Koalisi mana pun yang runtuh, lawan mereka kemungkinan besar akan memanfaatkan perselisihan internal tersebut untuk melancarkan revolusi. Pemilu ini bukanlah ujian terakhir yang harus dilalui Spanyol demi menuntaskan konflik ini.",
+  "low.1.t": "Prancis Memperpanjang Garis Maginot",
+  "low.1.d": "Pihak Prancis telah memutuskan untuk memperpanjang Garis Maginot ke arah barat hingga ke Selat Inggris! Hal ini secara gamblang menunjukkan niat mereka untuk menelantarkan kita jika terjadi invasi Jerman. Kedutaan kita di Paris telah mengajukan nota protes resmi, tetapi diragukan apakah hal itu akan memberi dampak berarti.",
+  "finland.1.t": "Pihak [FROM.GetAdjective] Menuntut [146.GetName]",
+  "finland.1.d": "Dengan dalih kebutuhan untuk menciptakan zona penyangga keamanan bagi [195.GetName], para pejabat dari [FROM.GetNameDef] telah meminta revisi perbatasan kita. Mereka menuntut kita menyerahkan Karelia kepada mereka, dan menilai dari penumpukan pasukan [FROM.GetAdjective] di sepanjang perbatasan, mereka tidak akan menerima penolakan. Bagaimana kita harus merespons?",
+  "finland.2.t": "Memohon Bantuan Swedia dalam Perang",
+  "finland.2.d": "Finlandia dan Uni Soviet sedang berperang. Setelah hanya beberapa dekade berdaulat, kini kita berisiko kembali menjadi wilayah taklukan salah satu negara tetangga kita.\\n\\nNamun, ancaman musuh kita merambah jauh melampaui perbatasan. Tetangga kita di Swedia masih mempertahankan sikap netral terhadap Uni Soviet, tetapi mungkin dapat diyakinkan untuk bergabung bersama kita membela warisan bersama dan mengamankan zona penyangga strategis mereka sendiri.",
+  "finland.3.t": "Finlandia Mencari Dukungan Swedia",
+  "finland.3.d": "Negara tetangga kita, Finlandia, menolak tunduk pada tekanan Uni Soviet, dan kedua negara kini berada dalam keadaan perang. Meski belum ada persekutuan resmi yang disepakati antarnegara kita, pemerintah Finlandia telah meminta agar Swedia berkontribusi dalam pertahanan bersama Åland, yang mayoritas penduduknya berbahasa Swedia dan bernilai strategis penting bagi kedua belah pihak.\\n\\nMeskipun pemerintah masih terpecah mengenai langkah apa yang harus diambil untuk membantu Finlandia, dukungan publik terhadap pertahanan mereka sangat besar. Sejauh mana kita bersedia melangkah demi melindungi sesama negara Nordik dari agresi timur?",
+  "finland.4.t": "Swedia Menolak Permintaan",
+  "finland.4.d": "Pemerintah Swedia telah memberikan tanggapan negatif terhadap permintaan bantuan kita dalam perang melawan Uni Soviet. Memilih untuk tetap netral guna menghindari dampak internasional maupun internal, sejauh ini mereka menentang untuk berkontribusi dalam perang dengan cara apa pun.",
+  "finland.5.t": "Swedia Mengirim Sukarelawan",
+  "finland.5.d": "Pemerintah Swedia tidak bersedia bergabung bersama kita dalam perang melawan Uni Soviet, tetapi dukungan publik di antara tetangga kita tetap tinggi, dan banyak sukarelawan dari negara-negara Nordik lainnya telah menawarkan diri untuk bergabung dengan barisan kita demi membantu upaya perang. Walaupun kurang dari yang kita harapkan, setidaknya ada kesadaran rakyat mengenai ancaman yang kita hadapi.",
+  "finland.6.t": "Swedia Bergabung dalam Perang Kita",
+  "finland.6.d": "Permintaan kita kepada pemerintah Swedia untuk pertahanan bersama Åland telah dipenuhi melampaui ekspektasi. Swedia telah bergabung bersama kita dalam perang melawan Uni Soviet, menolak untuk tetap netral di hadapan ancaman yang begitu nyata. Terlepas dari perselisihan internal, mereka kini akan bertempur bersama kita bahu-membahu demi mengamankan kedaulatan Finlandia yang berkelanjutan.",
+  "finland.7.t": "Negosiasi Perdamaian Dengan [SOV.GetNameDef]",
+  "finland.7.d": "Tokoh komunis [Root.GetAdjective] Hella Wuolijoki telah menghubungi pemerintah kita dan menawarkan bantuannya untuk menjalin kontak dengan rezim [SOV.GetAdjective]. Sebuah pertemuan telah diatur di lokasi rahasia di Swedia, tempat kita akan ditawari kesempatan untuk menyerahkan wilayah sebagai ganti atas kedaulatan [Root.GetAdjective] yang terus berlanjut.\\n\\nKekuatan militer Finlandia menyusut dengan cepat, dan upaya-upaya sebelumnya untuk membuka jalur komunikasi tidak membuahkan hasil. Ini mungkin satu-satunya harapan kita demi penyelesaian damai atas konflik ini.",
+  "finland.8.t": "[From.GetNameDefCap] Menawarkan Konsesi",
+  "finland.8.d": "Perang dengan [From.GetNameDef] telah memakan biaya yang sangat besar, tetapi karena kita berhasil memukul mundur tentara [From.GetAdjective], mereka mengajukan tawaran yang menarik. Kita diberi kendali atas wilayah-wilayah strategis yang penting, tetapi harus menarik pasukan kita dan menghentikan permusuhan lebih lanjut.\\nHal ini akan mengakhiri ofensif kita terhadap [From.GetNameDef] tanpa kendali penuh atas wilayah tersebut, namun sebagai gantinya akan memungkinkan kita untuk fokus memperluas pengaruh di bagian lain dunia.",
+  "finland.9.t": "[From.GetNameDefCap] Menolak",
+  "finland.9.d": "Negosiasi yang diprakarsai dengan [From.GetNameDef] telah buntu. Itu jelas merupakan siasat untuk mengulur waktu sementara tentara [From.GetAdjective] bersiap melancarkan serangan berikutnya ke wilayah [Root.GetAdjective].\\n\\n[Root.GetNameDef] akan berdiri tegak dan bertempur hingga titik darah penghabisan.",
+  "finland.10.t": "Perang Musim Dingin",
+  "finland.10.d": "Akhirnya, ambisi teritorial [SOV.GetNameDef] telah memuncak dengan invasi terhadap negara kita oleh musuh yang keji ini. Kita harus mengerahkan segala daya upaya untuk membentuk pertahanan kokoh melawan serangan tanpa ampun ini. Biarkan mereka membayar mahal untuk setiap jengkal kemajuan di tanah air kita!",
+  "romania.1.t": "[FROM.GetNameDefCap] Menuntut Bessarabia",
+  "romania.1.d": "Pasukan [FROM.GetAdjective] tengah berkonsentrasi di seberang perbatasan kita, dan diplomat mereka menuntut agar kita menyerahkan seluruh Bessarabia kepada mereka! Kita tidak bisa mengharapkan Jerman untuk campur tangan, karena pakta mereka dengan Rusia tampaknya memuat protokol rahasia yang menempatkan kita di dalam zona kepentingan [FROM.GetAdjective]. Haruskah kita melawan?",
+  "romania.2.t": "Arbitrase Wina Kedua",
+  "romania.2.d": "Jerman telah dilibatkan untuk menengahi sengketa wilayah kita dengan Hungaria, dan dalam Arbitrase Wina Kedua mereka memutuskan bahwa Transilvania Utara harus dikembalikan ke bawah kendali Hungaria. Haruskah kita menerima keputusan ini?",
+  "romania.3.d": "Jerman telah dilibatkan untuk menengahi sengketa wilayah kita dengan Hungaria, dan dalam Arbitrase Wina Kedua mereka secara keterlaluan memutuskan bahwa seluruh Transilvania harus dikembalikan ke bawah kekuasaan Hungaria! Haruskah kita menerima keputusan ini?",
+  "romania.4.t": "Jerman Menengahi Sengketa",
+  "romania.4.d": "Jerman telah dilibatkan untuk menengahi sengketa wilayah kita dengan Hungaria, dan mereka dengan bijak memutuskan bahwa Transilvania harus tetap berada di bawah kendali Rumania. Pihak Hungaria tidak senang, tetapi semoga hal ini dapat menyelesaikan permasalahan untuk selamanya.",
+  "romania.5.t": "Traktat Craiova",
+  "romania.5.d": "Diplomat Bulgaria telah maju, dengan dukungan Jerman, meminta pengembalian Dobrudja Selatan—wilayah yang kita aneksasi dari mereka pada tahun 1913 setelah Perang Balkan Kedua. Berbagai konsesi yang sebelumnya telah terpaksa kita berikan tampaknya memicu tuntutan ini.",
+  "romania.6.t": "Pilihan yang Berat",
+  "romania.6.d": "Kita telah kehilangan begitu banyak wilayah akibat negara-negara tetangga yang serakah. Kendati demikian, masih ada peluang untuk merebut kembali tanah yang hilang, bahkan dengan keuntungannya. Yang perlu kita lakukan hanyalah memilih pihak yang tepat. ",
+  "baltic.1.t": "Ultimatum [FROM.GetAdjective]",
+  "baltic.1.d": "[FROM.GetNameDefCap] menekan kita untuk menandatangani perjanjian 'saling membantu' dengan mereka, yang akan memberi mereka hak menempatkan pasukan di dalam wilayah kita! Ini tidak lain adalah kedok terselubung untuk menganeksasi negara kita, namun kita nyaris tidak bisa memberikan perlawanan terhadap pasukan yang telah mereka siagakan di perbatasan kita.",
+  "baltic.4.t": "Jerman Menuntut Memel",
+  "baltic.4.d": "Pasukan Jerman sedang berkonsentrasi di Ostpreussen, dan Kementerian Luar Negeri mereka telah menyampaikan ultimatum kepada kita! Kita harus segera menyerahkan wilayah Memel kepada mereka, atau menghadapi ancaman aksi militer. Haruskah kita menyetujui tuntutan mereka?",
+  "baltic.5.t": "Kaum Komunis Memegang Kendali.",
+  "baltic.5.d": "[Root.GetName] telah memilih solidaritas dan kekuasaan politik telah direbut dari kaum borjuis. Banyak pihak di dalam pemerintahan baru menyarankan agar kita menunaikan kewajiban komunis kita dan menyatu dengan Uni Soviet.",
+  "baltic.7.t": "[From.GetName] Meminta Partisipasi [Root.GetAdjective] di [From.GetFactionName]",
+  "baltic.7.d": "Dengan ditandatanganinya perjanjian persahabatan antarnegara kita, [From.GetName] meminta agar [Root.GetName] bergabung bersama mereka di [From.GetFactionName], guna bersatu melawan ancaman yang kian membesar di sekeliling negara kita. Baik komunis maupun fasis, [From.GetName] berjanji akan membela kepentingan [Root.GetAdjective].",
+  "baltic.8.t": "[SOV.GetNameDefCap] memperluas kendali kita atas wilayah Baltik",
+  "baltic.8.desc": "Ini adalah hari besar bagi [ROOT.GetNameDef]! Setelah kampanye gagah berani yang diperjuangkan oleh para kamerad kita, [SOV.GetNameDefCap] dengan tepat menyatakan bahwa wilayah Baltik yang baru saja dibebaskan, bersama para buruhnya yang pemberani, akan berada di bawah yurisdiksi kita.\\n\\nHal ini membawa kita selangkah lebih dekat menuju Negara Baltik bersatu yang cukup kuat untuk memukul mundur musuh-musuh kelas pekerja.",
+  "hungary.1.t": "Arbitrase Jerman",
+  "hungary.1.d": "Terlepas dari klaim sah kita, Jerman telah memutuskan bahwa Transilvania harus tetap berada di bawah kendali Rumania. Mereka menyatakan berhasrat memperbaiki segala ketidakadilan yang ditimbulkan di Versailles, tetapi terbukti hal ini hanya berlaku jika menyangkut perbatasan mereka sendiri.",
+  "hungary.2.t": "Arbitrase Wina Kedua",
+  "hungary.2.d": "Jerman telah mengakui keabsahan klaim kita, seperti yang sudah kita duga, dan Transilvania Utara telah dikembalikan ke Hungaria. Ini adalah momen bersejarah!",
+  "hungary.3.d": "Jerman tidak hanya mengakui keabsahan klaim kita, tetapi mereka juga telah memutuskan bahwa seluruh Transilvania harus dikembalikan ke bawah kendali Hungaria! Ini melebihi apa yang sempat kita harapkan.",
+  "hungary.4.d": "Jerman mengakui keabsahan klaim kita dan menganugerahkan Transilvania Utara kepada kita, tetapi Rumania dengan keras kepala menolak menerima keputusan tersebut!",
+  "hungary.5.d": "Jerman mengakui keabsahan klaim kita dan menganugerahkan seluruh Transilvania kepada kita, tetapi Rumania dengan keras kepala menolak menerima keputusan ini!",
+  "hungary.6.t": "Putusan Ljubljana Pertama",
+  "hungary.6.d": "Orang Jerman mungkin mengeluhkan Traktat Versailles, tetapi nasib mereka masih jauh lebih baik dibandingkan dengan ketidakadilan Traktat Trianon. Kendati mereka mengklaim perjanjian itu demi penentuan nasib sendiri suatu bangsa, traktat itu justru menjerumuskan begitu banyak putra sejati Hungaria ke bawah kekuasaan asing. Salah satu luka pada kebanggaan Hungaria adalah provinsi Vojvodina. Pengembalian wilayah-wilayah ini ke pangkuan Hungaria telah memulihkan ketidakadilan yang ditimpakan kepada kita."
+}
+
+with open('scripts/b6_chunk_0.json', 'r', encoding='utf-8') as f:
+    source_chunk = json.load(f)
+
+source_keys = set(x['key'] for x in source_chunk)
+trans_keys = set(chunk_0_translations.keys())
+
+diff_missing = source_keys - trans_keys
+diff_extra = trans_keys - source_keys
+print(f"Source count: {len(source_keys)}, Trans count: {len(trans_keys)}")
+print(f"Missing: {diff_missing}, Extra: {diff_extra}")
+
+with open('scripts/b6_trans_0.json', 'w', encoding='utf-8') as f:
+    json.dump(chunk_0_translations, f, ensure_ascii=False, indent=2)
+print("Saved b6_trans_0.json successfully.")

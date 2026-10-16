@@ -1,0 +1,3336 @@
+$OVERLORDADJ$ $ALB$
+$OVERLORDADJ$ $ARG$
+$OVERLORDADJ$ $AST$
+$OVERLORDADJ$ $AUS$
+$OVERLORDADJ$ $BEL$
+$OVERLORDADJ$ $BOL$
+$OVERLORDADJ$ $BRA$
+$OVERLORDADJ$ $BUL$
+$OVERLORDADJ$ $CZE$
+$OVERLORDADJ$ $DEN$
+$OVERLORDADJ$ $EST$
+$OVERLORDADJ$ $FIN$
+$OVERLORDADJ$ $FRA$
+$OVERLORDADJ$ $GRE$
+$OVERLORDADJ$ $HOL$
+$OVERLORDADJ$ $HUN$
+$OVERLORDADJ$ $IRE$
+$OVERLORDADJ$ $IRQ$
+$OVERLORDADJ$ $ITA$
+$OVERLORDADJ$ $JAP$
+$OVERLORDADJ$ $LAT$
+$OVERLORDADJ$ $LIT$
+$OVERLORDADJ$ $NONIDEOLOGY$
+$OVERLORDADJ$ $NONIDEOLOGYADJ$
+$OVERLORDADJ$ $NONIDEOLOGYDEF$
+$OVERLORDADJ$ $NOR$
+$OVERLORDADJ$ $POR$
+$OVERLORDADJ$ $ROM$
+$OVERLORDADJ$ $SDL$
+$OVERLORDADJ$ $SPR$
+$OVERLORDADJ$ $SWE$
+$OVERLORDADJ$ $TUR$
+$OVERLORDADJ$ $YUG$
+$OVERLORDADJ$ Alpine Territories
+$OVERLORDADJ$ Armenia
+$OVERLORDADJ$ Britain
+$OVERLORDADJ$ Central Arabia
+$OVERLORDADJ$ China
+$OVERLORDADJ$ China Territory
+$OVERLORDADJ$ Chinese colony
+$OVERLORDADJ$ Congo
+$OVERLORDADJ$ Cyprus
+$OVERLORDADJ$ East Africa
+$OVERLORDADJ$ East Indies
+$OVERLORDADJ$ German
+$OVERLORDADJ$ Germany
+$OVERLORDADJ$ Helvetia
+$OVERLORDADJ$ India
+$OVERLORDADJ$ Kurdistan
+$OVERLORDADJ$ Malaya
+$OVERLORDADJ$ Mandate of Kurdistan
+$OVERLORDADJ$ Mandate of Russia
+$OVERLORDADJ$ North Africa
+$OVERLORDADJ$ North America
+$OVERLORDADJ$ North American Territories
+$OVERLORDADJ$ Occitania
+$OVERLORDADJ$ Occupation Zone
+$OVERLORDADJ$ Occupation Zone of Germany
+$OVERLORDADJ$ Occupation Zone of Lombardy and Venice
+$OVERLORDADJ$ Occupation Zone of Naples and Sicily
+$OVERLORDADJ$ Occupation Zone of Rome
+$OVERLORDADJ$ Occupation Zone of Sardinia and Piedmont
+$OVERLORDADJ$ Occupation Zone of Tuscany
+$OVERLORDADJ$ Poland
+$OVERLORDADJ$ Protectorate of $SDL$
+$OVERLORDADJ$ Protectorate of America
+$OVERLORDADJ$ Protectorate of Britain
+$OVERLORDADJ$ Protectorate of Denmark
+$OVERLORDADJ$ Raj
+$OVERLORDADJ$ Russia
+$OVERLORDADJ$ State of Kurdistan
+48 Colonies
+ABC Republic
+ABC Republican
+Abkhaz
+Abkhaz Autonomous Soviet Socialist Republic
+Abkhaz Independent Commune
+Abkhaz Military Authority
+Abkhazia
+Aboriginal Republic of Taiwan
+Aceh
+Acehnese
+Adal
+Aegean
+Aegean Commune
+Afar
+Afar Autonomous Region
+Afar Republic
+Afghan
+Afghanistan
+Afghano-Pakistani
+Afghano-Pakistani Caliphate
+Afghano-Pakistani Confederacy
+Afghano-Pakistani Confederation
+Afghano-Pakistani Union
+Africa Nova
+Africa Orientale Italiana
+African Empire
+African North American Territories
+African Union
+Afrosocialist State of the Congo
+Ainu
+Ainu Agrarian Farmers Republic
+Ainu Republic
+Ajuraan
+Ajuraan Empire
+Akhand Bharat
+Aksumite
+Aksumite Empire
+Aksumite Kingdom
+Al-Andalus
+Al-Hindi
+Al-Muthanna Iraq
+Al-Yaman
+Alanian
+Alanian People's Republic
+Alash Orda
+Alban
+Albania
+Albanian
+Albanian Kingdom
+Albanian Republic
+Albion
+Algeria
+Algerian
+Algerian Caliphate
+Almighty Don Host
+Almighty Kuban Host
+Alpine
+Alpine Confederation
+Alpine Protectorate
+Alpine Supremacy
+Alpine Territories
+Alpine Union
+Altai
+Altai Republic
+Altai-Oirati
+Altaian
+Amanullah Caliphate
+America
+America do Sul
+American
+American Empire
+American Junta
+Amerindian
+Amerindian People's Republic
+Anarchist Commune of Portugal
+Anarchists'
+Anarcho-Communist Union of Africa
+Anarcho-Unionist
+Andalusia
+Andalusian
+Andalusian People's Republic
+Andean
+Angevin
+Angevin Kingdom of Aquitaine
+Anglian
+Angola
+Angolan
+Angolan Empire
+Antillean
+Antillean Confederation
+Antillean Empire
+Antilles
+Antillian
+Anuak-Nuer
+Anuak-Nuer Peoples' Popular State
+Aotearoan
+Arab
+Arab Emirate
+Arab Emirates
+Arab Socialist Republic of Oman
+Arabia
+Arabian
+Arabian Empire
+Arabian Federation
+Arabian Republic
+Arabic Empire
+Aragon
+Aragonese
+Aragonese Anarchist
+Aragonese People's Republic
+Aragonese Republic
+Araucanían
+Archduchy of Austria
+Archipelagic Empire of Macaronesia
+Argentina
+Argentina Legionaria
+Argentina Populares
+Argentine League
+Argentine Republic
+Argentinean
+Armenia
+Armenian
+Armenian Independent Territories
+Armenian Socialist Republic
+Asian
+Aslia
+Aslian
+Association of Autonomous States
+Association of South East Asian Nations
+Assyria
+Assyrian
+Assyrian Republic
+Assyrian Socialist Republic
+Atlas Honduras
+Aussa Governorate
+Australasia
+Australasian
+Australia
+Australian
+Australian People's Republic
+Austria
+Austria-Hungary
+Austrian
+Austrian Empire
+Austrian Soviet Republic
+Austro-Danubian
+Austro-Hungarian
+Austro-Hungarian Empire
+Austronesia
+Austronesian
+Austronesian Commonwealth
+Austronesian Empire
+Authority of Upper Volta
+Autonomous Region of Kosovo
+Autonomous Region of Southern France
+Autonomous Region of Transylvania
+Autonomous Region of Vojvodina
+Autonomous Yamalo-Nenetsian Protectorate
+Azad Hind
+Azerbaijan
+Azerbaijan Democratic Republic
+Azerbaijan Socialist Republic
+Azerbaijani
+Aztec Empire
+Ba'athist Arab Union
+Baden-Württemberg
+Baden-Württembergian
+Bahamas
+Bahamas Unitary State
+Bahamian
+Bahamian Commune
+Bahrain
+Bahraini
+Bahraini Soviet Republic
+Bakongo
+Bali
+Balinese
+Balinese Union
+Balkan
+Balkan Socialist Union
+Baloch
+Baloch Khanate
+Baloch People's Republic
+Balochistan
+Baltendeutsche Demokratische Republik
+Baltic
+Baltic Assembly
+Baltic Belarus
+Baltic Federation
+Baltic German
+Baltic German Federal Republic
+Baltic Sea Dominion
+Baltic Sea Republic
+Baltic Socialist Republic
+Baltic State of Belarus
+Baltic Unitary State
+Baltic-Belarus Republic
+Baltic-Belarus Socialist Republic
+Baltic-Belarussian
+Bangladesh
+Bangladeshi
+Banovina of Bosnia
+Banovina of Croatia
+Banovina of Dalmatia
+Banovina of Herzegovina
+Barbary
+Barbary Tunis
+Barotse
+Barotseland
+Bashkir
+Bashkir Autonomous Soviet Socialist Republic
+Bashkirian Commune
+Bashkortostan
+Baskonia
+Basmachi
+Basmachi State of Khiva
+Basque
+Basque Country
+Bassac Laotian
+Bassac People's Democratic Republic
+Batavian Republic
+Batswana
+Bavaria
+Bavarian
+Bavarian Free State
+Bavarian Soviet Republic
+Bayern-Hannover
+Bechuanaland Protectorate
+Begemder Democratic Republic of People's Unity
+Begemderi
+Beiyang
+Beiyang Clique
+Bekstvo of Matcha
+Belarus
+Belarusian
+Belarusian Socialist Republic
+Belarussian People's Republic
+Belgian
+Belgian Congo
+Belgian-Danubian
+Belgica
+Belgique
+Belgium
+Belize
+Belizean
+Benelux
+Benelux Federation
+Benelux Socialist State
+Bengal
+Bengal People's Republic
+Benin
+Benin Unitary Federation
+Beninese
+Benishangul-Gumuz
+Benishangul-Gumuz Autonomous Region
+Benishangul-Gumuz Nation
+Benishangul-Gumuz Republic
+Bering Strait Autonomous Territory
+Bermontian Commonwealth
+Bermontian Kingdom of Poland
+Bessarabia
+Bessarabian
+Bhutan
+Bhutanese
+Bhutanese Republic
+Biafra
+Biafran
+Biafran People's Republic
+Bissau-Guinean
+Bohemia-Slovakia
+Bohemian
+Bohemian Empire
+Bohemo-Slovakian
+Bolivar Empire
+Bolivarian Venezuela
+Bolivia
+Bolivia Izquerdista
+Bolivian
+Bolivian Republic
+Boriquenan
+Bosnia
+Bosnia-Herzegovina
+Bosnia-Herzegovinan Defensive Cooperative
+Bosnian
+Bosnian State
+Bosnian-Danubian
+Bosporian
+Bosporo-Pontic
+Botswana
+Bougainville
+Bougainvillean
+Bourbon France
+Brahui
+Brazil
+Brazilian
+Brazilian Socialist Republic
+Breton
+Breton Free Republic
+Britain
+British
+British Alpine Territories
+British Antillean Commune
+British Antillean Federation
+British Antillian
+British Bechuanaland
+British Burma
+British East Africa
+British Empire
+British Kenya
+British Malaya
+British North America
+British North American Territories
+British Raj
+British Rhodesia
+British SAC Territory
+British Soviet Socialist Republic
+British West Indian
+Brittany
+Brunei
+Brunei Darussalam
+Brunei Federation
+Brunei People's Republic
+Bruneian
+Bugandan
+Bukharan
+Bukharan Jadidist Republic
+Bukharan People's Republic
+Bukharan People's Soviet Republic
+Bukharan Sufist State
+Bulgaria
+Bulgarian
+Bulgarian Federation
+Bulgarian-Danubian
+Bundesstaat Anden
+Bundesstaat Arabien
+Bundesstaat Australasien
+Bundesstaat Balkan
+Bundesstaat Belgien-Nordfrankreich
+Bundesstaat Böhmen-Mähren
+Bundesstaat Flandern
+Bundesstaat Großbritannien
+Bundesstaat Hindustan
+Bundesstaat Iberien
+Bundesstaat Kaukasien
+Bundesstaat Klein-Venedig
+Bundesstaat Kolumbus
+Bundesstaat Krakau
+Bundesstaat Mittelafrika
+Bundesstaat Moskowien
+Bundesstaat Niederlande
+Bundesstaat Nordafrika
+Bundesstaat Nordamerika
+Bundesstaat Norwegen
+Bundesstaat Ostasien
+Bundesstaat Ostland
+Bundesstaat Turkestan
+Bundesstaat Ukraine
+Bundesstaat Ural
+Burgundian
+Burgundy
+Burkina Faso
+Burkinabé
+Burma
+Burmese
+Burundi
+Burundian
+Buryat
+Buryat-Mongol
+Buryat-Mongol Autonomous Soviet Socialist Republic
+Buryat-Mongol People's Union
+Byelorussian Independent SSR
+Byelorussian SSR
+Byzantine Commune
+Byzantine Empire
+Byzantium
+CC Clique
+Cabo Verde
+Cabo Verdean
+Cairi
+Caledonia
+Caledonian
+Caliphate of Cordoba
+Caliphate of Maghreb
+Caliphate of Mauritania
+Cambodia
+Cambodian
+Cambria
+Cambrian
+Cameroon
+Cameroonian
+Canada
+Canada Popular State
+Canadian
+Canadian Confederation
+Canadien-Métis First Nation State
+Cangaço Brazil
+Cantonese
+Cape Commune
+Cape Verdean
+Carlist Castille
+Carlist Spain
+Carpathian
+Carpathian Socialist Union
+Carpatho-Ukraine
+Carpatho-Ukrainian
+Castille
+Castillian
+Castillian Commune
+Castillian Republic
+Catalan
+Catalan State
+Catalonia
+Catalonian Communion
+Catalonian Free Republic
+Catholic Mexico
+Catholic Union of the Italian Peoples
+Caucasian
+Caucasian Emirate
+Caucasus Authority
+Cayenne
+Cayenne Unitary State
+Central African
+Central African Empire
+Central African Federation
+Central African Republic
+Central American Empire
+Central American Socialist Republic
+Central American Socialist State
+Central Arabia
+Central Europe Federation
+Central Indian
+Central Indian Commune
+Central Indian Empire
+Central Indian Princely States
+Central-Asian
+Centralist Australia
+Ceylonese
+Chad
+Chadian
+Chagatai Khanate
+Chahar Province
+Cham
+Cham People's Council Republic
+Champa
+Champa Republic
+Champasak
+Charrúa
+Charrúa Nation
+Charrúa Republic
+Chechen-Ingush
+Chechen-Ingush People's Republic
+Chechen-Ingush Republic
+Checheno-Ingush
+Checheno-Ingush Autonomous Soviet Socialist Republic
+Chechnya-Ingushetia
+Chichén Itzá Collective
+Chile
+Chilean
+Chilean Republic
+Chilean Socialist Republic
+China
+Chinese
+Chinese Constitutional Monarchy
+Chinese Constitutional Republic
+Chinese Dominion
+Chinese Empire
+Chinese People's Republic
+Chinese People's State
+Chinese Protectorate
+Chinese Provisional Authority
+Chinese Reichsprotectorate
+Chinese Republic
+Chinese Soviet Republic
+Chinese Sultanate
+Chosen
+Chosen SSR
+Chukchi
+Chukchi Nation
+Chukchi Protectorate
+Chukotka National Okrug
+Chukotka Republic
+Chukotkan
+Chukotkan People's Republic
+Chuvash
+Chuvash Autonomous Soviet Socialist Republic
+Chuvash Soviet
+Chuvashia
+Circassian
+Circassian Realm
+Cisalpine
+Cisalpine People's Federation
+Cisleithania
+Cisleithanian
+Cisplatina
+Cisplatine
+Co-operative Republic of Guyana
+Co-operative of Belgium
+Collective Defense Union of Charrúa and Guaraní Peoples
+Collective of Argos
+Colombia
+Colombian
+Colombian Socialist Republic
+Colony of Bechuanaland
+Colony of Kenya
+Colony of Rhodesia
+Columbian
+Commonwealth
+Commonwealth of Alba
+Commonwealth of Nations
+Commonwealth of Peoples
+Commonwealth of Socialist Republics
+Commonwealth of The Bahamas
+Commonwealth of the Philippines
+Commune in the North of Ireland
+Commune of Algeria
+Commune of Anglia
+Commune of Central Africa
+Commune of Jamaica
+Commune of Kashmir and Jammu
+Commune of the Sudan
+Commune of the Western Sahara
+Communion of Catalans
+Communist Malawi
+Communist State of Tunisia
+Communist States of America
+Communitas Proletaritasque Romana
+Communitas Proletretasque Bospora
+Community of the Philippines
+Condominium des Nouvelles-Hébrides
+Confederación Argentina
+Confederación Sudamericana
+Confederacy of American States
+Confederacy of American Workers
+Confederate
+Confederate League
+Confederated Canadian First Nations
+Confederated Finno-Russian Republics
+Confederated Republic of Altai
+Confederated States of America
+Confederated States of Tuscany
+Confederation of America
+Confederation of Finno-Russian Republics
+Congo
+Congo-Brazzaville
+Congo-Kisangani
+Congo-Léopoldville
+Congo-Stanleyville
+Congolese
+Congolese State
+Congressional Commonwealth
+Congressional Kingdom of Poland
+Constitutional Germany
+Constitutional Kingdom of Lithuania
+Constitutional State of Guinea-Bissau
+Constitutional States of America
+Constitutionalist
+Cordoban
+Corporatist Honduras
+Corsica
+Corsican
+Corsican Republic
+Costa Potente
+Costa Rica
+Costa Rican
+Costa del Pueblo
+Costas Hermanas
+Crimea
+Crimean
+Crimean Autonomous Soviet Socialist Republic
+Crimean Khanate
+Crimean People's Republic
+Crimean Regime
+Cristero Republic of the Rio Grande
+Croat-Slavonian
+Croatia
+Croatian
+Croatian-Danubian
+Crown of Aragon
+Crown of Castille
+Crusader
+Cuba
+Cuban
+Curative People's Republic
+Curaçaoan
+Cymun Patagonia
+Cypriot
+Cypriot Democratic People's Republic
+Cypriot Empire
+Cyprus
+Cyrenaica
+Cyric Union
+Czech People's Republic
+Czech Republic
+Czecho-Slovak Republic
+Czechoslovak
+Czechoslovak Republic
+Czechoslovak Socialist Republic
+Czechoslovak State
+Czechoslovak Union
+Czechoslovak-Danubian
+Czechoslovakia
+Czechoslovakian
+Côte d'Ivoire
+DNSR
+Dacian Protectorate
+Dagestan Autonomous Soviet Socialist Republic
+Dagestani
+Dagestani People's Republic
+Dahomey
+Dahomeyan
+Dalmatia
+Dalmatian
+Dalmatian Commune
+Dalmatian League
+Dalmatian Republic
+Danevælde
+Danevælden
+Danish
+Danish Civil Union
+Danish Empire
+Danish Realm
+Danske Enevælde
+Danske Storrige
+Danubian
+Danubian Confederation
+Danubian State France
+Danubian State of Austria
+Danubian State of Belgium
+Danubian State of Bosnia
+Danubian State of Bulgaria
+Danubian State of Croatia
+Danubian State of Czechoslovakia
+Danubian State of France
+Danubian State of Greece
+Danubian State of Hungary
+Danubian State of Lombardy-Venetia
+Danubian State of Luxemburg
+Danubian State of Macedonia
+Danubian State of Montenegro
+Danubian State of Romania
+Danubian State of Silesia
+Danubian State of Slovakia
+Danubian State of Slovenia
+Danubian State of Transylvania
+Danubian State of Turkey
+Danubian State of Yugoslavia
+Danubian State of the Netherlands
+Danzig
+Danzig Commune
+Dardania
+Dardanian
+Daryan
+Daryan Empire
+Dayak
+Dayak Republic of West Borneo
+Deccan
+Deccan Iron State
+Deccan People's States
+Deccan States
+Defenders of the Homeland
+Democratic People's Republic of Angola
+Democratic People's Republic of Burundi
+Democratic People's Republic of Chad
+Democratic People's Republic of Jimma
+Democratic People's Republic of Korea
+Democratic People's Republic of Namibia
+Democratic People's Republic of Senegal
+Democratic People's Republic of Sierra Leone
+Democratic People's Republic of Slovenia
+Democratic Republic of Afghanistan
+Democratic Republic of Cabo Verde
+Democratic Republic of Madras
+Democratic Republic of Oromia
+Democratic Republic of Prussia
+Democratic Republic of Saxony
+Democratic Republic of Timor-Leste
+Democratic Republic of Vietnam
+Democratic Republic of the Congo
+Democratic Republic of the West Congo
+Democratic Socialist Republic of Nusantara
+Democratic Socialist Republic of Sri Lanka
+Den Norsk Nasjonale Regjering
+Den Norske Sovjetrepublikken
+Denmark
+Det Stornordiska Riket
+Deutsch-Mittelafrika
+Deutsch-Nordafrika
+Deutsch-Ostafrika
+Deutsch-Uruguay
+Deutsch-Uruguayan
+Deutschsozialen Österreich
+Dharmatic Kingdom of Buryatia
+Dictatorial Guinea-Bissau
+Dictatorial Kuwait
+Dietse
+Dietsland
+Djibouti
+Djiboutian
+Djiboutian Socialist Republic
+Dolgano-Nenets
+Dolgano-Nenets Migratory State
+Dolgano-Nenetsian
+Dominican
+Dominican People's Republic
+Dominican Republic
+Dominion of Armenia
+Dominion of Australia
+Dominion of Botswana
+Dominion of Canada
+Dominion of Cyprus
+Dominion of India
+Dominion of Indonesia
+Dominion of Iraq
+Dominion of Kenya
+Dominion of Mexico
+Dominion of New Zealand
+Dominion of North America
+Dominion of Polynesia
+Dominion of Rhodesia
+Don Cossack
+Don Cossack Host
+Don Republic
+Don Soviet Republic
+Drava
+Drava Banovina
+Duchy of Corsica
+Duchy of Pomeralia-Gdansk
+Duchy of Saint Sava
+Duchy of Schleswig-Holstein
+Duchy of Silesia
+Duchy of Thuringia
+Duchy of Tuscany
+Dungan
+Dungan Soviet Socialist Republic
+Dutch
+Dutch Antillean
+Dutch East Indies
+Dutch Rijk
+Dutch-Danubian
+East Africa
+East African
+East African Commune
+East African Empire
+East African Federation
+East African Socialist Republic
+East African State
+East African Union
+East Asian
+East German
+East India Company
+East Inuit Realm
+East Nenets Protectorate
+East Nenetsian
+East Siberian
+East Siberian Army
+East Siberian Empire
+East Timor
+East-Polynesian Empire
+East-Roman Democratic Republic
+East-Roman Republic
+East-Siberian State
+Ecuador
+Ecuadorian
+Ecuadorian Authority
+Ecuadorian Government in Exile
+Edo Kingdom of Benin
+Egalitarian Mysore
+Egypt
+Egyptian
+El Reino de la Patria Nueva
+El Salvador
+Elective Imamate of Oman
+Emirate of Afghanistan
+Emirate of Bukhara
+Emirate of Harar
+Emirate of Maghreb
+Emirate of Pashtunistan
+Emirate of Transjordan
+Emirati
+Empire
+Empire of Adal
+Empire of Brazil
+Empire of Brazil and Portugal
+Empire of Burundi
+Empire of Cairi
+Empire of Champasak
+Empire of China
+Empire of Dai Nam
+Empire of Finno-Ugria
+Empire of Fire
+Empire of Great Japan
+Empire of Great Manchuria
+Empire of Great Moravia
+Empire of Guiana
+Empire of Harar
+Empire of Imerina
+Empire of Japan
+Empire of Jordan
+Empire of Malawi
+Empire of Manchukuo
+Empire of Nordland
+Empire of Solomon
+Empire of Vietnam
+Empire of Zion
+Empire of the Desert
+Empire of the Dutch Antilles
+Empire of the Great Khan
+Empire of the Rif
+Empire of the Sands
+Empire of the Seas
+Emu Empire
+England
+English
+Enlightened Chinese People's Republic
+Equatorial Commune of Guinea
+Equatorial Empire of Guinea
+Equatorial Guinea
+Equatorial Guinean
+Equatorial Socialist Republic
+Eritrea
+Eritrean
+Eritrean Democratic People's Republic
+Eritrean Kingdom
+Esto-Finnish
+Estonia
+Estonia-Belarus
+Estonia-Belarus Nationalist Assembly
+Estonia-Belarus Republic
+Estonia-Belarus SSR
+Estonia-Finland
+Estonia-Finland League
+Estonian
+Estonian Independent SSR
+Estonian People's Republic
+Estonian SSR
+Eternal Nordic Empire
+Ethiopia
+Ethiopian
+Ethiopian Empire
+Etrurian
+Etrurian Social Republic
+European
+European Austria
+European Belgium
+European Britain
+European Bulgaria
+European Croatia
+European Czechoslovakia
+European Denmark
+European Estonia
+European Federation
+European Finland
+European France
+European Germany
+European Greece
+European Hegemony
+European Hungary
+European Ireland
+European Italy
+European Latvia
+European Lithuania
+European Luxembourg
+European Netherlands
+European People's Union
+European Poland
+European Portugal
+European President
+European Romania
+European Scotland
+European Slovenia
+European Spain
+European Sweden
+European Wales
+Euzkadi
+Evenk
+Evenki Soviet Republic
+Evenkia
+Ezo
+Ezo Republic
+Ezo Shogunate
+Falangist Bolivia
+Falangist Cuba
+Falangist Poland
+Falangist Slovenia
+Far Eastern
+Far Eastern Commune
+Far Eastern Republic
+Far Eastern Russo-Japanese State
+Far Eastern Soviet Republic
+Federal Commune of the Urals
+Federal Democratic Republic of Ethiopia
+Federal Democratic Republic of Nepal
+Federal League
+Federal Republic of Barotseland
+Federal Republic of Central America
+Federal Republic of Central Europe
+Federal Republic of Franco-Spain
+Federal Republic of Germany
+Federal Republic of Kabardins and Karachay-Balkars
+Federal Republic of Nepal
+Federal Republic of Székelyföld
+Federal Republic of Venezuela
+Federal Republics of Central Asia
+Federal State of Austria
+Federal State of Evenkia
+Federated Inuit Republics
+Federated Maritime Commonwealth
+Federated States of Micronesia
+Federation of Aslia
+Federation of Canadian First Nations
+Federation of Central and Eastern European Republics
+Federation of Ethiopia
+Federation of Hispanic Republics
+Federation of Hispaniola
+Federation of Malayan Peoples
+Federation of Moravian States
+Federation of Papuan Peoples
+Federation of South Arabia
+Federation of Turan
+Federative Republic of the Antilles
+Fengtian Clique
+Fengtian Province
+Fengtianese
+Fifth Portuguese Empire
+Fiji
+Fijian
+Finland
+Finnic People's Republic
+Finnic Republic
+Finnish
+Finnish Democratic Republic
+Finnish Nordic Bulwark
+Finnish People's Republic
+Finnish SSR
+Finno-Russian
+Finno-Ugria
+Finno-Ugrian
+First Nations
+Flandern-Wallonien
+Flemish
+Folkrepubliken Sverige
+Formosa
+Formosan
+Fourth Burmese Empire
+Fourth Reich
+France
+Franco-British Union
+Franco-Spanish
+Franco-Spanish Empire
+Franco-Spanish People's Republic
+Fraternal Corsica
+Free American
+Free American Empire
+Free Canadian Republic
+Free City of Danzig
+Free Democratic People's Republic of Manchukuo
+Free Democratic Republic of Sindh
+Free France
+Free India
+Free Ireland
+Free Mandate of Palestine
+Free Mari National Republic
+Free People's Republic of Schleswig-Holstein
+Free Peoples Democratic Republic of Kalat
+Free Republic of Catalonia
+Free Republic of Pashtunistan
+Free Sikkim
+Free Sikkim State
+Free State of Aceh
+Free State of Baden-Württemberg
+Free State of Hanover
+Free State of Jerusalem
+Free State of Mecklenburg
+Free State of Prussia
+Free State of Saxony
+Free State of Slovakia
+Free State of Thuringia
+Free States of America
+Free Sudetenland
+French
+French Commune
+French Empire
+French Guianan
+French Polynesia
+French Polynesian
+French-Danubian
+Funji
+Funji-Gumuz
+Funjistan
+Futurist Union of Qemant and Qwaran People
+Gabon
+Gabonese
+Gabonese Commune
+Gabonese Republic
+Galapagan
+Galapagos Regime
+Galicia
+Galicia and Lodomeria
+Galician
+Galizan
+Galizan Socialist State
+Gallaecian
+Gallaecian State
+Gambela
+Gambela Autonomous Region
+Gambela Federation
+Gambelan
+Gambia
+Gambian
+Gansu Hui Republic
+Gansu Ma
+Gansu Ma Clique
+Gansu Ma Free State
+Gansu Province
+Gapi
+Generalgouvernement
+Georgia
+Georgian
+Georgian Socialist Republic
+German
+German Democratic Republic
+German Empire
+German Kaiserreich
+German Military Junta
+German Reich
+German Republic
+German Socialist Volksunion
+German Transitional Government
+German Volksreich
+German Volksunion
+Germanic
+Germany
+Ghana
+Ghana Empire
+Ghanaian
+Global Anarchist
+Global Defense Council
+Gojjam
+Gojjami
+Gorkha Empire
+Gorno-Altai Autonomous Soviet Socialist Republic
+Gorno-Altaian
+Government-General of Chosen
+Governorate of Armenia
+Governorate of Cyprus
+Governorate of Ethiopia
+Governorate of Kurdistan
+Governorate of Montenegro
+Governorate of Mostar
+Governorate of Prishtina
+Governorate of Sarajevo
+Gowa
+Gran Colombia
+Grand Admiralship of Jan Mayen
+Grand Bruneian Sultanate
+Grand Duchy of Arabia
+Grand Duchy of Australasia
+Grand Duchy of Belgium and Northern France
+Grand Duchy of Bohemia and Moravia
+Grand Duchy of Central Africa
+Grand Duchy of East Asia
+Grand Duchy of Ethiopia
+Grand Duchy of Flanders
+Grand Duchy of Great Britain
+Grand Duchy of Hesse
+Grand Duchy of Hindustan
+Grand Duchy of Iberia
+Grand Duchy of Klein-Venedig
+Grand Duchy of Krakow
+Grand Duchy of Lithuania
+Grand Duchy of Livonia
+Grand Duchy of Luxembourg
+Grand Duchy of Mecklenburg
+Grand Duchy of Muscovy
+Grand Duchy of North Africa
+Grand Duchy of North America
+Grand Duchy of Norway
+Grand Duchy of Ostland
+Grand Duchy of Savoy
+Grand Duchy of Turkestan
+Grand Duchy of Tuscany
+Grand Duchy of Ukraine
+Grand Duchy of Warsaw
+Grand Duchy of the Andes
+Grand Duchy of the Balkans
+Grand Duchy of the Caucasus
+Grand Duchy of the Grand Caribbean
+Grand Duchy of the Netherlands
+Grand Duchy of the Urals
+Grand Federation of Amerindian Peoples
+Grand Finnish Federation
+Grand Italian Union
+Grand Kingdom of El Dorado
+Grand Neo-Assyrian Empire
+Grand Ottoman Sovereignty
+Grand Peru-Bolivian Confederation
+Grand Republic of Greater Macedonia
+Grand State of North Borneo
+Great Assyria
+Great Britain
+Great Buryat-Mongol Yuan Successor State
+Great Canadian First Nations
+Great Federation of the Horn of Africa
+Great Galapagos State
+Great Guangdong Clique
+Great Guyana
+Great Horde
+Great Inca Empire
+Great Iranian Empire
+Great Isthmo-Amerindian Nation
+Great Khanate of Kalat
+Great Kingdom of Siak
+Great Ma
+Great Mempawah Kingdom
+Great Mongolian State
+Great Moravia
+Great Mosquitia
+Great Mozambique
+Great Ohana Commonwealth
+Great Persian Empire
+Great Pindorama
+Great Thai Empire
+Great Thuringii
+Great Yuan
+Great Zimbabwe
+Greater Ainu Realm
+Greater Albania
+Greater Arab Union
+Greater Armenia
+Greater Austrian Empire
+Greater Bashkiria
+Greater Bashkirian Realm
+Greater Botswana
+Greater Champa
+Greater Denmark
+Greater East Asian Federation
+Greater Ethiopian Union
+Greater Finland
+Greater Flemish State
+Greater German Proletarian State
+Greater German State
+Greater Germanic Reich
+Greater Gojjami Union
+Greater Hanover
+Greater Hungary
+Greater Igboland
+Greater Indonesian Confederacy
+Greater Iran
+Greater Iraq
+Greater Iraqi Dominion
+Greater Iraqi Republic
+Greater Italian State
+Greater Italy
+Greater Jimman Union
+Greater Kenyan Empire
+Greater Kingdom of Finland
+Greater Krkonose-Jesenica
+Greater Kurdistan
+Greater Lithuania
+Greater Lithuanian People's Republic
+Greater Macedonia
+Greater Mahabad Republic
+Greater Mongolian Empire
+Greater Mongolian Federation
+Greater Mongolian Khanate
+Greater Mongolian Soviet Republic
+Greater Nenets State
+Greater Oromo Territories
+Greater Pan-Asian Empire
+Greater Pan-Asian State
+Greater Paraguay
+Greater Pohnpei Union State
+Greater Portugal
+Greater Siberian Realm
+Greater Siberian State
+Greater South America
+Greater Székely Land
+Greater Sámi Realm
+Greater Ukrainian Reich
+Greater Uruguay
+Greece
+Greek
+Greek-Danubian
+Greenland
+Groß-Hessen
+Groß-Mecklenburg
+Großösterreich
+Großösterreichische
+Guadeloupe
+Guadeloupean
+Guadeloupean Commune
+Guangdong
+Guangdong Clique
+Guangdong Independent Republic
+Guangdong Province
+Guangxi
+Guangxi Clique
+Guangxi Independent Republic
+Guangxi Province
+Guaraní
+Guaraní Empire
+Guaraní Nation
+Guaraní People's United Communes
+Guaraní Republic
+Guatemala
+Guatemalan
+Guatemalan Corporate State
+Guiana
+Guianan
+Guianan Federal Republic
+Guianan Soviet Socialist Republic
+Guinea
+Guinea-Bissau
+Guinean
+Gujarat
+Gujarat Sultanate
+Gujarati
+Guyana
+Guyanese
+Habsburg Spain
+Habsburg Spanish
+Habsburg Spanish Kingdom
+Haiti
+Haiti Socialist Republic
+Haitian
+Hajar Omani
+Hannover
+Hanoverian
+Harar Autonomous Region
+Harari
+Harari People's Socialist Republic
+Harari Republic
+Hashemite
+Hashemite Arab Federation
+Hashemite Caliphate
+Hashemite Kingdom of Iraq
+Hausa-Fulani
+Hausa-Fulani Republic of Sokoto
+Hawai'i
+Hawai'ian
+Hawai'ian Empire
+Hawai'ian Republic
+Hebei-Chahar
+Hebei-Chahar Free State
+Hebei-Chahar Political Council
+Hebei-Chahar Region
+Hebei-Chahar Republic
+Hebei-Chahar Soviet Republic
+Hellas
+Hellenic
+Hellenic Republic
+Hellenic State
+Hellenistic
+Hellenistic Empire
+Helvetic
+Helvetic Junta
+Helvetic Republic
+Herzegovina
+Herzegovinan
+Hesse
+Hessian
+Hindustan
+Hindustani
+Hindustani Empire
+Hindustani Federation
+Hindustani Union
+Hispanic
+Hispanic Empire
+Hispanic Union
+Hispaniola
+Hispaniolan
+Hispaniolan People's Republic
+Holy Roman Empire
+Holy Roman Empire of the German Nation
+Honduran
+Honduran Commonwealth
+Honduras
+Horn of Africa
+Hospitaller
+Huastec-Mixtec-Aztec-Mexican United People's Republic
+Hui
+Hui People's Republic
+Hui Republic
+Hungarian
+Hungarian Federal Republic
+Hungarian People's Republic
+Hungarian-Danubian
+Hungaro-Romanian
+Hungary
+Hungary-Sweden
+Hyderabad
+Hyderabadi
+Iberia
+Iberian
+Iberian Anarchist
+Iberian Empire
+Iberian Socialist Union
+Iceland
+Icelandic
+Icelandic Defense Zone
+Idel Ural
+Idel Ural Federative Soviet Socialist Republic
+Idel Ural State
+Idel Uralic
+Idel-Ural Republic
+Idel-Ural State
+Igbo
+Imamate of Oman
+Imperial
+Imperial Castillian
+Imperial Chinese
+Imperial Cuban Territories
+Imperial Federation
+Imperial Helvetia
+Imperial Helvetic Confederation
+Imperial Japan
+Imperial Japanese
+Imperial Kemet
+Imperial Khmer
+Imperial Kwantung Territories
+Imperial Mexican
+Imperial Protectorate of Russia
+Imperial Realm of Manchukuo
+Imperial Spanish
+Imperial State of Hokkaido
+Imperial State of Iran
+Imperial State of Karachi
+Imperialist Australia
+Imperialist Australian
+Imperialist Canada
+Imperialist Canadian
+Imperialist New Zealand
+Imperialist Occitania
+Imperialist South Africa
+Imperialist South African
+Imperium Romanum
+Inca Empire
+Incan
+Independent Chukchi Territories
+Independent Korean Governorate
+Independent Liberia
+Independent Luxembourg Commune
+Independent Montenegro
+Independent People's Republic of the Galapagos
+Independent State of Croatia
+Independent State of Samoa
+Independent State of Timor
+Independent State of the Far East
+Independent Ufa Governorate
+India
+Indian
+Indian Partisans
+Indian People's Republic
+Indigenista Mexico
+Indo-Guyanese
+Indo-Guyanese Union
+Indochinese
+Indonesia
+Indonesian
+Inner Mongolian
+Integral Pindoraman
+Integralist Brazil
+Interior Omani
+Inuit
+Inuit Union
+Iran
+Iranian
+Iranian Communist Authority
+Iranian Empire
+Iraq
+Iraqi
+Iraqi People's State
+Iraqi Republic
+Ireland
+Irish
+Irish People's Union
+Iron Wolf Lithuania
+Islamic Republic of Afghanistan
+Islamic Republic of Al-Andalus
+Islamic Republic of Azerbaijan
+Islamic Republic of Bahrain
+Islamic Republic of Balochistan
+Islamic Republic of Iran
+Islamic Republic of The Gambia
+Islamic Socialist Republic of Sokoto
+Islamic State of Pashtunistan
+Island
+Island of Jan Mayen
+Islandsveldi
+Israel
+Israeli
+Israeli Totalitariat
+Isthmo-Amerindia
+Isthmo-Amerindian
+Isthmo-Amerindian Federation
+Isthmo-Amerindian Soviet Socialist Republic
+Isthmo-Amerindian State
+Italian
+Italian East Africa
+Italian East Africa Company
+Italian Empire
+Italian National Union
+Italian North Africa
+Italian Republic
+Italian State of East Africa
+Italian Union
+Italo-Ethiopian
+Italo-Ethiopian Empire
+Italo-Ethiopian Federation
+Italo-Ethiopian State of East Africa
+Italy
+Itza
+Itza Federation
+Itza Nation
+Itza State
+Ivorian
+Ivory Commune
+Jamaica
+Jamaican
+Jamaican Principality
+Jammu and Kashmir
+Jan Mayen
+Japan
+Japanese
+Japanese Empire
+Japanese Far East Protectorate
+Japanese People's Republic
+Japanese Shogunate
+Jerusalemite
+Jimma
+Jimman
+Jobukkokudo
+Jordan
+Jordanian
+Jund Palestine
+Kabardino-Balkar Soviet Republic
+Kabardino-Balkarian
+Kabardino-Balkarian Autonomous Soviet Socialist Republic
+Kabardino-Balkarian Mountainous Republic
+Kalaallit
+Kalat
+Kalmyk
+Kalmyk Autonomous Soviet Socialist Republic
+Kalmyk Khaganate
+Kalmyk Socialist Workers Union
+Kalmykia
+Karachi Commune
+Karakalpak Autonomous Soviet Socialist Republic
+Karakalpak National State
+Karakalpak Socialist Union-State
+Karakalpakstan
+Karakalpakstani
+Karelia
+Karelian
+Karelian Autonomous Soviet Socialist Republic
+Karelian People's Republic
+Karelo-Finnic
+Karelo-Finnic Unitary State
+Karelo-Finnish
+Karelo-Finnish Military Junta
+Karukera Empire
+Karukeran
+Kashgari
+Kashmir
+Kashmiri
+Kashubia
+Kashubian
+Kashubian Commune
+Kashubian Free State
+Katanga
+Katanga Free State
+Katangese
+Katangese People's Republic
+Kazakh
+Kazakh Khanate
+Kazakh Soviet Socialist Republic
+Kazakhstan
+Kazani
+Kenya
+Kenyan
+Kerala
+Keralan
+Khaganate
+Khaganate of Turan
+Khaganate of the Northern Dragon
+Khakas Autonomous Oblast
+Khakas Soviet Republic
+Khakass
+Khalistan
+Khalistani
+Khanate of Kalat
+Khanate of Sibir
+Khivan
+Khivan Jadidist Republic
+Khmer
+Khorasan
+Khorasan Empire
+Khorasani
+Khorezm
+Khorezm People's Republic
+Khorezm People's Soviet Republic
+Khotan Emirate
+Khotan Hui Republic
+Khotan Ma
+Khotan Ma Clique
+Khotan Ma Free State
+Khotan Province
+Khyber Pakhtunkhwa
+King George's Land
+Kingdom of Aceh Darussalam
+Kingdom of Afghanistan
+Kingdom of Alania
+Kingdom of Annam
+Kingdom of Aquitaine
+Kingdom of Araucanía and Patagonia
+Kingdom of Australia
+Kingdom of Baden-Württemberg
+Kingdom of Bahrain
+Kingdom of Bakuba
+Kingdom of Barotseland
+Kingdom of Bavaria
+Kingdom of Bhutan
+Kingdom of Bohemia-Moravia and Silesia
+Kingdom of Bohemia-Slovakia
+Kingdom of Brazil
+Kingdom of Buganda
+Kingdom of Burundi
+Kingdom of Cambodia
+Kingdom of Champa
+Kingdom of Champasak
+Kingdom of Chile
+Kingdom of Croatia
+Kingdom of Croatia-Slavonia
+Kingdom of Czechoslovakia
+Kingdom of Dalmatia
+Kingdom of Darya
+Kingdom of Denmark
+Kingdom of Egypt
+Kingdom of England
+Kingdom of Ethiopia
+Kingdom of Finland
+Kingdom of Franco-Spain
+Kingdom of Galicia and Lodomeria
+Kingdom of Gapi
+Kingdom of Georgia
+Kingdom of Germany
+Kingdom of God
+Kingdom of Gojjam
+Kingdom of Greater Greece
+Kingdom of Greater Kurdistan
+Kingdom of Greece
+Kingdom of Greenland
+Kingdom of Haiti
+Kingdom of Hawai'i
+Kingdom of Hungary
+Kingdom of Iraq
+Kingdom of Italy
+Kingdom of Jimma
+Kingdom of Jordan
+Kingdom of Kampuchea
+Kingdom of Kongo
+Kingdom of Kurdistan
+Kingdom of Kuwait
+Kingdom of Laos
+Kingdom of Libya
+Kingdom of Lithuania
+Kingdom of Livonia
+Kingdom of Loango
+Kingdom of Lombardy-Venetia
+Kingdom of Luang Prabang
+Kingdom of Manipur
+Kingdom of Mesopotamia
+Kingdom of Mittelafrika
+Kingdom of Morocco
+Kingdom of Mutapa
+Kingdom of Navarra
+Kingdom of Nepal
+Kingdom of Netherlands
+Kingdom of Norway
+Kingdom of Poland
+Kingdom of Poland-Romania
+Kingdom of Portugal
+Kingdom of Portugal and Brazil
+Kingdom of Prussia
+Kingdom of Rapa Nui
+Kingdom of Romania
+Kingdom of Rwanda
+Kingdom of Saudi Arabia
+Kingdom of Saxony
+Kingdom of Scandinavia
+Kingdom of Scotland
+Kingdom of Siam
+Kingdom of Sidamo
+Kingdom of Sierra Leone
+Kingdom of Sikkim
+Kingdom of Spain
+Kingdom of Sweden
+Kingdom of Syria
+Kingdom of Thailand
+Kingdom of Transcaucasia
+Kingdom of Westphalia
+Kingdom of Yugoslavia
+Kingdom of Zambia
+Kingdom of the Thar Dunes
+Kingdom of the Two Sicilies
+Kingdoms and Lands Represented in the Imperial Council
+Kingdomship of Bali
+Kirati Empire
+Kiratis
+Kirghiz
+Kirghiz Soviet Socialist Republic
+Kirghizia
+Kiwi
+Kiwi Empire
+Kolhapur and Deccan States
+Kolhapuri
+Kolonie Uruguay
+Komi
+Komi Autonomous Soviet Socialist Republic
+Komi Republic
+Komi Socialist State
+Komi State
+Kommissariat of China
+Kongolese
+Korea
+Korean
+Koreri State of Papua
+Kosovan
+Kosovo
+Kosovo Communist League
+Kosovo Republic
+Krkonose-Jesenica Commune
+Kuban
+Kuban Cossack
+Kuban National Republic
+Kuban People's Republic
+Kuban Soviet Republic
+Kuban-Black Sea Soviet Republic
+Kugu Jumo Servant
+Kumul
+Kumul Khanate
+Kumul Republic
+Kumullik
+Kurdish
+Kurdish State
+Kurdistan
+Kurdistani
+Kurdistani State
+Kuwait
+Kuwaiti
+Kyrgyz
+Kyrgyzstan
+Kyrgyzstani
+La Confederación Argentina
+La Confederación Sudamericana
+La Sudamérica Legionaria
+Lao People's Democratic Republic
+Laos
+Laotian
+Latin African
+Latin American
+Latvia
+Latvia-Belarus
+Latvia-Belarus Nationalist Assembly
+Latvia-Belarus Republic
+Latvia-Belarus SSR
+Latvian
+Latvian Independent SSR
+Latvian Military Directorate
+Latvian People's Republic
+Latvian SSR
+League of Kosovan Communists
+Lebanese
+Lebanese Republic
+Lebanese Socialist Republic
+Lebanon
+Lebanon Free State
+Leftist International Venezuela
+Legionary Dagestani State
+Legionary Romania
+Legionary Transylvania
+Legionary Union of Hungary and Romania
+Legionnaires Bulgaria
+Leo Belgicus
+Leopoldian Belgium
+Lesser Venetian
+Levantine Union
+Liangguang Clique
+Liangguang Empire
+Liangguang Federation
+Liangguang People's Republic
+Liangguang Province
+Liberated States of the British West Indies
+Liberia
+Liberian
+Liberian Commune
+Libya
+Libyan
+Libyan Electorate
+Libyan Socialist Republic
+Liechtenstein
+Liechtensteiner
+Lithuania
+Lithuania-Belarus
+Lithuania-Belarus Nationalist Assembly
+Lithuania-Belarus Republic
+Lithuania-Belarus SSR
+Lithuania-Ruthenia
+Lithuanian
+Lithuanian Independent SSR
+Lithuanian Junta
+Lithuanian People's Republic
+Lithuanian SSR
+Livonia
+Livonian
+Lombardo-Venetian
+Lombardo-Venetian-Danubian
+Lombardy-Venetia
+Lower Saxon
+Luxembourg
+Luxemburg-Danubian
+Ma
+Ma Empire
+Macedonia
+Macedonian
+Macedonian Empire
+Macedonian People's Republic
+Macedonian State
+Macedonian-Danubian
+Madagascar
+Madhya Pradesh
+Madhya Pradeshi
+Madras Princely States
+Madras States
+Madrasi
+Maghreb
+Maghreb Empire
+Maghrebi
+Maghrebi Socialist Republic
+Majapahit
+Makassarese
+Malagasy
+Malagasy People's Republic
+Malawi
+Malawian
+Malay
+Malay People's Republic
+Malayan Empire
+Malaysia
+Malaysian
+Maldive Commune
+Maldives
+Maldivian
+Mali
+Malian
+Malian Socialist Worker State
+Malta
+Malta Commune
+Maltese
+Manaist State of Samoa
+Manchu
+Manchu Republic
+Manchukuo
+Manchurian
+Manchurian Federated Provinces
+Manchurian People's Republic
+Mandatory Palestine
+Manipur
+Manipur People's Republic
+Manipuri
+Mapuche
+Mapuche Empire
+Mapuche Indigenous People's Union
+Mapuche Republic
+Mapuche State
+Mari
+Mari Autonomous Soviet Socialist Republic
+Mari El
+Mari Independent Farmers Commune
+Mariana
+Mariana Federation
+Mariana Islands
+Maritime Commonwealth
+Mauritania
+Mauritanian
+Maximalist Portugal
+Maya
+Maya People's Republic
+Maya Republic
+Maya State
+Maya-Yucatec State
+Mecklenburg
+Melanesian
+Melanesian Federation
+Melanesian State of Bougainville
+Melayu Raya
+Mengjiang
+Mengjiang United Autonomous Government
+Mengjiangi
+Mengkukuo
+Mesoamerican Empire of the Maya
+Mesopotamia
+Mesopotamian
+Mexican
+Mexican Junta
+Mexican Republic
+Mexican Socialist Republic
+Mexican Soviet Republic
+Mexico
+Mezzogiornian
+Micronesia
+Micronesian
+Middle African
+Middle Eastern Socialist Republic
+Miskito
+Mittelafrika
+Moldavia
+Moldavian
+Moldavian Socialist Republic
+Moldova
+Moldovan
+Moluccan
+Monastic Commune of Tibet
+Mongol
+Mongol Military Government
+Mongol United Autonomous Government
+Mongolia
+Mongolian
+Mongolian Autonomous State
+Mongolian Parliamentary Republic
+Mongolian People's Republic
+Montenegrin
+Montenegrin-Danubian
+Montenegro
+Moravian
+Moroccan
+Moroccan People's Republic
+Morocco
+Mosquitia
+Mosquito Kingdom
+Most Serene Republic of Cisalpina
+Mountain Autonomous Soviet Socialist Republic
+Mountainous People's Republic of the Northern Caucasus
+Mountainous Republic of Dagestan
+Mountainous Republic of the Northern Caucasus
+Mozambican
+Mozambique
+Mughal
+Mughal Emirate
+Mughal Empire
+Mughal West Britain Company
+Mughals
+Multinational State of Siberia
+Muscovite
+Mutapa
+Mutapa Socialist State
+Mutawakkilite Kingdom of Yemen
+Mysore
+Mysorean
+Mysuru
+Nahua
+Nahua Empire
+Nahua Nation
+Nahua People's Republic
+Namib Empire
+Namibia
+Namibian
+Nation Française
+Nation Hélvetique
+National Republic of Brittany
+National Socialist State of Bavaria
+National Union of Greece
+Nationalist Cameroon
+Nationalist Castille
+Nationalist Ceylon
+Nationalist South Africa
+Nationalist Spain
+Nationalist Tanzanian State
+Nationalist The Gambia
+Nationalist Togo
+Nationalist Uganda
+Native American
+Navarrese
+Neapolitanian-Sicilian
+Neapolitanian-Sicilian Republic
+Nenets
+Nenets Migratory State
+Nenets National Okrug
+Nenets People's Republic
+Nenetsia
+Neo Volga-Bulgaria
+Neo Volga-Bulgarian Empire
+Neo Yensei-Kyrgyz Khaganate
+Neo-Assyrian
+Neo-Assyrian Empire
+Neo-Chagatai
+Neo-Chagatai Khanate
+Neo-Charrúan Kingdom
+Neo-Inca State
+Neo-Kyrgyz Khanate
+Neo-Mesopotamian Empire
+Neo-Omani Empire
+Neo-Seljuk Empire
+Neo-Thule State
+Neo-Usfurid Emirate
+Nepal
+Nepali
+Netherlands
+Netherlands Antilles
+Netherlands-Indonesia Union
+New Afghan Empire
+New Chiefdom of Hispaniola
+New Constitutional Uruguay
+New Duchy of Saint Sava
+New Fengtian Clique
+New Fengtian Empire
+New Fengtian Federation
+New Fengtian People's Republic
+New Genghisid Empire of Altaians and Oirats
+New Granada
+New Hebridean
+New Hebrides Condominium
+New Kazani Khanate
+New Khivan Khanate
+New Mongol Empire
+New Mughal Empire
+New Permian State
+New Persian Empire
+New Spain
+New Spanish
+New Zealand
+New Zealander
+Ni-Vanuatu Empire
+Nicaragua
+Nicaraguan
+Nicaraguan Junta
+Nichiren Buddhist
+Niger
+Niger Ascendancy
+Nigeria
+Nigerian
+Nigerian Military State
+Nigerien
+Nigerien People's Republic
+Nihon-Yakut
+Ningxia Hui Republic
+Ningxia Ma
+Ningxia Ma Clique
+Ningxia Ma Free State
+Ningxia Province
+Nordafrika
+Nordgermanske Folkerepublik
+Nordic
+Nordic Council
+Nordic Defense Council
+Nordic Democratic Republic
+Nordic Empire
+Nordic League
+Nordic Peoples Free Democratic Empire
+Nordic Socialist States
+Nordland
+Norges Nasjonale Regjering
+Norgesveldet
+Norske Sovjetrepublikken
+North African
+North American
+North American Socialist Republic
+North Borneo Empire
+North Caucasia
+North Caucasian
+North Caucasian Emirate
+North Caucasian National Union
+North Irish
+North Kalimantan Commune
+North Ossetia-Alania
+North Ossetian
+North Ossetian Autonomous Soviet Socialist Republic
+North Ossetian Patriarchy
+North Sea Empire
+North Sea Federation
+North Sea Imperium
+North Sea Kingdom
+North Siberian
+North Siberian Empire
+North-Western Frontier Provinces
+Northeast Kalimantan Commune
+Northeast Ural Autonomous District
+Northeast and Shaanxi Army
+Northeastern Army
+Northern Ireland
+Northern Irish
+Northern Revolutionary Front
+Northernmost Autonomous Area
+Norway
+Norwegian
+Norwegian Atlantic Wall
+Norwegian People's Republic
+Norwegian War Cabinet
+Nova Zeelandia Republic
+Nubia
+Nueva Constitución
+Nueva Gran Colombia
+Nusantara
+Ob-Ugric
+Ob-Ugric State
+Occitan
+Occitan Republic
+Occitania
+Oceanian
+Okinawa
+Okinawan
+Oman
+Omani
+Omani Empire
+Oriental Republic of Uruguay
+Orléanist France
+Oromia
+Oromo
+Oromo Autonomous Region
+Oromo Republic
+Orthodox State of Abkhazia
+Orthodox Union of Descendants of Suars and Volga Bulgarians
+Orélia
+Orélian
+Ostafrika
+Ostland
+Ostlander
+Ostyak-Vogul
+Ostyak-Vogul National Okrug
+Ostyak-Vogul National Republic
+Ostyak-Vogul Soviet Republic
+Ottoman Empire
+Ottoman Federation
+Ottoman Socialist Republic
+Ottoman Sultanate
+Oyrati
+Oyrot Soviet Republic
+Pacific
+Pacific Federation
+Pacific Union of Soviet Socialist Republics
+Pacific Worker State
+Pailingmiao Autonomous Council
+Pakistan
+Pakistani
+Palau
+Palauan
+Palauan Soldiers' Council
+Palestine
+Palestinian
+Pan-European
+Pan-European National Movement
+Pan-Mongol
+Pan-Nenets Unitary State
+Pan-Nenetsian
+Pan-Sahelian Empire
+Pan-Tai Empire
+Pan-slavic Union
+Panama
+Panamanian
+Pannonian
+Papal
+Papal State
+Papal States
+Papua
+Papua New Guinea
+Papua New Guinean
+Papua Unitary State
+Papuan
+Paraguay
+Paraguayan
+Parthenopean
+Parthenopean Republic
+Partisan
+Pashtun
+Pashtun Caliphate
+Pashtun People's Republic
+Pashtunistan
+Pashtunistan Ascendancy
+Pashtunistan Empire
+Patria Nueva
+Patria Vieja
+Patriote Québec
+Patriotic Communal Panama
+People's Arab Union
+People's Commonwealth of the Rio Grande
+People's Commune of Western New Guinea
+People's Community of Kalaallit Nunaat
+People's Democratic Front
+People's Democratic Republic of Ethiopia
+People's Democratic Republic of Yemen
+People's Federative Republics of Hungary and Romania
+People's Federative Republics of Sweden and Hungary
+People's Independent Communes of Barotseland
+People's Independent Communes of the Rhine
+People's Mengjiang
+People's Provisional Government of Vanuatu
+People's Republic of Andalusia
+People's Republic of Aotearoa
+People's Republic of Aragon
+People's Republic of Baden-Württemberg
+People's Republic of Bulgaria
+People's Republic of Castille
+People's Republic of China
+People's Republic of Estonia-Finland
+People's Republic of Germany
+People's Republic of Gojjam
+People's Republic of Hellas
+People's Republic of Hesse
+People's Republic of Kampuchea
+People's Republic of Kenya
+People's Republic of Korea
+People's Republic of Kuwait
+People's Republic of Lower Saxony
+People's Republic of Ma
+People's Republic of Maluku
+People's Republic of Mesopotamia
+People's Republic of Mezzogiorno
+People's Republic of Mozambique
+People's Republic of Oman
+People's Republic of Pakistan
+People's Republic of Singapore
+People's Republic of Spain
+People's Republic of Sápmi
+People's Republic of Tuscany
+People's Republic of Zion
+People's Republic of the Congo
+People's Republic of the Rif
+People's Socialist Palestine
+People's State of Hesse
+People's State of Mecklenburg
+People's State of Thuringia
+People's Union of Aksum
+People's United Provinces
+People's United Provinces of Transpadania
+Permian
+Permic
+Persia
+Persian
+Persian Empire
+Peru
+Peru-Bolivian
+Peru-Bolivian Confederation
+Peru-Bolivian Federal People's Republic
+Peruvian
+Peruvian Independent State
+Philippine
+Philippine People's Republic
+Philippine Republic
+Philippine State
+Philippines
+Piedmontese
+Pindoraman
+Pindoraman United People's Communes
+Plurinational
+Plurinational Kingdom of Bolivia
+Plurinational People's Republic of Bolivia
+Plurinational Republic of Bolivia
+Plurinational State of Bolivia
+Pohnpei
+Poland
+Poland-Romania
+Polar
+Polar Empire of Jan Mayen
+Polar Japanese
+Polish
+Polish Empire
+Polish National Republic
+Polish Peasant Republic
+Polish Peasant Union
+Polish People's Republic
+Polish Republic
+Polish Sanation Government
+Polish Sanation Junta
+Polish Soviet Socialist Republic
+Polish-Czechoslovak
+Polish-Czechoslovak Confederation
+Polish-Czechoslovak Federation
+Polish-Czechoslovak Union
+Polish-Lithuanian
+Polish-Lithuanian Commonwealth
+Polish-Lithuanian Empire
+Polish-Lithuanian Federation
+Polish-Romanian Federation
+Polish-Romanian People's Republic
+Polynesia
+Polynesian
+Polynesian Empire
+Pontianak
+Pontianak Kadriyah Sultanate
+Popular Revolutionary State of Latin Africa
+Popular Revolutionary State of the Congo
+Popular Union of Belize
+Porto Rican
+Porto Rico
+Porto-Brazil
+Porto-Brazilian
+Porto-Brazilian People's Union
+Portugal
+Portuguese
+Portuguese Anarchist
+Portuguese Republic
+Presidential Dictatorship of Côte d'Ivoire
+Primorsky
+Primorsky Autonomous District
+Primorsky Krai
+Primorsky-Japanese
+Princely Breakaway State
+Principality of Albania
+Principality of Cape Verde
+Principality of Transylvania
+Principality of Wales
+Protectorate Russia
+Protectorate of Albania
+Protectorate of Armenia
+Protectorate of Bosnia
+Protectorate of Cyprus
+Protectorate of Macedonia
+Protectorate of Russia
+Protectorate of Serbia
+Protektorat Böhmen und Mähren
+Protektorat Böhmen-Mähren
+Protettorato Svizzero
+Province of Canada
+Province of Central and East China
+Province of Illyria
+Province of Ljubljana
+Provisional Democratic Greece
+Provisional Government of the Republic of China
+Provisional Kingdom of Poland-Romania
+Provisional Republic of Paraguay
+Provisional Russian Government
+Provisionary State of Anatolia
+Prussia
+Prussian
+Prussian Reich
+Puerto Rican
+Puerto Rico
+Pulau Dewata Bali
+Pure Land
+Qatar
+Qatari
+Qatari Commune
+Qemant
+Qemant Autonomous Region
+Qemant State
+Qing China
+Qinghai Ma
+Qinghai Ma Clique
+Qinghai Ma Free State
+Qinghai Province
+Queen Wallis's Land
+Québec
+Québec People's Republic
+Québécois
+Qwara Republic
+Qwaran
+Radikalna Yugoslavia
+Raj of Sarawak
+Rajasthan
+Rajasthani
+Rajput
+Rajputana
+Rapa Nui
+Rapa Nui Republic
+Rattanakosin Empire
+Rattanakosin Federation
+Rattanakosin Kingdom
+Rattanakosin Socialist State
+Realm of the Great God of Light
+Red Colombia
+Red Desert Free State
+Red Finland
+Red Jordan
+Red Republic of South India
+Reformed Government of the Republic of China
+Regional Defense Council of Aragon
+Regional Defense Council of Aragón
+Regional Defense Council of Castille
+Regional Defense Council of Iberia
+Regno Bosporano
+Regno del Sud
+Regnum Bospori
+Regnum Romanum
+Reichsgau Danzig
+Reichsgau Sudetenland
+Reichskommissariat Anden
+Reichskommissariat Arabien
+Reichskommissariat Australasien
+Reichskommissariat Balkan
+Reichskommissariat Belgien
+Reichskommissariat Belgien-Nordfrankreich
+Reichskommissariat Estland
+Reichskommissariat Großbritannien
+Reichskommissariat Hindustan
+Reichskommissariat Iberien
+Reichskommissariat Kaukasien
+Reichskommissariat Klein-Venedig
+Reichskommissariat Kolumbus
+Reichskommissariat Lettland
+Reichskommissariat Litauen
+Reichskommissariat Mittelafrika
+Reichskommissariat Moskowien
+Reichskommissariat Muscovien
+Reichskommissariat Niederlande
+Reichskommissariat Nordafrika
+Reichskommissariat Nordamerika
+Reichskommissariat Norwegen
+Reichskommissariat Ostasien
+Reichskommissariat Ostland
+Reichskommissariat Russia
+Reichskommissariat Turkestan
+Reichskommissariat Ukraine
+Reichskommissariat Ural
+Reichskommissariat Weißruthenien
+Reichskommissariat Wolga Deutschland
+Reichskommissariat für die Besetzten Norwegischen Gebiete
+Reichsland Belgien
+Reichsland Estland
+Reichsland Lettland
+Reichsland Litauen
+Reichsland Mittelafrika
+Reichsland Niederlande
+Reichsland Nordafrika
+Reichsland Norwegen
+Reichsland Ostafrika
+Reichsland Ukraine
+Reichsprotectorate Sweden
+Reichsprotectorate of Sweden
+Reichsprotektorat Belgien
+Reichsprotektorat Böhmen-Mähren
+Reichsprotektorat Estland
+Reichsprotektorat Lettland
+Reichsprotektorat Litauen
+Reichsprotektorat Mittelafrika
+Reichsprotektorat Niederlande
+Reichsprotektorat Nordafrika
+Reichsprotektorat Nordland
+Reichsprotektorat Norwegen
+Reichsprotektorat Ostafrika
+Reichsprotektorat Ukraine
+Reichsprotektorat Uruguay
+Reichsprotektorat Weißruthenien
+Reino de Filipinas
+Reino de la Costa
+Reino de la Patria Nueva
+Reorganized Government of China
+Reorganized Liberian Free State
+Reorganized National Government of the Republic of China
+Reorganized Nationalist China
+Representative Dominican Republic
+Repubblica Sociale Italiana
+Repubblica Svizzera
+Republic of Afghanistan
+Republic of Algeria
+Republic of Angola
+Republic of Armenia
+Republic of Austria
+Republic of Belarus
+Republic of Belize
+Republic of Biafra
+Republic of Bohemia-Slovakia
+Republic of Botswana
+Republic of Bougainville
+Republic of Bulgaria
+Republic of Buryatia
+Republic of Cabo Verde
+Republic of Cambodia
+Republic of Cameroon
+Republic of Cayenne
+Republic of Chad
+Republic of Champasak
+Republic of China
+Republic of Chuvashia
+Republic of Congo-Léopoldville
+Republic of Crimea
+Republic of Croatia
+Republic of Cuba
+Republic of Cyprus
+Republic of Dalmatia
+Republic of Djibouti
+Republic of El Salvador
+Republic of Equatorial Guinea
+Republic of Estonia
+Republic of Estonia-Finland
+Republic of Finland
+Republic of Galicia
+Republic of Galiza
+Republic of Georgia
+Republic of Germany
+Republic of Ghana
+Republic of Guadeloupe
+Republic of Guatemala
+Republic of Guinea
+Republic of Guinea-Bissau
+Republic of Gujarat
+Republic of Herzegovina
+Republic of Hungary
+Republic of Indonesia
+Republic of Iran
+Republic of Italy
+Republic of Jammu and Kashmir
+Republic of Jan Mayen
+Republic of Jimma
+Republic of Kalat
+Republic of Karakalpakstan
+Republic of Karelia
+Republic of Katanga
+Republic of Kenya
+Republic of Khakassia
+Republic of Khalistan
+Republic of Khorasan
+Republic of Kosovo
+Republic of Laos
+Republic of Latvia
+Republic of Lithuania
+Republic of Macedonia
+Republic of Madagascar
+Republic of Mahabad
+Republic of Malawi
+Republic of Malaysia
+Republic of Mali
+Republic of Mauritania
+Republic of Mengjiang
+Republic of Montenegro
+Republic of Mozambique
+Republic of Nicaragua
+Republic of Nigeria
+Republic of Nordland
+Republic of Oman
+Republic of Pakistan
+Republic of Palau
+Republic of Paraguay
+Republic of Pashtunistan
+Republic of Peru
+Republic of Portugal and Brazil
+Republic of Qatar
+Republic of Rwanda
+Republic of Sabah
+Republic of Siak
+Republic of Siberia
+Republic of Slovenia
+Republic of Suriname
+Republic of Syria
+Republic of Sápmi
+Republic of Taiwan
+Republic of Tajikistan
+Republic of Tanzania
+Republic of Tatarstan
+Republic of Thailand
+Republic of Tibet
+Republic of Trinidad and Tobago
+Republic of Tunisia
+Republic of Turkey
+Republic of Turkic Peoples
+Republic of Turkmenistan
+Republic of Udmurtia
+Republic of Ukraine
+Republic of Uzbekistan
+Republic of Vanuatu
+Republic of Vietnam
+Republic of Vojvodina
+Republic of Volga Germany
+Republic of West Papua
+Republic of Yucatán
+Republic of Zimbabwe
+Republic of Zion
+Republic of the Arabian Assembly
+Republic of the British Antilles
+Republic of the Congo
+Republic of the Fertile Crescent
+Republic of the Niger
+Republic of the North Solomons
+Republic of the Rif
+Republic of the Rio Grande
+Republic of the Sudan
+Republican Castille
+Republican Government of China
+Republican Italy
+Republican Spain
+República Popular Argentina
+Res Publica Bospora
+Res Publica Romana
+Restored Norman Empire
+Resurgent Empire of Barotseland
+Resurgent Empire of Ryukyu
+Resurgent Maldives
+Resurgent Mali Empire
+Resurrectionist Ireland
+Revanchist United States of Native America
+Revolutionary Corsica
+Revolutionary Cuba
+Revolutionary Democratic Republic of Timor-Leste
+Revolutionary Democratic Union of Afar
+Revolutionary Mauritania
+Revolutionary Peru
+Revolutionary Socialist Republic of Bougainville
+Revolutionary State of Aceh
+Rexist Belgium
+Rheinland-Pfalz
+Rhenish
+Rhenish Reich
+Rhenish Republic
+Rhineland
+Rhodesia
+Rhodesian
+Rifian
+Riograndese
+River Plate Federation
+Roman
+Roman People's Republic
+Roman Republic
+Romania
+Romanian
+Romanian People's Republic
+Romanian-Danubian
+Russia
+Russian
+Russian Dominion
+Russian Empire
+Russian Federation
+Russian Imperial Protectorate
+Russian Protectorate
+Russian Socialist Republic
+Russian Soviet Socialist Republic
+Russo-Japanese
+Rwanda
+Rwanda Commune
+Rwanda Empire
+Rwandan
+Ryukyu Kingdom
+Ryukyuan
+République Hélvetique
+République de Côte d'Ivoire
+SASR
+SFR Yugoslavia
+SR Croatia
+SSSR
+Saba Empire
+Sabah
+Sabahan
+Sahelian
+Sahrawi Arab Democratic Republic
+Sahrawi Republic
+Sahrawian
+Sailor's Commune of Rapa Nui
+Sakha Republic
+Sakhan
+Salvadoran
+Samoa
+Samoan
+Samoan Peoples Republic
+Sanationist Poland
+Sanationist Republic of Poland
+Sandinista Nicaragua
+Santo Domingo
+Sarawak
+Sarawak Republic
+Sardinia-Piedmont
+Saudeleur
+Saudeleur Dynastic Empire
+Saudi Arabia
+Saudi Arabian
+Savoyard
+Saxon
+Saxon Empire
+Saxony
+Scandinavia
+Scandinavian Empire
+Scandinavian Socialist State
+Schleswig
+Schleswig-Holstein
+Schleswig-Holsteinish
+Schleswig-Holsteinish Reich
+Schleswig-Holstinian Reich
+Schweizerische Eidgenossenschaft
+Schweizerische Reichsprotektorat
+Scotland
+Scottish
+Second Afghan Empire
+Second Argentine Republic
+Second Brazilian Republic
+Second Dalmatian League
+Second North Caucasian Emirate
+Second Philippine People's Republic
+Second Philippine Republic
+Second Saudeleur Dynastic Empire
+Senegal
+Senegal Dictatorial State
+Senegalese
+Serbia
+Serbian
+Serbian Empire
+Shaanxi Province
+Shahist Iran
+Shandong
+Shandong Clique
+Shandong Free State
+Shandong Province
+Shandong Republic
+Shandong Soviet Republic
+Shanxi
+Shanxi Clique
+Shanxi Province
+Shanxi Republic
+Shanxi Soviet Republic
+Shanxi Yan State
+Sheikhdom of Kuwait
+Siak
+Siak Malay
+Siam
+Siamese
+Siamese Empire
+Siberia
+Siberian
+Siberian Federative Soviet Socialist Republic
+Siberian Socialist Federative Soviet Republic
+Siberian Union of Independent Republics
+Sibero-Japanese
+Sibiri
+Sichuan
+Sichuan Clique
+Sichuan Free State
+Sichuan Province
+Sichuan Republic
+Sichuan Soviet Republic
+Sichuanese
+Sicilian
+Sidama
+Sidama Realm
+Sidamo Autonomous Region
+Sidamo Republic
+Sierra Leone
+Sierra Leone Junta
+Sierra Leonean
+Sikh
+Sikh Empire
+Sikkim
+Sikkimese
+Silesia
+Silesian
+Silesian People's Republic
+Silesian State
+Silesian-Danubian
+Sindh
+Sindhi
+Singapore
+Singaporean
+Singaporean State
+Sinkiang
+Sinkiang Autonomous SSR
+Sinkiang Clique
+Sinkiang Independent Republic
+Sinkiang Ma
+Sinkiang Ma Clique
+Sinkiang Province
+Sinkiangi
+Slavic Empire
+Slavic Republic
+Slavic Union
+Slovak Republic
+Slovak Socialist Republic
+Slovak-Danubian
+Slovakia
+Slovakian
+Slovene-Danubian
+Slovenia
+Slovenian
+Social-Democratic People's Republic of the Congo
+Socialist Arab Republic
+Socialist Arab Republics
+Socialist Euzkal Herria
+Socialist Federation of Cameroon
+Socialist Galiza
+Socialist Khalistan
+Socialist League
+Socialist Nigerian Federation
+Socialist People's Republic of Flanders
+Socialist Province of Vojvodina
+Socialist Republic of Albania
+Socialist Republic of Austria
+Socialist Republic of Bosnia
+Socialist Republic of Bulgaria
+Socialist Republic of Byelorussia
+Socialist Republic of Canton
+Socialist Republic of Dahomey
+Socialist Republic of Estonia
+Socialist Republic of Finland
+Socialist Republic of Finnland
+Socialist Republic of French Guiana
+Socialist Republic of Germany
+Socialist Republic of Great Britain
+Socialist Republic of Greater Iraq
+Socialist Republic of Guinea-Conakry
+Socialist Republic of Herzegovina
+Socialist Republic of Italy
+Socialist Republic of Khalistan
+Socialist Republic of Khorasan
+Socialist Republic of Kurdistan
+Socialist Republic of Latvia
+Socialist Republic of Lithuania
+Socialist Republic of Livonia
+Socialist Republic of Montenegro
+Socialist Republic of Poland
+Socialist Republic of Romania
+Socialist Republic of Serbia
+Socialist Republic of Uruguay
+Socialist Republic of the Union of Burma
+Socialist Republic of the Zhu Jiang
+Socialist Republics of Central Asia
+Socialist Republics of South America
+Socialist State of Brittany
+Socialist State of Ghana
+Socialist State of Syria
+Socialist Union of Funj and Gumuz Peoples
+Socialist Union of Oceanic Peoples
+Sokoto
+Sokoto Caliphate
+Solomon
+Solomon Communes
+Solomon Empire
+Solomon Islands
+Solomon's Communes
+Solomon's Empire
+Solomonic
+Solomonic People's Republic
+Solomonic Republic
+Somali Democratic Republic
+Somali Peninsular
+Somali Sultanate
+Somalia
+Somalian
+South Africa
+South African
+South American
+South American Empire
+South American Free State
+South American Socialist Republics
+South American Soviet Republics
+South East Asian
+South Indian
+South Nahua Republic
+South Permic State
+South Polish
+South Seas Empire
+South Uralic Empire
+South West African
+South Yemen
+South-West Mayan Empire
+Southern Deterrent Sector
+Southern French
+Southern Nations
+Southern Nations, Nationalities, and Peoples' Socialist Union
+Sovereign Gabonese State
+Sovereign Military Order of Malta
+Sovereign State of Guinea
+Soviet
+Soviet Republic of Siak Sri Indrapura
+Soviet Republic of West Kalimantan
+Soviet Republic of Yunnan
+Soviet Republic of the Nile
+Soviet Socialist Republic
+Soviet Socialist Republic of Sinkiang
+Soviet Socialist Republic of the Mosquito Coast
+Soviet Union
+Soviet of Workers, Soldiers, and the Landless in Taiwan
+Spain
+Spanish
+Spanish Commune
+Spanish Directory
+Spanish Empire
+Spiritual State of Udmurt Vos
+Sri Lanka
+Sri Lankan
+State of Aragon
+State of Belize
+State of Bengal
+State of Burma
+State of Ceylon
+State of Formosa
+State of Galicia
+State of Gallaecia
+State of Greater Karnataka
+State of Hispaniola
+State of Japan
+State of Jolof
+State of Katanga
+State of Sabah
+State of Sinkiang
+State of South West Africa
+State of Zambia
+Store Danske Republik
+Stornordiska Riket
+Strait-Japanese
+Suar Descendants
+Sublime Aceh Sultanate
+Sublime Federation of Assyrian Peoples
+Sublime Republic of Vemerana
+Sublime Sultanate of Sokoto
+Sudamericano
+Sudamérica Legionaria
+Sudan
+Sudanese
+Sudeten
+Sudetenland
+Sudetenland Commune
+Sudetenland Free Workers
+Sudetenland German Free Corps
+Sul Americano
+Sulawesian
+Sulawesian Republic
+Sultanate of Al-Hind
+Sultanate of Aussa
+Sultanate of Bangladesh
+Sultanate of Gowa
+Sultanate of Jimma
+Sultanate of Kashmir
+Sultanate of Muscat and Oman
+Sultanate of Oman
+Sultanate of Siak Sri Indrapura
+Sultanate of Singapore
+Sultanate of Sulawesi
+Sultanate of Ternate
+Sultanate of the Maldives
+Supreme Ottoman State
+Surinam
+Surinam Unitary State
+Suriname
+Surinamese
+Surinen
+Surinen Democratic Republic
+Svea Rike
+Svenska Demokratiska Republiken
+Swabia
+Swabian
+Sweden
+Swedish
+Swedish Exiles
+Swedish Great State
+Swedish-Hungarian
+Swiss
+Swiss Confederation
+Swiss Reichsprotektorat
+Swiss Union
+Switzerland
+Synarchist Republic of Yucatán
+Synarchist Republic of the Rio Grande
+Syria
+Syrian
+Syrian National State
+Syrmian
+Syrmian Empire
+Székely
+Székely Land
+Sámi
+Sápmi
+Süddeutsche
+Süddeutschland
+Tahiti
+Tahitian
+Tahitian Assembly
+Tahitian Commune
+Tahitian National Assembly
+Tai
+Taino
+Taino Republic
+Taiwanese
+Taiwanese Aboriginal
+Tajik
+Tajik Soviet Republic
+Tajikistan
+Tamil
+Tamil Nadu
+Tamil-Sinhalese
+Tamil-Sinhalese Socialist Federation
+Tannu Tuva
+Tannu Uriankhai
+Tanzania
+Tanzanian
+Tanzanian Socialist Union
+Tatar
+Tatar Autonomous Soviet Socialist Republic
+Tatar Military Union
+Tatar Worker's Republic
+Tatarstan
+Taurian
+Taymyr
+Taymyr Dolgano-Nenets National Okrug
+Taymyr People's Republic
+Taymyria
+Teilbezirk Taurien
+Telangana
+Telanganan
+Tenth Crusade
+Teocracia de El Salvador
+Ternate
+Terra Mariana
+Thai
+Thai People's Republic
+Thailand
+Third Bulgarian Empire
+Third Empire of Haiti
+Third Guangxi Clique
+Third Mexican Empire
+Third Persian Empire
+Third Republic of Brazil
+Third Republic of Uruguay
+Third Rome
+Thunder Cross Latvia
+Thunder Dragon Empire
+Thuringia
+Thuringian
+Thuringii
+Tibet
+Tibetan
+Tibetan Empire
+Tigray
+Tigray Autonomous Region
+Tigrinyan
+Tigrinyan People's Revolutionary Popular State
+Tigrinyan Republic
+Timorese
+Timorese National Union
+Timurid
+Timurid Empire
+Timurid Republic
+Timurid Socialist Republic
+Timurid Union
+Togo
+Togolese
+Togolese Commune
+Togolese Republic
+Trans-Mongolian
+Trans-Mongolian Protectorate
+Transamur Protectorate
+Transamurian
+Transcaucasia
+Transcaucasian
+Transcaucasian Federative Socialist Republic
+Transcaucasian Republic
+Transcaucasian Socialist Federative Soviet Republic
+Transcaucasian Ultranationalist State
+Transjordanian
+Transleithania
+Transleithanian
+Transleithanian Kingdom
+Transpadanian
+Transylvania
+Transylvanian
+Transylvanian-Danubian
+Trinidad and Tobago
+Trinidadian and Tobagonian
+Trucial
+Trucial States
+True Union of Britain
+Tsardom of Bulgaria
+Tungan
+Tunganistan
+Tunisia
+Tunisian
+Turan
+Turanian
+Turco-Mongol Federative People's Republic
+Turkestan
+Turkestan Autonomous Soviet Socialist Republic
+Turkey
+Turkic
+Turkic Empire
+Turkic Federal Republic
+Turkic Khanate
+Turkish
+Turkish Empire
+Turkish Socialist Republic
+Turkish-Danubian
+Turkmen
+Turkmenistan
+Turko-Persian Empire
+Turko-Persian Socialist Republics
+Tuscan
+Tuscany
+Tuva Independent Republic
+Tuvan
+Tuvan Nationalist Republic
+Tuvan People's Republic
+Two Sicilies
+Udmurt
+Udmurt Autonomous Soviet Socialist Republic
+Udmurt Commune
+Udmurtia
+Ufan
+Uganda
+Ugandan
+Ugandan People's Republic
+Ukraine
+Ukrainian
+Ukrainian Hetmanate
+Ukrainian Independent SSR
+Ukrainian Nationalist State
+Ukrainian People's Republic
+Ukrainian SSR
+Ukrainian Socialist Republic
+Ulan Ude Autonomous Army
+Ulan Uden
+Ulster
+Ulster Nation
+Unaligned States of America
+Unified Hui Realm
+Union Guatemala
+Union of Alpine Cantons
+Union of Antillean Soviet Socialist Republics
+Union of Assyrian Soviet Socialist Republics
+Union of Bornean and Sulawesian People's Republics
+Union of Britain
+Union of Canadian First Nations
+Union of Central and Eastern European Republics
+Union of Danubian Socialists
+Union of European Soviet Socialist Republics
+Union of European States
+Union of German Council Republics
+Union of Greek Soviet Republics
+Union of Hispanic Peoples
+Union of Hungary and Romania
+Union of Indonesian Provinces
+Union of Latin American Socialist Republics
+Union of Malayan Peoples
+Union of Pannonian Socialist Republics
+Union of People's of Tawantinsuyu
+Union of Red Dragons
+Union of South East Asian Nations
+Union of Soviet Republics
+Union of Soviet Republics of Europe and Asia
+Union of Soviet Socialist Republics of Eastern Africa
+Union of Soviet Socialist Republics of Latin Africa
+Union of Swiss Socialist Republics
+Union of Székely, Saxon and Romanian Soviets
+Union of Turkic Socialist Republics
+Union of the Batswana People
+Union of the Italian Peoples
+Unitary Canada
+Unitary Eritrea
+Unitary Island State
+Unitary Islander
+Unitary South Africa
+Unitary State of Horn of Africa
+Unitary State of Qatar
+United Ainu Chiefdom
+United Arab Emirates
+United Arab Federation
+United Arab Republic
+United Arab Socialist Republics
+United Arab States
+United Autonomous Government of Mengkukuo
+United Balkan Federation
+United Baltic Duchy
+United Baltic Sea People's Republic
+United Cantons
+United Chinese People's Republics
+United Collectives of the Southern Andes
+United Communes of Mariana
+United Communes of Northern Japan
+United Communes of Panama
+United Communes of Southern Japan
+United Indigenous States of Pindoraman
+United Inuit States
+United Italian Empire
+United Italian Federation
+United Kingdom
+United Kingdom of America
+United Kingdom of Polynesia
+United Kingdom of Portugal and Brazil
+United Kingdom of the Netherlands
+United Kingdoms of Brazil and Portugal
+United Kingdoms of Hungary and Romania
+United Kingdoms of Nordland
+United Kingdoms of Sweden and Hungary
+United Mexican States
+United Native-American States
+United North Sea People's Republic
+United Papal States
+United Papuan Communes
+United Pashtun Republics
+United Peru-Bolivian Confederation
+United Provinces
+United Republics of Iberia
+United Republics of Livonia
+United Republics of Lombardy and Venetia
+United Republics of Native American Descent
+United Republics of Portugal and Brazil
+United Republics of the Maghreb
+United Slavic Soviet Republic
+United Socialist States
+United States
+United States of Brazil
+United States of Central America
+United States of Indonesia
+United States of Latin Africa
+United States of Maluku
+United States of Native America
+United States of Savoy and Sardinia
+United States of South America
+United Székely Duchies
+United Turko-Persian Republic
+United Worker State of The Gambia
+Upper Volta
+Upper Volta Socialist Republic
+Upper Voltan
+Upper-Nilotic
+Upper-Nilotic National Union
+Ural-Japanese
+Uralic
+Ursine
+Ursine Socialist Sub-zero Republic
+Uruguay
+Uruguayan
+Uzbek
+Uzbek Khanate
+Uzbek Soviet Socialist Republic
+Uzbekistan
+Vanguard Chile
+Vanuatu
+Vanuatuan
+Vapsid Estonia
+Vardar
+Vardar Banovina
+Vatican
+Vemeranan
+Venezuela
+Venezuelan
+Viceroyalty of Boriquén
+Viceroyalty of Iran
+Viceroyalty of Persia
+Vichy France
+Vietnam
+Vietnamese
+Vijayanagara
+Vijayanagara Empire
+Vlaamse
+Vlaanderen
+Vladivostok Independent Republic
+Vladivostok Interventionalist State
+Vladivostok Syndicalist Collective
+Vladivostokan
+Vojvodina
+Vojvodinian
+Volga German
+Volga German Autonomous Soviet Socialist Republic
+Volga German Reich
+Volga German State
+Volga German Workers Union
+Volga-Bulgar
+Volksdeutsche
+Volksdeutsche Luxembourg
+Volkskommissariat Anden
+Volkskommissariat Arabien
+Volkskommissariat Australasien
+Volkskommissariat Balkan
+Volkskommissariat Belgien-Nordfrankreich
+Volkskommissariat Böhmen-Mähren
+Volkskommissariat Großbritannien
+Volkskommissariat Hindustan
+Volkskommissariat Iberien
+Volkskommissariat Kaukasien
+Volkskommissariat Klein-Venedig
+Volkskommissariat Kolumbus
+Volkskommissariat Krakau
+Volkskommissariat Mittelafrika
+Volkskommissariat Moskowien
+Volkskommissariat Niederlande
+Volkskommissariat Nordafrika
+Volkskommissariat Nordamerika
+Volkskommissariat Norwegen
+Volkskommissariat Ostasien
+Volkskommissariat Ostland
+Volkskommissariat Turkestan
+Volkskommissariat Ukraine
+Volkskommissariat Ural
+Wales
+Weißruthenien
+Welsh
+Welsh Argentine
+Welsh People's Republic
+West Bornean
+West German
+West Indian
+West Indian Empire
+West Papua
+West Papuan
+Western Indian
+Western Indian Proletariat Commune
+Western Indian States
+Western Sahara
+Western Saharan
+Westphalian
+White Finland
+White Russian
+White Ruthenia
+White Ruthenian
+White Siberia
+White Siberian
+Wilwatikta
+Wolgadaitsche
+Wolof
+Worker's Commune of Occitania
+Worker's Republic of Iceland
+Workers Republic of Pashtunistan
+Xaymacan
+Xaymacan Empire
+Xi'an
+Xi'an Free State
+Xi'an Republic
+Xi'an Soviet Republic
+Xi'anese
+Xibei Region
+Xibei San Ma
+Xoybun Kurdistan
+Y Wladfa
+Y Wladychfa Gymreig
+Yakut
+Yakut Autonomous Soviet Socialist Republic
+Yakut Autonomous Territories
+Yakut People's Soviet
+Yakut Protectorate
+Yamalian
+Yamalian Republic
+Yamalo-Nenets National Okrug
+Yamalo-Nenets Soviet
+Yamalo-Nenetsian
+Yamalo-Nenetsian Migratory State
+Yemen
+Yemen Arab Republic
+Yemeni
+Yettishar
+Yettishar Khaganate
+Ymerodraeth Patagonia
+Yuan Chinese
+Yuan-Mongol
+Yucateco
+Yucatán
+Yugoslav-Danubian
+Yugoslavia
+Yugoslavian
+Yugoslavian Confederation
+Yunnan
+Yunnan Clique
+Yunnan Free Empire
+Yunnan Independent Republic
+Yunnan Province
+Yunnanese
+Zaire
+Zairian
+Zambia
+Zambian
+Zambian People's Republic
+Zapatista Republic of Yucatán
+Zeta
+Zeta Banovina
+Zimbabwe
+Zimbabwean
+Zimbabwean Democratic Republic
+Zionist
+[BEL.GetAdective] Congo
+el Reino de Filipinas
+island of workers strife
+le Condominium des Nouvelles-Hébrides
+true Sweden

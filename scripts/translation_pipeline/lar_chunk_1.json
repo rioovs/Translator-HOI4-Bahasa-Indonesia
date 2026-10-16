@@ -1,0 +1,492 @@
+[
+  {
+    "line_num": 72,
+    "key": "steal_blueprints_bribe",
+    "ver": "",
+    "val": "Offer Bribe",
+    "comm": ""
+  },
+  {
+    "line_num": 73,
+    "key": "steal_blueprints_bribe_desc",
+    "ver": "",
+    "val": "Our Agent will offer a substantial sum to an engineer involved in the project.",
+    "comm": ""
+  },
+  {
+    "line_num": 74,
+    "key": "steal_blueprints_seduction",
+    "ver": "",
+    "val": "Apply Charms",
+    "comm": ""
+  },
+  {
+    "line_num": 75,
+    "key": "steal_blueprints_seduction_desc",
+    "ver": "",
+    "val": "Our Agent will get close to a person involved with the project and apply their charms to gain additional insights. While we don't expect anyone to hand over a full set of blueprints for some quality company time, pillow talk is often unguarded.",
+    "comm": ""
+  },
+  {
+    "line_num": 76,
+    "key": "steal_blueprints_infiltrate_naval_design_office",
+    "ver": "",
+    "val": "Infiltrate Naval Design Office",
+    "comm": ""
+  },
+  {
+    "line_num": 77,
+    "key": "steal_blueprints_infiltrate_naval_design_office_desc",
+    "ver": "",
+    "val": "Our Agent will enter a smaller supplier in naval construction as a minor employee and use this position to make copies of available plans.",
+    "comm": ""
+  },
+  {
+    "line_num": 78,
+    "key": "steal_blueprints_steal_prototype",
+    "ver": "",
+    "val": "Steal Prototype",
+    "comm": ""
+  },
+  {
+    "line_num": 79,
+    "key": "steal_blueprints_steal_prototype_desc",
+    "ver": "",
+    "val": "After undergoing basic flight training, and accompanied by a test pilot of our air force, our agent will gain access to a prototype and fly it to our lines. A fighter escort will be arranged to ensure the prototype reaches us intact.",
+    "comm": ""
+  },
+  {
+    "line_num": 80,
+    "key": "steal_blueprints_middle_manager",
+    "ver": "",
+    "val": "Infiltrate Middle Management",
+    "comm": ""
+  },
+  {
+    "line_num": 81,
+    "key": "steal_blueprints_middle_manager_desc",
+    "ver": "",
+    "val": "Our Agent will utilize provided references and a doctored CV to gain employment in the middle management in a major company. From this position, they should be able to provide information on that company as well as the industry as a whole.",
+    "comm": ""
+  },
+  {
+    "line_num": 82,
+    "key": "lar_communist_uprising_organise_cells",
+    "ver": "",
+    "val": "Organise Revolutionary Cells",
+    "comm": ""
+  },
+  {
+    "line_num": 83,
+    "key": "lar_communist_uprising_organise_cells_desc",
+    "ver": "",
+    "val": "Our agents will work with a few select workers to create Revolutionary Action Committees to carry the seeds of the revolution into every factory.",
+    "comm": ""
+  },
+  {
+    "line_num": 84,
+    "key": "lar_communist_uprising_infiltrate_civil_service",
+    "ver": "",
+    "val": "Infiltrate the Civil Service",
+    "comm": ""
+  },
+  {
+    "line_num": 85,
+    "key": "lar_communist_uprising_infiltrate_civil_service_desc",
+    "ver": "",
+    "val": "Our agent will ensure that several trustworthy people enter the civil service, to form the core for a civilian administration after the revolution succeeds.",
+    "comm": ""
+  },
+  {
+    "line_num": 86,
+    "key": "lar_communist_uprising_train_workers_militia",
+    "ver": "",
+    "val": "Train Workers Militia",
+    "comm": ""
+  },
+  {
+    "line_num": 87,
+    "key": "lar_communist_uprising_train_workers_militia_desc",
+    "ver": "",
+    "val": "Our agent will organize basic training for a number of hand-picked comrades, who will then form the cadre of militia units.",
+    "comm": ""
+  },
+  {
+    "line_num": 88,
+    "key": "lar_communist_uprising_organize_strikes",
+    "ver": "",
+    "val": "Organize Strikes",
+    "comm": ""
+  },
+  {
+    "line_num": 89,
+    "key": "lar_communist_uprising_organize_strikes_desc",
+    "ver": "",
+    "val": "Our agent will reach out to trade unions and other politically reliable people working in key industries and help them organize a strike, to be executed when the war starts.",
+    "comm": ""
+  },
+  {
+    "line_num": 90,
+    "key": "lar_fra_coup_pre_position_units",
+    "ver": "",
+    "val": "Pre-Position Units",
+    "comm": ""
+  },
+  {
+    "line_num": 91,
+    "key": "lar_fra_coup_pre_position_units_desc",
+    "ver": "",
+    "val": "Our agent will take charge of a number of sympathetic army units in the area and assign them objectives to be seized when the operation commences.",
+    "comm": ""
+  },
+  {
+    "line_num": 92,
+    "key": "lar_fra_launch_coup",
+    "ver": "",
+    "val": "Launch Coup",
+    "comm": ""
+  },
+  {
+    "line_num": 93,
+    "key": "lar_fra_launch_coup_desc",
+    "ver": "",
+    "val": "Operations will commence upon reception of a coded radio signal.",
+    "comm": ""
+  },
+  {
+    "line_num": 94,
+    "key": "FRA_instigate_workers_revolution_britain",
+    "ver": "",
+    "val": "Instigate Workers Revolution in Britain",
+    "comm": ""
+  },
+  {
+    "line_num": 95,
+    "key": "FRA_instigate_workers_revolution_italy",
+    "ver": "",
+    "val": "Instigate Workers Revolution in Italy",
+    "comm": ""
+  },
+  {
+    "line_num": 96,
+    "key": "FRA_instigate_workers_revolution_spain",
+    "ver": "",
+    "val": "Instigate Workers Revolution in Spain",
+    "comm": ""
+  },
+  {
+    "line_num": 97,
+    "key": "FRA_instigate_workers_revolution_germany",
+    "ver": "",
+    "val": "Instigate Workers Revolution in Germany",
+    "comm": ""
+  },
+  {
+    "line_num": 98,
+    "key": "FRA_coup_in_north_africa",
+    "ver": "",
+    "val": "Prepare Coup in North Africa",
+    "comm": ""
+  },
+  {
+    "line_num": 99,
+    "key": "FRA_coup_in_north_africa_flag",
+    "ver": "",
+    "val": "Prepare Coup in North Africa",
+    "comm": ""
+  },
+  {
+    "line_num": 100,
+    "key": "FRA_coup_in_north_africa_desc",
+    "ver": "",
+    "val": "Many Frenchmen in North Africa are still eager to get back in the fight against the invaders. We just need to reach out to them.",
+    "comm": ""
+  },
+  {
+    "line_num": 101,
+    "key": "FRA_coup_in_syria",
+    "ver": "",
+    "val": "Prepare Coup in Syria",
+    "comm": ""
+  },
+  {
+    "line_num": 102,
+    "key": "FRA_coup_in_syria_flag",
+    "ver": "",
+    "val": "Prepare Coup in Syria",
+    "comm": ""
+  },
+  {
+    "line_num": 103,
+    "key": "FRA_coup_in_syria_desc",
+    "ver": "",
+    "val": "Many Frenchmen in Syria are still eager to get back in the fight against the invaders. We just need to reach out to them.",
+    "comm": ""
+  },
+  {
+    "line_num": 104,
+    "key": "FRA_coup_in_indochina",
+    "ver": "",
+    "val": "Prepare Coup in Indochina",
+    "comm": ""
+  },
+  {
+    "line_num": 105,
+    "key": "FRA_coup_in_indochina_flag",
+    "ver": "",
+    "val": "Prepare Coup in Indochina",
+    "comm": ""
+  },
+  {
+    "line_num": 106,
+    "key": "FRA_coup_in_indochina_desc",
+    "ver": "",
+    "val": "Many Frenchmen in Indochina are still eager to get back in the fight against the invaders. We just need to reach out to them.",
+    "comm": ""
+  },
+  {
+    "line_num": 107,
+    "key": "FRA_coup_in_central_africa",
+    "ver": "",
+    "val": "Prepare Coup in Central Africa",
+    "comm": ""
+  },
+  {
+    "line_num": 108,
+    "key": "FRA_coup_in_central_africa_flag",
+    "ver": "",
+    "val": "Prepare Coup in Central Africa",
+    "comm": ""
+  },
+  {
+    "line_num": 109,
+    "key": "FRA_coup_in_central_africa_desc",
+    "ver": "",
+    "val": "Many Frenchmen in Central Africa are still eager to get back in the fight against the invaders. We just need to reach out to them.",
+    "comm": ""
+  },
+  {
+    "line_num": 110,
+    "key": "FRA_coup_in_west_africa",
+    "ver": "",
+    "val": "Prepare Coup in West Africa",
+    "comm": ""
+  },
+  {
+    "line_num": 111,
+    "key": "FRA_coup_in_west_africa_flag",
+    "ver": "",
+    "val": "Prepare Coup in West Africa",
+    "comm": ""
+  },
+  {
+    "line_num": 112,
+    "key": "FRA_coup_in_west_africa_desc",
+    "ver": "",
+    "val": "Many Frenchmen in West Africa are still eager to get back in the fight against the invaders. We just need to reach out to them.",
+    "comm": ""
+  },
+  {
+    "line_num": 113,
+    "key": "FRA_coup_in_madagascar",
+    "ver": "",
+    "val": "Prepare Coup in Madagascar",
+    "comm": ""
+  },
+  {
+    "line_num": 114,
+    "key": "FRA_coup_in_madagascar_flag",
+    "ver": "",
+    "val": "Prepare Coup in Madagascar",
+    "comm": ""
+  },
+  {
+    "line_num": 115,
+    "key": "FRA_coup_in_madagascar_desc",
+    "ver": "",
+    "val": "Many Frenchmen in Madagascar are still eager to get back in the fight against the invaders. We just need to reach out to them.",
+    "comm": ""
+  },
+  {
+    "line_num": 116,
+    "key": "targeted_sabotage_plant_explosives",
+    "ver": "",
+    "val": "Plant Explosives",
+    "comm": ""
+  },
+  {
+    "line_num": 117,
+    "key": "targeted_sabotage_plant_explosives_desc",
+    "ver": "",
+    "val": "Working with local resistance members, our operatives will infiltrate the plant in the dead of night, place explosives near load-bearing structures, and thus collapse the entire factory hall on top of the production equipment.",
+    "comm": ""
+  },
+  {
+    "line_num": 118,
+    "key": "targeted_sabotage_organize_more_meetings",
+    "ver": "",
+    "val": "Organize More Meetings",
+    "comm": ""
+  },
+  {
+    "line_num": 119,
+    "key": "targeted_sabotage_organize_more_meetings_desc",
+    "ver": "",
+    "val": "Interviews with workers have shown that holding extensive meetings to discuss minor issues has the effect of dramatically slowing down production, at minimal cost for our operatives.",
+    "comm": ""
+  },
+  {
+    "line_num": 120,
+    "key": "targeted_sabotage_destroy_bridge",
+    "ver": "",
+    "val": "Destroy Bridge",
+    "comm": ""
+  },
+  {
+    "line_num": 121,
+    "key": "targeted_sabotage_destroy_bridge_desc",
+    "ver": "",
+    "val": "Local resistance has identified a bridge forming a lynchpin of enemy supply efforts in the region. Our operatives will bring down the span with a few pounds of high explosives.",
+    "comm": ""
+  },
+  {
+    "line_num": 122,
+    "key": "targeted_sabotage_collapse_tunnel",
+    "ver": "",
+    "val": "Collapse Tunnel",
+    "comm": ""
+  },
+  {
+    "line_num": 123,
+    "key": "targeted_sabotage_collapse_tunnel_desc",
+    "ver": "",
+    "val": "The main railway line in the state runs through a narrow tunnel. Our operatives have identified the structural weakpoints in the construction and will utilize explosives to collapse the tunnel.",
+    "comm": ""
+  },
+  {
+    "line_num": 124,
+    "key": "targeted_sabotage_remove_roadsigns",
+    "ver": "",
+    "val": "Remove Roadsigns",
+    "comm": ""
+  },
+  {
+    "line_num": 125,
+    "key": "targeted_sabotage_remove_roadsigns_desc",
+    "ver": "",
+    "val": "Our operatives will knock down street signs and turn others around in an effort to make navigation by occupation troops more difficult.",
+    "comm": ""
+  },
+  {
+    "line_num": 126,
+    "key": "targeted_sabotage_immobilize_rolling_stock",
+    "ver": "",
+    "val": "Immobilize Rolling Stock",
+    "comm": ""
+  },
+  {
+    "line_num": 127,
+    "key": "targeted_sabotage_immobilize_rolling_stock_desc",
+    "ver": "",
+    "val": "A handful of sand in the lubrication points of a railway carriage will eventually make it grind to a halt, thus blocking a rail line until it can be repaired. Even a small number of disabled cars could collapse the entire system.",
+    "comm": ""
+  },
+  {
+    "line_num": 128,
+    "key": "targeted_sabotage_burn_storage",
+    "ver": "",
+    "val": "Burn Storage",
+    "comm": ""
+  },
+  {
+    "line_num": 129,
+    "key": "targeted_sabotage_burn_storage_desc",
+    "ver": "",
+    "val": "Local resistance have identified storage units that contain highly flammable compounds. Under the cover of night, our operatives will set fire to the storage and then withdraw in the ensuing confusion.",
+    "comm": ""
+  },
+  {
+    "line_num": 130,
+    "key": "targeted_sabotage_destroy_mining_equipment",
+    "ver": "",
+    "val": "Destroy Mining Equipment",
+    "comm": ""
+  },
+  {
+    "line_num": 131,
+    "key": "targeted_sabotage_destroy_mining_equipment_desc",
+    "ver": "",
+    "val": "Local resistance groups have pointed out that a lot of the heavy equipment used in mining is extremely vulnerable. Our agents will utilize explosives to disable a number of critical pieces to grind the entire mining operation to a halt.",
+    "comm": ""
+  },
+  {
+    "line_num": 132,
+    "key": "operation_targeted_sabotage_industry",
+    "ver": "",
+    "val": "Sabotage Industry",
+    "comm": ""
+  },
+  {
+    "line_num": 133,
+    "key": "operation_targeted_sabotage_industry_desc",
+    "ver": "",
+    "val": "§LResistance in enemy territory has requested support in disabling a local industrial plant.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 134,
+    "key": "operation_targeted_sabotage_infrastructure",
+    "ver": "",
+    "val": "Sabotage Infrastructure",
+    "comm": ""
+  },
+  {
+    "line_num": 135,
+    "key": "operation_targeted_sabotage_infrastructure_desc",
+    "ver": "",
+    "val": "§LResistance in enemy territory has been waging a low-key effort against enemy infrastructure, but has so far lacked the resources to make a heavy impact.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 136,
+    "key": "operation_targeted_sabotage_resources",
+    "ver": "",
+    "val": "Sabotage Resources",
+    "comm": ""
+  },
+  {
+    "line_num": 137,
+    "key": "operation_targeted_sabotage_resources_desc",
+    "ver": "",
+    "val": "§LResistance in enemy territory has informed us of enemy efforts to extract resources in the state. A well-placed wrench thrown into those plans would prevent that.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 138,
+    "key": "operation_rescue_operative",
+    "ver": "",
+    "val": "Rescue Captured Operative",
+    "comm": ""
+  },
+  {
+    "line_num": 139,
+    "key": "operation_rescue_operative_desc",
+    "ver": "",
+    "val": "§LOne of our assets has been taken off the board by the enemy. We must get it back, and quickly, before it is permanently removed from play.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 140,
+    "key": "free_operative_free_in_transit",
+    "ver": "",
+    "val": "Free In Transit",
+    "comm": ""
+  },
+  {
+    "line_num": 141,
+    "key": "free_operative_free_in_transit_desc",
+    "ver": "",
+    "val": "Our operative is moved by car between the prison they are kept in and the place where they are being interrogated. We know the route, and will send a small unit to lay an ambush, kill the guards, and free our operative.",
+    "comm": ""
+  }
+]

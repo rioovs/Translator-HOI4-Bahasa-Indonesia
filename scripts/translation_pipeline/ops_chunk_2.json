@@ -1,0 +1,562 @@
+[
+  {
+    "line_num": 162,
+    "key": "OPERATIVE_MISSION_ROOT_OUT_RESISTANCE_ASSIGNMENT_DESC",
+    "ver": "",
+    "val": "§GClick§! to highlight the suitable state. Then §GClick§! a state to start the mission.",
+    "comm": ""
+  },
+  {
+    "line_num": 163,
+    "key": "OPERATIVE_MISSION_ROOT_OUT_RESISTANCE_DESC",
+    "ver": "",
+    "val": "§LInfiltrate resistance movements in friendly territory to disrupt and dismantle them.§!\\n$EFFECTS|H$",
+    "comm": ""
+  },
+  {
+    "line_num": 164,
+    "key": "OPERATIVE_MISSION_ROOT_OUT_RESISTANCE_VALID_TARGET",
+    "ver": "",
+    "val": "Assign $CODENAME$ to £operative_mission_icons_small|4£ Root Out Resistance in $STATE|H$ and the adjacent states",
+    "comm": ""
+  },
+  {
+    "line_num": 165,
+    "key": "OPERATIVE_MISSION_ROOT_OUT_RESISTANCE_INVALID_TARGET",
+    "ver": "",
+    "val": "Cannot Root Out Resistance in $STATE|H$",
+    "comm": ""
+  },
+  {
+    "line_num": 166,
+    "key": "OPERATIVE_MISSION_BOOST_IDEOLOGY_TITLE",
+    "ver": "",
+    "val": "Boost Ideology",
+    "comm": ""
+  },
+  {
+    "line_num": 167,
+    "key": "OPERATIVE_MISSION_BOOST_IDEOLOGY_ACTION",
+    "ver": "",
+    "val": "Boosting ideology",
+    "comm": ""
+  },
+  {
+    "line_num": 168,
+    "key": "OPERATIVE_MISSION_BOOST_IDEOLOGY_TT",
+    "ver": "",
+    "val": "Boosting $IDEOLOGY|H$ in $COUNTRY|H$ by $VALUE|H$ per day",
+    "comm": ""
+  },
+  {
+    "line_num": 169,
+    "key": "OPERATIVE_MISSION_BOOST_IDEOLOGY_ASSIGNMENT_DESC",
+    "ver": "",
+    "val": "§GClick§! to highlight suitable target countries. Then §GClick§! on a country to select the ideology to boost.",
+    "comm": ""
+  },
+  {
+    "line_num": 170,
+    "key": "OPERATIVE_MISSION_BOOST_IDEOLOGY_DESC",
+    "ver": "",
+    "val": "§LBoost the support of a local political party.§!\\n§YDaily Ideology Support gain: $BASE|1=$§!\\n  Base: $BASE|1G$",
+    "comm": ""
+  },
+  {
+    "line_num": 171,
+    "key": "OPERATIVE_MISSION_BOOST_IDEOLOGY_VALID_TARGET",
+    "ver": "",
+    "val": "§GClick§! to select an ideology and assign $CODENAME|H$ to £operative_mission_icons_small|5£ Boost Ideology in $STATE|H$",
+    "comm": ""
+  },
+  {
+    "line_num": 172,
+    "key": "OPERATIVE_MISSION_BOOST_IDEOLOGY_INVALID_TARGET",
+    "ver": "",
+    "val": "Cannot assign operatives to Boost Ideology in $STATE|H$\\n\\n$REASON|R$",
+    "comm": ""
+  },
+  {
+    "line_num": 173,
+    "key": "OPERATIVE_MISSION_BOOST_IDEOLOGY_INITIATE_DESC",
+    "ver": "",
+    "val": "Boost the support of $IDEOLOGY|H$ by $VALUE|H$ per day",
+    "comm": ""
+  },
+  {
+    "line_num": 174,
+    "key": "OPERATIVE_MISSION_BOOST_IDEOLOGY_PARTY_DESC",
+    "ver": "",
+    "val": "Boost the popularity of $PARTY|H$, which currently has a support of $SUPPORT|H$, by $VALUE|H$ per day",
+    "comm": ""
+  },
+  {
+    "line_num": 175,
+    "key": "OPERATIVE_MISSION_BOOST_IDEOLOGY_OPERATIVE_ENTRY",
+    "ver": "",
+    "val": "$OPERATIVE|H$: $VALUE|H$",
+    "comm": ""
+  },
+  {
+    "line_num": 176,
+    "key": "OPERATIVE_MISSION_CONTROL_TRADE_TITLE",
+    "ver": "",
+    "val": "Control Trade",
+    "comm": ""
+  },
+  {
+    "line_num": 177,
+    "key": "OPERATIVE_MISSION_CONTROL_TRADE_ACTION",
+    "ver": "",
+    "val": "Controlling trade",
+    "comm": ""
+  },
+  {
+    "line_num": 178,
+    "key": "OPERATIVE_MISSION_CONTROL_TRADE_TT",
+    "ver": "",
+    "val": "Improving $FLAG$ $COUNTRY_ADJ|H$ Trade Opinion of us by $VALUE|H$ daily",
+    "comm": ""
+  },
+  {
+    "line_num": 179,
+    "key": "OPERATIVE_MISSION_CONTROL_TRADE_ASSIGNMENT_DESC",
+    "ver": "",
+    "val": "§GClick§! will highlight the suitable countries. Then §GClick§! on a country to start the mission.",
+    "comm": ""
+  },
+  {
+    "line_num": 180,
+    "key": "OPERATIVE_MISSION_CONTROL_TRADE_DESC",
+    "ver": "",
+    "val": "§LInfluence our trade opinion in the target country, giving us a bigger share of their resource exports.§!\\n§HDaily Trade Opinion: $BASE|=1$§!\\n  Base: $BASE|+1$",
+    "comm": ""
+  },
+  {
+    "line_num": 181,
+    "key": "OPERATIVE_MISSION_CONTROL_TRADE_VALID_TARGET",
+    "ver": "",
+    "val": "Assign $CODENAME$ to £operative_mission_icons_small|6£ Control Trade in $COUNTRY|H$",
+    "comm": ""
+  },
+  {
+    "line_num": 182,
+    "key": "OPERATIVE_MISSION_CONTROL_TRADE_INVALID_TARGET",
+    "ver": "",
+    "val": "Cannot Control Trade in $COUNTRY|H$\\n\\n$REASON|R$",
+    "comm": ""
+  },
+  {
+    "line_num": 183,
+    "key": "OPERATIVE_MISSION_CONTROL_TRADE_PROGRESS",
+    "ver": "",
+    "val": "So far, we have improved our Trade Opinion by $CURRENT|H$/$MAX|H$. We currently have a total Trade Opinion of $EFFECTIVE|=H$",
+    "comm": ""
+  },
+  {
+    "line_num": 184,
+    "key": "OPERATIVE_MISSION_DIPLOMATIC_PRESSURE_TITLE",
+    "ver": "",
+    "val": "Diplomatic Pressure",
+    "comm": ""
+  },
+  {
+    "line_num": 185,
+    "key": "OPERATIVE_MISSION_DIPLOMATIC_PRESSURE_ACTION",
+    "ver": "",
+    "val": "Putting diplomatic pressure",
+    "comm": ""
+  },
+  {
+    "line_num": 186,
+    "key": "OPERATIVE_MISSION_DIPLOMATIC_PRESSURE_TT",
+    "ver": "",
+    "val": "Putting diplomatic pressure on $FLAG$ $COUNTRY_DEF|H$",
+    "comm": ""
+  },
+  {
+    "line_num": 187,
+    "key": "OPERATIVE_MISSION_DIPLOMATIC_PRESSURE_ASSIGNMENT_DESC",
+    "ver": "",
+    "val": "§GClick§! will highlight the suitable countries. Then §GClick§! on a country to start the mission.",
+    "comm": ""
+  },
+  {
+    "line_num": 188,
+    "key": "OPERATIVE_MISSION_DIPLOMATIC_PRESSURE_DESC",
+    "ver": "",
+    "val": "§LInfluence an AI controlled nation to prefer your Faction and Non-Aggression Pacts. Player nations will get tightened restrictions to join other Factions.§!\\n§HDaily Diplomatic Pressure: $BASE_ACCEPTANCE$§!\\n  Base: $BASE_ACCEPTANCE|G$\\n§HDaily World Tension requirements: -$BASE_TENSION|%$§!\\n  Base: §G-§!$BASE_TENSION|%G$",
+    "comm": ""
+  },
+  {
+    "line_num": 189,
+    "key": "OPERATIVE_MISSION_DIPLOMATIC_PRESSURE_VALID_TARGET",
+    "ver": "",
+    "val": "Assign $CODENAME$ to apply £operative_mission_icons_small|7£ Diplomatic Pressure in $COUNTRY|H$",
+    "comm": ""
+  },
+  {
+    "line_num": 190,
+    "key": "OPERATIVE_MISSION_DIPLOMATIC_PRESSURE_INVALID_TARGET",
+    "ver": "",
+    "val": "Cannot do Diplomatic Pressure in $COUNTRY|H$\\n\\n$REASON|R$",
+    "comm": ""
+  },
+  {
+    "line_num": 191,
+    "key": "OPERATIVE_MISSION_PROPAGANDA_TITLE",
+    "ver": "",
+    "val": "Propaganda",
+    "comm": ""
+  },
+  {
+    "line_num": 192,
+    "key": "OPERATIVE_MISSION_PROPAGANDA_ACTION",
+    "ver": "",
+    "val": "Propaganda",
+    "comm": ""
+  },
+  {
+    "line_num": 193,
+    "key": "OPERATIVE_MISSION_PROPAGANDA_TT",
+    "ver": "",
+    "val": "Lowering Stability by $STABILITY|H2%$ and War Support by $WAR_SUPPORT|H2%$ daily in $FLAG$ $COUNTRY_DEF|H$",
+    "comm": ""
+  },
+  {
+    "line_num": 194,
+    "key": "OPERATIVE_MISSION_PROPAGANDA_ASSIGNMENT_DESC",
+    "ver": "",
+    "val": "§GClick§! to highlight suitable target countries. Then §GClick§! on a country to start the mission.",
+    "comm": ""
+  },
+  {
+    "line_num": 195,
+    "key": "OPERATIVE_MISSION_PROPAGANDA_DESC",
+    "ver": "",
+    "val": "§LDestabilize internal politics in the country to lower their stability and war support§!.\\n§HDaily Stability drift: -$BASE_STABILITY|2%$§!\\n  Base: §G-§!$BASE_STABILITY|2%G$\\n§HDaily War Support drift -$BASE_WAR_SUPPORT|2%$§!\\n  Base: §G-§!$BASE_STABILITY|2%G$",
+    "comm": ""
+  },
+  {
+    "line_num": 196,
+    "key": "OPERATIVE_MISSION_PROPAGANDA_VALID_TARGET",
+    "ver": "",
+    "val": "Assign $CODENAME$ to £operative_mission_icons_small|8£ Propaganda in $STATE|H$",
+    "comm": ""
+  },
+  {
+    "line_num": 197,
+    "key": "OPERATIVE_MISSION_PROPAGANDA_INVALID_TARGET",
+    "ver": "",
+    "val": "Cannot start Propaganda in $STATE|H$\\n\\n$REASON|R$",
+    "comm": ""
+  },
+  {
+    "line_num": 198,
+    "key": "OPERATIVE_INVALID_MISSION_REASON_NO_INTEL_NETWORK_AGAINST_TARGET",
+    "ver": "",
+    "val": "An intel network is required",
+    "comm": ""
+  },
+  {
+    "line_num": 199,
+    "key": "OPERATIVE_INVALID_MISSION_REASON_INTEL_NETWORK_TOO_WEAK",
+    "ver": "",
+    "val": "The intel network is not big enough",
+    "comm": ""
+  },
+  {
+    "line_num": 200,
+    "key": "OPERATIVE_INVALID_MISSION_REASON_INTEL_NETWORK_IS_QUIET",
+    "ver": "",
+    "val": "The intel network is inactive",
+    "comm": ""
+  },
+  {
+    "line_num": 201,
+    "key": "OPERATIVE_INVALID_MISSION_REASON_NO_IDEOLOGY_TO_BOOST",
+    "ver": "",
+    "val": "No suitable ideologies to boost",
+    "comm": ""
+  },
+  {
+    "line_num": 202,
+    "key": "OPERATIVE_INVALID_MISSION_REASON_INELIGIBLE_STATE",
+    "ver": "",
+    "val": "Not a suitable state to start the mission",
+    "comm": ""
+  },
+  {
+    "line_num": 203,
+    "key": "OPERATIVE_INVALID_MISSION_REASON_NOT_A_CONTROLLER_OF_THE_STATE",
+    "ver": "",
+    "val": "Not controlling this state",
+    "comm": ""
+  },
+  {
+    "line_num": 204,
+    "key": "OPERATIVE_INVALID_MISSION_REASON_NOT_AN_ALLY",
+    "ver": "",
+    "val": "Can only target allies",
+    "comm": ""
+  },
+  {
+    "line_num": 205,
+    "key": "OPERATIVE_INVALID_MISSION_REASON_NO_RESISTANCE_ACTIVITY_IN_STATE",
+    "ver": "",
+    "val": "Not subject to resistance activity",
+    "comm": ""
+  },
+  {
+    "line_num": 206,
+    "key": "OPERATIVE_INVALID_MISSION_REASON_CANNOT_TARGET_AN_ALLY",
+    "ver": "",
+    "val": "Cannot target an ally",
+    "comm": ""
+  },
+  {
+    "line_num": 207,
+    "key": "OPERATIVE_INVALID_MISSION_REASON_CANNOT_TARGET_AN_ENEMY",
+    "ver": "",
+    "val": "Cannot target an enemy",
+    "comm": ""
+  },
+  {
+    "line_num": 208,
+    "key": "OPERATIVE_INVALID_MISSION_REASON_CANNOT_TARGET_SELF",
+    "ver": "",
+    "val": "Cannot target self",
+    "comm": ""
+  },
+  {
+    "line_num": 209,
+    "key": "OPERATIVE_INVALID_MISSION_REASON_WE_ARE_NOT_IN_FACTION",
+    "ver": "",
+    "val": "We are not in a faction",
+    "comm": ""
+  },
+  {
+    "line_num": 210,
+    "key": "OPERATIVE_INVALID_MISSION_REASON_CANNOT_TARGET_MEMBER_OF_FACTION_WE_ARE_AT_WAR_WITH",
+    "ver": "",
+    "val": "Cannot target a member of a faction we are at war with",
+    "comm": ""
+  },
+  {
+    "line_num": 211,
+    "key": "OPERATIVE_RESUME_MISSION",
+    "ver": "",
+    "val": "Will resume the mission $MISSION|H$ in $TARGET|H$ once available again",
+    "comm": ""
+  },
+  {
+    "line_num": 212,
+    "key": "OPERATIVE_MISSION_TOGGLE_DESC",
+    "ver": "",
+    "val": "§GRight-click§! to start the mission on the current network",
+    "comm": ""
+  },
+  {
+    "line_num": 213,
+    "key": "COMMENCE",
+    "ver": "",
+    "val": "Commence",
+    "comm": ""
+  },
+  {
+    "line_num": 214,
+    "key": "DURATION",
+    "ver": "",
+    "val": "Duration",
+    "comm": ""
+  },
+  {
+    "line_num": 215,
+    "key": "ONGOING",
+    "ver": "",
+    "val": "Ongoing",
+    "comm": ""
+  },
+  {
+    "line_num": 216,
+    "key": "PREPARE",
+    "ver": "",
+    "val": "Prepare",
+    "comm": ""
+  },
+  {
+    "line_num": 217,
+    "key": "PREPARED",
+    "ver": "",
+    "val": "Prepared",
+    "comm": ""
+  },
+  {
+    "line_num": 218,
+    "key": "DIPLOMATIC_PRESSURE_TENSION_MODIFIER",
+    "ver": "",
+    "val": "£operative_mission_icons_small|7£ Diplomatic Pressure: $VALUE|=-%0$",
+    "comm": ""
+  },
+  {
+    "line_num": 220,
+    "key": "OPERATION_TOKEN_RECEIVE",
+    "ver": "",
+    "val": "Receive $TOKEN|H$ in $COUNTRY|H$",
+    "comm": ""
+  },
+  {
+    "line_num": 221,
+    "key": "OPERATION_TOKEN_REMOVE",
+    "ver": "",
+    "val": "Remove $TOKEN|H$ in $COUNTRY|H$",
+    "comm": ""
+  },
+  {
+    "line_num": 222,
+    "key": "OPERATION_VIEW_AUTO_COMPLETE",
+    "ver": "",
+    "val": "If this box is checked, and all the requirements are met, the operation will launch §Yautomatically§!.",
+    "comm": ""
+  },
+  {
+    "line_num": 223,
+    "key": "OPERATION_VIEW_COLLECTING",
+    "ver": "",
+    "val": "In preparation...",
+    "comm": ""
+  },
+  {
+    "line_num": 224,
+    "key": "OPERATION_VIEW_PROGRESS",
+    "ver": "",
+    "val": "In progress...",
+    "comm": ""
+  },
+  {
+    "line_num": 225,
+    "key": "OPERATION_VIEW_CLOSE",
+    "ver": "",
+    "val": "Close",
+    "comm": ""
+  },
+  {
+    "line_num": 226,
+    "key": "OPERATION_VIEW_COMPLETED",
+    "ver": "",
+    "val": "Completed",
+    "comm": ""
+  },
+  {
+    "line_num": 227,
+    "key": "OPERATION_VIEW_LAUNCH_LAUNCH",
+    "ver": "",
+    "val": "Commence the operation.",
+    "comm": ""
+  },
+  {
+    "line_num": 228,
+    "key": "OPERATION_VIEW_LAUNCH_LAUNCH_DELAYED",
+    "ver": "",
+    "val": "Once you do this the operation cannot be stopped and your operatives will not be able to do anything else for the duration of the operation.",
+    "comm": ""
+  },
+  {
+    "line_num": 229,
+    "key": "OPERATION_VIEW_LAUNCH_COLLECTING",
+    "ver": "",
+    "val": "We are currently preparing to launch this operation by collecting all the necessary resources.",
+    "comm": ""
+  },
+  {
+    "line_num": 230,
+    "key": "OPERATION_VIEW_LAUNCH_PREPARE",
+    "ver": "",
+    "val": "§GClick§! to start preparing for this operation",
+    "comm": ""
+  },
+  {
+    "line_num": 231,
+    "key": "OPERATION_VIEW_LOCATION",
+    "ver": "",
+    "val": "Select a target state for this operation.",
+    "comm": ""
+  },
+  {
+    "line_num": 232,
+    "key": "OPERATION_VIEW_LOCATION_MORE",
+    "ver": "",
+    "val": "Eligible target states must fulfill the following criteria:",
+    "comm": ""
+  },
+  {
+    "line_num": 233,
+    "key": "OPERATION_VIEW_REFUND_GENERAL",
+    "ver": "",
+    "val": "You can refund an operation before starting it to regain all collected equipment.",
+    "comm": ""
+  },
+  {
+    "line_num": 234,
+    "key": "OPERATION_VIEW_REFUND",
+    "ver": "",
+    "val": "Refund all the resources that were collected in the preparation of this operation.",
+    "comm": ""
+  },
+  {
+    "line_num": 235,
+    "key": "OPERATION_VIEW_REFUND_NOT",
+    "ver": "",
+    "val": "You cannot cancel an operation that has already started.",
+    "comm": ""
+  },
+  {
+    "line_num": 236,
+    "key": "OPERATION_VIEW_SELECT_TARGET",
+    "ver": "",
+    "val": "Select Target",
+    "comm": ""
+  },
+  {
+    "line_num": 238,
+    "key": "EFFECT_STEAL_RANDOM_TECH",
+    "ver": "",
+    "val": "Gain insight into advanced technology that they have researched and we have not.",
+    "comm": ""
+  },
+  {
+    "line_num": 239,
+    "key": "EFFECT_STEAL_RANDOM_TECH_INSTANT",
+    "ver": "",
+    "val": "Steal plans for a random technology that they have researched and we have not.",
+    "comm": ""
+  },
+  {
+    "line_num": 240,
+    "key": "EFFECT_STEAL_RANDOM_CATEGORY_TECH_COMPLETE",
+    "ver": "",
+    "val": "We have gained a bonus for the following category: $TECH|H$",
+    "comm": ""
+  },
+  {
+    "line_num": 241,
+    "key": "EFFECT_STEAL_RANDOM_TECH_COMPLETE",
+    "ver": "",
+    "val": "We have gained insight into the advanced technology: $TECH|H$",
+    "comm": ""
+  },
+  {
+    "line_num": 242,
+    "key": "EFFECT_STEAL_RANDOM_TECH_INSTANT_COMPLETE",
+    "ver": "",
+    "val": "We have stolen the plans for an advanced technology: $TECH|H$",
+    "comm": ""
+  },
+  {
+    "line_num": 244,
+    "key": "OPERATION_VIEW_ERROR_INSUFFICIENT_NETWORK_STRENGTH",
+    "ver": "",
+    "val": "§RYou do not have the required network strength of $PERC|H$§!",
+    "comm": ""
+  }
+]

@@ -1,0 +1,352 @@
+[
+  {
+    "line_num": 54,
+    "key": "decision_cost_CP_25_blocked",
+    "ver": "",
+    "val": "£command_power  §R25§!",
+    "comm": ""
+  },
+  {
+    "line_num": 55,
+    "key": "decision_cost_CP_25_tooltip",
+    "ver": "",
+    "val": "It costs £command_power  §Y25§! to take the decision",
+    "comm": ""
+  },
+  {
+    "line_num": 57,
+    "key": "decision_cost_CP_30",
+    "ver": "",
+    "val": "£command_power  §Y30§!",
+    "comm": ""
+  },
+  {
+    "line_num": 58,
+    "key": "decision_cost_CP_30_blocked",
+    "ver": "",
+    "val": "£command_power  §R30§!",
+    "comm": ""
+  },
+  {
+    "line_num": 59,
+    "key": "decision_cost_CP_30_tooltip",
+    "ver": "",
+    "val": "It costs £command_power  §Y30§! to take the decision",
+    "comm": ""
+  },
+  {
+    "line_num": 61,
+    "key": "decision_cost_CP_35",
+    "ver": "",
+    "val": "£command_power  §Y35§!",
+    "comm": ""
+  },
+  {
+    "line_num": 62,
+    "key": "decision_cost_CP_35_blocked",
+    "ver": "",
+    "val": "£command_power  §R35§!",
+    "comm": ""
+  },
+  {
+    "line_num": 63,
+    "key": "decision_cost_CP_35_tooltip",
+    "ver": "",
+    "val": "It costs £command_power  §Y35§! to take the decision",
+    "comm": ""
+  },
+  {
+    "line_num": 65,
+    "key": "decision_cost_CP_40",
+    "ver": "",
+    "val": "£command_power  §Y40§!",
+    "comm": ""
+  },
+  {
+    "line_num": 66,
+    "key": "decision_cost_CP_40_blocked",
+    "ver": "",
+    "val": "£command_power  §R40§!",
+    "comm": ""
+  },
+  {
+    "line_num": 67,
+    "key": "decision_cost_CP_40_tooltip",
+    "ver": "",
+    "val": "It costs £command_power  §Y40§! to take the decision",
+    "comm": ""
+  },
+  {
+    "line_num": 69,
+    "key": "decision_cost_CP_75",
+    "ver": "",
+    "val": "£command_power  §Y75§!",
+    "comm": ""
+  },
+  {
+    "line_num": 70,
+    "key": "decision_cost_CP_75_blocked",
+    "ver": "",
+    "val": "£command_power  §R75§!",
+    "comm": ""
+  },
+  {
+    "line_num": 71,
+    "key": "decision_cost_CP_75_tooltip",
+    "ver": "",
+    "val": "It costs £command_power  §Y75§! to take the decision",
+    "comm": ""
+  },
+  {
+    "line_num": 73,
+    "key": "decision_cost_CP_50",
+    "ver": "",
+    "val": "£command_power  §Y50§!",
+    "comm": ""
+  },
+  {
+    "line_num": 74,
+    "key": "decision_cost_CP_50_blocked",
+    "ver": "",
+    "val": "£command_power  §R50§!",
+    "comm": ""
+  },
+  {
+    "line_num": 75,
+    "key": "decision_cost_CP_50_tooltip",
+    "ver": "",
+    "val": "It costs £command_power  §Y50§! to take the decision",
+    "comm": ""
+  },
+  {
+    "line_num": 77,
+    "key": "decision_cost_CP_5_pp_25",
+    "ver": "",
+    "val": "£command_power  §Y5§! £pol_power  §Y25§!",
+    "comm": ""
+  },
+  {
+    "line_num": 78,
+    "key": "decision_cost_CP_5_pp_25_blocked",
+    "ver": "",
+    "val": "£command_power  §R5§! £pol_power  §R25§!",
+    "comm": ""
+  },
+  {
+    "line_num": 79,
+    "key": "decision_cost_CP_5_pp_25_tooltip",
+    "ver": "",
+    "val": "It costs £command_power  §Y5§! £pol_power  §Y25§! to take the decision",
+    "comm": ""
+  },
+  {
+    "line_num": 81,
+    "key": "decision_cost_CP_15_pp_15",
+    "ver": "",
+    "val": "£command_power  §Y15§! £pol_power  §Y15§!",
+    "comm": ""
+  },
+  {
+    "line_num": 82,
+    "key": "decision_cost_CP_15_pp_15_blocked",
+    "ver": "",
+    "val": "£command_power  §R15§! £pol_power  §R15§!",
+    "comm": ""
+  },
+  {
+    "line_num": 83,
+    "key": "decision_cost_CP_15_pp_15_tooltip",
+    "ver": "",
+    "val": "It costs £command_power  §Y15§! £pol_power  §Y15§! to take the decision",
+    "comm": ""
+  },
+  {
+    "line_num": 85,
+    "key": "decision_cost_CP_25_pp_50",
+    "ver": "",
+    "val": "£command_power  §Y25§! £pol_power  §Y50§!",
+    "comm": ""
+  },
+  {
+    "line_num": 86,
+    "key": "decision_cost_CP_25_pp_50_blocked",
+    "ver": "",
+    "val": "£command_power  §R25§! £pol_power  §R50§!",
+    "comm": ""
+  },
+  {
+    "line_num": 87,
+    "key": "decision_cost_CP_25_pp_50_tooltip",
+    "ver": "",
+    "val": "It costs £command_power  §Y25§! £pol_power  §Y50§! to take the decision",
+    "comm": ""
+  },
+  {
+    "line_num": 89,
+    "key": "decision_cost_CP_25_pp_25",
+    "ver": "",
+    "val": "£command_power  §Y25§! £pol_power  §Y25§!",
+    "comm": ""
+  },
+  {
+    "line_num": 90,
+    "key": "decision_cost_CP_25_pp_25_blocked",
+    "ver": "",
+    "val": "£command_power  §R25§! £pol_power  §R25§!",
+    "comm": ""
+  },
+  {
+    "line_num": 91,
+    "key": "decision_cost_CP_25_pp_25_tooltip",
+    "ver": "",
+    "val": "It costs £command_power  §Y25§! £pol_power  §Y25§! to take the decision",
+    "comm": ""
+  },
+  {
+    "line_num": 93,
+    "key": "decision_cost_CP_50_pp_50",
+    "ver": "",
+    "val": "£command_power  §Y50§! £pol_power  §Y50§!",
+    "comm": ""
+  },
+  {
+    "line_num": 94,
+    "key": "decision_cost_CP_50_pp_50_blocked",
+    "ver": "",
+    "val": "£command_power  §R50§! £pol_power  §R50§!",
+    "comm": ""
+  },
+  {
+    "line_num": 95,
+    "key": "decision_cost_CP_50_pp_50_tooltip",
+    "ver": "",
+    "val": "It costs £command_power  §Y50§! £pol_power  §Y50§! to take the decision",
+    "comm": ""
+  },
+  {
+    "line_num": 97,
+    "key": "decision_cost_CP_50_pp_35",
+    "ver": "",
+    "val": "£command_power  §Y50§! £pol_power  §Y35§!",
+    "comm": ""
+  },
+  {
+    "line_num": 98,
+    "key": "decision_cost_CP_50_pp_35_blocked",
+    "ver": "",
+    "val": "£command_power  §R50§! £pol_power  §R35§!",
+    "comm": ""
+  },
+  {
+    "line_num": 99,
+    "key": "decision_cost_CP_50_pp_35_tooltip",
+    "ver": "",
+    "val": "It costs £command_power  §Y50§! £pol_power  §Y35§! to take the decision",
+    "comm": ""
+  },
+  {
+    "line_num": 101,
+    "key": "decision_cost_CP_25_pp_75",
+    "ver": "",
+    "val": "£command_power  §Y25§! £pol_power  §Y75§!",
+    "comm": ""
+  },
+  {
+    "line_num": 102,
+    "key": "decision_cost_CP_25_pp_75_blocked",
+    "ver": "",
+    "val": "£command_power  §R25§! £pol_power  §R75§!",
+    "comm": ""
+  },
+  {
+    "line_num": 103,
+    "key": "decision_cost_CP_25_pp_75_tooltip",
+    "ver": "",
+    "val": "It costs £command_power  §Y25§! £pol_power  §Y75§! to take the decision",
+    "comm": ""
+  },
+  {
+    "line_num": 105,
+    "key": "decision_cost_CP_50_PP_100",
+    "ver": "",
+    "val": "£command_power  §Y50§! £pol_power  §Y100§!",
+    "comm": ""
+  },
+  {
+    "line_num": 106,
+    "key": "decision_cost_CP_50_PP_100_blocked",
+    "ver": "",
+    "val": "£command_power  §R50§! £pol_power  §R100§!",
+    "comm": ""
+  },
+  {
+    "line_num": 107,
+    "key": "decision_cost_CP_50_PP_100_tooltip",
+    "ver": "",
+    "val": "It costs £command_power  §Y50§! £pol_power  §Y100§! to take the decision",
+    "comm": ""
+  },
+  {
+    "line_num": 109,
+    "key": "decision_cost_CP_100_pp_75",
+    "ver": "",
+    "val": "£command_power  §Y100§! £pol_power  §Y75§!",
+    "comm": ""
+  },
+  {
+    "line_num": 110,
+    "key": "decision_cost_CP_100_pp_75_blocked",
+    "ver": "",
+    "val": "£command_power  §R100§! £pol_power  §R75§!",
+    "comm": ""
+  },
+  {
+    "line_num": 111,
+    "key": "decision_cost_CP_100_pp_75_tooltip",
+    "ver": "",
+    "val": "It costs £command_power  §Y100§! £pol_power  §Y75§! to take the decision",
+    "comm": ""
+  },
+  {
+    "line_num": 113,
+    "key": "decision_cost_pp_25_ie_1000",
+    "ver": "",
+    "val": "£pol_power  §Y25§! £infantry_equipment_text_icon  §Y1000§!",
+    "comm": ""
+  },
+  {
+    "line_num": 114,
+    "key": "decision_cost_pp_25_ie_1000_blocked",
+    "ver": "",
+    "val": "£pol_power  §R25§! £infantry_equipment_text_icon  §R1000§!",
+    "comm": ""
+  },
+  {
+    "line_num": 115,
+    "key": "decision_cost_pp_25_ie_1000_tooltip",
+    "ver": "",
+    "val": "It costs £pol_power  §Y25§! £infantry_equipment_text_icon  §Y1000§! to take the decision",
+    "comm": ""
+  },
+  {
+    "line_num": 117,
+    "key": "decision_cost_cp_25_ie_2000",
+    "ver": "",
+    "val": "£command_power  §Y25§! £infantry_equipment_text_icon  §Y2000§!",
+    "comm": ""
+  },
+  {
+    "line_num": 118,
+    "key": "decision_cost_cp_25_ie_2000_blocked",
+    "ver": "",
+    "val": "£command_power  §Y25§! £infantry_equipment_text_icon  §R2000§!",
+    "comm": ""
+  },
+  {
+    "line_num": 119,
+    "key": "decision_cost_cp_25_ie_2000_tooltip",
+    "ver": "",
+    "val": "It costs £command_power  §Y25§! £infantry_equipment_text_icon  §Y2000§! to take the decision",
+    "comm": ""
+  }
+]

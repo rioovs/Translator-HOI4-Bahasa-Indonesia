@@ -1,0 +1,213 @@
+=== [0] china.1.t (title) ===
+The Marco Polo Bridge Incident
+
+=== [1] china.1.d (desc) ===
+Japanese soldiers recently launched an attack on the strategic Marco Polo Bridge just south of Beijing, but they were repelled by our brave soldiers. No doubt this is an orchestrated event aimed at placing blame on us and forcing us to surrender more territory - just like the Mukden Incident when the Japanese invaded Manchuria. \n\nHow should we respond?
+
+=== [2] china.2.t (title) ===
+Germany Withdraws Advisors
+
+=== [3] china.2.d (desc) ===
+Germany has caved in to Japanese diplomatic pressure, and decided to withdraw their military advisors from our country! Von Falkenhausen promised at a farewell dinner that he would not reveal any of our battle plans to the Japanese, but the end of German support is sure to hurt our military.
+
+=== [4] china.3.t (title) ===
+Poor Sino - German Relations
+
+=== [5] china.3.d (desc) ===
+Our deteriorating relationship with Germany has resulted in them recalling all of their military advisors from our country.
+
+=== [6] china.4.t (title) ===
+Military Advisors Detained
+
+=== [7] china.4.d (desc) ===
+As we are now in a state of war with Germany, all of their military advisors that were present in our country have been detained. Von Falkenhausen and a few of his cronies managed to elude our grasp, and have returned to Europe!
+
+=== [8] china.5.t (title) ===
+Cornered No More
+
+=== [9] china.5.d (desc) ===
+The Red Army once survived in a state of what seemed like hopelessness, but since the Long March several years back, the tide has slowly turned. With significant territorial advances, our role as an underdog is a thing of the past. Having fought through this time of struggle, our desperation is now behind us. Mao Zedong has gone from guerrilla army leader to chairman.
+
+=== [10] china.6.t (title) ===
+Preparing Attack Against Communists
+
+=== [11] china.6.d (desc) ===
+After the long retreat of the Communist Party of China's Red Army, they have managed to regroup and establish themselves in Shaanxi. Their continued effort to turn the rural population against us and seek support from the Soviet Union suggest that they might grow more powerful if left to their own devices. However, many of the surrounding warlords, despite supporting our government, are unwilling or unable to make the necessary sacrifices for an effective attack.\n\nIt's currently unclear whether the Red Army is still recuperating or ready to face us in battle, but time is not on our side. To strengthen our political position, we need to strike against the communists.
+
+=== [12] china.7.t (title) ===
+Kuomintang Launch Offensive
+
+=== [13] china.7.d (desc) ===
+Although we have escaped certain defeat through the Long March, the nationalists are not planning to let us grow stronger without more confrontations. Our spies suggest they are mounting an offensive against us, which could weaken our political support if we try to retreat further.\n\nWe don't know how committed the Kuomintang are to pushing us back right now. Trying to confront them carries significant risks. If the local warlords have been rallied to support the attack, our chances may be slim. On the other hand, retreating now when we have finally stopped may not be an option.
+
+=== [14] china.8.t (title) ===
+Communists Retreat
+
+=== [15] china.8.d (desc) ===
+Discovering our planned offensive through their local spy network, the CPC have withdrawn their Red Army further into Shaanxi. Although this deprived us of the opportunity to further weaken their numbers, this has shown that the communists are not ready to confront us, despite what their propaganda says. To some extent, the effort has still worked to our benefit.
+
+=== [16] china.9.t (title) ===
+Victory Against Communists
+
+=== [17] china.9.d (desc) ===
+Our commitment to routing the Red Army has been successful, at least for now. Despite gaining information about the attack, the communists decided to confront our forces and lost. They have now been forced to withdraw further and many of the locals have grown skeptical of their ability to deliver on their promises of overthrowing our government.
+
+=== [18] china.10.t (title) ===
+Communists Repel Attack
+
+=== [19] china.10.d (desc) ===
+Having gained information about our plans to launch an offensive beforehand, the Red Army was prepared and confronted our attack. The troops we had managed to assemble in this area, where our power base is weak, were insufficient to defeat the communist forces. \nSadly, the attack has been turned against us and seen as a sign of the Red Army's recovery after their long retreat.
+
+=== [20] china.11.t (title) ===
+Defeat Against the Kuomintang
+
+=== [21] china.11.d (desc) ===
+Despite our best efforts to repel the attack of locally assembled troops supporting the nationalist government, our preparations were insufficient to stop it. With significant losses, we have been forced into a new retreat, albeit shorter.\n\nConfronting the nationalists before we had fully recovered may have been a mistake. Our magnificent recovery in the Long March instilled hope in our supporters, but now, seeds of doubt have been sown.
+
+=== [22] china.12.t (title) ===
+Victory Against the Kuomintang
+
+=== [23] china.12.d (desc) ===
+Challenging the Kuomintang offensive has worked in our favor. The locally assembled troops sent to confront the Red Army were not prepared for our knowledge of the impending attack and were defeated, all serving as a warning to nearby warlords that attacking us can be costly. \n\nThe nationalists have only proven that they underestimate us as a foe, and that the People's Republic is once again on the rise.
+
+=== [24] china.13.t (title) ===
+Clash with Communist Guerrillas
+
+=== [25] china.13.d (desc) ===
+With both us and the Chinese Red Army barely having recovered from our previous offensive, our mutual troop presence close to the border has reignited the conflict. In addition to the local warlords and militias, we have considered moving in more troops from elsewhere.\n\nAlthough this may not give us opportunity to crush the communist menace once and for all, it would be an important ideological victory to show that they will not be allowed to expand further.
+
+=== [26] china.14.t (title) ===
+Defeat in [From.GetName]
+
+=== [27] china.14.d (desc) ===
+Despite our efforts to push show that the communists will not be allowed to expand their influence outside of where they have currently taken refuge, we could not afford to commit enough resources to win the conflict along the [From.GetName] border.\n\nThe sporadic conflicts with communist militias slowly turned out more and more in their favor, which in the end made the campaign a failure in demonstrating that we have the situation under control. If their popular support keeps increasing, the communists could turn out to be a genuine threat.
+
+=== [28] china.15.t (title) ===
+Victory in [From.From.GetName]
+
+=== [29] china.15.d (desc) ===
+After a number of smaller encounters in the outskirts of our controlled territory, the conflict with the Kuomintang appears to have turned to our advantage. Although maintaining constant pressure has been taxing on our troops and supplies, the effort has been worthwhile. \n\nNo decisive battles have been fought, we have won a slow victory this time, which has strengthened the faith in our cause and fanned the flames of the revolution once again.
+
+=== [30] china.16.t (title) ===
+Defeat in [From.GetName]
+
+=== [31] china.16.d (desc) ===
+Our efforts to wage an indirect war against the increased Kuomintang presence has proven disastrous. The nationalists were simply more dedicated to pushing us back than we thought, perhaps expecting the impact this failure would have on our reputation. Although our army is once again safe to recover, for now, the losses have not gone unnoticed by the locals, and rumors of the failure of the revolution are already spreading to nearby villages.
+
+=== [32] china.17.t (title) ===
+Victory in [From.From.GetName]
+
+=== [33] china.17.d (desc) ===
+Our efforts to draw the line against the threat of communism have been successful. The CPCs guerrilla campaigns in response to our increased troop presence in regions surrounding their power base failed to anticipate our dedication to stopping them. This show of strength, although not entirely without costs, has convinced many of the locals who previously gave their tacit support to [From.GetLeader] and his party have now begun to realize that China can never be united under such an ideology.
+
+=== [34] china.18.t (title) ===
+Clash with Nationalist Army
+
+=== [35] china.18.d (desc) ===
+While we have still barely recovered from their previous offensive, the nationalists appear to be increasing their troop presence in the areas close to our border. Clearly, they are trying to show that they once again have us contained and that the Great March only delayed their final strike against the CPC. We cannot let the people think this is true.
+
+=== [36] china.100.t (title) ===
+China Comes Under Further Attack
+
+=== [37] china.100.d (desc) ===
+Like a cat Japan advances and took Korea. They sought to humiliate us with their twenty-one demands, they occupy Manchuria and now they advance again. Well, no more, China will fight to her last to be free. In a speech to the people, [Root.GetLeader] appealed to all [Root.GetAdjective], that they stand together or face certain doom alone.
+
+=== [38] china.101.t (title) ===
+China Is Under Attack
+
+=== [39] china.101.d (desc) ===
+It is time we stand together against our common foe, the Japanese. Let us lay aside petty squabbles and fight as a strong, united China!
+
+=== [40] china.102.t (title) ===
+China Is Under Attack
+
+=== [41] china.102.d (desc) ===
+With the Soviet Union occupied with the war against Germany we have been advised that they will no longer be able to provide the same amount of protection as they have done in the past. It will be in our best interests to gain the support of the KMT and join them in their war against Japan.
+
+=== [42] china.103.t (title) ===
+China Unites
+
+=== [43] china.103.d (desc) ===
+[From.GetName] has chosen to join us in the fight against the Japanese. United we will drive the invader back.
+
+=== [44] china.104.t (title) ===
+China Is Under Attack
+
+=== [45] china.104.d (desc) ===
+China is under attack. The warlords are putting aside their grievances to fight against the invading Japanese forces. This is an opportunity to advance the interests of the CPC, we can show the people of China that it is us and not the decadent KMT who are the true future for China. Should we join the fight as well and ensure that there is a future for China?
+
+=== [46] china.105.t (title) ===
+China Unites
+
+=== [47] china.105.d (desc) ===
+[From.GetName] wants us to join forces in the fight against Japan. They have already joined the [From.GetFactionName] and are ready to put aside old grievances to stand against the Japanese invasion.
+
+=== [48] china.106.t (title) ===
+China Unites
+
+=== [49] china.106.d (desc) ===
+[From.GetName] has joined [Root.GetFactionName] and are ready to fight.
+
+=== [50] china.107.t (title) ===
+No Longer United
+
+=== [51] china.107.d_PRC_joined (desc) ===
+[Root.GetFactionName] has served its purpose. There is no longer an enemy to stand united against. Mao Zedong is consolidating his hold over the territories in Northern China. However what hope will they have against our victorious armies.
+
+=== [52] china.107.d_PRC_refused (desc) ===
+With the end of the war the true patriots have triumphed. It is time to settle scores with those who hid while we bled.
+
+=== [53] china.108.t (title) ===
+Communism Advances
+
+=== [54] china.108.d (desc) ===
+Our role in the struggle against the hated Japanese dogs has given much prestige to the CPC. More and more people are seeing that we are the future for China, especially in comparison to the corrupt Kuomintang. Party cadres are already organising these people into a new army that will swim the peasant sea.
+
+=== [55] china.109.t (title) ===
+Fight For China!
+
+=== [56] china.109.d (desc) ===
+It is time to rid China of the sickness that is the Kuomintang. We will liberate every Chinese and have a united people under the wise leadership of Mao.
+
+=== [57] china.110.t (title) ===
+[From.GetName] Declares War
+
+=== [58] china.110.d (desc) ===
+[From.GetName] and the [From.GetLeader] cabinet has declared war on us.
+
+=== [59] china.111.t (title) ===
+No Longer United
+
+=== [60] china.111.d (desc) ===
+[Root.GetFactionName] has served its purpose. There is no longer an enemy to stand united against. We have used the time wisely to build up our support across Northern China and Manchuria and now it is time to formalise our control in this region.
+
+=== [61] china.200.t (title) ===
+Joining the People's Republic of China
+
+=== [62] china.200.d (desc) ===
+Having broken with the nationalist Kuomintang to liberate the people, we must now join forces with the existing People's Republic of China to avoid splintering the movement. The enemies of China have always relied on our infighting to weaken us; the new socialist state will not make such a mistake!
+
+=== [63] china.201.t (title) ===
+Communist Revolters Join the Republic
+
+=== [64] china.201.d (desc) ===
+Having broken free from nationalist control, Chinese revolutionaries who sympathize with our cause have made the decision to join their state with ours under the leadership of [Root.GetLeader]. Now and henceforth, there shall be one united People's Republic of China.
+
+=== [65] china.202.t (title) ===
+Communist uprisings in [CHI_communist_state.GetName]
+
+=== [66] china.202.d (desc) ===
+The growing communist support in [CHI_communist_state.GetName] has come to a breaking point. Government facilities have been overrun and the rebels have declared that they no longer consider themselves a part of [Root.GetName]. We have effectively lost all control of [CHI_communist_state.GetName] to the communist regime.
+
+=== [67] china.203.t (title) ===
+Communist uprisings in [CHI_communist_state.GetName]
+
+=== [68] china.203.d (desc) ===
+Having broken free from nationalist control, Chinese revolutionaries who sympathize with our cause have made the decision to join their state with ours under the leadership of [Root.GetLeader]. Now and henceforth, there shall be one united [Root.GetName].
+
+=== [69] china.204.t (title) ===
+A [Root.GetAdjective] Capital
+
+=== [70] china.204.d (desc) ===
+With the end of the Chinese Civil War, it is time for us to consolidate power in China and show the people that we are the modern incarnation of the Middle Kingdom. We are the state that will guide them into the future.\n\nTo this end, we should have a capital befitting our great state.
+

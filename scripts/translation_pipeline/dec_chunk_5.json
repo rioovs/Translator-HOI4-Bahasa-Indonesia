@@ -1,0 +1,282 @@
+[
+  {
+    "line_num": 305,
+    "key": "invite_ENG_fairey_aviation_organization",
+    "ver": "",
+    "val": "Invite §Y$ENG_fairey_aviation_organization$§! to §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "line_num": 306,
+    "key": "invite_SOV_ilyushin_design_bureau_organization",
+    "ver": "",
+    "val": "Invite §Y$SOV_ilyushin_design_bureau_organization$§! to §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "line_num": 307,
+    "key": "invite_SOV_gaz_organization",
+    "ver": "",
+    "val": "Invite §Y$SOV_gaz_organization$§! to §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "line_num": 308,
+    "key": "invite_GER_opel_organization",
+    "ver": "",
+    "val": "Invite §Y$GER_opel_organization$§! to §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "line_num": 309,
+    "key": "invite_ENG_vauxhall_organization",
+    "ver": "",
+    "val": "Invite §Y$ENG_vauxhall_organization$§! to §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "line_num": 310,
+    "key": "invite_ITA_lancia_organization",
+    "ver": "",
+    "val": "Invite §Y$ITA_lancia_organization$§! to §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "line_num": 311,
+    "key": "invite_CZE_skoda_artillery_organization",
+    "ver": "",
+    "val": "Invite §Y$CZE_skoda_artillery_organization$§! to §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "line_num": 312,
+    "key": "invite_FRA_mas_organization",
+    "ver": "",
+    "val": "Invite §Y$FRA_mas_organization$§! to §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "line_num": 313,
+    "key": "invite_JAP_nissan_organization",
+    "ver": "",
+    "val": "Invite §Y$JAP_nissan_organization$§! to §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "line_num": 314,
+    "key": "invite_CZE_ckd_organization",
+    "ver": "",
+    "val": "Invite §Y$CZE_ckd_organization$§! to §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "line_num": 315,
+    "key": "invite_CZE_skoda_armor_organization",
+    "ver": "",
+    "val": "Invite §Y$CZE_skoda_armor_organization$§! to §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "line_num": 316,
+    "key": "invite_CZE_avia_organization",
+    "ver": "",
+    "val": "Invite §Y$CZE_avia_organization$§! to §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "line_num": 317,
+    "key": "invite_FRA_renault_organization",
+    "ver": "",
+    "val": "Invite §Y$FRA_renault_organization$§! to §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "line_num": 318,
+    "key": "invite_JAP_maizuru_naval_arsenal_organization",
+    "ver": "",
+    "val": "Invite §Y$JAP_maizuru_naval_arsenal_organization$§! to §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "line_num": 319,
+    "key": "invite_JAP_mitsubishi_organization",
+    "ver": "",
+    "val": "Invite §Y$JAP_mitsubishi_organization$§! to §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "line_num": 320,
+    "key": "invite_FRA_bloch_organization",
+    "ver": "",
+    "val": "Invite §Y$FRA_bloch_organization$§! to §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "line_num": 321,
+    "key": "invite_GER_junkers_organization",
+    "ver": "",
+    "val": "Invite §Y$GER_junkers_organization$§! to §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "line_num": 322,
+    "key": "invite_GER_mauser_organization",
+    "ver": "",
+    "val": "Invite §Y$GER_mauser_organization$§! to §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "line_num": 323,
+    "key": "invite_ENG_john_brown_organization",
+    "ver": "",
+    "val": "Invite §Y$ENG_john_brown_organization$§! to §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "line_num": 324,
+    "key": "invite_SWE_landsverk_organization",
+    "ver": "",
+    "val": "Invite §Y$SWE_landsverk_organization$§! to §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "line_num": 325,
+    "key": "invite_SWE_volvo_organization",
+    "ver": "",
+    "val": "Invite §Y$SWE_volvo_organization$§! to §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "line_num": 326,
+    "key": "invite_SWE_bofors_organization",
+    "ver": "",
+    "val": "Invite §Y$SWE_bofors_organization$§! to §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "line_num": 328,
+    "key": "invites_mio_tt",
+    "ver": "",
+    "val": "\\n§YInvites Foreign Military Industrial Organization§!:",
+    "comm": ""
+  },
+  {
+    "line_num": 329,
+    "key": "unlock_mio_tt",
+    "ver": "",
+    "val": "\\n§YEstablish Military Industrial Organization§!",
+    "comm": ""
+  },
+  {
+    "line_num": 333,
+    "key": "generic_purchase_old_ships_category",
+    "ver": "",
+    "val": "Naval Procurement",
+    "comm": ""
+  },
+  {
+    "line_num": 334,
+    "key": "generic_purchase_old_ships_category_desc",
+    "ver": "",
+    "val": "With the world becoming increasingly unstable, we need to expand our naval power projection capabilities. Luckily for us, some of the major navies may be willing to part with their older vessels.",
+    "comm": ""
+  },
+  {
+    "line_num": 335,
+    "key": "purchase_ships_eng",
+    "ver": "",
+    "val": "[ENG.GetFlag] Purchase old [ENG.GetAdjective] Destroyers",
+    "comm": ""
+  },
+  {
+    "line_num": 336,
+    "key": "purchase_ships_sov",
+    "ver": "",
+    "val": "[SOV.GetFlag] Purchase old [SOV.GetAdjective] Battleships",
+    "comm": ""
+  },
+  {
+    "line_num": 337,
+    "key": "purchase_ships_ger",
+    "ver": "",
+    "val": "[GER.GetFlag] Purchase old [GER.GetAdjective] U-Boats",
+    "comm": ""
+  },
+  {
+    "line_num": 338,
+    "key": "purchase_ships_usa",
+    "ver": "",
+    "val": "[USA.GetFlag] Purchase old [USA.GetAdjective] Destroyers",
+    "comm": ""
+  },
+  {
+    "line_num": 341,
+    "key": "generic_refit_civilian_ships_category",
+    "ver": "",
+    "val": "Military Refit for Civilian Ships",
+    "comm": ""
+  },
+  {
+    "line_num": 342,
+    "key": "generic_refit_civilian_ships_category_desc",
+    "ver": "",
+    "val": "Our fleet can not realistically hope to compete with the much larger naval forces that threaten us. We must hastily procure a bigger fleet by refitting civilian vessels for military purposes.",
+    "comm": ""
+  },
+  {
+    "line_num": 343,
+    "key": "refit_to_destroyer",
+    "ver": "",
+    "val": "Refit ships to Destroyers",
+    "comm": ""
+  },
+  {
+    "line_num": 344,
+    "key": "refit_to_cruiser",
+    "ver": "",
+    "val": "Refit ships to Cruisers",
+    "comm": ""
+  },
+  {
+    "line_num": 347,
+    "key": "diversify_special_forces",
+    "ver": "",
+    "val": "Diversify Elite Forces",
+    "comm": ""
+  },
+  {
+    "line_num": 348,
+    "key": "diversify_special_forces_desc",
+    "ver": "",
+    "val": "Our conventional forces simply aren't enough to combat the oncoming storm. We must innovate.",
+    "comm": ""
+  },
+  {
+    "line_num": 349,
+    "key": "add_potential_special_forces_tree_tt",
+    "ver": "",
+    "val": "Adds §H1§! free Special Forces §HBranch Specialism§!",
+    "comm": ""
+  },
+  {
+    "line_num": 352,
+    "key": "refit_to_destroyer_nor",
+    "ver": "",
+    "val": "Refit Convoys to Destroyers",
+    "comm": ""
+  },
+  {
+    "line_num": 353,
+    "key": "refit_to_destroyer_mass_nor",
+    "ver": "",
+    "val": "Refit Convoys to Destroyers En Masse",
+    "comm": ""
+  },
+  {
+    "line_num": 354,
+    "key": "nor_building_ship",
+    "ver": "",
+    "val": "Currently Converting Ships",
+    "comm": ""
+  }
+]

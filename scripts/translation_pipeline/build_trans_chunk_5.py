@@ -1,0 +1,262 @@
+import json
+import re
+
+c5_trans = {
+  "WW_hungary.118.t": "[FROM.GetNameDefCap] Menerima Hasil Referendum",
+  "WW_hungary.118.desc": "Pimpinan di [FROM.GetNameDef] telah tampil ke hadapan publik menyatakan dukungan teguh mereka terhadap hak menentukan nasib sendiri bagi rakyat di wilayah [45.GetName]. Sudah saatnya mereka berhak memilih di negara mana mereka ingin bernaung, demikian dinyatakan [FROm.GetLeader] awal pekan ini, yang secara efektif melepaskan klaim mereka atas wilayah tersebut.",
+  "WW_hungary.118.a": "Sebuah tanggapan yang bijaksana",
+  "WW_hungary.119.t": "[FROM.GetNameDefCap] Menyatakan Referendum Tidak Sah",
+  "WW_hungary.119.desc": "Pimpinan di [FROM.GetNameDef] telah tampil ke publik menyatakan bahwa hasil referendum yang diselenggarakan di wilayah [45.GetName] awal bulan ini tidak sah, menegaskan bahwa tingkat partisipasi pemilih dan pemantau internasional sarat dengan kecurangan, serta jelas-jelas berpihak kepada pemerintah [ROOT.GetAdjective].",
+  "WW_hungary.119.a": "Kita terpaksa menerimanya",
+  "WW_hungary.120.t": "Referendum untuk Bergabung dengan Negara [HUN.GetAdjective]",
+  "WW_hungary.120.desc": "Referendum rakyat telah berlangsung selama sebulan terakhir di [76.GetName], dengan tujuan memutuskan apakah mereka ingin bergabung dengan [HUN.GetNameDef] atau tidak. Mengingat telah disetujui oleh para pengamat internasional, dapat dipastikan bahwa tidak banyak kecurangan pemilu yang terjadi. Hasilnya kini telah keluar, dengan sebagian besar rakyat memilih untuk memisahkan diri dari negara kita. Haruskah kita menerimanya?",
+  "WW_hungary.120.a": "Jika memang itu kehendak rakyat",
+  "WW_hungary.120.b": "Referendum tersebut penuh kecurangan",
+  "WW_hungary.121.t": "[FROM.GetNameDefCap] Menerima Hasil Referendum",
+  "WW_hungary.121.desc": "Pimpinan di [FROM.GetNameDef] telah tampil ke hadapan publik menyatakan dukungan teguh mereka terhadap hak menentukan nasib sendiri bagi rakyat di wilayah [76.GetName]. Sudah saatnya mereka berhak memilih di negara mana mereka ingin bernaung, demikian ditegaskan [FROm.GetLeader] awal pekan ini, yang secara efektif melepaskan klaim mereka atas wilayah tersebut.",
+  "WW_hungary.121.a": "Sebuah tanggapan yang bijaksana",
+  "WW_hungary.122.t": "[FROM.GetNameDefCap] Menyatakan Referendum Tidak Sah",
+  "WW_hungary.122.desc": "Pimpinan di [FROM.GetNameDef] telah tampil ke publik menyatakan bahwa hasil referendum yang digelar di wilayah [76.GetName] awal bulan ini tidak sah, seraya menegaskan bahwa tingkat partisipasi pemilih dan pengamat internasional sarat rekayasa, serta secara nyata memperlihatkan keberpihakan kepada pemerintah [ROOT.GetAdjective].",
+  "WW_hungary.122.a": "Kita terpaksa menerimanya",
+  "WW_hungary.123.t": "Pawai Palang Arit Menuju Budapest",
+  "WW_hungary.123.desc": "Pasukan kita berhasil mencegat politisi sosialis-nasional radikal Zoltán Böszörmény dan para pengikutnya yang berbaris menuju Budapest, dalam sebuah upaya kudeta yang sangat terinspirasi oleh pawai Mussolini ke Roma. Aktivis politik garis tepi ini, yang menjuluki dirinya sendiri sebagai 'raksasa di antara para raksasa intelektual, serta penyair agung Hungaria dengan misi kenabian', telah menghimpun gerombolan pengikut agraris yang kecewa di bawah panji Palang Arit mereka, dan kini bergerak menuju ibu kota kita. Bagaimana kita harus menghadapinya?",
+  "WW_hungary.123.a": "Bubarkan mereka dan tangkap pemimpin menyedihkan itu!",
+  "WW_hungary.123.b": "Lepaskan tembakan dan buat mereka lari kocar-kacir",
+  "HUN_third_mexican_empire_tt": "§YMeksiko§! akan dikenal sebagai §YKekaisaran Meksiko Ketiga§!.\n",
+  "HUN_croatia_slavonia_tt": "§YKroasia§! akan dikenal sebagai §YKerajaan Kroasia-Slavonia§!.\n",
+  "HUN_bohemia_and_silesia_tt": "§YCekoslowakia§! akan dikenal sebagai §YKerajaan Bohemia-Moravia dan Silesia§!.\n",
+  "HUN_cisleithania_tt": "§YAustria§! akan dikenal sebagai §YKerajaan dan Tanah yang Terwakili dalam Dewan Kekaisaran§!.\n",
+  "WW_hungary.124.t": "Seorang Pria Kembali ke Kampung Halaman",
+  "WW_hungary.124.desc": "Pagi-pagi buta hari ini, pihak berwenang di Gori melaporkan seorang pria menuntut pengembalian tanah perkebunan yang ia klaim pernah menjadi miliknya, seraya mengaku baru saja berhasil kembali ke tanah airnya dan lolos dari cengkeraman ancaman Rusia. Ia juga berjanji bahwa jika diizinkan terjun ke dunia politik, ia sanggup memimpin bangsa kita menuju kejayaan, konon mewarisi garis keturunan politisi terpandang. Apakah ia sosok yang kita butuhkan demi memulihkan impian Georgia Raya?",
+  "WW_hungary.124.a": "Beri pria ini jabatan, sekarang juga!",
+  "WW_hungary.124.b": "Apa pun yang ia katakan, kita tak boleh mempercayainya",
+  "wuw_HUN_news_events.1.t": "[HUN.GetNameDEFCAP] Mengumumkan Program Győri",
+  "wuw_HUN_news_events.1.d": "\nPemerintah [HUN.GetAdjective] di bawah [HUN.GetLeader] telah mengumumkan program industri skala besar yang baru, dengan tujuan mempersenjatai kembali bangsa secara efisien dan secepat mungkin. Pengamat luar negeri memandang ini sebagai tindakan agresi oleh [HUN.GetNameDef] terhadap tetangga-tetangganya, tetapi hanya waktu yang akan membuktikan apa niat mereka yang sebenarnya.",
+  "wuw_HUN_news_events.1.a": "Mereka sedang mempersiapkan sesuatu...",
+  "wuw_HUN_news_events.1.b": "Ini akan mengamankan masa depan kita!",
+  "wuw_HUN_news_events.2.t": "[HUN.GetNameDefCap] Bergabung dengan Blok [GER.GetAdjective]",
+  "wuw_HUN_news_events.2.d": "Setelah menandatangani pakta baru bantuan timbal balik serta pemajuan tujuan nasional masing-masing, hari ini [GER.GetLeader] dan [HUN.GetLeader] mengumumkan bergabungnya [HUN.GetNameDef] ke dalam faksi [GER.GetAdjective].",
+  "wuw_HUN_news_events.2.a": "Bagaimana dampaknya kelak?",
+  "wuw_HUN_news_events.2.b": "Demi masa depan yang lebih gemilang!",
+  "wuw_HUN_news_events.2.c": "Mereka akan menjadi pion yang berguna",
+  "wuw_HUN_news_events.3.t": "[HUN.GetNameDefCap] Membentuk Kembali Kekuatan Sentral",
+  "wuw_HUN_news_events.3.desc": "\nTanpa opsi aliansi yang layak di kawasan sekitarnya, [HUN.GetNameDef] memutuskan untuk kembali membentuk Blok Poros Sentral. Setelah melepaskan diri dari belenggu traktat-traktat yang dibebankan kepada mereka, negara ini mengambil haluan menuju remiliterisasi dengan kecepatan kilat. Apakah aliansi baru ini akan menandingi kedigdayaan pendahulunya di Perang Besar atau tidak, masih harus dibuktikan oleh sejarah.",
+  "wuw_HUN_news_events.3.a": "Sangat mengkhawatirkan",
+  "wuw_HUN_news_events.3.b": "Kita akan merebut kembali kejayaan masa lalu!",
+  "wuw_HUN_news_events.3.c": "Mereka melanjutkan warisan luhur kita",
+  "GER_Rejected_HUN_central_powers": "Jerman menolak masuknya kita ke Blok Poros Sentral",
+  "wuw_HUN_news_events.4.t": "[HUN.GetNameDefCap] Memproklamasikan Dominasi Global",
+  "wuw_HUN_news_events.4.desc": "[HUN.GetLeader] dari [HUN.GetNameDef] telah mengumumkan ambisi bangsanya untuk mendominasi jagat raya dan menegakkan hegemoni [HUN.GetAdjective] di seluruh benua. Mereka mengklaim bahwa ini adalah hak kesulungan rakyat Kerajaan Apostolik, dan mereka tidak akan pernah lagi bertekuk lutut di hadapan kekuatan asing.",
+  "wuw_HUN_news_events.4.a": "Mereka harus dihancurkan!",
+  "wuw_HUN_news_events.4.b": "Dunia kini berada dalam genggaman kita!",
+  "wuw_HUN_news_events.5.t": "[HUN.GetLeader] Mengemban Mahkota Hungaria",
+  "wuw_HUN_news_events.5.desc": "Mendambakan sosok Raja bagi bangsa mereka, bangsa [HUN.GetAdjective], seusai perundingan dan persiapan panjang, secara resmi menobatkan [HUN.GetLeader] awal pekan ini. Hari ini, di tengah riuh gegap gempita dan perayaan akbar, ia dinobatkan sebagai Raja Hungaria dalam sebuah upacara khidmat di Istana Kerajaan di Budapest.",
+  "wuw_HUN_news_events.5.a": "Seorang raja, akhirnya!",
+  "wuw_HUN_news_events.5.b": "Musuh baru telah bangkit",
+  "wuw_HUN_news_events.5.c": "Sebuah sekutu potensial?",
+  "wuw_HUN_news_events.6.t": "Joseph August Mengemban Mahkota Hungaria",
+  "wuw_HUN_news_events.6.desc": "Mendambakan seorang Raja bagi bangsa mereka, bangsa [HUN.GetAdjective], seusai perundingan dan persiapan yang panjang, secara resmi menobatkan Joseph August von Habsburg, Palatine terakhir Hungaria, Adipati Utama Austria dan Pangeran Hungaria dan Bohemia, serta Feldmarschall dari bekas tentara Austria-Hungaria, awal pekan ini. Hari ini, di tengah kemeriahan dan sukacita rakyat, ia dinobatkan sebagai Raja Hungaria dalam upacara khidmat di Istana Kerajaan di Budapest.\nSebagai seorang Vitéz dan bangsawan Habsburg, kecondongan ideologis sang Raja baru terpampang nyata, dan ia telah menegaskan bahwa dirinya 'akan membawa Hungaria menuju keagungan yang layak didapatkannya, tanpa melanggar traktat-traktat yang membubarkan Kekaisaran Austria-Hungaria'. Ditambah dengan janji sang Raja untuk 'memulihkan ketidakadilan yang ditimpakan kepada kita di masa lalu', kecil kemungkinan penobatan ini akan meredakan ketegangan di kawasan tersebut.",
+  "wuw_HUN_news_events.6.a": "Seorang raja, akhirnya!",
+  "wuw_HUN_news_events.6.b": "Musuh baru telah bangkit",
+  "wuw_HUN_news_events.6.c": "Sebuah sekutu potensial?",
+  "wuw_HUN_news_events.7.t": "Pemulihan Republik Soviet Hungaria",
+  "wuw_HUN_news_events.7.desc": "Hari ini, Ketua Dewan Eksekutif Pusat Hungaria, Béla Kun, mengumumkan pembentukan kembali Republik Soviet Federatif Dewan-Dewan di Hungaria, yang sebelumnya runtuh seketika pada Agustus 1919. Kendati di masa lalu sempat dihancurkan oleh gabungan kekuatan kontra-revolusioner dan Entente Kecil, Béla Kun menegaskan bahwa kali ini nasibnya akan berbeda. Apa yang menanti kawasan Balkan pada tahun-tahun mendatang?",
+  "wuw_HUN_news_events.7.a": "Kaum buruh sedunia, bersatulah!",
+  "wuw_HUN_news_events.7.b": "Apa gerangan yang sedang mereka rencanakan?",
+  "wuw_HUN_news_events.7.c": "Dasar kaum revisionis gadungan...",
+  "wuw_HUN_news_events.8.t": "Proklamasi Republik Rakyat Hungaria",
+  "wuw_HUN_news_events.8.desc": "Hari ini, Sekretaris Jenderal Hungaria, Mátyás Rákosi, telah memproklamasikan berdirinya Republik Rakyat Hungaria yang baru, seraya mengumumkan bahwa negara tersebut bertekad mempererat kerja sama dengan [SOV.GetNameDef]. Kendati ia menyatakan negaranya sebagai demokrasi terbuka, corak kediktatorannya sangat mustahil untuk dipungkiri. Bagaimanakah nasib masa depan rakyat Hungaria?",
+  "wuw_HUN_news_events.8.a": "Akhirnya tiba juga!",
+  "wuw_HUN_news_events.8.b": "Perdamaian memang tak pernah menjadi pilihan...",
+  "wuw_HUN_news_events.8.c": "Sebuah kejutan, namun sangat disambut baik",
+  "wuw_HUN_news_events.9.t": "[HUN.GetNameDefCap] Menduduki Burgenland",
+  "wuw_HUN_news_events.9.desc": "Awal pekan ini, pasukan [HUN.GetAdjective] memasuki Eisenstadt dan menduduki wilayah tersebut. Mereka mengklaim aksi ini demi melindungi rakyat [HUN.GetAdjective] di kawasan itu, yang baru saja turun ke jalan memprotes apa yang menurut mereka adalah pendudukan ilegal pasca-Trianon. Akankah peristiwa ini memicu perang baru di Balkan, ataukah hanya sekadar penyesuaian kecil garis perbatasan?",
+  "wuw_HUN_news_events.9.a": "Kembali ke tangan yang berhak",
+  "wuw_HUN_news_events.9.b": "Itu bukan milik mereka!",
+  "wuw_HUN_news_events.9.c": "Sebuah Perkembangan yang Menarik",
+  "ww_BEL_event_political.1.t": "Pemerintah Mengundurkan Diri dan Pemilu Dipercepat",
+  "ww_BEL_event_political.1.desc": "Tekanan pada pemerintah akibat skandal korupsi yang terus berlanjut akhirnya meruntuhkan kabinet. Tim penyelidik yang dipimpin Léon Degrelle, pemimpin gerakan fasis Rexis, telah menyelidiki penyuapan menteri selama beberapa tahun yang mengungkap banyak aliran dana gelap. \n\nDalam upaya meraih kembali legitimasi, Perdana Menteri Paul van Zeeland yang terpojok menyerukan pemilu sela untuk mengembalikan kredibilitas dan keabsahan, dan hasilnya kini telah keluar. \n\nParti Ouvrier Belge (Partai Buruh Belgia) yang dipimpin Emile Vandervelde tampil terbaik, memanfaatkan ketidakpopuleran rival politiknya. Ia dapat memanfaatkan kemenangan ini untuk membentuk Pemerintahan Minoritas, atau bekerja sama dengan partai Katolik Paul van Zeeland untuk menggalang mayoritas yang lebih stabil dan membentuk Pemerintahan Persatuan Nasional. \n\nPerlu dicatat pula bahwa partai Rexis pimpinan Léon Degrelle juga berkinerja sangat gemilang, dengan sikap antikorupsi mereka yang terbukti sangat populer.",
+  "ww_BEL_event_political.1.a": "Bentuk Pemerintahan Persatuan Nasional",
+  "ww_BEL_event_political.1.b": "Vandervelde membentuk Pemerintahan Minoritas",
+  "BEL_paul_van_zeeland_remains_tt": "§YPaul van Zeeland§! tetap menjabat sebagai Perdana Menteri, memimpin koalisi luas partai-partai §YDemokratis§!.",
+  "ww_BEL_event_political.2.t": "Skandal Korupsi Paul van Zeeland",
+  "ww_BEL_event_political.2.desc": "Skandal korupsi yang menghantui partai Katolik Paul van Zeeland hari ini semakin memburuk tatkala sang Perdana Menteri sendiri didapati menerima \"dana sumbangan\"! Tampaknya tinggal menunggu waktu saja sebelum pemerintahannya runtuh kembali...",
+  "ww_BEL_event_political.2.a": "Apakah tidak ada akhir bagi korupsi ini?!",
+  "ww_BEL_event_political.3.t": "Penunjukan Kerajaan",
+  "ww_BEL_event_political.3.desc": "Paul van Zeeland akhirnya mengundurkan diri sebagai Perdana Menteri, meninggalkan jabatannya dengan penuh aib. Kali ini Leopold III, sang Raja sendiri, telah menyatakan akan turun tangan dan menunjuk seorang Perdana Menteri baru. Ada dua kandidat terkemuka: \n\nPaul-Émile Janson, anggota Partai Liberal dan tokoh Pemerintahan Persatuan Nasional yang dipandang sebagai sosok bertangan dingin. Sosok lainnya adalah Léon Degrelle, yang dielu-elukan sebagai suara hukum dan ketertiban, serta baru saja terdongkrak oleh keberhasilan partainya dalam pemilu.",
+  "ww_BEL_event_political.3.a": "Tunjuk sosok yang stabil, tokoh Liberal Paul-Émile Janson",
+  "ww_BEL_event_political.3.b": "Pilih tokoh Rexis Léon Degrelle, demi memulihkan hukum dan ketertiban",
+  "ww_BEL_event_political.4.t": "Krisis Anggaran",
+  "ww_BEL_event_political.4.desc": "Terlepas dari tanda-tanda awal pemulihan ekonomi kita, kita sekali lagi dihadapkan pada krisis keuangan. Perdana Menteri [BEL.GetLeader] telah gagal meloloskan rancangan anggaran [BEL.GetHerHis] melalui parlemen, tidak mampu mencapai konsensus luas tentang reformasi pajak yang amat dibutuhkan demi membendung memburuknya keuangan negara, yang sekali lagi berujung pada keruntuhan pemerintah. \n\nHal ini berujung pada penyerahan kekuasaan secara cepat kepada Paul-Henri Spaak, bintang yang tengah bersinar dari Partai Buruh dan Perdana Menteri Sosialis pertama di Belgia.",
+  "ww_BEL_event_political.4.a": "Semoga Perdana Menteri Spaak bertahan lebih lama!",
+  "ww_BEL_event_political.5.t": "Krisis Adriaan Martens",
+  "ww_BEL_event_political.5.desc": "Apa yang berawal dari penunjukan pejabat biasa berubah menjadi krisis politik baru bagi pemerintah kita. Perdana Menteri perlu menunjuk anggota baru untuk Akademi Kedokteran Kerajaan, dan ia mengajukan Adriaan Martens untuk dipertimbangkan. Ini ternyata menjadi pilihan kontroversial akibat nasionalisme Flandria Martens dan catatan kolaborasinya dengan penjajah Jerman semasa Perang Besar. Pilihan ini ditentang keras oleh kalangan veteran, liberal, warga Belgia berbahasa Prancis, bahkan sang Raja sendiri telah mengisyaratkan ketidaksenangannya. \n\n[BEL.GetLeader] telah berupaya membela pilihan tersebut, namun berada di bawah tekanan yang kian besar. Para lawannya telah menyerukan pemilu sela untuk memilih pemimpin baru, kendati Spaak berpotensi memiliki modal politik untuk berjuang mempertahankan posisinya.",
+  "ww_BEL_event_political.5.a": "Perdana Menteri harus mundur dan menggelar pemilu sela",
+  "ww_BEL_event_political.5.b": "Spaak memiliki dukungan politik untuk bertahan melalui krisis ini",
+  "ww_BEL_event_political.6.t": "Persoalan Flandria",
+  "ww_BEL_event_political.6.desc": "Sejak awal berdirinya, Belgia adalah negara yang terbelah di antara dua kelompok bahasa: Walloon yang berbicara bahasa Prancis, dan Flandria yang berbicara bahasa Belanda. Hal ini menimbulkan serangkaian persoalan di dalam bangsa kita, mulai dari kesalahpahaman biasa antarsahabat, perintah militer yang keliru dijalankan, hingga ketidakadilan hukum akibat terdakwa tidak menuturkan bahasa yang sama dengan pengadilan yang mengadilinya.\n\nSudah saatnya mengesampingkan perpecahan ini untuk selamanya, dan memutuskan bagaimana cara terbaik mempersatukan bangsa kita di bawah satu model bahasa bersama.",
+  "ww_BEL_event_political.6.a": "Bahasa Belanda harus diprioritaskan.",
+  "ww_BEL_event_political.6.b": "Bahasa Prancis harus diprioritaskan.",
+  "ww_BEL_event_political.6.c": "Belgia didefinisikan oleh kedua kebudayaan secara setara.",
+  "ww_BEL_event_political.7.t": "Pemilu Sela",
+  "ww_BEL_event_political.7.desc": "Dengan tertanganinya Krisis Konstitusional untuk saat ini, sudah saatnya memastikan pemerintah kembali memiliki legitimasinya, jika tidak, mereka tak ada bedanya dengan pihak yang baru saja digulingkannya. Saat ini Paul-Henri Spaak dari kaum Sosialis dan Hubert Pierlot dari Partai Katolik adalah kandidat terdepan dalam kemungkinan digelarnya pemilu sela.",
+  "ww_BEL_event_political.7.a": "Hubert Pierlot dan Partai Katolik akan tetap teguh melawan mereka yang mengancam kita.",
+  "ww_BEL_event_political.7.b": "Paul-Henri Spaak dan Partai Buruh akan memimpin kita menuju masa depan sosialis baru.",
+  "ww_BEL_event_political.8.t": "Bahasa Rakyat",
+  "ww_BEL_event_political.8.desc": "Rakyat kita telah lama terpecah oleh bahasa. Kaum Walloon berbicara bahasa Prancis, dan kaum Flandria berbicara bahasa Belanda yang menorehkan jurang pemisah di antara kelompok-kelompok tersebut serta menghalangi perkembangan [ROOT.GetName] yang lebih bersatu. Kita harus mengambil keputusan mengenai apa bahasa resmi kita, jika tidak, kesalahpahaman antarsahabat, perintah militer yang salah dieksekusi, dan kegagalan peradilan tidak akan pernah berhenti menjadi bagian dari kehidupan sehari-hari rakyat [ROOT.GetAdjective].",
+  "ww_BEL_event_political.8.a": "Bahasa Belanda adalah bahasa kita",
+  "ww_BEL_event_political.8.b": "Bahasa Prancis adalah bahasa kita",
+  "ww_BEL_event_political.8.c": "Bahasa-bahasa kita setara dan kita akan mempertahankan keduanya!",
+  "ww_BEL_event_diplomatic.1.t": "[FROM.GetNameDefCap] Menolak Jaminan Kita",
+  "ww_BEL_event_diplomatic.1.desc": "[FROM.GetLeader] telah memberitahu kita bahwa traktat pertahanan timbal balik antara negara kita batal demi hukum karena mereka mengupayakan pendekatan netral di masa-masa sulit ini. Namun, hal itu terbukti tidak banyak membantu mereka semasa Perang Besar....",
+  "ww_BEL_event_diplomatic.1.a": "Biarkan mereka melangkah sendiri",
+  "ww_BEL_event_diplomatic.2.t": "[FROM.GetNameDefCap] Menuntut Aneksasi Kita",
+  "ww_BEL_event_diplomatic.2.desc": "[FROM.GetLeader] telah menyerukan ikatan masa lalu serta kesamaan warisan budaya dan bahasa kita dalam upaya mengamankan aneksasi negara kita ke dalam bangsa mereka.",
+  "ww_BEL_event_diplomatic.2.a": "Kita lebih kuat bila bersatu.",
+  "ww_BEL_event_diplomatic.2.b": "Luksemburg adalah bangsa yang bangga dan berdaulat!",
+  "ww_BEL_event_diplomatic.3.t": "[FROM.GetNameDefCap] Tunduk",
+  "ww_BEL_event_diplomatic.3.desc": "Kita telah menerima kabar luar biasa! Rakyat [FROM.GetNameDefCap] dengan bijak telah menetapkan bahwa kita lebih perkasa bila bersatu, dan berbagai pengaturan telah dilakukan demi menata roda administrasi baru wilayah ini.",
+  "ww_BEL_event_diplomatic.3.a": "Bagus sekali",
+  "ww_BEL_event_diplomatic.4.t": "[FROM.GetNameDefCap] Melawan!",
+  "ww_BEL_event_diplomatic.4.desc": "Sayang sekali, tampaknya rakyat [FROM.GetNameDefCap] memiliki rasa percaya diri yang berlebihan atas kedaulatan mereka, dan memilih menolak tawaran tulus penyatuan kita. Kita perlu menunjukkan kepada mereka keperkasaan bangsa kita, dan memasukkan mereka ke dalam persatuan kita melalui jalan kekerasan.",
+  "ww_BEL_event_diplomatic.4.a": "Mereka mengambil pilihan yang keliru",
+  "ww_BEL_event_diplomatic.5.t": "Bagaimana Kita Seharusnya Merebut Calais?",
+  "ww_BEL_event_diplomatic.5.desc": "Kita telah memutuskan untuk menuntut Calais dari Prancis, namun kita masih harus memilih bagaimana cara mendapatkannya. Tentu saja tentara kita yang perkasa dapat merebut tanah ini tanpa kesulitan, namun kita harus memperhitungkan kemungkinan terjadinya kerusakan sampingan, sehingga menempuh jalan alternatif mungkin merupakan pilihan yang bijak. Cara penyatuannya tidaklah penting bagi kita, asalkan apa yang menjadi hak kita kembali ke pangkuan!",
+  "ww_BEL_event_diplomatic.5.a": "Ancam perang demi merebutnya.",
+  "ww_BEL_event_diplomatic.5.b": "Kongo demi Calais.",
+  "ww_BEL_event_diplomatic.5.c": "Berikan kompensasi finansial.",
+  "ww_BEL_event_diplomatic.5.d": "Tawarkan aliansi sebagai imbalannya.",
+  "ww_BEL_event_diplomatic.6.t": "Belgia Menuntut Calais",
+  "ww_BEL_event_diplomatic.6.desc": "Kita baru saja menerima tuntutan lancang dari [BEL.GetName] untuk menyerahkan Calais kepada mereka! Mereka mengklaim bahwa tanah ini secara sah merupakan bagian dari Belgia berlandaskan Kadipaten Bourgogne historis, yang mereka klaim sebagai akar warisan mereka. Para duta besar mereka sangat gamblang dalam melontarkan ancaman perang jika kita tidak menyetujui tuntutan mereka, namun mengetahui kekuatan militer mereka, ini kemungkinan besar hanyalah gertakan belaka.",
+  "ww_BEL_event_diplomatic.6.a": "Sacre Bleu! Tidak akan!",
+  "ww_BEL_event_diplomatic.6.b": "Kita tidak mampu menambah musuh baru saat ini.",
+  "ww_BEL_event_diplomatic.7.t": "Belgia Berkehendak Menukar Calais",
+  "ww_BEL_event_diplomatic.7.desc": "Kita baru saja menerima tawaran menarik dari delegasi [BEL.GetAdjective]. Mereka mengusulkan pertukaran wilayah, Calais untuk sebagian besar Kongo. Kita akan memperoleh negara bagian Coquilhatville dan Stanleyville yang berbatasan langsung dengan kepemilikan wilayah kita saat ini di kawasan tersebut. Tersirat sejumlah ancaman dari diplomat mereka bilamana kita menolak tawaran ini, dan ini akan menjadi perluasan signifikan bagi tanah Afrika kita, tetapi apakah sepadan dengan biayanya?",
+  "ww_BEL_event_diplomatic.7.a": "Tidak, Calais jauh lebih berharga bagi kita.",
+  "ww_BEL_event_diplomatic.7.b": "Baiklah, ini adalah pertukaran yang adil.",
+  "ww_BEL_event_diplomatic.8.t": "Belgia Berkehendak Membeli Calais",
+  "ww_BEL_event_diplomatic.8.desc": "Kita baru saja menerima tawaran menarik dari delegasi [BEL.GetAdjective]. Mereka menyatakan minat untuk membeli Calais dari kita dalam upaya \"menyatukan kembali wilayah historis mereka\". Jumlah yang mereka usulkan cukup tinggi, dan tentu saja akan membantu memperbaiki perekonomian kita sendiri, persoalannya adalah apakah pelepasan tanah ini sepadan dengan harga tersebut. Perlu dicatat pula bahwa para diplomat mereka mengisyaratkan peningkatan ketegangan jika kita menampik tawaran mereka.",
+  "ww_BEL_event_diplomatic.8.a": "Tidak, Calais jauh lebih berharga bagi kita.",
+  "ww_BEL_event_diplomatic.8.b": "Itu tampaknya harga yang adil!",
+  "ww_BEL_event_diplomatic.9.t": "Coquilhatville dan Stanleyville Dijual ke Prancis!",
+  "ww_BEL_event_diplomatic.9.desc": "Gubernur Kolonial kita baru saja diberitahu bahwa [BEL.GetName] telah mencapai kesepakatan dengan [FRA.GetName] untuk menukar Calais dengan beberapa negara bagian kita, yaitu Coquilhatville dan Stanleyville. Sekali lagi para penguasa Eropa merombak perbatasan Afrika tanpa meminta masukan sedikit pun dari kita yang benar-benar hidup di sini!",
+  "ww_BEL_event_diplomatic.9.a": "Kita harus memperbarui peta kita... Lagi.",
+  "ww_BEL_event_diplomatic.10.t": "Prancis Menerima!",
+  "ww_BEL_event_diplomatic.10.desc": "Kita telah menerima kabar dari delegasi kita di Paris bahwa [FRA.GetName] telah memilih untuk menerima tawaran kita, dan prosesnya sudah berjalan untuk mengalihkan administrasi Calais serta wilayah sekitarnya kepada kita!",
+  "ww_BEL_event_diplomatic.10.a": "Wilayah sah kita telah dipulihkan!",
+  "ww_BEL_event_diplomatic.11.t": "Meningkatnya Ketegangan atas Calais",
+  "ww_BEL_event_diplomatic.11.desc": "Delegasi kita di Paris telah mengirimkan kabar bahwa negosiasi untuk Calais telah gagal, dan kita mungkin harus menggunakan kekuatan senjata demi mengamankan tanah yang secara sah milik kita ini. Kita telah mencoba bersikap wajar dalam tawaran kita, namun mereka menolak kita di setiap langkah. Sudah saatnya menunjukkan kepada mereka kekuatan sejati dari kedigdayaan militer [BEL.GetAdjective].",
+  "ww_BEL_event_diplomatic.11.a": "Mundur dari tepi jurang kehancuran.",
+  "ww_BEL_event_diplomatic.11.b": "Maka mereka telah memilih perang!",
+  "ww_BEL_event_diplomatic.12.t": "[FROM.GetNameDefCap] Meminta Bantuan Kita",
+  "ww_BEL_event_diplomatic.12.desc": "Sebuah komunikasi dari pimpinan [FROM.GetAdjective] baru saja sampai ke hadapan kita. Seiring dunia yang kian memusuhi mereka, mereka menyimpan kekhawatiran tentang kemampuan sendiri dalam menjaga keutuhan negerinya. Bantuan kita akan sangat dihargai, dan akan menjadi bagian penting demi menjaga perdamaian di kawasan.",
+  "ww_BEL_event_diplomatic.12.a": "Mereka akan mendapatkan bantuan kita!",
+  "ww_BEL_event_diplomatic.12.b": "Kita tidak sanggup membantu mereka",
+  "ww_BEL_event_diplomatic.13.t": "[FROM.GetNameDefCap] Menjamin Kemerdekaan Kita",
+  "ww_BEL_event_diplomatic.13.desc": "Kepemimpinan [FROM.GetAdjective] telah menanggapi permintaan bantuan kita. Mereka telah sepakat untuk menjamin kemerdekaan kita, dan menjanjikan bala bantuan militer bilamana negara kita diserang oleh kekuatan agresor asing!",
+  "ww_BEL_event_diplomatic.13.a": "Sangat melegakan!",
+  "ww_BEL_event_diplomatic.14.t": "[FROM.GetNameDefCap] Menolak Membantu Kita",
+  "ww_BEL_event_diplomatic.14.desc": "Pimpinan [FROM.GetAdjective] telah membalas permintaan bantuan kita. Mereka menolak memberikan bantuan apa pun kepada kita, seraya menyatakan tidak memiliki kapasitas maupun kehendak untuk campur tangan dalam urusan kita.",
+  "ww_BEL_event_diplomatic.14.a": "Betapa kasarnya mereka!",
+  "ww_BEL_event_diplomatic.15.t": "[FROM.GetNameDefCap] Meminta Peralatan",
+  "ww_BEL_event_diplomatic.15.desc": "Sebuah permohonan dari pimpinan [FROM.GetAdjective] yang diasingkan baru saja sampai kepada kita. Mereka memohon sejumlah peralatan militer dari kita guna melatih sisa-sisa pasukan mereka, dengan harapan suatu saat mampu merebut kembali tanah air mereka.",
+  "ww_BEL_event_diplomatic.15.a": "Kita akan mengirimkan $infantry_equipment$ kepada mereka!",
+  "ww_BEL_event_diplomatic.15.c": "Kita akan mengirimkan $support_equipment$ kepada mereka!",
+  "ww_BEL_event_diplomatic.15.b": "Ambisi mereka mulia, tetapi kita tidak bisa menolong",
+  "ww_BEL_event_diplomatic.16.t": "[FROM.GetNameDefCap] Meminta Fasilitas Pabrik",
+  "ww_BEL_event_diplomatic.16.desc": "Kita telah menerima permohonan dari kepemimpinan [FROM.GetAdjective] untuk menggunakan pabrik-pabrik kita guna memproduksi peralatan bagi pasukan mereka yang tersisa. Mereka berhasrat merebut kembali tanah air mereka dan untuk itu, tentara mereka membutuhkan perlengkapan perang.",
+  "ww_BEL_event_diplomatic.16.a": "Tentu saja kita akan menolong",
+  "ww_BEL_event_diplomatic.16.b": "Kita tidak memiliki kapasitas untuk membantu",
+  "ww_BEL_event_diplomatic.17.t": "[FROM.GetNameDefCap] Mengajukan Pertukaran Pengalaman Militer",
+  "ww_BEL_event_diplomatic.17.desc": "Pemerintahan pengasingan [FROM.GetNameDef] telah menghubungi kita untuk mengajukan prakarsa bersama demi berbagi pengalaman militer di antara angkatan darat kita. Hal ini dapat memberikan manfaat yang sama besarnya bagi kita maupun mereka.",
+  "ww_BEL_event_diplomatic.17.a": "Gagasan yang sangat hebat!",
+  "ww_BEL_event_diplomatic.17.b": "Tidak sebanding dengan waktu yang terbuang",
+  "ww_BEL_event_diplomatic.18.t": "[FROM.GetNameDefCap] Setuju",
+  "ww_BEL_event_diplomatic.18.desc": "Usulan upaya kita demi memperkuat posisi serta membangun kembali pasukan guna merebut tanah air telah disambut dengan persetujuan dari [FROM.GetNameDef]. Kendati langkah ini tidak dapat secara mandiri menuntaskan masalah kita, ini akan menjadi batu loncatan berharga bagi kita untuk akhirnya merebut kembali kemerdekaan.",
+  "ww_BEL_event_diplomatic.18.a": "Kabar luar biasa!",
+  "ww_BEL_event_diplomatic.19.t": "[FROM.GetNameDefCap] Menolak",
+  "ww_BEL_event_diplomatic.19.desc": "Usulan upaya kita demi memperkuat kedudukan dan membangun kembali angkatan perang untuk merebut kembali tanah air telah ditolak mentah-mentah oleh [FROM.GetNameDef]. Kita tadinya berharap ini akan menjadi batu loncatan bagi masa depan, namun tampaknya rencana itu kini telah musnah.",
+  "ww_BEL_event_diplomatic.19.a": "Sangat disayangkan",
+  "ww_BEL_event_diplomatic.20.t": "[FROM.GetNameDefCap] Mengundang Kita ke Proyek Kerja Sama Eropa",
+  "ww_BEL_event_diplomatic.20.desc": "Kita telah menerima undangan resmi dari [FROM.GetNameDef] untuk bergabung ke dalam [FROM.GetFactionName]. Ini adalah inisiatif baru mereka untuk mendorong kerja sama di kawasan, dengan harapan prakarsa ini akan menstabilkan wilayah serta membina hubungan diplomatik yang lebih baik.",
+  "ww_BEL_event_diplomatic.20.a": "Sebuah inisiatif yang luar biasa!",
+  "ww_BEL_event_diplomatic.20.b": "Ini terdengar mencurigakan...",
+  "ww_BEL_event_diplomatic.21.t": "[FROM.GetNameDefCap] Bergabung dengan [ROOT.GetFactionName]",
+  "ww_BEL_event_diplomatic.21.desc": "Undangan kita kepada [FROM.GetNameDef] telah disambut dengan persetujuan hangat. Mereka sepakat bahwa komunitas Eropa yang lebih luas adalah jalan yang tepat. Melalui kerja sama erat, kita akan mampu menstabilkan kembali kawasan ini.",
+  "ww_BEL_event_diplomatic.21.a": "Kabar Luar Biasa!",
+  "ww_BEL_event_diplomatic.22.t": "[FROM.GetNameDefCap] Menolak Undangan Kita ke [ROOT.GetFactionName]",
+  "ww_BEL_event_diplomatic.22.desc": "Para diplomat [FROM.GetAdjective] telah kembali dengan jawaban mengecewakan. Mereka berdalih bahwa kendati gagasannya tampak mulia, prakarsa ini niscaya akan gagal, tak ubahnya inisiatif serupa sebelum kita.",
+  "ww_BEL_event_diplomatic.22.a": "Sungguh sangat disayangkan...",
+  "ww_BEL_event_diplomatic.23.t": "[FROM.GetNameDefCap] Mengajak Kita ke Upaya Riset Mereka",
+  "ww_BEL_event_diplomatic.23.desc": "Sebuah delegasi [FROM.GetAdjective] telah mendekati kita guna mengusulkan kerja sama riset di seluruh penjuru [FROM.GetFactionName]. Sebagai sekutu dekat, kita perlu saling berbagi teknologi demi memajukan seluruh anggota Uni.",
+  "ww_BEL_event_diplomatic.23.a": "Tentu, kita akan bergabung",
+  "ww_BEL_event_diplomatic.23.b": "Teknologi kita akan tetap menjadi milik kita sendiri",
+  "ww_BEL_event_diplomatic.24.t": "[FROM.GetNameDefCap] Bergabung dengan Kelompok Riset Uni Eropa",
+  "ww_BEL_event_diplomatic.24.desc": "Prakarsa kita untuk membuka wadah pertukaran teknologi antarsekutu telah disambut dengan persetujuan dari [FROM.GetNameDef]. Mereka telah bergabung dalam upaya ini dan akan membagikan kemajuan teknologi mereka kepada kita dan sekutu bersama kita, sebagaimana kita akan membagikan teknologi kita kepada mereka.",
+  "ww_BEL_event_diplomatic.24.a": "Luar biasa!",
+  "ww_BEL_event_diplomatic.25.t": "[FROM.GetNameDefCap] Menolak Bergabung dengan Kelompok Riset Uni Eropa",
+  "ww_BEL_event_diplomatic.25.desc": "Kendati kita merasa telah menyajikan argumen yang sangat meyakinkan perihal Kelompok Riset Uni Eropa kepada [FROM.GetNameDef], mereka tetap menolak bergabung dalam inisiatif ini. Kita berharap tetap dapat memetik manfaat dari inisiatif ini, kendati harus berjalan tanpa [FROM.GetNameDef].",
+  "ww_BEL_event_diplomatic.25.a": "Ya sudah...",
+  "ww_BEL_event_diplomatic.26.t": "[FROM.GetNameDefCap] Meminta Federalisasi Terbatas",
+  "ww_BEL_event_diplomatic.26.desc": "Kita telah menerima permohonan dari [FROM.GetNameDef]. Selaku pemimpin [ROOT.GetFactionName], mereka sampai pada kesimpulan bahwa Eropa yang lebih federal akan memperkokoh pertahanan serta perdagangan blok ini, dan memohon agar kita turut bergabung dalam ikhtiar ini.",
+  "ww_BEL_event_diplomatic.26.a": "Demi kemaslahatan [FROM.GetFactionName]",
+  "ww_BEL_event_diplomatic.26.b": "Tidak, kita harus memikirkan kedaulatan kita!",
+  "ww_BEL_event_diplomatic.26.b_tt": "§RMereka mungkin akan menendang kita dari faksi!§!"
+}
+
+def validate_and_save():
+    with open('scripts/chunks/chunk_5.json', 'r', encoding='utf-8') as f:
+        c5_source = json.load(f)
+        
+    print(f"Source count: {len(c5_source)}")
+    print(f"Trans count: {len(c5_trans)}")
+    assert len(c5_source) == len(c5_trans), f"Count mismatch: {len(c5_source)} vs {len(c5_trans)}"
+    
+    tag_errors = 0
+    ordered = {}
+    for item in c5_source:
+        k = item['key']
+        en_val = item['en']
+        assert k in c5_trans, f"Missing key: {k}"
+        id_val = c5_trans[k]
+        
+        # Check brackets
+        en_b = set(re.findall(r'\[.*?\]', en_val))
+        id_b = set(re.findall(r'\[.*?\]', id_val))
+        if en_b != id_b:
+            print(f"Bracket error in {k}:")
+            print(f"  EN: {en_b}")
+            print(f"  ID: {id_b}")
+            tag_errors += 1
+            
+        # Check dollars
+        en_d = set(re.findall(r'\$[A-Za-z0-9_]+\$', en_val))
+        id_d = set(re.findall(r'\$[A-Za-z0-9_]+\$', id_val))
+        if en_d != id_d:
+            print(f"Dollar error in {k}:")
+            print(f"  EN: {en_d}")
+            print(f"  ID: {id_d}")
+            tag_errors += 1
+            
+        # Check section colors
+        en_s = set(re.findall(r'§[A-Za-z!]', en_val))
+        id_s = set(re.findall(r'§[A-Za-z!]', id_val))
+        if en_s != id_s:
+            print(f"Section color error in {k}:")
+            print(f"  EN: {en_s}")
+            print(f"  ID: {id_s}")
+            tag_errors += 1
+            
+        ordered[k] = id_val
+        
+    if tag_errors > 0:
+        raise ValueError(f"{tag_errors} tag errors found!")
+        
+    out_path = 'scripts/chunks/trans_chunk_5.json'
+    with open(out_path, 'w', encoding='utf-8') as f:
+        json.dump(ordered, f, ensure_ascii=False, indent=2)
+        
+    print(f"SUCCESS: Saved {out_path} with {len(ordered)} items.")
+
+if __name__ == '__main__':
+    validate_and_save()

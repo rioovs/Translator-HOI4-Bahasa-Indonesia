@@ -1,0 +1,2078 @@
+[
+  {
+    "key": "operation_boost_resistance",
+    "ver": "",
+    "val": "Perkuat Perlawanan",
+    "comm": ""
+  },
+  {
+    "key": "operation_boost_resistance_desc",
+    "ver": "",
+    "val": "§LPartisan di wilayah pendudukan musuh sangat membutuhkan dukungan untuk melanjutkan perjuangan mereka. Melalui suplai senjata, amunisi, dan koordinasi yang baik, kita dapat membantu mereka mengobarkan api perlawanan terhadap penjajah.§!",
+    "comm": ""
+  },
+  {
+    "key": "operation_capture_cipher",
+    "ver": "",
+    "val": "Rampas Buku Sandi",
+    "comm": ""
+  },
+  {
+    "key": "operation_capture_cipher_desc",
+    "ver": "",
+    "val": "§LMerampas buku sandi musuh, atau memperolehnya melalui cara lain, akan memberi kita keuntungan masif dalam memecahkan kode komunikasi mereka.§!",
+    "comm": ""
+  },
+  {
+    "key": "infiltration_paradrop",
+    "ver": "",
+    "val": "Infiltrasi via Terjun Payung",
+    "comm": ""
+  },
+  {
+    "key": "infiltration_paradrop_desc",
+    "ver": "",
+    "val": "Agen akan diterjunkan ke area target menggunakan parasut. Terbang rendah pada malam hari akan memungkinkan pesawat menyusup ke wilayah musuh tanpa terdeteksi radar dan menurunkan tim dengan aman.",
+    "comm": ""
+  },
+  {
+    "key": "infiltration_submarine",
+    "ver": "",
+    "val": "Penyusupan via Kapal Selam",
+    "comm": ""
+  },
+  {
+    "key": "infiltration_submarine_desc",
+    "ver": "",
+    "val": "Agen akan diantar mendekati garis pantai musuh oleh salah satu kapal selam kita. Kita akan mendaratkan mereka menggunakan perahu karet di bawah naungan kegelapan malam.",
+    "comm": ""
+  },
+  {
+    "key": "infiltration_border",
+    "ver": "",
+    "val": "Infiltrasi Lintas Batas Netral",
+    "comm": ""
+  },
+  {
+    "key": "infiltration_border_desc",
+    "ver": "",
+    "val": "Agen akan menyusup melintasi perbatasan negara netral. Penjaga perbatasan di area tersebut dapat disuap atau dihindari jika tim kita bergerak hati-hati dan mengandalkan jalur tikus tersembunyi.",
+    "comm": ""
+  },
+  {
+    "key": "infiltration_diplomatic",
+    "ver": "",
+    "val": "Paspor Diplomatik",
+    "comm": ""
+  },
+  {
+    "key": "infiltration_diplomatic_desc",
+    "ver": "",
+    "val": "Agen akan memanfaatkan paspor diplomatik resmi untuk memasuki negara tersebut dan bergerak bebas tanpa menimbulkan kecurigaan dari aparat keamanan setempat.",
+    "comm": ""
+  },
+  {
+    "key": "resistance_support_arms_depots",
+    "ver": "",
+    "val": "Bangun Gudang Logistik Rahasia",
+    "comm": ""
+  },
+  {
+    "key": "resistance_support_arms_depots_desc",
+    "ver": "",
+    "val": "Agen kita akan mendirikan sejumlah tempat persembunyian rahasia untuk bahan peledak dan amunisi guna membekali partisan dalam aksi sabotase berikutnya.",
+    "comm": ""
+  },
+  {
+    "key": "resistance_support_distribute_weapons",
+    "ver": "",
+    "val": "Distribusikan Senjata",
+    "comm": ""
+  },
+  {
+    "key": "resistance_support_distribute_weapons_desc",
+    "ver": "",
+    "val": "Agen kita akan mengorganisir dan mengoordinasikan penerjunan senjata secara berkala. Senjata-senjata ini akan segera disalurkan ke sel-sel perlawanan lokal.",
+    "comm": ""
+  },
+  {
+    "key": "resistance_support_organize_training",
+    "ver": "",
+    "val": "Bentuk Kamp Pelatihan",
+    "comm": ""
+  },
+  {
+    "key": "resistance_support_organize_training_desc",
+    "ver": "",
+    "val": "Agen kita akan mengadakan pelatihan teknik meloloskan diri, penyamaran, serta taktik perang gerilya dasar bagi para anggota milisi perlawanan.",
+    "comm": ""
+  },
+  {
+    "key": "resistance_support_coordinate_groups",
+    "ver": "",
+    "val": "Koordinasikan Kelompok Perlawanan",
+    "comm": ""
+  },
+  {
+    "key": "resistance_support_coordinate_groups_desc",
+    "ver": "",
+    "val": "Agen kita akan berkeliling untuk menyatukan berbagai faksi perlawanan yang terpecah belah, sehingga aksi sabotase mereka dapat diarahkan secara serentak demi hasil maksimal.",
+    "comm": ""
+  },
+  {
+    "key": "exfiltration_air_pickup",
+    "ver": "",
+    "val": "Penjemputan Pesawat Terbang",
+    "comm": ""
+  },
+  {
+    "key": "exfiltration_air_pickup_desc",
+    "ver": "",
+    "val": "Sebuah pesawat ringan jenis penghubung (liaison) akan mendarat singkat di lapangan darurat terpencil untuk menjemput agen dan membawanya pulang.",
+    "comm": ""
+  },
+  {
+    "key": "exfiltration_submarine_pickup",
+    "ver": "",
+    "val": "Evakuasi Kapal Selam",
+    "comm": ""
+  },
+  {
+    "key": "exfiltration_submarine_pickup_desc",
+    "ver": "",
+    "val": "Sebuah kapal selam akan menunggu di titik koordinat pantai yang disepakati untuk menjemput tim kita menggunakan sekoci karet.",
+    "comm": ""
+  },
+  {
+    "key": "exfiltration_border",
+    "ver": "",
+    "val": "Pelarian Melintasi Perbatasan",
+    "comm": ""
+  },
+  {
+    "key": "exfiltration_border_desc",
+    "ver": "",
+    "val": "Tim akan dipandu menyeberangi perbatasan menuju negara netral oleh penyelundup lokal tepercaya.",
+    "comm": ""
+  },
+  {
+    "key": "exfiltration_go_to_ground",
+    "ver": "",
+    "val": "Tiarap & Membaur",
+    "comm": ""
+  },
+  {
+    "key": "exfiltration_go_to_ground_desc",
+    "ver": "",
+    "val": "Tim agen akan membubarkan diri dan membaur di tengah masyarakat sipil lokal hingga operasi perburuan musuh mereda.",
+    "comm": ""
+  },
+  {
+    "key": "operation_make_resistance_contacts",
+    "ver": "",
+    "val": "Jalin Kontak Perlawanan",
+    "comm": ""
+  },
+  {
+    "key": "operation_make_resistance_contacts_desc",
+    "ver": "",
+    "val": "§LDukungan apa pun yang kita berikan kepada partisan di balik garis musuh akan jauh lebih efektif jika kita memiliki saluran untuk berkomunikasi dan berkoordinasi secara langsung dengan mereka.§!",
+    "comm": ""
+  },
+  {
+    "key": "capture_cyphers_bribe",
+    "ver": "",
+    "val": "Suap Personel Militer",
+    "comm": ""
+  },
+  {
+    "key": "capture_cyphers_bribe_desc",
+    "ver": "",
+    "val": "Agen kita akan mendekati seorang operator radio atau juru sandi musuh yang terlilit hutang dan menawarkan sejumlah uang demi salinan tabel kode.",
+    "comm": ""
+  },
+  {
+    "key": "capture_cyphers_raid",
+    "ver": "",
+    "val": "Gerebek Stasiun Radio",
+    "comm": ""
+  },
+  {
+    "key": "capture_cyphers_raid_desc",
+    "ver": "",
+    "val": "Didukung unit komando bersenjata, tim kita akan melancarkan serbuan kilat ke pos transmisi terpencil musuh untuk menyita buku sandi sebelum sempat dibakar.",
+    "comm": ""
+  },
+  {
+    "key": "capture_cyphers_seduction",
+    "ver": "",
+    "val": "Gunakan Rayuan Intim",
+    "comm": ""
+  },
+  {
+    "key": "capture_cyphers_seduction_desc",
+    "ver": "",
+    "val": "Agen kita akan menjalin asmara dengan seorang petugas administrasi sandi musuh guna membujuknya membocorkan lembar kode harian.",
+    "comm": ""
+  },
+  {
+    "key": "capture_cyphers_reverse_engineer",
+    "ver": "",
+    "val": "Rekayasa Balik Komponen",
+    "comm": ""
+  },
+  {
+    "key": "capture_cyphers_reverse_engineer_desc",
+    "ver": "",
+    "val": "Tim teknis kita akan mengumpulkan puing-puing perangkat transmisi musuh yang rusak dan merekonstruksi roda rotor kodenya.",
+    "comm": ""
+  },
+  {
+    "key": "resistance_contacts_radio_circuits",
+    "ver": "",
+    "val": "Bentuk Jaringan Radio",
+    "comm": ""
+  },
+  {
+    "key": "resistance_contacts_radio_circuits_desc",
+    "ver": "",
+    "val": "Membagikan pesawat radio transceiver ringkas kepada sel perlawanan untuk memudahkan kontak langsung dengan markas besar kita.",
+    "comm": ""
+  },
+  {
+    "key": "resistance_support_pidgeons",
+    "ver": "",
+    "val": "Gunakan Merpati Pos",
+    "comm": ""
+  },
+  {
+    "key": "resistance_support_pidgeons_desc",
+    "ver": "",
+    "val": "Menerjunkan wadah merpati pos khusus ke pedalaman agar pejuang lokal dapat mengirim laporan koordinat tanpa terdeteksi radio goniometri lawan.",
+    "comm": ""
+  },
+  {
+    "key": "resistance_contacts_briefings",
+    "ver": "",
+    "val": "Pertemuan Koordinasi Rahasia",
+    "comm": ""
+  },
+  {
+    "key": "resistance_contacts_briefings_desc",
+    "ver": "",
+    "val": "Mengadakan pertemuan rahasia di rumah aman untuk menyinkronkan waktu aksi sabotase dengan rencana pergerakan tentara sekutu.",
+    "comm": ""
+  },
+  {
+    "key": "capture_cyphers_smuggle",
+    "ver": "",
+    "val": "Selundupkan Mesin Sandi",
+    "comm": ""
+  },
+  {
+    "key": "capture_cyphers_smuggle_desc",
+    "ver": "",
+    "val": "Kontak rahasia kita di dalam badan sandi musuh akan meminjamkan mesin enkripsi selama semalam agar teknisi kita dapat memotret dan mempelajari mekanismenya.",
+    "comm": ""
+  },
+  {
+    "key": "operation_steal_tech_airforce",
+    "ver": "",
+    "val": "Curi Cetak Biru Industri Dirgantara",
+    "comm": ""
+  },
+  {
+    "key": "operation_steal_tech_airforce_desc",
+    "ver": "",
+    "val": "§LKita menerima laporan yang mengkhawatirkan bahwa musuh lebih maju dari kita dalam beberapa aspek perancangan pesawat terbang. Jika benar, kita harus mencuri rancangan mereka untuk mempercepat riset dirgantara kita sendiri.§!",
+    "comm": ""
+  },
+  {
+    "key": "operation_infiltrate_armed_forces_navy",
+    "ver": "",
+    "val": "Infiltrasi Angkatan Laut",
+    "comm": ""
+  },
+  {
+    "key": "operation_infiltrate_armed_forces_navy_desc",
+    "ver": "",
+    "val": "§LMeskipun awak kapal [From.GetAdjective] sangat kompak dan sulit ditembus, staf pendukung pangkalan dan administrasi pelabuhan adalah celah potensial. Menempatkan orang dalam akan memberi kita informasi berharga serta mempermudah operasi-operasi lanjutan di masa mendatang.§!",
+    "comm": ""
+  },
+  {
+    "key": "operation_infiltrate_civilian",
+    "ver": "",
+    "val": "Infiltrasi Administrasi Sipil",
+    "comm": ""
+  },
+  {
+    "key": "operation_infiltrate_civilian_desc",
+    "ver": "",
+    "val": "§LPemerintahan [From.GetAdjective] memiliki sejumlah celah kelemahan yang memungkinkan kita menyusupkan agen ke dalam birokrasi mereka. Melakukan hal ini akan memberi kita wawasan berharga tentang sistem internal [From.GetNameDef] serta membuka peluang bagi agen tersebut untuk mendukung operasi lanjutan terhadap [From.GetNameDef].§!",
+    "comm": ""
+  },
+  {
+    "key": "operation_infiltrate_armed_forces_airforce",
+    "ver": "",
+    "val": "Infiltrasi Angkatan Udara",
+    "comm": ""
+  },
+  {
+    "key": "operation_infiltrate_armed_forces_airforce_desc",
+    "ver": "",
+    "val": "§LAngkatan Udara [From.getAdjective] adalah cabang termuda di jajaran angkatan bersenjata [From.GetAdjective]. Karena itu, terdapat banyak personel dengan latar belakang beragam. Kita dapat membujuk beberapa di antaranya untuk menjadi mata-mata kita di dalam pangkalan udara.§!",
+    "comm": ""
+  },
+  {
+    "key": "operation_infiltrate_armed_forces_army",
+    "ver": "",
+    "val": "Infiltrasi Angkatan Darat",
+    "comm": ""
+  },
+  {
+    "key": "operation_infiltrate_armed_forces_army_desc",
+    "ver": "",
+    "val": "§LAngkatan Darat [From.GetAdjective] memiliki sejumlah perwira dan prajurit yang dapat kita dekati untuk memberikan informasi tambahan serta mendukung operasi kita di masa depan.§!",
+    "comm": ""
+  },
+  {
+    "key": "operation_steal_tech_army",
+    "ver": "",
+    "val": "Curi Cetak Biru Militer",
+    "comm": ""
+  },
+  {
+    "key": "operation_steal_tech_army_desc",
+    "ver": "",
+    "val": "§LAnalis intelijen kita meyakini bahwa [From.GetNameDef] telah mencapai kemajuan signifikan dalam teknologi darat. Kita harus mengambil rancang bangun senjata mereka.§!",
+    "comm": ""
+  },
+  {
+    "key": "operation_steal_tech_civilian",
+    "ver": "",
+    "val": "Curi Cetak Biru Industri",
+    "comm": ""
+  },
+  {
+    "key": "operation_steal_tech_civilian_desc",
+    "ver": "",
+    "val": "§LIndustri kita tampak tertinggal dari [From.GetNameDef] di beberapa sektor krusial. Mencuri rancang bangun pabrik dan riset material mereka akan mempercepat produksi nasional kita.§!",
+    "comm": ""
+  },
+  {
+    "key": "operation_steal_tech_navy",
+    "ver": "",
+    "val": "Curi Cetak Biru Angkatan Laut",
+    "comm": ""
+  },
+  {
+    "key": "operation_steal_tech_navy_desc",
+    "ver": "",
+    "val": "§LLaporan intelijen mengindikasikan angkatan laut [From.GetAdjective] lebih unggul dalam teknologi perkapalan. Kita harus mendapatkan dokumen desain kapal mereka.§!",
+    "comm": ""
+  },
+  {
+    "key": "infiltrate_military_bribe",
+    "ver": "",
+    "val": "Beri Suap",
+    "comm": ""
+  },
+  {
+    "key": "infiltrate_military_bribe_desc",
+    "ver": "",
+    "val": "Agen kita akan mencari personel militer yang terdesak kebutuhan finansial dan menawarkan bayaran menggiurkan sebagai imbalan kerja sama rahasia.",
+    "comm": ""
+  },
+  {
+    "key": "infiltrate_military_seduction",
+    "ver": "",
+    "val": "Gunakan Rayuan",
+    "comm": ""
+  },
+  {
+    "key": "infiltrate_military_seduction_desc",
+    "ver": "",
+    "val": "Agen kita akan menjalin kedekatan emosional yang intim dengan figur penting di militer lawan demi memperoleh akses ke dokumen rahasia.",
+    "comm": ""
+  },
+  {
+    "key": "infiltrate_military_turned_pow",
+    "ver": "",
+    "val": "Bujuk Tawanan Perang",
+    "comm": ""
+  },
+  {
+    "key": "infiltrate_military_turned_pow_desc",
+    "ver": "",
+    "val": "Kita akan membujuk seorang perwira tawanan perang yang kita tahan untuk berbalik membelot ke pihak kita, lalu memulangkannya sebagai mata-mata kita.",
+    "comm": ""
+  },
+  {
+    "key": "infiltrate_military_ideological_supporter",
+    "ver": "",
+    "val": "Hubungi Simpatisan Ideologi",
+    "comm": ""
+  },
+  {
+    "key": "infiltrate_military_ideological_supporter_desc",
+    "ver": "",
+    "val": "Melalui jalur diplomasi informal, kita akan mencari dan membina relasi dengan perwira [From.GetAdjective] yang bersimpati pada ideologi kita.",
+    "comm": ""
+  },
+  {
+    "key": "steal_blueprints_bribe",
+    "ver": "",
+    "val": "Tawarkan Suap",
+    "comm": ""
+  },
+  {
+    "key": "steal_blueprints_bribe_desc",
+    "ver": "",
+    "val": "Agen kita akan menawarkan sejumlah besar uang kepada insinyur yang terlibat langsung dalam proyek rahasia tersebut.",
+    "comm": ""
+  },
+  {
+    "key": "steal_blueprints_seduction",
+    "ver": "",
+    "val": "Gunakan Rayuan Asmara",
+    "comm": ""
+  },
+  {
+    "key": "steal_blueprints_seduction_desc",
+    "ver": "",
+    "val": "Agen kita akan mendekati personel kunci di pusat riset musuh dan menggunakan pesona rayuan untuk mengakses brankas dokumen proyek.",
+    "comm": ""
+  },
+  {
+    "key": "steal_blueprints_infiltrate_naval_design_office",
+    "ver": "",
+    "val": "Susup ke Biro Desain Perkapalan",
+    "comm": ""
+  },
+  {
+    "key": "steal_blueprints_infiltrate_naval_design_office_desc",
+    "ver": "",
+    "val": "Agen kita akan menyusup ke anak perusahaan galangan kapal sebagai juru gambar magang demi menyalin cetak biru kapal perang lawan.",
+    "comm": ""
+  },
+  {
+    "key": "steal_blueprints_steal_prototype",
+    "ver": "",
+    "val": "Curi Purwarupa",
+    "comm": ""
+  },
+  {
+    "key": "steal_blueprints_steal_prototype_desc",
+    "ver": "",
+    "val": "Didampingi pilot uji terlatih, tim kita akan menyusup ke hanggar uji coba di malam hari dan menerbangkan pesawat purwarupa musuh ke wilayah kawan.",
+    "comm": ""
+  },
+  {
+    "key": "steal_blueprints_middle_manager",
+    "ver": "",
+    "val": "Menyusup ke Manajemen Menengah",
+    "comm": ""
+  },
+  {
+    "key": "steal_blueprints_middle_manager_desc",
+    "ver": "",
+    "val": "Agen kita akan memanfaatkan surat referensi dan riwayat hidup palsu untuk melamar posisi manajerial di biro riset industri lawan.",
+    "comm": ""
+  },
+  {
+    "key": "lar_communist_uprising_organise_cells",
+    "ver": "",
+    "val": "Bentuk Sel-Sel Revolusioner",
+    "comm": ""
+  },
+  {
+    "key": "lar_communist_uprising_organise_cells_desc",
+    "ver": "",
+    "val": "Agen kita akan berkolaborasi dengan kaum buruh militan untuk membentuk Komite Aksi Revolusioner rahasia di pabrik-pabrik utama.",
+    "comm": ""
+  },
+  {
+    "key": "lar_communist_uprising_infiltrate_civil_service",
+    "ver": "",
+    "val": "Susup ke Birokrasi Sipil",
+    "comm": ""
+  },
+  {
+    "key": "lar_communist_uprising_infiltrate_civil_service_desc",
+    "ver": "",
+    "val": "Agen kita akan menempatkan kader-kader tepercaya ke dalam pos pegawai negeri sipil guna melumpuhkan rantai komando administratif saat pemberontakan meletus.",
+    "comm": ""
+  },
+  {
+    "key": "lar_communist_uprising_train_workers_militia",
+    "ver": "",
+    "val": "Latih Milisi Buruh",
+    "comm": ""
+  },
+  {
+    "key": "lar_communist_uprising_train_workers_militia_desc",
+    "ver": "",
+    "val": "Agen kita akan melatih kader-kader buruh pilihan dalam taktik tempur perkotaan dan penggunaan senjata ringan.",
+    "comm": ""
+  },
+  {
+    "key": "lar_communist_uprising_organize_strikes",
+    "ver": "",
+    "val": "Organisir Pemogokan Umum",
+    "comm": ""
+  },
+  {
+    "key": "lar_communist_uprising_organize_strikes_desc",
+    "ver": "",
+    "val": "Agen kita akan menggalang serikat buruh untuk melancarkan mogok kerja massal yang melumpuhkan transportasi dan produksi nasional musuh.",
+    "comm": ""
+  },
+  {
+    "key": "lar_fra_coup_pre_position_units",
+    "ver": "",
+    "val": "Tempatkan Pasukan di Posisi Strategis",
+    "comm": ""
+  },
+  {
+    "key": "lar_fra_coup_pre_position_units_desc",
+    "ver": "",
+    "val": "Agen kita akan memimpin unit-unit militer yang bersimpati di daerah tersebut dan menempatkan mereka di dekat pusat-pusat kekuasaan.",
+    "comm": ""
+  },
+  {
+    "key": "lar_fra_launch_coup",
+    "ver": "",
+    "val": "Lancarkan Kudeta",
+    "comm": ""
+  },
+  {
+    "key": "lar_fra_launch_coup_desc",
+    "ver": "",
+    "val": "Operasi pengambilalihan kekuasaan akan dimulai tepat saat sinyal sandi radio disiarkan.",
+    "comm": ""
+  },
+  {
+    "key": "FRA_instigate_workers_revolution_britain",
+    "ver": "",
+    "val": "Kobarkan Revolusi Buruh di Britania",
+    "comm": ""
+  },
+  {
+    "key": "FRA_instigate_workers_revolution_italy",
+    "ver": "",
+    "val": "Kobarkan Revolusi Buruh di Italia",
+    "comm": ""
+  },
+  {
+    "key": "FRA_instigate_workers_revolution_spain",
+    "ver": "",
+    "val": "Kobarkan Revolusi Buruh di Spanyol",
+    "comm": ""
+  },
+  {
+    "key": "FRA_instigate_workers_revolution_germany",
+    "ver": "",
+    "val": "Kobarkan Revolusi Buruh di Jerman",
+    "comm": ""
+  },
+  {
+    "key": "FRA_coup_in_north_africa",
+    "ver": "",
+    "val": "Persiapkan Kudeta di Afrika Utara",
+    "comm": ""
+  },
+  {
+    "key": "FRA_coup_in_north_africa_flag",
+    "ver": "",
+    "val": "Persiapkan Kudeta di Afrika Utara",
+    "comm": ""
+  },
+  {
+    "key": "FRA_coup_in_north_africa_desc",
+    "ver": "",
+    "val": "Banyak warga Prancis di Afrika Utara yang bertekad melanjutkan perjuangan melawan penjajah. Melalui sedikit dorongan, kita dapat mengambil alih pemerintahan wilayah ini demi Prancis Merdeka.",
+    "comm": ""
+  },
+  {
+    "key": "FRA_coup_in_syria",
+    "ver": "",
+    "val": "Persiapkan Kudeta di Suriah",
+    "comm": ""
+  },
+  {
+    "key": "FRA_coup_in_syria_flag",
+    "ver": "",
+    "val": "Persiapkan Kudeta di Suriah",
+    "comm": ""
+  },
+  {
+    "key": "FRA_coup_in_syria_desc",
+    "ver": "",
+    "val": "Banyak warga Prancis di Suriah yang masih setia pada panji Republik. Melalui koordinasi yang tepat, kita dapat menggulingkan rezim kolaborator di sana.",
+    "comm": ""
+  },
+  {
+    "key": "FRA_coup_in_indochina",
+    "ver": "",
+    "val": "Persiapkan Kudeta di Indocina",
+    "comm": ""
+  },
+  {
+    "key": "FRA_coup_in_indochina_flag",
+    "ver": "",
+    "val": "Persiapkan Kudeta di Indocina",
+    "comm": ""
+  },
+  {
+    "key": "FRA_coup_in_indochina_desc",
+    "ver": "",
+    "val": "Banyak elemen Prancis di Indocina yang menolak tunduk pada musuh. Kita dapat mengorganisir kudeta militer untuk merebut kembali kendali jajahan ini.",
+    "comm": ""
+  },
+  {
+    "key": "FRA_coup_in_central_africa",
+    "ver": "",
+    "val": "Persiapkan Kudeta di Afrika Tengah",
+    "comm": ""
+  },
+  {
+    "key": "FRA_coup_in_central_africa_flag",
+    "ver": "",
+    "val": "Persiapkan Kudeta di Afrika Tengah",
+    "comm": ""
+  },
+  {
+    "key": "FRA_coup_in_central_africa_desc",
+    "ver": "",
+    "val": "Banyak prajurit Prancis di Afrika Tengah yang bersemangat kembali mengangkat senjata. Kita dapat memobilisasi mereka untuk menguasai pos-pos administratif penting.",
+    "comm": ""
+  },
+  {
+    "key": "FRA_coup_in_west_africa",
+    "ver": "",
+    "val": "Persiapkan Kudeta di Afrika Barat",
+    "comm": ""
+  },
+  {
+    "key": "FRA_coup_in_west_africa_flag",
+    "ver": "",
+    "val": "Persiapkan Kudeta di Afrika Barat",
+    "comm": ""
+  },
+  {
+    "key": "FRA_coup_in_west_africa_desc",
+    "ver": "",
+    "val": "Banyak perwira Prancis di Afrika Barat yang siap membelot dari pemerintah boneka. Mengoordinasikan kudeta di Dakar akan membawa seluruh koloni kembali ke pangkuan kita.",
+    "comm": ""
+  },
+  {
+    "key": "FRA_coup_in_madagascar",
+    "ver": "",
+    "val": "Persiapkan Kudeta di Madagaskar",
+    "comm": ""
+  },
+  {
+    "key": "FRA_coup_in_madagascar_flag",
+    "ver": "",
+    "val": "Persiapkan Kudeta di Madagaskar",
+    "comm": ""
+  },
+  {
+    "key": "FRA_coup_in_madagascar_desc",
+    "ver": "",
+    "val": "Banyak personel militer di Madagaskar yang mendambakan pembebasan tanah air. Kita dapat memicu pergantian kekuasaan untuk mengamankan pulau strategis ini.",
+    "comm": ""
+  },
+  {
+    "key": "targeted_sabotage_plant_explosives",
+    "ver": "",
+    "val": "Pasang Bahan Peledak",
+    "comm": ""
+  },
+  {
+    "key": "targeted_sabotage_plant_explosives_desc",
+    "ver": "",
+    "val": "Bekerja sama dengan pejuang perlawanan lokal, agen kita akan menyusup ke kompleks pabrik di malam hari untuk menaruh bahan peledak pada turbin utama.",
+    "comm": ""
+  },
+  {
+    "key": "targeted_sabotage_organize_more_meetings",
+    "ver": "",
+    "val": "Perbanyak Rapat Birokrasi",
+    "comm": ""
+  },
+  {
+    "key": "targeted_sabotage_organize_more_meetings_desc",
+    "ver": "",
+    "val": "Wawancara dengan kaum pekerja membuktikan bahwa menggelar rapat berkepanjangan untuk membahas hal-hal sepele sangat efektif menghancurkan moral dan menurunkan produktivitas pabrik musuh.",
+    "comm": ""
+  },
+  {
+    "key": "targeted_sabotage_destroy_bridge",
+    "ver": "",
+    "val": "Hancurkan Jembatan",
+    "comm": ""
+  },
+  {
+    "key": "targeted_sabotage_destroy_bridge_desc",
+    "ver": "",
+    "val": "Gerilyawan lokal telah mengidentifikasi jembatan rel vital yang menjadi urat nadi suplai musuh. Meledakkan fondasinya akan memutus arus logistik musuh selama berbulan-bulan.",
+    "comm": ""
+  },
+  {
+    "key": "targeted_sabotage_collapse_tunnel",
+    "ver": "",
+    "val": "Runtuhkan Terowongan",
+    "comm": ""
+  },
+  {
+    "key": "targeted_sabotage_collapse_tunnel_desc",
+    "ver": "",
+    "val": "Jalur rel utama di kawasan ini melewati terowongan pegunungan sempit. Agen kita memasang dinamit di pilar penyangga untuk meruntuhkan batuan gunung ke atas rel.",
+    "comm": ""
+  },
+  {
+    "key": "targeted_sabotage_remove_roadsigns",
+    "ver": "",
+    "val": "Cabut Rambu Lalu Lintas",
+    "comm": ""
+  },
+  {
+    "key": "targeted_sabotage_remove_roadsigns_desc",
+    "ver": "",
+    "val": "Agen kita akan mencopot atau memutar arah penunjuk jalan di persimpangan-persimpangan penting guna membingungkan konvoi truk bala bantuan musuh.",
+    "comm": ""
+  },
+  {
+    "key": "targeted_sabotage_immobilize_rolling_stock",
+    "ver": "",
+    "val": "Lumpuhkan Gerbong Kereta",
+    "comm": ""
+  },
+  {
+    "key": "targeted_sabotage_immobilize_rolling_stock_desc",
+    "ver": "",
+    "val": "Menaburkan segenggam pasir ke dalam kotak pelumas gandar roda kereta api akan merusak mesin dan membuat gerbong terbakar saat melaju.",
+    "comm": ""
+  },
+  {
+    "key": "targeted_sabotage_burn_storage",
+    "ver": "",
+    "val": "Bakar Gudang Bahan Bakar",
+    "comm": ""
+  },
+  {
+    "key": "targeted_sabotage_burn_storage_desc",
+    "ver": "",
+    "val": "Kelompok perlawanan telah menandai tangki penimbunan yang menyimpan bahan bakar mudah meledak. Bom molotov sederhana cukup untuk memicu kobaran api dahsyat.",
+    "comm": ""
+  },
+  {
+    "key": "targeted_sabotage_destroy_mining_equipment",
+    "ver": "",
+    "val": "Hancurkan Alat Tambang",
+    "comm": ""
+  },
+  {
+    "key": "targeted_sabotage_destroy_mining_equipment_desc",
+    "ver": "",
+    "val": "Mata-mata lokal mengabarkan bahwa derek dan lift tambang berat sulit digantikan jika rusak. Merusak katup hidroliknya akan menghentikan produksi tambang sepenuhnya.",
+    "comm": ""
+  },
+  {
+    "key": "operation_targeted_sabotage_industry",
+    "ver": "",
+    "val": "Sabotase Industri",
+    "comm": ""
+  },
+  {
+    "key": "operation_targeted_sabotage_industry_desc",
+    "ver": "",
+    "val": "§LKelompok perlawanan di wilayah musuh memohon bantuan kita untuk melumpuhkan fasilitas manufaktur vital milik penjajah.§!",
+    "comm": ""
+  },
+  {
+    "key": "operation_targeted_sabotage_infrastructure",
+    "ver": "",
+    "val": "Sabotase Infrastruktur",
+    "comm": ""
+  },
+  {
+    "key": "operation_targeted_sabotage_infrastructure_desc",
+    "ver": "",
+    "val": "§LPejuang gerilya telah mengacaukan jalur kereta dan jembatan musuh, namun membutuhkan arahan dan bahan peledak profesional kita untuk melumpuhkan total jalur logistik lawan.§!",
+    "comm": ""
+  },
+  {
+    "key": "operation_targeted_sabotage_resources",
+    "ver": "",
+    "val": "Sabotase Sumber Daya",
+    "comm": ""
+  },
+  {
+    "key": "operation_targeted_sabotage_resources_desc",
+    "ver": "",
+    "val": "§LInforman kita melaporkan adanya upaya intensif musuh dalam mengekstraksi sumber daya alam strategis. Kita harus menyabotase fasilitas tambang dan sumur minyak mereka.§!",
+    "comm": ""
+  },
+  {
+    "key": "operation_rescue_operative",
+    "ver": "",
+    "val": "Selamatkan Agen yang Tertawan",
+    "comm": ""
+  },
+  {
+    "key": "operation_rescue_operative_desc",
+    "ver": "",
+    "val": "§LSalah satu agen terbaik kita telah ditangkap oleh musuh. Kita harus segera membebaskannya sebelum interogasi meruntuhkan ketahanannya dan membongkar rahasia negara!§!",
+    "comm": ""
+  },
+  {
+    "key": "free_operative_free_in_transit",
+    "ver": "",
+    "val": "Bebaskan Saat Pemindahan",
+    "comm": ""
+  },
+  {
+    "key": "free_operative_free_in_transit_desc",
+    "ver": "",
+    "val": "Agen kita dipindahkan secara berkala dengan mobil tahanan antara penjara dan markas penyiksaan. Kita dapat mencegat konvoi tersebut di jalanan terpencil.",
+    "comm": ""
+  },
+  {
+    "key": "free_operative_liberate_camp",
+    "ver": "",
+    "val": "Serbu Kamp Tawanan",
+    "comm": ""
+  },
+  {
+    "key": "free_operative_liberate_camp_desc",
+    "ver": "",
+    "val": "Saat diinterogasi, agen kita disekap di kamp tahanan khusus bersama tawanan bernilai tinggi lainnya. Serangan komando mendadak dapat membobol pagar kamp dan membebaskannya.",
+    "comm": ""
+  },
+  {
+    "key": "free_operative_smuggle_in_escape_gear",
+    "ver": "",
+    "val": "Selundupkan Peralatan Kabur",
+    "comm": ""
+  },
+  {
+    "key": "free_operative_smuggle_in_escape_gear_desc",
+    "ver": "",
+    "val": "Ilmuwan kita telah menciptakan alat peloloskan diri mini seperti kawat gergaji dan peta sutra yang disembunyikan di dalam makanan atau pakaian yang dikirim ke sel tahanan.",
+    "comm": ""
+  },
+  {
+    "key": "operation_outcome_consumes_token_tt",
+    "ver": "",
+    "val": "Operasi ini dapat menghanguskan satu §YAset Infiltrasi§!.",
+    "comm": ""
+  },
+  {
+    "key": "operation_outcome_sabotage_industry_tt",
+    "ver": "",
+    "val": "Mengarahkan kelompok perlawanan lokal untuk memprioritaskan industri dan meningkatkan peluang keberhasilan sabotase industri.",
+    "comm": ""
+  },
+  {
+    "key": "operation_outcome_sabotage_infrastructure_tt",
+    "ver": "",
+    "val": "Mengarahkan kelompok perlawanan lokal untuk memprioritaskan infrastruktur dan meningkatkan peluang keberhasilan sabotase infrastruktur.",
+    "comm": ""
+  },
+  {
+    "key": "operation_outcome_sabotage_resources_tt",
+    "ver": "",
+    "val": "Mengarahkan kelompok perlawanan lokal untuk memprioritaskan ekstraksi sumber daya dan meningkatkan peluang keberhasilan sabotase sumber daya.",
+    "comm": ""
+  },
+  {
+    "key": "operation_coup_government",
+    "ver": "",
+    "val": "Rancang Kudeta Pemerintahan",
+    "comm": ""
+  },
+  {
+    "key": "operation_coup_government_desc",
+    "ver": "",
+    "val": "§L[From.GetNameDefCap] berada di ambang pergantian kekuasaan. Segelintir orang yang cakap dan setia - dengan dukungan yang tepat - dapat meruntuhkan struktur rapuh yang menyokong pemerintahan [From.GetAdjective].§!",
+    "comm": ""
+  },
+  {
+    "key": "collaboration_government_set_up_planning_committees",
+    "ver": "",
+    "val": "Bentuk Komite Perencanaan",
+    "comm": ""
+  },
+  {
+    "key": "collaboration_government_set_up_planning_committees_desc",
+    "ver": "",
+    "val": "Tim kita akan berunding dengan politisi simpatisan untuk mendiskusikan peluang pembentukan pemerintahan baru yang akan mengelola [From.GetNameDef] setelah kita mendudukinya, serta membentuk kelompok kerja kecil untuk mematangkan rincian rencananya.",
+    "comm": ""
+  },
+  {
+    "key": "collaboration_government_train_paramilitary_forces",
+    "ver": "",
+    "val": "Latih Pasukan Paramiliter",
+    "comm": ""
+  },
+  {
+    "key": "collaboration_government_train_paramilitary_forces_desc",
+    "ver": "",
+    "val": "Tim kita akan mengorganisir dan melatih milisi paramiliter lokal untuk menjaga ketertiban umum dan membungkam oposisi saat pemerintahan baru mengambil alih kendali.",
+    "comm": ""
+  },
+  {
+    "key": "collaboration_government_contact_military_officers",
+    "ver": "",
+    "val": "Dekati Perwira Militer",
+    "comm": ""
+  },
+  {
+    "key": "collaboration_government_contact_military_officers_desc",
+    "ver": "",
+    "val": "Tim kita akan menindaklanjuti sejumlah petunjuk yang mengindikasikan bahwa beberapa perwira militer purnawirawan sangat tidak puas dengan pemerintahan [From.GetAdjective] saat ini dan bersedia membantu kita mendirikan pemerintahan baru pasca pendudukan.",
+    "comm": ""
+  },
+  {
+    "key": "operation_collaboration_government",
+    "ver": "",
+    "val": "Persiapkan Pemerintah Kolaborasi",
+    "comm": ""
+  },
+  {
+    "key": "operation_collaboration_government_desc",
+    "ver": "",
+    "val": "§LMendirikan pemerintahan boneka yang ramah di [From.GetNameDef] akan memungkinkan kita menguasai wilayah tersebut secara efektif tanpa harus menempatkan terlalu banyak pasukan pendudukan.§!",
+    "comm": ""
+  },
+  {
+    "key": "fake_intel_decoy_tanks",
+    "ver": "",
+    "val": "Tank Tiruan (Umpan)",
+    "comm": ""
+  },
+  {
+    "key": "fake_intel_decoy_tanks_desc",
+    "ver": "",
+    "val": "Kita membuat ratusan model tank tiruan dari kayu lapis dan kanvas tiup. Dari ketinggian pesawat intai musuh, umpan ini akan tampak bagai divisi lapis baja berkekuatan penuh.",
+    "comm": ""
+  },
+  {
+    "key": "fake_intel_radio_deception",
+    "ver": "",
+    "val": "Penipuan Sinyal Radio",
+    "comm": ""
+  },
+  {
+    "key": "fake_intel_radio_deception_desc",
+    "ver": "",
+    "val": "Kita akan membentuk unit transmisi khusus yang bertugas menyiarkan lalu lintas radio palsu guna menciptakan ilusi adanya korps pasukan fiktif di sektor tersebut.",
+    "comm": ""
+  },
+  {
+    "key": "fake_intel_deliberate_leaks",
+    "ver": "",
+    "val": "Bocoran Informasi Sengaja",
+    "comm": ""
+  },
+  {
+    "key": "fake_intel_deliberate_leaks_desc",
+    "ver": "",
+    "val": "Agen ganda kita di luar negeri akan sengaja bersikap ceroboh dan membiarkan dokumen rancangan invasi palsu jatuh ke tangan atase militer kedutaan lawan.",
+    "comm": ""
+  },
+  {
+    "key": "fake_intel_press_releases",
+    "ver": "",
+    "val": "Rilis Pers Terselubung",
+    "comm": ""
+  },
+  {
+    "key": "fake_intel_press_releases_desc",
+    "ver": "",
+    "val": "Kita akan memfasilitasi jurnalis untuk meliput dan mempublikasikan narasi propaganda terarah guna menyesatkan prediksi para analis intelijen musuh.",
+    "comm": ""
+  },
+  {
+    "key": "fake_intel_utilize_double_agents",
+    "ver": "",
+    "val": "Manfaatkan Agen Ganda",
+    "comm": ""
+  },
+  {
+    "key": "fake_intel_utilize_double_agents_desc",
+    "ver": "",
+    "val": "Kita telah merekrut kembali sejumlah informan musuh yang tertangkap. Agen-agen ganda ini akan menyuplai markas besar intelijen lawan dengan laporan palsu yang meyakinkan.",
+    "comm": ""
+  },
+  {
+    "key": "fake_intel_plant_evidence",
+    "ver": "",
+    "val": "Tanam Bukti Palsu",
+    "comm": ""
+  },
+  {
+    "key": "fake_intel_plant_evidence_desc",
+    "ver": "",
+    "val": "Kita akan merekayasa insiden di mana mayat seorang perwira berpangkat yang membawa tas kurir berisi rencana perang palsu dihanyutkan ke pesisir musuh (Operasi Mincemeat).",
+    "comm": ""
+  },
+  {
+    "key": "fake_intel_release_pow",
+    "ver": "",
+    "val": "Bebaskan Tawanan Tertipu",
+    "comm": ""
+  },
+  {
+    "key": "fake_intel_release_pow_desc",
+    "ver": "",
+    "val": "Seorang perwira tawanan musuh yang hendak dipulangkan atas dasar kemanusiaan akan sengaja diperlihatkan pangkalan militer samaran sebelum dilepas, agar ia melaporkan data palsu tersebut kepada atasannya.",
+    "comm": ""
+  },
+  {
+    "key": "operation_fake_intel",
+    "ver": "",
+    "val": "Tanam Intelijen Palsu",
+    "comm": ""
+  },
+  {
+    "key": "operation_fake_intel_desc",
+    "ver": "",
+    "val": "§LKita tahu dinas intelijen [From.GetAdjective] aktif di negara kita. Memberikan informasi palsu kepada mereka jauh lebih menguntungkan daripada sekadar menangkap agen-agen mereka!§!",
+    "comm": ""
+  },
+  {
+    "key": "heavy_water_raid",
+    "ver": "",
+    "val": "Operasi Gunnerside",
+    "comm": ""
+  },
+  {
+    "key": "heavy_water_raid_desc",
+    "ver": "",
+    "val": "§LPihak Jerman telah mulai memproduksi Air Berat (Heavy Water) di fasilitas Telemark, Norwegia, yang diduga kuat berkaitan dengan riset bom atom. Kita harus segera menghancurkan pabrik tersebut sebelum mereka mencapai terobosan ilmiah yang mematikan!§!",
+    "comm": ""
+  },
+  {
+    "key": "heavy_water_infiltration",
+    "ver": "",
+    "val": "Terjunkan Tim Komando & Logistik",
+    "comm": ""
+  },
+  {
+    "key": "heavy_water_infiltration_desc",
+    "ver": "",
+    "val": "Sebuah pesawat pengebom modifikasi akan menerjunkan tim komando Norwegia ke dataran tinggi bersalju Telemark untuk bergabung dengan pemandu lokal.",
+    "comm": ""
+  },
+  {
+    "key": "heavy_water_attack",
+    "ver": "",
+    "val": "Sabotase Pabrik Air Berat",
+    "comm": ""
+  },
+  {
+    "key": "heavy_water_attack_desc",
+    "ver": "",
+    "val": "Pengamanan pabrik di lereng tebing tergolong longgar. Tim komando akan menyelinap melalui ngarai sungai dan meledakkan sel elektrolisis konsentrasi tinggi pabrik.",
+    "comm": ""
+  },
+  {
+    "key": "heavy_water_exfiltration",
+    "ver": "",
+    "val": "Eksfiltrasi Komando",
+    "comm": ""
+  },
+  {
+    "key": "heavy_water_exfiltration_desc",
+    "ver": "",
+    "val": "Setelah peledakan, tim komando akan berpencar menggunakan ski melintasi pegunungan menuju perbatasan Swedia yang netral.",
+    "comm": ""
+  },
+  {
+    "key": "bruneval_raid",
+    "ver": "",
+    "val": "Operasi Biting",
+    "comm": ""
+  },
+  {
+    "key": "bruneval_raid_desc",
+    "ver": "",
+    "val": "§LMusuh tampak lebih unggul dalam teknologi radar pertahanan pantai. Kita telah mengidentifikasi stasiun radar radar Würzburg di pesisir Prancis dan berencana mencuri komponen kuncinya melalui serbuan komando terjun payung!§!",
+    "comm": ""
+  },
+  {
+    "key": "bruneval_infiltration",
+    "ver": "",
+    "val": "Terjunkan Pasukan Penyerbu",
+    "comm": ""
+  },
+  {
+    "key": "bruneval_infiltration_desc",
+    "ver": "",
+    "val": "Satu kompi pasukan lintas udara diterjunkan di dekat instalasi radar pesisir pada malam hari dari ketinggian rendah.",
+    "comm": ""
+  },
+  {
+    "key": "bruneval_attack",
+    "ver": "",
+    "val": "Rebut Instalasi Radar",
+    "comm": ""
+  },
+  {
+    "key": "bruneval_attack_desc",
+    "ver": "",
+    "val": "Pasukan penyerbu dibagi menjadi beberapa regu untuk merebut radar, membongkar komponen modul pemancar frekuensinya, dan menawan teknisi radar musuh.",
+    "comm": ""
+  },
+  {
+    "key": "bruneval_exfiltration",
+    "ver": "",
+    "val": "Evakuasi Kapal Pendarat",
+    "comm": ""
+  },
+  {
+    "key": "bruneval_exfiltration_desc",
+    "ver": "",
+    "val": "Flotila perahu pendarat AL Inggris mendarat di bawah tebing pantai untuk menjemput pasukan payung beserta komponen radar jarahan di bawah lindungan tembakan meriam kapal perang.",
+    "comm": ""
+  },
+  {
+    "key": "capture_tito",
+    "ver": "",
+    "val": "Unternehmen Rösselsprung",
+    "comm": ""
+  },
+  {
+    "key": "capture_tito_desc",
+    "ver": "",
+    "val": "§LPartisan Yugoslavia semakin kuat dan kerap melancarkan serangan berani. Kita telah melacak keberadaan markas bawah tanah Tito di Drvar dan merancang serbuan kilat pasukan terjun payung untuk menangkap atau membunuhnya!§!",
+    "comm": ""
+  },
+  {
+    "key": "capture_tito_infiltration",
+    "ver": "",
+    "val": "Terjunkan Pasukan Payung",
+    "comm": ""
+  },
+  {
+    "key": "capture_tito_infiltration_desc",
+    "ver": "",
+    "val": "Gelombang pertama pasukan payung SS diterjunkan menggunakan pesawat layang (glider) tepat di atas gua markas persembunyian Tito.",
+    "comm": ""
+  },
+  {
+    "key": "capture_tito_attack",
+    "ver": "",
+    "val": "Serbuan Utama",
+    "comm": ""
+  },
+  {
+    "key": "capture_tito_attack_desc",
+    "ver": "",
+    "val": "Kolom lapis baja bermotor bergerak cepat dari garis depan untuk menerobos masuk dan bergabung dengan pasukan terjun payung di Drvar.",
+    "comm": ""
+  },
+  {
+    "key": "capture_tito_exfiltration",
+    "ver": "",
+    "val": "Amankan Area",
+    "comm": ""
+  },
+  {
+    "key": "capture_tito_exfiltration_desc",
+    "ver": "",
+    "val": "Setelah kedua kekuatan bertemu, mereka akan menyisir perbukitan di sekitar gua dan menyapu sisa-sisa pertahanan partisan.",
+    "comm": ""
+  },
+  {
+    "key": "rescue_mussolini",
+    "ver": "",
+    "val": "Selamatkan Benito Mussolini",
+    "comm": ""
+  },
+  {
+    "key": "rescue_mussolini_desc",
+    "ver": "",
+    "val": "§LSetelah digulingkan oleh [ITA.GetLeader], Mussolini ditahan di resor terpencil di puncak gunung Gran Sasso. Kita harus melancarkan operasi pembebasan spektakuler sebelum ia diserahkan kepada pihak Sekutu!§!",
+    "comm": ""
+  },
+  {
+    "key": "rescue_mussolini_infiltration",
+    "ver": "",
+    "val": "Mendaratkan Glider di Dekat Penjara",
+    "comm": ""
+  },
+  {
+    "key": "rescue_mussolini_infiltration_desc",
+    "ver": "",
+    "val": "Unit komando pilihan Otto Skorzeny akan menaiki pesawat layang dan mendarat darurat di lereng sempit dekat Hotel Campo Imperatore tempat penahanan Il Duce.",
+    "comm": ""
+  },
+  {
+    "key": "rescue_mussolini_attack",
+    "ver": "",
+    "val": "Serbu Hotel Tahanan",
+    "comm": ""
+  },
+  {
+    "key": "rescue_mussolini_attack_desc",
+    "ver": "",
+    "val": "Pasukan komando menyerbu lobi hotel, melucuti senjata penjaga Carabinieri tanpa letusan senjata, dan membebaskan Mussolini dari kamarnya.",
+    "comm": ""
+  },
+  {
+    "key": "rescue_mussolini_exfiltration",
+    "ver": "",
+    "val": "Ekstraksi via Pesawat Ringan",
+    "comm": ""
+  },
+  {
+    "key": "rescue_mussolini_exfiltration_desc",
+    "ver": "",
+    "val": "Sebuah pesawat kecil Fieseler Storch mendarat di celah bebatuan untuk menjemput Mussolini dan membawanya terbang ke Jerman.",
+    "comm": ""
+  },
+  {
+    "key": "GER_rescued_mussolini",
+    "ver": "",
+    "val": "Menyelamatkan Mussolini",
+    "comm": ""
+  },
+  {
+    "key": "infiltration_paradrop_outcome",
+    "ver": "",
+    "val": "Meskipun sempat kesulitan menemukan zona penerjunan dalam kegelapan, seluruh anggota tim mendarat dengan selamat.",
+    "comm": ""
+  },
+  {
+    "key": "infiltration_submarine_outcome",
+    "ver": "",
+    "val": "Meski upaya pertama terhalang ombak pasang yang ganas, pendaratan kedua pada malam berikutnya sukses menepi di pantai.",
+    "comm": ""
+  },
+  {
+    "key": "infiltration_border_outcome",
+    "ver": "",
+    "val": "Di bawah naungan badai salju lebat, tim kita berhasil menyusuri jalan setapak rahasia dan melintasi perbatasan tanpa terdeteksi oleh pos jaga perbatasan musuh.",
+    "comm": ""
+  },
+  {
+    "key": "infiltration_diplomatic_outcome",
+    "ver": "",
+    "val": "Tim tidak menemui kendala di pos imigrasi dan berhasil mengelabui agen rahasia musuh yang mencoba membuntuti mereka dari stasiun kereta api.",
+    "comm": ""
+  },
+  {
+    "key": "exfiltration_air_pickup_outcome",
+    "ver": "",
+    "val": "Pesawat kurir kecil mendarat mulus di pematang rumput yang ditentukan dan menerbangkan tim agen kita pulang dengan selamat.",
+    "comm": ""
+  },
+  {
+    "key": "exfiltration_submarine_pickup_outcome",
+    "ver": "",
+    "val": "Setelah beberapa hari bersembunyi dari patroli perahu cepat musuh, tim kita berhasil menaiki kapal selam yang menjemput di titik temu pesisir.",
+    "comm": ""
+  },
+  {
+    "key": "exfiltration_border_outcome",
+    "ver": "",
+    "val": "Tim agen meloloskan diri menyeberangi perbatasan pada larut malam dengan bantuan penyelundup lokal tepercaya.",
+    "comm": ""
+  },
+  {
+    "key": "exfiltration_go_to_ground_outcome",
+    "ver": "",
+    "val": "Tim agen telah membaur di tengah masyarakat setempat dan menunggu waktu yang aman untuk dieksfiltrasi.",
+    "comm": ""
+  },
+  {
+    "key": "fake_intel_decoy_tanks_outcome",
+    "ver": "",
+    "val": "Pesawat intai musuh terpantau memotret replika tank kita berulang kali. Mereka sepenuhnya yakin ada konsentrasi pasukan raksasa di sektor tersebut.",
+    "comm": ""
+  },
+  {
+    "key": "fake_intel_radio_deception_outcome",
+    "ver": "",
+    "val": "Operator radio kita sukses menyiarkan sandi komunikasi palsu. Komando tentara musuh terpantau menggeser beberapa divisi mereka untuk mengantisipasi ancaman semu ini.",
+    "comm": ""
+  },
+  {
+    "key": "fake_intel_deliberate_leaks_outcome",
+    "ver": "",
+    "val": "Kita memastikan atase militer musuh menerima bocoran rencana palsu yang meyakinkan mereka bahwa serangan utama kita akan dilancarkan di tempat lain.",
+    "comm": ""
+  },
+  {
+    "key": "fake_intel_press_releases_outcome",
+    "ver": "",
+    "val": "Publikasi pers yang dirancang rapi telah mengelabui jurnalis dan analis intelijen musuh mengenai kesiapan kekuatan industri militer kita.",
+    "comm": ""
+  },
+  {
+    "key": "fake_intel_utilize_double_agents_outcome",
+    "ver": "",
+    "val": "Agen ganda kita telah menyuplai dinas rahasia lawan dengan setumpuk dokumen rancangan palsu yang telah diverifikasi oleh atasan mereka.",
+    "comm": ""
+  },
+  {
+    "key": "fake_intel_plant_evidence_outcome",
+    "ver": "",
+    "val": "Operasi tipu muslihat kita berjalan sukses gemilang; pihak lawan menemukan koper kurir palsu dan mempercayai isi dokumen rencana invasi tersebut.",
+    "comm": ""
+  },
+  {
+    "key": "fake_intel_release_pow_outcome",
+    "ver": "",
+    "val": "Perwira lawan yang dipulangkan menceritakan kepada komandonya tentang divisi-divisi militer fiktif yang sengaja diperlihatkan kepadanya saat transit.",
+    "comm": ""
+  },
+  {
+    "key": "targeted_sabotage_plant_explosives_outcome",
+    "ver": "",
+    "val": "Tim berhasil menanam bom dan meruntuhkan gedung turbin pabrik, menyebabkan kerusakan parah pada mesin produksi musuh.",
+    "comm": ""
+  },
+  {
+    "key": "targeted_sabotage_organize_more_meetings_outcome",
+    "ver": "",
+    "val": "Agen kita berhasil menginfiltrasi jajaran manajemen menengah perusahaan target, memicu kekacauan birokrasi dan melumpuhkan efisiensi kerja pabrik lawan.",
+    "comm": ""
+  },
+  {
+    "key": "targeted_sabotage_destroy_bridge_outcome",
+    "ver": "",
+    "val": "Bahan peledak meledak tepat saat kereta barang melintas, meruntuhkan jembatan dan gerbong suplai musuh ke dasar jurang.",
+    "comm": ""
+  },
+  {
+    "key": "targeted_sabotage_collapse_tunnel_outcome",
+    "ver": "",
+    "val": "Setelah menemukan titik lemah struktur terowongan rel, ledakan dinamit tim kita meruntuhkan ratusan ton batu dan menutup akses jalur suplai musuh selama berpekan-pekan.",
+    "comm": ""
+  },
+  {
+    "key": "targeted_sabotage_remove_roadsigns_outcome",
+    "ver": "",
+    "val": "Pencopotan dan pemutaran arah rambu lalu lintas berhasil mengacaukan konvoi bala bantuan musuh hingga tersesat puluhan kilometer dari garis depan.",
+    "comm": ""
+  },
+  {
+    "key": "targeted_sabotage_immobilize_rolling_stock_outcome",
+    "ver": "",
+    "val": "Penyusupan ke depo kereta api dan sabotase kotak pelumas sukses melumpuhkan puluhan lokomotif pengangkut amunisi musuh.",
+    "comm": ""
+  },
+  {
+    "key": "targeted_sabotage_burn_storage_outcome",
+    "ver": "",
+    "val": "Kebakaran dahsyat melalap tangki penimbunan bahan bakar musuh, memusnahkan ribuan liter solar dan bensin cadangan tentara lawan.",
+    "comm": ""
+  },
+  {
+    "key": "targeted_sabotage_destroy_mining_equipment_outcome",
+    "ver": "",
+    "val": "Sabotase pada instalasi derek dan generator utama sukses menghentikan proses penambangan bijih logam musuh untuk waktu yang lama.",
+    "comm": ""
+  },
+  {
+    "key": "steal_blueprints_bribe_outcome",
+    "ver": "",
+    "val": "Kita berhasil membujuk insinyur kunci musuh yang terlilit hutang untuk menyerahkan salinan cetak biru teknologi terbaru mereka.",
+    "comm": ""
+  },
+  {
+    "key": "steal_blueprints_seduction_outcome",
+    "ver": "",
+    "val": "Melalui hubungan asmara rahasia, agen kita dengan mudah memperoleh salinan dokumen perancangan mutakhir dari brankas pasangannya.",
+    "comm": ""
+  },
+  {
+    "key": "steal_blueprints_infiltrate_naval_design_office_outcome",
+    "ver": "",
+    "val": "Agen kita menyusup ke biro perkapalan lawan dan menduplikasi seluruh spesifikasi lambung kapal perang mutakhir mereka.",
+    "comm": ""
+  },
+  {
+    "key": "steal_blueprints_steal_prototype_outcome",
+    "ver": "",
+    "val": "Purwarupa pesawat berhasil dilarikan dari hanggar uji coba musuh dan diterbangkan pulang ke pangkalan kita oleh pilot pemberani.",
+    "comm": ""
+  },
+  {
+    "key": "steal_blueprints_middle_manager_outcome",
+    "ver": "",
+    "val": "Penyamaran agen kita di jajaran manajerial industri lawan berhasil mengamankan arsip riset metalurgi dan produksi mutakhir musuh.",
+    "comm": ""
+  },
+  {
+    "key": "capture_cyphers_bribe_outcome",
+    "ver": "",
+    "val": "Agen kita memperoleh salinan lengkap buku sandi militer musuh dari sumber internal yang dibayar mahal.",
+    "comm": ""
+  },
+  {
+    "key": "capture_cyphers_raid_outcome",
+    "ver": "",
+    "val": "Pasukan komando berhasil menyerbu stasiun transmisi lawan dan menyita buku kode sandi sebelum sempat dimusnahkan oleh operatornya.",
+    "comm": ""
+  },
+  {
+    "key": "capture_cyphers_seduction_outcome",
+    "ver": "",
+    "val": "Agen kita berhasil memikat perwira sandi musuh hingga ia tanpa curiga meminjamkan buku kode kawat militer harian.",
+    "comm": ""
+  },
+  {
+    "key": "capture_cyphers_smuggle_outcome",
+    "ver": "",
+    "val": "Agen kita berhasil membujuk kontaknya di [From.GetNameDef] untuk mengirimkan salinan lengkap sandi yang digunakan untuk berkomunikasi dengan mereka.",
+    "comm": ""
+  },
+  {
+    "key": "capture_cyphers_reverse_engineer_outcome",
+    "ver": "",
+    "val": "Teknisi laboratorium kripto kita berhasil mereka ulang sistem rotor enkripsi musuh dari komponen sitaan yang diperoleh agen kita.",
+    "comm": ""
+  },
+  {
+    "key": "collaboration_government_set_up_planning_committees_outcome",
+    "ver": "",
+    "val": "Tim berhasil membentuk komite kerja sama politik yang siap mengambil alih administrasi pemerintahan segera setelah invasi dimulai.",
+    "comm": ""
+  },
+  {
+    "key": "collaboration_government_train_paramilitary_forces_outcome",
+    "ver": "",
+    "val": "Tim telah mempersenjatai dan melatih ratusan sukarelawan paramiliter lokal untuk mengamankan ketertiban kota.",
+    "comm": ""
+  },
+  {
+    "key": "collaboration_government_contact_military_officers_outcome",
+    "ver": "",
+    "val": "Sejumlah perwira tinggi militer setempat setuju untuk tidak melakukan perlawanan saat pasukan kita tiba.",
+    "comm": ""
+  },
+  {
+    "key": "free_operative_free_in_transit_outcome",
+    "ver": "",
+    "val": "Dengan bantuan tim komando, konvoi pengawal tahanan berhasil disergap dan agen kita berhasil diselamatkan tanpa cedera.",
+    "comm": ""
+  },
+  {
+    "key": "free_operative_liberate_camp_outcome",
+    "ver": "",
+    "val": "Hanya beberapa jam sebelum jadwal eksekusi, serbuan kilat pasukan komando berhasil membobol kamp tahanan dan membebaskan agen kita.",
+    "comm": ""
+  },
+  {
+    "key": "free_operative_smuggle_in_escape_gear_outcome",
+    "ver": "",
+    "val": "Menggunakan gergaji kawat dan paspor palsu yang diselundupkan, agen kita berhasil membobol jeruji sel dan kabur di malam hari.",
+    "comm": ""
+  },
+  {
+    "key": "infiltrate_military_bribe_outcome",
+    "ver": "",
+    "val": "Agen kita berhasil merekrut seorang bintara bagian logistik markas musuh yang kini rutin menyuplai informasi pergerakan divisi lawan.",
+    "comm": ""
+  },
+  {
+    "key": "infiltrate_military_seduction_outcome",
+    "ver": "",
+    "val": "Hubungan asmara dengan perwira staf umum musuh membuka akses langsung ke peta pergerakan pasukan dan doktrin tempur lawan.",
+    "comm": ""
+  },
+  {
+    "key": "infiltrate_military_turned_pow_outcome",
+    "ver": "",
+    "val": "Perwira tawanan perang yang berhasil kita bina telah kembali ke negaranya dan kini aktif menyalurkan intelijen dari dalam korps militernya.",
+    "comm": ""
+  },
+  {
+    "key": "infiltrate_military_ideological_supporter_outcome",
+    "ver": "",
+    "val": "Agen kita berhasil menjalin kontak dengan sejumlah perwira yang tidak lagi mendukung rezim [From.GetAdjective] saat ini.",
+    "comm": ""
+  },
+  {
+    "key": "resistance_contacts_radio_circuits_outcome",
+    "ver": "",
+    "val": "Instruksi pengoperasian radio transceiver berhasil diberikan kepada para pemimpin partisan, memungkinkan koordinasi serangan terpadu.",
+    "comm": ""
+  },
+  {
+    "key": "resistance_support_pidgeons_outcome",
+    "ver": "",
+    "val": "Kotak-kotak merpati pos telah disebar ke pedalaman hutan, mempermudah sel-sel perlawanan mengirim laporan lokasi persembunyian musuh.",
+    "comm": ""
+  },
+  {
+    "key": "resistance_contacts_briefings_outcome",
+    "ver": "",
+    "val": "Rapat rahasia berhasil menyatukan rencana serangan serentak pejuang perlawanan dengan jadwal ofensif pasukan sekutu.",
+    "comm": ""
+  },
+  {
+    "key": "resistance_support_arms_depots_outcome",
+    "ver": "",
+    "val": "Sejumlah gudang senjata dan peti amunisi tersembunyi telah disiapkan di titik-titik strategis bagi gerilyawan.",
+    "comm": ""
+  },
+  {
+    "key": "resistance_support_distribute_weapons_outcome",
+    "ver": "",
+    "val": "Ratusan pucuk senapan mesin ringan dan granat tangan telah berhasil dibagikan kepada milisi partisan setempat.",
+    "comm": ""
+  },
+  {
+    "key": "resistance_support_organize_training_outcome",
+    "ver": "",
+    "val": "Kursus kilat perang gerilya, sabotase rel, dan perakitan bom berhasil diselesaikan oleh para pemuda pejuang lokal.",
+    "comm": ""
+  },
+  {
+    "key": "resistance_support_coordinate_groups_outcome",
+    "ver": "",
+    "val": "Para pemimpin kelompok perlawanan terbesar sepakat membentuk dewan komando bersama untuk mengoordinasikan perlawanan nasional.",
+    "comm": ""
+  },
+  {
+    "key": "heavy_water_raid_outcome_tt",
+    "ver": "",
+    "val": "Kita akan berupaya melumpuhkan Pabrik Air Berat Jerman demi menggagalkan pengembangan senjata nuklir mereka.",
+    "comm": ""
+  },
+  {
+    "key": "bruneval_raid_outcome_tt",
+    "ver": "",
+    "val": "Kita akan berupaya merebut komponen radar musuh untuk memajukan riset teknologi radar angkatan perang kita.",
+    "comm": ""
+  },
+  {
+    "key": "capture_tito_outcome_tt",
+    "ver": "",
+    "val": "Kita akan berupaya menangkap atau melenyapkan Tito. Operasi berisiko tinggi ini memiliki kemungkinan gagal.",
+    "comm": ""
+  },
+  {
+    "key": "rescue_mussolini_outcome_tt",
+    "ver": "",
+    "val": "Kita akan berupaya membebaskan Mussolini. Operasi berisiko tinggi ini memiliki kemungkinan gagal.",
+    "comm": ""
+  },
+  {
+    "key": "coordinated_strike_scout_target",
+    "ver": "",
+    "val": "Intai Sasaran",
+    "comm": ""
+  },
+  {
+    "key": "coordinated_strike_scout_target_desc",
+    "ver": "",
+    "val": "Tim akan melakukan pengintaian mendalam, memotret benteng pertahanan musuh, dan memetakan posisi baterai artileri lawan.",
+    "comm": ""
+  },
+  {
+    "key": "coordinated_strike_scout_target_outcome",
+    "ver": "",
+    "val": "Tim menyediakan informasi yang sangat akurat mengenai posisi markas komando dan barak pasukan musuh.",
+    "comm": ""
+  },
+  {
+    "key": "coordinate_strike_mark_targets",
+    "ver": "",
+    "val": "Tandai Sasaran",
+    "comm": ""
+  },
+  {
+    "key": "coordinate_strike_mark_targets_desc",
+    "ver": "",
+    "val": "Tim pengintai akan menyalakan suar penanda dan lampu suar rahasia agar pesawat pengebom kita dapat membidik target secara presisi dalam kegelapan.",
+    "comm": ""
+  },
+  {
+    "key": "coordinate_strike_mark_targets_outcome",
+    "ver": "",
+    "val": "Meskipun dilakukan dalam kegelapan malam, tanda sasaran berhasil dipasang tepat di sasaran utama.",
+    "comm": ""
+  },
+  {
+    "key": "coordinated_strike_sabotage_communications",
+    "ver": "",
+    "val": "Sabotase Komunikasi",
+    "comm": ""
+  },
+  {
+    "key": "coordinated_strike_sabotage_communications_desc",
+    "ver": "",
+    "val": "Tim komando akan memutus kabel telepon bawah tanah dan menyergap kurir bermotor untuk melumpuhkan komunikasi antarpos musuh.",
+    "comm": ""
+  },
+  {
+    "key": "coordinated_strike_sabotage_communications_outcome",
+    "ver": "",
+    "val": "Pemutusan kabel telepon berhasil membuat garnisun musuh terisolasi dan terlambat merespons serangan fajar kita.",
+    "comm": ""
+  },
+  {
+    "key": "coordinated_strike_direct_units",
+    "ver": "",
+    "val": "Pandu Pasukan Penyerbu",
+    "comm": ""
+  },
+  {
+    "key": "coordinated_strike_direct_units_desc",
+    "ver": "",
+    "val": "Saat serangan dimulai, agen di lapangan akan memandu divisi penyerbu kita menuju titik-titik lemah di barisan pertahanan musuh.",
+    "comm": ""
+  },
+  {
+    "key": "coordinated_strike_direct_units_outcome",
+    "ver": "",
+    "val": "Pemanduan dari agen lapangan mempercepat laju terobosan pasukan penyerbu dan menimbulkan kepanikan di barisan pertahanan musuh.",
+    "comm": ""
+  },
+  {
+    "key": "coordinated_strike_occupy_bridges",
+    "ver": "",
+    "val": "Kuasai Jembatan-Jembatan Kunci",
+    "comm": ""
+  },
+  {
+    "key": "coordinated_strike_occupy_bridges_desc",
+    "ver": "",
+    "val": "Tim komando akan merebut jembatan penting sebelum musuh sempat meledakkannya, memastikan kelancaran gerak maju divisi lapis baja kita.",
+    "comm": ""
+  },
+  {
+    "key": "coordinated_strike_occupy_bridges_outcome",
+    "ver": "",
+    "val": "Tim komando berhasil melumpuhkan penjaga jembatan dan memotong kabel pemicu dinamit sebelum sempat diledakkan lawan.",
+    "comm": ""
+  },
+  {
+    "key": "operation_coordinated_strike",
+    "ver": "",
+    "val": "Serangan Terkoordinasi",
+    "comm": ""
+  },
+  {
+    "key": "operation_coordinated_strike_desc",
+    "ver": "",
+    "val": "§LDemi meraih kemenangan mutlak atas [From.GetNameDef], kita harus melancarkan serangan kejutan terkoordinasi berskala penuh yang melumpuhkan angkatan perang mereka sebelum sempat bersiap.§!",
+    "comm": ""
+  },
+  {
+    "key": "coordinated_strike_tt",
+    "ver": "",
+    "val": "Kita akan menyatakan perang terhadap §Y[From.GetNameDef]§! melalui serangan kejutan mendadak. Saat diaktifkan, armada udara dan angkatan darat kita akan melancarkan serangan pendahuluan serentak terhadap pangkalan armada dan instalasi militer musuh.",
+    "comm": ""
+  },
+  {
+    "key": "exfiltration_air_pickup_outcome_fail",
+    "ver": "",
+    "val": "§RPilot penjemput mendapati landasan darurat telah dikepung lampu sorot tentara musuh. Pesawat terpaksa terbang kembali ke pangkalan tanpa agen kita.§!",
+    "comm": ""
+  },
+  {
+    "key": "exfiltration_submarine_pickup_outcome_fail",
+    "ver": "",
+    "val": "§RKapal selam menunggu di titik evakuasi pantai selama berjam-jam, namun tim agen tidak kunjung muncul. Dikhawatirkan mereka telah disergap patroli pantai musuh.§!",
+    "comm": ""
+  },
+  {
+    "key": "exfiltration_border_outcome_fail",
+    "ver": "",
+    "val": "§RPemandu di seberang perbatasan menunggu sia-sia hingga fajar menyingsing. Tim agen diduga telah terdeteksi dan ditangkap oleh penjaga perbatasan lawan.§!",
+    "comm": ""
+  },
+  {
+    "key": "exfiltration_go_to_ground_outcome_fail",
+    "ver": "",
+    "val": "§RTim agen gagal melakukan kontak radio sesuai jadwal yang ditentukan. Keberadaan dan nasib mereka saat ini tidak diketahui.§!",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_OUTLOOK_LABEL",
+    "ver": "",
+    "val": "Peluang",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_RISK_HEADER",
+    "ver": "",
+    "val": "§HRisiko:§! $VAL|-%0$",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_OUTCOME_HEADER",
+    "ver": "",
+    "val": "§HBonus Hasil:§! $VAL|+%0$",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_BASE",
+    "ver": "",
+    "val": "Operasi: ",
+    "comm": ""
+  },
+  {
+    "key": "RISK_LOW",
+    "ver": "",
+    "val": "§GAMAN§!",
+    "comm": ""
+  },
+  {
+    "key": "RISK_MID",
+    "ver": "",
+    "val": "§RBERISIKO§!",
+    "comm": ""
+  },
+  {
+    "key": "RISK_HIGH",
+    "ver": "",
+    "val": "§RMEMATIKAN§!",
+    "comm": ""
+  },
+  {
+    "key": "OUTCOME_BASE",
+    "ver": "",
+    "val": "§YRUTIN§!",
+    "comm": ""
+  },
+  {
+    "key": "OUTCOME_GOOD",
+    "ver": "",
+    "val": "§GBAIK§!",
+    "comm": ""
+  },
+  {
+    "key": "OUTCOME_VGOOD",
+    "ver": "",
+    "val": "§GLUAR BIASA§!",
+    "comm": ""
+  },
+  {
+    "key": "enemy_has_equal_or_better_radar_tech_trigger_tt",
+    "ver": "",
+    "val": "Musuh memiliki teknologi radar yang setara atau lebih canggih.",
+    "comm": ""
+  },
+  {
+    "key": "OPERATION_BONUS_REWARD",
+    "ver": "",
+    "val": "Operasi ini berhasil gemilang dan menghasilkan §Ghadiah bonus§!!",
+    "comm": ""
+  },
+  {
+    "key": "intelligency_agency_resistance_boost_tt",
+    "ver": "",
+    "val": "Operasi Intelijen: $VALUE|=-%0$",
+    "comm": ""
+  },
+  {
+    "key": "targeted_sabotage_resources_2_tt",
+    "ver": "",
+    "val": "Perlawanan Lokal di [From.From.GetName] akan lebih memfokuskan upaya mereka untuk menyabotase sumber daya lokal.",
+    "comm": ""
+  },
+  {
+    "key": "targeted_sabotage_resources_3_tt",
+    "ver": "",
+    "val": "Perlawanan Lokal di [From.From.GetName] akan mengerahkan upaya besar untuk menyabotase sumber daya lokal.",
+    "comm": ""
+  },
+  {
+    "key": "targeted_sabotage_industry_2_tt",
+    "ver": "",
+    "val": "Perlawanan Lokal di [From.From.GetName] akan lebih memfokuskan upaya mereka untuk menyabotase industri lokal.",
+    "comm": ""
+  },
+  {
+    "key": "targeted_sabotage_industry_3_tt",
+    "ver": "",
+    "val": "Perlawanan Lokal di [From.From.GetName] akan mengerahkan upaya besar untuk menyabotase industri lokal.",
+    "comm": ""
+  },
+  {
+    "key": "targeted_sabotage_infrastructure_2_tt",
+    "ver": "",
+    "val": "Perlawanan Lokal di [From.From.GetName] akan lebih memfokuskan upaya mereka untuk menyabotase infrastruktur lokal.",
+    "comm": ""
+  },
+  {
+    "key": "targeted_sabotage_infrastructure_3_tt",
+    "ver": "",
+    "val": "Perlawanan Lokal di [From.From.GetName] akan mengerahkan upaya besar untuk menyabotase infrastruktur lokal.",
+    "comm": ""
+  },
+  {
+    "key": "GER_heavy_water_production_underway",
+    "ver": "",
+    "val": "Produksi Air Berat sedang berjalan",
+    "comm": ""
+  },
+  {
+    "key": "heavy_water_infiltration_outcome",
+    "ver": "",
+    "val": "Tim komando berhasil mendarat dengan parasut di kawasan sasaran.",
+    "comm": ""
+  },
+  {
+    "key": "heavy_water_attack_outcome",
+    "ver": "",
+    "val": "Tim berhasil menyusup ke dalam pabrik tanpa terdeteksi penjaga dan meledakkan instalasi konsentrasi air berat seutuhnya.",
+    "comm": ""
+  },
+  {
+    "key": "heavy_water_exfiltration_outcome",
+    "ver": "",
+    "val": "Kita belum menerima kabar dari tim setelah penyerbuan, namun hal ini memang telah diantisipasi demi alasan kerahasiaan.",
+    "comm": ""
+  },
+  {
+    "key": "heavy_water_exfiltration_outcome_fail",
+    "ver": "",
+    "val": "Siaran radio Berlin mengumumkan penangkapan tim komando Operasi Gunnerside. Seluruh anggota tim gugur atau tertangkap.",
+    "comm": ""
+  },
+  {
+    "key": "bruneval_infiltration_outcome",
+    "ver": "",
+    "val": "Pasukan penyerbu lintas udara mendarat mulus di dekat tebing dengan tingkat sebaran terjun payung yang minimal.",
+    "comm": ""
+  },
+  {
+    "key": "bruneval_attack_outcome",
+    "ver": "",
+    "val": "Pasukan payung bergerak cepat melumpuhkan garnisun radar Jerman dan berhasil mempreteli antena serta komponen osilator radar Würzburg.",
+    "comm": ""
+  },
+  {
+    "key": "bruneval_exfiltration_outcome",
+    "ver": "",
+    "val": "Pasukan menaiki kapal pendarat AL dan berhasil menyeberangi Selat Inggris kembali ke pangkalan dengan membawa komponen radar rampasan.",
+    "comm": ""
+  },
+  {
+    "key": "bruneval_exfiltration_outcome_fail",
+    "ver": "",
+    "val": "Setelah proses evakuasi ke pangkalan di Britania, diketahui bahwa agen intelijen kita tertinggal dan tertangkap di pantai.",
+    "comm": ""
+  },
+  {
+    "key": "capture_tito_attack_outcome",
+    "ver": "",
+    "val": "Lihat laporan operasi terlampir untuk informasi lebih lanjut mengenai hasil akhir operasi.",
+    "comm": ""
+  },
+  {
+    "key": "organise_cells_outcome",
+    "ver": "",
+    "val": "Beberapa sel revolusioner telah terbentuk dan mulai aktif menyebarkan pamflet serta memobilisasi massa di wilayah musuh.",
+    "comm": ""
+  },
+  {
+    "key": "infiltrate_civil_service_outcome",
+    "ver": "",
+    "val": "Kita telah menempatkan pejabat-pejabat tepercaya di posisi penting, memberi kita pengaruh kuat dalam administrasi sipil.",
+    "comm": ""
+  },
+  {
+    "key": "workers_militia_outcome",
+    "ver": "",
+    "val": "Beberapa batalion milisi buruh terlatih telah disiagakan untuk merebut fasilitas vital saat perintah tiba.",
+    "comm": ""
+  },
+  {
+    "key": "organize_strikes_outcome",
+    "ver": "",
+    "val": "Agen kita berhasil menggalang para pemimpin serikat buruh untuk melancarkan gelombang pemogokan massal.",
+    "comm": ""
+  },
+  {
+    "key": "preposition_units_outcome",
+    "ver": "",
+    "val": "Aset militer kita di negara tersebut telah disiagakan di titik-titik krusial untuk merebut kendali saat sinyal kudeta dikumandangkan.",
+    "comm": ""
+  },
+  {
+    "key": "launch_coup_exfiltration_outcome",
+    "ver": "",
+    "val": "Setelah menerima sinyal sandi, agen kita memimpin unit-unit bersenjata untuk merebut istana kepresidenan dan stasiun radio nasional.",
+    "comm": ""
+  },
+  {
+    "key": "launch_coup_exfiltration_outcome_fail",
+    "ver": "",
+    "val": "Di tengah kekacauan kudeta, kontak dengan agen kita terputus total. Peluang keberhasilan kudeta kini bergantung pada keberuntungan.",
+    "comm": ""
+  },
+  {
+    "key": "free_agency_upgrade_tt",
+    "ver": "",
+    "val": "Dapatkan satu §YPeningkatan Badan Intelijen§! acak secara gratis",
+    "comm": ""
+  },
+  {
+    "key": "operation_warsaw_uprising",
+    "ver": "",
+    "val": "Pemberontakan Warsawa",
+    "comm": ""
+  },
+  {
+    "key": "operation_warsaw_uprising_desc",
+    "ver": "",
+    "val": "§LPara pejuang perlawanan Polandia yang gagah berani bertekad membebaskan Warsawa dari cengkeraman penjajah. Memasok senjata dan mengoordinasikan waktu pemberontakan akan membebaskan ibu kota!§!",
+    "comm": ""
+  },
+  {
+    "key": "warsaw_uprising_operation_tt",
+    "ver": "",
+    "val": "Memicu pemberontakan nasional di Polandia, membentuk divisi-divisi tempur baru di negara bagiannya.",
+    "comm": ""
+  },
+  {
+    "key": "raid_trotskys_villa",
+    "ver": "",
+    "val": "Gerebek Vila Trotsky",
+    "comm": ""
+  },
+  {
+    "key": "raid_trotskys_villa_desc",
+    "ver": "",
+    "val": "§LTrotsky bersembunyi di vilanya di Coyoacán, Meksiko, terus menyurati para pendukungnya untuk merongrong kepemimpinan kawan Stalin. Sebuah regu penyerbu dapat mengakhiri hidupnya selamanya.§!",
+    "comm": ""
+  },
+  {
+    "key": "raid_trotskys_villa_outcome_tt",
+    "ver": "",
+    "val": "Sebuah regu bersenjata akan dikirim untuk menyerbu vila Trotsky dan melenyapkannya.",
+    "comm": ""
+  },
+  {
+    "key": "raid_trotskys_villa_attack",
+    "ver": "",
+    "val": "Serbu Vila",
+    "comm": ""
+  },
+  {
+    "key": "raid_trotskys_villa_attack_desc",
+    "ver": "",
+    "val": "Dipimpin perwira NKVD yang menyamar, regu penyerbu akan membobol gerbang vila, melumpuhkan pengawal, dan menembaki ruang kerja Trotsky.",
+    "comm": ""
+  },
+  {
+    "key": "raid_trotskys_villa_attack_outcome",
+    "ver": "",
+    "val": "Regu penyerbu berhasil mendobrak masuk dan terlibat baku tembak sengit dengan pengawal Trotsky di koridor vila.",
+    "comm": ""
+  },
+  {
+    "key": "murder_trotsky",
+    "ver": "",
+    "val": "Pembunuhan Terselubung",
+    "comm": ""
+  },
+  {
+    "key": "murder_trotsky_desc",
+    "ver": "",
+    "val": "§LSerangan bersenjata terbuka terbukti rawan gagal. Kita harus menggunakan pendekatan yang lebih halus dan senyap untuk mendekati Trotsky melalui orang kepercayaannya.§!",
+    "comm": ""
+  },
+  {
+    "key": "murder_trotsky_outcome_tt",
+    "ver": "",
+    "val": "Kita akan berupaya membunuh Trotsky menggunakan agen rahasia yang telah disusupkan ke dalam lingkaran dalamnya.",
+    "comm": ""
+  },
+  {
+    "key": "murder_trotsky_infiltration",
+    "ver": "",
+    "val": "Dokumen Palsu",
+    "comm": ""
+  },
+  {
+    "key": "murder_trotsky_infiltration_desc",
+    "ver": "",
+    "val": "Menggunakan paspor Kanada palsu, agen kita (Ramón Mercader) akan melakukan perjalanan ke Meksiko dan menjalin hubungan dengan orang dekat Trotsky.",
+    "comm": ""
+  },
+  {
+    "key": "murder_trotsky_infiltration_outcome",
+    "ver": "",
+    "val": "Agen kita sukses meraih kepercayaan Trotsky dan pengawalnya, mendapatkan izin bebas untuk keluar masuk ke dalam vila.",
+    "comm": ""
+  },
+  {
+    "key": "murder_trotsky_attack",
+    "ver": "",
+    "val": "Eksekusi Pembunuhan",
+    "comm": ""
+  },
+  {
+    "key": "murder_trotsky_attack_desc",
+    "ver": "",
+    "val": "Agen kita akan mengajak Trotsky ke ruang kerjanya dengan dalih meminta koreksi artikel politik, lalu melancarkan serangan mematikan saat Trotsky lengah.",
+    "comm": ""
+  },
+  {
+    "key": "murder_trotsky_attack_outcome",
+    "ver": "",
+    "val": "Saat Trotsky tengah membaca artikel, agen kita menghantam bagian belakang kepalanya dengan kapak es (ice pick) hingga menderita luka parah yang berujung kematian.",
+    "comm": ""
+  },
+  {
+    "key": "murder_trotsky_exfiltration",
+    "ver": "",
+    "val": "Pelarian",
+    "comm": ""
+  },
+  {
+    "key": "murder_trotsky_exfiltration_desc",
+    "ver": "",
+    "val": "Agen kita akan memanfaatkan kepanikan di dalam vila untuk bergegas keluar menuju mobil pelarian yang menunggu di sudut jalan.",
+    "comm": ""
+  },
+  {
+    "key": "murder_trotsky_exfiltration_outcome",
+    "ver": "",
+    "val": "Di tengah jeritan dan kepanikan setelah serangan, agen kita berhasil menyelinap keluar gerbang tanpa tertangkap.",
+    "comm": ""
+  },
+  {
+    "key": "murder_trotsky_exfiltration_outcome_fail",
+    "ver": "",
+    "val": "Teriakan Trotsky memicu kedatangan para pengawalnya yang langsung melumpuhkan agen kita dan menyerahkannya kepada kepolisian Meksiko.",
+    "comm": ""
+  },
+  {
+    "key": "nuclear_espionage",
+    "ver": "",
+    "val": "Infiltrasi Program Nuklir",
+    "comm": ""
+  },
+  {
+    "key": "nuclear_espionage_desc",
+    "ver": "",
+    "val": "§LProgram pengembangan senjata nuklir kita tertinggal dari negara lain. Kita harus merancang operasi penyusupan ilmiah ke dalam laboratorium atom musuh untuk mencuri data fisi nuklir mereka.§!",
+    "comm": ""
+  },
+  {
+    "key": "nuclear_espionage_outcome_tt",
+    "ver": "",
+    "val": "Kita akan menempatkan seorang agen ahli di dalam laboratorium riset nuklir [FROM.GetAdjective] untuk mencuri rahasia pengayaan uranium mereka.",
+    "comm": ""
+  },
+  {
+    "key": "SWI_boost_resistance_buff",
+    "ver": "",
+    "val": "\\nOperasi §YPerkuat Perlawanan§! menjadi jauh lebih efektif.",
+    "comm": ""
+  }
+]

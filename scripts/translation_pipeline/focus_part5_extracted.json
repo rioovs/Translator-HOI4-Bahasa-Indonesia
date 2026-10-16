@@ -1,0 +1,2378 @@
+[
+  {
+    "lineNum": 1619,
+    "key": "CAN_defence_scheme_no_1_desc",
+    "val": "It is time to dust off Defense Scheme No.1, our interwar plan for a counterattack on the United States in case of war.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1620,
+    "key": "CAN_demand_labrador_and_newfoundland",
+    "val": "Demand Labrador and Newfoundland",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1621,
+    "key": "CAN_demand_labrador_and_newfoundland_desc",
+    "val": "Newfoundland is a failed Dominion that had to return to colonial status. Its proper place is with Canada.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1622,
+    "key": "CAN_burn_the_royal_portraits",
+    "val": "Burn the Royal Portraits",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1623,
+    "key": "CAN_burn_the_royal_portraits_desc",
+    "val": "No more monarchs! No more shall we submit to the rule of a foreign figurehead and a foreign parliament. Canada will be free and equal. The People will rise.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1624,
+    "key": "CAN_communist_labor_total_war_committee",
+    "val": "Communist Labor Total War Committee",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1625,
+    "key": "CAN_communist_labor_total_war_committee_desc",
+    "val": "Canadian Communists are also patriots! In the global war against Fascism, we can work with the bourgeois liberals to mobilize the entire nation for war.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1626,
+    "key": "CAN_defence_scheme_no_2",
+    "val": "Defense Scheme No. 2",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1627,
+    "key": "CAN_defence_scheme_no_2_desc",
+    "val": "Defense Scheme No. 2 is our contingency plan in case of a war in the Pacific between the United States and the Empire of Japan. Ideally, we will stay neutral in the case of war, but no matter the circumstances, strong defense on our west coast will be established.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1628,
+    "key": "CAN_supply_the_red_army",
+    "val": "Supply the Red Army",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1629,
+    "key": "CAN_supply_the_red_army_desc",
+    "val": "As the Soviet Union is at war against the enemies of the people, Canada should undertake to assist Moscow with arms and supplies.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1630,
+    "key": "CAN_canada_united",
+    "val": "Canada United",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1631,
+    "key": "CAN_canada_united_desc",
+    "val": "Even though our population is spread in a thin line across the continent, we have come together in this world crisis to stand up for Canadian values and to protect the weak.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1632,
+    "key": "CAN_join_comintern",
+    "val": "Join Comintern",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1633,
+    "key": "CAN_join_comintern_desc",
+    "val": "The Soviet Union has proven its good faith and strength. Canada should join the Soviet alliance.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1634,
+    "key": "CAN_support_the_world_revolution",
+    "val": "Support the World Revolution",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1635,
+    "key": "CAN_support_the_world_revolution_desc",
+    "val": "Do you hear the people sing? It's the Internationale! Canada will endeavor to liberate the proletariat from their shackles.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1636,
+    "key": "CAN_rcaf_station_borden",
+    "val": "RCAF Station Borden",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1637,
+    "key": "CAN_rcaf_station_borden_desc",
+    "val": "Canada's air corps was born in Borden, Ontario, and that base should be used to train a new generation of pilots.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1638,
+    "key": "CAN_we_have_the_hurricane",
+    "val": "We Have the Hurricane",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1639,
+    "key": "CAN_we_have_the_hurricane_desc",
+    "val": "The United Kingdom has given us permission to build a line of Hurricane fighters. These planes will be the core of our air wing.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1640,
+    "key": "CAN_the_pacific_coast_air_defence_radar_system",
+    "val": "The Pacific Coast Air Defense Radar System",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1641,
+    "key": "CAN_the_pacific_coast_air_defence_radar_system_desc",
+    "val": "The coast of British Columbia is rocky and sparsely populated, except in the south. We will have to rely on early warning systems like a chain of radar stations to detect anything unusual coming over the Pacific.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1642,
+    "key": "CAN_commonwealth_air_training_plan",
+    "val": "Commonwealth Air Training Plan",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1643,
+    "key": "CAN_commonwealth_air_training_plan_desc",
+    "val": "Air combat training will be coordinated with our Commonwealth and Dominion allies. This is more efficient, and can be done en masse and safely at our airfields.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1644,
+    "key": "CAN_fund_fairchilds_development",
+    "val": "Fund Fairchild's Development",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1645,
+    "key": "CAN_fund_fairchilds_development_desc",
+    "val": "The Fairchild aircraft factory in Quebec should be given the resources it needs to increase bomber part production. We should be able to increase employment in the plant by thousands.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1646,
+    "key": "CAN_cookie_carriers",
+    "val": "Cookie Carriers",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1647,
+    "key": "CAN_cookie_carriers_desc",
+    "val": "The strategic air war requires heavy bombers to drop tasty treats on our enemies.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1648,
+    "key": "CAN_the_sabre_project",
+    "val": "The Sabre Project",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1649,
+    "key": "CAN_the_sabre_project_desc",
+    "val": "Jet aircraft will dominate the skies of the future, so we should invest in the production of our own variants of foreign jet planes.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1650,
+    "key": "CAN_halifax_shipyards",
+    "val": "Halifax Shipyards",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1651,
+    "key": "CAN_halifax_shipyards_desc",
+    "val": "Conveniently located opposite Europe, the Halifax docks have been building new ships at a record pace. The Battle of the Atlantic can be won.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1652,
+    "key": "CAN_destroyer_effort",
+    "val": "Destroyer Effort",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1653,
+    "key": "CAN_destroyer_effort_desc",
+    "val": "The threat of submarine attacks on supply and troop convoys requires us to focus on the construction of destroyers to hunt and kill these underwater dangers.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1654,
+    "key": "CAN_light_cruiser_effort",
+    "val": "Light Cruiser Effort",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1655,
+    "key": "CAN_light_cruiser_effort_desc",
+    "val": "We will never be able to build many capital ships, but smaller cruisers, constructed en masse, can still pack a punch.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1656,
+    "key": "CAN_heavy_cruiser_effort",
+    "val": "Heavy Cruiser Effort",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1657,
+    "key": "CAN_heavy_cruiser_effort_desc",
+    "val": "We can build our fleets around heavy cruisers, and have more than enough ports to make this a viable strategy.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1658,
+    "key": "CAN_escort_fleet",
+    "val": "Escort Fleet",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1659,
+    "key": "CAN_escort_fleet_desc",
+    "val": "Oceans separate us from most of the world's tumults, so if our armies are to fight and be supplied, we need to prioritize escort formations and anti-submarine warfare.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1660,
+    "key": "CAN_fleet_in_being",
+    "val": "Fleet In Being",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1661,
+    "key": "CAN_fleet_in_being_desc",
+    "val": "By building a large naval force, its mere existence can be a threat to our enemies even if we never deploy it. The very thought of our ships sailing forth and striking at their sea lanes forces them to be cautious.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1662,
+    "key": "CAN_degauss_ship_hulls",
+    "val": "Degauss Ship Hulls",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1663,
+    "key": "CAN_degauss_ship_hulls_desc",
+    "val": "We will start to degauss our ship hulls, reducing their magnetic signature. This protects them from magnetic mines and reduces the ships’ electronic profile.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1664,
+    "key": "CAN_trade_fleet",
+    "val": "Trade Fleet",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1665,
+    "key": "CAN_trade_fleet_desc",
+    "val": "Canada is a trading nation. Build more freighters and convoys.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1666,
+    "key": "CAN_united_shipyards",
+    "val": "United Shipyards",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1667,
+    "key": "CAN_united_shipyards_desc",
+    "val": "The Montreal dock of United Shipyards has become the primary source for our landing craft and cargo vessels.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1668,
+    "key": "CAN_mend_relations_with_the_trotskyites",
+    "val": "Mend Relations with the Trotskyites",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1669,
+    "key": "CAN_mend_relations_with_the_trotskyites_desc",
+    "val": "Old rifts in the party have divided our people for too long. It is time to embrace these once-trusted exiles and reforge our purpose as the only true beacon of the people's will.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1670,
+    "key": "CAN_trotsky_loves_us",
+    "val": "Brothers in Arms",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1671,
+    "key": "CAN_stalin_and_friends_hate_us_now",
+    "val": "Dissident Suspicions",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1672,
+    "key": "CAN_reject_authoritarianism",
+    "val": "Introspective Communism",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1673,
+    "key": "CAN_reject_authoritarianism_desc",
+    "val": "With conflict and division growing around us, it has become apparent that our unique geographical and societal circumstances deter us from the wider socialist movements, and the trappings of rumored authoritarianism that come with them. The people's movement must begin again - with us.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1674,
+    "key": "CAN_reactivate_farmers_unity_league",
+    "val": "Reactivate the Farmer's Unity League",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1675,
+    "key": "CAN_reactivate_farmers_unity_league_desc",
+    "val": "The Unity League performed important work leading up to our glorious revolution. Now, in our time of desperate need, we must call upon these rural loyalists to aid the state in any way possible.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1676,
+    "key": "CAN_liberate_the_workers_of_the_world",
+    "val": "Spirit of the True Revolution",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1677,
+    "key": "CAN_liberate_the_workers_of_the_world_desc",
+    "val": "Such is our conviction in the utopia we have built, that our young men and women flock the banner so that our downtrodden comrades in foreign lands - suffering under the yoke of oppressive regimes - might yet have a taste of our thoroughly Canadian freedom.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1678,
+    "key": "CAN_canadian_citizenship_act",
+    "val": "The Canadian Citizenship Act",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1679,
+    "key": "CAN_canadian_citizenship_act_desc",
+    "val": "As it currently stands, who is and isn't a Canadian citizen is based on British laws, and a Canadian citizen is no different from a British Subject. We must ensure that the Canadian nationals and citizens are no longer simply regarded as sub-classes of the British subject status.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1680,
+    "key": "CAN_newfoundland_act",
+    "val": "The Newfoundland Act",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1681,
+    "key": "CAN_newfoundland_act_desc",
+    "val": "The regions of Newfoundland and Labrador are close to us both culturally and geographically, yet they continue to be under British rule. It is high time that we put forth a request to unite with the territories, and assist in governing them.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1682,
+    "key": "CAN_dominion_rifle_association",
+    "val": "Dominion of Canada Rifle Association",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1683,
+    "key": "CAN_dominion_rifle_association_desc",
+    "val": "The Dominion of Canada Rifle Association was founded in 1868 and incorporated by an act of parliament in 1900. We should support the expansion of this organization, so that more Canadian men can learn how to handle firearms.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1684,
+    "key": "SAF_support_axis_interests_effect_tt",
+    "val": "Build §YInfrastructure§! and add §YBuilding Slots§! in occupied states located in southern and mid parts of Africa.\\n",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1685,
+    "key": "SAF_a_king_for_our_people_trigger_tt",
+    "val": "King Edward has been exiled",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1686,
+    "key": "NATIONAL_FOCUS_MUTUALLY_EXCLUSIVE_TREE",
+    "val": "The branches are mutually exclusive.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1687,
+    "key": "NATIONAL_FOCUS_EXCLUSIVE_INFO_DESC",
+    "val": "Mutually exclusive with",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1688,
+    "key": "NATIONAL_FOCUS_EXCLUSIVE_INFO_ENTRY",
+    "val": "$FOCUS|Y$",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1689,
+    "key": "NATIONAL_FOCUS_NO_CURRENT_EFFECT",
+    "val": "This focus currently has no effect. Changes in the world situation may affect this.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1690,
+    "key": "SAF_war_measures_act",
+    "val": "War Measures Act",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1691,
+    "key": "SAF_war_measures_act_desc",
+    "val": "We cannot allow any disruption to the war effort, so we are passing new legislation to enforce total compliance with government aims. This will protect the flow of resources and allow us to focus political energy where it is needed.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1692,
+    "key": "SAF_emergency_workers",
+    "val": "Emergency Workers",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1693,
+    "key": "SAF_emergency_workers_desc",
+    "val": "It is time to mobilize more of the South African population for the war effort. Women can be brought into the factories at lower cost, as well.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1694,
+    "key": "SAF_csir",
+    "val": "CSIR",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1695,
+    "key": "SAF_csir_desc",
+    "val": "South Africa lags behind other Dominions in science and technology, so establishing the Council for Scientific and Industrial Research in Pretoria has become a pressing matter for the government.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1696,
+    "key": "SAF_cape_garrison_artillery",
+    "val": "Cape Garrison Artillery",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1697,
+    "key": "SAF_cape_garrison_artillery_desc",
+    "val": "The Cape remains an important sea route for many nations, and is the gateway to the South African heartland. Expansion of the garrison's coastal defenses and artillery should be at the top of our to-do list.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1698,
+    "key": "SAF_reconstitute_the_cape_corps",
+    "val": "Reconstitute the Cape Corps",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1699,
+    "key": "SAF_reconstitute_the_cape_corps_desc",
+    "val": "Historically, we have been able to press some of our Colored population into service to defend South Africa. This is not popular with everyone in the country, but it will free white South Africans to serve overseas.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1700,
+    "key": "SAF_expand_the_cape_corps",
+    "val": "Expand the Cape Corps",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1701,
+    "key": "SAF_expand_the_cape_corps_desc",
+    "val": "Though we reconstituted the Cape Corps as a mostly non-combatant force, the threat of invasion means we must give the Corps greater resources, training and access to weapons.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1702,
+    "key": "SAF_work_for_all_poor",
+    "val": "Work for All Poor",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1703,
+    "key": "SAF_work_for_all_poor_desc",
+    "val": "Poor rural Afrikaners have flooded into the cities seeking work for the last few years, and we’ve done little to help them. Until now. Industrialization and government protection of their access to work will help this population.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1704,
+    "key": "SAF_outlaw_strikes",
+    "val": "Outlaw Strikes",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1705,
+    "key": "SAF_outlaw_strikes_desc",
+    "val": "Work stoppages and labor disruption is unpatriotic in times of crisis. Strikes are hereby declared illegal, and the government will force people back to work.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1706,
+    "key": "SAF_support_the_policy_of_appeasement",
+    "val": "Support the Policy of Appeasement",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1707,
+    "key": "SAF_support_the_policy_of_appeasement_desc",
+    "val": "Germany has legitimate grievances and the Dominions suffered greatly in the last war. We should take advantage of every opportunity for peace in our time.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1708,
+    "key": "SAF_police_windhoek",
+    "val": "Police Windhoek",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1709,
+    "key": "SAF_police_windhoek_desc",
+    "val": "We have had a mandate over the former German colony of South-West Africa since the last war ended. It is vital that we live up to our duty to secure and improve the major city of Windhoek.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1710,
+    "key": "SAF_joint_air_training_scheme",
+    "val": "Joint Air Training Scheme",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1711,
+    "key": "SAF_joint_air_training_scheme_desc",
+    "val": "The Commonwealth nations are pooling their resources and experience to facilitate and accelerate the training of pilots and air crew.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1712,
+    "key": "SAF_desert_equipment",
+    "val": "Desert Equipment",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1713,
+    "key": "SAF_desert_equipment_desc",
+    "val": "The war in North Africa requires specialized equipment and as our forces could be called to serve on that front, the provision and supply of that equipment will become an important logistical matter.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1714,
+    "key": "SAF_suppress_the_stormjaers",
+    "val": "Suppress the Stormjaers",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1715,
+    "key": "SAF_suppress_the_stormjaers_desc",
+    "val": "The Fascist pro-German Ossewabrandwag (OB) has a paramilitary wing modeled on similar European groups. They are disrupting government efforts to recruit troops and pursue a secure and united war policy. The Stormjaers must be broken up.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1716,
+    "key": "SAF_secure_interests_in_africa",
+    "val": "Secure Interests in Africa",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1717,
+    "key": "SAF_secure_interests_in_africa_desc",
+    "val": "The Union of South Africa neighbors a number of British colonies that could be left to our administration. We should also do what we can to permanently secure our Mandate over South-West Africa.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1718,
+    "key": "SAF_native_laws_amendment_act",
+    "val": "Native Laws Amendment Act",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1719,
+    "key": "SAF_native_laws_amendment_act_desc",
+    "val": "To further guarantee work for the Afrikaner population, we must limit the settlement of Black South Africans within the cities. Only those with a long history in the municipality will have residency rights.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1720,
+    "key": "SAF_encourage_segregation",
+    "val": "Encourage Segregation",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1721,
+    "key": "SAF_encourage_segregation_desc",
+    "val": "We should push harder to legally separate our different ethnic populations to promote the power and unity of our ruling class.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1722,
+    "key": "SAF_abandon_westminster",
+    "val": "Abandon Westminster",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1723,
+    "key": "SAF_abandon_westminster_desc",
+    "val": "The replacement of the Cape route by the Suez, as well as the formative experience of the Boer War have helped create a South African identity distinct from that of our Dominion allies. We should distance ourselves from the King, and forge our own path.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1724,
+    "key": "SAF_support_the_afrikaner_broederbond",
+    "val": "Support the Afrikaner Broederbond",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1725,
+    "key": "SAF_support_the_afrikaner_broederbond_desc",
+    "val": "The Afrikaner Broederbond has been agitating for a greater voice for the Afrikaner people and stronger separation of the races. The memory of British policy in the Boer War is still strong, and the Broederbond can help create a new South Africa.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1726,
+    "key": "SAF_support_ossewabrandwag",
+    "val": "Support Ossewabrandwag",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1727,
+    "key": "SAF_support_ossewabrandwag_desc",
+    "val": "The Fascist Ossewabrandwag paramilitary should be used as a bulwark against foreign agitation and domestic uprisings that target our ruling class.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1728,
+    "key": "SAF_celebrate_the_great_trek",
+    "val": "Celebrate the Great Trek",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1729,
+    "key": "SAF_celebrate_the_great_trek_desc",
+    "val": "A century ago, our Afrikaner ancestors separated from the rising British colonial power and built their own Boer nation in the northeast. Their hardy spirit still represents the best of South African virtue.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1730,
+    "key": "SAF_voortrekker_monument",
+    "val": "Voortrekker Monument",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1731,
+    "key": "SAF_voortrekker_monument_desc",
+    "val": "A monument to the Voortrekkers who undertook the Great Trek will strengthen national spirit and unity in these troubling times.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1732,
+    "key": "SAF_support_nazification_of_south_west_africa",
+    "val": "Support Nazification of South-West Africa",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1733,
+    "key": "SAF_support_nazification_of_south_west_africa_desc",
+    "val": "As a former German colony, it is only appropriate that we encourage the growth of German political ideas in South-West Africa.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1734,
+    "key": "SAF_south_africa_first",
+    "val": "South Africa First",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1735,
+    "key": "SAF_south_africa_first_desc",
+    "val": "South Africa is the strongest independent nation on the continent, and therefore can be a lodestone for the future of Africa and former colonies.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1736,
+    "key": "SAF_support_the_german_coup",
+    "val": "Support the German Coup",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1737,
+    "key": "SAF_support_the_german_coup_desc",
+    "val": "The German government has long seen South Africa as fertile ground for greater influence, dating back to the last century. Our future lies with the Reich, not the Empire, so let's move forward with the plan to overthrow the current government.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1738,
+    "key": "SAF_reclaim_boer_colonies",
+    "val": "Reclaim Boer Colonies",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1739,
+    "key": "SAF_reclaim_boer_colonies_desc",
+    "val": "The former Boer territory of Transvaal and other regions rightfully belong to the free heirs of that enterprising people.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1740,
+    "key": "SAF_commemorate_the_battle_of_blood_river",
+    "val": "Commemorate the Battle of Blood River",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1741,
+    "key": "SAF_commemorate_the_battle_of_blood_river_desc",
+    "val": "In 1838, a wagon laager of Boer settlers held off tens of thousands of Zulu warriors, dealing a crippling blow to Zulu power in the Natal. This was surely a divine sign of the rightness of our cause.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1742,
+    "key": "SAF_german_scientists",
+    "val": "German Scientists",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1743,
+    "key": "SAF_german_scientists_desc",
+    "val": "German scientists are among the best in the world and have much to share with us.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1744,
+    "key": "SAF_support_axis_interests",
+    "val": "Support Axis Interests",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1745,
+    "key": "SAF_support_axis_interests_desc",
+    "val": "The Axis powers have an energy and ideology that can help South Africa establish its place in the world. We should give them our full diplomatic support.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1746,
+    "key": "SAF_a_king_for_our_people",
+    "val": "A King for Our People",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1747,
+    "key": "SAF_a_king_for_our_people_desc",
+    "val": "South Africa should have a king, and fortunately there is a Windsor that no one is using right now. The former Edward VIII, Duke of Windsor, can sit on our throne.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1748,
+    "key": "SAF_empower_the_workers",
+    "val": "Empower the Workers",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1749,
+    "key": "SAF_empower_the_workers_desc",
+    "val": "We are a country of miners and farmers. The working people of South Africa are the only true representation of the national will.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1750,
+    "key": "SAF_support_spain",
+    "val": "Support Spain",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1751,
+    "key": "SAF_support_spain_desc",
+    "val": "Fascism is on the rise in Europe, and we can stop it in Spain - or at least slow its spread. Men and material should be sent to support the Republican cause.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1752,
+    "key": "SAF_repeal_the_native_representation_act",
+    "val": "Repeal the Native Representation Act",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1753,
+    "key": "SAF_repeal_the_native_representation_act_desc",
+    "val": "Racial discrimination is contrary to the values of popular revolution in South Africa. Blacks should be restored to the general voting rolls and given political rights.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1754,
+    "key": "SAF_burn_the_kings_portraits",
+    "val": "Burn the King's Portraits",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1755,
+    "key": "SAF_burn_the_kings_portraits_desc",
+    "val": "Down with the Royal Family! This symbolic gesture will publicly declare our breach from the foreign throne.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1756,
+    "key": "SAF_join_comintern",
+    "val": "Join Comintern",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1757,
+    "key": "SAF_join_comintern_desc",
+    "val": "The Soviet Union has been in the forefront of the crusade for the workers and against Fascism. We shall join their mighty alliance.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1758,
+    "key": "SAF_support_the_world_revolution",
+    "val": "Support the World Revolution",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1759,
+    "key": "SAF_support_the_world_revolution_desc",
+    "val": "The only way for the workers to triumph is to unite the entire globe in a single effort. The Revolution must be universal and, therefore, it must be exported.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1760,
+    "key": "SAF_equal_opportunity_employment",
+    "val": "Equal Opportunity Employment",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1761,
+    "key": "SAF_equal_opportunity_employment_desc",
+    "val": "If we are to improve the lot of workers in our nation, we must start with ensuring that all workers are treated equal, regardless of their color of skin.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1762,
+    "key": "SAF_demand_madagascar",
+    "val": "Demand Madagascar",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1763,
+    "key": "SAF_demand_madagascar_desc",
+    "val": "With the dramatic changes of the situation in Europe, it is time to reevaluate the whole system of colonialism. Why should Madagascar be shackled to a falling empire?",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1764,
+    "key": "SAF_invite_soviet_advisers",
+    "val": "Invite Soviet Advisors",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1765,
+    "key": "SAF_invite_soviet_advisers_desc",
+    "val": "If we are to support the Soviet Union in their struggle to bring freedom to the workers of the world, we need to improve our military by learning from them.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1766,
+    "key": "SAF_south_african_soviet_research_treaty",
+    "val": "Research Treaty with USSR",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1767,
+    "key": "SAF_south_african_soviet_research_treaty_desc",
+    "val": "After learning many valuable lessons from our Soviet friends, it is time to deepen the relationship and sign a formal treaty.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1768,
+    "key": "SAF_anti_colonialist_crusade",
+    "val": "Anti-Colonialist Crusade",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1769,
+    "key": "SAF_anti_colonialist_crusade_desc",
+    "val": "Colonialism sits at the heart of the imperialist system that oppresses the workers of the world. We are in the unique position to smash that system and free the African people from the centuries of exploitation they had to endure.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1770,
+    "key": "SAF_Union_of_the_African_People",
+    "val": "Union of the African People",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1771,
+    "key": "SAF_Union_of_the_African_People_desc",
+    "val": "For the longest time, African people had no say in determining their own destiny. Those days are over. We will create a faction strong enough to withstand any attempt by the revanchionist powers of the world to roll back our achievements. Africa will be free of colonialism.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1772,
+    "key": "SAF_liberate_portugese",
+    "val": "Liberate Portuguese Colonies",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1773,
+    "key": "SAF_liberate_portugese_desc",
+    "val": "The colonies of Angola and Mozambique sit right at our borders. It is time to end the exploitation of their people.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1774,
+    "key": "SAF_liberate_british",
+    "val": "Liberate British Colonies",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1775,
+    "key": "SAF_liberate_british_desc",
+    "val": "The British Empire is the most infamous example of colonialism in history. We will end it.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1776,
+    "key": "SAF_liberate_belgian",
+    "val": "Liberate Belgian Colonies",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1777,
+    "key": "SAF_liberate_belgian_desc",
+    "val": "The Belgian Congo is widely regarded as one of the most cruel stories of exploitation and oppression. We will write the final chapter of that story.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1778,
+    "key": "SAF_south_african_railways",
+    "val": "South African Railways",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1779,
+    "key": "SAF_south_african_railways_desc",
+    "val": "The South African Railways company needs to be expanded. Bands of youth can be trained there, and given the necessary skills to both work in the country and serve overseas.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1780,
+    "key": "SAF_expand_the_mining_industry",
+    "val": "Expand the Mining Industry",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1781,
+    "key": "SAF_expand_the_mining_industry_desc",
+    "val": "South Africa's mineral wealth is legendary, and we’ve only just begun to tap its deep reserves of gold, chromium and platinum.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1782,
+    "key": "SAF_heavy_engineering",
+    "val": "Heavy Engineering",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1783,
+    "key": "SAF_heavy_engineering_desc",
+    "val": "It is important that South Africa stay up to date with the latest in engineering techniques. Even though our industrial base is small, we should invest in heavy machinery and engineering to quickly catch up to our peers.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1784,
+    "key": "SAF_infrastructure_effort",
+    "val": "Infrastructure Effort",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1785,
+    "key": "SAF_infrastructure_effort_desc",
+    "val": "Much of South Africa remains rural and undeveloped. More roads and railroads can bring the natural wealth of the country to its hungry ports.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1786,
+    "key": "SAF_armament_effort",
+    "val": "Armament Effort",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1787,
+    "key": "SAF_armament_effort_desc",
+    "val": "South Africa is safe from invasion by any foreign power, but also remote from its allies. It is vital that it develop its own arms industry so that the Union is never undefended.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1788,
+    "key": "SAF_south_african_steel",
+    "val": "South African Steel",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1789,
+    "key": "SAF_south_african_steel_desc",
+    "val": "We have the coal and iron. Now we have the reason. Expansion of the Iscor steel works in Pretoria will provide the country with the heavy steel plating necessary for modern weapons.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1790,
+    "key": "SAF_pretoria_arms",
+    "val": "Pretoria Arms",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1791,
+    "key": "SAF_pretoria_arms_desc",
+    "val": "The existing steel works in Pretoria has focused on heavy plate. With some machine tools, however, we can convert some of the factory into a center for small arms production.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1792,
+    "key": "SAF_expand_the_rand_mines",
+    "val": "Expand the Rand Mines",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1793,
+    "key": "SAF_expand_the_rand_mines_desc",
+    "val": "The Rand Mines are some of the deepest gold mines in the world - and so even with 19th-century technology. We are capable of so much more now. Dig deep! And greedily, even.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1794,
+    "key": "SAF_fund_the_university_of_south_africa",
+    "val": "Fund the University of South Africa",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1795,
+    "key": "SAF_fund_the_university_of_south_africa_desc",
+    "val": "Pretoria's University of South Africa is one of the best universities on the continent - in the southern hemisphere, even. By investing in it, we can grow our own local talent instead of sending our young people overseas.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1796,
+    "key": "SAF_establish_the_atomics_energy_board",
+    "val": "Establish the Atomics Energy Board",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1797,
+    "key": "SAF_establish_the_atomics_energy_board_desc",
+    "val": "Atomic weapons will be the greatest military breakthrough since gunpowder, not to mention the peaceful uses of this power if we can harness the atom. Gather our top scientists to study this.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1798,
+    "key": "SAF_the_cape_defense_institute",
+    "val": "The Cape Defense Institute",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1799,
+    "key": "SAF_the_cape_defense_institute_desc",
+    "val": "Now that South Africa is fully a sovereign nation we are no longer receiving access to advanced prototypes and blueprints like we previously did. We must ensure that we always stay ahead of our enemies, and do not fall behind in technology.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1800,
+    "key": "SAF_defense_collaboration_initiative",
+    "val": "Defense Collaboration Initiative",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1801,
+    "key": "SAF_defense_collaboration_initiative_desc",
+    "val": "The British showed us the advantage of sharing scientific progress between close allies. Our whole faction will be able to conduct wartime R&D more efficiently if we take the steps necessary to coordinate this.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1802,
+    "key": "SAF_special_service_battalion",
+    "val": "Special Service Battalion",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1803,
+    "key": "SAF_special_service_battalion_desc",
+    "val": "South Africa is full of young, unemployed men who need to find something useful to do. The Special Service Battalion will instill some much-needed discipline and organization.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1804,
+    "key": "SAF_improve_the_three_oh_three",
+    "val": "Improve the Three Oh Three",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1805,
+    "key": "SAF_improve_the_three_oh_three_desc",
+    "val": "South Africa's troops will be fighting in varied climates, and we are fortunate that the Lee-Enfield rifle is easily customized. The .303 cartridge has been modified a number of times by other countries to suit their needs.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1806,
+    "key": "SAF_q_services_corps",
+    "val": "Q Services Corps",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1807,
+    "key": "SAF_q_services_corps_desc",
+    "val": "The Q Services Corps will be the centralized authority responsible for the logistics and supply of the permanent army. It will handle the distribution of oil, rations, ammo and uniforms.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1808,
+    "key": "SAF__south_african_military_college",
+    "val": "South African Military College",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1809,
+    "key": "SAF__south_african_military_college_desc",
+    "val": "South Africa should have a military academy modeled on the lines of West Point in the United States. This will give us a professional officer corps loyal to the Union.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1810,
+    "key": "SAF_expand_the_south_african_artillery",
+    "val": "Expand the South African Artillery",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1811,
+    "key": "SAF_expand_the_south_african_artillery_desc",
+    "val": "The artillery corps was unified in 1934. Now the time has come to increase its size and capacity.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1812,
+    "key": "SAF_sa_engineer_corps",
+    "val": "SA Engineer Corps",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1813,
+    "key": "SAF_sa_engineer_corps_desc",
+    "val": "The South African Engineer Corps has barely 600 men in uniform. This is unacceptable in a modern army. We need more men and more training for this crucial task.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1814,
+    "key": "SAF_equipment_effort",
+    "val": "Equipment Effort",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1815,
+    "key": "SAF_equipment_effort_desc",
+    "val": "We cannot neglect the supply of support equipment needed for our army. Guns and tanks are well and good, but we need uniforms, radios, repair kits and more.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1816,
+    "key": "SAF_south_african_special_forces",
+    "val": "South African Special Forces",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1817,
+    "key": "SAF_south_african_special_forces_desc",
+    "val": "South Africa needs a home-grown commando squad to handle those difficult jobs in hard-to-reach places.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1818,
+    "key": "SAF_mechanization_effort",
+    "val": "Mechanization Effort",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1819,
+    "key": "SAF_mechanization_effort_desc",
+    "val": "Motorized and mechanized war is upon us. The Great Trek of the future will be guided by tracked and wheeled vehicles.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1820,
+    "key": "SAF_armor_effort",
+    "val": "Armor Effort",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1821,
+    "key": "SAF_armor_effort_desc",
+    "val": "Tanks have come a long way from the sluggish beasts of the last war. Our research and training cannot fall behind that of our enemies - or our friends.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1822,
+    "key": "SAF_commit_to_the_five_year_plan",
+    "val": "Commit to the Five-Year Plan",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1823,
+    "key": "SAF_commit_to_the_five_year_plan_desc",
+    "val": "We have developed a Five-Year Plan for the modernization and expansion of the South African air force. The government must publicly commit to not fall behind this schedule.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1824,
+    "key": "SAF_improve_the_hawker_hartbees",
+    "val": "Improve the Hawker Hartbees",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1825,
+    "key": "SAF_improve_the_hawker_hartbees_desc",
+    "val": "The Hawker Hartbees we have are not the most advanced fighters in the world, but we will make do. Improved mechanics and training will get the most out of these biplanes.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1826,
+    "key": "SAF_replace_the_blenheim",
+    "val": "Replace the Blenheim",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1827,
+    "key": "SAF_replace_the_blenheim_desc",
+    "val": "The Bristol Blenheim has been a serviceable light bomber for the RAF, and for the Dominions. But it may be time to find something sturdier, with a longer range.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1828,
+    "key": "SAF_perfect_the_cab_rank_technique",
+    "val": "Perfect the \"Cab-Rank\" Technique",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1829,
+    "key": "SAF_perfect_the_cab_rank_technique_desc",
+    "val": "The \"Cab-Rank\" Technique has a series of bombers strike a target one at a time, in a long row. This maintains pressure on the enemy, but takes a great amount of skill.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1830,
+    "key": "SAF_desert_air_force",
+    "val": "Desert Air Force",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1831,
+    "key": "SAF_desert_air_force_desc",
+    "val": "The desert skies are clear, and the heat and sand mean special attention to the mechanics of our aircraft. There are valuable skills to be learned in this unforgiving environment.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1832,
+    "key": "SAF_secure_the_cape_sea_route",
+    "val": "Secure the Cape Sea Route",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1833,
+    "key": "SAF_secure_the_cape_sea_route_desc",
+    "val": "If the Suez should fall, the Cape will again be the gateway to the East. Defend it at all costs.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1834,
+    "key": "SAF_retain_experienced_pilots",
+    "val": "Retain Experienced Pilots",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1835,
+    "key": "SAF_retain_experienced_pilots_desc",
+    "val": "Too often our experienced pilots move on to the RAF instead of staying with our own force. The RAF has better opportunities for advancement and combat. But we should endeavor to keep our trained pilots close to home where they can inspire and educate other South Africans.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1836,
+    "key": "SAF_seaward_defence_force",
+    "val": "Seaward Defense Force",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1837,
+    "key": "SAF_seaward_defence_force_desc",
+    "val": "The Seaward Defense Force has served as our navy for two decades. Its funding should be increased.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1838,
+    "key": "SAF_protect_the_trade",
+    "val": "Protect the Trade",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1839,
+    "key": "SAF_protect_the_trade_desc",
+    "val": "The last war showed the importance of convoys and escorts. South Africa lies on a major trade route and should make sure that the goods get through to their destination.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1840,
+    "key": "SAF_disrupt_the_trade",
+    "val": "Disrupt the Trade",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1841,
+    "key": "SAF_disrupt_the_trade_desc",
+    "val": "The last war showed the importance of convoys and escorts. South Africa lies on a major trade route and is ideally situated to intercept and destroy enemy shipping.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1842,
+    "key": "SAF_expand_the_simons_town_base",
+    "val": "Expand the Simon's Town Base",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1843,
+    "key": "SAF_expand_the_simons_town_base_desc",
+    "val": "Simon's Town on the Cape has been the most important naval base in southern Africa since the 1790s. It should be refitted and expanded to accommodate more and larger vessels.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1844,
+    "key": "SAF_anti_submarine_tactics",
+    "val": "Anti Submarine Tactics",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1845,
+    "key": "SAF_anti_submarine_tactics_desc",
+    "val": "Submarines threaten the ships that pass through the Cape of Good Hope. We must find and destroy them.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1846,
+    "key": "SAF_submarine_warfare",
+    "val": "Submarine Warfare",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1847,
+    "key": "SAF_submarine_warfare_desc",
+    "val": "Enemy trade convoys continue to use the pass through the Cape of Good Hope. We will strike them from below.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1848,
+    "key": "SAF_prepare_overseas_offensive",
+    "val": "Prepare Overseas Offensive",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1849,
+    "key": "SAF_prepare_overseas_offensive_desc",
+    "val": "With miles of coastline, South Africa is fit to train its soldiers in amphibious war. This is one of the most difficult of skills, but our boys can handle it.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1850,
+    "key": "SAF_strengthen_the_cape_garrison_artillery",
+    "val": "Strengthen the Cape Garrison Artillery",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1851,
+    "key": "SAF_strengthen_the_cape_garrison_artillery_desc",
+    "val": "The Cape Garrison guns must be upgraded and increased to protect the Cape from enemy attack.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1852,
+    "key": "SAF_civil_war_tt",
+    "val": "§RA civil war will break out§! between §Yfascist Nationalists§! in South West Africa and §Ydemocratic Unionists§! in the rest of the country.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1853,
+    "key": "SAF_german_research_tt",
+    "val": "We will enter into a tech sharing agreement with Germany.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1854,
+    "key": "scw_in_progress_tt",
+    "val": "Spain is in a civil war.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1855,
+    "key": "NZL_transfer_the_new_zealand_division",
+    "val": "Transfer the New Zealand Division",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1856,
+    "key": "NZL_transfer_the_new_zealand_division_desc",
+    "val": "The 2nd New Zealand Division has been mobilized for action, so we should send it where the fighting is. The NZ Division from the Great War was attached to the Mediterranean, and so will the new division.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1857,
+    "key": "NZL_form_the_rnzn",
+    "val": "Form the RNZN",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1858,
+    "key": "NZL_form_the_rnzn_desc",
+    "val": "Our once small coastal patrol has now grown to include ships that can operate independently from Royal Navy supervision. New Zealand will have its own navy.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1859,
+    "key": "NZL_expand_devonport_naval_base",
+    "val": "Expand Devonport Naval Base",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1860,
+    "key": "NZL_expand_devonport_naval_base_desc",
+    "val": "The Devonport Naval Base will be the headquarters for our navy, but it must be expanded to meet the new demands of total war.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1863,
+    "key": "NZL_coastal_defense",
+    "val": "Coastal Defense",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1864,
+    "key": "NZL_coastal_defense_desc",
+    "val": "New Zealand is an island nation, far from enemies, so we must be prepared for amphibious attack along our coastlines.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1865,
+    "key": "NZL_destroyer_effort",
+    "val": "Destroyer Effort",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1866,
+    "key": "NZL_destroyer_effort_desc",
+    "val": "With our small industrial base, destroyers are the most efficient way for New Zealand to project naval power. Patrol the coasts, intercept submarines, and set early warning pickets.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1867,
+    "key": "NZL_submarine_effort",
+    "val": "Submarine Effort",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1868,
+    "key": "NZL_submarine_effort_desc",
+    "val": "Since any invasion will have to come by sea, the wolves of the ocean can be strong line of defense. Stealthy and hunting in packs, a submarine fleet can protect our sea lanes.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1869,
+    "key": "NZL_light_cruiser_effort",
+    "val": "Light Cruiser Effort",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1870,
+    "key": "NZL_light_cruiser_effort_desc",
+    "val": "Mid-size ships are appropriate for a mid-size power. Light cruisers can pack a punch, but have the speed to escape major engagements if necessary.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1871,
+    "key": "NZL_capital_ship_effort",
+    "val": "Capital Ship Effort",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1872,
+    "key": "NZL_capital_ship_effort_desc",
+    "val": "If New Zealand is to have a first rate navy, it has to have first rate ships. We must invest in battleships and heavy cruisers.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1873,
+    "key": "NZL_expand_the_nzpaf",
+    "val": "Expand the NZPAF",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1874,
+    "key": "NZL_expand_the_nzpaf_desc",
+    "val": "The New Zealand Permanent Air Force needs new coastal patrol craft and naval bombers. Modern nations cannot neglect the air war.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1875,
+    "key": "NZL_form_the_rnzaf",
+    "val": "Form the RNZAF",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1876,
+    "key": "NZL_form_the_rnzaf_desc",
+    "val": "The time has come to make the air force independent of the other combat arms. The Royal New Zealand Air Force will have its own command structure but co-operate closely with the Royal Air Force.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1877,
+    "key": "NZL_fighter_focus",
+    "val": "Fighter Focus",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1878,
+    "key": "NZL_fighter_focus_desc",
+    "val": "Fighters are effective at intercepting and escorting the bombers that will be the decisive weapon for our allies.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1879,
+    "key": "NZL_bomber_focus",
+    "val": "Bomber Focus",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1880,
+    "key": "NZL_bomber_focus_desc",
+    "val": "Light bombers can effectively protect our coastlines, and will be needed in the fight overseas against our enemies.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1881,
+    "key": "NZL_defend_our_islands",
+    "val": "Defend Our Islands",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1882,
+    "key": "NZL_defend_our_islands_desc",
+    "val": "We must be prepared for attack on our island paradise from the sea. Naval bombers can intercept and attack landing craft or even target capital ships.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1883,
+    "key": "NZL_modern_fighters",
+    "val": "Modern Fighters",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1884,
+    "key": "NZL_modern_fighters_desc",
+    "val": "It is time to upgrade our fighter designs to faster craft with a longer range. Our allies have shown the way with some of the most advanced planes the world has ever seen.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1885,
+    "key": "NZL_heavy_bombers",
+    "val": "Heavy Bombers",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1886,
+    "key": "NZL_heavy_bombers_desc",
+    "val": "The war can only be won by striking at the heart of the enemy homeland. Heavy bombers are necessary to deal a devastating blow to enemy factories and cities.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1887,
+    "key": "NZL_the_plan",
+    "val": "British Commonwealth Air Training Plan",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1888,
+    "key": "NZL_the_plan_desc",
+    "val": "We have joined with our allies to share experience and insight in the training of pilots. The war could be won from the air, so the Commonwealth Air Training Plan could be the key to victory.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1889,
+    "key": "NZL_national_roads_board",
+    "val": "National Roads Board",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1890,
+    "key": "NZL_national_roads_board_desc",
+    "val": "New Zealand's rough terrain has discouraged a coherent road building system, but we need to improve what we have in place. A highway system should be researched, roads should be paved, and new paths cut through the mountains.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1891,
+    "key": "NZL_new_zealand_steel",
+    "val": "New Zealand Steel",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1892,
+    "key": "NZL_new_zealand_steel_desc",
+    "val": "New Zealand has been blessed with abundant stores of ironsand, especially on the North Island. It takes a special process to extract ore from this sand, but it can serve as the cornerstone of our steel industry for years to come.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1893,
+    "key": "NZL_taranaki_oil",
+    "val": "Taranaki Oil",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1894,
+    "key": "NZL_taranaki_oil_desc",
+    "val": "The Taranaki region on the north island is rich in minerals and petroleum. Entrepreneurs have tried to exploit these oil reserves, but more investment is needed in refineries and drilling.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1895,
+    "key": "NZL_wairarapa_sheep_farms",
+    "val": "Wairarapa Sheep Farms",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1896,
+    "key": "NZL_wairarapa_sheep_farms_desc",
+    "val": "The wool industry of Wairarapa is one of the cornerstones of the New Zealand economy. As the world breaks out of its Depression, there will be greater demand for our wool.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1897,
+    "key": "NZL_bureau_of_industry",
+    "val": "Bureau of Industry",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1898,
+    "key": "NZL_bureau_of_industry_desc",
+    "val": "New Zealand is an agrarian society, with an emphasis on ranching. The Bureau of Industry must encourage great investment in capital infrastructure and manufacturing.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1899,
+    "key": "NZL_department_of_scientific_and_industrial_research",
+    "val": "Department of Scientific And Industrial Research",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1900,
+    "key": "NZL_department_of_scientific_and_industrial_research_desc",
+    "val": "The other Commonwealth and Dominion nations are investing in scientific and industrial research, so we should do the same.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1901,
+    "key": "NZL_industrial_conscription",
+    "val": "Industrial Conscription",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1902,
+    "key": "NZL_industrial_conscription_desc",
+    "val": "There is no reason for any able bodied man to not be serving in the armed forces or working in a war related industry. Our new laws will put every shoulder to the wheel of mobilization and production.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1903,
+    "key": "NZL_think_big",
+    "val": "Think Big",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1904,
+    "key": "NZL_think_big_desc",
+    "val": "We have become accustomed to see ourselves as a lesser Dominion than our Aussie or Canadian allies. But New Zealand is fully capable of industrial greatness.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1905,
+    "key": "NZL_project_seal",
+    "val": "Project Seal",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1906,
+    "key": "NZL_project_seal_desc",
+    "val": "Project Seal is a new initiative with the Americans to develop a weapon that can trigger tsunamis to overwhelm our enemies. It is a little fanciful, but the bouncing bomb that has been developed shows great promise.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1907,
+    "key": "NZL_national_defense_institute",
+    "val": "National Defense Institute",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1908,
+    "key": "NZL_national_defense_institute_desc",
+    "val": "Now that New Zealand is fully a sovereign nation we are no longer receiving access to advanced prototypes and blueprints like we previously did. We must ensure that we always stay ahead of our enemies, and do not fall behind in technology.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1909,
+    "key": "NZL_expand_the_university_of_auckland",
+    "val": "Expand the University of Auckland",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1910,
+    "key": "NZL_expand_the_university_of_auckland_desc",
+    "val": "The University of Auckland is our most important post-secondary institution. By expanding its facilities, we can try to keep some of our finest minds here at home.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1911,
+    "key": "NZL_army_reforms",
+    "val": "Army Reforms",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1912,
+    "key": "NZL_army_reforms_desc",
+    "val": "We should modernize our army's training and promotion system. This way we can be prepared for whatever happens in the ongoing world crisis.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1913,
+    "key": "NZL_charlton_automatic_rifle",
+    "val": "Charlton Automatic Rifle",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1914,
+    "key": "NZL_charlton_automatic_rifle_desc",
+    "val": "One of our citizens has modified the standard Lee Enfield rifle into a full automatic gun. This is New Zealand ingenuity at its best and we should encourage innovation along these lines.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1915,
+    "key": "NZL_bob_semple_tank",
+    "val": "Bob Semple Tank",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1916,
+    "key": "NZL_bob_semple_tank_desc",
+    "val": "Why shouldn’t New Zealand have its own tank? The Ministry of Works in Temuka is developing a light tank armed with only machine guns. Even if we never get this beyond a prototype, the experience we gain will be invaluable.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1917,
+    "key": "NZL_domestic_arms_industry",
+    "val": "Domestic Arms Industry",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1918,
+    "key": "NZL_domestic_arms_industry_desc",
+    "val": "We should turn as many industries as we can over to the production of small arms. We need ammunition, gun parts, support equipment and so forth. These can be made domestically.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1919,
+    "key": "NZL_schofield_tank",
+    "val": "Schofield Tank",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1920,
+    "key": "NZL_schofield_tank_desc",
+    "val": "If the Semple Tank didn’t meet our needs, maybe a tank with a proper cannon will do the trick. The combined wheel/track system is original and might lead us to new insights into tank design.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1921,
+    "key": "NZL_long_range_patrol",
+    "val": "Long Range Patrol",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1922,
+    "key": "NZL_long_range_patrol_desc",
+    "val": "The Long Range Patrol is intended to cover wide expanses of territory in North Africa. This reconnaissance and commando unit will undertake special missions in some of the world's harshest climates.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1923,
+    "key": "NZL_artillery_focus",
+    "val": "Artillery Focus",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1924,
+    "key": "NZL_artillery_focus_desc",
+    "val": "Artillery is crucial for the support of any forward movement by our infantry. Expand research into ballistics and larger barrel guns.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1925,
+    "key": "NZL_big_bob_tank",
+    "val": "Big Bob Tank",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1926,
+    "key": "NZL_big_bob_tank_desc",
+    "val": "The battlefields of Europe are calling for heavier armor to compete with the super tanks of our enemies. The Big Bob will be New Zealand's contribution to this design effort.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1927,
+    "key": "NZL_research_collaboration",
+    "val": "Research Collaboration",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1928,
+    "key": "NZL_research_collaboration_desc",
+    "val": "The British showed us the advantage of sharing scientific progress between close allies. Our whole faction will be able to conduct wartime R&D more efficiently if we take the steps necessary to coordinate this.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1929,
+    "key": "NZL_the_first_labor_government",
+    "val": "The First Labour Government",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1930,
+    "key": "NZL_the_first_labor_government_desc",
+    "val": "The First Labour Government for New Zealand has the opportunity to pursue a progressive social and economic agenda. Industrial regulation, workers’ rights, social welfare laws and rules for wages are all on the agenda.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1931,
+    "key": "NZL_ratana_alliance",
+    "val": "Ratana Alliance",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1932,
+    "key": "NZL_ratana_alliance_desc",
+    "val": "An alliance with the Ratana movement will bring Maori New Zealanders into the government and hopefully begin to heal some of the wounds of British conquest.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1933,
+    "key": "NZL_maori_affairs_act",
+    "val": "Maori Affairs Act",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1934,
+    "key": "NZL_maori_affairs_act_desc",
+    "val": "Much of the land owned by Maori is economically unproductive. If we can consolidate it and bring more under government control, we can turn these barren locations into fruitful sites of industry and commerce.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1935,
+    "key": "NZL_social_security_act",
+    "val": "Social Security Act",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1936,
+    "key": "NZL_social_security_act_desc",
+    "val": "The unemployed of New Zealand need to be taken care of until the economy recovers and more jobs are available. We started with a Christmas bonus in 1935, but the time has come for a proper social safety net for all citizens.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1937,
+    "key": "NZL_the_manpower_act",
+    "val": "The Manpower Act",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1938,
+    "key": "NZL_the_manpower_act_desc",
+    "val": "Ever since the war started, Maori have come to the cities in large numbers. The Manpower Act will let us steer those energies into New Zealand factories.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1939,
+    "key": "NZL_amend_the_maori_affairs_act",
+    "val": "Amend the Maori Affairs Act",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1940,
+    "key": "NZL_amend_the_maori_affairs_act_desc",
+    "val": "We must amend the Maori Affairs Act so that it boosts the productivity of underutilized lands, but doesn’t needlessly displace our Maori citizens.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1941,
+    "key": "NZL_waitangi_tribunal",
+    "val": "Waitangi Tribunal",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1942,
+    "key": "NZL_waitangi_tribunal_desc",
+    "val": "British New Zealanders should come to terms with what their ancestors did to displace, disrupt and marginalize the Maori of New Zealand. Bloody wars, land seizures, and natural rights ignored. Recognizing this legacy is a step to healing.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1943,
+    "key": "NZL_maori_conscription",
+    "val": "Maori Conscription",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1944,
+    "key": "NZL_maori_conscription_desc",
+    "val": "The bravery and heroism of the Maori Battalion attached to the Expeditionary Force is a sign that we should make the most of our entire population by drafting even the reluctant Maori into the service.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1945,
+    "key": "NZL_maori_volunteers",
+    "val": "Maori Volunteers",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1946,
+    "key": "NZL_maori_volunteers_desc",
+    "val": "Showing their patriotism, hundreds of Maori are stepping up to volunteer for service in the New Zealand army.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1947,
+    "key": "NZL_strengthen_the_commonwealth",
+    "val": "Strengthen the Commonwealth",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1948,
+    "key": "NZL_strengthen_the_commonwealth_desc",
+    "val": "As a smaller Dominion, it is important to stick close to our friends and family. We will reinforce our ties to our fellow British territories.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1949,
+    "key": "NZL_statute_of_westminster",
+    "val": "Statute of Westminster",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1950,
+    "key": "NZL_statute_of_westminster_desc",
+    "val": "The Statute of Westminster gives us greater independence under the Crown while still keeping us within the Empire.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1951,
+    "key": "NZL_2nzef",
+    "val": "2NZEF",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1952,
+    "key": "NZL_2nzef_desc",
+    "val": "Despite the horrors of the last war, New Zealand is ready to march again. The 2nd New Zealand Expeditionary Force is being organized as we speak.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1953,
+    "key": "NZL_arrest_pacifist_leaders",
+    "val": "Arrest Pacifist Leaders",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1954,
+    "key": "NZL_arrest_pacifist_leaders_desc",
+    "val": "Now is not a time for dissension within the country. Everyone must focus on winning the war, and if that means detaining any who speak against the war, then that is what we will do.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1955,
+    "key": "NZL_technology_sharing_with_britain",
+    "val": "Technology Sharing With Britain",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1956,
+    "key": "NZL_technology_sharing_with_britain_desc",
+    "val": "Great Britain's scientific and industrial base far exceeds our own, but since we are family, they are willing to share what they know with us.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1957,
+    "key": "NZL_the_lee_affair",
+    "val": "The Lee Affair",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1958,
+    "key": "NZL_the_lee_affair_desc",
+    "val": "John Lee, MP for Grey Lynn, has been causing problems within the Labour caucus. He is agitating for a more radical agenda instead of the cautious path we are taking. Measures must be taken to quiet his revolt.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1959,
+    "key": "NZL_empower_the_working_class",
+    "val": "Empower the Working Class",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1960,
+    "key": "NZL_empower_the_working_class_desc",
+    "val": "Labour has championed the working class since its founding, indeed many of our leaders have working class origins. Let's push for more dramatic protections and powers for the unions.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1961,
+    "key": "NZL_join_comintern",
+    "val": "Join Comintern",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1962,
+    "key": "NZL_join_comintern_desc",
+    "val": "The time has come to join with our socialist brothers in an alliance. Through the Comintern we will achieve the worker's paradise.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1963,
+    "key": "NZL_technology_sharing_with_soviet_union",
+    "val": "Technology Sharing With Soviet Union",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1964,
+    "key": "NZL_technology_sharing_with_soviet_union_desc",
+    "val": "The Soviet Union has many of the world's top scientists and technology innovators. They are generous enough to share what they know with us, their comrades in arms.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1965,
+    "key": "NZL_in_the_darkness",
+    "val": "In the Darkness",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1966,
+    "key": "NZL_in_the_darkness_desc",
+    "val": "There is a rot inherent in the democratic systems championed by our mother country. True strength cannot be demonstrated through compromise.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1967,
+    "key": "NZL_befriend_japan",
+    "val": "Befriend Japan",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1968,
+    "key": "NZL_befriend_japan_desc",
+    "val": "As a Pacific nation, it suits our security interests to side with the strongest power in the region. Japan and its mighty navies can protect us from the world's dangers.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1969,
+    "key": "NZL_rule_them_all",
+    "val": "Rule Them All",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1970,
+    "key": "NZL_rule_them_all_desc",
+    "val": "The antipodean nations of the South Pacific should be one united power. Australia should consider submitting to our superior ethos.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1971,
+    "key": "NZL_technology_sharing_with_japan",
+    "val": "Technology Sharing With Japan",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1972,
+    "key": "NZL_technology_sharing_with_japan_desc",
+    "val": "Japan has many of the world's top scientists and technology innovators. They are generous enough to share what they know with us, their brothers in arms.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1973,
+    "key": "NZL_constitution_amendment_act",
+    "val": "Constitution Amendment Act",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1974,
+    "key": "NZL_constitution_amendment_act_desc",
+    "val": "The time has come for New Zealand to consider separating itself from British domination. We will amend our constitution to assert greater control over our own affairs.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1975,
+    "key": "NZL_independent_new_zealand",
+    "val": "Independent New Zealand",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1976,
+    "key": "NZL_independent_new_zealand_desc",
+    "val": "We are now a Republic! New Zealand owes nothing to the United Kingdom but the gratitude any child owes its mother for raising it safely. But we must leave the safe nest of the Commonwealth and view the world with our own interests in mind.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1977,
+    "key": "NZL_transfer_ships_tt",
+    "val": "[ENG.GetNameDefCap] transfers §Y2 Light Cruisers§! to us.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1978,
+    "key": "RAJ_provincial_elections",
+    "val": "Provincial Elections",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1979,
+    "key": "RAJ_provincial_elections_desc",
+    "val": "The new Government of India Act mandates elections in the provinces, establishing some measure of local government responsible to the Indian population. We will see what effect this has on the British rule.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1980,
+    "key": "RAJ_swaraj",
+    "val": "Swaraj",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1981,
+    "key": "RAJ_swaraj_desc",
+    "val": "Gandhi's concept of self-rule - Swaraj - is gaining popularity throughout India. It advocates a total break from British institutions and customs and Swaraj groups are agitating at Indian schools.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1982,
+    "key": "RAJ_indian_national_congress",
+    "val": "Indian National Congress",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1983,
+    "key": "RAJ_indian_national_congress_desc",
+    "val": "The Indian National Congress has been very successful in elections across the subcontinent. They are a strong voice for an independent India, or at least one with greater autonomy within the Empire.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1984,
+    "key": "RAJ_quit_india_movement",
+    "val": "Quit India Movement",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1985,
+    "key": "RAJ_quit_india_movement_desc",
+    "val": "Gandhi's campaign for Indian Independence has reached a climax with a call for the British to leave India. It is inconceivable that the Raj can end before the war is over, but the situation on the ground is growing more tense by the day.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1986,
+    "key": "RAJ_all_india_forward_bloc",
+    "val": "All India Forward Bloc",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1987,
+    "key": "RAJ_all_india_forward_bloc_desc",
+    "val": "The All India Forward Bloc thinks that British disengagement from India is taking too long. A stronger - even militant - position must be taken.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1988,
+    "key": "RAJ_seek_help_from_soviet",
+    "val": "Seek Help From Soviet",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1989,
+    "key": "RAJ_seek_help_from_soviet_promised",
+    "val": " The Soviet Union pledged their help",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1990,
+    "key": "RAJ_seek_help_from_soviet_desc",
+    "val": "The Soviet Union is the natural balance to British Imperial power. They claim they are the engine of revolution, and we should encourage them to export their revolution to India.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1991,
+    "key": "RAJ_indian_peoples_army",
+    "val": "Indian Peoples Army",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1992,
+    "key": "RAJ_indian_peoples_army_effect",
+    "val": "The communist supporters start a civil war for freedom. The size depends on party support and autonomy progress. ",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1993,
+    "key": "RAJ_indian_peoples_army_support",
+    "val": "[SOV.GetNameDefCap] will support their cause.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1994,
+    "key": "RAJ_indian_peoples_army_desc",
+    "val": "We should organize a military force that will learn from and be allied with the Communist cause.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1995,
+    "key": "RAJ_research_city_excursions",
+    "val": "Research City Excursions",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1996,
+    "key": "RAJ_research_city_excursions_desc",
+    "val": "Soviet Research Cities are a wonder, and India's population is full of energetic and intelligent minds. Sending our young engineers to these cities will help us develop a domestic research and industry base.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1997,
+    "key": "RAJ_combined_arms_academy",
+    "val": "Combined Arms Academy",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1998,
+    "key": "RAJ_combined_arms_academy_desc",
+    "val": "Soviet military training can be made more efficient through the new Combined Arms Academy. We can get up to date on modern warfare, using air, land and sea power.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1999,
+    "key": "RAJ_rani_of_jhans",
+    "val": "Rani of Jhansi",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2000,
+    "key": "RAJ_rani_of_jhans_desc",
+    "val": "Rani of Jhansi was a great hero of the Indian Revolution of 1857. Her example of bravery and national pride is a model for all of the women of India who want to take up arms and form a regiment of their own.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2001,
+    "key": "RAJ_rebuilding_the_nation",
+    "val": "Rebuilding the Nation",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2002,
+    "key": "RAJ_rebuilding_the_nation_desc",
+    "val": "With the Imperial oppressor expelled and the Indian population mobilized to action, the time has come to repair the damage of two centuries of occupation.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2003,
+    "key": "RAJ_seek_help_from_germany",
+    "val": "Seek Help From Germany",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2004,
+    "key": "RAJ_seek_help_from_germany_promised",
+    "val": " The German Reich pledged their help",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2005,
+    "key": "RAJ_seek_help_from_germany_desc",
+    "val": "Germany has never harmed us the way that Britain has, and the Reich is the most plausible challenge to British power. We should draw closer to the Axis powers.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2006,
+    "key": "RAJ_indian_national_army",
+    "val": "Indian National Army",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2007,
+    "key": "RAJ_indian_national_army_effect",
+    "val": "The fascist supporters start a civil war for freedom. The size depends on party support and autonomy progress. ",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2008,
+    "key": "RAJ_indian_national_army_support",
+    "val": "[GER.GetNameDefCap] will support their cause.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2009,
+    "key": "RAJ_indian_national_army_desc",
+    "val": "An Indian National Army, distinct from British controlled forces, has been organized. We can build it in regions free from British interference and line up against the Allies, sapping Indian manpower from the Raj.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2010,
+    "key": "RAJ_battaglione_azad_hindoustan",
+    "val": "Battaglione Azad Hindoustan",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2011,
+    "key": "RAJ_battaglione_azad_hindoustan_desc",
+    "val": "Italy has formed the Battaglione Azad Hindoustan, a regiment of Indian former POWs. Trained in sabotage, parachuting and infiltration, the BAH could be a big step for national pride.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2012,
+    "key": "RAJ_german_technology",
+    "val": "[Root.GetGermanTechnologyName]",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2013,
+    "key": "RAJ_german_technology_german",
+    "val": "German Technology",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2014,
+    "key": "RAJ_german_technology_japan",
+    "val": "Japanese Technology",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2015,
+    "key": "RAJ_german_technology_desc",
+    "val": "German scientists are the best in the world, and their military machine is based on the best modern engineering techniques. They are willing to share their advances with us.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2016,
+    "key": "RAJ_japanese_army_air_force_academy",
+    "val": "[Root.GetJAAFAName]",
+    "isPureVar": false
+  }
+]

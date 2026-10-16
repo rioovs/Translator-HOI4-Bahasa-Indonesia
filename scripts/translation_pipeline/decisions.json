@@ -1,0 +1,2032 @@
+[
+  {
+    "line_num": 2,
+    "key": "DECISIONVIEW_TITLE",
+    "ver": "",
+    "val": "Events and Decisions",
+    "comm": ""
+  },
+  {
+    "line_num": 3,
+    "key": "DECISIONSVIEW_EVENT_HEADER",
+    "ver": "",
+    "val": "Events",
+    "comm": ""
+  },
+  {
+    "line_num": 4,
+    "key": "POPUP_NEWS",
+    "ver": "",
+    "val": "News Popup",
+    "comm": ""
+  },
+  {
+    "line_num": 5,
+    "key": "POPUP_EVENTS",
+    "ver": "",
+    "val": "Event Popup",
+    "comm": ""
+  },
+  {
+    "line_num": 6,
+    "key": "CATEGORY_COLLAPSE_DESC",
+    "ver": "",
+    "val": "§GClick§! to collapse",
+    "comm": ""
+  },
+  {
+    "line_num": 7,
+    "key": "CATEGORY_EXPAND_DESC",
+    "ver": "",
+    "val": "§GClick§! to expand",
+    "comm": ""
+  },
+  {
+    "line_num": 8,
+    "key": "DECISION_KEEP_NOTIFIED",
+    "ver": "",
+    "val": "§HNotify§!\\n\\n§GClick§! to §Rnot be notified§! when it is possible to take this decision.\\n",
+    "comm": ""
+  },
+  {
+    "line_num": 9,
+    "key": "DECISION_NOT_KEEP_NOTIFIED",
+    "ver": "",
+    "val": "§HNotify§!\\n\\n§GClick§! to §Gbe notified§! when it is possible to take this decision.\\n",
+    "comm": ""
+  },
+  {
+    "line_num": 10,
+    "key": "TAKE_DECISION_HEADER",
+    "ver": "",
+    "val": "§HTake decision§!\\n\\n",
+    "comm": ""
+  },
+  {
+    "line_num": 11,
+    "key": "NEWS_POPUP_CHECKBOX_TOOLTIP",
+    "ver": "",
+    "val": "§GClick§! to toggle News notifications",
+    "comm": ""
+  },
+  {
+    "line_num": 12,
+    "key": "EVENT_POPUP_CHECKBOX_TOOLTIP",
+    "ver": "",
+    "val": "§GClick§! to toggle Event notifications",
+    "comm": ""
+  },
+  {
+    "line_num": 13,
+    "key": "MINOR_EVENT_POPUP_CHECKBOX_TOOLTIP",
+    "ver": "",
+    "val": "§GClick§! to toggle minor event notifications, such as Ace Pilot events.",
+    "comm": ""
+  },
+  {
+    "line_num": 14,
+    "key": "POPUP_MINOR_EVENTS",
+    "ver": "",
+    "val": "Minor Popup",
+    "comm": ""
+  },
+  {
+    "line_num": 15,
+    "key": "DECISION_COST_DESC",
+    "ver": "",
+    "val": "It costs £pol_power $VAL|H0$ to take the decision",
+    "comm": ""
+  },
+  {
+    "line_num": 16,
+    "key": "DECISION_COST_NOT_ENOUGH",
+    "ver": "",
+    "val": "It costs £pol_power $VAL|HR0$ to take the decision",
+    "comm": ""
+  },
+  {
+    "line_num": 17,
+    "key": "ON_MAP_DECISION_NAME_DEFAULT",
+    "ver": "",
+    "val": "Find decisions on the map.",
+    "comm": ""
+  },
+  {
+    "line_num": 18,
+    "key": "ADD_DAYS_TO_DECISION",
+    "ver": "",
+    "val": "Add $DAYS|H$ days to Decision $DECISION|H$",
+    "comm": ""
+  },
+  {
+    "line_num": 19,
+    "key": "REMOVE_DAYS_TO_DECISION",
+    "ver": "",
+    "val": "Remove $DAYS|H$ days from Decision $DECISION|H$",
+    "comm": ""
+  },
+  {
+    "line_num": 20,
+    "key": "ADD_DAYS_TO_MISSION",
+    "ver": "",
+    "val": "Add $DAYS|H$ days to Mission $MISSION|H$",
+    "comm": ""
+  },
+  {
+    "line_num": 21,
+    "key": "REMOVE_DAYS_TO_MISSION",
+    "ver": "",
+    "val": "Remove $DAYS|H$ days from Mission $MISSION|H$",
+    "comm": ""
+  },
+  {
+    "line_num": 22,
+    "key": "CLICK_TO_TOGGLE_ALL_CATEGORY_DECISION_TRACKING",
+    "ver": "",
+    "val": "§GClick§! to toggle notification status for all decisions under this category.",
+    "comm": ""
+  },
+  {
+    "line_num": 23,
+    "key": "banned_communism_flag",
+    "ver": "",
+    "val": "Has banned communist parties",
+    "comm": ""
+  },
+  {
+    "line_num": 24,
+    "key": "FRA_civil_unrest_category",
+    "ver": "",
+    "val": "Civil Unrest",
+    "comm": ""
+  },
+  {
+    "line_num": 25,
+    "key": "FRA_communist_civil_war_decision",
+    "ver": "",
+    "val": "Imminent Communist Uprising",
+    "comm": ""
+  },
+  {
+    "line_num": 26,
+    "key": "FRA_communist_civil_war_decision_desc",
+    "ver": "",
+    "val": "The rising furore of radical politics is becoming harder to appease - eventually we must confront it one way or another.",
+    "comm": ""
+  },
+  {
+    "line_num": 27,
+    "key": "FRA_fascist_civil_war_decision",
+    "ver": "",
+    "val": "Imminent Fascist Uprising",
+    "comm": ""
+  },
+  {
+    "line_num": 28,
+    "key": "FRA_fascist_civil_war_decision_desc",
+    "ver": "",
+    "val": "The rising populist sentiment is proving to be an unstoppable tide. There is no avoiding the inevitable.",
+    "comm": ""
+  },
+  {
+    "line_num": 29,
+    "key": "ETH_defeat_italy",
+    "ver": "",
+    "val": "Defeat the Colonizers",
+    "comm": ""
+  },
+  {
+    "line_num": 30,
+    "key": "ETH_defeat_italy_category",
+    "ver": "",
+    "val": "The Second Italian-Ethiopian War",
+    "comm": ""
+  },
+  {
+    "line_num": 31,
+    "key": "ETH_defeat_italy_category_desc",
+    "ver": "",
+    "val": "Italy once again seeks to see Ethiopia subjugated into a mere colony. We defeated these invaders last time, and we can defeat them again if only we can remove them from our border for good!",
+    "comm": ""
+  },
+  {
+    "line_num": 32,
+    "key": "seize_some_trains_woo",
+    "ver": "",
+    "val": "Commandeer Civilian Trains",
+    "comm": ""
+  },
+  {
+    "line_num": 33,
+    "key": "seize_some_trains_woo_desc",
+    "ver": "",
+    "val": "The merchant rail companies hold sway over our infrastructure. With war looming, we are well within our rights to commandeer equipment for state use.",
+    "comm": ""
+  },
+  {
+    "line_num": 34,
+    "key": "random_general_monarchy_tt",
+    "ver": "",
+    "val": "A random [FROM.GetAdjective] general will gain secret monarchist sympathies.",
+    "comm": ""
+  },
+  {
+    "line_num": 35,
+    "key": "removed_when_cancelled_war_prop",
+    "ver": "",
+    "val": "Propaganda campaigns have been ended.",
+    "comm": ""
+  },
+  {
+    "line_num": 36,
+    "key": "war_propaganda_casualties",
+    "ver": "",
+    "val": "Exhort Heroism",
+    "comm": ""
+  },
+  {
+    "line_num": 37,
+    "key": "war_propaganda_casualties_desc",
+    "ver": "",
+    "val": "Although the death toll rises, our people must be taught that only in battle are heroes forged.",
+    "comm": ""
+  },
+  {
+    "line_num": 38,
+    "key": "war_propaganda_convoys",
+    "ver": "",
+    "val": "Encourage Frugality",
+    "comm": ""
+  },
+  {
+    "line_num": 39,
+    "key": "war_propaganda_convoys_desc",
+    "ver": "",
+    "val": "Even civilians can help win the war - by care and attention to our material usage, every gram of steel can be made twice as valuable to the war effort.",
+    "comm": ""
+  },
+  {
+    "line_num": 40,
+    "key": "war_propaganda_bombing",
+    "ver": "",
+    "val": "Bolster Spirits",
+    "comm": ""
+  },
+  {
+    "line_num": 41,
+    "key": "war_propaganda_bombing_desc",
+    "ver": "",
+    "val": "Though bombs fall all around us, our brave workers soldier on. It is by this spirit that we will be victorious.",
+    "comm": ""
+  },
+  {
+    "line_num": 42,
+    "key": "war_support_during_war",
+    "ver": "",
+    "val": "War Support",
+    "comm": ""
+  },
+  {
+    "line_num": 43,
+    "key": "CHI_occupation_actions",
+    "ver": "",
+    "val": "Anti-Occupation Measures",
+    "comm": ""
+  },
+  {
+    "line_num": 44,
+    "key": "CHI_breach_the_yellow_river",
+    "ver": "",
+    "val": "Breach the Yellow River Dikes",
+    "comm": ""
+  },
+  {
+    "line_num": 45,
+    "key": "CHI_breach_the_yellow_river_desc",
+    "ver": "",
+    "val": "The Yellow River is the lifeblood of the surrounding regions, but stands in the path of the oncoming invasion. As a last resort to slow invading forces, the suggestion to blow the complex system of dikes and dams has been made.\\n\\nThe efficacy of this action is difficult to determine, but the consequences will be severe.",
+    "comm": ""
+  },
+  {
+    "line_num": 46,
+    "key": "yellow_river_blown",
+    "ver": "",
+    "val": "Extreme Flooding",
+    "comm": ""
+  },
+  {
+    "line_num": 47,
+    "key": "yellow_river_blown_desc",
+    "ver": "",
+    "val": "This region is heavily flooded due to the sabotage of the yellow river flood defenses.",
+    "comm": ""
+  },
+  {
+    "line_num": 49,
+    "key": "decision_cost_CP_15",
+    "ver": "",
+    "val": "£command_power  §Y15§!",
+    "comm": ""
+  },
+  {
+    "line_num": 50,
+    "key": "decision_cost_CP_15_blocked",
+    "ver": "",
+    "val": "£command_power  §R15§!",
+    "comm": ""
+  },
+  {
+    "line_num": 51,
+    "key": "decision_cost_CP_15_tooltip",
+    "ver": "",
+    "val": "It costs £command_power  §Y15§! to take the decision",
+    "comm": ""
+  },
+  {
+    "line_num": 53,
+    "key": "decision_cost_CP_25",
+    "ver": "",
+    "val": "£command_power  §Y25§!",
+    "comm": ""
+  },
+  {
+    "line_num": 54,
+    "key": "decision_cost_CP_25_blocked",
+    "ver": "",
+    "val": "£command_power  §R25§!",
+    "comm": ""
+  },
+  {
+    "line_num": 55,
+    "key": "decision_cost_CP_25_tooltip",
+    "ver": "",
+    "val": "It costs £command_power  §Y25§! to take the decision",
+    "comm": ""
+  },
+  {
+    "line_num": 57,
+    "key": "decision_cost_CP_30",
+    "ver": "",
+    "val": "£command_power  §Y30§!",
+    "comm": ""
+  },
+  {
+    "line_num": 58,
+    "key": "decision_cost_CP_30_blocked",
+    "ver": "",
+    "val": "£command_power  §R30§!",
+    "comm": ""
+  },
+  {
+    "line_num": 59,
+    "key": "decision_cost_CP_30_tooltip",
+    "ver": "",
+    "val": "It costs £command_power  §Y30§! to take the decision",
+    "comm": ""
+  },
+  {
+    "line_num": 61,
+    "key": "decision_cost_CP_35",
+    "ver": "",
+    "val": "£command_power  §Y35§!",
+    "comm": ""
+  },
+  {
+    "line_num": 62,
+    "key": "decision_cost_CP_35_blocked",
+    "ver": "",
+    "val": "£command_power  §R35§!",
+    "comm": ""
+  },
+  {
+    "line_num": 63,
+    "key": "decision_cost_CP_35_tooltip",
+    "ver": "",
+    "val": "It costs £command_power  §Y35§! to take the decision",
+    "comm": ""
+  },
+  {
+    "line_num": 65,
+    "key": "decision_cost_CP_40",
+    "ver": "",
+    "val": "£command_power  §Y40§!",
+    "comm": ""
+  },
+  {
+    "line_num": 66,
+    "key": "decision_cost_CP_40_blocked",
+    "ver": "",
+    "val": "£command_power  §R40§!",
+    "comm": ""
+  },
+  {
+    "line_num": 67,
+    "key": "decision_cost_CP_40_tooltip",
+    "ver": "",
+    "val": "It costs £command_power  §Y40§! to take the decision",
+    "comm": ""
+  },
+  {
+    "line_num": 69,
+    "key": "decision_cost_CP_75",
+    "ver": "",
+    "val": "£command_power  §Y75§!",
+    "comm": ""
+  },
+  {
+    "line_num": 70,
+    "key": "decision_cost_CP_75_blocked",
+    "ver": "",
+    "val": "£command_power  §R75§!",
+    "comm": ""
+  },
+  {
+    "line_num": 71,
+    "key": "decision_cost_CP_75_tooltip",
+    "ver": "",
+    "val": "It costs £command_power  §Y75§! to take the decision",
+    "comm": ""
+  },
+  {
+    "line_num": 73,
+    "key": "decision_cost_CP_50",
+    "ver": "",
+    "val": "£command_power  §Y50§!",
+    "comm": ""
+  },
+  {
+    "line_num": 74,
+    "key": "decision_cost_CP_50_blocked",
+    "ver": "",
+    "val": "£command_power  §R50§!",
+    "comm": ""
+  },
+  {
+    "line_num": 75,
+    "key": "decision_cost_CP_50_tooltip",
+    "ver": "",
+    "val": "It costs £command_power  §Y50§! to take the decision",
+    "comm": ""
+  },
+  {
+    "line_num": 77,
+    "key": "decision_cost_CP_5_pp_25",
+    "ver": "",
+    "val": "£command_power  §Y5§! £pol_power  §Y25§!",
+    "comm": ""
+  },
+  {
+    "line_num": 78,
+    "key": "decision_cost_CP_5_pp_25_blocked",
+    "ver": "",
+    "val": "£command_power  §R5§! £pol_power  §R25§!",
+    "comm": ""
+  },
+  {
+    "line_num": 79,
+    "key": "decision_cost_CP_5_pp_25_tooltip",
+    "ver": "",
+    "val": "It costs £command_power  §Y5§! £pol_power  §Y25§! to take the decision",
+    "comm": ""
+  },
+  {
+    "line_num": 81,
+    "key": "decision_cost_CP_15_pp_15",
+    "ver": "",
+    "val": "£command_power  §Y15§! £pol_power  §Y15§!",
+    "comm": ""
+  },
+  {
+    "line_num": 82,
+    "key": "decision_cost_CP_15_pp_15_blocked",
+    "ver": "",
+    "val": "£command_power  §R15§! £pol_power  §R15§!",
+    "comm": ""
+  },
+  {
+    "line_num": 83,
+    "key": "decision_cost_CP_15_pp_15_tooltip",
+    "ver": "",
+    "val": "It costs £command_power  §Y15§! £pol_power  §Y15§! to take the decision",
+    "comm": ""
+  },
+  {
+    "line_num": 85,
+    "key": "decision_cost_CP_25_pp_50",
+    "ver": "",
+    "val": "£command_power  §Y25§! £pol_power  §Y50§!",
+    "comm": ""
+  },
+  {
+    "line_num": 86,
+    "key": "decision_cost_CP_25_pp_50_blocked",
+    "ver": "",
+    "val": "£command_power  §R25§! £pol_power  §R50§!",
+    "comm": ""
+  },
+  {
+    "line_num": 87,
+    "key": "decision_cost_CP_25_pp_50_tooltip",
+    "ver": "",
+    "val": "It costs £command_power  §Y25§! £pol_power  §Y50§! to take the decision",
+    "comm": ""
+  },
+  {
+    "line_num": 89,
+    "key": "decision_cost_CP_25_pp_25",
+    "ver": "",
+    "val": "£command_power  §Y25§! £pol_power  §Y25§!",
+    "comm": ""
+  },
+  {
+    "line_num": 90,
+    "key": "decision_cost_CP_25_pp_25_blocked",
+    "ver": "",
+    "val": "£command_power  §R25§! £pol_power  §R25§!",
+    "comm": ""
+  },
+  {
+    "line_num": 91,
+    "key": "decision_cost_CP_25_pp_25_tooltip",
+    "ver": "",
+    "val": "It costs £command_power  §Y25§! £pol_power  §Y25§! to take the decision",
+    "comm": ""
+  },
+  {
+    "line_num": 93,
+    "key": "decision_cost_CP_50_pp_50",
+    "ver": "",
+    "val": "£command_power  §Y50§! £pol_power  §Y50§!",
+    "comm": ""
+  },
+  {
+    "line_num": 94,
+    "key": "decision_cost_CP_50_pp_50_blocked",
+    "ver": "",
+    "val": "£command_power  §R50§! £pol_power  §R50§!",
+    "comm": ""
+  },
+  {
+    "line_num": 95,
+    "key": "decision_cost_CP_50_pp_50_tooltip",
+    "ver": "",
+    "val": "It costs £command_power  §Y50§! £pol_power  §Y50§! to take the decision",
+    "comm": ""
+  },
+  {
+    "line_num": 97,
+    "key": "decision_cost_CP_50_pp_35",
+    "ver": "",
+    "val": "£command_power  §Y50§! £pol_power  §Y35§!",
+    "comm": ""
+  },
+  {
+    "line_num": 98,
+    "key": "decision_cost_CP_50_pp_35_blocked",
+    "ver": "",
+    "val": "£command_power  §R50§! £pol_power  §R35§!",
+    "comm": ""
+  },
+  {
+    "line_num": 99,
+    "key": "decision_cost_CP_50_pp_35_tooltip",
+    "ver": "",
+    "val": "It costs £command_power  §Y50§! £pol_power  §Y35§! to take the decision",
+    "comm": ""
+  },
+  {
+    "line_num": 101,
+    "key": "decision_cost_CP_25_pp_75",
+    "ver": "",
+    "val": "£command_power  §Y25§! £pol_power  §Y75§!",
+    "comm": ""
+  },
+  {
+    "line_num": 102,
+    "key": "decision_cost_CP_25_pp_75_blocked",
+    "ver": "",
+    "val": "£command_power  §R25§! £pol_power  §R75§!",
+    "comm": ""
+  },
+  {
+    "line_num": 103,
+    "key": "decision_cost_CP_25_pp_75_tooltip",
+    "ver": "",
+    "val": "It costs £command_power  §Y25§! £pol_power  §Y75§! to take the decision",
+    "comm": ""
+  },
+  {
+    "line_num": 105,
+    "key": "decision_cost_CP_50_PP_100",
+    "ver": "",
+    "val": "£command_power  §Y50§! £pol_power  §Y100§!",
+    "comm": ""
+  },
+  {
+    "line_num": 106,
+    "key": "decision_cost_CP_50_PP_100_blocked",
+    "ver": "",
+    "val": "£command_power  §R50§! £pol_power  §R100§!",
+    "comm": ""
+  },
+  {
+    "line_num": 107,
+    "key": "decision_cost_CP_50_PP_100_tooltip",
+    "ver": "",
+    "val": "It costs £command_power  §Y50§! £pol_power  §Y100§! to take the decision",
+    "comm": ""
+  },
+  {
+    "line_num": 109,
+    "key": "decision_cost_CP_100_pp_75",
+    "ver": "",
+    "val": "£command_power  §Y100§! £pol_power  §Y75§!",
+    "comm": ""
+  },
+  {
+    "line_num": 110,
+    "key": "decision_cost_CP_100_pp_75_blocked",
+    "ver": "",
+    "val": "£command_power  §R100§! £pol_power  §R75§!",
+    "comm": ""
+  },
+  {
+    "line_num": 111,
+    "key": "decision_cost_CP_100_pp_75_tooltip",
+    "ver": "",
+    "val": "It costs £command_power  §Y100§! £pol_power  §Y75§! to take the decision",
+    "comm": ""
+  },
+  {
+    "line_num": 113,
+    "key": "decision_cost_pp_25_ie_1000",
+    "ver": "",
+    "val": "£pol_power  §Y25§! £infantry_equipment_text_icon  §Y1000§!",
+    "comm": ""
+  },
+  {
+    "line_num": 114,
+    "key": "decision_cost_pp_25_ie_1000_blocked",
+    "ver": "",
+    "val": "£pol_power  §R25§! £infantry_equipment_text_icon  §R1000§!",
+    "comm": ""
+  },
+  {
+    "line_num": 115,
+    "key": "decision_cost_pp_25_ie_1000_tooltip",
+    "ver": "",
+    "val": "It costs £pol_power  §Y25§! £infantry_equipment_text_icon  §Y1000§! to take the decision",
+    "comm": ""
+  },
+  {
+    "line_num": 117,
+    "key": "decision_cost_cp_25_ie_2000",
+    "ver": "",
+    "val": "£command_power  §Y25§! £infantry_equipment_text_icon  §Y2000§!",
+    "comm": ""
+  },
+  {
+    "line_num": 118,
+    "key": "decision_cost_cp_25_ie_2000_blocked",
+    "ver": "",
+    "val": "£command_power  §Y25§! £infantry_equipment_text_icon  §R2000§!",
+    "comm": ""
+  },
+  {
+    "line_num": 119,
+    "key": "decision_cost_cp_25_ie_2000_tooltip",
+    "ver": "",
+    "val": "It costs £command_power  §Y25§! £infantry_equipment_text_icon  §Y2000§! to take the decision",
+    "comm": ""
+  },
+  {
+    "line_num": 121,
+    "key": "decision_cost_ie_1000",
+    "ver": "",
+    "val": "£infantry_equipment_text_icon  §Y1000§!",
+    "comm": ""
+  },
+  {
+    "line_num": 122,
+    "key": "decision_cost_ie_1000_blocked",
+    "ver": "",
+    "val": "£infantry_equipment_text_icon  §R1000§!",
+    "comm": ""
+  },
+  {
+    "line_num": 123,
+    "key": "decision_cost_ie_1000_tooltip",
+    "ver": "",
+    "val": "It costs £infantry_equipment_text_icon  §Y1000§! to take the decision",
+    "comm": ""
+  },
+  {
+    "line_num": 125,
+    "key": "decision_cost_ie_2000",
+    "ver": "",
+    "val": "£infantry_equipment_text_icon  §Y2000§!",
+    "comm": ""
+  },
+  {
+    "line_num": 126,
+    "key": "decision_cost_ie_2000_blocked",
+    "ver": "",
+    "val": "£infantry_equipment_text_icon  §R2000§!",
+    "comm": ""
+  },
+  {
+    "line_num": 127,
+    "key": "decision_cost_ie_2000_tooltip",
+    "ver": "",
+    "val": "It costs £infantry_equipment_text_icon  §Y2000§! to take the decision",
+    "comm": ""
+  },
+  {
+    "line_num": 129,
+    "key": "decision_cost_ie_500",
+    "ver": "",
+    "val": "£infantry_equipment_text_icon  §Y500§!",
+    "comm": ""
+  },
+  {
+    "line_num": 130,
+    "key": "decision_cost_ie_500_blocked",
+    "ver": "",
+    "val": "£infantry_equipment_text_icon  §R500§!",
+    "comm": ""
+  },
+  {
+    "line_num": 131,
+    "key": "decision_cost_ie_500_tooltip",
+    "ver": "",
+    "val": "It costs £infantry_equipment_text_icon  §Y500§! to take the decision",
+    "comm": ""
+  },
+  {
+    "line_num": 133,
+    "key": "decision_cost_civ_factory_1",
+    "ver": "",
+    "val": "£civ_factory  §Y1§!",
+    "comm": ""
+  },
+  {
+    "line_num": 134,
+    "key": "decision_cost_civ_factory_1_blocked",
+    "ver": "",
+    "val": "£civ_factory  §R1§!",
+    "comm": ""
+  },
+  {
+    "line_num": 135,
+    "key": "decision_cost_civ_factory_1_tooltip",
+    "ver": "",
+    "val": "It costs £civ_factory  §Y1§! while this decision is active",
+    "comm": ""
+  },
+  {
+    "line_num": 137,
+    "key": "decision_cost_civ_factory_2",
+    "ver": "",
+    "val": "£civ_factory  §Y2§!",
+    "comm": ""
+  },
+  {
+    "line_num": 138,
+    "key": "decision_cost_civ_factory_2_blocked",
+    "ver": "",
+    "val": "£civ_factory  §R2§!",
+    "comm": ""
+  },
+  {
+    "line_num": 139,
+    "key": "decision_cost_civ_factory_2_tooltip",
+    "ver": "",
+    "val": "It costs £civ_factory  §Y2§! while this decision is active",
+    "comm": ""
+  },
+  {
+    "line_num": 141,
+    "key": "decision_cost_civ_factory_3",
+    "ver": "",
+    "val": "£civ_factory  §Y3§!",
+    "comm": ""
+  },
+  {
+    "line_num": 142,
+    "key": "decision_cost_civ_factory_3_blocked",
+    "ver": "",
+    "val": "£civ_factory  §R3§!",
+    "comm": ""
+  },
+  {
+    "line_num": 143,
+    "key": "decision_cost_civ_factory_3_tooltip",
+    "ver": "",
+    "val": "It costs £civ_factory  §Y3§! while this decision is active",
+    "comm": ""
+  },
+  {
+    "line_num": 145,
+    "key": "decision_cost_civ_factory_5",
+    "ver": "",
+    "val": "£civ_factory  §Y5§!",
+    "comm": ""
+  },
+  {
+    "line_num": 146,
+    "key": "decision_cost_civ_factory_5_blocked",
+    "ver": "",
+    "val": "£civ_factory  §R5§!",
+    "comm": ""
+  },
+  {
+    "line_num": 147,
+    "key": "decision_cost_civ_factory_5_tooltip",
+    "ver": "",
+    "val": "It costs £civ_factory  §Y5§! while this decision is active",
+    "comm": ""
+  },
+  {
+    "line_num": 149,
+    "key": "decision_cost_MP_300_PP_15",
+    "ver": "",
+    "val": "£manpower_texticon  §Y300§! £pol_power §Y15§!",
+    "comm": ""
+  },
+  {
+    "line_num": 150,
+    "key": "decision_cost_MP_300_PP_15_blocked",
+    "ver": "",
+    "val": "£manpower_texticon  §R300§! £pol_power §R15§!",
+    "comm": ""
+  },
+  {
+    "line_num": 151,
+    "key": "decision_cost_MP_300_PP_15_tooltip",
+    "ver": "",
+    "val": "It costs £manpower_texticon  §Y300§! and £pol_power §Y15§! to take this decision",
+    "comm": ""
+  },
+  {
+    "line_num": 153,
+    "key": "decision_cost_CP_50_ArmXP_15",
+    "ver": "",
+    "val": "£command_power  §Y50§! £army_experience  §Y15§!",
+    "comm": ""
+  },
+  {
+    "line_num": 154,
+    "key": "decision_cost_CP_50_ArmXP_15_blocked",
+    "ver": "",
+    "val": "£command_power  §R50§! £army_experience  §R15§!",
+    "comm": ""
+  },
+  {
+    "line_num": 155,
+    "key": "decision_cost_CP_50_ArmXP_15_tooltip",
+    "ver": "",
+    "val": "It costs £command_power  §Y50§! £army_experience  §Y15§! to take the decision",
+    "comm": ""
+  },
+  {
+    "line_num": 157,
+    "key": "decision_cost_CP_25_ArmXP_15",
+    "ver": "",
+    "val": "£command_power  §Y25§! £army_experience  §Y15§!",
+    "comm": ""
+  },
+  {
+    "line_num": 158,
+    "key": "decision_cost_CP_25_ArmXP_15_blocked",
+    "ver": "",
+    "val": "£command_power  §R25§! £army_experience  §R15§!",
+    "comm": ""
+  },
+  {
+    "line_num": 159,
+    "key": "decision_cost_CP_25_ArmXP_15_tooltip",
+    "ver": "",
+    "val": "It costs £command_power  §Y25§! £army_experience  §Y15§! to take the decision",
+    "comm": ""
+  },
+  {
+    "line_num": 161,
+    "key": "decision_cost_CP_25_PP_100",
+    "ver": "",
+    "val": "£command_power  §Y25§! £pol_power  §Y100§!",
+    "comm": ""
+  },
+  {
+    "line_num": 162,
+    "key": "decision_cost_CP_25_PP_100_blocked",
+    "ver": "",
+    "val": "£command_power  §R25§! £pol_power  §R100§!",
+    "comm": ""
+  },
+  {
+    "line_num": 163,
+    "key": "decision_cost_CP_25_PP_100_tooltip",
+    "ver": "",
+    "val": "It costs £command_power  §Y25§! £pol_power  §Y100§! to take the decision",
+    "comm": ""
+  },
+  {
+    "line_num": 165,
+    "key": "decision_cost_ArmXP_50",
+    "ver": "",
+    "val": "£army_experience  §Y50§!",
+    "comm": ""
+  },
+  {
+    "line_num": 166,
+    "key": "decision_cost_ArmXP_50_blocked",
+    "ver": "",
+    "val": "£army_experience  §R50§!",
+    "comm": ""
+  },
+  {
+    "line_num": 167,
+    "key": "decision_cost_ArmXP_50_tooltip",
+    "ver": "",
+    "val": "It costs £army_experience  §Y50§! to take the decision",
+    "comm": ""
+  },
+  {
+    "line_num": 169,
+    "key": "decision_cost_ArmXP_75",
+    "ver": "",
+    "val": "£army_experience  §Y75§!",
+    "comm": ""
+  },
+  {
+    "line_num": 170,
+    "key": "decision_cost_ArmXP_75_blocked",
+    "ver": "",
+    "val": "£army_experience  §R75§!",
+    "comm": ""
+  },
+  {
+    "line_num": 171,
+    "key": "decision_cost_ArmXP_75_tooltip",
+    "ver": "",
+    "val": "It costs £army_experience  §Y75§! to take the decision",
+    "comm": ""
+  },
+  {
+    "line_num": 173,
+    "key": "decision_cost_ArmXP_200",
+    "ver": "",
+    "val": "£army_experience  §Y200§!",
+    "comm": ""
+  },
+  {
+    "line_num": 174,
+    "key": "decision_cost_ArmXP_200_blocked",
+    "ver": "",
+    "val": "£army_experience  §R200§!",
+    "comm": ""
+  },
+  {
+    "line_num": 175,
+    "key": "decision_cost_ArmXP_200_tooltip",
+    "ver": "",
+    "val": "It costs £army_experience  §Y200§! to take the decision",
+    "comm": ""
+  },
+  {
+    "line_num": 177,
+    "key": "decision_cost_ie_500_MP_500_CP_25",
+    "ver": "",
+    "val": "£infantry_equipment_text_icon  §Y500§! £manpower_texticon  §Y500§! £command_power  §Y25§!",
+    "comm": ""
+  },
+  {
+    "line_num": 178,
+    "key": "decision_cost_ie_500_MP_500_CP_25_blocked",
+    "ver": "",
+    "val": "£infantry_equipment_text_icon  §R500§! £manpower_texticon  §R500§! £command_power  §R25§!",
+    "comm": ""
+  },
+  {
+    "line_num": 179,
+    "key": "decision_cost_ie_500_MP_500_CP_25_tooltip",
+    "ver": "",
+    "val": "It costs £infantry_equipment_text_icon  §Y500§! £manpower_texticon  §Y500§! £command_power  §Y25§! to take the decision",
+    "comm": ""
+  },
+  {
+    "line_num": 181,
+    "key": "decision_cost_faction_influence_15_PP_125",
+    "ver": "",
+    "val": "£GFX_influence_texticon  §Y15%§! £pol_power  §Y125§!",
+    "comm": ""
+  },
+  {
+    "line_num": 182,
+    "key": "decision_cost_faction_influence_15_PP_125_blocked",
+    "ver": "",
+    "val": "£GFX_influence_texticon  §R15%§! £pol_power  §R125§!",
+    "comm": ""
+  },
+  {
+    "line_num": 183,
+    "key": "decision_cost_faction_influence_15_PP_125_tooltip",
+    "ver": "",
+    "val": "It costs £GFX_influence_texticon  §Y15%§! §YFaction Influence§! and £pol_power  §Y125§! to take the decision",
+    "comm": ""
+  },
+  {
+    "line_num": 184,
+    "key": "decision_cost_faction_influence_10_PP_75",
+    "ver": "",
+    "val": "£GFX_influence_texticon  §Y10%§! £pol_power  §Y75§!",
+    "comm": ""
+  },
+  {
+    "line_num": 185,
+    "key": "decision_cost_faction_influence_10_PP_75_blocked",
+    "ver": "",
+    "val": "£GFX_influence_texticon  §R10%§! £pol_power  §R75§!",
+    "comm": ""
+  },
+  {
+    "line_num": 186,
+    "key": "decision_cost_faction_influence_10_PP_75_tooltip",
+    "ver": "",
+    "val": "It costs £GFX_influence_texticon  §Y10%§! §YFaction Influence§! and £pol_power  §Y75§! to take the decision",
+    "comm": ""
+  },
+  {
+    "line_num": 187,
+    "key": "decision_cost_faction_influence_5_PP_25",
+    "ver": "",
+    "val": "£GFX_influence_texticon  §Y5%§! £pol_power  §Y25§!",
+    "comm": ""
+  },
+  {
+    "line_num": 188,
+    "key": "decision_cost_faction_influence_5_PP_25_blocked",
+    "ver": "",
+    "val": "£GFX_influence_texticon  §R5%§! £pol_power  §R25§!",
+    "comm": ""
+  },
+  {
+    "line_num": 189,
+    "key": "decision_cost_faction_influence_5_PP_25_tooltip",
+    "ver": "",
+    "val": "It costs £GFX_influence_texticon  §Y5%§! §YFaction Influence§! and £pol_power  §Y25§! to take the decision",
+    "comm": ""
+  },
+  {
+    "line_num": 191,
+    "key": "decision_cost_PP_50_MP_2500_ie_2500",
+    "ver": "",
+    "val": "£infantry_equipment_text_icon  §Y2500§!\\n£pol_power  §Y50§!£manpower_texticon  §Y2500§!",
+    "comm": ""
+  },
+  {
+    "line_num": 192,
+    "key": "decision_cost_PP_50_MP_2500_ie_2500_blocked",
+    "ver": "",
+    "val": "£infantry_equipment_text_icon  §Y2500§!\\n£pol_power  §Y50§!£manpower_texticon  §Y2500§!",
+    "comm": ""
+  },
+  {
+    "line_num": 193,
+    "key": "decision_cost_PP_50_MP_2500_ie_2500_tooltip",
+    "ver": "",
+    "val": "It costs £infantry_equipment_text_icon  §Y2500§!, £pol_power  §Y50§!, and £manpower_texticon  §Y2500§! to take the decision",
+    "comm": ""
+  },
+  {
+    "line_num": 195,
+    "key": "decision_cost_PP_50_MP_5000_ie_1500",
+    "ver": "",
+    "val": "£infantry_equipment_text_icon  §Y1500§!\\n£pol_power  §Y50§!£manpower_texticon  §Y5000§!",
+    "comm": ""
+  },
+  {
+    "line_num": 196,
+    "key": "decision_cost_PP_50_MP_5000_ie_1500_blocked",
+    "ver": "",
+    "val": "£infantry_equipment_text_icon  §Y1500§!\\n£pol_power  §Y50§!£manpower_texticon  §Y5000§!",
+    "comm": ""
+  },
+  {
+    "line_num": 197,
+    "key": "decision_cost_PP_50_MP_5000_ie_1500_tooltip",
+    "ver": "",
+    "val": "It costs £infantry_equipment_text_icon  §Y1500§!, £pol_power  §Y50§!, and £manpower_texticon  §Y5000§! to take the decision",
+    "comm": ""
+  },
+  {
+    "line_num": 199,
+    "key": "RAJ_population_decisions",
+    "ver": "",
+    "val": "Rural Industrialization",
+    "comm": ""
+  },
+  {
+    "line_num": 200,
+    "key": "RAJ_industrialize_state",
+    "ver": "",
+    "val": "Industrialize [FROM.GetName]",
+    "comm": ""
+  },
+  {
+    "line_num": 201,
+    "key": "RAJ_industrialize_state_desc",
+    "ver": "",
+    "val": "Our nation is once again on the rise. Although the task is great, bringing rural areas into the modern era is sure to pay dividends in the future.",
+    "comm": ""
+  },
+  {
+    "line_num": 202,
+    "key": "RAJ_industrialized_this_state",
+    "ver": "",
+    "val": "§HRural areas already industrialized§!",
+    "comm": ""
+  },
+  {
+    "line_num": 203,
+    "key": "RAJ_reduce_agrarian_society_value_tooltip",
+    "ver": "",
+    "val": "\\n§H$RAJ_agrarian_society$§!\\nRecruitable Population Factor: [?RAJ_agrarian_society_increment|+=%]\\n",
+    "comm": ""
+  },
+  {
+    "line_num": 204,
+    "key": "RAJ_industrialize_state_goe",
+    "ver": "",
+    "val": "$RAJ_industrialize_state$",
+    "comm": ""
+  },
+  {
+    "line_num": 205,
+    "key": "RAJ_industrialize_state_goe_desc",
+    "ver": "",
+    "val": "$RAJ_industrialize_state_desc$",
+    "comm": ""
+  },
+  {
+    "line_num": 206,
+    "key": "war_propaganda_radio_industry",
+    "ver": "",
+    "val": "Radio Propaganda",
+    "comm": ""
+  },
+  {
+    "line_num": 207,
+    "key": "war_propaganda_radio_industry_desc",
+    "ver": "",
+    "val": "Technology has developed to a point where a significant proportion of our population has access to a home radio. State sponsored media is the perfect tool for stoking the war effort in the hearts of our people.",
+    "comm": ""
+  },
+  {
+    "line_num": 208,
+    "key": "war_propaganda_film_industry",
+    "ver": "",
+    "val": "[ROOT.GetImportOrDomesticFilmIndustry]",
+    "comm": ""
+  },
+  {
+    "line_num": 209,
+    "key": "war_propaganda_film_industry_desc",
+    "ver": "",
+    "val": "[ROOT.GetImportOrDomesticFilmIndustryDesc]",
+    "comm": ""
+  },
+  {
+    "line_num": 210,
+    "key": "DOMESTIC_FILM_INDUSTRY",
+    "ver": "",
+    "val": "Utilize Domestic Film Industry",
+    "comm": ""
+  },
+  {
+    "line_num": 211,
+    "key": "IMPORTED_FILM_INDUSTRY",
+    "ver": "",
+    "val": "Import Propaganda Films",
+    "comm": ""
+  },
+  {
+    "line_num": 212,
+    "key": "DOMESTIC_FILM_INDUSTRY_DESC",
+    "ver": "",
+    "val": "The [ROOT.GetAdjective] film industry has developed significantly in the last decade. With a population starved for entertainment, we stand to benefit from a cinematic production designed to stir patriotic sentiment.",
+    "comm": ""
+  },
+  {
+    "line_num": 213,
+    "key": "IMPORTED_FILM_INDUSTRY_DESC",
+    "ver": "",
+    "val": "Our benefactors and allies are making strategic use of propaganda films. With a little investment, we could screen these productions around our own country in order to stir the war effort amongst our people.",
+    "comm": ""
+  },
+  {
+    "line_num": 215,
+    "key": "the_lion_has_wings",
+    "ver": "",
+    "val": "The Lion Has Wings",
+    "comm": ""
+  },
+  {
+    "line_num": 216,
+    "key": "the_battle_of_london",
+    "ver": "",
+    "val": "The Battle of London",
+    "comm": ""
+  },
+  {
+    "line_num": 217,
+    "key": "queens_messengers",
+    "ver": "",
+    "val": "Queen's Messengers",
+    "comm": ""
+  },
+  {
+    "line_num": 218,
+    "key": "in_which_we_serve",
+    "ver": "",
+    "val": "In Which We Serve",
+    "comm": ""
+  },
+  {
+    "line_num": 219,
+    "key": "the_volunteer",
+    "ver": "",
+    "val": "The Volunteer",
+    "comm": ""
+  },
+  {
+    "line_num": 220,
+    "key": "fires_were_started",
+    "ver": "",
+    "val": "Fires Were Started",
+    "comm": ""
+  },
+  {
+    "line_num": 222,
+    "key": "men_of_timor",
+    "ver": "",
+    "val": "Men of Timor",
+    "comm": ""
+  },
+  {
+    "line_num": 223,
+    "key": "soldiers_without_uniform",
+    "ver": "",
+    "val": "Soldiers Without Uniform",
+    "comm": ""
+  },
+  {
+    "line_num": 224,
+    "key": "mid_east",
+    "ver": "",
+    "val": "Mid East",
+    "comm": ""
+  },
+  {
+    "line_num": 226,
+    "key": "atlantic_patrol",
+    "ver": "",
+    "val": "Atlantic Patrol",
+    "comm": ""
+  },
+  {
+    "line_num": 227,
+    "key": "front_of_steel",
+    "ver": "",
+    "val": "Front of Steel",
+    "comm": ""
+  },
+  {
+    "line_num": 228,
+    "key": "home_front",
+    "ver": "",
+    "val": "Home Front",
+    "comm": ""
+  },
+  {
+    "line_num": 229,
+    "key": "wings_of_youth",
+    "ver": "",
+    "val": "Wings of Youth",
+    "comm": ""
+  },
+  {
+    "line_num": 230,
+    "key": "all_out_for_war",
+    "ver": "",
+    "val": "All Out for War",
+    "comm": ""
+  },
+  {
+    "line_num": 231,
+    "key": "banshees_over_canada",
+    "ver": "",
+    "val": "Banshees Over Canada",
+    "comm": ""
+  },
+  {
+    "line_num": 233,
+    "key": "the_planes_of_hindustan",
+    "ver": "",
+    "val": "The Planes of Hindustan",
+    "comm": ""
+  },
+  {
+    "line_num": 234,
+    "key": "road_to_victory",
+    "ver": "",
+    "val": "Road to Victory",
+    "comm": ""
+  },
+  {
+    "line_num": 235,
+    "key": "hes_in_the_navy",
+    "ver": "",
+    "val": "He's in the Navy",
+    "comm": ""
+  },
+  {
+    "line_num": 236,
+    "key": "in_self_defence",
+    "ver": "",
+    "val": "In Self Defence",
+    "comm": ""
+  },
+  {
+    "line_num": 238,
+    "key": "women_in_defense",
+    "ver": "",
+    "val": "Women in Defense",
+    "comm": ""
+  },
+  {
+    "line_num": 239,
+    "key": "winning_your_wings",
+    "ver": "",
+    "val": "Winning Your Wings",
+    "comm": ""
+  },
+  {
+    "line_num": 240,
+    "key": "the_world_at_war",
+    "ver": "",
+    "val": "The World at War",
+    "comm": ""
+  },
+  {
+    "line_num": 241,
+    "key": "mission_accomplished",
+    "ver": "",
+    "val": "Mission Accomplished",
+    "comm": ""
+  },
+  {
+    "line_num": 242,
+    "key": "the_fleet_that_came_to_stay",
+    "ver": "",
+    "val": "The Fleet That Came to Stay",
+    "comm": ""
+  },
+  {
+    "line_num": 243,
+    "key": "fury_in_the_pacific",
+    "ver": "",
+    "val": "Fury in the Pacific",
+    "comm": ""
+  },
+  {
+    "line_num": 244,
+    "key": "its_your_war_too",
+    "ver": "",
+    "val": "It's Your War Too",
+    "comm": ""
+  },
+  {
+    "line_num": 246,
+    "key": "belguique_toujours",
+    "ver": "",
+    "val": "Belgique Toujours",
+    "comm": ""
+  },
+  {
+    "line_num": 247,
+    "key": "high_stakes_in_the_east",
+    "ver": "",
+    "val": "High Stakes in the East",
+    "comm": ""
+  },
+  {
+    "line_num": 248,
+    "key": "glorious_colours",
+    "ver": "",
+    "val": "Glorious Colours",
+    "comm": ""
+  },
+  {
+    "line_num": 249,
+    "key": "litte_belgium",
+    "ver": "",
+    "val": "Little Belgium",
+    "comm": ""
+  },
+  {
+    "line_num": 251,
+    "key": "for_the_front",
+    "ver": "",
+    "val": "For the Front",
+    "comm": ""
+  },
+  {
+    "line_num": 252,
+    "key": "the_peoples_avengers",
+    "ver": "",
+    "val": "The People's Avengers",
+    "comm": ""
+  },
+  {
+    "line_num": 253,
+    "key": "day_of_war",
+    "ver": "",
+    "val": "Day of War",
+    "comm": ""
+  },
+  {
+    "line_num": 254,
+    "key": "film_motherland",
+    "ver": "",
+    "val": "Motherland",
+    "comm": ""
+  },
+  {
+    "line_num": 255,
+    "key": "sons_of_the_motherland",
+    "ver": "",
+    "val": "Sons of the Motherland",
+    "comm": ""
+  },
+  {
+    "line_num": 256,
+    "key": "moscow_strikes_back",
+    "ver": "",
+    "val": "Moscow Strikes Back",
+    "comm": ""
+  },
+  {
+    "line_num": 258,
+    "key": "fluchtlinge",
+    "ver": "",
+    "val": "Fluchtlinge",
+    "comm": ""
+  },
+  {
+    "line_num": 259,
+    "key": "film_bismarck",
+    "ver": "",
+    "val": "Bismarck",
+    "comm": ""
+  },
+  {
+    "line_num": 260,
+    "key": "wunschkonzert",
+    "ver": "",
+    "val": "Wunschkonzert",
+    "comm": ""
+  },
+  {
+    "line_num": 261,
+    "key": "anschlag_auf_baku",
+    "ver": "",
+    "val": "Anschlag Auf Baku",
+    "comm": ""
+  },
+  {
+    "line_num": 262,
+    "key": "die_entlassung",
+    "ver": "",
+    "val": "Die Entlassung",
+    "comm": ""
+  },
+  {
+    "line_num": 263,
+    "key": "besatzung_dora",
+    "ver": "",
+    "val": "Besatzung Dora",
+    "comm": ""
+  },
+  {
+    "line_num": 264,
+    "key": "opfergang",
+    "ver": "",
+    "val": "Opfergang",
+    "comm": ""
+  },
+  {
+    "line_num": 265,
+    "key": "panorama",
+    "ver": "",
+    "val": "Panorama",
+    "comm": ""
+  },
+  {
+    "line_num": 266,
+    "key": "kolberg",
+    "ver": "",
+    "val": "Kolberg",
+    "comm": ""
+  },
+  {
+    "line_num": 268,
+    "key": "monkey_king",
+    "ver": "",
+    "val": "Monkey King",
+    "comm": ""
+  },
+  {
+    "line_num": 269,
+    "key": "genghis_khan",
+    "ver": "",
+    "val": "Genghis Khan",
+    "comm": ""
+  },
+  {
+    "line_num": 270,
+    "key": "vow_in_the_desert",
+    "ver": "",
+    "val": "Vow in the Desert",
+    "comm": ""
+  },
+  {
+    "line_num": 271,
+    "key": "song_of_the_white_orchid",
+    "ver": "",
+    "val": "Song of the White Orchid",
+    "comm": ""
+  },
+  {
+    "line_num": 272,
+    "key": "five_scouts",
+    "ver": "",
+    "val": "Five Scouts",
+    "comm": ""
+  },
+  {
+    "line_num": 273,
+    "key": "fire_on_that_flag",
+    "ver": "",
+    "val": "Fire on That Flag!",
+    "comm": ""
+  },
+  {
+    "line_num": 274,
+    "key": "momotarou_umi_no_shinpei",
+    "ver": "",
+    "val": "Momotaro's Divine Sea Warriors",
+    "comm": ""
+  },
+  {
+    "line_num": 276,
+    "key": "condottieri",
+    "ver": "",
+    "val": "Condottieri",
+    "comm": ""
+  },
+  {
+    "line_num": 277,
+    "key": "scipio_africano",
+    "ver": "",
+    "val": "Scipio Africano",
+    "comm": ""
+  },
+  {
+    "line_num": 278,
+    "key": "the_man_with_the_cross",
+    "ver": "",
+    "val": "The Man With the Cross",
+    "comm": ""
+  },
+  {
+    "line_num": 280,
+    "key": "mulan",
+    "ver": "",
+    "val": "Mulan Joins the Army",
+    "comm": ""
+  },
+  {
+    "line_num": 281,
+    "key": "defend_our_land",
+    "ver": "",
+    "val": "Defend Our Land",
+    "comm": ""
+  },
+  {
+    "line_num": 282,
+    "key": "storm_on_the_border",
+    "ver": "",
+    "val": "Storm on the Border",
+    "comm": ""
+  },
+  {
+    "line_num": 283,
+    "key": "children_of_china",
+    "ver": "",
+    "val": "Children of China",
+    "comm": ""
+  },
+  {
+    "line_num": 286,
+    "key": "our_war",
+    "ver": "",
+    "val": "Our War",
+    "comm": ""
+  },
+  {
+    "line_num": 287,
+    "key": "the_war_for_our_existence",
+    "ver": "",
+    "val": "The War for our Existence",
+    "comm": ""
+  },
+  {
+    "line_num": 288,
+    "key": "war_in_the_skies",
+    "ver": "",
+    "val": "War in the Skies",
+    "comm": ""
+  },
+  {
+    "line_num": 289,
+    "key": "flags_raised",
+    "ver": "",
+    "val": "Flags Raised",
+    "comm": ""
+  },
+  {
+    "line_num": 290,
+    "key": "the_day_of_sacrifice",
+    "ver": "",
+    "val": "The Day of Sacrifice",
+    "comm": ""
+  },
+  {
+    "line_num": 291,
+    "key": "blood_and_toil",
+    "ver": "",
+    "val": "Blood and Toil",
+    "comm": ""
+  },
+  {
+    "line_num": 295,
+    "key": "available_mio_tt",
+    "ver": "",
+    "val": "§GAvailable§! as §YMilitary Industrial Organization§!: ",
+    "comm": ""
+  },
+  {
+    "line_num": 296,
+    "key": "foreign_mio_decisions_category",
+    "ver": "",
+    "val": "Invite Foreign Industries",
+    "comm": ""
+  },
+  {
+    "line_num": 297,
+    "key": "invite_GER_henschel_organization",
+    "ver": "",
+    "val": "Invite §Y$GER_henschel_organization$§! to §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "line_num": 298,
+    "key": "invite_SOV_okmo_organization",
+    "ver": "",
+    "val": "Invite §Y$SOV_okmo_organization$§! to §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "line_num": 299,
+    "key": "invite_ENG_vickers_armstrong_eng_organization",
+    "ver": "",
+    "val": "Invite §Y$ENG_vickers_armstrong_eng_organization$§! to §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "line_num": 300,
+    "key": "invite_ITA_fiat_organization",
+    "ver": "",
+    "val": "Invite §Y$ITA_fiat_organization$§! to §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "line_num": 301,
+    "key": "invite_SOV_nevskoye_design_bureau_organization",
+    "ver": "",
+    "val": "Invite §Y$SOV_nevskoye_design_bureau_organization$§! to §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "line_num": 302,
+    "key": "invite_ENG_yarrow_shipbuilders_organization",
+    "ver": "",
+    "val": "Invite §Y$ENG_yarrow_shipbuilders_organization$§! to §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "line_num": 303,
+    "key": "invite_ITA_crda_organization",
+    "ver": "",
+    "val": "Invite §Y$ITA_crda_organization$§! to §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "line_num": 304,
+    "key": "invite_GER_heinkel_organization",
+    "ver": "",
+    "val": "Invite §Y$GER_heinkel_organization$§! to §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "line_num": 305,
+    "key": "invite_ENG_fairey_aviation_organization",
+    "ver": "",
+    "val": "Invite §Y$ENG_fairey_aviation_organization$§! to §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "line_num": 306,
+    "key": "invite_SOV_ilyushin_design_bureau_organization",
+    "ver": "",
+    "val": "Invite §Y$SOV_ilyushin_design_bureau_organization$§! to §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "line_num": 307,
+    "key": "invite_SOV_gaz_organization",
+    "ver": "",
+    "val": "Invite §Y$SOV_gaz_organization$§! to §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "line_num": 308,
+    "key": "invite_GER_opel_organization",
+    "ver": "",
+    "val": "Invite §Y$GER_opel_organization$§! to §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "line_num": 309,
+    "key": "invite_ENG_vauxhall_organization",
+    "ver": "",
+    "val": "Invite §Y$ENG_vauxhall_organization$§! to §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "line_num": 310,
+    "key": "invite_ITA_lancia_organization",
+    "ver": "",
+    "val": "Invite §Y$ITA_lancia_organization$§! to §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "line_num": 311,
+    "key": "invite_CZE_skoda_artillery_organization",
+    "ver": "",
+    "val": "Invite §Y$CZE_skoda_artillery_organization$§! to §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "line_num": 312,
+    "key": "invite_FRA_mas_organization",
+    "ver": "",
+    "val": "Invite §Y$FRA_mas_organization$§! to §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "line_num": 313,
+    "key": "invite_JAP_nissan_organization",
+    "ver": "",
+    "val": "Invite §Y$JAP_nissan_organization$§! to §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "line_num": 314,
+    "key": "invite_CZE_ckd_organization",
+    "ver": "",
+    "val": "Invite §Y$CZE_ckd_organization$§! to §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "line_num": 315,
+    "key": "invite_CZE_skoda_armor_organization",
+    "ver": "",
+    "val": "Invite §Y$CZE_skoda_armor_organization$§! to §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "line_num": 316,
+    "key": "invite_CZE_avia_organization",
+    "ver": "",
+    "val": "Invite §Y$CZE_avia_organization$§! to §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "line_num": 317,
+    "key": "invite_FRA_renault_organization",
+    "ver": "",
+    "val": "Invite §Y$FRA_renault_organization$§! to §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "line_num": 318,
+    "key": "invite_JAP_maizuru_naval_arsenal_organization",
+    "ver": "",
+    "val": "Invite §Y$JAP_maizuru_naval_arsenal_organization$§! to §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "line_num": 319,
+    "key": "invite_JAP_mitsubishi_organization",
+    "ver": "",
+    "val": "Invite §Y$JAP_mitsubishi_organization$§! to §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "line_num": 320,
+    "key": "invite_FRA_bloch_organization",
+    "ver": "",
+    "val": "Invite §Y$FRA_bloch_organization$§! to §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "line_num": 321,
+    "key": "invite_GER_junkers_organization",
+    "ver": "",
+    "val": "Invite §Y$GER_junkers_organization$§! to §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "line_num": 322,
+    "key": "invite_GER_mauser_organization",
+    "ver": "",
+    "val": "Invite §Y$GER_mauser_organization$§! to §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "line_num": 323,
+    "key": "invite_ENG_john_brown_organization",
+    "ver": "",
+    "val": "Invite §Y$ENG_john_brown_organization$§! to §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "line_num": 324,
+    "key": "invite_SWE_landsverk_organization",
+    "ver": "",
+    "val": "Invite §Y$SWE_landsverk_organization$§! to §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "line_num": 325,
+    "key": "invite_SWE_volvo_organization",
+    "ver": "",
+    "val": "Invite §Y$SWE_volvo_organization$§! to §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "line_num": 326,
+    "key": "invite_SWE_bofors_organization",
+    "ver": "",
+    "val": "Invite §Y$SWE_bofors_organization$§! to §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "line_num": 328,
+    "key": "invites_mio_tt",
+    "ver": "",
+    "val": "\\n§YInvites Foreign Military Industrial Organization§!:",
+    "comm": ""
+  },
+  {
+    "line_num": 329,
+    "key": "unlock_mio_tt",
+    "ver": "",
+    "val": "\\n§YEstablish Military Industrial Organization§!",
+    "comm": ""
+  },
+  {
+    "line_num": 333,
+    "key": "generic_purchase_old_ships_category",
+    "ver": "",
+    "val": "Naval Procurement",
+    "comm": ""
+  },
+  {
+    "line_num": 334,
+    "key": "generic_purchase_old_ships_category_desc",
+    "ver": "",
+    "val": "With the world becoming increasingly unstable, we need to expand our naval power projection capabilities. Luckily for us, some of the major navies may be willing to part with their older vessels.",
+    "comm": ""
+  },
+  {
+    "line_num": 335,
+    "key": "purchase_ships_eng",
+    "ver": "",
+    "val": "[ENG.GetFlag] Purchase old [ENG.GetAdjective] Destroyers",
+    "comm": ""
+  },
+  {
+    "line_num": 336,
+    "key": "purchase_ships_sov",
+    "ver": "",
+    "val": "[SOV.GetFlag] Purchase old [SOV.GetAdjective] Battleships",
+    "comm": ""
+  },
+  {
+    "line_num": 337,
+    "key": "purchase_ships_ger",
+    "ver": "",
+    "val": "[GER.GetFlag] Purchase old [GER.GetAdjective] U-Boats",
+    "comm": ""
+  },
+  {
+    "line_num": 338,
+    "key": "purchase_ships_usa",
+    "ver": "",
+    "val": "[USA.GetFlag] Purchase old [USA.GetAdjective] Destroyers",
+    "comm": ""
+  },
+  {
+    "line_num": 341,
+    "key": "generic_refit_civilian_ships_category",
+    "ver": "",
+    "val": "Military Refit for Civilian Ships",
+    "comm": ""
+  },
+  {
+    "line_num": 342,
+    "key": "generic_refit_civilian_ships_category_desc",
+    "ver": "",
+    "val": "Our fleet can not realistically hope to compete with the much larger naval forces that threaten us. We must hastily procure a bigger fleet by refitting civilian vessels for military purposes.",
+    "comm": ""
+  },
+  {
+    "line_num": 343,
+    "key": "refit_to_destroyer",
+    "ver": "",
+    "val": "Refit ships to Destroyers",
+    "comm": ""
+  },
+  {
+    "line_num": 344,
+    "key": "refit_to_cruiser",
+    "ver": "",
+    "val": "Refit ships to Cruisers",
+    "comm": ""
+  },
+  {
+    "line_num": 347,
+    "key": "diversify_special_forces",
+    "ver": "",
+    "val": "Diversify Elite Forces",
+    "comm": ""
+  },
+  {
+    "line_num": 348,
+    "key": "diversify_special_forces_desc",
+    "ver": "",
+    "val": "Our conventional forces simply aren't enough to combat the oncoming storm. We must innovate.",
+    "comm": ""
+  },
+  {
+    "line_num": 349,
+    "key": "add_potential_special_forces_tree_tt",
+    "ver": "",
+    "val": "Adds §H1§! free Special Forces §HBranch Specialism§!",
+    "comm": ""
+  },
+  {
+    "line_num": 352,
+    "key": "refit_to_destroyer_nor",
+    "ver": "",
+    "val": "Refit Convoys to Destroyers",
+    "comm": ""
+  },
+  {
+    "line_num": 353,
+    "key": "refit_to_destroyer_mass_nor",
+    "ver": "",
+    "val": "Refit Convoys to Destroyers En Masse",
+    "comm": ""
+  },
+  {
+    "line_num": 354,
+    "key": "nor_building_ship",
+    "ver": "",
+    "val": "Currently Converting Ships",
+    "comm": ""
+  }
+]

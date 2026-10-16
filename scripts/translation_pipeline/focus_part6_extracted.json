@@ -1,0 +1,2360 @@
+[
+  {
+    "lineNum": 2017,
+    "key": "RAJ_japanese_army_air_force_academy_german",
+    "val": "Luftwaffe Air Training School",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2018,
+    "key": "RAJ_japanese_army_air_force_academy_japan",
+    "val": "Japanese Army Air Force Academy",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2019,
+    "key": "RAJ_japanese_army_air_force_academy_desc",
+    "val": "The Japanese Air Force Academy has decided to welcome Indian recruits that wish to fight against European domination in Asia.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2020,
+    "key": "RAJ_cripps_mission",
+    "val": "Cripps' Mission",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2021,
+    "key": "RAJ_cripps_mission_desc",
+    "val": "We have to keep India loyal to the Allied and British cause, in spite of the rising nationalist fervor for independence. Sir Stafford Cripps is a skilled negotiator who can assure the nationalist leaders that their demands will be addressed.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2022,
+    "key": "RAJ_two_nation_theory",
+    "val": "Two-Nation Theory",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2023,
+    "key": "RAJ_two_nation_theory_effect",
+    "val": "Pakistan will be released when India gains freedom.\\n",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2024,
+    "key": "RAJ_two_nation_theory_desc",
+    "val": "Though long ruled as a single territory, it makes sense to see India as two nations - one Hindu and one Muslim. Partition of the country may not be the only answer, but any deal for an independent India must face this dual nature of the subcontinent.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2025,
+    "key": "RAJ_princely_state_donations",
+    "val": "Princely State Donations",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2026,
+    "key": "RAJ_princely_state_donations_desc",
+    "val": "The Princely States of India have provided the men that have served as the core Indian army under the British for a long time. Further donations from these local rulers underline their support for the Empire.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2027,
+    "key": "RAJ_imperial_service_troops",
+    "val": "Imperial Service Troops",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2028,
+    "key": "RAJ_imperial_service_troops_desc",
+    "val": "The Imperial Service Troops are recruited by the Princes of India and can number in the hundreds of thousands. In these difficult times, it is great to know that His Majesty can rely on the loyalty of the rajas.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2029,
+    "key": "RAJ_raf_funding",
+    "val": "RAF Funding",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2030,
+    "key": "RAJ_raf_funding_desc",
+    "val": "The Royal Air Force of India will be given more funding and assets from the United Kingdom.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2031,
+    "key": "RAJ_navy_funding",
+    "val": "Navy Funding",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2032,
+    "key": "RAJ_navy_funding_effect",
+    "val": "§Y2 Light Cruisers§! will be added to your navy if you already have the technology.\\n",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2033,
+    "key": "RAJ_navy_funding_effect_mtg",
+    "val": "§Y2 Light Cruisers§! of this type will be added to our navy.\\n",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2034,
+    "key": "RAJ_navy_funding_desc",
+    "val": "The Royal Navy of India will be given more funding and assets from the United Kingdom.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2035,
+    "key": "RAJ_british_army_support",
+    "val": "British Army Support",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2036,
+    "key": "RAJ_british_army_support_desc",
+    "val": "The British Army knows India well after 200 years of occupation. They know the people and the land, and will be able to support the training of Indian soldiers to fight at home.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2037,
+    "key": "RAJ_red_eagle_division",
+    "val": "Red Eagle Division",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2038,
+    "key": "RAJ_create_unit_red_eagles_tt",
+    "val": "Gain an elite infantry division in Delhi.\\n",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2039,
+    "key": "RAJ_red_eagle_division_desc",
+    "val": "The Red Eagle Division will be the first Indian division to be trained to fight overseas, ready to fight in harsh conditions ",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2040,
+    "key": "RAJ_chindits",
+    "val": "Chindits",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2041,
+    "key": "RAJ_orde_wingate_tt",
+    "val": "A §Y4 Skill General§! named §YOrde Wingate§! will appear.\\n",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2042,
+    "key": "RAJ_chindits_desc",
+    "val": "India needs a special forces division so we have formed the Chindits to operate behind enemy lines in the jungles of Asia. This is a risky operation and will have high casualty rates, but could be of great service to the war effort.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2043,
+    "key": "RAJ_jungle_training",
+    "val": "Jungle Training",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2044,
+    "key": "RAJ_jungle_training_effect",
+    "val": "Enables §HJungle Training§!\\n§HMarines\\n    Jungle§!\\n      Attack: §G+5%§!\\n      Movement: §G+10%§!\\n§HMountaineers\\n    Jungle§!\\n      Attack: §G+5%§!\\n      Movement: §G+10%§!\\n§HParatroopers\\n    Jungle§!\\n      Attack: §G+5%§!\\n      Movement: §G+10%§!\\n",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2045,
+    "key": "RAJ_jungle_training_desc",
+    "val": "India, Burma and Indochina are covered in jungle and special training is recommended to make our soldiers effective in this dangerous terrain.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2046,
+    "key": "RAJ_lessons_of_the_great_war",
+    "val": "Lessons of the Great War",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2047,
+    "key": "RAJ_lessons_of_the_great_war_desc",
+    "val": "Indian colonial soldiers participated in the last world war, and the lessons from this conflict should be brought to bear on the training and organization of the army.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2048,
+    "key": "RAJ_indianisation_of_army",
+    "val": "Indianisation of Army",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2049,
+    "key": "RAJ_indianisation_of_army_desc",
+    "val": "To properly protect India in a total war, the entire population of India should be mobilized. This will mean not just recruiting more widely from the Indian population, but allowing Indian officers to take command at some place in the chain of authority.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2050,
+    "key": "RAJ_indian_gurkhas",
+    "val": "Indian Gurkhas",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2051,
+    "key": "RAJ_indian_gurkhas_desc",
+    "val": "The Gurkhas of the Punjabi and Nepalese highlands are legendary for their military skill. They’ve served the Raj loyally for many years, and excel at all kinds of warfare.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2052,
+    "key": "RAJ_an_indian_sandhurst",
+    "val": "An Indian Sandhurst",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2053,
+    "key": "RAJ_an_indian_sandhurst_desc",
+    "val": "India has been demanding a military school of its own ever since the last war, and at long last we created one in 1932. The Indian Military Academy has been turning out Indian officers for a few years now, giving us a core command group.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2054,
+    "key": "RAJ_lions_of_the_great_war",
+    "val": "Lions of the Great War",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2055,
+    "key": "RAJ_lions_of_the_great_war_desc",
+    "val": "The Sikhs have a strong military tradition and were highly decorated in the last war. The Lions of the Punjab form a strong regiment on their own, and the region is ripe for further recruitment.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2056,
+    "key": "RAJ_indian_gentlemen_officers",
+    "val": "Indian Gentlemen Officers",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2057,
+    "key": "RAJ_indian_gentlemen_officers_desc",
+    "val": "The gentlemen who have served the Raj through close co-operation with the Imperial authorities are a ready-made supply of commanders, should we need loyal men to lead the new Indian Army.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2058,
+    "key": "RAJ_the_bangalore_torpedo",
+    "val": "The Bangalore Torpedo",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2059,
+    "key": "RAJ_the_bangalore_torpedo_desc",
+    "val": "One of British India's greatest contributions to the art of war is the Bangalore Torpedo, a series of connected pipes that can be used to destroy obstacles while the engineers are under fire. This device has gained great popularity around the world. ",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2060,
+    "key": "RAJ_vickers_berthier_gun",
+    "val": "Vickers-Berthier Gun",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2061,
+    "key": "RAJ_vickers_berthier_gun_desc",
+    "val": "The Vickers-Berthier is a little unwieldy but has the virtue of being easy to quickly produce. For a nation like India, this is a very important characteristic in a gun.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2062,
+    "key": "RAJ_royal_indian_artillery",
+    "val": "Royal [ROOT.GetAdjective] Artillery",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2063,
+    "key": "RAJ_royal_indian_artillery_desc",
+    "val": "The Royal Indian Artillery has existed ever since the East India Company formed a battalion of cannon with Indian gunners in 1748. We can draw on these many decades of experience.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2064,
+    "key": "RAJ_army_motorization",
+    "val": "Army Motorization",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2065,
+    "key": "RAJ_army_motorization_desc",
+    "val": "India is too large to be covered efficiently by train and horse. The army should have motorized divisions and regular truck transport.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2066,
+    "key": "RAJ_revive_the_screw_guns",
+    "val": "Revive the Screw Guns",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2067,
+    "key": "mountain_guns_tt",
+    "val": "Enables §HMountain Gun§!\\n§HArtillery (Mountains)§!\\n    Attack: §G+8%§!\\n    Movement: §G+15%§!\\n§HAnti-Tank (Mountains)§!\\n    Attack: §G+8%§!\\n    Movement: §G+15%§!",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2069,
+    "key": "RAJ_revive_the_screw_guns_desc",
+    "val": "The mountainous terrain of Northern India led to the development of an artillery piece that could be dismantled and carried on muleback to wherever it was needed. This 7 pounder may be a little obsolete, but we shouldn’t ignore its utility.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2070,
+    "key": "RAJ_indian_armor",
+    "val": "Indian Armor",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2071,
+    "key": "RAJ_indian_armor_desc",
+    "val": "India should focus on developing its own homemade armor and tank division.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2072,
+    "key": "RAJ_modernizing_army",
+    "val": "Modernizing Army",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2073,
+    "key": "RAJ_modernizing_army_desc",
+    "val": "For too long the Indian armed forces were seen as little more than a colonial outpost, with few of the benefits and equipment available to the home army in Britain. It is time to modernize what we have in the Raj.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2074,
+    "key": "RAJ_indian_defense_research",
+    "val": "Indian Defense Research",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2075,
+    "key": "RAJ_indian_defense_research_desc",
+    "val": "Now that India is fully a sovereign nation we are no longer receiving access to advanced prototypes and blueprints like we previously did. We must ensure that we always stay ahead of our enemies, and do not fall behind in technology.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2076,
+    "key": "RAJ_british_pilot_training",
+    "val": "British Pilot Training",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2077,
+    "key": "RAJ_british_pilot_training_desc",
+    "val": "The Royal Air Force has agreed to accept Indian pilots to undertake training. This education will be a great help in the development of our own air wing.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2078,
+    "key": "RAJ_expand_air_bases",
+    "val": "Expand Air Bases",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2079,
+    "key": "RAJ_expand_air_bases_desc",
+    "val": "India is very large, so patrolling and protecting its air space means we must increase our air capacity at bases across the subcontinent.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2080,
+    "key": "RAJ_air_support_effort",
+    "val": "Air Support Effort",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2081,
+    "key": "RAJ_air_support_effort_desc",
+    "val": "Combined Arms warfare is the new way of war, so we have to focus some energy in the training and production of aircraft that can support ground and sea forces.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2082,
+    "key": "RAJ_fighter_effort",
+    "val": "Fighter Effort",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2083,
+    "key": "RAJ_fighter_effort_desc",
+    "val": "We need fighter aircraft to escort bombers and intercept any enemy planes that threaten our nation.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2084,
+    "key": "RAJ_royal_indian_air_force",
+    "val": "Royal Indian Air Force",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2085,
+    "key": "RAJ_royal_indian_air_force_desc",
+    "val": "The time has come to take our small air division and expand it into its own branch of the armed forces. A national air force with independent command will be better able to serve the Indian people and the Empire.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2086,
+    "key": "RAJ_the_smiling_buddha",
+    "val": "The Smiling Buddha",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2087,
+    "key": "RAJ_the_smiling_buddha_desc",
+    "val": "Scientists are close to unlocking the secret of atomic energy - and this will lead to the creation of very powerful explosives. We cannot fall behind in the quest for atomic weapons.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2088,
+    "key": "RAJ_great_indian_peninsula_railway",
+    "val": "Great Indian Peninsula Railway",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2089,
+    "key": "RAJ_great_indian_peninsula_railway_desc",
+    "val": "Government control of the Great Indian Peninsula Railway in 1925 means that its expansion and improvement falls upon us. A growing population needs better transportation infrastructure.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2090,
+    "key": "RAJ_industrial_expansion",
+    "val": "Industrial Expansion",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2091,
+    "key": "RAJ_industrial_expansion_desc",
+    "val": "Hundreds of millions of people call India home - there is no reason this population should not be the foundation of an industrial giant.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2092,
+    "key": "RAJ_tata_steel",
+    "val": "Tata Steel",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2093,
+    "key": "RAJ_tata_steel_desc",
+    "val": "Tata Steel is on its way to becoming the largest steel manufacturer in the Empire. Greater production will further fuel the modernization of India.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2094,
+    "key": "RAJ_assam_oil",
+    "val": "Assam Oil",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2095,
+    "key": "RAJ_assam_oil_desc",
+    "val": "Assam is the center of Indian oil production, especially the refinery at Digboi. Access to this resource needs to be expanded and exploited.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2096,
+    "key": "RAJ_indian_institute_of_science",
+    "val": "Indian Institute of Science",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2097,
+    "key": "RAJ_indian_institute_of_science_desc",
+    "val": "The Indian Institute of Science campus in Bangalore is allowing the best and brightest of India's population to further our advances.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2098,
+    "key": "RAJ_institute_of_fundamental_research",
+    "val": "Institute of Fundamental Research",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2099,
+    "key": "RAJ_institute_of_fundamental_research_desc",
+    "val": "Some of our leading scientists and industrialists are championing a new Institute of Fundamental Research to take advantage of the latest discoveries in physical sciences.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2100,
+    "key": "RAJ_research_collaboration",
+    "val": "Research Collaboration",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2101,
+    "key": "RAJ_research_collaboration_desc",
+    "val": "The British showed us the advantage of sharing scientific progress between close allies. Our whole faction will be able to conduct wartime R&D more efficiently if we take the steps necessary to coordinate this.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2102,
+    "key": "RAJ_expand_mazagon_dock",
+    "val": "Expand Mazagon Dock",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2103,
+    "key": "RAJ_expand_mazagon_dock_desc",
+    "val": "The Mazagon Dock in Mumbai is our most important shipbuilder on the West Coast. It needs greater capacity in this world crisis.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2104,
+    "key": "RAJ_found_scindia_shipyard",
+    "val": "Found Scindia Shipyard",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2105,
+    "key": "RAJ_found_scindia_shipyard_desc",
+    "val": "We need a dockyard on the East Coast of the country, so establishing the Scindia Shipyard in Visakhapatnam makes sense for our naval future.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2106,
+    "key": "RAJ_royal_indian_navy",
+    "val": "Royal [ROOT.GetAdjective] Navy",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2107,
+    "key": "RAJ_royal_indian_navy_desc",
+    "val": "The Royal [ROOT.GetAdjective] Navy will need to be rapidly expanded. New tactics and new ships should be a priority.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2108,
+    "key": "RAJ_screening_effort",
+    "val": "Screening Effort",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2109,
+    "key": "RAJ_screening_effort_desc",
+    "val": "India plays a crucial role in defending the southern route to the Suez Canal. Screening and escort missions will help vital supplies and soldiers get to the European and African theaters.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2110,
+    "key": "RAJ_cruiser_effort",
+    "val": "Cruiser Effort",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2111,
+    "key": "RAJ_cruiser_effort_desc",
+    "val": "Cruisers will be sufficient for now in the development and expansion of [ROOT.GetAdjective] naval power.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2112,
+    "key": "RAJ_submarine_effort",
+    "val": "Submarine Effort",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2113,
+    "key": "RAJ_submarine_effort_desc",
+    "val": "With the rise of Japanese naval surface power in Asia, it might make sense to direct our energies under the sea, striking from submarines.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2114,
+    "key": "RAJ_capital_ship_effort",
+    "val": "Capital Ship Effort",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2115,
+    "key": "RAJ_capital_ship_effort_desc",
+    "val": "As a British outpost, India has seen the power of capital ships in dominating the sea. We should build our own heavy cruisers and battleships.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2116,
+    "key": "RAJ_modernizing_navy",
+    "val": "Modernizing Navy",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2117,
+    "key": "RAJ_modernizing_navy_desc",
+    "val": "Better engines, more crew space, faster speed and larger guns. India's navy will soon stand with the best on the continent.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2118,
+    "key": "RAJ_east_india_railways",
+    "val": "East India Railways",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2119,
+    "key": "RAJ_east_india_railways_desc",
+    "val": "Government control of the East India Railway leaves all decisions for its expansion and improvement in the hands of our ministers.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2120,
+    "key": "RAJ_integrate_princely_railways",
+    "val": "Integrate Princely Railways",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2121,
+    "key": "RAJ_integrate_princely_railways_desc",
+    "val": "Some of the Indian princes have financed their own rail systems, but, till now, they have been poorly integrated with the rail lines built by the Raj. Something must be done to tie the nation's trains together.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2122,
+    "key": "RAJ_ishapore_arsenal",
+    "val": "Ishapore Arsenal",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2123,
+    "key": "RAJ_ishapore_arsenal_desc",
+    "val": "The Ishapore Arsenal and Rifle Factory has been in operation since the 18th century. It is responsible for many innovations in gun design, and is the centerpiece of our arms production system.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2124,
+    "key": "RAJ_clamp_down_on_corruption",
+    "val": "Clamp Down On Corruption",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2125,
+    "key": "RAJ_clamp_down_on_corruption_desc",
+    "val": "Despite the British industrial efforts to expand India's rail system, very few of the benefits of the expansion seem to come to India. There is endemic corruption and double dealing in the transportation sector and we must be seen to do something about it.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2126,
+    "key": "RAJ_strengthen_ties_with_british_investors",
+    "val": "Strengthen Ties With British Investors",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2127,
+    "key": "RAJ_strengthen_ties_with_british_investors_desc",
+    "val": "To expand our factories and resources we still heavily rely on British capital. Until we have a vigorous banking sector of our own, we must go on bended knee to London to seek support.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2128,
+    "key": "RAJ_british_rail_investors",
+    "val": "British Rail Investors",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2129,
+    "key": "RAJ_british_rail_investors_desc",
+    "val": "Civilian and transportation infrastructure in India needs a heavy cash infusion from British financiers.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2130,
+    "key": "RAJ_british_arms_investors",
+    "val": "British Arms Investors",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2131,
+    "key": "RAJ_british_arms_investors_desc",
+    "val": "If we want to quickly get our weapons factories moving, we will need to ask British banks to invest in our military infrastructure.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2132,
+    "key": "RAJ_indian_sandhurst_tt",
+    "val": "A §Y4 Skill General§! named §YKodandera Madappa Cariappa§! will appear.\\nA §Y3 Skill General§! named §YKodandera Subayya Thimayya§! will appear.\\nA §Y3 Skill General§! named §YJayanto Nath Chaudhuri§! will appear.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2133,
+    "key": "RAJ_create_unit_gurkas_tt",
+    "val": "Gain an elite unit of Gurkhas in Delhi.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2134,
+    "key": "RAJ_create_unit_rani_tt",
+    "val": "Gain an infantry unit in Delhi.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2135,
+    "key": "RAJ_create_unit_sikh_tt",
+    "val": "Gain an infantry unit in Delhi.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2136,
+    "key": "RAJ_create_general_rani_tt",
+    "val": "\\nA §Y5 Skill General§! named §YLakshmi Sahgal§! will appear",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2137,
+    "key": "RAJ_administrative_oversight",
+    "val": "Administrative Oversight",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2138,
+    "key": "RAJ_administrative_oversight_desc",
+    "val": "With industrial corruption dealt with and our independence secured, it is time to bring local administrators under the wing of government. While it may seem a difficult task, the tribal leaders and local officials hold sway over great swathes of our population. They must be incorporated for the good of our country in these dark times.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2139,
+    "key": "RAJ_enable_local_industrialization",
+    "val": "Enables §HRural Industrialization§! decisions, allowing for modification of the §HAgrarian Society§! Spirit.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2140,
+    "key": "RAJ_land_clearance",
+    "val": "Land Clearance",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2141,
+    "key": "RAJ_land_clearance_desc",
+    "val": "With increased influence channeled through local leaders, we are able to make better use of our natural resources and land in the name of the state.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2142,
+    "key": "RAJ_workforce_integration",
+    "val": "Workforce Integration",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2143,
+    "key": "RAJ_workforce_integration_desc",
+    "val": "Using the local power of regional and tribal leaders, we are able to funnel otherwise wasted resources into improvement programmes in rural areas.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2144,
+    "key": "RAJ_land_clearance_effect_tt",
+    "val": "§H$RAJ_population_decisions$§! decisions now add §G1§! Building Slot.\\n$apply_integration_effects_retroactively$",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2145,
+    "key": "RAJ_integration_tooltip",
+    "val": "§H$RAJ_population_decisions$§! decisions now add:",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2147,
+    "key": "apply_integration_effects_retroactively",
+    "val": "\\nThis will be applied §Hretroactively§! to all states upon which this decision has been taken previously.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2148,
+    "key": "continuous_naval_production",
+    "val": "Naval Production",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2149,
+    "key": "continuous_naval_production_desc",
+    "val": "By focusing resources on our shipyards and exempting skilled shipbuilders from military service, we can dramatically reduce production time for ships.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2150,
+    "key": "continuous_air_production",
+    "val": "Air Production",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2151,
+    "key": "continuous_air_production_desc",
+    "val": "We can reorganize our aviation industry to eliminate waste and streamline production.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2152,
+    "key": "continuous_non_factory_construct",
+    "val": "Construction Engineering",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2153,
+    "key": "continuous_non_factory_construct_desc",
+    "val": "There is still a lot of slack in our construction industry. By focusing our attention on it, we can achieve a significant improvement in construction speed. Unfortunately, the production of machine tools has proven a major bottleneck in the expansion of our heavy industry, so they won't benefit from efforts in this area. ",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2154,
+    "key": "continuous_reduce_training_time",
+    "val": "Army Training",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2155,
+    "key": "continuous_reduce_training_time_desc",
+    "val": "By creating specialized advanced training units within each division, we can deploy even divisions that would previously have been held back to finish training to the front.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2156,
+    "key": "continuous_suppression",
+    "val": "Resistance Suppression",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2157,
+    "key": "continuous_suppression_desc",
+    "val": "By infiltrating the major resistance groups in occupied territory and turning their leaders, we can significantly reduce the amount of damage they can do.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2158,
+    "key": "continuous_repair",
+    "val": "Construction Repair",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2159,
+    "key": "continuous_repair_desc",
+    "val": "We will form specialized repair teams from factory and construction workers and centrally control their deployment to improve reconstruction of damaged infrastructure.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2160,
+    "key": "continuous_tech_share",
+    "val": "Technology Sharing",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2161,
+    "key": "continuous_tech_share_desc",
+    "val": "We will encourage our research institutes and universities to reach out to their counterparts in allied countries. This will gain us a tech sharing bonus.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2162,
+    "key": "continuous_boost_freedom",
+    "val": "Increase Autonomy",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2163,
+    "key": "continuous_boost_freedom_desc",
+    "val": "By reorganizing our colonial bureaucracy and recruiting native administrators, we will, in time, be able to take charge of our own affairs.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2164,
+    "key": "continuous_restrict_freedom",
+    "val": "Suppress Subjects",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2165,
+    "key": "continuous_restrict_freedom_desc",
+    "val": "Our colonial subjects have gotten rather silly ideas about things like \"self-determination\" or \"national independence\". It is time to disabuse them of these notions.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2166,
+    "key": "continuous_special_facility",
+    "val": "Facility Construction",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2167,
+    "key": "continuous_special_facility_desc",
+    "val": "We have the opportunity to improve our research facilities to host more scientists to find the new breakthrough that can change our future warfare.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2168,
+    "key": "subject_autonomy_mod_tt",
+    "val": "Autonomy in subjects: §G-0.5§!",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2169,
+    "key": "unlocks_decision",
+    "val": "Unlocks Decision: ",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2170,
+    "key": "USA_continue_the_new_deal",
+    "val": "Continue the New Deal",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2171,
+    "key": "USA_continue_the_new_deal_desc",
+    "val": "The policies of the New Deal have proven to work. We must not lose our way now.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2172,
+    "key": "USA_suspend_the_presecution",
+    "val": "Suspend the Persecution",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2173,
+    "key": "USA_suspend_the_presecution_desc",
+    "val": "The persecution of American citizens for their political views - no matter how abhorrent they may seem - is fundamentally at odds with the values of this country. It must cease immediately.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2174,
+    "key": "USA_desegregate_the_armed_forces",
+    "val": "Desegregate the Armed Forces",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2175,
+    "key": "USA_desegregate_the_armed_forces_desc",
+    "val": "Serving under arms in the armed forces of one's country can be an unwelcome duty - but it can also be a cherished right. A right that many of our citizens are denied on account of their ancestry.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2176,
+    "key": "USA_full_desegregation",
+    "val": "Full Desegregation",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2177,
+    "key": "USA_full_desegregation_desc",
+    "val": "For too long, some of our states have treated people differently based on old, outdated and inhuman criteria. In a free republic, every citizen must be treated equally - and not separately.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2178,
+    "key": "USA_democratic_socialism",
+    "val": "Democratic Socialism",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2179,
+    "key": "USA_democratic_socialism_desc",
+    "val": "No right-thinking person can deny that socialism is the future of human civilization. At the same time, no proud and patriotic citizen of this republic could possibly support a system where government is no longer made by the people and of the people. Like our proud forefathers, we will create a new form of government that combines both.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2180,
+    "key": "USA_liberty_for_the_philippines",
+    "val": "Liberty for the Philippines",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2181,
+    "key": "USA_liberty_for_the_philippines_desc",
+    "val": "The people of the Philippines have shown their ability to organize their own affairs, and it is about time that the last vestiges of American control over their country are officially removed.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2182,
+    "key": "USA_pacific_decolonisation",
+    "val": "Pacific Decolonisation",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2183,
+    "key": "USA_pacific_decolonisation_desc",
+    "val": "There is no justification - none - for the continued presence of European powers in the Pacific, nor for keeping the peoples of the Pacific Islands in servitude to their European masters. America will no longer stand idly by while this injustice continues.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2184,
+    "key": "USA_union_representation_act",
+    "val": "Union Representation Act",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2185,
+    "key": "USA_union_representation_act_desc",
+    "val": "Work is a core part of human life, and organizing into a union is a fundamental part of organizing a democratic society. It is only proper that we should recognize this and ensure that unions have mandatory representation in Congress.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2186,
+    "key": "USA_old_age_pension_act",
+    "val": "Old Age Pension Act",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2187,
+    "key": "USA_old_age_pension_act_desc",
+    "val": "After a lifetime of work, our people deserve to enjoy financial security and respect in old age. What legislation exists to support them is clearly insufficient.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2188,
+    "key": "USA_accumulated_wealth_tax_act",
+    "val": "Accumulated Wealth Tax Act",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2189,
+    "key": "USA_accumulated_wealth_tax_act_desc",
+    "val": "Some people in our country have amassed absurd amounts of capital. This money sits passively in bank accounts or invested in impractically large buildings, gilded furniture and expensive paintings. None of these serve any viable economic purpose. By instituting a new tax we will force those amongst our citizens who have amassed such useless wealth to reinvest the money into the economy.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2190,
+    "key": "USA_guarantee_the_american_dream",
+    "val": "Guarantee the American Dream",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2191,
+    "key": "USA_guarantee_the_american_dream_desc",
+    "val": "Most of our people don't wish for much in life: stable employment, good health, and a place to start a family. There is no reason why they shouldn't have that.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2192,
+    "key": "USA_worker_management_act",
+    "val": "Worker Management Act",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2193,
+    "key": "USA_worker_management_act_desc",
+    "val": "Far too often factories and offices are managed by people who have never worked on the shop floor. Unable to understand the realities of production, they set unrealistic expectations. To safeguard our economy from the damage such incompetent managers can cause, we will enforce management of the workers, by the workers, for the workers!",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2194,
+    "key": "USA_militia_organization_act",
+    "val": "Militia Organization Act",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2195,
+    "key": "USA_militia_organization_act_desc",
+    "val": "Our proud republic has a long tradition of the citizen soldier. Should our country ever find itself invaded by a foreign attacker, they will face a well-organized and well-armed militia of men and women fighting on familiar territory to defend their homes.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2196,
+    "key": "USA_communal_property_act",
+    "val": "Communal Property Act",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2197,
+    "key": "USA_communal_property_act_desc",
+    "val": "The needs of the many should never be outweighed by the desires of the few, or even the one. To ensure that this is the case, we will pass new legislation to allow local communities to execute eminent domain more easily.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2198,
+    "key": "USA_reintegration",
+    "val": "Reintegration",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2199,
+    "key": "USA_reintegration_desc",
+    "val": "The war has divided our nation, but eventually, even those that rose up against us can yet be redeemed. When the population has learned the error of their ways, they should be allowed to once again rejoin the political process in our proud republic.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2200,
+    "key": "USA_reach_out_to_the_ware_group",
+    "val": "Reach out to the Ware Group",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2201,
+    "key": "USA_reach_out_to_the_ware_group_desc",
+    "val": "There exists a small group of devoted communists inside our government. They believe that they operate in secret, but we know their names. Perhaps they could see that our goals align and could be persuaded to join the government.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2202,
+    "key": "USA_us_ussr_economic_cooperation",
+    "val": "US-USSR Economic Cooperation",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2203,
+    "key": "USA_us_ussr_economic_cooperation_desc",
+    "val": "Despite its chaotic and bloody birth, the Soviet Union has achieved remarkable progress in building a modern, industrialized society. We should do our part to help them.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2204,
+    "key": "USA_secure_china",
+    "val": "Secure China",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2205,
+    "key": "USA_secure_china_desc",
+    "val": "China has been gripped by a long, bloody civil war. The Nationalist government is deeply corrupt and has lost all support in the population. It is time we start to support the single actor in China who can unite and pacify the country - the Communist Party.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2206,
+    "key": "USA_end_monarchism",
+    "val": "End Monarchism",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2207,
+    "key": "USA_end_monarchism_desc",
+    "val": "The monarchies of Europe have plunged the world into one world war already - we can not allow them to do it again. Our forefathers made war on the King of England to gain their freedom - we shall free the world from his tyranny forever!",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2208,
+    "key": "USA_shatter_the_empires",
+    "val": "Shatter the Empires",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2209,
+    "key": "USA_shatter_the_empires_desc",
+    "val": "We were once a colony of a global empire, until we purchased our freedom in blood. Our republic can not truly feel secure until those that dream themselves masters of this world are contained.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2210,
+    "key": "USA_agricultural_adjustment_act",
+    "val": "Agricultural Adjustment Act",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2211,
+    "key": "USA_agricultural_adjustment_act_desc",
+    "val": "Our farmers have been particularly hard-hit by the depression. We must ensure that the people who produce our food are not driven out of business by an unchecked market.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2212,
+    "key": "USA_fair_labour_standards_act",
+    "val": "Fair Labor Standards Act",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2213,
+    "key": "USA_fair_labour_standards_act_desc",
+    "val": "With the first signs of a slow recovery taking place, it is time to ensure that the workers get to participate in it. We must ban exploitative practices such as unpaid overtime and introduce a liveable minimum wage.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2214,
+    "key": "USA_federal_housing_act",
+    "val": "Federal Housing Act",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2215,
+    "key": "USA_federal_housing_act_desc",
+    "val": "As part of our ongoing efforts to eradicate poverty in the United States, we will create a program of federally-subsidized housing.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2216,
+    "key": "federal_housing_tt",
+    "val": "(§YFive random states§!): Add §G1§! Building Slots.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2217,
+    "key": "USA_office_of_scientific_research_and_development",
+    "val": "Scientific Research & Development Office",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2218,
+    "key": "USA_office_of_scientific_research_and_development_desc",
+    "val": "With war looming on the horizon, we must focus our scientific efforts to ensure that we are not outmatched by any potential adversary.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2219,
+    "key": "USA_focus_on_europe",
+    "val": "Focus on Europe",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2220,
+    "key": "USA_focus_on_europe_desc",
+    "val": "The Great Powers of Europe are once more poised to plunge the world into a world war. We can not, as we did before, wait until it affects us. We must be ready to intervene decisively should any nation in Europe threaten the peace.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2221,
+    "key": "USA_focus_on_asia",
+    "val": "Focus on Asia",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2222,
+    "key": "USA_focus_on_asia_desc",
+    "val": "While most people look with worry towards Europe, we also face uncertainty and instability across the Pacific. It might be in our best interest to intervene abroad before we are attacked closer to home.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2223,
+    "key": "USA_magic",
+    "val": "MAGIC",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2224,
+    "key": "USA_magic_desc",
+    "val": "The Navy thinks it can break the Japanese encryption codes, which would allow us to read all of their message traffic, including ship movements.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2225,
+    "key": "USA_neutrality_act",
+    "val": "Neutrality Act",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2226,
+    "key": "USA_neutrality_act_desc",
+    "val": "It seems increasingly certain that war will break out in Europe. During the Great War, American companies sold large quantities of weapons to the Allies, and many believe that the American entry was mostly motivated by a desire to ensure that those deliveries would be paid for. This time, there won't be any war-profiteering.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2227,
+    "key": "USA_lend_lease_act_neutrality_tt",
+    "val": "\\n\\nPassing the Neutrality Act will §Rdrastically increase§! the requirements to pass the Lend Lease Act",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2228,
+    "key": "USA_lend_lease_act",
+    "val": "Lend Lease Act",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2229,
+    "key": "USA_lend_lease_act_desc",
+    "val": "The large democracies of the world are under assault. If they lose the battle, it is only a question of time before war comes to our shores. We must do what we can to support them - even if they can not pay for the equipment immediately.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2230,
+    "key": "USA_reestablish_the_gold_standard",
+    "val": "Reestablish the Gold Standard",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2231,
+    "key": "USA_reestablish_the_gold_standard_desc",
+    "val": "Without the Gold Standard, money exists as little more than an article of faith, while rampant inflation eats away our people's savings and devalues their work. We must abandon this fiscally irresponsible path.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2232,
+    "key": "USA_adjusted_compensation_act",
+    "val": "Adjusted Compensation Act",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2233,
+    "key": "USA_adjusted_compensation_act_desc",
+    "val": "Our veterans of the Great War were promised a fair pension. Many have fallen on hard times recently as the depression hit. We must do what we can to help those who answered the call of the Republic in its hour of need.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2234,
+    "key": "USA_labour_management_relations_act",
+    "val": "Labor-Management Relations Act",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2235,
+    "key": "USA_labour_management_relations_act_desc",
+    "val": "Businesses all over America are threatened by all kinds of union activities - strikes, organizing, demands for higher wages. We can not allow this to continue.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2236,
+    "key": "USA_protectionist_tariffs",
+    "val": "Protectionist Tariffs",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2237,
+    "key": "USA_protectionist_tariffs_desc",
+    "val": "Free Trade has opened up our markets to foreign competitors, many of which have raised tariffs and duties of their own. Our companies face stiff competition while theirs enjoy the safety of the customs-wall. This must end.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2238,
+    "key": "USA_income_tax_reform",
+    "val": "Income Tax Reform",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2239,
+    "key": "USA_income_tax_reform_desc",
+    "val": "The Income Tax takes money out of every American's wallet - money that our citizens could spend on buying other things and supporting their local economy. We will give Americans the autonomy over their own finances back.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2240,
+    "key": "USA_institute_of_american_sciences",
+    "val": "American Institute of Sciences",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2241,
+    "key": "USA_institute_of_american_sciences_desc",
+    "val": "The universities and research labs all across the nation have so far conducted their research as they saw fit. This must end. We will create a new organization to coordinate the efforts of our world-class scientists.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2242,
+    "key": "USA_america_first",
+    "val": "America First",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2243,
+    "key": "USA_america_first_desc",
+    "val": "Some people would have us spend our treasures and the blood of our youth in foreign wars. We must not be swayed by these warmongers, and will instead live by a simple maxim: America First - Everyone Else Second.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2244,
+    "key": "USA_extend_the_chinese_exclusion_acts",
+    "val": "Extend the Chinese Exclusion Acts",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2245,
+    "key": "USA_extend_the_chinese_exclusion_acts_desc",
+    "val": "With China ravaged by war we must take steps to limit Chinese immigration, lest we be drowned in waves of refugees.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2246,
+    "key": "USA_empower_the_huac",
+    "val": "Empower the Huac",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2247,
+    "key": "USA_empower_the_huac_desc",
+    "val": "The House Committee on Unamerican Activities serves an important function in our healthy democracy. We must not permit disloyal elements from trying to influence the political process.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2248,
+    "key": "USA_voter_registration_act",
+    "val": "Voter Registration Act",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2249,
+    "key": "USA_voter_registration_act_desc",
+    "val": "Elections are the most important part of a democracy. It is utterly unreasonable to demand that there should be no checks on who can participate in them - or perhaps, the people who argue for uncontrolled elections have more sinister motivations and wish to subvert the process with vote fraud...",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2250,
+    "key": "USA_ally_with_the_silver_shirts",
+    "val": "Ally With the Silver Shirts",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2251,
+    "key": "USA_ally_with_the_silver_shirts_desc",
+    "val": "To restore our nation to its proper place in the world and claim our manifest destiny, a more fundamental reorganization is necessary. The Silver Shirts will help us achieve this.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2252,
+    "key": "USA_national_prosperity_program",
+    "val": "National Prosperity Program",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2253,
+    "key": "USA_national_prosperity_program_desc",
+    "val": "The key to ensuring a swift recovery and lasting prosperity lies not in unchecked markets but in carefully guided programs, connecting private and public enterprises.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2254,
+    "key": "USA_privatize_the_TVA",
+    "val": "Privatize the TVA",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2255,
+    "key": "USA_privatize_the_TVA_desc",
+    "val": "The Tennessee Valley Authority has crowded out private competition and has established a stranglehold on construction work in the area. It can not be the government's job to do things the private sector has proven to do better.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2256,
+    "key": "USA_de_regulate_the_banking_sector",
+    "val": "De-Regulate the Banking Sector",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2257,
+    "key": "USA_de_regulate_the_banking_sector_desc",
+    "val": "Following a correction in the financial markets that is perfectly normal in the economic cycle, previous governments have instituted quite unreasonable constraints on financial activities. While no doubt well-intentioned, these restrictions clearly do more harm than good.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2258,
+    "key": "USA_national_employment_strategy",
+    "val": "National Employment Strategy",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2259,
+    "key": "USA_national_employment_strategy_desc",
+    "val": "Unemployment comes from a simple fact: people don't match up with the jobs offered. Factories lie idle because employers don't find the people they need while people in other parts of the country starve. We will introduce a new strategy that will ensure that any employer can find the people he needs to run his company.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2260,
+    "key": "USA_invite_foreign_support",
+    "val": "Invite Foreign Support",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2261,
+    "key": "USA_invite_foreign_support_desc",
+    "val": "With some very disturbing reports coming in about the loyalty of the military and some state governments, we might have to look abroad for support.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2262,
+    "key": "USA_send_lindbergh_to_germany",
+    "val": "Send Lindbergh To Germany",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2263,
+    "key": "USA_send_lindbergh_to_germany_desc",
+    "val": "The famous aviator has offered to go to Europe to investigate how Germany has rebuilt itself after the last war. This should give us valuable experience. Lindbergh has also indicated that he would be willing to join the government in a consulting role.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2264,
+    "key": "USA_work_with_the_bund",
+    "val": "Work With the Bund",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2265,
+    "key": "USA_work_with_the_bund_desc",
+    "val": "The German-American Bund has offered to help us communicate our positions to the many Americans of German ancestry. It would ensure that we have a sympathetic base in their states.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2266,
+    "key": "USA_work_with_the_bund_tt",
+    "val": "Ensures that the following states remain with the government in the event of a civil war: Ohio, Missouri, Wisconsin, Illinois, Indiana and Michigan",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2267,
+    "key": "USA_recruit_the_free_corps",
+    "val": "Recruit the Free Corps",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2268,
+    "key": "USA_recruit_the_free_corps_desc",
+    "val": "With the military increasingly suspect, we must turn to the heroes of the Great War. In its hour of need, the German Freikorps came to the aid of the German Republic. We need a similar organization that will stay loyal to us when our hour of need comes.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2269,
+    "key": "USA_honor_the_confederacy",
+    "val": "Honor the Confederacy",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2270,
+    "key": "USA_honor_the_confederacy_desc",
+    "val": "For too long, the story of the Civil War was told from the northern perspective - the story of a doomed rebellion. It is time that the other side is heard as well.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2271,
+    "key": "USA_war_powers_act",
+    "val": "War Powers Act",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2272,
+    "key": "USA_war_powers_act_desc",
+    "val": "In a world of increasingly fast aircraft carrying increasingly larger bombloads, in a world of submarines and chemical weapons, restricting the President to require the consent of Congress to do what is needed to defend the country is inviting disaster.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2273,
+    "key": "USA_seize_cuba",
+    "val": "Seize Cuba",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2274,
+    "key": "USA_seize_cuba_desc",
+    "val": "Just off our shores lies an unsinkable aircraft carrier, ready to serve as a base for an aggressor. We must not let that happen.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2275,
+    "key": "USA_eliminate_the_southern_threat",
+    "val": "Eliminate the Southern Threat",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2276,
+    "key": "USA_eliminate_the_southern_threat_desc",
+    "val": "Mexico has been an unstable mess for the last generation. Whether the violence spills over our border or someone unites the country and marches north is irrelevant - we must secure our southern flank.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2277,
+    "key": "USA_the_canadian_corridor",
+    "val": "The Canadian Corridor",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2278,
+    "key": "USA_the_canadian_corridor_desc",
+    "val": "A small strip of sparsely populated Canadian territory separates Alaska from the lower US. Its defense is therefore dependent on Canadian good-will. However, the most likely attacker is Canada. This can not continue.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2279,
+    "key": "USA_north_american_dominion",
+    "val": "North American Dominion",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2280,
+    "key": "USA_north_american_dominion_desc",
+    "val": "With our immediate borders secure, we must look further afield to preempt any threat against North America. We can not tolerate any rogue state in the region.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2281,
+    "key": "USA_strategic_interests",
+    "val": "Strategic Interests",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2282,
+    "key": "USA_strategic_interests_desc",
+    "val": "The world is more connected than ever before. A threat in one part of it can easily grow until it becomes a danger to the entire world. We must build a network of mutually-supporting bases around the globe to enable us to respond quickly to any situation.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2283,
+    "key": "USA_protect_south_america",
+    "val": "Protect South America",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2284,
+    "key": "USA_protect_south_america_desc",
+    "val": "The southern part of our double continent has been the playground of empires since it was discovered. It is time that someone took it upon themselves to ensure that those nations are undisturbed and guided towards a more productive future.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2285,
+    "key": "USA_pacific_pacification",
+    "val": "Pacific Pacification",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2286,
+    "key": "USA_pacific_pacification_desc",
+    "val": "Australia and New Zealand are too far from Britain to be effectively defended by them. We can not allow them to be taken over by a nation hostile to [USA.GetNameDef].",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2287,
+    "key": "USA_secure_asia",
+    "val": "Secure Asia",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2288,
+    "key": "USA_secure_asia_desc",
+    "val": "The colonial nations in Europe seem either unwilling or unable to effectively defend their Asian colonies. We must take over this burden for them, lest these areas become springboards of further aggression.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2289,
+    "key": "USA_global_hegemony",
+    "val": "Global Hegemony",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2290,
+    "key": "USA_global_hegemony_desc",
+    "val": "We stand at the cusp of achieving a position of global supremacy that will allow us to prevent conflict just through our mere existence. We just have to ensure that the remaining Great Powers on the planet acknowledge our position.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2291,
+    "key": "USA_war_plans_division",
+    "val": "War Plans Division",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2292,
+    "key": "USA_war_plans_division_desc",
+    "val": "While we might desire peace, we must prepare for war.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2293,
+    "key": "USA_intervention_in_the_americas",
+    "val": "Intervention in the Americas",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2294,
+    "key": "USA_intervention_in_the_americas_desc",
+    "val": "Our first order of business must be to ensure we are prepared for any eventuality in our own hemisphere.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2295,
+    "key": "USA_war_plan_green",
+    "val": "War Plan Green",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2296,
+    "key": "USA_war_plan_green_desc",
+    "val": "With Mexico in a constant state of instability following the revolution, we must be prepared to intervene, decisively.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2297,
+    "key": "USA_war_plan_crimson",
+    "val": "War Plan Crimson",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2298,
+    "key": "USA_war_plan_crimson_desc",
+    "val": "While Canada may be a friendly neighbor now, this may not always be the case.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2299,
+    "key": "USA_war_plan_gray",
+    "val": "War Plan Gray",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2300,
+    "key": "USA_war_plan_gray_desc",
+    "val": "History has shown that the nations of the Caribbean are quite unstable. We might have to move quickly to protect American interests should any of them fall into instability.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2301,
+    "key": "USA_hemisphere_defense",
+    "val": "Hemisphere Defense",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2302,
+    "key": "USA_hemisphere_defense_desc",
+    "val": "Regardless of any foreign entanglements, we must first and foremost look to our own neighborhood.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2303,
+    "key": "USA_intervention_in_europe",
+    "val": "Intervention in Europe",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2304,
+    "key": "USA_intervention_in_europe_desc",
+    "val": "Less than two decades after the end of the Great War, the nations of Europe are once again poised for war. We must be prepared in case the situation requires swift intervention.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2305,
+    "key": "USA_war_plan_gold",
+    "val": "War Plan Gold",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2306,
+    "key": "USA_war_plan_gold_desc",
+    "val": "France suffers from internal division and increasing political radicalism, but is also one of the greatest military powers of Europe. This combination makes many people uncomfortable.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2307,
+    "key": "USA_war_plan_silver",
+    "val": "War Plan Silver",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2308,
+    "key": "USA_war_plan_silver_desc",
+    "val": "Italy has openly declared its ambition to rule the Mediterranean. If their desires of an Empire conflict with our interests, we must be prepared.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2309,
+    "key": "USA_anti_bolshevist_aid",
+    "val": "Anti [GetSovietThreatNameAlt] Aid",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2310,
+    "key": "USA_anti_bolshevist_aid_desc",
+    "val": "Any gun, shell, bullet and pair of boots we can give to those fighting the spread of the [GetSovietThreatNameAlt] Threat will ultimately help defend us.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2311,
+    "key": "USA_war_plan_ruby",
+    "val": "War Plan Ruby",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2312,
+    "key": "USA_war_plan_ruby_desc",
+    "val": "India houses untold millions of people, which we must be prepared to face should we come into conflict.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2313,
+    "key": "USA_war_plan_scarlet_garnet",
+    "val": "War Plan Scarlet Garnet",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2314,
+    "key": "USA_war_plan_scarlet_garnet_desc",
+    "val": "In the Pacific, Australia and New Zealand may well come to the aid of their motherland. Any plan to deal with Britain must account for her colonies.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2315,
+    "key": "USA_intervention_in_asia",
+    "val": "Intervention In Asia",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2316,
+    "key": "USA_intervention_in_asia_desc",
+    "val": "Often overshadowed by the developments in Europe, Asia has its own trouble spots, forcing us to prepare for an intervention.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2317,
+    "key": "USA_war_plan_yellow",
+    "val": "War Plan Yellow",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2318,
+    "key": "USA_war_plan_yellow_desc",
+    "val": "China has been in a state of civil war for more than a generation. There is no telling when the situation deteriorates to the point where we have to intervene.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2319,
+    "key": "USA_war_department",
+    "val": "War Department",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2320,
+    "key": "USA_war_department_desc",
+    "val": "In an age of industrialized warfare, we must have an administration capable of harnessing the resources of our great nation to their fullest potential.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2321,
+    "key": "USA_selective_training_act",
+    "val": "Selective Training Act",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2322,
+    "key": "USA_selective_training_act_desc",
+    "val": "The United States has historically been slow to adopt a draft, even in times of war. We are no longer able to afford this luxury.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2323,
+    "key": "USA_louisiana_maneuvers",
+    "val": "Louisiana Maneuvers",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2324,
+    "key": "USA_louisiana_maneuvers_desc",
+    "val": "Budget constraints have forced us to observe many military developments from afar. Now, we can finally try out some of our theories in practice.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2325,
+    "key": "USA_airborne_divisions",
+    "val": "Airborne Divisions",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2326,
+    "key": "USA_airborne_divisions_desc",
+    "val": "The developments in the range and payload of planes have opened up a number of possibilities. Cargo planes could deliver a full division of troops far behind enemy lines, where they would wreak havoc.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2327,
+    "key": "USA_army_of_the_united_states",
+    "val": "Army of the United States",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2328,
+    "key": "USA_army_of_the_united_states_desc",
+    "val": "For the fights that are to come, the US Army is too small. To oversee the dramatic increase in size we will have to accomplish, we will need to create a new organization.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2329,
+    "key": "USA_womens_armed_service_integration_act",
+    "val": "Women's Armed Service Integration Act",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2330,
+    "key": "USA_womens_armed_service_integration_act_desc",
+    "val": "We can not afford to turn away anyone who wishes to serve. Every woman in uniform frees up a man to fight at the front.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2331,
+    "key": "USA_tank_experiments",
+    "val": "Tank Experiments",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2332,
+    "key": "USA_tank_experiments_desc",
+    "val": "Tanks are indispensable on the modern battlefield. We must find out how to best utilize them.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2333,
+    "key": "USA_tank_destroyer_doctrine",
+    "val": "Tank Destroyer Doctrine",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2334,
+    "key": "USA_tank_destroyer_doctrine_desc",
+    "val": "A controversial theory developed by some artillery officers, claiming that the best weapon against armored breakthroughs is a fast, lightly armored but heavily armed vehicle.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2335,
+    "key": "USA_main_battle_tanks",
+    "val": "Main Battle Tanks",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2336,
+    "key": "USA_main_battle_tanks_desc",
+    "val": "Experience in the field has clearly shown that a tank must be able to perform a large number of tasks, from infantry support to fighting enemy tanks. Designing vehicles to meet these needs allows us to streamline production.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2337,
+    "key": "USA_armored_infantry",
+    "val": "Armored Infantry",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2338,
+    "key": "USA_armored_infantry_desc",
+    "val": "Tanks alone can not win a battle. It takes infantry to hold territory. Providing them with armored vehicles allows them to keep up with the tanks and survive anything thrown at them.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2339,
+    "key": "USA_build_the_pentagon",
+    "val": "Build the Pentagon",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2340,
+    "key": "USA_build_the_pentagon_desc",
+    "val": "The expansion of our military requires a new global headquarters to command it.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2341,
+    "key": "USA_department_of_defense",
+    "val": "Department of Defense",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2342,
+    "key": "USA_department_of_defense_desc",
+    "val": "Renaming the war department underlines that we can no longer choose to ignore our protection until the moment it is tested. We must always be vigilant.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2343,
+    "key": "USA_escort_fighters",
+    "val": "Escort Fighters",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2344,
+    "key": "USA_escort_fighters_desc",
+    "val": "While the bomber might always get through, his wingman might not - unless they are both protected by friendly fighters.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2345,
+    "key": "USA_us_army_airforce",
+    "val": "US Army Air Force",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2346,
+    "key": "USA_us_army_airforce_desc",
+    "val": "The fundamental objective of military airpower is to allow the ground forces to take and hold ground. Everything else is ancillary.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2347,
+    "key": "USA_us_air_force",
+    "val": "US Air Force",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2348,
+    "key": "USA_us_air_force_desc",
+    "val": "The fundamental objective of military airpower is to win wars. Strategic bombing with ever more devastating weapons will either break the will of the enemy to resist or render them materially unable to do so.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2349,
+    "key": "USA_two_ocean_navy_act",
+    "val": "Two Ocean Navy Act",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2350,
+    "key": "USA_two_ocean_navy_act_desc",
+    "val": "With war on the horizon, we must ensure that no enemy can ever set foot on American shores. Our navy must be able to fight any enemy in either of the two great oceans that form our borders.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2351,
+    "key": "USA_maritime_commission",
+    "val": "Maritime Commission",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2352,
+    "key": "USA_maritime_commission_desc",
+    "val": "While most laymen only focus on the warships, the true experts know that it is the humble cargo vessel that wins wars. To increase the amount of shipping available in times of war, we will form a special board to coordinate construction.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2353,
+    "key": "USA_advanced_basing",
+    "val": "Advanced Basing",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2354,
+    "key": "USA_advanced_basing_desc",
+    "val": "The further we can keep the enemy from our shores, the better.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2355,
+    "key": "USA_naval_radar",
+    "val": "Naval Radar",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2356,
+    "key": "USA_naval_radar_desc",
+    "val": "Radar offers tantalizing possibilities to take the cover of night away from our enemies and detect them even in bad weather.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2357,
+    "key": "USA_fleet_submarines",
+    "val": "Fleet Submarines",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2358,
+    "key": "USA_fleet_submarines_desc",
+    "val": "Our most likely opponents in the naval war both rely on foreign trade, which has shown to be very vulnerable to submarines. These submarines would have to have very long range to allow them to cross the oceans and operate close to the enemy shore.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2359,
+    "key": "USA_unrestricted_submarine_warfare",
+    "val": "Unrestricted Submarine Warfare",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2360,
+    "key": "USA_unrestricted_submarine_warfare_desc",
+    "val": "History has shown that whatever well-intentioned treaty tried to control submarine warfare is not worth the paper it is written on. We should not consider ourselves bound by something our enemies will ignore anyway.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2361,
+    "key": "can_degaussing_tech",
+    "val": "Gain the Degaussing technology",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2362,
+    "key": "USA_great_depression_cooldown",
+    "val": "New Legislation is still being drafted",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2363,
+    "key": "USA_great_depression_cooldown_tt",
+    "val": "After this law is passed, it will take §Y230 days§! until further New Deal legislation is drafted and ready to be signed.\\n\\n",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2364,
+    "key": "USA_limited_intervention_tt",
+    "val": "\\n\\nPassing this law will make it §Rsignificantly harder§! to mobilize your economy.\\n\\n",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2365,
+    "key": "britain_enforced_our_loyalty",
+    "val": "Britain enforced our loyalty.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2366,
+    "key": "sirte_oil_developed",
+    "val": "Sirte Oil Fields Developed",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2367,
+    "key": "benghazi_oil_developed",
+    "val": "Benghazi Oil Fields Developed",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2368,
+    "key": "TREE_FILTER_TOGGLE",
+    "val": "§GClick§! to toggle showing of more filters",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2369,
+    "key": "confirm_cancel_national_focus",
+    "val": "Cancel National Focus",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2370,
+    "key": "confirm_cancel_national_focus_progress_loss_singular",
+    "val": "You will lose §R$LOST_DAYS$§! day of progress.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2371,
+    "key": "confirm_cancel_national_focus_progress_loss_plural",
+    "val": "You will lose §R$LOST_DAYS$§! days of progress.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2372,
+    "key": "confirm_cancel_national_focus_desc",
+    "val": "Are you sure you want to cancel the national focus §H$FOCUS_NAME$§!?",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2373,
+    "key": "SOV_THE_USSR_NAME_COMMUNIST",
+    "val": "the USSR",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2374,
+    "key": "SOV_THE_USSR_NAME_EXILES",
+    "val": "Russia",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2375,
+    "key": "SOV_RUSSIANS_DEMONYM_SOVIETS",
+    "val": "Soviets",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2376,
+    "key": "SOV_RUSSIANS_DEMONYM_RUSSIANS",
+    "val": "Russians",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2377,
+    "key": "SWI_add_forts_bordering",
+    "val": "[ROOT.GetNameDef] gains §H2 Land Forts§! in every neighboring province.\\n\\n",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2378,
+    "key": "ROM_white_squadron_focus",
+    "val": "The White Squadron",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2379,
+    "key": "ROM_white_squadron_focus_desc",
+    "val": "The White squadron, proposed by Marina Ştirbei - a talented pilot of noble birth - is a service of air ambulances piloted exclusively by women. Merely the notion that rescue might be close at hand could keep our soldiers in high spirits.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2380,
+    "key": "HUN_protect_czechoslovakia_tt",
+    "val": "\\nThey will be more likely to submit if:\\n - §HWorld Tension§! is high\\n - They are not in a §Hfaction§!\\n - They have a §Hhigh opinion§! of us\\n - They have a §Hnon-aggression pact§! with us\\n - Their §Hmilitary is weaker§! than ours",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2381,
+    "key": "HUN_unify_with_austria_tt",
+    "val": "\\nThey will be more likely to submit if:\\n - They have less than §H50% War Support§!\\n - They are not in a §Hfaction§!\\n - They have a §Hhigh opinion§! of us\\n - Their §Hmilitary is weaker§! than ours",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2382,
+    "key": "CAN_demand_labrador_tooltip",
+    "val": "§H[ENG.GetName]§! will be §Rvery unlikely§! to accede to our demands unless they are in a desperate situation.\\n\\n",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2383,
+    "key": "CAN_offer_concessions_for_labrador_tooltip",
+    "val": "§H[ENG.GetName]§! are more likely to consider this request than an outright demand. They will be §Gmore likely§! to accede to our request if they are:\\n  - At war\\n  - Have a high opinion of us\\n  - Have greater than §H25%§! Surrender Progress\\n  - Have the same ideology as us\\n\\nIf they accept:\\n",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2384,
+    "key": "tfv_canada.63.t",
+    "val": "[CAN.GetNameDef] Offers Concessions for Newfoundland",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2385,
+    "key": "tfv_canada.63.d",
+    "val": "The new government of the [CAN.GetAdjective] state offer us an intriguing proposal for the concession of our territories in Newfoundland. While it is true that the laws of our nation acknowledge an indivisible state, our advisors urge us to consider the possibility of a new front that may distract from the situation in Europe.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2386,
+    "key": "tfv_canada.63.a",
+    "val": "Indeed.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2387,
+    "key": "tfv_canada.63.b",
+    "val": "Never!",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2388,
+    "key": "CAN_offer_concessions_for_labrador_and_newfoundland",
+    "val": "Concessions for Labrador and Newfoundland",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2389,
+    "key": "CAN_offer_concessions_for_labrador_and_newfoundland_desc",
+    "val": "The British claim dominion over land adjacent to our heartland. While we do not wish for war with a superior foe, they may be willing to consider a less than optimal trade if their situation demands it.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2390,
+    "key": "AST_central_bureau",
+    "val": "Coordinate Central Bureau",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2391,
+    "key": "AST_central_bureau_desc",
+    "val": "A Signals & Intelligence bureau coordinated with the US promises to give us a strategic edge in the coming storm. Our expertise in this area should be acknowledged.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2392,
+    "key": "HUN_a_new_flagship",
+    "val": "Pride of the Fleet",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2393,
+    "key": "HUN_a_new_flagship_desc",
+    "val": "The storied history of our naval tradition has been one of trial, tribulation, and betrayal. In an effort to restore the pride of our heritage, our admirals propose a new flagship to inspire the whole nation.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2394,
+    "key": "HUN_dockyards",
+    "val": "Renew the Shipping Industry",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2395,
+    "key": "HUN_dockyards_desc",
+    "val": "With our sights set firmly on the restoration of our borders, we must begin the task of developing a Mediterranean fleet to rival our past glories.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2396,
+    "key": "if_no_depression_get_stuff_TT",
+    "val": "\\nIf the §H$CAN_great_depression_1$§! has been removed, a different bonus will be applied.\\n\\n",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2397,
+    "key": "BEL_luxembourg_war_goal",
+    "val": "Luxembourg's Integration",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2398,
+    "key": "BEL_luxembourg_war_goal_desc",
+    "val": "Luxembourg shares much with Belgium, language, culture and geography. Naturally the two should be united!",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2569,
+    "key": "GER_historical_path_shortcut",
+    "val": "Politics: Historical",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2570,
+    "key": "GER_economic_path_shortcut",
+    "val": "Economy",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2571,
+    "key": "GER_oppose_hitler_shortcut",
+    "val": "Politics: Opposition",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2572,
+    "key": "GER_military_doctrine_shortcut",
+    "val": "Army",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2573,
+    "key": "GER_air_doctrine_shortcut",
+    "val": "Air Force",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2574,
+    "key": "GER_naval_doctrine_shortcut",
+    "val": "Navy",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2576,
+    "key": "JAP_military_doctrine_shortcut",
+    "val": "Military",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2577,
+    "key": "JAP_revere_the_emperor_shortcut",
+    "val": "Politics: Imperial Way",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2578,
+    "key": "JAP_okadas_military_purge_speech_shortcut",
+    "val": "Politics:\\nMilitary Purge",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2579,
+    "key": "FOCUS_SHORTCUT_TOOLTIP",
+    "val": "§GLeft-click§! to pan to the $PATH|H$ path",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2581,
+    "key": "upgrades_design_company",
+    "val": "§GUpgrades§! §YDesign Company§!",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2582,
+    "key": "either_tt",
+    "val": "We will get the option of either: ",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 2583,
+    "key": "or_tt",
+    "val": "or",
+    "isPureVar": false
+  }
+]

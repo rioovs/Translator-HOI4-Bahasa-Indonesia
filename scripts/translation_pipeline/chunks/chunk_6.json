@@ -1,0 +1,1402 @@
+[
+  {
+    "line": 1564,
+    "key": "ww_BEL_event_diplomatic.27.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Allows Limited Federalization",
+    "comment": ""
+  },
+  {
+    "line": 1565,
+    "key": "ww_BEL_event_diplomatic.27.desc",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] has approved our request to tie themselves more closely to [FROM.GetFactionName]. We will be allowed some powers over their foreign policy and trade will be simplified between us all.",
+    "comment": ""
+  },
+  {
+    "line": 1566,
+    "key": "ww_BEL_event_diplomatic.27.a",
+    "ver": "",
+    "en": "Great!",
+    "comment": ""
+  },
+  {
+    "line": 1568,
+    "key": "ww_BEL_event_diplomatic.28.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Refuses Limited Federalization",
+    "comment": ""
+  },
+  {
+    "line": 1569,
+    "key": "ww_BEL_event_diplomatic.28.desc",
+    "ver": "",
+    "en": "Despite the obvious advantages [FROM.GetNameDef] has elected to not join our federated Europe idea. They claim that their own sovereignty stands above the well-being of the entire $EU_tech_sharing_group_name$ which is quite the concerning sentiment to come from within the union.",
+    "comment": ""
+  },
+  {
+    "line": 1570,
+    "key": "ww_BEL_event_diplomatic.28.a",
+    "ver": "",
+    "en": "That is very concerning",
+    "comment": ""
+  },
+  {
+    "line": 1571,
+    "key": "ww_BEL_event_diplomatic.28.b",
+    "ver": "",
+    "en": "They are a risk to all of us!",
+    "comment": ""
+  },
+  {
+    "line": 1573,
+    "key": "ww_BEL_event_diplomatic.29.t",
+    "ver": "",
+    "en": "Otto von Habsburg offers his Support",
+    "comment": ""
+  },
+  {
+    "line": 1574,
+    "key": "ww_BEL_event_diplomatic.29.desc",
+    "ver": "",
+    "en": "We have received an offer from support from an individual we are somewhat surprised to hear from. Otto von Habsburg might be the heir of Charles I, Emperor of Austria, King of Hungary and King of Croatia, but it seems that unlike his father, Otto is much more inclined towards cooperation within Europe. He salutes our efforts and offers his help on the diplomatic side, his wide diplomatic network could be an asset to us and it is help that he would happily offer us.",
+    "comment": ""
+  },
+  {
+    "line": 1575,
+    "key": "ww_BEL_event_diplomatic.29.a",
+    "ver": "",
+    "en": "We'd be honored to have him along",
+    "comment": ""
+  },
+  {
+    "line": 1576,
+    "key": "ww_BEL_event_diplomatic.29.b",
+    "ver": "",
+    "en": "The Habsburgs belong in the past.",
+    "comment": ""
+  },
+  {
+    "line": 1578,
+    "key": "ww_BEL_event_diplomatic.30.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Requests to join the [ROOT.GetFactionName]",
+    "comment": ""
+  },
+  {
+    "line": 1579,
+    "key": "ww_BEL_event_diplomatic.30.desc",
+    "ver": "",
+    "en": "Following the [FROM.GetAdjective] decision to abolish their aspirations for neutrality the leadership of [FROM.GetNameDef] has aligned all the more closely to our political agenda. They have now reached out to us with a request to join [ROOT.GetFactionName] proper. Their help could be useful, allowing us new ways to strategize for our future expansion.",
+    "comment": ""
+  },
+  {
+    "line": 1580,
+    "key": "ww_BEL_event_diplomatic.30.a",
+    "ver": "",
+    "en": "They are welcome here",
+    "comment": ""
+  },
+  {
+    "line": 1581,
+    "key": "ww_BEL_event_diplomatic.30.b",
+    "ver": "",
+    "en": "We have no need of them",
+    "comment": ""
+  },
+  {
+    "line": 1583,
+    "key": "ww_BEL_event_diplomatic.31.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Accepts Us Into the [FROM.GetFactionName]",
+    "comment": ""
+  },
+  {
+    "line": 1584,
+    "key": "ww_BEL_event_diplomatic.31.desc",
+    "ver": "",
+    "en": "[FROM.GetAdjective] leader [FROM.GetLeader] has reached out to welcome us into the [FROM.GetFactionName]. From now on we will fight side by side against joint threats. Gone is the time of our neutrality!",
+    "comment": ""
+  },
+  {
+    "line": 1585,
+    "key": "ww_BEL_event_diplomatic.31.a",
+    "ver": "",
+    "en": "Great News",
+    "comment": ""
+  },
+  {
+    "line": 1587,
+    "key": "ww_BEL_event_diplomatic.32.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Refuses us Membership in the [FROM.GetFactionName]",
+    "comment": ""
+  },
+  {
+    "line": 1588,
+    "key": "ww_BEL_event_diplomatic.32.desc",
+    "ver": "",
+    "en": "Despite obvious benefits the [FROM.GetAdjective] leader [FROM.GetLeader] has rejected us as a member of [FROM.GetFactionName]. We could have brought much to the table, but considering this response we should reconsider our ambitions to join them, both now and in the future.",
+    "comment": ""
+  },
+  {
+    "line": 1589,
+    "key": "ww_BEL_event_diplomatic.32.a",
+    "ver": "",
+    "en": "We can create something better!",
+    "comment": ""
+  },
+  {
+    "line": 1590,
+    "key": "BEL_tried_to_join_the_axis_flag",
+    "ver": "",
+    "en": "Already attempted to join the [GER.GetFactionName]",
+    "comment": ""
+  },
+  {
+    "line": 1592,
+    "key": "ww_BEL_event_diplomatic.33.t",
+    "ver": "",
+    "en": "The Future of [ROOT.GetAdjective] Neutrality",
+    "comment": ""
+  },
+  {
+    "line": 1593,
+    "key": "ww_BEL_event_diplomatic.33.desc",
+    "ver": "",
+    "en": "Neutrality has served our country very well, but remaining neutral might make others regard us as nothing but a passive bystander and target. We must carefully consider the future of our foreign policy, and our stance with regards to armed struggle as it seems that conflict might reach us in the immediate future.",
+    "comment": ""
+  },
+  {
+    "line": 1594,
+    "key": "ww_BEL_event_diplomatic.33.a",
+    "ver": "",
+    "en": "We must break the shackles and prepare!",
+    "comment": ""
+  },
+  {
+    "line": 1595,
+    "key": "ww_BEL_event_diplomatic.33.b",
+    "ver": "",
+    "en": "Neutrality must be maintained!",
+    "comment": ""
+  },
+  {
+    "line": 1597,
+    "key": "ww_BEL_event_diplomatic.34.t",
+    "ver": "",
+    "en": "[FRA.GetNameDefCap]: Friend or Foe?",
+    "comment": ""
+  },
+  {
+    "line": 1598,
+    "key": "ww_BEL_event_diplomatic.34.desc",
+    "ver": "",
+    "en": "No matter how well armed we are we have to come to terms with the fact that our Southern neighbor will likely always have more capacity than us. We have to come to an agreement, do we regard them as a friend, or a foe?",
+    "comment": ""
+  },
+  {
+    "line": 1599,
+    "key": "ww_BEL_event_diplomatic.34.a",
+    "ver": "",
+    "en": "The [FRA.GetAdjective] are our friends",
+    "comment": ""
+  },
+  {
+    "line": 1600,
+    "key": "ww_BEL_event_diplomatic.34.b",
+    "ver": "",
+    "en": "The [FRA.GetAdjective] cannot be trusted!",
+    "comment": ""
+  },
+  {
+    "line": 1602,
+    "key": "ww_BEL_event_diplomatic.35.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Reaches out to Us",
+    "comment": ""
+  },
+  {
+    "line": 1603,
+    "key": "ww_BEL_event_diplomatic.35.desc",
+    "ver": "",
+    "en": "We have been contacted by our northern neighbor. They wish to entertain more serious diplomatic relations with us. Their offer is one that could be beneficial to both of us, but we must still make sure to make the right choice in this matter.",
+    "comment": ""
+  },
+  {
+    "line": 1604,
+    "key": "ww_BEL_event_diplomatic.35.a",
+    "ver": "",
+    "en": "But of course!",
+    "comment": ""
+  },
+  {
+    "line": 1605,
+    "key": "ww_BEL_event_diplomatic.35.b",
+    "ver": "",
+    "en": "No, we do not see the benefit of this.",
+    "comment": ""
+  },
+  {
+    "line": 1607,
+    "key": "ww_BEL_event_diplomatic.36.t",
+    "ver": "",
+    "en": "The [FROM.GetAdjective] Agrees",
+    "comment": ""
+  },
+  {
+    "line": 1608,
+    "key": "ww_BEL_event_diplomatic.36.desc",
+    "ver": "",
+    "en": "The leadership of [FROM.GetNameDef] agrees that we might both benefit from deepening our diplomatic relationship. We can count on them as our friends and allies in this all the more hostile world.",
+    "comment": ""
+  },
+  {
+    "line": 1609,
+    "key": "ww_BEL_event_diplomatic.36.a",
+    "ver": "",
+    "en": "Great!",
+    "comment": ""
+  },
+  {
+    "line": 1611,
+    "key": "ww_BEL_event_diplomatic.37.t",
+    "ver": "",
+    "en": "The [FROM.GetAdjective] Disagrees",
+    "comment": ""
+  },
+  {
+    "line": 1612,
+    "key": "ww_BEL_event_diplomatic.37.desc",
+    "ver": "",
+    "en": "Despite the obvious benefits to the both of us, it seems that the [FROM.GetAdjective] are not willing to entertain diplomatic relations with us, beyond what they already do. We had high hopes for this, but it seems they were not shared.",
+    "comment": ""
+  },
+  {
+    "line": 1613,
+    "key": "ww_BEL_event_diplomatic.37.a",
+    "ver": "",
+    "en": "Shame...",
+    "comment": ""
+  },
+  {
+    "line": 1619,
+    "key": "ww_BEL_event_war.1.t",
+    "ver": "",
+    "en": "Relocated Air Industries Activated",
+    "comment": ""
+  },
+  {
+    "line": 1620,
+    "key": "ww_BEL_event_war.1.desc",
+    "ver": "",
+    "en": "Our foresight to develop good working contacts with foreign industrial firms has paid off. Their facilities are ready to enter production immediately.",
+    "comment": ""
+  },
+  {
+    "line": 1621,
+    "key": "ww_BEL_event_war.1.a",
+    "ver": "",
+    "en": "This is why we plan ahead!",
+    "comment": ""
+  },
+  {
+    "line": 1626,
+    "key": "ww_BEL_event_war.2.t",
+    "ver": "",
+    "en": "Unknown Sympathies",
+    "comment": ""
+  },
+  {
+    "line": 1627,
+    "key": "ww_BEL_event_war.2.desc",
+    "ver": "",
+    "en": "King Leopold III has been living in the shadow of his father, King Albert the Soldier King, famous for having kept Belgium in the Great War, and denying victory to the German Empire. Although in the process, his country was turned into a battlefield, the military pride of the nation was unblemished and the reputation of Belgium rose on the world stage. \\n\\nNow, with Belgium once more at war, the true test of Leopold's character will begin, and already there are rumblings which cause us concern. \\n\\nClaiming to want to preserve the lives of his people, the King has already been putting out feelers for peace, and we suspect that should Brussels, Liege or Antwerp fall then the king may capitulate early, regardless of the democratic will of the people to continue fighting.",
+    "comment": ""
+  },
+  {
+    "line": 1628,
+    "key": "ww_BEL_event_war.2.a",
+    "ver": "",
+    "en": "King Leopold will lead us to victory.",
+    "comment": ""
+  },
+  {
+    "line": 1629,
+    "key": "BEL_unknown_sympathies_tt",
+    "ver": "",
+    "en": "§RKing Leopold will surrender if we lose any of Liege, Antwerp or Brussels. You may still have some options if that time comes.§!",
+    "comment": ""
+  },
+  {
+    "line": 1632,
+    "key": "ww_BEL_event_war.3.t",
+    "ver": "",
+    "en": "The King's Surrender",
+    "comment": ""
+  },
+  {
+    "line": 1633,
+    "key": "ww_BEL_event_war.3.desc",
+    "ver": "",
+    "en": "The King, as Commander in Chief of the armed forces has today offered the unconditional surrender of [BEL.GetName], without first waiting for ratification by the [BEL.GetAdjective] parliament. Technically, as Commander in Chief, he has the power to surrender the military but not of the country itself. \\n\\nThe civilian parliament has already fled into exile, making their intention to continue the war using all the resources of the [BEL.GetAdjective] Empire clear.",
+    "comment": ""
+  },
+  {
+    "line": 1634,
+    "key": "ww_BEL_event_war.3.a",
+    "ver": "",
+    "en": "It is the King's will!",
+    "comment": ""
+  },
+  {
+    "line": 1635,
+    "key": "ww_BEL_event_war.3.b",
+    "ver": "",
+    "en": "Continue to fight!",
+    "comment": ""
+  },
+  {
+    "line": 1636,
+    "key": "ww_BEL_event_war.3.c",
+    "ver": "",
+    "en": "He had no right! Place the king under house arrest.",
+    "comment": ""
+  },
+  {
+    "line": 1639,
+    "key": "ww_BEL_event_war.4.t",
+    "ver": "",
+    "en": "The Royal Prisoner",
+    "comment": ""
+  },
+  {
+    "line": 1640,
+    "key": "ww_BEL_event_war.4.desc",
+    "ver": "",
+    "en": "Following his treachery in giving the nation up to the invader, the King has been placed under house arrest and stripped of his position as Commander in Chief of the armed forces, stripped of his titles, and of course stripped of his crown. The people still need a ruler however, and it has become our choice as to whom should lead the regency until his son is old enough to take the throne. There are two options: \\n\\nThe first is Leon Degrelle, the Prime Minister and lawfully appointed leader of our people. The other option is Charles, Count of Flanders, the brother of Leopold would give that air of legitimacy and continuity with the crown.",
+    "comment": ""
+  },
+  {
+    "line": 1641,
+    "key": "ww_BEL_event_war.4.a",
+    "ver": "",
+    "en": "Make Leon Degrelle the new regent",
+    "comment": ""
+  },
+  {
+    "line": 1642,
+    "key": "ww_BEL_event_war.4.b",
+    "ver": "",
+    "en": "Secure the legitimate line with Charles",
+    "comment": ""
+  },
+  {
+    "line": 1645,
+    "key": "ww_BEL_event_war.5.t",
+    "ver": "",
+    "en": "The King's Capitulation",
+    "comment": ""
+  },
+  {
+    "line": 1646,
+    "key": "ww_BEL_event_war.5.desc",
+    "ver": "",
+    "en": "Following a spirited defense of the nation, King Leopold III has finally offered the surrender of [BEL.GetName] and our government has been forced into exile. Leopold has elected to remain with his people, and become a prisoner in his own home. We can still rely on the goodwill of our allies, and lean on the resources of the [BEL.GetAdjective] Empire, and so in time restore our homeland to us.",
+    "comment": ""
+  },
+  {
+    "line": 1647,
+    "key": "ww_BEL_event_war.5.a",
+    "ver": "",
+    "en": "The future is uncertain.",
+    "comment": ""
+  },
+  {
+    "line": 1652,
+    "key": "ww_BEL_event_war.6.t",
+    "ver": "",
+    "en": "Secretaries General",
+    "comment": ""
+  },
+  {
+    "line": 1653,
+    "key": "ww_BEL_event_war.6.desc",
+    "ver": "",
+    "en": "A group of Belgian civil servants have approached us with an offer; allow them to continue their work in civic office, and they will ensure that local government will continue to function smoothly in this time of transition. The Belgian government has passed legislation to make their collaboration with us legal in a bid to reduce the impact of the occupation on their people. They have even sanctioned Belgian banks to continue to pay the wages of these administrators. This is an opportunity for us to show willingness to work with the locals, and will go some way to relieving active resistance in the region.",
+    "comment": ""
+  },
+  {
+    "line": 1654,
+    "key": "ww_BEL_event_war.6.a",
+    "ver": "",
+    "en": "A good initiative, work with them to ensure a smooth occupation.",
+    "comment": ""
+  },
+  {
+    "line": 1655,
+    "key": "ww_BEL_event_war.6.b",
+    "ver": "",
+    "en": "Interesting idea, we will consider their offer.",
+    "comment": ""
+  },
+  {
+    "line": 1656,
+    "key": "ww_BEL_event_war.6.c",
+    "ver": "",
+    "en": "This is simply an excuse for a legitimate resistance. No.",
+    "comment": ""
+  },
+  {
+    "line": 1658,
+    "key": "BEL_set_secretaries_general_tt",
+    "ver": "",
+    "en": "§YSecretaries General§! will be added as the §YOccupation Law§! throughout Belgium",
+    "comment": ""
+  },
+  {
+    "line": 1659,
+    "key": "BEL_available_secretaries_general_tt",
+    "ver": "",
+    "en": "§YSecretaries General§! are now available as an §YOccupation Law§! in Belgium",
+    "comment": ""
+  },
+  {
+    "line": 1660,
+    "key": "BEL_no_secretaries_general_tt",
+    "ver": "",
+    "en": "§YSecretaries General§! will be removed as an §YOccupation Law§! in Belgium",
+    "comment": ""
+  },
+  {
+    "line": 1661,
+    "key": "BEL_remove_secretaries_general_civs_tt",
+    "ver": "",
+    "en": "Remove 2 §YOffmap Civilian Factories§!",
+    "comment": ""
+  },
+  {
+    "line": 1666,
+    "key": "ww_BEL_event_war.7.t",
+    "ver": "",
+    "en": "Potential Limited War - Paris must fall!",
+    "comment": ""
+  },
+  {
+    "line": 1667,
+    "key": "ww_BEL_event_war.7.desc",
+    "ver": "",
+    "en": "Our top diplomats and generals have recently met, and advised us that should this conflict remain limited in scope, that is if no other major powers were to get involved, then we might be able to bring [FRA.GetName] to the table and secure a quick peace deal. We know that they are afraid of rising tensions, and like us have no wish to be drawn into yet another global conflict. \\n\\nAs such, it is our calculation that should Paris fall, this would be enough of a demonstration of our capabilities that they might be willing to negotiate the transfer of disputed Calais.",
+    "comment": ""
+  },
+  {
+    "line": 1668,
+    "key": "ww_BEL_event_war.7.a",
+    "ver": "",
+    "en": "Our troops will be marching through the streets of Paris before long!",
+    "comment": ""
+  },
+  {
+    "line": 1671,
+    "key": "ww_BEL_event_war.8.t",
+    "ver": "",
+    "en": "Paris Has Fallen!",
+    "comment": ""
+  },
+  {
+    "line": 1672,
+    "key": "ww_BEL_event_war.8.desc",
+    "ver": "",
+    "en": "In a national catastrophe, our proud capital of Paris has fallen! Once again, our armed forces have been shown to be inadequate in the face of a clearly inferior enemy. The [FROM.GetAdjective]s have offered to retreat their troops and spare the rest of the country, but in return, they demand that we hand over Calais to them. \\n\\nWe can feel the vultures circling already, and this will give us time to take the lessons we have learned, and prepare for bigger potential foes in the future.",
+    "comment": ""
+  },
+  {
+    "line": 1673,
+    "key": "ww_BEL_event_war.8.a",
+    "ver": "",
+    "en": "Offer Calais for peace.",
+    "comment": ""
+  },
+  {
+    "line": 1674,
+    "key": "ww_BEL_event_war.8.b",
+    "ver": "",
+    "en": "Keep fighting! This war is not over yet.",
+    "comment": ""
+  },
+  {
+    "line": 1677,
+    "key": "ww_BEL_event_war.9.t",
+    "ver": "",
+    "en": "France Agrees to Peace",
+    "comment": ""
+  },
+  {
+    "line": 1678,
+    "key": "ww_BEL_event_war.9.desc",
+    "ver": "",
+    "en": "Today, we received a French delegation who came to negotiate the peaceful resolution to the current conflict following the fall of their capital. After several deliberations, they have settled on offering us Calais in exchange for an immediate cessation of hostilities. \\n\\nIt should be noted that this is a one time offer, and should we refuse they will become more resolute in their defense, and are unlikely to offer it again.",
+    "comment": ""
+  },
+  {
+    "line": 1679,
+    "key": "ww_BEL_event_war.9.a",
+    "ver": "",
+    "en": "We accept! Calais for peace.",
+    "comment": ""
+  },
+  {
+    "line": 1680,
+    "key": "ww_BEL_event_war.9.b",
+    "ver": "",
+    "en": "Keep fighting! We can take more.",
+    "comment": ""
+  },
+  {
+    "line": 1682,
+    "key": "ww_BEL_event_war.10.t",
+    "ver": "",
+    "en": "Paris Under [ROOT.GetAdjective] Control",
+    "comment": ""
+  },
+  {
+    "line": 1683,
+    "key": "ww_BEL_event_war.10.desc",
+    "ver": "",
+    "en": "The goals set before us in the discussions in the early days of our war against the [FRA.GetAdjective] have been achieved. Paris lays within our control and as such, one might assume that the [FRA.GetAdjective] are now stressed enough that an offer to retreat our troops in return for them to give us Calais could be met with a reluctant approval.\\n\\nAt the same time, voices are being raised, we've gotten this far, and the [FRA.GetAdjective] clearly are unable to stop us. Why stop now?",
+    "comment": ""
+  },
+  {
+    "line": 1684,
+    "key": "ww_BEL_event_war.10.a",
+    "ver": "",
+    "en": "We got what we came for, sue for peace!",
+    "comment": ""
+  },
+  {
+    "line": 1685,
+    "key": "ww_BEL_event_war.10.b",
+    "ver": "",
+    "en": "We want it all!",
+    "comment": ""
+  },
+  {
+    "line": 1691,
+    "key": "ww_BEL_event_spanish_interaction.1.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Sends Equipment",
+    "comment": ""
+  },
+  {
+    "line": 1692,
+    "key": "ww_BEL_event_spanish_interaction.1.desc",
+    "ver": "",
+    "en": "We have received a shipment of rifles from the [FROM.GetAdjective] government. They share our sentiment that the nationalists must be stopped and wish to aid our struggle, and not only with words.",
+    "comment": ""
+  },
+  {
+    "line": 1693,
+    "key": "ww_BEL_event_spanish_interaction.1.a",
+    "ver": "",
+    "en": "We will make good use of them!",
+    "comment": ""
+  },
+  {
+    "line": 1695,
+    "key": "ww_BEL_event_spanish_interaction.2.t",
+    "ver": "",
+    "en": "Further Equipment Shipments to [SPR.GetAdjective] Republicans",
+    "comment": ""
+  },
+  {
+    "line": 1696,
+    "key": "ww_BEL_event_spanish_interaction.2.desc",
+    "ver": "",
+    "en": "Our previous shipment to the [SPR.GetAdjective] has proven very useful for our Republican friends. Their battle is far from over however and we should be able to offer more equipment to them.",
+    "comment": ""
+  },
+  {
+    "line": 1697,
+    "key": "ww_BEL_event_spanish_interaction.2.a",
+    "ver": "",
+    "en": "Send more rifles!",
+    "comment": ""
+  },
+  {
+    "line": 1698,
+    "key": "ww_BEL_event_spanish_interaction.2.b",
+    "ver": "",
+    "en": "They could use some Support Equipment!",
+    "comment": ""
+  },
+  {
+    "line": 1699,
+    "key": "ww_BEL_event_spanish_interaction.2.c",
+    "ver": "",
+    "en": "Send them artillery!",
+    "comment": ""
+  },
+  {
+    "line": 1701,
+    "key": "ww_BEL_event_spanish_interaction.3.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Sends more Equipment",
+    "comment": ""
+  },
+  {
+    "line": 1702,
+    "key": "ww_BEL_event_spanish_interaction.3.desc",
+    "ver": "",
+    "en": "We have received another shipment of [FROM.GetAdjective] equipment. Their support for us will provide most helpful in the fight back the nationalist scourge that ravages our homelands.",
+    "comment": ""
+  },
+  {
+    "line": 1703,
+    "key": "ww_BEL_event_spanish_interaction.3.a",
+    "ver": "",
+    "en": "Great!",
+    "comment": ""
+  },
+  {
+    "line": 1705,
+    "key": "ww_BEL_event_spanish_interaction.4.t",
+    "ver": "",
+    "en": "[FROM.GetAdjective] Speech in Support of Our Struggle",
+    "comment": ""
+  },
+  {
+    "line": 1706,
+    "key": "ww_BEL_event_spanish_interaction.4.desc",
+    "ver": "",
+    "en": "We have been informed that some hours ago a rally and a speech was held in our support in [FROM.GetNameDef]. The [FROM.GetAdjective] leadership has again reiterated their support for us in hopes that this will offer us more room to act as our people gains more faith in us.",
+    "comment": ""
+  },
+  {
+    "line": 1707,
+    "key": "ww_BEL_event_spanish_interaction.4.a",
+    "ver": "",
+    "en": "Send our thanks to the [FROM.GetAdjective]s!",
+    "comment": ""
+  },
+  {
+    "line": 1709,
+    "key": "ww_BEL_event_spanish_interaction.5.t",
+    "ver": "",
+    "en": "Promotion of [FROM.GetAdjective] Emigration",
+    "comment": ""
+  },
+  {
+    "line": 1710,
+    "key": "ww_BEL_event_spanish_interaction.5.desc",
+    "ver": "",
+    "en": "Recently we have seen an increase of immigration of [FROM.GetAdjective] citizens. Many of these immigrants state willingness to join our armed forces if we should have need of their help. One can only imagine that this is a conscious effort from the [FROM.GetAdjective]s.",
+    "comment": ""
+  },
+  {
+    "line": 1711,
+    "key": "ww_BEL_event_spanish_interaction.5.a",
+    "ver": "",
+    "en": "Great news!",
+    "comment": ""
+  },
+  {
+    "line": 1713,
+    "key": "ww_BEL_event_spanish_interaction.6.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Proposes Alliance",
+    "comment": ""
+  },
+  {
+    "line": 1714,
+    "key": "ww_BEL_event_spanish_interaction.6.desc",
+    "ver": "",
+    "en": "The previously so neutral [FROM.GetAdjective]s have sent us a surprising proposal. They wish to form an alliance with us. They hope that this will allow them to provide better support for us in our struggle against the nationalists.",
+    "comment": ""
+  },
+  {
+    "line": 1715,
+    "key": "ww_BEL_event_spanish_interaction.6.a",
+    "ver": "",
+    "en": "A great idea!",
+    "comment": ""
+  },
+  {
+    "line": 1716,
+    "key": "ww_BEL_event_spanish_interaction.6.b",
+    "ver": "",
+    "en": "We appreciate their support but no.",
+    "comment": ""
+  },
+  {
+    "line": 1718,
+    "key": "ww_BEL_event_spanish_interaction.7.t",
+    "ver": "",
+    "en": "[FROM.GetNameDef] Joins the [ROOT.GetFactionName]",
+    "comment": ""
+  },
+  {
+    "line": 1719,
+    "key": "ww_BEL_event_spanish_interaction.7.desc",
+    "ver": "",
+    "en": "The [FROM.GetAdjective] have returned an affirmative answer to our proposal to form the [ROOT.GetFactionName]. We will stand together against the nationalist threat!",
+    "comment": ""
+  },
+  {
+    "line": 1720,
+    "key": "ww_BEL_event_spanish_interaction.7.a",
+    "ver": "",
+    "en": "Onward!",
+    "comment": ""
+  },
+  {
+    "line": 1722,
+    "key": "ww_BEL_event_spanish_interaction.8.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Rejects our Alliance Proposal",
+    "comment": ""
+  },
+  {
+    "line": 1723,
+    "key": "ww_BEL_event_spanish_interaction.8.desc",
+    "ver": "",
+    "en": "Considering the support that we have continuously offered the [FROM.GetAdjective] we had hoped that our proposal would be met with a positive response. It appears that this was not the case as they have rejected our suggestion, stating that our help is welcome, but that they do not wish for an alliance.",
+    "comment": ""
+  },
+  {
+    "line": 1724,
+    "key": "ww_BEL_event_spanish_interaction.8.a",
+    "ver": "",
+    "en": "How rude!",
+    "comment": ""
+  },
+  {
+    "line": 1726,
+    "key": "ww_BEL_event_spanish_interaction.9.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Dismantles $BEL_SPR_alliance$",
+    "comment": ""
+  },
+  {
+    "line": 1727,
+    "key": "ww_BEL_event_spanish_interaction.9.desc",
+    "ver": "",
+    "en": "With the conclusion of our Civil War the [FROM.GetAdjective] has decided that it is time our partnership comes to an end. Though this ends our alliance for now, they have been very adamant that this does not mean we will never be allies again.",
+    "comment": ""
+  },
+  {
+    "line": 1728,
+    "key": "ww_BEL_event_spanish_interaction.9.a",
+    "ver": "",
+    "en": "Shame really",
+    "comment": ""
+  },
+  {
+    "line": 1730,
+    "key": "ww_BEL_event_misc.1.t",
+    "ver": "",
+    "en": "The Boss is Dead",
+    "comment": ""
+  },
+  {
+    "line": 1731,
+    "key": "ww_BEL_event_misc.1.desc",
+    "ver": "",
+    "en": "Émile Vandervelde, nicknamed 'le patron' (the boss), the long standing Socialist politician and Prime Minister of [BEL.GetName] has died. He was well known as a member of the Belgian delegation at the Paris Peace Conference which concluded the Great War, and whom had become a staunch opponent of Fascism, even advocating for direct intervention in the Spanish Civil War on the Republican side. \\n\\nHenri de Man has taken over as the new Prime Minister, and will be sworn in by the King later today.",
+    "comment": ""
+  },
+  {
+    "line": 1732,
+    "key": "ww_BEL_event_misc.1.a",
+    "ver": "",
+    "en": "His successor is the man to get the job done!",
+    "comment": ""
+  },
+  {
+    "line": 1734,
+    "key": "ww_BEL_event_misc.3.t",
+    "ver": "",
+    "en": "Cockerill: The Heart of Belgian Manufacturing",
+    "comment": ""
+  },
+  {
+    "line": 1735,
+    "key": "ww_BEL_event_misc.3.desc",
+    "ver": "",
+    "en": "Cockerill is the company which sits squarely at the heart of Belgian manufacturing. Throughout its existence it has turned its hand to not only the manufacture of iron and steel, but also to finely engineered machines including steam engines, trains and even battleships. It developed a stellar reputation and rose to become a major force in the steel industry of Western Europe. \\n\\nAdolphe Greiner the director-general, among other members of the management, remained at their posts throughout the siege of Liege in the Great War, ensuring that employment remained open to its workforce as long as it could. Once occupied, the company refused to manufacture for the occupying forces, and was therefore gutted for the majority of its heavy steel working equipment. \\n\\nIt has since recovered during the interwar period and remains a foremost industrial concern.",
+    "comment": ""
+  },
+  {
+    "line": 1736,
+    "key": "ww_BEL_event_misc.3.a",
+    "ver": "",
+    "en": "They probably built the engine of our economy!",
+    "comment": ""
+  },
+  {
+    "line": 1740,
+    "key": "ww_congo.1.t",
+    "ver": "",
+    "en": "Belgium Invests into our Development",
+    "comment": ""
+  },
+  {
+    "line": 1741,
+    "key": "ww_congo.1.desc",
+    "ver": "",
+    "en": "The Belgian colonial office has today passed a bill to allocate much larger amounts of resources to our industrial development, and have begun construction of industrial facilities in [295.GetName].",
+    "comment": ""
+  },
+  {
+    "line": 1742,
+    "key": "ww_congo.1.a",
+    "ver": "",
+    "en": "A great boon",
+    "comment": ""
+  },
+  {
+    "line": 1744,
+    "key": "ww_congo.4.t",
+    "ver": "",
+    "en": "Raoul van Overstraeten returns to Belgium",
+    "comment": ""
+  },
+  {
+    "line": 1745,
+    "key": "ww_congo.4.desc",
+    "ver": "",
+    "en": "The Belgian military officer Raoul van Overstraeten, who has served in our nation until recently, has now with the news of our newfound independence, decided to return back home to the European mainland. We have no more need for Europeans like him, and the loss will surely only make us stronger.",
+    "comment": ""
+  },
+  {
+    "line": 1746,
+    "key": "ww_congo.4.a",
+    "ver": "",
+    "en": "Begone Imperialist!",
+    "comment": ""
+  },
+  {
+    "line": 1748,
+    "key": "ww_congo.5.t",
+    "ver": "",
+    "en": "[COG.GetLeader] wants to increase Food Production in the Congo",
+    "comment": ""
+  },
+  {
+    "line": 1749,
+    "key": "ww_congo.5.desc",
+    "ver": "",
+    "en": "Our governor in the Congo, [COG.GetLeader], has stated his wish to increase food production by reducing mining production as part of his endeavor to 'improve the social conditions of the colonial population'. It would surely harm the colony's profitability for the time being, but would almost certainly improve it in the long run.",
+    "comment": ""
+  },
+  {
+    "line": 1750,
+    "key": "ww_congo.5.a",
+    "ver": "",
+    "en": "That would decrease profits!",
+    "comment": ""
+  },
+  {
+    "line": 1751,
+    "key": "ww_congo.5.b",
+    "ver": "",
+    "en": "If he thinks it's for the best...",
+    "comment": ""
+  },
+  {
+    "line": 1752,
+    "key": "CONGO_refused_increased_food_production",
+    "ver": "",
+    "en": "Our overlord refused our increased Food Production Scheme",
+    "comment": ""
+  },
+  {
+    "line": 1753,
+    "key": "CONGO_accepted_increased_food_production",
+    "ver": "",
+    "en": "Our overlord approved our increased Food Production Scheme",
+    "comment": ""
+  },
+  {
+    "line": 1755,
+    "key": "ww_congo.6.t",
+    "ver": "",
+    "en": "The [BEL.GetAdjective]s Reject our Food Production Scheme",
+    "comment": ""
+  },
+  {
+    "line": 1756,
+    "key": "ww_congo.6.desc",
+    "ver": "",
+    "en": "The colonial administration back in [BEL.GetNameDef] has denied our request to increase food production by reducing mining production with the goal of 'improving the social conditions of the colonial population'.",
+    "comment": ""
+  },
+  {
+    "line": 1757,
+    "key": "ww_congo.6.a",
+    "ver": "",
+    "en": "It was to be expected",
+    "comment": ""
+  },
+  {
+    "line": 1759,
+    "key": "ww_congo.7.t",
+    "ver": "",
+    "en": "The [BEL.GetAdjective]s Approve our Food Production Scheme",
+    "comment": ""
+  },
+  {
+    "line": 1760,
+    "key": "ww_congo.7.desc",
+    "ver": "",
+    "en": "The colonial administration back in [BEL.GetNameDef] has approved our request to increase food production by reducing mining production with the goal of 'improving the social conditions of the colonial population'.",
+    "comment": ""
+  },
+  {
+    "line": 1761,
+    "key": "ww_congo.7.a",
+    "ver": "",
+    "en": "Great!",
+    "comment": ""
+  },
+  {
+    "line": 1763,
+    "key": "ww_congo.8.t",
+    "ver": "",
+    "en": "The Emergence of a new Middle Class",
+    "comment": ""
+  },
+  {
+    "line": 1764,
+    "key": "ww_congo.8.desc",
+    "ver": "",
+    "en": "There is a large growing portion of the Congolese people with a good knowledge of French, who adhere to Christianity, and have some form of post-primary education. The colonial administrators have started to refer to them as Évolué, Europeanized people, and while they will still be limited in precisely how far they can rise within our society due to the requirements of a colonial administration, a more educated population will surely serve to bring prosperity to our nation one day.",
+    "comment": ""
+  },
+  {
+    "line": 1765,
+    "key": "ww_congo.8.a",
+    "ver": "",
+    "en": "We will have to see how it develops",
+    "comment": ""
+  },
+  {
+    "line": 1766,
+    "key": "evolue_will_start_attempting_to_enter_politics_tt",
+    "ver": "",
+    "en": "The Évolué will start attempting to enter politics, which will lead to many new §YPolitical Advisors§! becoming available",
+    "comment": ""
+  },
+  {
+    "line": 1767,
+    "key": "evolue_have_entered_politics",
+    "ver": "",
+    "en": "Various §YIndependence Advocates§! and §YCongolese Political Thinkers§! will now be available as §YPolitical Advisors§!",
+    "comment": ""
+  },
+  {
+    "line": 1769,
+    "key": "ww_congo.9.t",
+    "ver": "",
+    "en": "Évolué Begin to Enter [ROOT.GetAdjective] Politics",
+    "comment": ""
+  },
+  {
+    "line": 1770,
+    "key": "ww_congo.9.desc",
+    "ver": "",
+    "en": "With our recent growing middle class and a lot of people in urban areas having post-primary education, a lot of [COG.GetAdjective] have begun to read the works of political theorists, and many new politicians and independence advocates are beginning to enter the scene. This marks a new dawn for the [COG.GetAdjective] nation!",
+    "comment": ""
+  },
+  {
+    "line": 1771,
+    "key": "ww_congo.9.a",
+    "ver": "",
+    "en": "These men will surely lead our nation to independence",
+    "comment": ""
+  },
+  {
+    "line": 1773,
+    "key": "ww_congo.10.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Demands [772.GetName]",
+    "comment": ""
+  },
+  {
+    "line": 1774,
+    "key": "ww_congo.10.d",
+    "ver": "",
+    "en": "Congolese forces are positioned along the borders of our colony in [772.GetName], and they are demanding total access to our bases and facilities! If we agree to their request, we are effectively signing over control of [772.GetName] to them. On the other hand, we don't exactly have the means to fight them on this issue.",
+    "comment": ""
+  },
+  {
+    "line": 1775,
+    "key": "ww_congo.10.a",
+    "ver": "",
+    "en": "We have no choice but to agree.",
+    "comment": ""
+  },
+  {
+    "line": 1776,
+    "key": "ww_congo.10.b",
+    "ver": "",
+    "en": "Never!",
+    "comment": ""
+  },
+  {
+    "line": 1778,
+    "key": "ww_congo.11.t",
+    "ver": "",
+    "en": "The French Accept Our Demands",
+    "comment": ""
+  },
+  {
+    "line": 1779,
+    "key": "ww_congo.11.d",
+    "ver": "",
+    "en": "The French have agreed to our demands, and their bases and facilities in [772.GetName] are at our complete disposal. They have effectively turned over full control of their colony to us.",
+    "comment": ""
+  },
+  {
+    "line": 1780,
+    "key": "ww_congo.11.a",
+    "ver": "",
+    "en": "A wise move.",
+    "comment": ""
+  },
+  {
+    "line": 1782,
+    "key": "ww_congo.12.t",
+    "ver": "",
+    "en": "The French Refuse Our Demands",
+    "comment": ""
+  },
+  {
+    "line": 1783,
+    "key": "ww_congo.12.d",
+    "ver": "",
+    "en": "The French have outrageously refused our demands! It seems that if we want [772.GetName], we'll have to take it by force!",
+    "comment": ""
+  },
+  {
+    "line": 1784,
+    "key": "ww_congo.12.a",
+    "ver": "",
+    "en": "Fools!",
+    "comment": ""
+  },
+  {
+    "line": 1786,
+    "key": "ww_congo.13.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Demands Our Integration",
+    "comment": ""
+  },
+  {
+    "line": 1787,
+    "key": "ww_congo.13.d",
+    "ver": "",
+    "en": "Congolese forces are positioned along our border, and they are demanding total control over our bases, institutions and facilities! If we agree to their request, we are effectively ending our independence, becoming a part of their nation. On the other hand, we don't exactly have the means to fight them on this issue.",
+    "comment": ""
+  },
+  {
+    "line": 1788,
+    "key": "ww_congo.13.a",
+    "ver": "",
+    "en": "We will grow stronger together!",
+    "comment": ""
+  },
+  {
+    "line": 1789,
+    "key": "ww_congo.13.b",
+    "ver": "",
+    "en": "Never!",
+    "comment": ""
+  },
+  {
+    "line": 1791,
+    "key": "ww_congo.14.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Accept Our Demands",
+    "comment": ""
+  },
+  {
+    "line": 1792,
+    "key": "ww_congo.14.d",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] have agreed to our demands, and their nation will cease to exist as an independent entity within the next few days. They have effectively turned over full control of their country to us.",
+    "comment": ""
+  },
+  {
+    "line": 1793,
+    "key": "ww_congo.14.a",
+    "ver": "",
+    "en": "A wise move.",
+    "comment": ""
+  },
+  {
+    "line": 1795,
+    "key": "ww_congo.15.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Refuse Our Demands",
+    "comment": ""
+  },
+  {
+    "line": 1796,
+    "key": "ww_congo.15.d",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] have outrageously refused our demands! It seems that if we want [772.GetName], we'll have to take it by force!",
+    "comment": ""
+  },
+  {
+    "line": 1797,
+    "key": "ww_congo.15.a",
+    "ver": "",
+    "en": "Fools!",
+    "comment": ""
+  },
+  {
+    "line": 1799,
+    "key": "ww_congo.16.t",
+    "ver": "",
+    "en": "Latin Africa Unified",
+    "comment": ""
+  },
+  {
+    "line": 1800,
+    "key": "ww_congo.16.d",
+    "ver": "",
+    "en": "In a response to rising global tensions, and with the recent victorious exploits of [FROM.GetLeader], the unification of the Romance-language-speaking Central African countries has been achieved. Now, they declare themselves a new world power, and promise to protect the [FROM.GetAdjective] people, at any cost.",
+    "comment": ""
+  },
+  {
+    "line": 1801,
+    "key": "ww_congo.16.a",
+    "ver": "",
+    "en": "They are doomed to fail",
+    "comment": ""
+  },
+  {
+    "line": 1802,
+    "key": "ww_congo.16.b",
+    "ver": "",
+    "en": "Long live [ROOT.GetNameDef]!",
+    "comment": ""
+  },
+  {
+    "line": 1804,
+    "key": "ww_congo.17.t",
+    "ver": "",
+    "en": "Congolese Independence Achieved",
+    "comment": ""
+  },
+  {
+    "line": 1805,
+    "key": "ww_congo.17.d",
+    "ver": "",
+    "en": "Following approval by the [BEL.GetAdjective] authorities in the state, the new [COG.GetAdjective] Prime Minister Patrice Lumumba held a short speech to celebrate the newfound independence of his country. In it lies outspoken criticism of colonialism, and the so called \"[BEL.GetAdjective] civilizing mission\". Though this was received positively within the nation, many outside the country have interpreted it as a personal attack against the [BEL.GetAdjective] Head of State. The era of decolonization has only just begun!",
+    "comment": ""
+  },
+  {
+    "line": 1806,
+    "key": "ww_congo.17.a",
+    "ver": "",
+    "en": "The Balance of Power in Africa has been shifted",
+    "comment": ""
+  },
+  {
+    "line": 1807,
+    "key": "ww_congo.17.b",
+    "ver": "",
+    "en": "It is time to prove that we are two equal and independent countries",
+    "comment": ""
+  },
+  {
+    "line": 1808,
+    "key": "ww_congo.17.c",
+    "ver": "",
+    "en": "Perhaps it was for the best...",
+    "comment": ""
+  },
+  {
+    "line": 1810,
+    "key": "ww_congo.18.t",
+    "ver": "",
+    "en": "Congolese Uprising Crushed",
+    "comment": ""
+  },
+  {
+    "line": 1811,
+    "key": "ww_congo.18.d",
+    "ver": "",
+    "en": "Recently, the Free Congolese government in Stanleyville attempted secession from the Belgian colonial empire. Though having great support in the nation, their rebellion was swiftly crushed by troops loyal to Belgium and foreign mercenaries alike.",
+    "comment": ""
+  },
+  {
+    "line": 1812,
+    "key": "ww_congo.18.a",
+    "ver": "",
+    "en": "The Age of Imperialism is not yet at an end",
+    "comment": ""
+  },
+  {
+    "line": 1813,
+    "key": "ww_congo.18.b",
+    "ver": "",
+    "en": "The traitors got what they deserved",
+    "comment": ""
+  },
+  {
+    "line": 1814,
+    "key": "ww_congo.18.c",
+    "ver": "",
+    "en": "Unity makes strength",
+    "comment": ""
+  },
+  {
+    "line": 1816,
+    "key": "ww_congo.19.t",
+    "ver": "",
+    "en": "Congolese Uprising Successful",
+    "comment": ""
+  },
+  {
+    "line": 1817,
+    "key": "ww_congo.19.d",
+    "ver": "",
+    "en": "Recently, the Free Congolese government in Stanleyville started a war of independence from the Belgian colonial empire. Though it took some time, their rebellion was eventually able to overrun the colonial troops stationed in the area and capture the key cities in the Congo. Now, they have officially declared independence, and a peace agreement has been sought between them and their former oppressors..",
+    "comment": ""
+  },
+  {
+    "line": 1818,
+    "key": "ww_congo.19.a",
+    "ver": "",
+    "en": "The Age of Imperialism is at an end",
+    "comment": ""
+  },
+  {
+    "line": 1819,
+    "key": "ww_congo.19.b",
+    "ver": "",
+    "en": "We are victorious!",
+    "comment": ""
+  },
+  {
+    "line": 1820,
+    "key": "ww_congo.19.c",
+    "ver": "",
+    "en": "A devastating blow...",
+    "comment": ""
+  },
+  {
+    "line": 1822,
+    "key": "ww_congo.20.t",
+    "ver": "",
+    "en": "The Rwandan Revolution",
+    "comment": ""
+  },
+  {
+    "line": 1823,
+    "key": "ww_congo.20.d",
+    "ver": "",
+    "en": "With our government's very loose grasp over the Ruanda-Urundi mandate and with the spread of nationalist sentiments throughout the region, Mwami Mutara III Rudahigwa, King of Rwanda has declared the nation an independent state, thus severing ties to our central government. Should we intervene?",
+    "comment": ""
+  },
+  {
+    "line": 1824,
+    "key": "ww_congo.20.a",
+    "ver": "",
+    "en": "It is not our place to stop them",
+    "comment": ""
+  },
+  {
+    "line": 1825,
+    "key": "ww_congo.20.b",
+    "ver": "",
+    "en": "Who said they could have independence?",
+    "comment": ""
+  },
+  {
+    "line": 1827,
+    "key": "ww_congo.21.t",
+    "ver": "",
+    "en": "Mwambutsa's Declaration",
+    "comment": ""
+  },
+  {
+    "line": 1828,
+    "key": "ww_congo.21.d",
+    "ver": "",
+    "en": "With our government's very loose grasp over the Ruanda-Urundi mandate and with the spread of nationalist sentiments throughout the region, Mwami Mwambutsa IV, King of Burundi has declared the nation an independent state, thus severing ties to our central government. Should we intervene?",
+    "comment": ""
+  },
+  {
+    "line": 1829,
+    "key": "ww_congo.21.a",
+    "ver": "",
+    "en": "It is not our place to stop them",
+    "comment": ""
+  },
+  {
+    "line": 1830,
+    "key": "ww_congo.21.b",
+    "ver": "",
+    "en": "Who said they could have independence?",
+    "comment": ""
+  },
+  {
+    "line": 1832,
+    "key": "threatened_us_opinion_modifier",
+    "ver": "",
+    "en": "They threatened us!",
+    "comment": ""
+  },
+  {
+    "line": 1833,
+    "key": "attempted_diplomacy_opinion_modifier",
+    "ver": "",
+    "en": "They attempted diplomatically approaching us",
+    "comment": ""
+  },
+  {
+    "line": 1834,
+    "key": "BEL_commonwealth_faction",
+    "ver": "",
+    "en": "The Belgian Commonwealth",
+    "comment": ""
+  },
+  {
+    "line": 1836,
+    "key": "ww_congo.22.t",
+    "ver": "",
+    "en": "[COG.GetLeader] Requests Increased Emigration to the Congo",
+    "comment": ""
+  },
+  {
+    "line": 1837,
+    "key": "ww_congo.22.desc",
+    "ver": "",
+    "en": "Our governor in the Congo, [COG.GetLeader], has stated his wish for increased [ROOT.GetAdjective] immigration to the region, in an endeavor to bring in people with knowledge and funds. The rich and warm lands of Katanga would be alluring to many with a sense of adventure or duty, and if we promote this, it is sure to drive many more people to move..",
+    "comment": ""
+  },
+  {
+    "line": 1838,
+    "key": "ww_congo.22.a",
+    "ver": "",
+    "en": "We will oblige",
+    "comment": ""
+  },
+  {
+    "line": 1839,
+    "key": "ww_congo.22.b",
+    "ver": "",
+    "en": "Who does he think he is?",
+    "comment": ""
+  },
+  {
+    "line": 1841,
+    "key": "ww_congo.23.t",
+    "ver": "",
+    "en": "The [FROM.GetAdjective]s Approve our Immigration Scheme",
+    "comment": ""
+  }
+]

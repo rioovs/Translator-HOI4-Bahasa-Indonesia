@@ -1,0 +1,1742 @@
+[
+  {
+    "key": "DECISIONVIEW_TITLE",
+    "ver": "",
+    "val": "Peristiwa dan Keputusan",
+    "comm": ""
+  },
+  {
+    "key": "DECISIONSVIEW_EVENT_HEADER",
+    "ver": "",
+    "val": "Peristiwa",
+    "comm": ""
+  },
+  {
+    "key": "POPUP_NEWS",
+    "ver": "",
+    "val": "Popup Berita",
+    "comm": ""
+  },
+  {
+    "key": "POPUP_EVENTS",
+    "ver": "",
+    "val": "Popup Peristiwa",
+    "comm": ""
+  },
+  {
+    "key": "CATEGORY_COLLAPSE_DESC",
+    "ver": "",
+    "val": "§GKlik§! untuk menciutkan",
+    "comm": ""
+  },
+  {
+    "key": "CATEGORY_EXPAND_DESC",
+    "ver": "",
+    "val": "§GKlik§! untuk memperluas",
+    "comm": ""
+  },
+  {
+    "key": "DECISION_KEEP_NOTIFIED",
+    "ver": "",
+    "val": "§HNotifikasi§!\\n\\n§GKlik§! agar §Rtidak diberi tahu§! saat keputusan ini dapat diambil.\\n",
+    "comm": ""
+  },
+  {
+    "key": "DECISION_NOT_KEEP_NOTIFIED",
+    "ver": "",
+    "val": "§HNotifikasi§!\\n\\n§GKlik§! agar §Gdiberi tahu§! saat keputusan ini dapat diambil.\\n",
+    "comm": ""
+  },
+  {
+    "key": "TAKE_DECISION_HEADER",
+    "ver": "",
+    "val": "§HAmbil keputusan§!\\n\\n",
+    "comm": ""
+  },
+  {
+    "key": "NEWS_POPUP_CHECKBOX_TOOLTIP",
+    "ver": "",
+    "val": "§GKlik§! untuk mengalihkan notifikasi Berita",
+    "comm": ""
+  },
+  {
+    "key": "EVENT_POPUP_CHECKBOX_TOOLTIP",
+    "ver": "",
+    "val": "§GKlik§! untuk mengalihkan notifikasi Peristiwa",
+    "comm": ""
+  },
+  {
+    "key": "MINOR_EVENT_POPUP_CHECKBOX_TOOLTIP",
+    "ver": "",
+    "val": "§GKlik§! untuk mengalihkan notifikasi peristiwa kecil, seperti peristiwa Penerbang Ulung (Ace).",
+    "comm": ""
+  },
+  {
+    "key": "POPUP_MINOR_EVENTS",
+    "ver": "",
+    "val": "Popup Kecil",
+    "comm": ""
+  },
+  {
+    "key": "DECISION_COST_DESC",
+    "ver": "",
+    "val": "Dibutuhkan £pol_power $VAL|H0$ untuk mengambil keputusan",
+    "comm": ""
+  },
+  {
+    "key": "DECISION_COST_NOT_ENOUGH",
+    "ver": "",
+    "val": "Dibutuhkan £pol_power $VAL|HR0$ untuk mengambil keputusan",
+    "comm": ""
+  },
+  {
+    "key": "ON_MAP_DECISION_NAME_DEFAULT",
+    "ver": "",
+    "val": "Cari keputusan di peta.",
+    "comm": ""
+  },
+  {
+    "key": "ADD_DAYS_TO_DECISION",
+    "ver": "",
+    "val": "Tambah $DAYS|H$ hari ke Keputusan $DECISION|H$",
+    "comm": ""
+  },
+  {
+    "key": "REMOVE_DAYS_TO_DECISION",
+    "ver": "",
+    "val": "Kurangi $DAYS|H$ hari dari Keputusan $DECISION|H$",
+    "comm": ""
+  },
+  {
+    "key": "ADD_DAYS_TO_MISSION",
+    "ver": "",
+    "val": "Tambah $DAYS|H$ hari ke Misi $MISSION|H$",
+    "comm": ""
+  },
+  {
+    "key": "REMOVE_DAYS_TO_MISSION",
+    "ver": "",
+    "val": "Kurangi $DAYS|H$ hari dari Misi $MISSION|H$",
+    "comm": ""
+  },
+  {
+    "key": "CLICK_TO_TOGGLE_ALL_CATEGORY_DECISION_TRACKING",
+    "ver": "",
+    "val": "§GKlik§! untuk mengalihkan status notifikasi untuk semua keputusan di bawah kategori ini.",
+    "comm": ""
+  },
+  {
+    "key": "banned_communism_flag",
+    "ver": "",
+    "val": "Telah melarang partai komunis",
+    "comm": ""
+  },
+  {
+    "key": "FRA_civil_unrest_category",
+    "ver": "",
+    "val": "Kerusuhan Sipil",
+    "comm": ""
+  },
+  {
+    "key": "FRA_communist_civil_war_decision",
+    "ver": "",
+    "val": "Pemberontakan Komunis Segera Meletus",
+    "comm": ""
+  },
+  {
+    "key": "FRA_communist_civil_war_decision_desc",
+    "ver": "",
+    "val": "Gejolak politik radikal yang kian memuncak semakin sulit diredam - pada akhirnya kita harus menghadapinya dengan satu atau lain cara.",
+    "comm": ""
+  },
+  {
+    "key": "FRA_fascist_civil_war_decision",
+    "ver": "",
+    "val": "Pemberontakan Fasis Segera Meletus",
+    "comm": ""
+  },
+  {
+    "key": "FRA_fascist_civil_war_decision_desc",
+    "ver": "",
+    "val": "Sentimen populis yang meningkat terbukti menjadi gelombang yang tak terbendung. Tak ada jalan untuk menghindari hal yang tak terelakkan.",
+    "comm": ""
+  },
+  {
+    "key": "ETH_defeat_italy",
+    "ver": "",
+    "val": "Kalahkan Para Penjajah",
+    "comm": ""
+  },
+  {
+    "key": "ETH_defeat_italy_category",
+    "ver": "",
+    "val": "Perang Italia-Etiopia Kedua",
+    "comm": ""
+  },
+  {
+    "key": "ETH_defeat_italy_category_desc",
+    "ver": "",
+    "val": "Italia sekali lagi berusaha menundukkan Etiopia menjadi sekadar wilayah jajahan. Kita telah mengalahkan para penyerbu ini sebelumnya, dan kita dapat mengalahkan mereka lagi jika kita berhasil mengusir mereka dari perbatasan kita untuk selamanya!",
+    "comm": ""
+  },
+  {
+    "key": "seize_some_trains_woo",
+    "ver": "",
+    "val": "Sita Kereta Api Sipil",
+    "comm": ""
+  },
+  {
+    "key": "seize_some_trains_woo_desc",
+    "ver": "",
+    "val": "Perusahaan kereta api komersial memegang kendali atas infrastruktur kita. Dengan perang yang membayangi, kita memiliki hak penuh untuk menyita peralatan demi kepentingan negara.",
+    "comm": ""
+  },
+  {
+    "key": "random_general_monarchy_tt",
+    "ver": "",
+    "val": "Seorang jenderal [FROM.GetAdjective] acak akan diam-diam bersimpati pada monarki.",
+    "comm": ""
+  },
+  {
+    "key": "removed_when_cancelled_war_prop",
+    "ver": "",
+    "val": "Kampanye propaganda telah dihentikan.",
+    "comm": ""
+  },
+  {
+    "key": "war_propaganda_casualties",
+    "ver": "",
+    "val": "Serukan Kepahlawanan",
+    "comm": ""
+  },
+  {
+    "key": "war_propaganda_casualties_desc",
+    "ver": "",
+    "val": "Meskipun jumlah korban jiwa bertambah, rakyat kita harus diberi pemahaman bahwa pahlawan hanya ditempa dalam pertempuran.",
+    "comm": ""
+  },
+  {
+    "key": "war_propaganda_convoys",
+    "ver": "",
+    "val": "Dorong Penghematan",
+    "comm": ""
+  },
+  {
+    "key": "war_propaganda_convoys_desc",
+    "ver": "",
+    "val": "Warga sipil pun dapat membantu memenangkan perang - melalui ketelitian dan penghematan material, setiap gram baja dapat bernilai ganda bagi upaya perang.",
+    "comm": ""
+  },
+  {
+    "key": "war_propaganda_bombing",
+    "ver": "",
+    "val": "Kobarkan Semangat",
+    "comm": ""
+  },
+  {
+    "key": "war_propaganda_bombing_desc",
+    "ver": "",
+    "val": "Meskipun bom berjatuhan di sekitar kita, para pekerja pemberani kita terus berjuang. Semangat pantang menyerah inilah yang akan membawa kita meraih kemenangan.",
+    "comm": ""
+  },
+  {
+    "key": "war_support_during_war",
+    "ver": "",
+    "val": "Dukungan Perang",
+    "comm": ""
+  },
+  {
+    "key": "CHI_occupation_actions",
+    "ver": "",
+    "val": "Tindakan Anti-Pendudukan",
+    "comm": ""
+  },
+  {
+    "key": "CHI_breach_the_yellow_river",
+    "ver": "",
+    "val": "Jebol Tanggul Sungai Kuning",
+    "comm": ""
+  },
+  {
+    "key": "CHI_breach_the_yellow_river_desc",
+    "ver": "",
+    "val": "Sungai Kuning adalah urat nadi kehidupan bagi wilayah-wilayah sekitarnya, namun membentang tepat di jalur invasi yang kian mendekat. Sebagai upaya terakhir untuk memperlambat laju pasukan penyerbu, usulan untuk meledakkan sistem tanggul dan bendungan yang rumit telah diajukan.\\n\\nEfektivitas tindakan ini sulit dipastikan, namun konsekuensinya akan sangat dahsyat.",
+    "comm": ""
+  },
+  {
+    "key": "yellow_river_blown",
+    "ver": "",
+    "val": "Banjir Bandang Parah",
+    "comm": ""
+  },
+  {
+    "key": "yellow_river_blown_desc",
+    "ver": "",
+    "val": "Wilayah ini terendam banjir parah akibat sabotase pertahanan banjir Sungai Kuning.",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_CP_15",
+    "ver": "",
+    "val": "£command_power  §Y15§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_CP_15_blocked",
+    "ver": "",
+    "val": "£command_power  §R15§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_CP_15_tooltip",
+    "ver": "",
+    "val": "Dibutuhkan £commdan_power  §Y15§! untuk mengambil keputusan ini",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_CP_25",
+    "ver": "",
+    "val": "£command_power  §Y25§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_CP_25_blocked",
+    "ver": "",
+    "val": "£command_power  §R25§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_CP_25_tooltip",
+    "ver": "",
+    "val": "Dibutuhkan £commdan_power  §Y25§! untuk mengambil keputusan ini",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_CP_30",
+    "ver": "",
+    "val": "£command_power  §Y30§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_CP_30_blocked",
+    "ver": "",
+    "val": "£command_power  §R30§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_CP_30_tooltip",
+    "ver": "",
+    "val": "Dibutuhkan £commdan_power  §Y30§! untuk mengambil keputusan ini",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_CP_35",
+    "ver": "",
+    "val": "£command_power  §Y35§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_CP_35_blocked",
+    "ver": "",
+    "val": "£command_power  §R35§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_CP_35_tooltip",
+    "ver": "",
+    "val": "Dibutuhkan £commdan_power  §Y35§! untuk mengambil keputusan ini",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_CP_40",
+    "ver": "",
+    "val": "£command_power  §Y40§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_CP_40_blocked",
+    "ver": "",
+    "val": "£command_power  §R40§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_CP_40_tooltip",
+    "ver": "",
+    "val": "Dibutuhkan £commdan_power  §Y40§! untuk mengambil keputusan ini",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_CP_75",
+    "ver": "",
+    "val": "£command_power  §Y75§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_CP_75_blocked",
+    "ver": "",
+    "val": "£command_power  §R75§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_CP_75_tooltip",
+    "ver": "",
+    "val": "Dibutuhkan £commdan_power  §Y75§! untuk mengambil keputusan ini",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_CP_50",
+    "ver": "",
+    "val": "£command_power  §Y50§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_CP_50_blocked",
+    "ver": "",
+    "val": "£command_power  §R50§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_CP_50_tooltip",
+    "ver": "",
+    "val": "Dibutuhkan £commdan_power  §Y50§! untuk mengambil keputusan ini",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_CP_5_pp_25",
+    "ver": "",
+    "val": "£command_power  §Y5§! £pol_power  §Y25§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_CP_5_pp_25_blocked",
+    "ver": "",
+    "val": "£command_power  §R5§! £pol_power  §R25§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_CP_5_pp_25_tooltip",
+    "ver": "",
+    "val": "Dibutuhkan £commdan_power  §Y5§! £pol_power  §Y25§! untuk mengambil keputusan ini",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_CP_15_pp_15",
+    "ver": "",
+    "val": "£command_power  §Y15§! £pol_power  §Y15§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_CP_15_pp_15_blocked",
+    "ver": "",
+    "val": "£command_power  §R15§! £pol_power  §R15§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_CP_15_pp_15_tooltip",
+    "ver": "",
+    "val": "Dibutuhkan £commdan_power  §Y15§! £pol_power  §Y15§! untuk mengambil keputusan ini",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_CP_25_pp_50",
+    "ver": "",
+    "val": "£command_power  §Y25§! £pol_power  §Y50§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_CP_25_pp_50_blocked",
+    "ver": "",
+    "val": "£command_power  §R25§! £pol_power  §R50§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_CP_25_pp_50_tooltip",
+    "ver": "",
+    "val": "Dibutuhkan £commdan_power  §Y25§! £pol_power  §Y50§! untuk mengambil keputusan ini",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_CP_25_pp_25",
+    "ver": "",
+    "val": "£command_power  §Y25§! £pol_power  §Y25§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_CP_25_pp_25_blocked",
+    "ver": "",
+    "val": "£command_power  §R25§! £pol_power  §R25§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_CP_25_pp_25_tooltip",
+    "ver": "",
+    "val": "Dibutuhkan £commdan_power  §Y25§! £pol_power  §Y25§! untuk mengambil keputusan ini",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_CP_50_pp_50",
+    "ver": "",
+    "val": "£command_power  §Y50§! £pol_power  §Y50§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_CP_50_pp_50_blocked",
+    "ver": "",
+    "val": "£command_power  §R50§! £pol_power  §R50§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_CP_50_pp_50_tooltip",
+    "ver": "",
+    "val": "Dibutuhkan £commdan_power  §Y50§! £pol_power  §Y50§! untuk mengambil keputusan ini",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_CP_50_pp_35",
+    "ver": "",
+    "val": "£command_power  §Y50§! £pol_power  §Y35§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_CP_50_pp_35_blocked",
+    "ver": "",
+    "val": "£command_power  §R50§! £pol_power  §R35§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_CP_50_pp_35_tooltip",
+    "ver": "",
+    "val": "Dibutuhkan £commdan_power  §Y50§! £pol_power  §Y35§! untuk mengambil keputusan ini",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_CP_25_pp_75",
+    "ver": "",
+    "val": "£command_power  §Y25§! £pol_power  §Y75§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_CP_25_pp_75_blocked",
+    "ver": "",
+    "val": "£command_power  §R25§! £pol_power  §R75§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_CP_25_pp_75_tooltip",
+    "ver": "",
+    "val": "Dibutuhkan £commdan_power  §Y25§! £pol_power  §Y75§! untuk mengambil keputusan ini",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_CP_50_PP_100",
+    "ver": "",
+    "val": "£command_power  §Y50§! £pol_power  §Y100§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_CP_50_PP_100_blocked",
+    "ver": "",
+    "val": "£command_power  §R50§! £pol_power  §R100§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_CP_50_PP_100_tooltip",
+    "ver": "",
+    "val": "Dibutuhkan £commdan_power  §Y50§! £pol_power  §Y100§! untuk mengambil keputusan ini",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_CP_100_pp_75",
+    "ver": "",
+    "val": "£command_power  §Y100§! £pol_power  §Y75§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_CP_100_pp_75_blocked",
+    "ver": "",
+    "val": "£command_power  §R100§! £pol_power  §R75§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_CP_100_pp_75_tooltip",
+    "ver": "",
+    "val": "Dibutuhkan £commdan_power  §Y100§! £pol_power  §Y75§! untuk mengambil keputusan ini",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_pp_25_ie_1000",
+    "ver": "",
+    "val": "£pol_power  §Y25§! £infantry_equipment_text_icon  §Y1000§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_pp_25_ie_1000_blocked",
+    "ver": "",
+    "val": "£pol_power  §R25§! £infantry_equipment_text_icon  §R1000§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_pp_25_ie_1000_tooltip",
+    "ver": "",
+    "val": "Dibutuhkan £pol_power  §Y25§! £infantry_equipment_text_icon  §Y1000§! untuk mengambil keputusan ini",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_cp_25_ie_2000",
+    "ver": "",
+    "val": "£command_power  §Y25§! £infantry_equipment_text_icon  §Y2000§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_cp_25_ie_2000_blocked",
+    "ver": "",
+    "val": "£command_power  §Y25§! £infantry_equipment_text_icon  §R2000§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_cp_25_ie_2000_tooltip",
+    "ver": "",
+    "val": "Dibutuhkan £commdan_power  §Y25§! £infantry_equipment_text_icon  §Y2000§! untuk mengambil keputusan ini",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_ie_1000",
+    "ver": "",
+    "val": "£infantry_equipment_text_icon  §Y1000§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_ie_1000_blocked",
+    "ver": "",
+    "val": "£infantry_equipment_text_icon  §R1000§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_ie_1000_tooltip",
+    "ver": "",
+    "val": "Dibutuhkan £infantry_equipment_text_icon  §Y1000§! untuk mengambil keputusan ini",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_ie_2000",
+    "ver": "",
+    "val": "£infantry_equipment_text_icon  §Y2000§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_ie_2000_blocked",
+    "ver": "",
+    "val": "£infantry_equipment_text_icon  §R2000§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_ie_2000_tooltip",
+    "ver": "",
+    "val": "Dibutuhkan £infantry_equipment_text_icon  §Y2000§! untuk mengambil keputusan ini",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_ie_500",
+    "ver": "",
+    "val": "£infantry_equipment_text_icon  §Y500§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_ie_500_blocked",
+    "ver": "",
+    "val": "£infantry_equipment_text_icon  §R500§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_ie_500_tooltip",
+    "ver": "",
+    "val": "Dibutuhkan £infantry_equipment_text_icon  §Y500§! untuk mengambil keputusan ini",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_civ_factory_1",
+    "ver": "",
+    "val": "£civ_factory  §Y1§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_civ_factory_1_blocked",
+    "ver": "",
+    "val": "£civ_factory  §R1§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_civ_factory_1_tooltip",
+    "ver": "",
+    "val": "Dibutuhkan £civ_factory  §Y1§! selama keputusan ini aktif",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_civ_factory_2",
+    "ver": "",
+    "val": "£civ_factory  §Y2§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_civ_factory_2_blocked",
+    "ver": "",
+    "val": "£civ_factory  §R2§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_civ_factory_2_tooltip",
+    "ver": "",
+    "val": "Dibutuhkan £civ_factory  §Y2§! selama keputusan ini aktif",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_civ_factory_3",
+    "ver": "",
+    "val": "£civ_factory  §Y3§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_civ_factory_3_blocked",
+    "ver": "",
+    "val": "£civ_factory  §R3§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_civ_factory_3_tooltip",
+    "ver": "",
+    "val": "Dibutuhkan £civ_factory  §Y3§! selama keputusan ini aktif",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_civ_factory_5",
+    "ver": "",
+    "val": "£civ_factory  §Y5§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_civ_factory_5_blocked",
+    "ver": "",
+    "val": "£civ_factory  §R5§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_civ_factory_5_tooltip",
+    "ver": "",
+    "val": "Dibutuhkan £civ_factory  §Y5§! selama keputusan ini aktif",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_MP_300_PP_15",
+    "ver": "",
+    "val": "£manpower_texticon  §Y300§! £pol_power §Y15§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_MP_300_PP_15_blocked",
+    "ver": "",
+    "val": "£manpower_texticon  §R300§! £pol_power §R15§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_MP_300_PP_15_tooltip",
+    "ver": "",
+    "val": "Dibutuhkan £manpower_texticon  §Y300§! dan £pol_power §Y15§! untuk mengambil keputusan ini",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_CP_50_ArmXP_15",
+    "ver": "",
+    "val": "£command_power  §Y50§! £army_experience  §Y15§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_CP_50_ArmXP_15_blocked",
+    "ver": "",
+    "val": "£command_power  §R50§! £army_experience  §R15§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_CP_50_ArmXP_15_tooltip",
+    "ver": "",
+    "val": "Dibutuhkan £commdan_power  §Y50§! £army_experience  §Y15§! untuk mengambil keputusan ini",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_CP_25_ArmXP_15",
+    "ver": "",
+    "val": "£command_power  §Y25§! £army_experience  §Y15§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_CP_25_ArmXP_15_blocked",
+    "ver": "",
+    "val": "£command_power  §R25§! £army_experience  §R15§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_CP_25_ArmXP_15_tooltip",
+    "ver": "",
+    "val": "Dibutuhkan £commdan_power  §Y25§! £army_experience  §Y15§! untuk mengambil keputusan ini",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_CP_25_PP_100",
+    "ver": "",
+    "val": "£command_power  §Y25§! £pol_power  §Y100§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_CP_25_PP_100_blocked",
+    "ver": "",
+    "val": "£command_power  §R25§! £pol_power  §R100§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_CP_25_PP_100_tooltip",
+    "ver": "",
+    "val": "Dibutuhkan £commdan_power  §Y25§! £pol_power  §Y100§! untuk mengambil keputusan ini",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_ArmXP_50",
+    "ver": "",
+    "val": "£army_experience  §Y50§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_ArmXP_50_blocked",
+    "ver": "",
+    "val": "£army_experience  §R50§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_ArmXP_50_tooltip",
+    "ver": "",
+    "val": "Dibutuhkan £army_experience  §Y50§! untuk mengambil keputusan ini",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_ArmXP_75",
+    "ver": "",
+    "val": "£army_experience  §Y75§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_ArmXP_75_blocked",
+    "ver": "",
+    "val": "£army_experience  §R75§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_ArmXP_75_tooltip",
+    "ver": "",
+    "val": "Dibutuhkan £army_experience  §Y75§! untuk mengambil keputusan ini",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_ArmXP_200",
+    "ver": "",
+    "val": "£army_experience  §Y200§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_ArmXP_200_blocked",
+    "ver": "",
+    "val": "£army_experience  §R200§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_ArmXP_200_tooltip",
+    "ver": "",
+    "val": "Dibutuhkan £army_experience  §Y200§! untuk mengambil keputusan ini",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_ie_500_MP_500_CP_25",
+    "ver": "",
+    "val": "£infantry_equipment_text_icon  §Y500§! £manpower_texticon  §Y500§! £command_power  §Y25§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_ie_500_MP_500_CP_25_blocked",
+    "ver": "",
+    "val": "£infantry_equipment_text_icon  §R500§! £manpower_texticon  §R500§! £command_power  §R25§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_ie_500_MP_500_CP_25_tooltip",
+    "ver": "",
+    "val": "Dibutuhkan £infantry_equipment_text_icon  §Y500§! £manpower_texticon  §Y500§! £commdan_power  §Y25§! untuk mengambil keputusan ini",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_faction_influence_15_PP_125",
+    "ver": "",
+    "val": "£GFX_influence_texticon  §Y15%§! £pol_power  §Y125§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_faction_influence_15_PP_125_blocked",
+    "ver": "",
+    "val": "£GFX_influence_texticon  §R15%§! £pol_power  §R125§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_faction_influence_15_PP_125_tooltip",
+    "ver": "",
+    "val": "Dibutuhkan £GFX_influence_texticon  §Y15%§! §YPengaruh Faksi§! dan £pol_power  §Y125§! untuk mengambil keputusan ini",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_faction_influence_10_PP_75",
+    "ver": "",
+    "val": "£GFX_influence_texticon  §Y10%§! £pol_power  §Y75§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_faction_influence_10_PP_75_blocked",
+    "ver": "",
+    "val": "£GFX_influence_texticon  §R10%§! £pol_power  §R75§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_faction_influence_10_PP_75_tooltip",
+    "ver": "",
+    "val": "Dibutuhkan £GFX_influence_texticon  §Y10%§! §YPengaruh Faksi§! dan £pol_power  §Y75§! untuk mengambil keputusan ini",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_faction_influence_5_PP_25",
+    "ver": "",
+    "val": "£GFX_influence_texticon  §Y5%§! £pol_power  §Y25§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_faction_influence_5_PP_25_blocked",
+    "ver": "",
+    "val": "£GFX_influence_texticon  §R5%§! £pol_power  §R25§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_faction_influence_5_PP_25_tooltip",
+    "ver": "",
+    "val": "Dibutuhkan £GFX_influence_texticon  §Y5%§! §YPengaruh Faksi§! dan £pol_power  §Y25§! untuk mengambil keputusan ini",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_PP_50_MP_2500_ie_2500",
+    "ver": "",
+    "val": "£infantry_equipment_text_icon  §Y2500§!\\n£pol_power  §Y50§!£manpower_texticon  §Y2500§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_PP_50_MP_2500_ie_2500_blocked",
+    "ver": "",
+    "val": "£infantry_equipment_text_icon  §Y2500§!\\n£pol_power  §Y50§!£manpower_texticon  §Y2500§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_PP_50_MP_2500_ie_2500_tooltip",
+    "ver": "",
+    "val": "Dibutuhkan £infantry_equipment_text_icon  §Y2500§!, £pol_power  §Y50§!, dan £manpower_texticon  §Y2500§! untuk mengambil keputusan ini",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_PP_50_MP_5000_ie_1500",
+    "ver": "",
+    "val": "£infantry_equipment_text_icon  §Y1500§!\\n£pol_power  §Y50§!£manpower_texticon  §Y5000§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_PP_50_MP_5000_ie_1500_blocked",
+    "ver": "",
+    "val": "£infantry_equipment_text_icon  §Y1500§!\\n£pol_power  §Y50§!£manpower_texticon  §Y5000§!",
+    "comm": ""
+  },
+  {
+    "key": "decision_cost_PP_50_MP_5000_ie_1500_tooltip",
+    "ver": "",
+    "val": "Dibutuhkan £infantry_equipment_text_icon  §Y1500§!, £pol_power  §Y50§!, dan £manpower_texticon  §Y5000§! untuk mengambil keputusan ini",
+    "comm": ""
+  },
+  {
+    "key": "RAJ_population_decisions",
+    "ver": "",
+    "val": "Industrialisasi Pedesaan",
+    "comm": ""
+  },
+  {
+    "key": "RAJ_industrialize_state",
+    "ver": "",
+    "val": "Industrialisasi [FROM.GetName]",
+    "comm": ""
+  },
+  {
+    "key": "RAJ_industrialize_state_desc",
+    "ver": "",
+    "val": "Bangsa kita kembali bangkit. Meskipun tugas ini amat besar, memodernisasi daerah pedesaan dipastikan akan membuahkan hasil besar di masa depan.",
+    "comm": ""
+  },
+  {
+    "key": "RAJ_industrialized_this_state",
+    "ver": "",
+    "val": "§HWilayah pedesaan telah diindustrialisasi§!",
+    "comm": ""
+  },
+  {
+    "key": "RAJ_reduce_agrarian_society_value_tooltip",
+    "ver": "",
+    "val": "\\n§H$RAJ_agrarian_society$§!\\nFaktor Populasi yang Dapat Direkrut: [?RAJ_agrarian_society_increment|+=%]\\n",
+    "comm": ""
+  },
+  {
+    "key": "RAJ_industrialize_state_goe",
+    "ver": "",
+    "val": "$RAJ_industrialize_state$",
+    "comm": ""
+  },
+  {
+    "key": "RAJ_industrialize_state_goe_desc",
+    "ver": "",
+    "val": "$RAJ_industrialize_state_desc$",
+    "comm": ""
+  },
+  {
+    "key": "war_propaganda_radio_industry",
+    "ver": "",
+    "val": "Propaganda Radio",
+    "comm": ""
+  },
+  {
+    "key": "war_propaganda_radio_industry_desc",
+    "ver": "",
+    "val": "Teknologi telah berkembang hingga sebagian besar rakyat memiliki akses radio di kediaman mereka. Media yang disponsori negara adalah sarana sempurna untuk mengobarkan semangat perang di sanubari rakyat kita.",
+    "comm": ""
+  },
+  {
+    "key": "war_propaganda_film_industry",
+    "ver": "",
+    "val": "[ROOT.GetImportOrDomesticFilmIndustry]",
+    "comm": ""
+  },
+  {
+    "key": "war_propaganda_film_industry_desc",
+    "ver": "",
+    "val": "[ROOT.GetImportOrDomesticFilmIndustryDesc]",
+    "comm": ""
+  },
+  {
+    "key": "DOMESTIC_FILM_INDUSTRY",
+    "ver": "",
+    "val": "Manfaatkan Industri Perfilman Domestik",
+    "comm": ""
+  },
+  {
+    "key": "IMPORTED_FILM_INDUSTRY",
+    "ver": "",
+    "val": "Impor Film-Film Propaganda",
+    "comm": ""
+  },
+  {
+    "key": "DOMESTIC_FILM_INDUSTRY_DESC",
+    "ver": "",
+    "val": "Industri film [ROOT.GetAdjective] telah berkembang pesat dalam dekade terakhir. Dengan rakyat yang mendambakan hiburan, kita dapat memetik keuntungan besar dari karya sinematik yang dirancang untuk mengobarkan sentimen patriotisme.",
+    "comm": ""
+  },
+  {
+    "key": "IMPORTED_FILM_INDUSTRY_DESC",
+    "ver": "",
+    "val": "Penyokong dan sekutu kita memanfaatkan film propaganda secara strategis. Dengan sedikit investasi, kita dapat menayangkan produksi-produksi ini di seluruh negeri guna mengobarkan semangat perang rakyat kita.",
+    "comm": ""
+  },
+  {
+    "key": "the_lion_has_wings",
+    "ver": "",
+    "val": "The Lion Has Wings",
+    "comm": ""
+  },
+  {
+    "key": "the_battle_of_london",
+    "ver": "",
+    "val": "The Battle of London",
+    "comm": ""
+  },
+  {
+    "key": "queens_messengers",
+    "ver": "",
+    "val": "Queen's Messengers",
+    "comm": ""
+  },
+  {
+    "key": "in_which_we_serve",
+    "ver": "",
+    "val": "In Which We Serve",
+    "comm": ""
+  },
+  {
+    "key": "the_volunteer",
+    "ver": "",
+    "val": "The Volunteer",
+    "comm": ""
+  },
+  {
+    "key": "fires_were_started",
+    "ver": "",
+    "val": "Fires Were Started",
+    "comm": ""
+  },
+  {
+    "key": "men_of_timor",
+    "ver": "",
+    "val": "Men of Timor",
+    "comm": ""
+  },
+  {
+    "key": "soldiers_without_uniform",
+    "ver": "",
+    "val": "Soldiers Without Uniform",
+    "comm": ""
+  },
+  {
+    "key": "mid_east",
+    "ver": "",
+    "val": "Mid East",
+    "comm": ""
+  },
+  {
+    "key": "atlantic_patrol",
+    "ver": "",
+    "val": "Atlantic Patrol",
+    "comm": ""
+  },
+  {
+    "key": "front_of_steel",
+    "ver": "",
+    "val": "Front of Steel",
+    "comm": ""
+  },
+  {
+    "key": "home_front",
+    "ver": "",
+    "val": "Home Front",
+    "comm": ""
+  },
+  {
+    "key": "wings_of_youth",
+    "ver": "",
+    "val": "Wings of Youth",
+    "comm": ""
+  },
+  {
+    "key": "all_out_for_war",
+    "ver": "",
+    "val": "All Out for War",
+    "comm": ""
+  },
+  {
+    "key": "banshees_over_canada",
+    "ver": "",
+    "val": "Banshees Over Canada",
+    "comm": ""
+  },
+  {
+    "key": "the_planes_of_hindustan",
+    "ver": "",
+    "val": "The Planes of Hindustan",
+    "comm": ""
+  },
+  {
+    "key": "road_to_victory",
+    "ver": "",
+    "val": "Road to Victory",
+    "comm": ""
+  },
+  {
+    "key": "hes_in_the_navy",
+    "ver": "",
+    "val": "He's in the Navy",
+    "comm": ""
+  },
+  {
+    "key": "in_self_defence",
+    "ver": "",
+    "val": "In Self Defence",
+    "comm": ""
+  },
+  {
+    "key": "women_in_defense",
+    "ver": "",
+    "val": "Women in Defense",
+    "comm": ""
+  },
+  {
+    "key": "winning_your_wings",
+    "ver": "",
+    "val": "Winning Your Wings",
+    "comm": ""
+  },
+  {
+    "key": "the_world_at_war",
+    "ver": "",
+    "val": "The World at War",
+    "comm": ""
+  },
+  {
+    "key": "mission_accomplished",
+    "ver": "",
+    "val": "Mission Accomplished",
+    "comm": ""
+  },
+  {
+    "key": "the_fleet_that_came_to_stay",
+    "ver": "",
+    "val": "The Fleet That Came to Stay",
+    "comm": ""
+  },
+  {
+    "key": "fury_in_the_pacific",
+    "ver": "",
+    "val": "Fury in the Pacific",
+    "comm": ""
+  },
+  {
+    "key": "its_your_war_too",
+    "ver": "",
+    "val": "It's Your War Too",
+    "comm": ""
+  },
+  {
+    "key": "belguique_toujours",
+    "ver": "",
+    "val": "Belgique Toujours",
+    "comm": ""
+  },
+  {
+    "key": "high_stakes_in_the_east",
+    "ver": "",
+    "val": "High Stakes in the East",
+    "comm": ""
+  },
+  {
+    "key": "glorious_colours",
+    "ver": "",
+    "val": "Glorious Colours",
+    "comm": ""
+  },
+  {
+    "key": "litte_belgium",
+    "ver": "",
+    "val": "Little Belgium",
+    "comm": ""
+  },
+  {
+    "key": "for_the_front",
+    "ver": "",
+    "val": "Demi Garis Depan",
+    "comm": ""
+  },
+  {
+    "key": "the_peoples_avengers",
+    "ver": "",
+    "val": "Pembalas Rakyat",
+    "comm": ""
+  },
+  {
+    "key": "day_of_war",
+    "ver": "",
+    "val": "Hari Peperangan",
+    "comm": ""
+  },
+  {
+    "key": "film_motherland",
+    "ver": "",
+    "val": "Tanah Air Tercinta",
+    "comm": ""
+  },
+  {
+    "key": "sons_of_the_motherland",
+    "ver": "",
+    "val": "Putra-Putri Ibu Pertiwi",
+    "comm": ""
+  },
+  {
+    "key": "moscow_strikes_back",
+    "ver": "",
+    "val": "Moskow Membalas",
+    "comm": ""
+  },
+  {
+    "key": "fluchtlinge",
+    "ver": "",
+    "val": "Flüchtlinge",
+    "comm": ""
+  },
+  {
+    "key": "film_bismarck",
+    "ver": "",
+    "val": "Bismarck",
+    "comm": ""
+  },
+  {
+    "key": "wunschkonzert",
+    "ver": "",
+    "val": "Wunschkonzert",
+    "comm": ""
+  },
+  {
+    "key": "anschlag_auf_baku",
+    "ver": "",
+    "val": "Anschlag Auf Baku",
+    "comm": ""
+  },
+  {
+    "key": "die_entlassung",
+    "ver": "",
+    "val": "Die Entlassung",
+    "comm": ""
+  },
+  {
+    "key": "besatzung_dora",
+    "ver": "",
+    "val": "Besatzung Dora",
+    "comm": ""
+  },
+  {
+    "key": "opfergang",
+    "ver": "",
+    "val": "Opfergang",
+    "comm": ""
+  },
+  {
+    "key": "panorama",
+    "ver": "",
+    "val": "Panorama",
+    "comm": ""
+  },
+  {
+    "key": "kolberg",
+    "ver": "",
+    "val": "Kolberg",
+    "comm": ""
+  },
+  {
+    "key": "monkey_king",
+    "ver": "",
+    "val": "Raja Kera",
+    "comm": ""
+  },
+  {
+    "key": "genghis_khan",
+    "ver": "",
+    "val": "Jengis Khan",
+    "comm": ""
+  },
+  {
+    "key": "vow_in_the_desert",
+    "ver": "",
+    "val": "Ikrar di Padang Pasir",
+    "comm": ""
+  },
+  {
+    "key": "song_of_the_white_orchid",
+    "ver": "",
+    "val": "Nyanyian Anggrek Putih",
+    "comm": ""
+  },
+  {
+    "key": "five_scouts",
+    "ver": "",
+    "val": "Lima Pengintai",
+    "comm": ""
+  },
+  {
+    "key": "fire_on_that_flag",
+    "ver": "",
+    "val": "Tembak Bendera Itu!",
+    "comm": ""
+  },
+  {
+    "key": "momotarou_umi_no_shinpei",
+    "ver": "",
+    "val": "Prajurit Laut Ilahi Momotaro",
+    "comm": ""
+  },
+  {
+    "key": "condottieri",
+    "ver": "",
+    "val": "Condottieri",
+    "comm": ""
+  },
+  {
+    "key": "scipio_africano",
+    "ver": "",
+    "val": "Scipio Africano",
+    "comm": ""
+  },
+  {
+    "key": "the_man_with_the_cross",
+    "ver": "",
+    "val": "Pria Bersalib",
+    "comm": ""
+  },
+  {
+    "key": "mulan",
+    "ver": "",
+    "val": "Mulan Maju ke Medan Perang",
+    "comm": ""
+  },
+  {
+    "key": "defend_our_land",
+    "ver": "",
+    "val": "Pertahankan Tanah Air Kita",
+    "comm": ""
+  },
+  {
+    "key": "storm_on_the_border",
+    "ver": "",
+    "val": "Badai di Perbatasan",
+    "comm": ""
+  },
+  {
+    "key": "children_of_china",
+    "ver": "",
+    "val": "Anak-Anak Tiongkok",
+    "comm": ""
+  },
+  {
+    "key": "our_war",
+    "ver": "",
+    "val": "Perang Kita",
+    "comm": ""
+  },
+  {
+    "key": "the_war_for_our_existence",
+    "ver": "",
+    "val": "Perang demi Eksistensi Kita",
+    "comm": ""
+  },
+  {
+    "key": "war_in_the_skies",
+    "ver": "",
+    "val": "Pertempuran di Angkasa",
+    "comm": ""
+  },
+  {
+    "key": "flags_raised",
+    "ver": "",
+    "val": "Bendera-Bendera Terkibar",
+    "comm": ""
+  },
+  {
+    "key": "the_day_of_sacrifice",
+    "ver": "",
+    "val": "Hari Pengorbanan",
+    "comm": ""
+  },
+  {
+    "key": "blood_and_toil",
+    "ver": "",
+    "val": "Darah dan Peluh",
+    "comm": ""
+  },
+  {
+    "key": "available_mio_tt",
+    "ver": "",
+    "val": "§GTersedia§! sebagai §YOrganisasi Industri Militer§!: ",
+    "comm": ""
+  },
+  {
+    "key": "foreign_mio_decisions_category",
+    "ver": "",
+    "val": "Undang Industri Asing",
+    "comm": ""
+  },
+  {
+    "key": "invite_GER_henschel_organization",
+    "ver": "",
+    "val": "Undang §Y$GER_henschel_organization$§! ke §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "key": "invite_SOV_okmo_organization",
+    "ver": "",
+    "val": "Undang §Y$SOV_okmo_organization$§! ke §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "key": "invite_ENG_vickers_armstrong_eng_organization",
+    "ver": "",
+    "val": "Undang §Y$ENG_vickers_armstrong_eng_organization$§! ke §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "key": "invite_ITA_fiat_organization",
+    "ver": "",
+    "val": "Undang §Y$ITA_fiat_organization$§! ke §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "key": "invite_SOV_nevskoye_design_bureau_organization",
+    "ver": "",
+    "val": "Undang §Y$SOV_nevskoye_design_bureau_organization$§! ke §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "key": "invite_ENG_yarrow_shipbuilders_organization",
+    "ver": "",
+    "val": "Undang §Y$ENG_yarrow_shipbuilders_organization$§! ke §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "key": "invite_ITA_crda_organization",
+    "ver": "",
+    "val": "Undang §Y$ITA_crda_organization$§! ke §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "key": "invite_GER_heinkel_organization",
+    "ver": "",
+    "val": "Undang §Y$GER_heinkel_organization$§! ke §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "key": "invite_ENG_fairey_aviation_organization",
+    "ver": "",
+    "val": "Undang §Y$ENG_fairey_aviation_organization$§! ke §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "key": "invite_SOV_ilyushin_design_bureau_organization",
+    "ver": "",
+    "val": "Undang §Y$SOV_ilyushin_design_bureau_organization$§! ke §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "key": "invite_SOV_gaz_organization",
+    "ver": "",
+    "val": "Undang §Y$SOV_gaz_organization$§! ke §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "key": "invite_GER_opel_organization",
+    "ver": "",
+    "val": "Undang §Y$GER_opel_organization$§! ke §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "key": "invite_ENG_vauxhall_organization",
+    "ver": "",
+    "val": "Undang §Y$ENG_vauxhall_organization$§! ke §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "key": "invite_ITA_lancia_organization",
+    "ver": "",
+    "val": "Undang §Y$ITA_lancia_organization$§! ke §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "key": "invite_CZE_skoda_artillery_organization",
+    "ver": "",
+    "val": "Undang §Y$CZE_skoda_artillery_organization$§! ke §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "key": "invite_FRA_mas_organization",
+    "ver": "",
+    "val": "Undang §Y$FRA_mas_organization$§! ke §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "key": "invite_JAP_nissan_organization",
+    "ver": "",
+    "val": "Undang §Y$JAP_nissan_organization$§! ke §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "key": "invite_CZE_ckd_organization",
+    "ver": "",
+    "val": "Undang §Y$CZE_ckd_organization$§! ke §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "key": "invite_CZE_skoda_armor_organization",
+    "ver": "",
+    "val": "Undang §Y$CZE_skoda_armor_organization$§! ke §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "key": "invite_CZE_avia_organization",
+    "ver": "",
+    "val": "Undang §Y$CZE_avia_organization$§! ke §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "key": "invite_FRA_renault_organization",
+    "ver": "",
+    "val": "Undang §Y$FRA_renault_organization$§! ke §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "key": "invite_JAP_maizuru_naval_arsenal_organization",
+    "ver": "",
+    "val": "Undang §Y$JAP_maizuru_naval_arsenal_organization$§! ke §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "key": "invite_JAP_mitsubishi_organization",
+    "ver": "",
+    "val": "Undang §Y$JAP_mitsubishi_organization$§! ke §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "key": "invite_FRA_bloch_organization",
+    "ver": "",
+    "val": "Undang §Y$FRA_bloch_organization$§! ke §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "key": "invite_GER_junkers_organization",
+    "ver": "",
+    "val": "Undang §Y$GER_junkers_organization$§! ke §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "key": "invite_GER_mauser_organization",
+    "ver": "",
+    "val": "Undang §Y$GER_mauser_organization$§! ke §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "key": "invite_ENG_john_brown_organization",
+    "ver": "",
+    "val": "Undang §Y$ENG_john_brown_organization$§! ke §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "key": "invite_SWE_landsverk_organization",
+    "ver": "",
+    "val": "Undang §Y$SWE_landsverk_organization$§! ke §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "key": "invite_SWE_volvo_organization",
+    "ver": "",
+    "val": "Undang §Y$SWE_volvo_organization$§! ke §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "key": "invite_SWE_bofors_organization",
+    "ver": "",
+    "val": "Undang §Y$SWE_bofors_organization$§! ke §Y[ROOT.GetNameWithFlag]§!",
+    "comm": ""
+  },
+  {
+    "key": "invites_mio_tt",
+    "ver": "",
+    "val": "\\n§YMengundang Organisasi Industri Militer Asing§!:",
+    "comm": ""
+  },
+  {
+    "key": "unlock_mio_tt",
+    "ver": "",
+    "val": "\\n§YMendirikan Organisasi Industri Militer§!",
+    "comm": ""
+  },
+  {
+    "key": "generic_purchase_old_ships_category",
+    "ver": "",
+    "val": "Pengadaan Armada Laut",
+    "comm": ""
+  },
+  {
+    "key": "generic_purchase_old_ships_category_desc",
+    "ver": "",
+    "val": "Seiring meningkatnya ketidakstabilan dunia, kita harus memperluas kemampuan proyeksi kekuatan laut kita. Beruntung bagi kita, sejumlah kekuatan laut utama mungkin bersedia melepas kapal-kapal mereka yang lebih tua.",
+    "comm": ""
+  },
+  {
+    "key": "purchase_ships_eng",
+    "ver": "",
+    "val": "[ENG.GetFlag] Beli Kapal Perusak Tua [ENG.GetAdjective]",
+    "comm": ""
+  },
+  {
+    "key": "purchase_ships_sov",
+    "ver": "",
+    "val": "[SOV.GetFlag] Beli Kapal Tempur Tua [SOV.GetAdjective]",
+    "comm": ""
+  },
+  {
+    "key": "purchase_ships_ger",
+    "ver": "",
+    "val": "[GER.GetFlag] Beli U-Boat Tua [GER.GetAdjective]",
+    "comm": ""
+  },
+  {
+    "key": "purchase_ships_usa",
+    "ver": "",
+    "val": "[USA.GetFlag] Beli Kapal Perusak Tua [USA.GetAdjective]",
+    "comm": ""
+  },
+  {
+    "key": "generic_refit_civilian_ships_category",
+    "ver": "",
+    "val": "Modifikasi Militer untuk Kapal Sipil",
+    "comm": ""
+  },
+  {
+    "key": "generic_refit_civilian_ships_category_desc",
+    "ver": "",
+    "val": "Armada kita secara realistis mustahil bersaing dengan armada laut musuh yang jauh lebih masif. Kita harus segera memperbesar armada dengan memodifikasi kapal-kapal sipil untuk kebutuhan tempur.",
+    "comm": ""
+  },
+  {
+    "key": "refit_to_destroyer",
+    "ver": "",
+    "val": "Modifikasi Kapal menjadi Kapal Perusak",
+    "comm": ""
+  },
+  {
+    "key": "refit_to_cruiser",
+    "ver": "",
+    "val": "Modifikasi Kapal menjadi Kapal Penjelajah",
+    "comm": ""
+  },
+  {
+    "key": "diversify_special_forces",
+    "ver": "",
+    "val": "Diversifikasi Pasukan Elit",
+    "comm": ""
+  },
+  {
+    "key": "diversify_special_forces_desc",
+    "ver": "",
+    "val": "Pasukan konvensional kita jelas tidak cukup untuk menghadang ancaman yang datang. Kita dituntut untuk berinovasi.",
+    "comm": ""
+  },
+  {
+    "key": "add_potential_special_forces_tree_tt",
+    "ver": "",
+    "val": "Menambahkan §H1§! §HSpesialisasi Cabang§! Pasukan Khusus secara gratis",
+    "comm": ""
+  },
+  {
+    "key": "refit_to_destroyer_nor",
+    "ver": "",
+    "val": "Modifikasi Konvoi menjadi Kapal Perusak",
+    "comm": ""
+  },
+  {
+    "key": "refit_to_destroyer_mass_nor",
+    "ver": "",
+    "val": "Modifikasi Massal Konvoi menjadi Kapal Perusak",
+    "comm": ""
+  },
+  {
+    "key": "nor_building_ship",
+    "ver": "",
+    "val": "Sedang Mengonversi Kapal",
+    "comm": ""
+  }
+]

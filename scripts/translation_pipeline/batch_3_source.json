@@ -1,0 +1,1454 @@
+[
+  {
+    "key": "germany.4.t",
+    "version": "",
+    "type": "title",
+    "en": "Anschluss"
+  },
+  {
+    "key": "germany.4.d",
+    "version": "",
+    "type": "desc",
+    "en": "Repeated uprisings in Austria clearly show that the people there long to be united with our Reich. It is now time to take action and allow the will of the people to be made manifest."
+  },
+  {
+    "key": "germany.5.t",
+    "version": "",
+    "type": "title",
+    "en": "Anti-Comintern Pact"
+  },
+  {
+    "key": "germany.5.d",
+    "version": "",
+    "type": "desc",
+    "en": "Germany proposes that we sign a pact to address the Comintern's goal of spreading Communism worldwide, through the use of subversion and violence. By signing this pact, we agree to share intelligence on the Communist threat and act in close cooperation against this menace."
+  },
+  {
+    "key": "germany.6.t",
+    "version": "",
+    "type": "title",
+    "en": "The Tripartite Pact"
+  },
+  {
+    "key": "germany.6.d",
+    "version": "",
+    "type": "desc",
+    "en": "The signees consider it as the condition precedent of any lasting peace that all nations in the world be given each its own proper place, have decided to stand by and co-operate with one another in their efforts in Greater East Asia and the regions of Europe respectively wherein it is their prime purpose to establish and maintain a new order of things, calculated to promote the mutual prosperity and welfare of the peoples concerned."
+  },
+  {
+    "key": "germany.11.t",
+    "version": "",
+    "type": "title",
+    "en": "The Molotov-Ribbentrop Pact"
+  },
+  {
+    "key": "germany.11.d",
+    "version": "",
+    "type": "desc",
+    "en": "The German Foreign Ministry have proposed a non-aggression pact between our two nations. This treaty will greatly increase our mutual trade, and an additional secret protocol suggests the division of Eastern Europe into German and Soviet spheres.\\n\\nWhile the fascists in Berlin may not be trustworthy, this pact will allow us to deal with Finland, the Baltic States and Romania without fear of outside interference. The eastern territories of Poland will also befall us in the event of a Polish collapse."
+  },
+  {
+    "key": "germany.12.t",
+    "version": "",
+    "type": "title",
+    "en": "Moscow Signs the Pact"
+  },
+  {
+    "key": "germany.12.d",
+    "version": "",
+    "type": "desc",
+    "en": "[SOV.GetNameDefCap] has wisely agreed to sign our non-aggression pact. This means that we are free to act without risk of Soviet intervention.\\n\\nUnfortunately, some of our friends now question Germany's commitment towards the ultimate destruction of communism. When matters with Poland and France have been settled, we may need to revisit this treaty, but that is a discussion for another time..."
+  },
+  {
+    "key": "germany.13.t",
+    "version": "",
+    "type": "title",
+    "en": "Moscow Rejects the Pact"
+  },
+  {
+    "key": "germany.13.d",
+    "version": "",
+    "type": "desc",
+    "en": "[SOV.GetNameDefCap] has refused to sign our non-aggression pact! This complicates matters, since we cannot deal decisively with Poland or France without the risk of the Bolsheviks getting themselves involved."
+  },
+  {
+    "key": "germany.14.t",
+    "version": "",
+    "type": "title",
+    "en": "The Partitioning of Poland"
+  },
+  {
+    "key": "germany.14.d",
+    "version": "",
+    "type": "desc",
+    "en": "Poland is ours, but the eastern parts fall under the [SOU.GetAdjective] sphere of influence according to the stipulations of the Molotov-Ribbentrop Pact. Should we withdraw our forces and let the [SOU.GetAdjective]s occupy this territory? Failure to do so would render our treaty void."
+  },
+  {
+    "key": "germany.15.t",
+    "version": "",
+    "type": "title",
+    "en": "Germany Honors the Pact"
+  },
+  {
+    "key": "germany.15.d",
+    "version": "",
+    "type": "desc",
+    "en": "In accordance with the Molotov-Ribbentrop Pact, German forces have evacuated eastern Poland and our own troops have moved in to occupy the territory."
+  },
+  {
+    "key": "germany.16.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetNonIdeologyName] Betrays the Pact"
+  },
+  {
+    "key": "germany.16.d",
+    "version": "",
+    "type": "desc",
+    "en": "[From.GetNonIdeologyName] has refused to partition Poland with us, in a blatant violation of the Molotov-Ribbentrop Pact! This betrayal has rendered our treaty with them null and void!"
+  },
+  {
+    "key": "germany.20.t",
+    "version": "",
+    "type": "title",
+    "en": "Second Vienna Award"
+  },
+  {
+    "key": "germany.20.d",
+    "version": "",
+    "type": "desc",
+    "en": "Recognizing that a new order has been established in Europe, we have been asked by Hungary and Romania to arbitrate in a territorial dispute between the two countries. Transylvania was taken from Hungary and incorporated into Romania in one of the many ill-conceived changes forced upon the world at Versailles. Should Northern Transylvania be returned to Hungarian control?"
+  },
+  {
+    "key": "germany.21.t",
+    "version": "",
+    "type": "title",
+    "en": "Romania Rejects Our Verdict"
+  },
+  {
+    "key": "germany.21.d",
+    "version": "",
+    "type": "desc",
+    "en": "Romania has refused to abide by the decision we reached in the Second Vienna Award! Their delegation has been recalled to Bucharest, and no territory has been surrendered to Hungary."
+  },
+  {
+    "key": "germany.22.t",
+    "version": "",
+    "type": "title",
+    "en": "Memel - [FROM.GetNameDef] Folds"
+  },
+  {
+    "key": "germany.22.d",
+    "version": "",
+    "type": "desc",
+    "en": "The [FROM.GetAdjective] government has agreed to our demands, and Memel will be incorporated back into East Prussia. Yet another unlawfully stolen province has been returned to the German nation!"
+  },
+  {
+    "key": "germany.23.t",
+    "version": "",
+    "type": "title",
+    "en": "Memel - [FROM.GetNameDef] Refuses Demand"
+  },
+  {
+    "key": "germany.23.d",
+    "version": "",
+    "type": "desc",
+    "en": "The [FROM.GetAdjective] government has refused our demands! They are hiding behind the Klaipeda Convention, claiming that Germany has no legal right to the Memel territory. We shall have to explain our position to them by different means..."
+  },
+  {
+    "key": "germany.24.t",
+    "version": "",
+    "type": "title",
+    "en": "German Military Mission to China"
+  },
+  {
+    "key": "germany.24.d",
+    "version": "",
+    "type": "desc",
+    "en": "Germany has enjoyed good relations with China since the end of the previous Weltkrieg, despite the loss of our Chinese possessions. A German military mission has been present in China for a number of years, and Alexander von Falkenhausen has made great progress in reforming parts of the Kuomintang army.\\n\\nThis is naturally of some concern to the Japanese, given their present war against China. They are demanding the immediate withdrawal of all German support to the Chinese."
+  },
+  {
+    "key": "germany.25.t",
+    "version": "",
+    "type": "title",
+    "en": "Military Advisors Recalled"
+  },
+  {
+    "key": "germany.25.d",
+    "version": "",
+    "type": "desc",
+    "en": "Deteriorating relations with China has made it politically unfeasible to maintain a military mission in their country. Alexander von Falkenhausen and the rest of our advisors have been recalled."
+  },
+  {
+    "key": "germany.26.t",
+    "version": "",
+    "type": "title",
+    "en": "China Detains Military Advisors"
+  },
+  {
+    "key": "germany.26.d",
+    "version": "",
+    "type": "desc",
+    "en": "Germany and China are in a state of war, and the Chinese have consequently detained the German military advisors that were reforming their army. Von Falkenhausen and a few of his officers managed to elude capture, and are now on their way back to Europe."
+  },
+  {
+    "key": "germany.27.t",
+    "version": "",
+    "type": "title",
+    "en": "Fortifying the Westwall"
+  },
+  {
+    "key": "germany.27.d",
+    "version": "",
+    "type": "desc",
+    "en": "Army pioneers have finished their survey of our existing fortifications, and identified the locations where they should be strengthened. The necessary construction orders have been placed."
+  },
+  {
+    "key": "germany.28.t",
+    "version": "",
+    "type": "title",
+    "en": "Germans press for Anschluss"
+  },
+  {
+    "key": "germany.28.d",
+    "version": "",
+    "type": "desc",
+    "en": "Civil unrest and acts of violence have broken out as protesters voice their desire for Austria to join Germany in a union of German peoples. Berlin is pressing hard for an Anschluss, which would see Austria annexed into their nation."
+  },
+  {
+    "key": "germany.29.t",
+    "version": "",
+    "type": "title",
+    "en": "Austria refuses the Anschluss!"
+  },
+  {
+    "key": "germany.29.d",
+    "version": "",
+    "type": "desc",
+    "en": "The fools in Vienna have refused to accept the merger of our two nations! This is a blatant disregard for the will of the Austrian people, and it will not stand! We may have to enforce the Anschluss through military means."
+  },
+  {
+    "key": "germany.40.t",
+    "version": "",
+    "type": "title",
+    "en": "The Munich Conference"
+  },
+  {
+    "key": "germany.40.d",
+    "version": "",
+    "type": "desc",
+    "en": "German demands for the Sudetenland region of Czechoslovakia, where a significant number of ethnic Germans live, have come to a head. [GER.GetLeader] has positioned forces along the Czechoslovakian border in preparation for an attack. Talks are being held in Munich between Britain, France, Italy and Germany in the hopes of negotiating a peaceful end to the Sudeten Crisis. What will the British position be?"
+  },
+  {
+    "key": "germany.40.d_2",
+    "version": "",
+    "type": "desc",
+    "en": "German demands for the Sudetenland region of Czechoslovakia, where a significant number of ethnic Germans live, have come to a head. [GER.GetLeader] has positioned forces along the Czechoslovakian border in preparation for an attack. As we have already proven that we won't accept German expansionism, this means we now have another ally in the war against Germany."
+  },
+  {
+    "key": "germany.40.d_3",
+    "version": "",
+    "type": "desc",
+    "en": "German demands for the Sudetenland region of Czechoslovakia, where a significant number of ethnic Germans live, have come to a head. [GER.GetLeader] has positioned forces along the Czechoslovakian border in preparation for an attack. Talks are being held in Munich between the Netherlands, Britain, France, Italy and Germany in the hopes of negotiating a peaceful end to the Sudeten Crisis. What will the Dutch position be?"
+  },
+  {
+    "key": "germany.41.d",
+    "version": "",
+    "type": "desc",
+    "en": "German demands for the Sudetenland region of Czechoslovakia, where a significant number of ethnic Germans live, have come to a head. [GER.GetLeader] has positioned forces along the Czechoslovakian border in preparation for an attack. Talks are being held in Munich between Britain, France, Italy and Germany in the hopes of negotiating a peaceful end to the Sudeten Crisis.\\n\\nThe British have made it clear that they have no intention of going to war over a 'quarrel in a far-away country.' Should we follow their lead, or will we honor our obligations to Czechoslovakia by offering them support?"
+  },
+  {
+    "key": "germany.42.d",
+    "version": "",
+    "type": "desc",
+    "en": "German demands for the Sudetenland region of Czechoslovakia, where a significant number of ethnic Germans live, have come to a head. [GER.GetLeader] has positioned forces along the Czechoslovakian border in preparation for an attack. Talks are being held in Munich between Britain, France, Italy and Germany in the hopes of negotiating a peaceful end to the Sudeten Crisis.\\n\\nThe British have refused to back down, and are instead threatening the Germans with war if they violate Czechoslovakia's borders. War may be imminent."
+  },
+  {
+    "key": "germany.43.t",
+    "version": "",
+    "type": "title",
+    "en": "France leaves the Allies"
+  },
+  {
+    "key": "germany.43.d",
+    "version": "",
+    "type": "desc",
+    "en": "The stubborn French have refused to follow our lead in the Sudeten Crisis! They stand by their support of Czechoslovakia, and since we do not they have decided to rescind our mutual alliance. Even now, France is preparing for an imminent war with Germany."
+  },
+  {
+    "key": "germany.44.d",
+    "version": "",
+    "type": "desc",
+    "en": "German demands for our territory in the Sudetenland region have become increasingly hostile, and now their forces are massing along our border! A conference is being held in Munich where European leaders are discussing the future of Czechoslovakia, but we haven't been invited.\\n\\nFortunately, it looks like the Allies will stand by their earlier promises of support. They have threatened [GER.GetLeader] with war if our borders are violated in the slightest. Despite this, we must prepare for an imminent German attack."
+  },
+  {
+    "key": "germany.45.d",
+    "version": "",
+    "type": "desc",
+    "en": "German demands for our territory in the Sudetenland region have become increasingly hostile, and now their forces are massing along our border! A conference is being held in Munich where European leaders are discussing the future of Czechoslovakia, but we haven't been invited.\\n\\nThe British cowards have refused to back our sovereignty, but at least the French are sticking up for us! They have abandoned their alliance with Britain and formed a new one with us, promising to support Czechoslovakia against German aggression."
+  },
+  {
+    "key": "germany.46.t",
+    "version": "",
+    "type": "title",
+    "en": "The Munich Diktat"
+  },
+  {
+    "key": "germany.46.d",
+    "version": "",
+    "type": "desc",
+    "en": "German demands for our territory in the Sudetenland region have become increasingly hostile, and now their forces are massing along our border! A conference is being held in Munich where European leaders are discussing the future of Czechoslovakia, but we haven't been invited.\\n\\nBoth the British and French have rescinded their earlier promises to support us against German aggression. Their diplomats have made it clear that if we choose to resist the Germans, we do so on our own. Perhaps we have no choice but to surrender the Sudetenland..."
+  },
+  {
+    "key": "germany.47.d",
+    "version": "",
+    "type": "desc",
+    "en": "Talks have been held in Munich between the leaders of Germany, Britain, France and Italy to discuss the future of Czechoslovakia. The British and their Allies have both rejected our rightful claims to the Sudetenland, and they have threatened us with war if we 'violate' the Czech border!\\n\\nA plan for the invasion of Czechoslovakia has been drawn up, but this will likely trigger a general European war. We must make certain we are ready for this."
+  },
+  {
+    "key": "germany.48.d",
+    "version": "",
+    "type": "desc",
+    "en": "Talks have been held in Munich between the leaders of Germany, Britain, France and Italy to discuss the future of Czechoslovakia. The British have seen reason and accepted our claims to the Sudetenland as legitimate, but the stubborn French are refusing to back down.\\n\\nThey have abandoned their cooperation with Britain and forged closer ties with the Czechs instead. It looks like we will have to deal with them both at the same time, but at least now the British hopefully won't intervene..."
+  },
+  {
+    "key": "germany.49.d",
+    "version": "",
+    "type": "desc",
+    "en": "Talks have been held in Munich between the leaders of Germany, Britain, France and Italy to discuss the future of Czechoslovakia. Both the British and French have accepted our claims to the Sudetenland as legitimate, and their previous offers of support to the Czechs have been rescinded.\\n\\nDespite the hopelessness of their situation, the stubborn Czechs are refusing to surrender their territory! We will have to take it by force. An invasion plan has been prepared that will wipe this vile experiment of Versailles off the face of the Earth!"
+  },
+  {
+    "key": "germany.50.d",
+    "version": "",
+    "type": "desc",
+    "en": "Talks have been held in Munich between the leaders of Germany, Britain, France and Italy to discuss the future of Czechoslovakia. Both the British and French have accepted our claims to the Sudetenland as legitimate, and their previous offers of support to the Czechs have been rescinded.\\n\\nRecognizing the hopelessness of their situation, the Czechs have surrendered the Sudeten territories to us. Their oppressed German inhabitants will at long last be brought into the Vaterland!"
+  },
+  {
+    "key": "germany.51.t",
+    "version": "",
+    "type": "title",
+    "en": "First Vienna Award"
+  },
+  {
+    "key": "germany.51.d",
+    "version": "",
+    "type": "desc",
+    "en": "Czechoslovakia is a cancerous tumor in the heart of Europe, and at last the [GER.GetAdjective]s have decided to take decisive action against them. The Sudetenland has already been surrendered to Germany, and now, as a consequence of the Munich Agreement, the Czechoslovakian territory that rightfully belongs to Hungary is to be returned to us."
+  },
+  {
+    "key": "germany.52.t",
+    "version": "",
+    "type": "title",
+    "en": "The Annexation of Zaolzie"
+  },
+  {
+    "key": "germany.52.d",
+    "version": "",
+    "type": "desc",
+    "en": "Czechoslovakia is falling apart, and we must act quickly to protect territory with significant Polish populations before it can be seized by Germany. Czech ownership of Zaolzie has always been contested by us, and it is time for the region to join our nation."
+  },
+  {
+    "key": "germany.53.t",
+    "version": "",
+    "type": "title",
+    "en": "The Fate of Czechoslovakia"
+  },
+  {
+    "key": "germany.53.d",
+    "version": "",
+    "type": "desc",
+    "en": "Not content with stealing the Sudetenland, the Germans have now decided to seize the rest of our nation. Abandoned by our so-called allies, and with our best defenses lost in the Munich Diktat, the situation appears hopeless..."
+  },
+  {
+    "key": "germany.54.t",
+    "version": "",
+    "type": "title",
+    "en": "The Czechs Resist"
+  },
+  {
+    "key": "germany.54.d",
+    "version": "",
+    "type": "desc",
+    "en": "The Czechs have somehow mustered the courage to fight our occupation of their country. Their best defenses were in the Sudetenland, which is now under our control, so this should be a swift campaign."
+  },
+  {
+    "key": "germany.55.d",
+    "version": "",
+    "type": "desc",
+    "en": "The end of Czechoslovakia is at hand, and our forces are marching into Prague at this very moment. With the surrender of the Czechoslovakian military, we have liberated vast quantities of armaments. Their tanks, in particular, should serve our forces well.\\n\\nBöhmen will be annexed into Germany as a protectorate, but what should become of Slovakia? We can set them up as an autonomous puppet state under Jozef Tiso."
+  },
+  {
+    "key": "germany.55.d_2",
+    "version": "",
+    "type": "desc",
+    "en": "Having conquered Czechoslovakia, we must consider the best way to split up these territories.\\n\\nBöhmen remains German as a protectorate, but what should become of Slovakia? We can set them up as an autonomous puppet state under Jozef Tiso."
+  },
+  {
+    "key": "germany.56.t",
+    "version": "",
+    "type": "title",
+    "en": "The Partition of Czechoslovakia"
+  },
+  {
+    "key": "germany.56.d",
+    "version": "",
+    "type": "desc",
+    "en": "German forces have entered Prague and the end of Czechoslovakia is imminent. They intend to annex Bohemia into the German Reich, but they are willing to let us have Slovakia. Should we agree to this partitioning? It will mean entering a formal military alliance with Germany."
+  },
+  {
+    "key": "germany.56.d_2",
+    "version": "",
+    "type": "desc",
+    "en": "After annexing Czechoslovakia, Germany is intending to retain Bohemia as part of the Reich, but they are willing to let us have Slovakia. Should we agree to this partitioning? It will mean entering a formal military alliance with Germany."
+  },
+  {
+    "key": "germany.57.t",
+    "version": "",
+    "type": "title",
+    "en": "Hungary Rejects Our Offer"
+  },
+  {
+    "key": "germany.57.d",
+    "version": "",
+    "type": "desc",
+    "en": "The Hungarians have outrageously refused our generous offer to annex Slovakia, claiming they have no interest in the region! We will have to deal with them soon enough. For now, we must come up with a solution to the Slovakian Question."
+  },
+  {
+    "key": "germany.58.t",
+    "version": "",
+    "type": "title",
+    "en": "The Polish Question"
+  },
+  {
+    "key": "germany.58.d",
+    "version": "",
+    "type": "desc",
+    "en": "The Reichsministerium of Public Enlightenment and Propaganda has done an excellent job, and the people of Germany - indeed, the entire world - has been informed of the injustices our German brethren in Poland are forced to endure. We now have all the justification we need for a war!"
+  },
+  {
+    "key": "germany.59.desc",
+    "version": "",
+    "type": "desc",
+    "en": "In a bold and unilateral move, [GER.GetNameDef] has decreed the transfer of the [664.GetName] region to [FROM.GetNameDef]. This decision, dictated without consultation or consent, marks a further dismantling of [ROOT.GetNameDef]'s territorial integrity and a stark reminder of our geopolitical vulnerability. \\nThe [GER.GetAdjective] delegation, citing old historical claims, has pressured our leadership to acquiesce to this territorial revision. The loss of [664.GetName], a region rich in culture and resources, to [FROM.GetNameDef] is a bitter pill to swallow for our people and a direct challenge to our nation's sovereignty."
+  },
+  {
+    "key": "germany.60.t",
+    "version": "",
+    "type": "title",
+    "en": "The Remilitarization of the Rhineland"
+  },
+  {
+    "key": "germany.60.d",
+    "version": "",
+    "type": "desc",
+    "en": "Several German divisions recently advanced into the Rhineland, marking the first time since the end of the Great War that Germany has forces positioned west of the Rhine. This is in clear violation of the Versailles Treaty, under which Germany is forbidden from militarizing the region! Unless we issue an ultimatum demanding their withdrawal, the treaty will not be enforced."
+  },
+  {
+    "key": "germany.61.d",
+    "version": "",
+    "type": "desc",
+    "en": "Several German divisions recently advanced into the Rhineland, marking the first time since the end of the Great War that Germany has forces positioned west of the Rhine. This is in clear violation of the Versailles Treaty, under which Germany is forbidden from militarizing the region!\\n\\nThe French are mobilizing their forces, and seem intent on issuing an ultimatum. If Germany refuses, they are prepared to advance into Germany to deal with this threat. Popular opinion in Britain is against a war, but if we refuse to stand by the French our alliance with them will be dissolved."
+  },
+  {
+    "key": "germany.62.d",
+    "version": "",
+    "type": "desc",
+    "en": "Several German divisions recently advanced into the Rhineland, marking the first time since the end of the Great War that Germany has forces positioned west of the Rhine. This is in clear violation of the Versailles Treaty, under which Germany is forbidden from militarizing the region!\\n\\nThe French seem content to limit their response to this breach to diplomatic objections, and public opinion in Britain is firmly against a war."
+  },
+  {
+    "key": "germany.63.t",
+    "version": "",
+    "type": "title",
+    "en": "Britain Refuses War"
+  },
+  {
+    "key": "germany.63.d",
+    "version": "",
+    "type": "desc",
+    "en": "The British are refusing to support us against Germany, claiming that the Germans are 'simply walking in their own backyard.' If we go to war with them, it looks like we will be on our own.\\n\\nPublic opinion in France is against a war, but Germany will only grow stronger and the remilitarization of the Rhineland constitutes a direct threat against our borders. Issuing an ultimatum would be less threatening without Britain on our side. Should we proceed against them alone?"
+  },
+  {
+    "key": "germany.64.t",
+    "version": "",
+    "type": "title",
+    "en": "Britain Supports Us"
+  },
+  {
+    "key": "germany.64.d",
+    "version": "",
+    "type": "desc",
+    "en": "Though popular support for a war is lacking in Britain, the British government has recognized the threat posed by the Germans and they have offered us their full support. We will issue a final ultimatum to Germany to withdraw from the demilitarized zone. If they refuse, it is time for our forces to drive deep into Germany and put an end to their tyrannical regime!"
+  },
+  {
+    "key": "germany.65.t",
+    "version": "",
+    "type": "title",
+    "en": "France and Britain Mobilize!"
+  },
+  {
+    "key": "germany.65.d",
+    "version": "",
+    "type": "desc",
+    "en": "The British and French have refused to accept the remilitarization of the Rhineland, calling it an 'unforgivable breach' of the Versailles Treaty. They are mobilizing their forces against us and have issued an ultimatum that our forces back down at once and the Rhineland remains demilitarized, or our nations are at war."
+  },
+  {
+    "key": "germany.66.t",
+    "version": "",
+    "type": "title",
+    "en": "France Mobilizes!"
+  },
+  {
+    "key": "germany.66.d",
+    "version": "",
+    "type": "desc",
+    "en": "The British have seen reason and accepted the remilitarization of the Rhineland, but the mad French are refusing to back down! Claiming that this incident constitutes a direct threat against the security of their nation, they are mobilizing their forces and may sweep in across the border at any moment! We are at war!"
+  },
+  {
+    "key": "germany.67.t",
+    "version": "",
+    "type": "title",
+    "en": "France Backs Down"
+  },
+  {
+    "key": "germany.67.d",
+    "version": "",
+    "type": "desc",
+    "en": "The French wisely chose to back down when they realized that their mad enterprise wouldn't enjoy British support. Their forces have been demobilized and war has been averted for now. By golly, that was a close one!"
+  },
+  {
+    "key": "germany.68.t",
+    "version": "",
+    "type": "title",
+    "en": "France Refuses to Back Down"
+  },
+  {
+    "key": "germany.68.d",
+    "version": "",
+    "type": "desc",
+    "en": "The French have stubbornly decided to go at it alone against the Germans, and our alliance with them has been rescinded. Yet another European war has broken out due to pointless squabbling. Perhaps it is time for Britain to distance itself from continental affairs again..."
+  },
+  {
+    "key": "germany.70.t",
+    "version": "",
+    "type": "title",
+    "en": "The Oster Conspiracy"
+  },
+  {
+    "key": "germany.70.d",
+    "version": "",
+    "type": "desc",
+    "en": "Believing that Hitler has pushed Germany into a war it cannot win, a group of senior officers within the Wehrmacht have launched a coup! It appears to have been orchestrated by Colonel Hans Oster of the Abwehr, but generals Beck, von Brauchitsch, Halder and Admiral Canaris have also been confirmed as involved!\\n\\nHeavily-armed men lying in wait in several Berlin apartments have converged on the Reichskanzlei intent on liquidating Hitler and his closest associates. A fierce gun battle is currently raging inside the building."
+  },
+  {
+    "key": "germany.71.t",
+    "version": "",
+    "type": "title",
+    "en": "The Führer is Dead"
+  },
+  {
+    "key": "germany.71.d",
+    "version": "",
+    "type": "desc",
+    "en": "SS troops and loyal army units rushing to the Reichskanzlei have managed to kill or capture all of the traitor commandos, but not before the dogs managed to kill Hitler! The Führer was found with several dozen gunshot wounds slumped over his desk - working tirelessly for the Vaterland to his last breath, no doubt! His long-time confident Eva Braun was injured during the shootout, but seems likely to recover in due time.\\n\\nThe surviving conspirators will stand trial for their heinous crime, but for now Germany is at war and a new leader is needed. Who shall be the next Führer?"
+  },
+  {
+    "key": "germany.72.t",
+    "version": "",
+    "type": "title",
+    "en": "The Conspiracy Fails"
+  },
+  {
+    "key": "germany.72.d",
+    "version": "",
+    "type": "desc",
+    "en": "SS troops and loyal army units rushing to the Reichskanzlei have managed to kill or capture all of the traitor commandos, and Hitler himself led the clean-up effort with his trusty Luger. Miraculously, the Führer emerged from the fighting with only a few scratches.\\n\\nThe surviving conspirators will pay a steep price for their disloyalty, and Hitler is now even more committed towards prosecuting the current war towards a glorious victory!"
+  },
+  {
+    "key": "germany.73.t",
+    "version": "",
+    "type": "title",
+    "en": "The Conspiracy Succeeds"
+  },
+  {
+    "key": "germany.73.d",
+    "version": "",
+    "type": "desc",
+    "en": "The heavy fighting in the Reichskanzlei has reduced the building to a burning ruin. Despite a large number of SS soldiers rushing to Hitler's aid, army units loyal to the conspirators joined the fray and proved decisive. The Führer has been confirmed as killed, his long-time confident Eva Braun severely wounded in the shootout, and the conspirators have successfully stormed all government buildings in Berlin.\\n\\nA large portion of the Wehrmacht has gone over to the other side, but many officers are still NSDAP loyalists. Who should be leading them?"
+  },
+  {
+    "key": "germany.74.t",
+    "version": "",
+    "type": "title",
+    "en": "Preparing the Ground"
+  },
+  {
+    "key": "germany.74.d",
+    "version": "",
+    "type": "desc",
+    "en": "The Austrians are yearning to become part of the German Reich, but the stubborn government in Vienna has so far resisted all attempts to bring about a union. We must increase support for fascism in Austria. The Austrian Nazi Party will then become a viable alternative to the ruling austrofascists.\\n\\nAn Abwehr agent has been made available for an espionage mission. Use him to covertly increase popular support for fascism in Austria."
+  },
+  {
+    "key": "germany.75.t",
+    "version": "",
+    "type": "title",
+    "en": "German-Soviet Treaty"
+  },
+  {
+    "key": "germany.75.d",
+    "version": "",
+    "type": "desc",
+    "en": "Despite harsh previous rhetoric against both the people and the ideological leadership of the [Root.GetName], [From.GetLeader] and Germany has now reached out to us, requesting a mutually beneficial research treaty. While exchanging knowledge would help our efforts to develop new tank designs along with promises of other research benefits in the future, there is little doubt considering previous statements that the Germans are doing this for their own sake. Should we go forward with the agreement despite the risk of aiding [From.GetLeader]'s ambitions?"
+  },
+  {
+    "key": "germany.76.t",
+    "version": "",
+    "type": "title",
+    "en": "Soviets Accept German-Soviet Treaty"
+  },
+  {
+    "key": "germany.76.d",
+    "version": "",
+    "type": "desc",
+    "en": "Our negotiations with the [From.GetName] have been successful. An agreement has been reached where our nations will aid each other in the development of new armored units, with a possible extension to other research areas in the future."
+  },
+  {
+    "key": "germany.77.t",
+    "version": "",
+    "type": "title",
+    "en": "Soviets Reject German-Soviet Treaty"
+  },
+  {
+    "key": "germany.77.d",
+    "version": "",
+    "type": "desc",
+    "en": "The [From.GetName] has rejected our suggestion for a treaty aimed at advancing armored unit research in both countries, presumably fearing our superior weapons would be turned against them."
+  },
+  {
+    "key": "germany.78.t",
+    "version": "",
+    "type": "title",
+    "en": "German Joint Air Research"
+  },
+  {
+    "key": "germany.78.d",
+    "version": "",
+    "type": "desc",
+    "en": "As stipulated by the treaty with Germany, some of their special research projects share discoveries with our engineers. A recent breakthrough in radar technology has come to our attention, opening up unexpected opportunities to advance our research in the field."
+  },
+  {
+    "key": "germany.79.t",
+    "version": "",
+    "type": "title",
+    "en": "Ultimatum from Germany"
+  },
+  {
+    "key": "germany.79.d",
+    "version": "",
+    "type": "desc",
+    "en": "With Greece under the thumb of Germany, [From.GetLeader] has put pressure on our government to join their ranks. The Soviet-German alliance has put us in a position where neutrality is no longer an option, and now an ultimatum has arrived from Berlin demanding we cede our eastern territories to their Soviet allies and join them in the very pact they are using to force our hand.\\n\\nAlthough we cannot maintain neutrality, there are other options. Seeking support from Britain is one, standing our ground is another. None, however, can secure the future of the republic with certainty."
+  },
+  {
+    "key": "germany.80.t",
+    "version": "",
+    "type": "title",
+    "en": "Danzig for Slovakia"
+  },
+  {
+    "key": "germany.80.d",
+    "version": "",
+    "type": "desc",
+    "en": "The Germans have long had their eyes on Danzig, seeking to unite their territories in Ostpreussen with the rest of the German nation. Diplomats have warned that the day may come when they make us choose between Danzig or war.\\n\\nSurprisingly, we have been presented with what the Germans consider a more peaceful solution. They offer the newly created state of Slovakia, currently little more than a puppet state under German rule, to us in exchange for Danzig. \\nWhat steps the Germans will take if we decline is unknown, but we have been given an opportunity to resolve this conflict with some territorial gains."
+  },
+  {
+    "key": "germany.81.t",
+    "version": "",
+    "type": "title",
+    "en": "Danzig Ceded for Slovakia"
+  },
+  {
+    "key": "germany.81.d",
+    "version": "",
+    "type": "desc",
+    "en": "Poland has agreed to the exchange wherein Danzig will be ceded to [GER.GetNameDef], while Slovakia will now be under Polish control. Through this agreement, we have reclaimed Danzig while maintaining cordial, or at least not openly hostile, relations with our eastern neighbor."
+  },
+  {
+    "key": "germany.82.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetNameDefCap] Refuses to give up Danzig"
+  },
+  {
+    "key": "germany.82.d",
+    "version": "",
+    "type": "desc",
+    "en": "Our generous offer of Slovakian territories to [From.GetNameDef] in exchange for Danzig has been rejected, leaving Danzig in Polish hands. Clearly, [From.GetLeader] does not share our understanding of Danzig as rightfully German territory. \\n[Root.GetLeader] is furious, and the diplomatic options for reclaiming Danzig appear to have been exhausted."
+  },
+  {
+    "key": "germany.83.t",
+    "version": "",
+    "type": "title",
+    "en": "Anti-Soviet Pact"
+  },
+  {
+    "key": "germany.83.d",
+    "version": "",
+    "type": "desc",
+    "en": "With the Anti-Comintern Pact, [From.GetNameDef] has secured fertile ground for diplomatic means of containing the Soviet menace. However, the pact does not constitute a military alliance, nor does it contain well-defined obligations for the signatories. [From.GetLeader] now seeks to extend the pact to an Anti-Soviet coalition, a binding agreement to join together in war if any signatory enters into a state of war with the Soviet Union.\\n\\nWhile substantially more dangerous, and likely to bring an end to any diplomacy we still maintain with the Soviets, this is also our chance to ensure that we have strong allies on our side in the case of war."
+  },
+  {
+    "key": "germany.84.t",
+    "version": "",
+    "type": "title",
+    "en": "Call Pact Members to War"
+  },
+  {
+    "key": "germany.84.d",
+    "version": "",
+    "type": "desc",
+    "en": "Just as we suspected when we signed the Anti-Soviet Pact, we now find ourselves in a state of war with the Soviet Union. It is time for our co-signatories to honor their promise and join us."
+  },
+  {
+    "key": "germany.85.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetName] Calls Pact Members to War"
+  },
+  {
+    "key": "germany.85.d",
+    "version": "",
+    "type": "desc",
+    "en": "The Anti-Soviet Pact stipulates that all signatories must join in any defensive conflict with the Soviet Union. [From.GetName] has now been attacked by the Soviets and has sent out a request for all pact members to come to their aid immediately. It is time to show the [Root.GetAdjective] dedication to protecting the world from the threat of the Soviet Union once and for all."
+  },
+  {
+    "key": "germany.86.t",
+    "version": "",
+    "type": "title",
+    "en": "Danzig or War"
+  },
+  {
+    "key": "germany.86.d",
+    "version": "",
+    "type": "desc",
+    "en": "[GER.GetNameDefCap] has long publicized their goal of reclaiming the territories they lost in the Great War. In particular they look to the territory of Danzig, which separates Ostpreussen from the rest of their nation. \\n\\nNow, they have demanded that Danzig be ceded to [GER.GetNameDef], and in exchange offer nothing but a promise to waive their claims on Poznań. With the threat of war looming, accepting the offer will delay a possible conflict, but at the cost of freely granting the Germans more strength for whatever lies ahead."
+  },
+  {
+    "key": "germany.87.t",
+    "version": "",
+    "type": "title",
+    "en": "Poland Cedes Danzig"
+  },
+  {
+    "key": "germany.87.d",
+    "version": "",
+    "type": "desc",
+    "en": "Faced with our ultimatum, Poland has agreed to give up their unjustly acquired territory to us, proving that they must have known it rightfully belonged to Germany!"
+  },
+  {
+    "key": "germany.88.t",
+    "version": "",
+    "type": "title",
+    "en": "Poland Refuses to Cede Danzig"
+  },
+  {
+    "key": "germany.88.d",
+    "version": "",
+    "type": "desc",
+    "en": "Despite our attempts to allow Poland to hand over Danzig peacefully, even vowing to give up our claims on other German territories in exchange, we have been met with refusal. As expected, the world gives nothing to us that we do not seize by force."
+  },
+  {
+    "key": "germany.1002.t",
+    "version": "",
+    "type": "title",
+    "en": "Honor the Molotov-Ribbentrop Pact?"
+  },
+  {
+    "key": "germany.1002.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Germany and [SOU.GetNameDef] have already made agreements to partition Poland between its east and west halves, however our occupation of the east has caused something of a complication in this arrangement. Though our German allies fully expect we’ll surrender the promised Polish territories to [SOU.GetNameDef], we could instead break the pact and continue our occupation."
+  },
+  {
+    "key": "germany.1003.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetNameDefCap] Breaks the Pact!"
+  },
+  {
+    "key": "germany.1003.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Despite the decision to cede eastern Poland to [SOU.GetNameDef], our allies in [From.GetNameDef] have chosen to continue their occupation of Poland, formally breaking the Molotov-Ribbentrop pact!"
+  },
+  {
+    "key": "germany.89.t",
+    "version": "",
+    "type": "title",
+    "en": "Unholy Alliance"
+  },
+  {
+    "key": "germany.89.d",
+    "version": "",
+    "type": "desc",
+    "en": "After the success of our recent cooperation, the Germans have come to us with an intriguing offer. They propose that we put our differences aside and instead of wasting our strength fighting each other while the western democracies watch and profit, we combine our strength and crush them instead!"
+  },
+  {
+    "key": "germany.90.t",
+    "version": "",
+    "type": "title",
+    "en": "Alliance refused"
+  },
+  {
+    "key": "germany.90.d",
+    "version": "",
+    "type": "desc",
+    "en": "The Soviets have refused our offer, if we want the resources of [SOV.GetNameDef] we shall have to take them by force!"
+  },
+  {
+    "key": "germany.91.t",
+    "version": "",
+    "type": "title",
+    "en": "France wants to join our faction"
+  },
+  {
+    "key": "germany.91.d",
+    "version": "",
+    "type": "desc",
+    "en": "The strong leaders of Mouvement Franciste have made great progress and offer to join our cause. The nation of France is ready to fight for the Reich."
+  },
+  {
+    "key": "germany.92.t",
+    "version": "",
+    "type": "title",
+    "en": "Germany Refuses Ultimatum"
+  },
+  {
+    "key": "germany.92.d",
+    "version": "",
+    "type": "desc",
+    "en": "Despite our clarification that their re-militarization of the Rhineland would be viewed as an act of war, Germany has refused to back down and advanced into the demilitarized zone, ignoring our warning. This means that despite our best efforts to maintain peace, war has once again broken out in Europe."
+  },
+  {
+    "key": "germany.93.t",
+    "version": "",
+    "type": "title",
+    "en": "London Conference"
+  },
+  {
+    "key": "germany.93.d",
+    "version": "",
+    "type": "desc",
+    "en": "We expected the great powers of Europe to sit sound the table and come to equitable agreement in the name of peace. Instead the British and French have chosen to support the upstart Yugoslavs and their artificial state. Slovenia will be ours, one way or another...."
+  },
+  {
+    "key": "germany.93.d_FRA_abandoned_yugoslavia",
+    "version": "",
+    "type": "desc",
+    "en": "We expected the great powers of Europe to sit sound the table and come to equitable agreement in the name of peace. Although France saw the justice of our case the foolish British have chosen to support the upstart Yugoslavs and their artificial state. Slovenia will be ours, one way or another...."
+  },
+  {
+    "key": "germany.94.t",
+    "version": "",
+    "type": "title",
+    "en": "The London Surrender"
+  },
+  {
+    "key": "germany.94.d",
+    "version": "",
+    "type": "desc",
+    "en": "In yet another triumph for daring and action Slovenia, soon to be renamed to Carniola, has been returned to its rightful home in the German Reich."
+  },
+  {
+    "key": "germany.95.t",
+    "version": "",
+    "type": "title",
+    "en": "The Yugoslavs Refuse"
+  },
+  {
+    "key": "germany.95.d",
+    "version": "",
+    "type": "desc",
+    "en": "In a misplaced sense of their place in the world the Yugoslavs have chosen to not accept the chance we have offered them."
+  },
+  {
+    "key": "germany.96.t",
+    "version": "",
+    "type": "title",
+    "en": "London Conference"
+  },
+  {
+    "key": "germany.96.d",
+    "version": "",
+    "type": "desc",
+    "en": "The Yugoslavs, egged on by the foolish Italians, have decided to defy us. The ungrateful Italians will burn with the Yugoslavs. General Rommel assures us that they ran the last time, and no doubt they will run again."
+  },
+  {
+    "key": "germany.97.t",
+    "version": "",
+    "type": "title",
+    "en": "London Conference"
+  },
+  {
+    "key": "germany.97.d",
+    "version": "",
+    "type": "desc",
+    "en": "The great London Conference was supposed to right one of the many wrongs that have been done to Germany. The French, though, still thirst for revenge and only wish to see Germany on its knees. They backed the regime in Belgrade despite the justice of our cause. They honestly think their empty threats mean anything to us?"
+  },
+  {
+    "key": "germany.98.t",
+    "version": "",
+    "type": "title",
+    "en": "The Fate of Yugoslavia"
+  },
+  {
+    "key": "germany.98.d",
+    "version": "",
+    "type": "desc",
+    "en": "We always knew that the Yugoslav state carved out of the Hapsburg Empire was an artificial country fated never to last. The ethnic resentment simmering under the surface has boiled over and the state is falling apart. We must step in to rectify the situation."
+  },
+  {
+    "key": "germany.99.t",
+    "version": "",
+    "type": "title",
+    "en": "Carve up Greece with [ITA.GetNameDef]"
+  },
+  {
+    "key": "germany.99.d",
+    "version": "",
+    "type": "desc",
+    "en": "When we suggested that perhaps the Greek frontiers should be readjusted the Italian ambassador thundered that they would rebuild the Roman Empire in the ashes of Greece."
+  },
+  {
+    "key": "germany.100.t",
+    "version": "",
+    "type": "title",
+    "en": "Carve up Greece with [BUL.GetNameDef]"
+  },
+  {
+    "key": "germany.100.d",
+    "version": "",
+    "type": "desc",
+    "en": "Territory that Bulgaria considered her own was handed to Greece after the Second Balkan War and the Great War. If we right this wrong we would bind Bulgaria to us. However, if they are not strong enough to claim it on their own, are they a worthy ally for us?"
+  },
+  {
+    "key": "germany.101.t",
+    "version": "",
+    "type": "title",
+    "en": "Demand Greek Territory"
+  },
+  {
+    "key": "germany.101.d",
+    "version": "",
+    "type": "desc",
+    "en": "A lack of suitable allies leaves Germany in an unfortunate strategic position in the Eastern Mediterranean. However, we can remedy this by demanding from Greece bases and territory around it to secure them."
+  },
+  {
+    "key": "germany.102.t",
+    "version": "",
+    "type": "title",
+    "en": "Greece Refuses"
+  },
+  {
+    "key": "germany.102.d",
+    "version": "",
+    "type": "desc",
+    "en": "Greece has foolishly refused our assistance in solving their border disputes."
+  },
+  {
+    "key": "germany.103.t",
+    "version": "",
+    "type": "title",
+    "en": "Greece Refuses"
+  },
+  {
+    "key": "germany.103.d",
+    "version": "",
+    "type": "desc",
+    "en": "Greece has refused our generous offer of protection and assistance"
+  },
+  {
+    "key": "germany.104.t",
+    "version": "",
+    "type": "title",
+    "en": "Italy Demands Vichy Territory"
+  },
+  {
+    "key": "germany.104.d_Savoy",
+    "version": "",
+    "type": "desc",
+    "en": "The Italians have started to issue demands to Vichy France on the back of our victory. They are seeking the frontier zone of Savoy to strengthen Italy. However, we are the ones who will decide that."
+  },
+  {
+    "key": "germany.104.d_Corsica",
+    "version": "",
+    "type": "desc",
+    "en": "The Italians are demanding the Island of Corsica from Vichy as their share of the spoils. We could grant it to them?"
+  },
+  {
+    "key": "germany.104.d_Savoy_Corsica",
+    "version": "",
+    "type": "desc",
+    "en": "Italy has demanded that Vichy hand over Savoy and Corsica. It would be a boon to Italy but this will concern the French colonial authorities."
+  },
+  {
+    "key": "germany.105.t",
+    "version": "",
+    "type": "title",
+    "en": "Italy Leaves [Root.GetFactionName]"
+  },
+  {
+    "key": "germany.105.d",
+    "version": "",
+    "type": "desc",
+    "en": "Following our decision to not grant any lands to Italy. They have chosen to leave [Root.GetFactionName] saying that we are not worthy enough allies for them."
+  },
+  {
+    "key": "germany.106.t",
+    "version": "",
+    "type": "title",
+    "en": "Treaty Of Craiova"
+  },
+  {
+    "key": "germany.106.d_second_vienna_accepted_north",
+    "version": "",
+    "type": "desc",
+    "en": "With Hungary's gain of Northern Transylvania, Bulgaria has reminded us of their long standing boundary dispute with Romania over Southern Dobrudja, seized by Romania in 1913."
+  },
+  {
+    "key": "germany.106.d_second_vienna_accepted_all",
+    "version": "",
+    "type": "desc",
+    "en": "With Hungary's gain of Transylvania, Bulgaria has reminded us of their long standing boundary dispute with Romania over Southern Dobrudja, seized by Romania in 1913."
+  },
+  {
+    "key": "germany.106.d_no_vienna",
+    "version": "",
+    "type": "desc",
+    "en": "Since relationship with Hungary has cooled, with them choosing to join in another alliance, our original plan to give them a part of Transylvania is out of the question. Instead, we should lend an ear to the Bulgarian territorial dispute for Southern Dobrudja, seized by Romania in 1913."
+  },
+  {
+    "key": "germany.107.t",
+    "version": "",
+    "type": "title",
+    "en": "The Flight of Rudolf Hess"
+  },
+  {
+    "key": "germany.107.d",
+    "version": "",
+    "type": "desc",
+    "en": "Deputy Führer Rudolf Hess was arrested by Home Guard soldiers in Scotland yesterday after parachuting from a heavy fighter. An accomplished pilot, he apparently flew alone across the North Sea, taking care to stay out of radar range before veering west towards Britain.\\nHess appears to have taken it upon himself to negotiate a peace treaty between Britain and Germany, although Berlin has denounced him as a madman and he has been stripped of all of his political offices. British authorities have not been available for comment."
+  },
+  {
+    "key": "germany.108.t",
+    "version": "",
+    "type": "title",
+    "en": "The Death of Rudolf Hess"
+  },
+  {
+    "key": "germany.108.d",
+    "version": "",
+    "type": "desc",
+    "en": "Deputy Führer Rudolf Hess was killed yesterday when the Royal Air Force intercepted the heavy fighter he was flying off the coast of Scotland. The exact nature of his mission remains unclear - although Hess was an accomplished pilot, he flew alone and his airplane does not appear to have been armed.\\nHis remains were recovered by British authorities, but a state funeral with an empty coffin has been scheduled in Berlin. \\n\\nHitler was reported as being visibly distraught by the death of his old friend."
+  },
+  {
+    "key": "germany.109.d",
+    "version": "",
+    "type": "desc",
+    "en": "The airship Hindenburg, which had been moored in Germany since the beginning of hostilities, met with a dramatic end today when it exploded over Scotland. It appears to have been commandeered by Deputy Führer Rudolf Hess, who managed to fly it alone across the North Sea on a personal mission to negotiate peace with Britain.\\nBritish radar stations had no trouble detecting the massive aircraft, and several Royal Air Force wings were immediately directed towards its position. When the Hindenburg failed to respond over the radio, they opened fire. \\n\\nHess parachuted to safety, and has now been imprisoned in the Tower of London."
+  },
+  {
+    "key": "germany.110.d",
+    "version": "",
+    "type": "desc",
+    "en": "The airship Hindenburg, which had been moored in Germany since the beginning of hostilities, met with a dramatic end today when it exploded over Scotland. It appears to have been commandeered by Deputy Führer Rudolf Hess, who managed to fly it alone across the North Sea on a personal mission to negotiate peace with Britain.\\nBritish radar stations had no trouble detecting the massive aircraft, and several Royal Air Force wings were immediately directed towards its position. When the Hindenburg failed to respond over the radio, they opened fire. \\n\\nThe remains of Hess were found in the wreckage."
+  },
+  {
+    "key": "germany.111.t",
+    "version": "",
+    "type": "title",
+    "en": "Yugoslavia Refuses"
+  },
+  {
+    "key": "germany.111.d",
+    "version": "",
+    "type": "desc",
+    "en": "Yugoslavia has foolishly refused our offer to resolve tensions in the region."
+  },
+  {
+    "key": "germany.113.t",
+    "version": "",
+    "type": "title",
+    "en": "Germany Officially Requests Danzig"
+  },
+  {
+    "key": "germany.113.d",
+    "version": "",
+    "type": "desc",
+    "en": "Seeing their military support as essential for any future success in our civil war, [GER.GetNameDef] has presented plans for establishing [GER.GetAdjective] control over Danzig upon the conclusion of hostilities. They have also made it clear that [Root.GetNameDef]'s reliance on their military support leaves [Root.GetLeader] no choice but to sign this \"Danzig Agreement.\""
+  },
+  {
+    "key": "germany.114.t",
+    "version": "",
+    "type": "title",
+    "en": "German Demands for Danzig"
+  },
+  {
+    "key": "germany.114.d",
+    "version": "",
+    "type": "desc",
+    "en": "Following our victory in the [Root.GetAdjective] civil war, Germany has repeatedly reminded us of their request for Danzig. They have also reminded us of what the consequences of disobedience may be for a nation still recovering from internal conflict."
+  },
+  {
+    "key": "germany.115.t",
+    "version": "",
+    "type": "title",
+    "en": "Poland Cedes Danzig"
+  },
+  {
+    "key": "germany.115.d",
+    "version": "",
+    "type": "desc",
+    "en": "In accordance with the Danzig agreement, [GER.GetNameDef] has agreed to the transfer of Danzig to [GER.GetNameDef] control."
+  },
+  {
+    "key": "germany.116.t",
+    "version": "",
+    "type": "title",
+    "en": "Poland Reneges On the Danzig Agreement"
+  },
+  {
+    "key": "germany.116.d",
+    "version": "",
+    "type": "desc",
+    "en": "Ignoring the invaluable support we offered them in their civil war, [From.GetName] has decided to ignore our claims on Danzig."
+  },
+  {
+    "key": "germany.117.t",
+    "version": "",
+    "type": "title",
+    "en": "The Danzig Agreement"
+  },
+  {
+    "key": "germany.117.d",
+    "version": "",
+    "type": "desc",
+    "en": "[From.GetName] has agreed to our request for Danzig in exchange for support in their civil war. Our request and our promise have been formalized in the Danzig Agreement. Now we must make certain that [From.GetName] emerges victorious from their conflict."
+  },
+  {
+    "key": "germany.118.t",
+    "version": "",
+    "type": "title",
+    "en": "The Yalta Conference"
+  },
+  {
+    "key": "germany.118.d",
+    "version": "",
+    "type": "desc",
+    "en": "With the war in Europe progressing apace, it is time for the inevitable victors to consider the future of Europe.\\n\\nWe may propose to [yalta_partner.GetNameDef] a conference on the division of [GER.GetNameDef] after the war, to delineate our spheres of influence on the continent.\\n\\nOur \"friends\" in [yalta_partner.GetNameDef] have indicated that they would be interested in such a conference. No doubt, they will want some kind of reward for their sacrifices."
+  },
+  {
+    "key": "germany.119.t",
+    "version": "",
+    "type": "title",
+    "en": "The Yalta Conference"
+  },
+  {
+    "key": "germany.119.d",
+    "version": "",
+    "type": "desc",
+    "en": "With the war against [GER.GetNameDef] marching towards its inevitable conclusion, [yalta_origin.GetNameDef] has approached us about a conference on the future of Europe.\\n\\nThey are suggesting a division of [GER.GetNameDef] between east and west. This would allow our sphere of influence to extend deep into Europe, which would make up for some of the losses we have suffered in this gruesome struggle."
+  },
+  {
+    "key": "germany.1190.t",
+    "version": "",
+    "type": "title",
+    "en": "The Toronto Conference"
+  },
+  {
+    "key": "germany.1190.desc",
+    "version": "",
+    "type": "desc",
+    "en": "With the war against [GER.GetNameDef] marching towards its inevitable conclusion, [yalta_origin.GetNameDef] has approached us about a conference on the future of Europe.\\n\\nThey are suggesting a three way split of [GER.GetNameDef] in which we will get limited influence over the Eastern region. The main industrial region would come under allied control, and the allies would also have limited control over the Southern region. It would reduce Germany's power, however our influence over central Europe will remain uncertain."
+  },
+  {
+    "key": "germany.120.t",
+    "version": "",
+    "type": "title",
+    "en": "[yalta_partner.GetNameDefCap] Refuses to Participate"
+  },
+  {
+    "key": "germany.120.d",
+    "version": "",
+    "type": "desc",
+    "en": "Our proposed conference on the future of Europe has fallen through.\\n\\nSpeaking in no uncertain terms, [yalta_partner.GetLeader] dismissed any need for planning and cooperation in post-war Europe.\\n\\n\"We will meet when I am making my demands of [GER.GetNameDef] at the peace table. I will not see petty politicking stand in the way of [yalta_partner.GetNameDef].\""
+  },
+  {
+    "key": "germany.121.t",
+    "version": "",
+    "type": "title",
+    "en": "The Division of Germany"
+  },
+  {
+    "key": "germany.121.d",
+    "version": "",
+    "type": "desc",
+    "en": "As stipulated in the Yalta agreement, Germany is to be split into two separate states, each falling under the sphere of one of the warring parties.\\n\\nLet us hope this brings an end to conflict in Europe."
+  },
+  {
+    "key": "germany.122.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetNameDefCap] Demands the Sudetenland"
+  },
+  {
+    "key": "germany.122.d",
+    "version": "",
+    "type": "desc",
+    "en": "In the middle of the ongoing situation, Germany has demanded the Sudetenland territory from us, to \"protect the German population\" of the region.\\n\\nWith the ongoing situation, they have made it very clear that this is it. There will be no negotiations or diplomacy. They will have the Sudetenland, or they will go to war over it."
+  },
+  {
+    "key": "germany.122.desc_cze_subject_of_ger",
+    "version": "",
+    "type": "desc",
+    "en": "The [FROM.GetAdjective] leader, [FROM.GetLeader], has demanded the Sudetenland territory from us, to \"protect the German population\" of the region.\\n\\nGiven the circumstances, and the tight control that [FROM.GetNameDef] exerts over our country, there is nothing we can do to stop them. They will have the Sudetenland, and we shall make our peace with this painful fact."
+  },
+  {
+    "key": "germany.123.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetNameDefCap] Refuses us the Sudetenland"
+  },
+  {
+    "key": "germany.123.d",
+    "version": "",
+    "type": "desc",
+    "en": "In a foolish diplomatic move, [From.GetLeader], the leader of the [From.GetAdjective]s has rejected all [ROOT.GetAdjective] demands!\\n\\nThey will not cede the Sudetenland, and practically dared us to declare war, mocking our desire to protect our [ROOT.GetAdjective] brothers and sisters."
+  },
+  {
+    "key": "germany.124.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetNameDefCap] Cedes the Sudetenland"
+  },
+  {
+    "key": "germany.124.d",
+    "version": "",
+    "type": "desc",
+    "en": "Facing the prospect of war with us, [From.GetNameDef] has agreed to cede all control of the Sudetenland, and renounce any future claim to the region.\\n\\nThe [ROOT.GetAdjective] population of the Sudetenland will finally be safely in the fold of the [ROOT.GetNameDef]."
+  },
+  {
+    "key": "germany.124.desc_cze_subject_of_ger",
+    "version": "",
+    "type": "desc",
+    "en": "The [From.GetAdjective] government had no choice but to agree to cede all control of the Sudetenland, renouncing any future claim to the region.\\n\\nThe [ROOT.GetAdjective] population of the Sudetenland will finally be safely in the fold of the [ROOT.GetNameDef]."
+  },
+  {
+    "key": "germany.125.t",
+    "version": "",
+    "type": "title",
+    "en": "[FROM.GetNameDefCap] Cedes Sudetenland to [GER.GetNameDef]"
+  },
+  {
+    "key": "germany.125.d",
+    "version": "",
+    "type": "desc",
+    "en": "Our [FROM.GetAdjective] overlords has decided to hand over Sudetenland to [GER.GetNameDef]. They claim that the action is taken as a measure to preserve peace in the region and that any other action would have caused a far worse fate to befall us. We were not consulted in this matter and can now only watch as our rightful territory is severed from us."
+  },
+  {
+    "key": "germany.126.t",
+    "version": "",
+    "type": "title",
+    "en": "Anschluss or Destruction"
+  },
+  {
+    "key": "germany.126.d",
+    "version": "",
+    "type": "desc",
+    "en": "Civil unrest and acts of violence have broken out as protesters voice their desire for Austria to join Germany. The internal struggles our nation already suffers from only adds to the voice of people wishing for a union with Germany. Berlin is pressing hard for an Anschluss and this may very well be our only chance to keep part of the true Austrian values alive."
+  },
+  {
+    "key": "germany.127.t",
+    "version": "",
+    "type": "title",
+    "en": "Formalize the Alliance"
+  },
+  {
+    "key": "germany.127.d",
+    "version": "",
+    "type": "desc",
+    "en": "United in our fight against [SOV.GetNameDef], perhaps it is time to formalize the alliance and invite our new partners in this anti-communist war to our faction."
+  },
+  {
+    "key": "germany.128.t",
+    "version": "",
+    "type": "title",
+    "en": "The Anti-Soviet Pact"
+  },
+  {
+    "key": "germany.128.d",
+    "version": "",
+    "type": "desc",
+    "en": "[From.GetNameDefCap] has offered to welcome us to their faction, so that we may better coordinate against the communist threat. Envoys to formalize this alliance have already arrived in the capital."
+  },
+  {
+    "key": "germany.200.t",
+    "version": "",
+    "type": "title",
+    "en": "A New Germany"
+  },
+  {
+    "key": "germany.200.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Germany no longer poses the threat that it once did, instead it is [SOV.GetNameDef] that threatens to upset the world order. A strong and democratic Germany could be a very useful ally in this struggle. Allowing Germany to rise once more, could also hold strong trade advantages for both us and them. Maybe the time is right to end the occupation and create the foundation for a strong and united democratic world."
+  },
+  {
+    "key": "germany.201.t",
+    "version": "",
+    "type": "title",
+    "en": "[FROM.GetName] Wants to Re-unite Germany"
+  },
+  {
+    "key": "germany.201.desc",
+    "version": "",
+    "type": "desc",
+    "en": "[FROM.GetName] has decided to end their occupation of Germany, and give the Germans self rule as a new republic called [WGR.GetNameDef]. They claim this is to create a bulwark against communism, arguing that a strong democratic Germany is a better protection against the spread of communism than a weak fragmented one. \\nWe have been asked to support this by merging our German territories with the newly created [WGR.GetName]. Popular support for this is strong."
+  },
+  {
+    "key": "germany.202.t",
+    "version": "",
+    "type": "title",
+    "en": "A New Germany"
+  },
+  {
+    "key": "germany.202.desc",
+    "version": "",
+    "type": "desc",
+    "en": "[FROM.GetName] let their German territories be merged into the so called [WGR.GetName]. This has led to a lot of people in our German zone to call out for reunification with the independent Germany as well."
+  },
+  {
+    "key": "germany.999.t",
+    "version": "",
+    "type": "title",
+    "en": "A tale of two cities"
+  },
+  {
+    "key": "germany.999.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Following the stunning victory of German forces, the time has come to destroy the last vestiges of Bolshevist rule in Europe. Even now, the names of Stalin and Lenin disgrace two major cities in the new German Lebensraum, mocking the soldiers who gave their lives to take them. \\n\\nThe \"Association of Veterans of the Weltkrieg\" have presented the government with a suggestion to rectify this horrible state of affairs."
+  },
+  {
+    "key": "germany.1041.t",
+    "version": "",
+    "type": "title",
+    "en": "[FROM.GetNameDefCap] Demands Sudetenland"
+  },
+  {
+    "key": "germany.1041.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Despite the recent upheaval in Czech borders, [FROM.GetAdjective] foreign policy has remained unwavering. [FROM.GetAdjective] diplomats have submitted an ultimatum to us - hand over Sudetenland, or war will be declared."
+  },
+  {
+    "key": "germany.1041.desc_ally_or_subject",
+    "version": "",
+    "type": "desc",
+    "en": "Despite the recent upheaval in Czech borders, [FROM.GetAdjective] foreign policy has remained unwavering. [FROM.GetAdjective] diplomats have submitted their territorial demands to us, expecting us to hand over Sudetenland without delay."
+  },
+  {
+    "key": "germany.1042.t",
+    "version": "",
+    "type": "title",
+    "en": "[FROM.GetNameDefCap] Submits"
+  },
+  {
+    "key": "germany.1042.desc_default",
+    "version": "",
+    "type": "desc",
+    "en": "[ROOT.GetAdjective] might knows no bounds - the Sudetenland territory previously in the [FROM.GetAdjective] sphere of influence has now been transferred to us. [FROM.GetNameDefCap] remains out of our sights. For now."
+  },
+  {
+    "key": "germany.1042.desc_ally",
+    "version": "",
+    "type": "desc",
+    "en": "[ROOT.GetAdjective] might knows no bounds - the Sudetenland territory previously in the [FROM.GetAdjective] sphere of influence has now been transferred to us. It didn't take long for [FROM.GetLeader] and the [FROM.GetAdjective] diplomats to realize that this is the best for the [ROOT.GetFactionName]."
+  },
+  {
+    "key": "germany.1042.desc_subject",
+    "version": "",
+    "type": "desc",
+    "en": "[ROOT.GetAdjective] might knows no bounds - the Sudetenland territory previously under [FROM.GetAdjective] control has now been transferred to us. Our puppet ruler in [FROM.GetNameDef], [FROM.GetLeader], made sure that local authorities and [FROM.GetAdjective] organizations complied with the treaty without objection."
+  },
+  {
+    "key": "germany.1043.t",
+    "version": "",
+    "type": "title",
+    "en": "[FROM.GetNameDefCap] Refuses Demands"
+  },
+  {
+    "key": "germany.1043.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Despite the imbalance of power, [FROM.GetAdjective] diplomats have refused our demands for the cession of the Sudetenland. It is certain that war must follow."
+  },
+  {
+    "key": "germany.1043.desc_ally",
+    "version": "",
+    "type": "desc",
+    "en": "Despite being in the best interest of all the members of the [ROOT.GetFactionName], [FROM.GetAdjective] diplomats have refused our demands for the cession of the Sudetenland. There isn't much that can be done now, given the need to respect the autonomy of our allies."
+  },
+  {
+    "key": "germany.1050.t",
+    "version": "",
+    "type": "title",
+    "en": "Death of the Führer"
+  },
+  {
+    "key": "germany.1050.desc",
+    "version": "",
+    "type": "desc",
+    "en": "The Führer, $GER_adolf_hitler$, has been found dead in his bunker. With enemy forces closing in, it seems the Führer decided to take his own life rather than risk capture. In order to prevent demoralization of the troops, our propaganda outlets are being briefed that Hitler died fighting heroically to his last breath in the face of overwhelming enemy forces. However, our more immediate issue is who will step in to replace the Führer?"
+  },
+  {
+    "key": "AAT_germany.1.t",
+    "version": "",
+    "type": "title",
+    "en": "[FROM.GetNameDefCap] requests resource rights"
+  },
+  {
+    "key": "AAT_germany.2.t",
+    "version": "",
+    "type": "title",
+    "en": "[FROM.GetName] rejects our deal"
+  },
+  {
+    "key": "AAT_germany.2.desc",
+    "version": "",
+    "type": "desc",
+    "en": "[FROM.GetName] has rejected our offer, stating that it is currently not in their best interest at this moment.\\nThey emphasize that there is no ill will meant against us, but that they have other priorities at this moment."
+  },
+  {
+    "key": "AAT_germany.3.t",
+    "version": "",
+    "type": "title",
+    "en": "[FROM.GetName] accepts our deal"
+  },
+  {
+    "key": "AAT_germany.3.desc",
+    "version": "",
+    "type": "desc",
+    "en": "[FROM.GetName] has accepted our deal, something that will surely benefit us both. Lets hope that this profitable arrangement is followed by many more"
+  },
+  {
+    "key": "AAT_germany.1.desc",
+    "version": "",
+    "type": "desc",
+    "en": "[FROM.GetNameDefCap] has approached us with a deal they claim will benefit both economies. They need our natural resources for their industries and we need their investment to expand ours. A lucrative offer, but is it a devils bargain?"
+  },
+  {
+    "key": "AAT_germany.10.desc",
+    "version": "",
+    "type": "desc",
+    "en": "With the recent occupation of [144.GetName] by [FROM.GetNameDef] and its lackeys, [GER.GetLeader] has increased his pressure on us to trade more resources with them to fuel their war machines. The deal offered isn't entirely one-sided, and rejecting it might see us dragged into the war..."
+  }
+]

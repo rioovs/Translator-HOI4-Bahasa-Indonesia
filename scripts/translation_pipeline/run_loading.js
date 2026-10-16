@@ -1,0 +1,214 @@
+const fs = require('fs');
+
+const tips = {
+  "LOADING_TIP_0": "Sungguh memalukan untuk berpangku tangan sementara orang lain menulis sejarah. Tidak masalah siapa yang menang.\\n- Benito Mussolini",
+  "LOADING_TIP_1": "Untuk menjadikan suatu bangsa hebat, perlu mengirim mereka ke medan perang bahkan jika Anda harus menendang pantat mereka. Itulah yang akan saya lakukan.\\n- Benito Mussolini",
+  "LOADING_TIP_2": "Setiap prajurit harus tahu, sebelum pergi ke medan perang, bagaimana pertempuran kecil yang ia hadapi cocok dengan gambaran yang lebih besar.\\n- Bernard L. Montgomery",
+  "LOADING_TIP_3": "Jika kita kalah perang di udara, kita kalah perang dan kita kalah dengan cepat.\\n- Bernard L. Montgomery",
+  "LOADING_TIP_4": "Bagus untuk mempercayai orang lain, tetapi tidak melakukannya jauh lebih baik.\\n- Benito Mussolini",
+  "LOADING_TIP_5": "Dari sudut pandang filosofis dan doktrinal, saya tidak percaya pada perdamaian abadi.\\n- Benito Mussolini",
+  "LOADING_TIP_6": "Jerapah adalah makhluk tak berhati",
+  "LOADING_TIP_7": "Selama ada negara-negara berdaulat yang memiliki kekuatan besar, perang tak dapat dihindari.\\n- Albert Einstein",
+  "LOADING_TIP_8": "Mereka yang memilih tidak menentukan apa pun. Mereka yang menghitung suara menentukan segalanya.\\n- Joseph Stalin",
+  "LOADING_TIP_9": "Sejarah menunjukkan bahwa tidak ada tentara yang tak terkalahkan dan tidak pernah ada.\\n- Joseph Stalin",
+  "LOADING_TIP_10": "Paus! Berapa banyak divisi yang dia miliki?\\n- Joseph Stalin",
+  "LOADING_TIP_11": "Kegembiraan adalah ciri paling menonjol dari Uni Soviet.\\n- Joseph Stalin",
+  "LOADING_TIP_12": "Satu-satunya kekuatan nyata keluar dari senapan panjang.\\n- Joseph Stalin",
+  "LOADING_TIP_13": "Aliansi apa pun yang tujuannya bukan untuk melancarkan perang adalah tak masuk akal dan tak berguna.\\n- Adolf Hitler",
+  "LOADING_TIP_14": "Pembohong besar juga adalah pesulap hebat.\\n- Adolf Hitler",
+  "LOADING_TIP_15": "Jika hari ini saya berdiri di sini sebagai seorang revolusioner, itu adalah sebagai revolusioner melawan Revolusi.\\n- Adolf Hitler",
+  "LOADING_TIP_16": "Jika Anda mengatakan kebohongan yang cukup besar dan mengatakannya cukup sering, itu akan dipercaya.\\n- Adolf Hitler",
+  "LOADING_TIP_17": "Jerman akan menjadi kekuatan dunia atau tidak akan ada sama sekali.\\n- Adolf Hitler",
+  "LOADING_TIP_18": "Kesuksesan terdiri dari melangkah dari kegagalan ke kegagalan tanpa kehilangan antusiasme.\\n- Winston Churchill",
+  "LOADING_TIP_19": "Jika Anda sedang melewati neraka, teruslah berjalan.\\n- Winston Churchill",
+  "LOADING_TIP_20": "Argumen terbaik melawan demokrasi adalah percakapan lima menit dengan pemilih rata-rata.\\n- Winston Churchill",
+  "LOADING_TIP_21": "Di mana pun pertempuran terjadi dalam perang masa depan, pasukan panzer akan memainkan peran yang menentukan.\\n- Heinz Guderian",
+  "LOADING_TIP_22": "Panther dan Tiger Jerman yang baru dapat digunakan sampai mereka mogok tanpa perlu berusaha memperbaikinya. Mereka memiliki mesin, transmisi, dan suspensi yang buruk.\\n- Departemen Persenjataan Tentara Merah",
+  "LOADING_TIP_23": "Tidak ada seorang pun bajingan yang pernah memenangkan perang dengan mati untuk negaranya. Dia memenangkannya dengan membuat bajingan malang lainnya mati untuk negaranya.\\n- George S. Patton",
+  "LOADING_TIP_24": "Rencana bagus yang dijalankan dengan keras sekarang lebih baik daripada rencana sempurna yang dijalankan minggu depan.\\n- George S. Patton",
+  "LOADING_TIP_25": "Pimpin aku, ikuti aku, atau menyingkirlah dari jalanku.\\n- George S. Patton",
+  "LOADING_TIP_26": "Tidak ada seorang pun yang pernah berhasil mempertahankan apa pun, yang ada hanyalah menyerang dan menyerang dan menyerang lagi.\\n- George S. Patton",
+  "LOADING_TIP_27": "Perang mungkin dilakukan dengan senjata, tetapi dimenangkan oleh manusia. Semangat manusialah yang mengikuti dan manusia yang memimpin yang meraih kemenangan.\\n- George S. Patton",
+  "LOADING_TIP_28": "Pertama kali saya melihat jet, saya menembak jatuh pesawat itu.\\n- Chuck Yeager, USAAF",
+  "LOADING_TIP_29": "Theo, Heinrich di sini. Baru saja menembak jatuh dua pengebom. Amunisi habis. Saya akan menabraknya. Auf Wiedersehen, sampai jumpa di Valhalla!\\n- Heinrich Ehrler, Luftwaffe",
+  "LOADING_TIP_30": "Kepemimpinan terdiri dari memilih orang-orang baik dan membantu mereka melakukan yang terbaik.\\n- Chester W. Nimitz",
+  "LOADING_TIP_31": "Apakah operasi yang diusulkan kemungkinan berhasil? Apakah ini dalam ranah kepraktisan dalam hal materi dan pasokan?\\n- Chester W. Nimitz",
+  "LOADING_TIP_32": "Dalam mempersiapkan pertempuran saya selalu menemukan bahwa rencana tidak ada gunanya, tetapi perencanaan sangat diperlukan.\\n- Dwight D. Eisenhower",
+  "LOADING_TIP_33": "Yang penting bukanlah ukuran anjing dalam perkelahian - melainkan ukuran perkelahian di dalam diri anjing itu.\\n- Dwight D. Eisenhower",
+  "LOADING_TIP_34": "Tentu saja ketika kelangsungan hidup terancam, perjuangan meletus antarmanusia, dan perang yang disayangkan antarbangsa terjadi.\\n- Hideki Tojo",
+  "LOADING_TIP_35": "Dalam pertarungan satu lawan satu, pemenangnya adalah dia yang memiliki satu butir peluru lagi di magasennya.\\n- Erwin Rommel",
+  "LOADING_TIP_36": "Saya lebih memilih menjadi palu daripada paron.\\n- Erwin Rommel",
+  "LOADING_TIP_37": "Keringat menghemat darah, darah menyelamatkan nyawa, tetapi otak menyelamatkan keduanya.\\n- Erwin Rommel",
+  "LOADING_TIP_38": "Neville Chamberlain yang malang percaya bahwa dia dapat mempercayai Hitler. Dia salah. Tetapi saya rasa saya tidak salah tentang Stalin.\\n- Winston Churchill, setelah Konferensi Yalta",
+  "LOADING_TIP_39": "Saya yakin ini adalah perdamaian untuk zaman kita.\\n- Neville Chamberlain, 1938 setelah perjanjian Munich.",
+  "LOADING_TIP_40": "Tidak ada pengebom musuh yang dapat mencapai Ruhr. Jika ada yang mencapai Ruhr, nama saya bukan Göring. Anda boleh memanggil saya Meyer.\\n- Hermann Meyer",
+  "LOADING_TIP_41": "Kita hanya perlu menendang pintunya dan seluruh struktur yang busuk itu akan runtuh.\\n- Adolf Hitler (tentang Uni Soviet)",
+  "LOADING_TIP_42": "Saya dapat mengamuk liar selama enam hingga dua belas bulan pertama perang melawan Amerika Serikat dan Inggris Raya. Setelah itu, saya tidak memiliki harapan untuk berhasil.\\n- Isoroku Yamamoto",
+  "LOADING_TIP_43": "Jika kita tiba di ladang ranjau, infanteri kita menyerang persis seperti ladang itu tidak ada di sana.\\n- Georgy Zhukov",
+  "LOADING_TIP_44": "Raksasa Rusia telah diremehkan oleh kita... setiap kali selusin divisi dihancurkan, orang Rusia menggantinya dengan selusin lainnya.\\n- Franz Halder",
+  "LOADING_TIP_45": "NUTS!\\n- Anthony C. McAuliffe, menanggapi tuntutan menyerah dari Jerman",
+  "LOADING_TIP_46": "Hari ini kami. Besok adalah giliran Anda.\\n- Haile Selassie I, 1936",
+  "LOADING_TIP_47": "Jangan mundur selangkah pun!\\n- Perintah Soviet No. 227",
+  "LOADING_TIP_48": "Tora! Tora! Tora!\\n- Mitsuo Fuchida, 7 Desember 1941",
+  "LOADING_TIP_49": "Namamu tidak dikenal. Jasamu abadi.\\n- Makam Prajurit Tak Dikenal (Moskow)",
+  "LOADING_TIP_50": "Di mana, diulangi, di mana Gugus Tugas Tiga Puluh Empat? Dunia bertanya-tanya.\\n- CINCPAC, Pertempuran Teluk Leyte",
+  "LOADING_TIP_51": "Situasi perang telah berkembang belum tentu menguntungkan bagi Jepang.\\n- Kaisar Hirohito, 1945",
+  "LOADING_TIP_52": "Kita seharusnya lebih tahu setelah perang pertama.\\n- Gerd von Rundstedt",
+  "LOADING_TIP_53": "Keluasan Rusia melahap kita.\\n- Gerd von Rundstedt",
+  "LOADING_TIP_54": "Saya bertanya kepada Anda, apakah Anda menginginkan perang total? Jika perlu, apakah Anda menginginkan perang yang lebih total dan radikal daripada apa pun yang bahkan dapat kita bayangkan?\\n- Joseph Goebbels",
+  "LOADING_TIP_55": "Satu pukulan dari tentara Jerman dan satu lagi dari tentara Soviet mengakhiri produk buruk Versailles ini.\\n- Vyacheslav Molotov (setelah jatuhnya Polandia)",
+  "LOADING_TIP_56": "Coret satu kapal induk! Dixon ke kapal induk: coret satu kapal induk!\\n- Robert E. Dixon, Pertempuran Laut Koral",
+  "LOADING_TIP_57": "Bukankah ini mengerikan? Di sinilah kita, dua perwira Staf Umum Jerman, mendiskusikan cara terbaik untuk membunuh panglima tertinggi kita.\\n- Henning von Tresckow",
+  "LOADING_TIP_58": "Hitler adalah seorang darwis penari. Dia harus ditembak mati.\\n- Henning von Tresckow",
+  "LOADING_TIP_59": "Nazi memasuki perang ini di bawah khayalan kekanak-kanakan bahwa mereka akan mengebom semua orang lain, dan tidak ada yang akan mengebom mereka.\\n- Arthur 'Bomber' Harris",
+  "LOADING_TIP_60": "Jika Hitler menginvasi Neraka, saya setidaknya akan membuat rujukan yang baik tentang iblis di House of Commons.\\n- Winston Churchill, 21 Juni 1941",
+  "LOADING_TIP_61": "Jadi bajingan itu sudah mati? Sayang sekali kita tidak menangkapnya hidup-hidup!\\n- Joseph Stalin (saat mendengar bunuh diri Hitler)",
+  "LOADING_TIP_62": "Kita telah dikalahkan. Kita terpukul, kita telah kalah dalam pertempuran.\\n- Paul Reynaud, 15 Mei 1940",
+  "LOADING_TIP_63": "Saya hanya butuh beberapa ribu orang mati agar saya bisa duduk di konferensi perdamaian sebagai orang yang telah bertempur.\\n- Benito Mussolini",
+  "LOADING_TIP_64": "Prancis telah berbohong kepada Polandia dengan mengatakan mereka akan menyerang. Tidak ada rencana sama sekali tentang itu.\\n- Edmund Ironside",
+  "LOADING_TIP_65": "Mengapa Mati demi Danzig?\\n- Slogan Anti-Perang Prancis, 1939",
+  "LOADING_TIP_66": "Ada sesuatu yang palsu tentang perang ini.\\n- Senator AS William Borah, 1939",
+  "LOADING_TIP_67": "Swiss memiliki rakyat dan sistem politik yang paling menjijikkan dan menyedihkan. Orang Swiss adalah musuh bebuyutan Jerman baru.\\n- Adolf Hitler",
+  "LOADING_TIP_68": "Buah kemenangan jatuh ke mulut kita terlalu cepat.\\n- Kaisar Hirohito",
+  "LOADING_TIP_69": "Kalian semua akhirnya akan menyemir sepatu orang Jerman!\\n- Italo Balbo",
+  "LOADING_TIP_70": "Tenggelamkan, bakar, tangkap, hancurkan. Jangan biarkan apa pun lewat.\\n- Andrew Cunningham, Pertempuran Tunisia",
+  "LOADING_TIP_71": "Saya rasa kita mungkin melangkah satu jembatan terlalu jauh.\\n- Frederick Browning (sebelum Operasi Market Garden)",
+  "LOADING_TIP_72": "Syukurlah ada Angkatan Darat Prancis.\\n- Winston Churchill, 1933",
+  "LOADING_TIP_73": "Ketika Anda melihat ular derik siap menyerang, Anda tidak menunggu sampai ia mematuk untuk meremukkannya.\\n- Franklin D. Roosevelt",
+  "LOADING_TIP_74": "Aturan belum tentu suci, prinsip-prinsip yang suci.\\n- Franklin D. Roosevelt",
+  "LOADING_TIP_75": "Orang-orang yang lapar dan menganggur adalah bahan dasar terciptanya kediktatoran.\\n- Franklin D. Roosevelt",
+  "LOADING_TIP_76": "Seorang pria harus waspada sepanjang waktu jika dia berharap untuk terus bernapas. Jika tidak, seorang bajingan Jerman akan menyelinap di belakangnya dan memukulinya sampai mati dengan kaus kaki penuh kotoran.\\n- George S. Patton",
+  "LOADING_TIP_77": "Benteng, artileri, bantuan asing - tidak akan ada nilainya, kecuali prajurit biasa tahu bahwa DIALAH yang menjaga negaranya.\\n- Carl Gustaf Emil Mannerheim",
+  "LOADING_TIP_78": "Melalui lumpur dan darah menuju padang hijau di seberang sana.\\n- Moto tidak resmi Korps Lapis Baja Kanada",
+  "LOADING_TIP_79": "Ada rasa penasaran umum di Armada Inggris untuk mengetahui apakah orang Italia berada pada tingkat yang sama seperti pada perang terakhir atau apakah mereka telah menurun sama sekali.\\n- Winston Churchill (atas deklarasi perang Italia)",
+  "LOADING_TIP_80": "Dan kita akan melawan mereka dengan ujung pecahan botol bir karena hanya itulah yang kita miliki!\\n- Winston Churchill (segera setelah berjanji untuk bertempur di ladang dan di jalanan)",
+  "LOADING_TIP_81": "Pengalaman menunjukkan bahwa serangan terhadap tank dengan senjata jarak dekat oleh pria yang cukup bertekad pada dasarnya akan selalu berhasil.\\n- Manual antitank Grup Angkatan Darat Tengah Jerman",
+  "LOADING_TIP_82": "Beri saya lima puluh DC-3 dan orang Jepang boleh mengambil Jalur Burma.\\n- Chiang Kai-Shek",
+  "LOADING_TIP_83": "Politik adalah perang tanpa pertumpahan darah, sedangkan perang adalah politik dengan pertumpahan darah.\\n- Mao Zedong",
+  "LOADING_TIP_84": "Pertahankan orang, kehilangan tanah: tanah bisa direbut kembali. Pertahankan tanah, kehilangan orang: tanah dan orang keduanya hilang.\\n- Mao Zedong",
+  "LOADING_TIP_85": "Saya lebih memilih mati di rawa Rumania Raya daripada di surga Rumania kecil.\\n- Ion Antonescu",
+  "LOADING_TIP_86": "Orang tidak penting, hanya apa yang mereka wakili.\\n- Ion Antonescu",
+  "LOADING_TIP_87": "Di masa perang, kebenaran begitu berharga sehingga dia harus selalu dikawal oleh pengawal kebohongan.\\n- Winston Churchill",
+  "LOADING_TIP_88": "Ditaklukkan hari ini oleh kekuatan mekanis, di masa depan kita akan mampu mengatasi dengan kekuatan mekanis yang lebih unggul. Nasib dunia bergantung padanya.\\n- Charles de Gaulle",
+  "LOADING_TIP_89": "Isak tangis panjang biola musim gugur melukai hatiku dengan kelesuan yang monoton.\\n- Transmisi bersandi SOE ke perlawanan Prancis",
+  "LOADING_TIP_90": "Negara seperti Swiss, yang tidak lebih dari jerawat di wajah Eropa, tidak dapat dibiarkan berlanjut.\\n- Adolf Hitler",
+  "LOADING_TIP_91": "Mereka yang dapat memenangkan perang dengan baik jarang dapat membuat perdamaian yang baik, dan mereka yang dapat membuat perdamaian yang baik tidak akan pernah memenangkan perang.\\n- Winston Churchill",
+  "LOADING_TIP_92": "Seorang peredam konflik adalah orang yang memberi makan buaya, berharap buaya itu akan memakannya paling akhir.\\n- Winston Churchill",
+  "LOADING_TIP_93": "Siapa pun yang mengatakan pena lebih kuat daripada pedang jelas belum pernah berhadapan dengan senjata otomatis.\\n- Douglas MacArthur",
+  "LOADING_TIP_94": "Antara saya akan dianugerahi medali atau saya akan diadili di mahkamah militer. Tembak!\\n- Birger Eriksen",
+  "LOADING_TIP_95": "Dalam membangunkan harimau, gunakan tongkat panjang.\\n- Mao Zedong",
+  "LOADING_TIP_96": "Jika semua orang berpikir sama, maka ada orang yang tidak berpikir.\\n- George S. Patton",
+  "LOADING_TIP_97": "Kita bisa memanfaatkan beberapa silet itu, Herr Reichsmarschall.\\n- Erwin Rommel, setelah Göring mengklaim orang Amerika hanya tahu cara membuat silet",
+  "LOADING_TIP_98": "Saya tidak dapat meramalkan kepada Anda tindakan Rusia. Itu adalah teka-teki yang terbungkus dalam misteri di dalam suatu enigma.\\n- Winston Churchill",
+  "LOADING_TIP_99": "Bagaimanapun indahnya strategi, sesekali Anda harus melihat hasilnya.\\n- Winston Churchill",
+  "LOADING_TIP_100": "Sejak perang Italia-Yunani, orang tidak lagi mengatakan \\\"orang Yunani bertarung seperti pahlawan\\\", melainkan \\\"pahlawan bertarung seperti orang Yunani\\\".\\n- The Montreal Daily Star, 1942",
+  "LOADING_TIP_101": "Patriotisme adalah ketika cinta untuk rakyat Anda didahulukan. Nasionalisme adalah ketika kebencian terhadap orang lain selain bangsa Anda sendiri didahulukan.\\n- Charles de Gaulle",
+  "LOADING_TIP_102": "Itu harus berupa perdamaian tanpa kemenangan. Kemenangan berarti perdamaian yang dipaksakan kepada pihak yang kalah, syarat pihak yang menang diberlakukan pada yang kalah. Itu akan diterima dalam penghinaan dan meninggalkan kebencian.\\n- Woodrow Wilson, 1917",
+  "LOADING_TIP_103": "Jika Anda menginginkan keamanan total, pergilah ke penjara. Di sana Anda diberi makan, pakaian, perawatan medis, dan sebagainya. Satu-satunya yang kurang adalah kebebasan.\\n- Dwight D. Eisenhower",
+  "LOADING_TIP_104": "Tentara adalah sebuah tim. Hidup, makan, tidur, dan bertempur sebagai sebuah tim. Omong kosong pahlawan individual ini tidak ada gunanya.\\n- George S. Patton",
+  "LOADING_TIP_105": "Jangan pernah memberi tahu orang cara melakukan sesuatu. Beri tahu mereka apa yang harus dilakukan, dan mereka akan mengejutkan Anda dengan kecerdikan mereka.\\n- George S. Patton",
+  "LOADING_TIP_106": "Semua orang takut. Semakin cerdas mereka, semakin mereka takut.\\n- George S. Patton",
+  "LOADING_TIP_107": "Kebaikan manusia tidak pernah melemahkan stamina atau melembutkan keteguhan orang-orang yang bebas. Suatu bangsa tidak harus kejam untuk menjadi tangguh.\\n- Franklin D. Roosevelt",
+  "LOADING_TIP_108": "Seorang diplomat yang tulus ibarat air kering atau besi kayu.\\n- Joseph Stalin",
+  "LOADING_TIP_109": "Sepanjang sejarah, kelambanan mereka yang seharusnya bisa bertindak; ketidakpedulian mereka yang seharusnya lebih tahu; itulah yang memungkinkan kejahatan menang.\\n- Haile Selassie I",
+  "LOADING_TIP_110": "Warsawa tidak menunggu kata-kata pujian hampa, ungkapan pengakuan, atau jaminan simpati. Warsawa menunggu senjata dan amunisi.\\n- Józef Piłsudski",
+  "LOADING_TIP_111": "Ketidaktahuan dan obskurantisme tidak pernah menghasilkan apa pun selain kawanan budak bagi tirani.\\n- Emiliano Zapata",
+  "LOADING_TIP_112": "Saya lebih baik mati berdiri daripada hidup berlutut.\\n- Emiliano Zapata",
+  "LOADING_TIP_113": "Tuan-tuan, Anda telah bertempur seperti singa dan dipimpin oleh keledai.\\n- Erwin Rommel, kepada perwira Inggris yang ditawan selama pengepungan Tobruk",
+  "LOADING_TIP_114": "Masalah dengan pemilihan umum yang bebas adalah Anda tidak pernah tahu bagaimana hasilnya nanti.\\n- Vyacheslav Molotov",
+  "LOADING_TIP_115": "Apa pedulinya mayat tentang siapa yang benar dan siapa yang salah?\\n- Manuel Azaña",
+  "LOADING_TIP_116": "Tugas Anda tidak akan mudah. Musuh Anda terlatih baik, diperlengkapi dengan baik, dan berpengalaman dalam pertempuran. Dia akan bertarung dengan ganas.\\n- Dwight D. Eisenhower, Juni 1944",
+  "LOADING_TIP_117": "Cara tercepat mengakhiri perang adalah dengan mengalah.\\n- George Orwell",
+  "LOADING_TIP_118": "Kami tidak ingin ada lagi kecurangan pemilu, atau lebih banyak kebohongan. Kami tidak ingin mereka yang tidak bekerja hidup dari mereka yang bekerja.\\n- Juan Perón",
+  "LOADING_TIP_119": "Itu dia Scheer sialan itu! Buka tembakan ke arahnya!\\n- Frederick Secker Bell",
+  "LOADING_TIP_120": "Kita tidak boleh dikalahkan oleh ketakutan akan bahaya yang sedang kita persiapkan untuk kita lawan. Satu-satunya hal yang harus kita takuti adalah ketakutan itu sendiri.\\n- Franklin D. Roosevelt",
+  "LOADING_TIP_121": "Kebebasan kita telah menunjukkan kemampuannya untuk bertahan dari perang, tetapi kebebasan kita tidak akan pernah bertahan dari penyerahan diri.\\n- Franklin D. Roosevelt",
+  "LOADING_TIP_122": "Hanya kebodohan terbesar yang dapat membuat seseorang memikirkan sebuah invasi. Tidak akan ada yang pernah mendarat di sini, bahkan seorang prajurit pun tidak.\\n- Benito Mussolini, Sisilia, 1937",
+  "LOADING_TIP_123": "Saya mengangkat senjata untuk melawan kediktatoran dalam bentuk nazisme dan fasisme. Jika saya harus mati dalam melawan bentuk kediktatoran baru, saya akan mati.\\n- Draža Mihailović",
+  "LOADING_TIP_124": "Saya tidak tahu dengan senjata apa Perang Dunia III akan diperangi, tetapi Perang Dunia IV akan diperangi dengan kayu dan batu.\\n- Albert Einstein",
+  "LOADING_TIP_125": "Saya adalah pemimpin dari satu negara yang memiliki dua alfabet, tiga bahasa, empat agama, lima kebangsaan, enam republik, dikelilingi oleh tujuh tetangga, negara tempat tinggal delapan minoritas etnis.\\n- Josip Broz Tito",
+  "LOADING_TIP_126": "Bagaimana sejarah masa depan akan menilai rakyat Jerman, jika bahkan segelintir orang tidak memiliki keberanian untuk mengakhiri penjahat itu?\\n- Henning von Tresckow",
+  "LOADING_TIP_127": "Seluruh dunia akan mencerca kita sekarang, tetapi saya masih sangat yakin bahwa kita melakukan hal yang benar. Hitler adalah musuh bebuyutan bukan hanya bagi Jerman tetapi juga bagi dunia.\\n- Henning von Tresckow",
+  "LOADING_TIP_128": "Musuh telah mulai menggunakan bom baru yang paling kejam, yang daya rusaknya tak terhitung, merenggut banyak nyawa tak berdosa.\\n- Kaisar Hirohito, 1945",
+  "LOADING_TIP_129": "Aturan 1, pada halaman 1 dari buku perang, adalah: \\\"Jangan berbaris menuju Moskow\\\". Berbagai orang telah mencobanya, dan itu tidak berakhir baik.\\n- Bernard L. Montgomery",
+  "LOADING_TIP_130": "Kebohongan bahwa Jerman akan menerkam Austria besok atau lusa sedang disebarkan lagi.\\n- Adolf Hitler, 1936",
+  "LOADING_TIP_131": "Prajurit Jerman telah mengejutkan dunia; Bersagliere Italia telah mengejutkan prajurit Jerman.\\n- Erwin Rommel",
+  "LOADING_TIP_132": "Ini adalah tuntutan teritorial terakhir yang saya buat di Eropa.\\n- Adolf Hitler, tentang Sudetenland pada tahun 1938",
+  "LOADING_TIP_133": "Kita tidak dalam posisi untuk menahan perang statis yang berkepanjangan. Di mana pun sekutu memusatkan pasukan mereka, mereka akan menerobos.\\n- Gerd von Rundstedt",
+  "LOADING_TIP_134": "Jika kita berperang dengan Amerika Serikat, kita tidak akan memiliki harapan untuk menang kecuali armada AS di perairan Hawaii dapat dihancurkan.\\n- Isoroku Yamamoto, 1941",
+  "LOADING_TIP_135": "Anda punya musuh? Bagus. Itu berarti Anda pernah membela sesuatu, suatu waktu dalam hidup Anda.\\n- Winston Churchill",
+  "LOADING_TIP_136": "Ini bukan perdamaian. Ini adalah gencatan senjata selama dua puluh tahun.\\n- Ferdinand Foch, 1919",
+  "LOADING_TIP_137": "Anda bisa membayar harga yang terlalu mahal, bahkan demi perdamaian.\\n- Michael Joseph Savage tentang kebijakan penenangan Chamberlain",
+  "LOADING_TIP_138": "Kekuatan adalah satu-satunya bahasa yang mereka pahami, seperti para perundung.\\n- Franklin D. Roosevelt, tentang Adolf Hitler dan Benito Mussolini",
+  "LOADING_TIP_139": "Dikatakan bahwa demokrasi adalah bentuk pemerintahan terburuk kecuali semua bentuk lain yang telah dicoba dari waktu ke waktu.\\n- Winston Churchill",
+  "LOADING_TIP_140": "Dunia tidak akan dihancurkan oleh mereka yang berbuat jahat, tetapi oleh mereka yang menyaksikan mereka tanpa melakukan apa pun.\\n- Albert Einstein",
+  "LOADING_TIP_141": "Bahaya ekstrem bagi umat manusia yang melekat dalam usulan tersebut sepenuhnya melebihi keuntungan militer apa pun.\\n- Robert Oppenheimer tentang senjata termonuklir, 1949",
+  "LOADING_TIP_142": "Kita tahu dunia tidak akan lagi sama. Beberapa orang tertawa, beberapa orang menangis. Sebagian besar orang terdiam.\\n- Robert Oppenheimer, setelah uji coba Trinity",
+  "LOADING_TIP_143": "Sekarang aku menjadi Maut, sang penghancur dunia.\\n- Robert Oppenheimer, setelah uji coba Trinity",
+  "LOADING_TIP_144": "Setiap pria merasa takut dalam pertempuran pertamanya. Jika dia mengatakan tidak, dia pembohong.\\n- George S. Patton",
+  "LOADING_TIP_145": "Pahlawan sejati adalah orang yang bertarung meskipun dia merasa takut.\\n- George S. Patton",
+  "LOADING_TIP_146": "Ambillah risiko yang diperhitungkan. Itu sangat berbeda dari tindakan gegabah.\\n- George S. Patton",
+  "LOADING_TIP_147": "Ada empat ratus kuburan yang ditandai rapi di Sisilia, semuanya karena satu orang tertidur saat bertugas. Tetapi itu adalah kuburan orang Jerman, karena kami memergoki bajingan itu tertidur sebelum perwiranya memergokinya.\\n- George S. Patton",
+  "LOADING_TIP_148": "Saya telah melihat perang. Saya telah melihat darah mengalir dari orang yang terluka. Saya telah melihat orang mati di dalam lumpur. Saya telah melihat kota-kota hancur. Saya membenci perang.\\n- Franklin D. Roosevelt",
+  "LOADING_TIP_149": "Hiduplah Kristus, sang raja! Hiduplah Austria!\\n- Kata-kata terakhir Heinrich Maier, 1945",
+  "LOADING_TIP_150": "Saya benar-benar menolak Fasisme Nazi untuk Austria... Gerakan non-Austria ini menjanjikan segalanya kepada semua orang, tetapi sebenarnya berniat menundukkan rakyat Austria secara paling kejam!\\n- Otto von Habsburg",
+  "LOADING_TIP_151": "Sama sekali tidak ada keraguan untuk menerima perwakilan Nazi di kabinet Austria.\\n- Kurt Schuschnigg, 1938",
+  "LOADING_TIP_152": "Raja adalah otoritas yang sama fiksinya dengan Tuhan. Fakta ini menjadikan ateisme dan republikanisme dua sisi dari mata uang yang sama.\\n- Noe Zhordania",
+  "LOADING_TIP_153": "Ada dekade-dekade di mana tidak ada yang terjadi; dan ada minggu-minggu di mana dekade-dekade terjadi.\\n- Vladimir Lenin",
+  "LOADING_TIP_154": "Pengibaran bendera di Suribachi itu berarti Korps Marinir untuk lima ratus tahun ke depan.\\n- Menteri Angkatan Laut James Forrestal, Iwo Jima, 1945",
+  "LOADING_TIP_155": "Oleh karena itu marilah kita mempersiapkan diri kita untuk tugas-tugas kita, dan membawakan diri sedemikian rupa sehingga, jika Imperium Britania dan Persemakmurannya bertahan selama seribu tahun, orang-orang akan tetap berkata, 'Ini adalah saat terbaik mereka.'\\n- Winston Churchill",
+  "LOADING_TIP_156": "Saya sedang melewati saat tersedih dalam hidup saya, karena saya sedang menjalankan tugas yang paling menyakitkan, tugas yang bagi saya lebih buruk daripada kematian.\\n- Jan Syrový, 1938 setelah menerima perjanjian Munich.",
+  "LOADING_TIP_157": "Republik adalah anak saya. Dia dalam bahaya tenggelam. Saya berusaha membuatnya tetap terapung dan kita tersapu arus sungai. Saya meminta bantuan kepada Inggris dan Amerika. Mereka berdiri di tepi dan mencemooh saya.\\n- Sun Yat-sen",
+  "LOADING_TIP_158": "V adalah huruf pertama dari kata 'Victoire' dalam bahasa Prancis, dan 'Vrijheid' dalam bahasa Flemish... Kemenangan dari teman baik kita orang Inggris. Kata mereka untuk Kemenangan juga dimulai dengan V.\\n- Victor de Laveleye, kampanye V for Victory",
+  "LOADING_TIP_159": "Rakyat Filipina: Saya telah kembali.\\n- Douglas MacArthur",
+  "LOADING_TIP_160": "Perjuangan demi kebebasan bukanlah perjuangan satu orang, ataupun satu bangsa. Ini adalah perjuangan kolektif dari semua orang yang menolak mengenakan rantai seorang majikan.\\n- Sergio Osmeña",
+  "LOADING_TIP_161": "Coastwatchers menyelamatkan Guadalcanal, dan Guadalcanal menyelamatkan Pasifik Selatan.\\n- William Halsey",
+  "LOADING_TIP_162": "Jika saya harus merebut neraka, saya akan menggunakan orang Australia untuk merebutnya dan orang Selandia Baru untuk menahannya.\\n- Erwin Rommel"
+};
+
+const srcPath = 'F:/Apps/Hearts_of_Iron_IV/Hearts of Iron IV/localisation/english/loading_tips_l_english.yml';
+const targetPath = 'f:/New Coding/rea-hoi4-indonesia/localisation/braz_por/loading_tips_l_braz_por.yml';
+
+const srcContent = fs.readFileSync(srcPath, 'utf8');
+const lines = srcContent.split(/\r?\n/);
+
+const outLines = [];
+let translatedCount = 0;
+let missing = 0;
+
+for (let i = 0; i < lines.length; i++) {
+  const line = lines[i];
+  if (i === 0) {
+    outLines.push('l_braz_por:');
+    continue;
+  }
+  if (!line.trim()) {
+    outLines.push(line);
+    continue;
+  }
+
+  const m = line.match(/^(\s*)([A-Za-z0-9_]+):0?\s*"(.*)"\s*$/);
+  if (m) {
+    const indent = m[1];
+    const key = m[2];
+    if (tips[key] !== undefined) {
+      outLines.push(`${indent}${key}: "${tips[key]}"`);
+      translatedCount++;
+    } else {
+      console.log('Missing key:', key);
+      missing++;
+      outLines.push(line);
+    }
+  } else {
+    outLines.push(line);
+  }
+}
+
+console.log(`Translated: ${translatedCount}, Missing: ${missing}`);
+
+const bom = Buffer.from([0xEF, 0xBB, 0xBF]);
+const textBuf = Buffer.from(outLines.join('\n'), 'utf8');
+const fullBuf = Buffer.concat([bom, textBuf]);
+
+fs.writeFileSync(targetPath, fullBuf);
+console.log(`Wrote ${fullBuf.length} bytes with UTF-8 BOM to ${targetPath}`);

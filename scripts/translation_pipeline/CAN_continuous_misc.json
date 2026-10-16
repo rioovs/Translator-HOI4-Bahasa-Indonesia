@@ -1,0 +1,218 @@
+[
+  {
+    "line": 1635,
+    "key": "CAN_support_the_world_revolution_desc",
+    "val": "Do you hear the people sing? It's the Internationale! Canada will endeavor to liberate the proletariat from their shackles.",
+    "eng_count": 7
+  },
+  {
+    "line": 1637,
+    "key": "CAN_rcaf_station_borden_desc",
+    "val": "Canada's air corps was born in Borden, Ontario, and that base should be used to train a new generation of pilots.",
+    "eng_count": 8
+  },
+  {
+    "line": 1639,
+    "key": "CAN_we_have_the_hurricane_desc",
+    "val": "The United Kingdom has given us permission to build a line of Hurricane fighters. These planes will be the core of our air wing.",
+    "eng_count": 10
+  },
+  {
+    "line": 1641,
+    "key": "CAN_the_pacific_coast_air_defence_radar_system_desc",
+    "val": "The coast of British Columbia is rocky and sparsely populated, except in the south. Kita akan have to rely on early warning systems like a chain of radar stations to detect anything unusual coming over the Pacific.",
+    "eng_count": 12
+  },
+  {
+    "line": 1643,
+    "key": "CAN_commonwealth_air_training_plan_desc",
+    "val": "Air combat training will be coordinated with our Commonwealth and Dominion allies. This is more efficient, and can be done en masse and safely at our airfields.",
+    "eng_count": 14
+  },
+  {
+    "line": 1645,
+    "key": "CAN_fund_fairchilds_development_desc",
+    "val": "The Fairchild aircraft factory in Quebec should be given the resources it needs to increase bomber part production. We should be able to increase employment in the plant by thousands.",
+    "eng_count": 13
+  },
+  {
+    "line": 1647,
+    "key": "CAN_cookie_carriers_desc",
+    "val": "The strategic air war requires heavy bombers to drop tasty treats on our enemies.",
+    "eng_count": 4
+  },
+  {
+    "line": 1649,
+    "key": "CAN_the_sabre_project_desc",
+    "val": "Jet aircraft will dominate the skies of the future, so we should invest in the production of our own variants of foreign jet planes.",
+    "eng_count": 11
+  },
+  {
+    "line": 1651,
+    "key": "CAN_halifax_shipyards_desc",
+    "val": "Conveniently located opposite Europe, the Halifax docks have been building new ships at a record pace. The Battle of the Atlantic can be won.",
+    "eng_count": 9
+  },
+  {
+    "line": 1653,
+    "key": "CAN_destroyer_effort_desc",
+    "val": "The threat of submarine attacks on supply and troop convoys requires us to focus on the construction of destroyers to hunt and kill these underwater dangers.",
+    "eng_count": 11
+  },
+  {
+    "line": 1655,
+    "key": "CAN_light_cruiser_effort_desc",
+    "val": "Kita akan never be able to build many capital ships, but smaller cruisers, constructed en masse, can still pack a punch.",
+    "eng_count": 3
+  },
+  {
+    "line": 1657,
+    "key": "CAN_heavy_cruiser_effort_desc",
+    "val": "We can build our fleets around heavy cruisers, and have more than enough ports to make this a viable strategy.",
+    "eng_count": 8
+  },
+  {
+    "line": 1659,
+    "key": "CAN_escort_fleet_desc",
+    "val": "Oceans separate us from most of the world's tumults, so if our armies are to fight and be supplied, we need to prioritize escort formations and anti-submarine warfare.",
+    "eng_count": 13
+  },
+  {
+    "line": 1661,
+    "key": "CAN_fleet_in_being_desc",
+    "val": "By building a large naval force, its mere existence can be a threat to our enemies even if we never deploy it. The very thought of our ships sailing forth and striking at their sea lanes forces them to be cautious.",
+    "eng_count": 17
+  },
+  {
+    "line": 1663,
+    "key": "CAN_degauss_ship_hulls_desc",
+    "val": "Kita akan start to degauss our ship hulls, reducing their magnetic signature. This protects them from magnetic mines and reduces the ships’ electronic profile.",
+    "eng_count": 8
+  },
+  {
+    "line": 1665,
+    "key": "CAN_trade_fleet_desc",
+    "val": "Canada is a trading nation. Build more freighters and convoys.",
+    "eng_count": 3
+  },
+  {
+    "line": 1667,
+    "key": "CAN_united_shipyards_desc",
+    "val": "The Montreal dock of United Shipyards has become the primary source for our landing craft and cargo vessels.",
+    "eng_count": 7
+  },
+  {
+    "line": 1669,
+    "key": "CAN_mend_relations_with_the_trotskyites_desc",
+    "val": "Old rifts in the party have divided our people for too long. It is time to embrace these once-trusted exiles and reforge our purpose as the only true beacon of the people's will.",
+    "eng_count": 14
+  },
+  {
+    "line": 1673,
+    "key": "CAN_reject_authoritarianism_desc",
+    "val": "With conflict and division growing around us, it has become apparent that our unique geographical and societal circumstances deter us from the wider socialist movements, and the trappings of rumored authoritarianism that come with them. The people's movement must begin again - with us.",
+    "eng_count": 19
+  },
+  {
+    "line": 1675,
+    "key": "CAN_reactivate_farmers_unity_league_desc",
+    "val": "The Unity League performed important work leading up to our glorious revolution. Now, in our time of desperate need, we must call upon these rural loyalists to aid the state in any way possible.",
+    "eng_count": 10
+  },
+  {
+    "line": 1677,
+    "key": "CAN_liberate_the_workers_of_the_world_desc",
+    "val": "Such is our conviction in the utopia we have built, that our young men and women flock the banner so that our downtrodden comrades in foreign lands - suffering under the yoke of oppressive regimes - might yet have a taste of our thoroughly Canadian freedom.",
+    "eng_count": 18
+  },
+  {
+    "line": 1679,
+    "key": "CAN_canadian_citizenship_act_desc",
+    "val": "As it currently stands, who is and isn't a Canadian citizen is based on British laws, and a Canadian citizen is no different from a British Subject. Kita harus ensure that the Canadian nationals and citizens are no longer simply regarded as sub-classes of the British subject status.",
+    "eng_count": 15
+  },
+  {
+    "line": 1681,
+    "key": "CAN_newfoundland_act_desc",
+    "val": "The regions of Newfoundland and Labrador are close to us both culturally and geographically, yet they continue to be under British rule. It is high time that we put forth a request to unite with the territories, and assist in governing them.",
+    "eng_count": 19
+  },
+  {
+    "line": 1683,
+    "key": "CAN_dominion_rifle_association_desc",
+    "val": "The Dominion of Canada Rifle Association was founded in 1868 and incorporated by an act of parliament in 1900. We should support the expansion of this organization, so that more Canadian men can learn how to handle firearms.",
+    "eng_count": 18
+  },
+  {
+    "line": 2153,
+    "key": "continuous_non_factory_construct_desc",
+    "val": "There is still a lot of slack in our construction industry. By focusing our attention on it, we can achieve a significant improvement in construction speed. Unfortunately, the production of machine tools has proven a major bottleneck in the expansion of our heavy industry, so they won't benefit from efforts in this area. ",
+    "eng_count": 21
+  },
+  {
+    "line": 2155,
+    "key": "continuous_reduce_training_time_desc",
+    "val": "By creating specialized advanced training units within each division, we can deploy even divisions that would previously have been held back to finish training to the front.",
+    "eng_count": 10
+  },
+  {
+    "line": 2163,
+    "key": "continuous_boost_freedom_desc",
+    "val": "By reorganizing our colonial bureaucracy and recruiting native administrators, we will, in time, be able to take charge of our own affairs.",
+    "eng_count": 10
+  },
+  {
+    "line": 2165,
+    "key": "continuous_restrict_freedom_desc",
+    "val": "Our colonial subjects have gotten rather silly ideas about things like \\\"self-determination\\\" or \\\"national independence\\\". It is time to disabuse them of these notions.",
+    "eng_count": 7
+  },
+  {
+    "line": 2167,
+    "key": "continuous_special_facility_desc",
+    "val": "We have the opportunity to improve our research facilities to host more scientists to find the new breakthrough that can change our future warfare.",
+    "eng_count": 12
+  },
+  {
+    "line": 2372,
+    "key": "confirm_cancel_national_focus_desc",
+    "val": "Are you sure you want to cancel the national focus §H$FOCUS_NAME$§!?",
+    "eng_count": 3
+  },
+  {
+    "line": 2379,
+    "key": "ROM_white_squadron_focus_desc",
+    "val": "The White squadron, proposed by Marina Ştirbei - a talented pilot of noble birth - is a service of air ambulances piloted exclusively by women. Merely the notion that rescue might be close at hand could keep our soldiers in high spirits.",
+    "eng_count": 12
+  },
+  {
+    "line": 2389,
+    "key": "CAN_offer_concessions_for_labrador_and_newfoundland_desc",
+    "val": "The British claim dominion over land adjacent to our heartland. While we do not wish for war with a superior foe, they may be willing to consider a less than optimal trade if their situation demands it.",
+    "eng_count": 12
+  },
+  {
+    "line": 2391,
+    "key": "AST_central_bureau_desc",
+    "val": "A Signals & Intelligence bureau coordinated with the US promises to give us a strategic edge in the coming storm. Our expertise in this area should be acknowledged.",
+    "eng_count": 12
+  },
+  {
+    "line": 2393,
+    "key": "HUN_a_new_flagship_desc",
+    "val": "The storied history of our naval tradition has been one of trial, tribulation, and betrayal. In an effort to restore the pride of our heritage, our admirals propose a new flagship to inspire the whole nation.",
+    "eng_count": 16
+  },
+  {
+    "line": 2395,
+    "key": "HUN_dockyards_desc",
+    "val": "With our sights set firmly on the restoration of our borders, we must begin the task of developing a Mediterranean fleet to rival our past glories.",
+    "eng_count": 11
+  },
+  {
+    "line": 2398,
+    "key": "BEL_luxembourg_war_goal_desc",
+    "val": "Luxembourg shares much with Belgium, language, culture and geography. Naturally the two should be united!",
+    "eng_count": 5
+  }
+]

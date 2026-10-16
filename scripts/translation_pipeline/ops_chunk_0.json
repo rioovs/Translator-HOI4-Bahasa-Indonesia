@@ -1,0 +1,562 @@
+[
+  {
+    "line_num": 2,
+    "key": "INTELLIGENCEAGENCYVIEW_TITLE",
+    "ver": "",
+    "val": "Intelligence Agency",
+    "comm": ""
+  },
+  {
+    "line_num": 3,
+    "key": "SPY_MASTER_STATUS_NONE",
+    "ver": "",
+    "val": "There is currently no §HSpy Master§!",
+    "comm": ""
+  },
+  {
+    "line_num": 4,
+    "key": "SPY_MASTER_STATUS_OTHER",
+    "ver": "",
+    "val": "$COUNTRY|H$ is currently the Spy Master of $FACTION|H$.",
+    "comm": ""
+  },
+  {
+    "line_num": 5,
+    "key": "SPY_MASTER_STATUS_YOU",
+    "ver": "",
+    "val": "You are Spy Master",
+    "comm": ""
+  },
+  {
+    "line_num": 6,
+    "key": "BECOME_SPY_MASTER_BUTTON",
+    "ver": "",
+    "val": "Become Spy Master",
+    "comm": ""
+  },
+  {
+    "line_num": 7,
+    "key": "BECOME_SPY_MASTER_ALREADY_MASTER",
+    "ver": "",
+    "val": "§RYou already are $HEADOF$.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 8,
+    "key": "BECOME_SPY_MASTER_FACTION_NEEDED",
+    "ver": "",
+    "val": "§RYou need to be in a faction to become $HEADOF$.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 9,
+    "key": "BECOME_SPY_MASTER_UPGRADES_NEEDED",
+    "ver": "",
+    "val": "§RYou need to have an agency with $NUMBER$ different Branch Upgrades to become $HEADOF$.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 10,
+    "key": "BECOME_SPY_MASTER_NO_SUBJECT",
+    "ver": "",
+    "val": "§RSubjects can not become Spy Master.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 11,
+    "key": "BECOME_SPY_MASTER_COOLDOWN",
+    "ver": "",
+    "val": "§RAnother country has taken ownership of this position in our faction less than $COOLDOWN|H$ days ago. We must wait until $DATE|H$ before being able to take over $HEADOF$.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 12,
+    "key": "BECOME_SPY_MASTER_COST",
+    "ver": "",
+    "val": "It will cost £pol_power $VALUE$ to become $HEADOF|H$.",
+    "comm": ""
+  },
+  {
+    "line_num": 13,
+    "key": "BECOME_SPY_MASTER_COST_FI",
+    "ver": "",
+    "val": "It will cost £faction_initiative_texticon£ $VALUE$ to become $HEADOF|H$.",
+    "comm": ""
+  },
+  {
+    "line_num": 14,
+    "key": "BECOME_SPY_MASTER_DESC",
+    "ver": "",
+    "val": "As §HSpy Master§! you are able to control more Operatives where the amount depends on the size of your Faction.\\nThere can only be one §HSpy Master§! per faction and if your faction already has a §HSpy Master§! they must accept for you to take over.",
+    "comm": ""
+  },
+  {
+    "line_num": 15,
+    "key": "AGENCY_BRANCHES",
+    "ver": "",
+    "val": "Agency Branches",
+    "comm": ""
+  },
+  {
+    "line_num": 16,
+    "key": "AGENCY_BRANCHE_UPGRADES",
+    "ver": "",
+    "val": "Agency Branch Upgrades",
+    "comm": ""
+  },
+  {
+    "line_num": 17,
+    "key": "AGENCY_UPGRADES_DURATION",
+    "ver": "",
+    "val": "Branch Upgrades take $DAYS|H$ days to complete.",
+    "comm": ""
+  },
+  {
+    "line_num": 18,
+    "key": "AGENCY_UPGRADE_CURRENT_EFFECT",
+    "ver": "",
+    "val": "§HCurrent effect:§!\\n",
+    "comm": ""
+  },
+  {
+    "line_num": 19,
+    "key": "AGENCY_UPGRADE_NEXT_LEVEL",
+    "ver": "",
+    "val": "§HNext level:§!\\n",
+    "comm": ""
+  },
+  {
+    "line_num": 20,
+    "key": "AGENCY_UPGRADE_RESEARCHED",
+    "ver": "",
+    "val": "§GUpgrade researched§!",
+    "comm": ""
+  },
+  {
+    "line_num": 21,
+    "key": "AGENCY_UPGRADE_IN_PROGRESS",
+    "ver": "",
+    "val": "§HUpgrade in progress§!",
+    "comm": ""
+  },
+  {
+    "line_num": 22,
+    "key": "AGENCY_UPGRADE_AVAILABLE",
+    "ver": "",
+    "val": "§H§GClick to§! start this upgrade§!",
+    "comm": ""
+  },
+  {
+    "line_num": 23,
+    "key": "AGENCY_UPGRADE_ALREADY_PROGRESS",
+    "ver": "",
+    "val": "§RAnother upgrade is in progress§!",
+    "comm": ""
+  },
+  {
+    "line_num": 24,
+    "key": "AGENCY_CREATED_TITLE",
+    "ver": "",
+    "val": "Agency Created!",
+    "comm": ""
+  },
+  {
+    "line_num": 25,
+    "key": "AGENCY_UPGRADED_TITLE",
+    "ver": "",
+    "val": "Agency Upgraded!",
+    "comm": ""
+  },
+  {
+    "line_num": 26,
+    "key": "AGENCY_NAME",
+    "ver": "",
+    "val": "Intelligence Agency",
+    "comm": ""
+  },
+  {
+    "line_num": 27,
+    "key": "branch_intelligence",
+    "ver": "",
+    "val": "Intelligence",
+    "comm": ""
+  },
+  {
+    "line_num": 28,
+    "key": "branch_defense",
+    "ver": "",
+    "val": "Defense",
+    "comm": ""
+  },
+  {
+    "line_num": 29,
+    "key": "branch_operation",
+    "ver": "",
+    "val": "Operations",
+    "comm": ""
+  },
+  {
+    "line_num": 30,
+    "key": "branch_operative",
+    "ver": "",
+    "val": "Operative Training",
+    "comm": ""
+  },
+  {
+    "line_num": 31,
+    "key": "branch_crypto",
+    "ver": "",
+    "val": "Cryptology Department",
+    "comm": ""
+  },
+  {
+    "line_num": 32,
+    "key": "upgrade_economy_civilian",
+    "ver": "",
+    "val": "Economy/civilian",
+    "comm": ""
+  },
+  {
+    "line_num": 33,
+    "key": "upgrade_economy_civilian_desc",
+    "ver": "",
+    "val": "§LOur agents will be trained to assume the role of civilians in enemy territory and operate within their industrial and civil sectors; gathering intelligence on our enemy's industry and economy.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 34,
+    "key": "upgrade_army_department",
+    "ver": "",
+    "val": "Army Department",
+    "comm": ""
+  },
+  {
+    "line_num": 35,
+    "key": "upgrade_army_department_desc",
+    "ver": "",
+    "val": "§LIntel of enemy military is of paramount importance and it is necessary to establish a department of military intelligence. Our operatives will be trained to infiltrate enemy arms, serving as soldiers and generals and reporting to us the secrets they find behind enemy lines.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 36,
+    "key": "upgrade_naval_department",
+    "ver": "",
+    "val": "Naval Department",
+    "comm": ""
+  },
+  {
+    "line_num": 37,
+    "key": "upgrade_naval_department_desc",
+    "ver": "",
+    "val": "§LThe battle on the seas is a key part of securing victory, and with the advance of naval technologies, it has become vital that we establish a Department of Naval Intelligence.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 38,
+    "key": "upgrade_airforce_department",
+    "ver": "",
+    "val": "Air Force Department",
+    "comm": ""
+  },
+  {
+    "line_num": 39,
+    "key": "upgrade_airforce_department_desc",
+    "ver": "",
+    "val": "§LThe Department of Aerial Intelligence will be a useful branch of our agency; responsible for infiltrating the enemy air force and gathering intel on enemy aircraft movements.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 40,
+    "key": "upgrade_passive_defense",
+    "ver": "",
+    "val": "Passive defense",
+    "comm": ""
+  },
+  {
+    "line_num": 41,
+    "key": "upgrade_passive_defense_desc",
+    "ver": "",
+    "val": "§LThe Home Guard has the potential to be a vital tool to our intelligence. By training our Home Guard and Garrison troops in the ways of espionage and counter intelligence, we shall ensure that we always have a defensive presence at home, even when our experts are otherwise engaged.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 42,
+    "key": "upgrade_anti_partisan",
+    "ver": "",
+    "val": "Anti-partisan",
+    "comm": ""
+  },
+  {
+    "line_num": 43,
+    "key": "upgrade_anti_partisan_desc",
+    "ver": "",
+    "val": "§LPropaganda is a powerful tool to ensure the loyalty of our own citizens, but creating compliance in enemy lands is much more complex. By training our operatives to infiltrate enemy resistance movements, we may begin being able to make effective arrests and end their disruptive activities. Surely then, foreign partisans will lose any hope of returning to their old regime.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 44,
+    "key": "upgrade_blueprint_stealing",
+    "ver": "",
+    "val": "Blueprint stealing",
+    "comm": ""
+  },
+  {
+    "line_num": 45,
+    "key": "upgrade_blueprint_stealing_desc",
+    "ver": "",
+    "val": "§LWe know that our enemy has secret projects for experimental weapons and vehicles, what we do not know is exactly what those projects are and what they are building. By infiltrating the experimental weapons departments of our enemies, we will not only gain the opportunity to learn precisely what they plan to use against us, we will also be given the unique opportunity to use this information to advance our own weapons department.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 46,
+    "key": "upgrade_portable_radios",
+    "ver": "",
+    "val": "Portable radios",
+    "comm": ""
+  },
+  {
+    "line_num": 47,
+    "key": "upgrade_portable_radios_desc",
+    "ver": "",
+    "val": "§LConventional radio communications devices are far too large and sedentary to be useful in a covert environment, but by building compact versions of this technology and disguising it as regular domestic objects like briefcases, our agents shall be able to communicate at all hours of the day without arousing suspicion or alarm.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 48,
+    "key": "upgrade_invisible_ink",
+    "ver": "",
+    "val": "Invisible Ink",
+    "comm": ""
+  },
+  {
+    "line_num": 49,
+    "key": "upgrade_invisible_ink_desc",
+    "ver": "",
+    "val": "§LA letter written in invisible ink is a mere blank sheet of paper to the naked eye, but the application of UV light or chemicals such as ammonia reveal the contents of the letter. By standardising the use of invisible ink by all of our operatives, our information shall remain secret even if intercepted by our enemies.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 50,
+    "key": "upgrade_plastic_explosives",
+    "ver": "",
+    "val": "Plastic explosives",
+    "comm": ""
+  },
+  {
+    "line_num": 51,
+    "key": "upgrade_plastic_explosives_desc",
+    "ver": "",
+    "val": "§LThe putty-like texture of plastic explosives makes them ideal for sabotaging enemy production so it is only natural that we arm foreign partisans with the substance. The bombs can easily be placed out-of-sight and in vulnerable areas of enemy factories, and the malleable nature of the substance would make it an ideal weapon in a spectacular political assassination...§!",
+    "comm": ""
+  },
+  {
+    "line_num": 52,
+    "key": "upgrade_suicide_pills",
+    "ver": "",
+    "val": "Suicide pills",
+    "comm": ""
+  },
+  {
+    "line_num": 53,
+    "key": "upgrade_suicide_pills_desc",
+    "ver": "",
+    "val": "§LWhile undesirable, it is inevitable that a handful of agents will be captured by our enemy. We must offer our operatives a way to evade the horror that awaits them in the interrogation room, and a cyanide pill in place of a tooth will provide them with that escape, should it ever comes to that.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 54,
+    "key": "upgrade_training_centers",
+    "ver": "",
+    "val": "Localized training centers",
+    "comm": ""
+  },
+  {
+    "line_num": 55,
+    "key": "upgrade_training_centers_desc",
+    "ver": "",
+    "val": "§LWhile our agents are able to adapt to any environment, the cultural norms and languages of foreign lands come more naturally to those born and raised in the culture. If we are to build a worldwide network of spies, we must expand our recruitment and training centres all across the globe and recruit agents of all cultures and backgrounds.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 56,
+    "key": "upgrade_commando_training",
+    "ver": "",
+    "val": "Commando training",
+    "comm": ""
+  },
+  {
+    "line_num": 57,
+    "key": "upgrade_commando_training_desc",
+    "ver": "",
+    "val": "§LWhile our department usually handles the subtler aspects of war, often a small team of heavily armed soldiers are what's needed to complete our operations. By training all of our operatives the ways of Commando warfare, they will become more effective at sabotage operations, less likely to be detected by enemy counter-intelligence and more capable at capturing enemy cryptologic equipment.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 58,
+    "key": "upgrade_interrogation_techniques",
+    "ver": "",
+    "val": "Interrogation techniques",
+    "comm": ""
+  },
+  {
+    "line_num": 59,
+    "key": "upgrade_interrogation_techniques_desc",
+    "ver": "",
+    "val": "§LOften it can be more effective to break an enemy agent's mind rather than their body. The use of physical force is unreliable and often results in false information; a truly skilled interrogator is capable of breaking the enemy's will without violence. But, if it comes to that, we have ways of making them talk...§!",
+    "comm": ""
+  },
+  {
+    "line_num": 60,
+    "key": "upgrade_diplo_training",
+    "ver": "",
+    "val": "Diplomatic Training",
+    "comm": ""
+  },
+  {
+    "line_num": 61,
+    "key": "upgrade_diplo_training_desc",
+    "ver": "",
+    "val": "§LTraining our agents to grease the palm of a few foreign investors and diplomats may convince them of the benevolence of our cause and steer their interests away from enemies of the state.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 62,
+    "key": "upgrade_psycho_warfare",
+    "ver": "",
+    "val": "Psychological Warfare",
+    "comm": ""
+  },
+  {
+    "line_num": 63,
+    "key": "upgrade_psycho_warfare_desc",
+    "ver": "",
+    "val": "§LPropaganda has been an effective tool in securing our ideological interests within our own state, but no tool has been quite as effective as spreading fear of the enemy regimes and what they may bring to the country. By allying our agents with anti-ideological movements within foreign nations, we shall become far more effective in spreading our ideology worldwide...§!",
+    "comm": ""
+  },
+  {
+    "line_num": 64,
+    "key": "upgrade_form_department",
+    "ver": "",
+    "val": "Form Department",
+    "comm": ""
+  },
+  {
+    "line_num": 65,
+    "key": "upgrade_form_department_desc",
+    "ver": "",
+    "val": "§LCryptology is the method of creating codes and cyphers to maintain secret communications. Without the necessary code, a message written with a cypher can be almost impossible to understand. It is of equal importance that we encrypt our data as we decrypt that of our enemies.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 66,
+    "key": "upgrade_decryption_boost",
+    "ver": "",
+    "val": "Radio Interception Group",
+    "comm": ""
+  },
+  {
+    "line_num": 67,
+    "key": "upgrade_decryption_boost_desc",
+    "ver": "",
+    "val": "§LRadio waves have made it possible to communicate remotely across long distances, and signals are often encrypted by constantly changing the frequency of the broadcast at an irregular rate. If we are to intercept enemy communications, we must establish an interception group dedicated to cracking enemy radio encryption.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 68,
+    "key": "upgrade_decryption_boost_2",
+    "ver": "",
+    "val": "Machine-Assisted Decryption",
+    "comm": ""
+  },
+  {
+    "line_num": 69,
+    "key": "upgrade_decryption_boost_2_desc",
+    "ver": "",
+    "val": "§LMachines have proven useful in encrypting data already, with machine-assisted encrypted signals proving the most difficult to decipher. Cryptanalysis machines are vital in cracking messages we do not yet know the code for and will be a valuable asset to our deciphering team.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 70,
+    "key": "upgrade_crypto_strength",
+    "ver": "",
+    "val": "Government Cypher School",
+    "comm": ""
+  },
+  {
+    "line_num": 71,
+    "key": "upgrade_crypto_strength_desc",
+    "ver": "",
+    "val": "§LCodes and cyphers have thus far proven to be the most effective way of establishing and protecting our spy networks overseas. The Government Communication Headquarters shall dedicate itself to the creation of new and elaborate encryption methods that our enemies shall be helpless to decipher.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 72,
+    "key": "upgrade_crypto_strength_2",
+    "ver": "",
+    "val": "Machine-Assisted Encryption",
+    "comm": ""
+  },
+  {
+    "line_num": 73,
+    "key": "upgrade_crypto_strength_2_desc",
+    "ver": "",
+    "val": "§LIt's becoming apparent that our standard method of creating cyphers is insufficient to protect our communications from enemy eyes. Our finest minds have theorised a machine which can scramble the letters of the alphabet to generate new cyphers on as regular a basis as we desire. Deploying such technology would make our encryption methods a total enigma to our enemies.§!",
+    "comm": ""
+  },
+  {
+    "line_num": 74,
+    "key": "TRAINING_FACILITIES_ENABLED",
+    "ver": "",
+    "val": "Unlock decisions to build Training Facilities",
+    "comm": ""
+  },
+  {
+    "line_num": 75,
+    "key": "CRYPTO_DEPARTMENT_ENABLED",
+    "ver": "",
+    "val": "Unlock Cryptology Department",
+    "comm": ""
+  },
+  {
+    "line_num": 76,
+    "key": "CREATE_AGENCY_BUTTON",
+    "ver": "",
+    "val": "Create Agency",
+    "comm": ""
+  },
+  {
+    "line_num": 77,
+    "key": "CANCEL_AGENCY_CREATION_TOOLTIP",
+    "ver": "",
+    "val": "Cancel Intelligence Agency creation",
+    "comm": ""
+  },
+  {
+    "line_num": 78,
+    "key": "CANCEL_AGENCY_CREATION_MESSAGE",
+    "ver": "",
+    "val": "Are you sure you want to §Rcancel§! the creation of the Intelligence Agency?",
+    "comm": ""
+  },
+  {
+    "line_num": 79,
+    "key": "CANCEL_AGENCY_UPGRADE_TOOLTIP",
+    "ver": "",
+    "val": "Cancel Intelligence Agency Upgrade",
+    "comm": ""
+  },
+  {
+    "line_num": 80,
+    "key": "CANCEL_AGENCY_UPGRADE_MESSAGE",
+    "ver": "",
+    "val": "Are you sure you want to §Rcancel§! this Intelligence Agency Upgrade?",
+    "comm": ""
+  },
+  {
+    "line_num": 81,
+    "key": "CREATE_AGENCY_BUTTON_PROGRESS",
+    "ver": "",
+    "val": "Agency being formed...",
+    "comm": ""
+  }
+]

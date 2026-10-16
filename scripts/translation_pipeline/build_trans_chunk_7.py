@@ -1,0 +1,262 @@
+import json
+import re
+
+c7_trans = {
+  "ww_congo.23.desc": "Administrasi kolonial di [FROM.GetNameDef] telah menyetujui permintaan kita untuk meningkatkan dorongan emigrasi bangsa [FROM.GetAdjective] ke negara bagian kita. Gelombang baru warga yang siap membantu pembangunan negeri kita pasti akan segera berdatangan.",
+  "ww_congo.23.a": "Sempurna",
+  "ww_congo.24.t": "Pihak [FROM.GetAdjective] Menolak Rencana Imigrasi Kita",
+  "ww_congo.24.desc": "Administrasi kolonial di [FROM.GetNameDef] telah menolak permintaan kita untuk meningkatkan dorongan emigrasi bangsa [FROM.GetAdjective] ke negara bagian kita. Sungguh sangat disayangkan, namun tidak banyak yang dapat kita lakukan untuk mengubah keputusan mereka.",
+  "ww_congo.24.a": "Lantas, apa yang sebenarnya kita harapkan?",
+  "ww_congo.25.t": "Albert de Vleeshauwer Bertolak ke Luar Negeri Menggalang Dukungan",
+  "ww_congo.25.desc": "Menteri Urusan Koloni Belgia, Albert de Vleeshauwer, sekutu dekat Pierre Ryckmans, telah memutuskan pergi ke luar negeri guna melobi dukungan dari para sekutu baru kita, tatkala situasi tampak kian genting dan para politisi di daratan utama enggan bertindak. Mungkinkah kita dapat mengamankan sejumlah kesepakatan yang menguntungkan berkat bantuannya?",
+  "ww_congo.25.a": "Di sinilah peperangan sesungguhnya bermula",
+  "ww_congo.26.t": "[FROM.GetNameDefCap] Menduduki [796.GetName]!",
+  "ww_congo.26.desc": "\nAwal pekan ini, pasukan dari [COG.GetNameDef] bergerak masuk dan menduduki wilayah kita di [796.GetName], seraya berdalih bahwa mereka menjalankan misi demi melindungi kawasan tersebut dari potensi pendudukan oleh musuh-musuh mereka. Ini jelas merupakan sebuah tindakan perang, kendati demikian, ini adalah peristiwa yang kemungkinan besar dapat kita pilih untuk diabaikan begitu saja, mengingat mereka sepertinya bukan sengaja memancing peperangan dengan kita, melainkan berupaya menyatukan kembali lembah cekungan Kongo.",
+  "ww_congo.26.a": "Tidak sebanding untuk diperangi",
+  "ww_congo.26.b": "Mereka pikir siapa diri mereka?",
+  "ww_congo.27.t": "Pemberontakan di Luluabourg",
+  "ww_congo.27.desc": "Awal pekan ini, para bintara Kongo yang dipimpin oleh Sersan Mayor Satu Ngoie Mukalabushi memberontak di Luluabourg di provinsi Kasaï. Salah satu pemicu utamanya tampaknya adalah perlakuan sewenang-wenang oleh para perwira Belgia kita. Para pemberontak membobol gudang senjata pangkalan pada pagi hari dan menjarah pemukiman kulit putih di kota tersebut. Mereka juga menyerang simbol-simbol otoritas kolonial dan memproklamasikan kehendak mereka akan kemerdekaan. Mereka kemudian membubarkan diri menuju desa-desa asal mereka sembari menjarah di sepanjang perjalanan, namun tampaknya gagal menyebarkan pemberontakan ke garnisun-garnisun tetangga. Bagaimana kita harus menangani situasi ini?",
+  "ww_congo.27.a": "Tangkap mereka dan jadikan Mukalabushi sebagai peringatan keras",
+  "ww_congo.27.b": "Ini adalah pertanda bahwa perubahan besar mutlak diperlukan",
+  "COG_pro_independence_reforms_in_the_force_publique_structure": "Reformasi Pro-Kemerdekaan dalam Struktur Force Publique",
+  "ww_congo.28.t": "Meningkatnya Kecurigaan terhadap Komite Nasional",
+  "ww_congo.28.desc": "Melihat Komite Nasional Pembebasan yang baru dibentuk mengambil sikap yang kian konfrontatif terhadap pemerintah kolonial, banyak penduduk di pedesaan mulai khawatir bahwa Komite tidak akan menempuh jalan damai menuju kemerdekaan. Terlebih lagi di kawasan Katanga, bisik-bisik pemisahan diri mulai terdengar, dan besar kemungkinan wilayah tersebut akan berupaya memproklamasikan kemerdekaan tatkala perang pembebasan kita meletus...",
+  "ww_congo.28.a": "Mereka harus diyakinkan, atau dibebaskan melalui kekuatan senjata",
+  "COG_coquilatville_and_lusambo_will_join_the_belgian_loyalsits_tt": "§Y[538.GetName]§! dan §Y[888.GetName]§! akan bergabung dengan §YLoyalis Pro-Belgia§! saat perang kemerdekaan dimulai",
+  "ww_congo.29.t": "Kaum Nasionalis Kongo Mendekati Kita Meminta Bantuan",
+  "ww_congo.29.desc": "Kaum nasionalis Kongo yang menamakan diri mereka Komite Nasional Pembebasan tengah mempersiapkan perang kemerdekaan melawan tuan kolonial mereka. Mereka berjanji akan menyelaraskan diri lebih dekat dengan kita begitu perang dimenangkan, dengan syarat kita mengirimkan senjata saat pertempuran meletus, seraya menegaskan bahwa melemahnya [BEL.GetName] sejalan dengan kepentingan nasional kita.",
+  "ww_congo.29.a": "Tentu saja",
+  "ww_congo.29.b": "Tidak ada alasan untuk campur tangan",
+  "ww_congo.30.t": "[FROM.GetNameDefCap] Memutuskan untuk Membantu Kita",
+  "ww_congo.30.desc": "Para diplomat kita telah kembali dari perundingan dengan staf militer [FROM.GetAdjective], dan dikabarkan telah mencapai kesepakatan di mana mereka akan mengirimkan pasukan dan peralatan tempur tatkala kita memutuskan untuk menyatakan perang melawan para penindas kita. Hari ini adalah hari yang gemilang bagi seluruh rakyat Kongo!",
+  "ww_congo.30.a": "Sempurna",
+  "ww_congo.31.t": "[FROM.GetNameDefCap] Memutuskan Tidak Membantu Kita",
+  "ww_congo.31.desc": "Para diplomat kita telah kembali dari perundingan dengan staf militer [FROM.GetAdjective] dengan tangan hampa. Tampaknya kesepakatan gagal diraih, dan mereka yang kita sangka sekutu telah mengkhianati kita...",
+  "ww_congo.31.a": "Sungguh sangat disayangkan",
+  "ww_congo.32.t": "Kudeta Gerakan Simba",
+  "ww_congo.32.desc": "Gerakan Simba telah meraih dukungan luar biasa di seantero negeri akhir-akhir ini. Kini, mereka telah merangsek masuk ke dalam kongres nasional, menuntut pergantian pucuk kepemimpinan. Tidak banyak yang dapat diperbuat oleh para politisi kita selain menerima kenyataan yang ada. Namun pertanyaannya, siapakah yang pantas memimpin negara kita sekarang?",
+  "ww_congo.32.a": "Cyrille Adoula adalah negarawan yang cakap",
+  "ww_congo.32.b": "Christophe Gbenye yang harus memimpin",
+  "ww_congo.33.t": "Persoalan Kepemimpinan",
+  "ww_congo.33.desc": "Kepemimpinan bangsa kita belakangan ini mulai dipertanyakan, berpangkal dari jalinan hubungan Cyrille Adoula dengan pihak Amerika dan serikat-serikat buruh Belgia. Banyak kalangan meyakini bahwa pemimpin kaum Simba, Christophe Gbenye, harus mengambil alih tampuk kekuasaan sebagai ketua negara yang baru. Haruskah kita bertekuk lutut kepada tuntutan mereka?",
+  "ww_congo.33.a": "Cyrille Adoula adalah negarawan yang mumpuni, ia tidak boleh mundur",
+  "ww_congo.33.b": "Christophe Gbenye yang harus memimpin",
+  "ww_congo.34.t": "Kunjungan Kenegaraan Kwame Nkrumah",
+  "ww_congo.34.desc": "Tokoh pan-Afrikanis asal Ghana, Kwame Nkrumah, hari ini tiba di ibu kota kita atas undangan resmi dari [ROOT.GetLeader]. Sebagai seorang sosialis gigih, banyak pihak meyakini bahwa kerja sama dengannya akan membawa maslahat besar demi mengamankan masa depan Afrika, bahkan sebagian kalangan menyuarakan agar ia mengemban kepemimpinan bangsa kita. Apakah langkah terbaik yang harus diambil?",
+  "ww_congo.34.a": "Kita yakin kerja sama agung dapat terwujud",
+  "ww_congo.34.b": "Dialah pemimpin sejati yang kita dambakan!",
+  "ww_congo.35.t": "[COG.GetNameDefCap] Memicu Perlawanan Kolonial",
+  "ww_congo.35.desc": "\nPemerintah [COG.GetAdjective] dilaporkan telah mulai menyelundupkan persenjataan kepada kelompok-kelompok perlawanan di Afrika, serta menampung dan melatih para pembangkang dan milisi demi upaya pembebasan negeri-negeri mereka yang berada di bawah pendudukan kita. Kita harus ekstra waspada memantau kawasan ini di masa-masa mendatang...",
+  "ww_congo.35.a": "Kita harus segera mengakhiri hal ini!",
+  "ww_congo.35.b": "Saat bagi kebangkitan Afrika telah tiba",
+  "ww_congo.36.t": "[FROM.GetName] Menolak Usulan Damai",
+  "ww_congo.36.desc": "Duta besar dari [FROM.GetNameDef] telah menampik usulan perdamaian kita. Mereka berdalih bahwa serangan kita terhadap mereka sama sekali tidak berdasar dan oleh sebab itu, mereka tidak akan menerima apa pun selain kapitulasi tanpa syarat dari kita karena telah menjadi ancaman bagi perdamaian kawasan.",
+  "ww_congo.36.a": "Alangkah munafiknya, kekerasan imperialis mereka hanya dapat dihentikan dengan kekuatan senjata.",
+  "ww_congo.37.t": "[FROM.GetNameDefCap] Menawarkan Perdamaian demi Kemerdekaan [?COG.COG_disputed_colony.GetAdjective]",
+  "ww_congo.37.desc": "Para diplomat [FROM.GetAdjective] telah mendatangi kita dengan sebuah tawaran perdamaian. Tawaran tersebut menuntut kita menyetujui pelepasan klaim atas wilayah [?COG.COG_disputed_colony.GetAdjective] yang terlepas ke tangan [FROM.GetNameDef] selama konflik ini. Para diplomat tersebut juga menyatakan bahwa pemungutan suara akan diselenggarakan di wilayah [?COG.COG_disputed_colony.GetAdjective] yang dilepaskan guna memilih pemerintahan baru. Seberapa bebas pemilihan tersebut kelak masih menjadi tanda tanya besar.",
+  "ww_congo.37.a": "Kita tidak akan menyerahkan wilayah kedaulatan kita.",
+  "ww_congo.37.b": "Kita tidak memiliki pilihan selain menyetujuinya.",
+  "ww_congo.38.t": "[FROM.GetName] Menyetujui Tawaran Damai",
+  "ww_congo.38.desc": "Para diplomat dari [FROM.GetNameDef] telah memberitahu kita bahwa pemerintah mereka bersedia melepaskan klaim atas wilayah [?COG.COG_disputed_colony.GetAdjective] yang telah kita bebaskan. Mereka kini tengah menarik mundur pasukannya ke garis perbatasan baru yang disepakati di kawasan tersebut.",
+  "ww_congo.38.a": "Kemenangan kepahlawanan melawan belenggu imperialisme!",
+  "ww_congo.39.t": "Pemilu Bebas Pertama Kongo",
+  "ww_congo.39.desc": "Pemilihan umum bebas pertama telah usai digelar, dan Joseph Kasa-Vubu keluar sebagai pemenang teratas. Kini, ia tengah bekerja keras menyusun kabinet menteri Kongo yang pertama. Memperoleh popularitas luar biasa di seantero negeri serta piawai dalam menjalankan tugasnya, ia niscaya akan dikenang sebagai presiden agung untuk generasi-generasi mendatang.",
+  "ww_congo.39.a": "Kasa-Vubu adalah negarawan yang cakap, kita membutuhkannya",
+  "ww_congo.40.t": "Kabinet Pertama Kasa-Vubu",
+  "ww_congo.40.desc": "Presiden kita [ROOT.GetLeader] tengah dalam proses menyusun kabinet resmi pertama kita, seusai mengamankan kemenangan mutlak dalam pemilihan umum baru-baru ini. Meraih dukungan meluas di seluruh penjuru negeri, ia dipastikan akan tercatat dalam lembaran sejarah sebagai bapak pendiri negara modern kita untuk generasi-generasi berikutnya!",
+  "ww_congo.40.a": "Kasa-Vubu benar-benar sosok yang tepat untuk tugas ini",
+  "ww_congo.41.t": "[FROM.GetLeader] Menuntut Reunifikasi Rakyat Bakongo",
+  "ww_congo.41.desc": "\n[FROM.GetLeader], pemimpin [FROM.GetNameDef] dan Aliansi Bakongo, telah menghubungi kita, menuntut agar kita menyerahkan seluruh wilayah mayoritas Bakongo kepada mereka. Bagaimana kita harus menanggapinya?",
+  "ww_congo.41.a": "Ini demi kemaslahatan bersama",
+  "ww_congo.41.b": "Mustahil!",
+  "ww_congo.42.t": "[FROM.GetLeader] Menyerahkan Wilayah-Wilayah Bakongo",
+  "ww_congo.42.desc": "\n[FROM.GetLeader], pemimpin [FROM.GetNameDef], telah sepakat untuk menyerahkan seluruh wilayah yang berpopulasi signifikan rakyat Bakongo, seraya mendoakan yang terbaik bagi masa depan kita. Hari ini adalah hari bersejarah bagi bangsa Kongo.",
+  "ww_congo.42.a": "Luar biasa!",
+  "ww_congo.43.t": "[FROM.GetLeader] Menolak Menyerahkan Wilayah Bakongo",
+  "ww_congo.43.desc": "\n[FROM.GetLeader], pemimpin [FROM.GetNameDef], telah menampik tuntutan kita untuk menyerahkan wilayah-wilayah berpopulasi besar rakyat Bakongo. Bagaimana kita harus menanggapi penindasan terhadap rakyat kita oleh kekuasaan asing ini?",
+  "ww_congo.43.a": "Tidak banyak yang sanggup kita perbuat",
+  "ww_congo.43.b": "Kita akan beri mereka pelajaran!",
+  "ww_congo.44.t": "Wangsa Água Rosada",
+  "ww_congo.44.desc": "Dewan telah menetapkan bahwa penguasa paling sah bagi Kongo adalah Dom Pedro VII, penuntut takhta saat ini bagi Kerajaan Kongo yang baru saja dibubarkan, yang dahulu membentang di provinsi-provinsi barat kita serta di wilayah yang kini menjadi Cabinda dan Angola. Niscaya ia sanggup memulihkan stabilitas dan mewujudkan persatuan seluruh rakyat Bakongo?",
+  "ww_congo.44.a": "Ia adalah kandidat paling sah yang mungkin kita dapatkan!",
+  "ww_congo.44.b": "Bukan, kita membutuhkan sosok yang lain!",
+  "ww_congo.45.t": "Sang Nyim dari Bakuba",
+  "ww_congo.45.desc": "Dewan telah menetapkan bahwa penguasa paling sah berikutnya bagi Kongo adalah Mbóp Mábíínc maMbéky, raja dari Kerajaan Kuba, sebuah kerajaan kecil yang terletak di provinsi-provinsi pedalaman tengah kita. Niscaya ia sanggup menghadirkan stabilitas dan menggapai apa yang hanya mampu diimpikan oleh segelintir orang?",
+  "ww_congo.45.a": "Dialah sosok yang akan mengantarkan kita menuju keagungan!",
+  "ww_congo.45.b": "Bukan, kita membutuhkan sosok yang lain!",
+  "ww_congo.46.t": "Sang Mâ Loango",
+  "ww_congo.46.desc": "Dewan telah memutuskan bahwa calon penguasa sah berikutnya bagi Kongo adalah Moe Poaty III, sang Mâ Loango dari Kerajaan Loango, sebuah negara yang bertapak di dalam dan sekitar provinsi-provinsi paling barat kita, terutama di kawasan yang kini menjadi Kongo Tengah. Niscaya ia sanggup menorehkan stabilitas dan mewujudkan penyatuan dengan provinsi-provinsi barat Kongo?",
+  "ww_congo.46.a": "Ia dapat memberi kita klaim sah atas Kongo Tengah!",
+  "ww_congo.46.b": "Bukan, kita membutuhkan sosok yang lain!",
+  "ww_congo.47.t": "Wangsa Ntwero dari Burundi",
+  "ww_congo.47.desc": "Dewan telah mempertimbangkan bahwa penguasa potensial lainnya bagi Kongo adalah Mwambutsa IV, sang Mwami dari Kerajaan Burundi, sebuah kerajaan di timur. Mampukah ia mendatangkan stabilitas dan mewujudkan penyatuan dengan negeri Burundi?",
+  "ww_congo.47.a": "Setidaknya ia dapat memberikan klaim yang sah atas Burundi kepada kita...",
+  "ww_congo.47.b": "Bukan, kita membutuhkan sosok yang lain!",
+  "ww_congo.48.t": "Klan Abanyiginya dari Rwanda",
+  "ww_congo.48.desc": "Dewan telah bermusyawarah bahwa kandidat penguasa lain bagi Kongo adalah Mutara III Rudahigwa, sang Umwami dari Kerajaan Rwanda, sebuah kerajaan di sebelah timur. Bukankah ia sanggup menegakkan stabilitas dan menuntaskan unifikasi dengan negeri Rwanda?",
+  "ww_congo.48.a": "Setidaknya ia dapat menganugerahkan klaim sah atas Rwanda kepada kita...",
+  "ww_congo.48.b": "Bukan, kita membutuhkan sosok yang lain!",
+  "ww_congo.49.t": "Sang Kolaborator Jerman",
+  "ww_congo.49.desc": "Mengingat tidak ada lagi opsi yang tersisa, dewan akhirnya memutuskan bahwa penguasa potensial terakhir bagi Kongo adalah Yuhi V Musinga, sang Umwami dari Kerajaan Rwanda, sebuah kerajaan di timur, yang digulingkan dari takhta oleh para gubernur Belgia seusai Perang Besar akibat kolaborasi dan kekagumannya pada Imperium Kolonial Jerman. Memilihnya mungkin merupakan perjudian yang berisiko, namun setidaknya ia menyimpan ambisi yang membara...",
+  "ww_congo.49.a": "Ia terpaksa menjadi pilihan...",
+  "ww_congo.49.b": "Ini sama sekali tidak berjalan sesuai rencana kita...",
+  "ww_congo.50.t": "[FROM.GetNameDefCap] Berhasrat Membentuk Aliansi",
+  "ww_congo.50.desc": "\n[FROM.GetNameDefCap] telah menghubungi kita untuk mengajukan pembentukan aliansi timbal balik. Mereka telah melancarkan langkah militerisasi dan mengutarakan kehendak untuk bekerja sama agar kita berdua menjadi semakin digdaya. Secara historis hubungan kita kerap diwarnai ketegangan, namun tiada saat yang lebih tepat daripada masa kini demi sebuah rekonsiliasi.",
+  "ww_congo.50.a": "Kita akan menyambutnya dengan senang hati",
+  "ww_congo.50.b": "Kita tidak membutuhkan mereka.",
+  "ww_congo.51.t": "[FROM.GetNameDefCap] Setuju Membentuk Aliansi",
+  "ww_congo.51.desc": "\n[FROM.GetNameDefCap] menyambut permohonan aliansi kita dengan penuh antusiasme dan telah menandatangani segenap dokumen resmi yang diperlukan. Kita tidak akan lagi bertarung sendirian melawan pihak-pihak yang mengancam kita!",
+  "ww_congo.51.a": "Kita lebih kuat bila bersatu!",
+  "ww_congo.52.t": "[FROM.GetNameDefCap] Menolak Tawaran Aliansi Kita",
+  "ww_congo.52.desc": "\nTawaran pembentukan aliansi kita telah ditampik secara dingin oleh [FROM.GetLeader]. Kita telah berupaya memaparkan kegunaan kerja sama ini, namun sayangnya [FROM.GetNameDef] telah membulatkan tekad mereka. Kendati hal ini sangat menjengkelkan, kita pantang berkecil hati, melainkan akan mencari jalan keluar lainnya.",
+  "ww_congo.52.a": "Kita akan buktikan kepada mereka",
+  "ww_congo.53.t": "[FROM.GetLeader] Menuntut Penyatuan Kembali Rakyat Burundi",
+  "ww_congo.53.desc": "\n[FROM.GetLeader], pemimpin [FROM.GetNameDef] dan rakyat Burundi, telah menghubungi kita, menuntut agar kita menyerahkan seluruh wilayah mayoritas Burundi kepada mereka. Bagaimana kita harus menanggapinya?",
+  "ww_congo.53.a": "Ini demi kemaslahatan bersama",
+  "ww_congo.53.b": "Mustahil!",
+  "ww_congo.54.t": "[FROM.GetLeader] Menyerahkan Wilayah-Wilayah Burundi",
+  "ww_congo.54.desc": "\n[FROM.GetLeader], pemimpin [FROM.GetNameDef], telah bersepakat untuk menyerahkan setiap wilayah dengan populasi rakyat Burundi dalam jumlah besar, seraya mendoakan masa depan terbaik bagi kita. Hari ini adalah hari yang agung bagi bangsa Kongo.",
+  "ww_congo.54.a": "Luar biasa!",
+  "ww_congo.55.t": "[FROM.GetLeader] Menolak Menyerahkan Wilayah Burundi",
+  "ww_congo.55.desc": "\n[FROM.GetLeader], pemimpin [FROM.GetNameDef], telah menampik tuntutan kita untuk menyerahkan wilayah-wilayah yang didiami oleh mayoritas bangsa Burundi. Bagaimana kita harus menyikapi penindasan terhadap rakyat kita oleh kekuatan asing?",
+  "ww_congo.55.a": "Tidak banyak yang sanggup kita perbuat",
+  "ww_congo.55.b": "Kita akan beri mereka pelajaran!",
+  "ww_congo.56.t": "[FROM.GetLeader] Menuntut Penyatuan Kembali Rakyat Rwanda",
+  "ww_congo.56.desc": "\n[FROM.GetLeader], pemimpin [FROM.GetNameDef] dan rakyat Rwanda, telah menghubungi kita, menuntut agar kita menyerahkan seluruh wilayah mayoritas Rwanda kepada mereka. Bagaimana kita harus bersikap?",
+  "ww_congo.56.a": "Ini demi kemaslahatan bersama",
+  "ww_congo.56.b": "Mustahil!",
+  "ww_congo.57.t": "[FROM.GetLeader] Menyerahkan Wilayah-Wilayah Rwanda",
+  "ww_congo.57.desc": "\n[FROM.GetLeader], pemimpin [FROM.GetNameDef], telah setuju untuk menyerahkan segenap wilayah yang dihuni oleh banyak rakyat Rwanda, seraya mendoakan masa depan terbaik bagi kita. Hari ini adalah hari yang agung bagi bangsa Kongo.",
+  "ww_congo.57.a": "Luar biasa!",
+  "ww_congo.58.t": "[FROM.GetLeader] Menolak Menyerahkan Wilayah Rwanda",
+  "ww_congo.58.desc": "\n[FROM.GetLeader], pemimpin [FROM.GetNameDef], telah menampik tuntutan kita untuk menyerahkan wilayah-wilayah yang dihuni oleh banyak rakyat Rwanda. Bagaimana kita harus menanggapi penindasan terhadap rakyat kita oleh kekuatan asing?",
+  "ww_congo.58.a": "Tidak banyak yang sanggup kita lakukan",
+  "ww_congo.58.b": "Kita akan beri mereka pelajaran!",
+  "ww_congo.59.t": "[FROM.GetLeader] Memohon untuk Menjadi Protektorat",
+  "ww_congo.59.desc": "\n[FROM.GetLeader], pemimpin [FROM.GetNameDef], belum lama ini mendatangi salah seorang diplomat kita, memohon-mohon dan meratap agar kita menegakkan kembali perlindungan atas kerajaannya, bahkan melangkah sedemikian jauh hingga menamai negaranya Mittelafrika. Ia dahulu berada di bawah naungan perlindungan kita tatkala bertakhta sebagai raja Rwanda, namun kemudian digulingkan oleh otoritas Belgia. Haruskah kita mengabulkan permohonan sang raja gila ini?",
+  "ww_congo.59.a": "Ini adalah peluang emas yang pantang kita lewatkan",
+  "ww_congo.59.b": "Nein!",
+  "ww_congo.60.t": "[FROM.GetLeader] Menerima Permohonan Kita untuk Menjadi Protektorat Mereka",
+  "ww_congo.60.desc": "\n[FROM.GetLeader], pemimpin [FROM.GetNameDef], telah memutuskan untuk menerima permohonan kita, dan mengizinkan kita kembali menjadi protektorat di bawah naungan bangsa mereka. Sungguh, keseimbangan sejati telah dipulihkan di Afrika!",
+  "ww_congo.60.a": "Hari ini adalah hari yang patut dikenang!",
+  "ww_congo.61.t": "[FROM.GetLeader] Menolak Permohonan Kita untuk Menjadi Protektorat Mereka",
+  "ww_congo.61.desc": "\n[FROM.GetLeader], pemimpin [FROM.GetNameDef], telah memutuskan menolak permohonan kita, karena ia memandang rendah nilai kawasan kita, seraya berdalih tidak banyak yang dapat kita sumbangkan selain dari apa yang telah mereka miliki.",
+  "ww_congo.61.a": "Hari ini adalah hari yang patut dikenang...",
+  "ww_congo.62.t": "Raoul van Overstraeten Kembali ke Belgia",
+  "ww_congo.62.desc": "Perwira militer Belgia Raoul van Overstraeten, yang telah mengabdi di negeri kita hingga belum lama ini, menimbang lepasnya tanah air mereka, telah dipanggil pulang kembali ke [BEL.GetName]. Ia telah melayani kita dengan sangat baik di sini, dan kita berharap ia sanggup membantu memukul mundur para penyerbu.",
+  "ww_congo.62.a": "Semoga berhasil!",
+  "ww_congo.63.t": "[FROM.GetLeader] Ingin Menjual Uranium kepada Kita",
+  "ww_congo.63.desc": "\n[FROM.GetLeader], pemimpin [FROM.GetNameDef], telah mendekati kita dengan sebuah tawaran yang sangat memikat. Tampaknya, cadangan Uranium di negara tersebut jauh lebih melimpah daripada perkiraan, dan kini muncul gagasan untuk menyelundupkan sebagian bahan mentah tersebut ke negeri kita dengan harga tertentu.",
+  "ww_congo.63.a": "Ini adalah karunia yang sangat disambut baik",
+  "ww_congo.63.b": "Kita tidak akan merendahkan martabat kita dalam tindak kriminal",
+  "ww_congo.64.t": "[FROM.GetLeader] Menerima Kesepakatan Uranium",
+  "ww_congo.64.desc": "\n[FROM.GetLeader], pemimpin [FROM.GetNameDef], telah menyetujui penandatanganan kesepakatan uranium yang kita ajukan kepada mereka, dan telah mengirimkan pembayaran yang kita tetapkan.",
+  "ww_congo.64.a": "Luar biasa!",
+  "ww_congo.65.t": "[FROM.GetLeader] Menolak Kesepakatan Uranium",
+  "ww_congo.65.desc": "\n[FROM.GetLeader], pemimpin [FROM.GetNameDef], telah menampik tawaran kita untuk menyelundupkan pasokan uranium ke negeri mereka dengan sejumlah bayaran, seraya menegaskan bahwa mereka tidak sudi menurunkan martabat menjadi penjahat internasional.",
+  "ww_congo.65.a": "Sayang sekali...",
+  "ww_congo.66.t": "[FROM.GetNameDefCap] Membatalkan Kesepakatan Uranium",
+  "ww_congo.66.desc": "\n[FROM.GetLeader], pemimpin [FROM.GetNameDef], telah memutuskan untuk membatalkan kesepakatan pasokan uranium kita yang tengah berjalan, beralasan kesepakatan tersebut dinilai terlampau mahal bagi bangsa [FROM.GetAdjective].",
+  "ww_congo.66.a": "Sungguh sangat disayangkan...",
+  "ww_congo.67.t": "[FROM.GetLeader] Mengundang Kita ke Konsorsium Pengembangan Uranium",
+  "ww_congo.67.desc": "\n[FROM.GetLeader], pemimpin [FROM.GetNameDef], telah mendekati kita dengan tawaran yang memikat. Mereka berhasrat mengajak kita bergabung dalam Konsorsium Pengembangan Uranium bersama, serta saling berbagi material nuklir dan hasil riset satu sama lain. Langkah ini berpotensi memperbesar risiko bocornya rahasia, namun mungkin sangat sepadan demi mengamankan pasokan uranium yang amat kita butuhkan.",
+  "ww_congo.67.a": "Dengan senang hati!",
+  "ww_congo.67.b": "Langkah itu terlampau berbahaya",
+  "ww_congo.68.t": "[FROM.GetLeader] Bergabung dengan Konsorsium Pengembangan Uranium",
+  "ww_congo.68.desc": "\n[FROM.GetLeader], pemimpin [FROM.GetNameDef], telah bersepakat bergabung dengan Konsorsium Pengembangan Uranium yang kita tawarkan kepada mereka, dan program nuklir mereka kini akhirnya dapat kembali berjalan sesuai rencana berkat pasokan uranium yang baru mereka peroleh.",
+  "ww_congo.68.a": "Luar biasa!",
+  "ww_congo.69.t": "[FROM.GetLeader] Menampik Gagasan Kita",
+  "ww_congo.69.desc": "\n[FROM.GetLeader], pemimpin [FROM.GetNameDef], telah menolak undangan kita ke Konsorsium Pengembangan Uranium, menegaskan bahwa mereka wajib merahasiakan seluruh program nuklir serapat mungkin karena membocorkan informasi apa pun yang berpotensi sampai ke tangan musuh dinilai terlampau berbahaya untuk menerima usulan semacam itu sejak awal.",
+  "ww_congo.69.a": "Sayang sekali...",
+  "ww_congo.70.t": "Jan Zumbach Bergabung dengan Pihak [ENG.GetAdjective]",
+  "ww_congo.70.desc": "Penerbang ulung kita, Jan Zumbach, telah meninggalkan kita dan memutuskan untuk turut bertempur membela RAF. Keputusannya meninggalkan rekan-rekan seperjuangan bukanlah perkara mudah, namun kita patut memberikan penghormatan atas tekadnya untuk terus berjuang demi Polandia yang merdeka dan bebas dari penindasan.",
+  "ww_congo.70.a": "Selamat terbang dan semoga berhasil",
+  "ww_congo.71.t": "Jan Zumbach Berkehendak Bertolak ke Kongo",
+  "ww_congo.71.desc": "Penerbang ulung kita, Jan Zumbach, yang tiba di sini dari Polandia, telah mengutarakan keinginannya untuk meninggalkan kita dan bertolak ke Kongo guna membantu pembentukan angkatan udara di sana. Haruskah kita mengizinkannya pergi?.",
+  "ww_congo.71.a": "Biarkan ia pergi",
+  "ww_congo.71.b": "Cegah kepergiannya!",
+  "ww_congo.72.t": "Jan Zumbach Tiba",
+  "ww_congo.72.desc": "Penerbang tempur Polandia, Jan Zumbach, baru saja mendarat di negeri kita, seraya mengutarakan niatnya untuk bergabung dengan angkatan udara kita dan bertempur membela kita. Tentu ada peran penting yang dapat kita percayakan kepadanya?",
+  "ww_congo.72.a": "Kita akan memberinya tugas tempur",
+  "ww_congo.73.t": "[FROM.GetNameDefCap] Menawarkan Perdamaian demi Kemerdekaan Koloni Kita",
+  "ww_congo.73.desc": "Para diplomat [FROM.GetAdjective] telah mendatangi kita dengan sebuah tawaran perdamaian. Tawaran tersebut menuntut kita menyetujui pelepasan klaim atas sejumlah kepemilikan wilayah di Afrika serta menarik mundur seluruh pasukan kita dari kawasan tersebut. Apakah kita menerima tawaran ini?",
+  "ww_congo.73.a": "Kita tidak akan menyerahkan tanah air kita.",
+  "ww_congo.73.b": "Kita tidak memiliki pilihan lain selain tunduk.",
+  "congo_independence_struggle.1.t": "Bisik-Bisik Kemerdekaan",
+  "congo_independence_struggle.1.d": "Semenjak benua kita dikerat-kerat dan dibagi-bagikan di antara bangsa-bangsa Eropa, kita senantiasa mendambakan kebebasan, serta hak menentukan nasib kita sendiri. Lembaran sejarah kita sebagai tanah jajahan [BEL.GetNameDefCap] telah dinodai oleh eksploitasi kejam dan dehumanisasi, namun kita selalu terbelenggu di bawah tumit penjajah akibat perpecahan internal kita sendiri serta kedigdayaan senjata mereka. \n\nBisik-bisik pembebasan kini kembali membahana di lorong-lorong jalanan dan lebatnya rimba belantara, tatkala rakyat kita menyuarakan impian luhur akan sebuah Kongo yang merdeka dari cengkeraman kolonial. Sebuah Kongo yang berdaulat dalam menggubah dan menegakkan hukumnya sendiri, sebuah Kongo yang bebas menikmati hasil keringat cucuran darahnya sendiri, sebuah Kongo yang berkuasa menentukan masa depannya sendiri.",
+  "congo_independence_struggle.1.a": "Kita harus mengupayakan kemerdekaan kita melalui jalur diplomasi",
+  "congo_independence_struggle.1.b": "Kemerdekaan adalah harga mati, berapa pun bayarannya",
+  "congo_independence_struggle.2.t": "[FROM.GetNameDefCap] Menghubungi Kita Perihal Kemerdekaan Mereka",
+  "congo_independence_struggle.2.d": "Kita baru saja didekati oleh sebuah kelompok yang mengklaim mewakili gerakan kemerdekaan tanah jajahan kita, [COG.GetNameDef]. Kendati administrasi kolonial di sana telah menyadari merebaknya sentimen kemerdekaan selama beberapa waktu, keberanian mereka yang secara terang-terangan menuntutnya cukup mengejutkan pihak pemerintah. Mereka memperingatkan kita bahwa terdapat sokongan rakyat lokal yang sangat masif demi meraih cita-cita bangsa yang merdeka dan berdaulat, dan apabila kita menanggapi secara terlampau keras, hal itu dapat memicu pertumpahan darah dan bahkan perang terbuka. \n\nKita juga harus mempertimbangkan komitmen global serta wibawa internasional kita. Oleh karena itu, tawaran paling diplomatik adalah mengizinkan mereka bergabung bersama kita sebagai mitra setara dalam Persemakmuran [BEL.GetAdjective]. \n\nSebagai alternatif, sebagian besar kekayaan kita bersumber dari wilayah tersebut, dan keuangan negara kita akan terpukul sangat telak akibat lepasnya koloni ini. Kita dapat menuntut mereka membayar harga kemerdekaan mereka—dengan tebusan yang sangat tinggi. \n\nAkhirnya, kita dapat begitu saja menolak mentah-mentah, dan memobilisasi angkatan perang kita sebagai peringatan keras terhadap setiap potensi pemberontakan.",
+  "congo_independence_struggle.2.a": "Sepanjang mereka bersedia terus bertempur di sisi kita",
+  "congo_independence_struggle.2.b": "Baiklah, namun hanya jika mereka bersedia membayar kompensasi yang sangat besar",
+  "congo_independence_struggle.2.c": "Kita tidak akan pernah membiarkan mereka lepas secara sukarela!",
+  "congo_independence_struggle.3.t": "[FROM.GetNameDefCap] Memberi Kemerdekaan Jika Kita Bergabung dengan Faksi Mereka",
+  "congo_independence_struggle.3.d": "Kita telah menerima warta dari [BEL.GetName], dan mereka mengakui bahwa era kekaisaran kolonial kini kian mendekati ajalnya. Oleh sebab itu, mereka mengulurkan tawaran kepada kita untuk bergabung ke dalam Persemakmuran [Bel.GetAdjective] sebagai bangsa yang bebas dan merdeka, dan dengan demikian menjadi mitra yang setara. Kita tetap akan terikat oleh ketentuan yang sama sebagaimana sekutu militer lainnya, dan karenanya diharapkan untuk maju berperang bersama-sama. \n\nIni kemungkinan merupakan jalan keluar paling diplomatik yang dapat kita harapkan, dan langkah ini memungkinkan kita menghindari pertumpahan darah sepenuhnya dengan sahabat-sahabat Eropa kita sembari tetap menjunjung tinggi kehormatan dan kemerdekaan Afrika.",
+  "congo_independence_struggle.3.a": "Ini terdengar sangat bijaksana. Kita terima!",
+  "congo_independence_struggle.3.b": "Kita tidak dapat menyepakati syarat-syarat semacam itu...",
+  "congo_independence_struggle.4.t": "[FROM.GetNameDefCap] Membebaskan Kita Jika Membayar Kompensasi",
+  "congo_independence_struggle.4.d": "Kita telah menerima kabar dari [BEL.GetName], dan mereka secara harfiah telah menetapkan harga tebusan bagi kemerdekaan kita. Mereka mengingatkan kita akan besarnya modal yang telah mereka tanamkan ke negeri kita, mulai dari pembangunan bentangan rel kereta api yang panjang, pengembangan fasilitas pertambangan, hingga perluasan infrastruktur secara umum. \n\nPada saat itu, hal tersebut diklaim sebagai bagian dari tanggung jawab mereka terhadap kita selaku penguasa kolonial, dan dipandang semata-mata sebagai proses pembudayaan bangsa. Namun kini, mereka menyandera hal ini di atas kepala kita sebagai jaminan yang dirancang demi mempertahankan loyalitas kita melalui ketergantungan ekonomi. \n\nHarga tebusan yang diminta memang bukan mustahil, namun luar biasa tinggi dan akan memiskinkan bangsa kita dalam jangka pendek, serta membelenggu kita dalam jeratan utang untuk kurun waktu yang jauh lebih lama kelak. Pertanyaannya sekarang, apakah ini sepadan dengan harga kemerdekaan, ataukah kemerdekaan harus ditebus dengan darah?",
+  "congo_independence_struggle.4.a": "Kita akan mengumpulkan modal itu, dengan satu atau lain cara",
+  "congo_independence_struggle.4.b": "Kita tidak dapat menyepakati syarat-syarat tersebut...",
+  "congo_independence_struggle.5.t": "Merelakan [FROM.GetNameDef] Lepas",
+  "congo_independence_struggle.5.d": "Kita baru saja menerima kabar dari duta besar baru dari [COG.GetName], yang mengumumkan bahwa mereka telah menerima tawaran kemerdekaan dari penjajahan kolonial [BEL.GetAdjective] sebagai imbalan bergabung ke dalam Persemakmuran [BEL.GetAdjective] sebagai anggota penuh dan setara. Kini pekerjaan besar dimulai untuk menarik seluruh aparatur administrasi dari Kantor Kolonial dan menyerahkan tanggung jawab pemerintahan ini seutuhnya kepada kabinet baru mereka.",
+  "congo_independence_struggle.5.a": "Misi kita telah sampai pada akhirnya!"
+}
+
+def validate_and_save():
+    with open('scripts/chunks/chunk_7.json', 'r', encoding='utf-8') as f:
+        c7_source = json.load(f)
+        
+    print(f"Source count: {len(c7_source)}")
+    print(f"Trans count: {len(c7_trans)}")
+    assert len(c7_source) == len(c7_trans), f"Count mismatch: {len(c7_source)} vs {len(c7_trans)}"
+    
+    tag_errors = 0
+    ordered = {}
+    for item in c7_source:
+        k = item['key']
+        en_val = item['en']
+        assert k in c7_trans, f"Missing key: {k}"
+        id_val = c7_trans[k]
+        
+        # Check brackets
+        en_b = set(re.findall(r'\[.*?\]', en_val))
+        id_b = set(re.findall(r'\[.*?\]', id_val))
+        if en_b != id_b:
+            print(f"Bracket error in {k}:")
+            print(f"  EN: {en_b}")
+            print(f"  ID: {id_b}")
+            tag_errors += 1
+            
+        # Check dollars
+        en_d = set(re.findall(r'\$[A-Za-z0-9_]+\$', en_val))
+        id_d = set(re.findall(r'\$[A-Za-z0-9_]+\$', id_val))
+        if en_d != id_d:
+            print(f"Dollar error in {k}:")
+            print(f"  EN: {en_d}")
+            print(f"  ID: {id_d}")
+            tag_errors += 1
+            
+        # Check section colors
+        en_s = set(re.findall(r'§[A-Za-z!]', en_val))
+        id_s = set(re.findall(r'§[A-Za-z!]', id_val))
+        if en_s != id_s:
+            print(f"Section color error in {k}:")
+            print(f"  EN: {en_s}")
+            print(f"  ID: {id_s}")
+            tag_errors += 1
+            
+        ordered[k] = id_val
+        
+    if tag_errors > 0:
+        raise ValueError(f"{tag_errors} tag errors found!")
+        
+    out_path = 'scripts/chunks/trans_chunk_7.json'
+    with open(out_path, 'w', encoding='utf-8') as f:
+        json.dump(ordered, f, ensure_ascii=False, indent=2)
+        
+    print(f"SUCCESS: Saved {out_path} with {len(ordered)} items.")
+
+if __name__ == '__main__':
+    validate_and_save()

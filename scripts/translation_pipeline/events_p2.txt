@@ -1,0 +1,189 @@
+000: INS_volksraad_events.2.t | [HOL.GetLeader] has vetoed the Volksraad petition.
+001: INS_volksraad_events.2.desc | While the petition was approved by [INS.GetLeader], it was vetoed after being reviewed by [HOL.GetLeader], and we will therefore be unable to continue implementation at this time.
+002: INS_volksraad_events.2.a | Perhaps we can try again in the future with a ratified petition.
+003: INS_volksraad_events.10.t | Motion in the Volksraad to allow the Indonesian language in Schools
+004: INS_volksraad_events.10.desc | [INS.GetLeader] has approved a Volksraad petition to foster the creation of Indonesian-language schools and universities in [INS.GetNameDef], and it has been sent to [HOL.GetLeader] for final approval.
+005: INS_volksraad_events.10.a | The Volksraad is serving its purpose.
+006: INS_volksraad_events.10.b | Absolutely not. Veto it!
+007: INS_volksraad_events.11.t | Indonesian-language education will be established.
+008: INS_volksraad_events.11.desc | The petition has been signed by [HOL.GetLeader], and is now officially mandated. Implementation of the petition will begin shortly once final details are decided.
+009: INS_volksraad_events.11.a | The Volksraad is serving its purpose.
+010: INS_volksraad_events.20.t | Motion in the Volksraad to allow the Indonesian language in Government
+011: INS_volksraad_events.20.desc | Governmental roles in the Indies, including the Volksraad all require fluency in the Dutch language, which has led to many members of the Volksraad, especially representatives of native communities, to question the validity of its democracy. They have put together a motion which insists that government positions should be able to be filled by Indonesian speakers when possible.
+012: INS_volksraad_events.21.t | The Indonesian Language is now permitted in Government!
+013: INS_volksraad_events.21.desc | The petition has been signed by [HOL.GetLeader], and is now officially mandated. Implementation of the petition will begin shortly once final details are decided.
+014: INS_volksraad_events.30.t | Motion in the Volksraad to abolish the Education-Quota System
+015: INS_volksraad_events.30.desc | [INS.GetLeader] has approved a Volksraad petition to abolish the education-quota system in [INS.GetNameDef], in order to end the long-lasting arguments within the Volksraad over its implementation and fairness. It has been sent to [HOL.GetLeader] for final approval.
+016: INS_volksraad_events.31.t | The Education-Quota System has been abolished.
+017: INS_volksraad_events.31.desc | The petition has been signed by [HOL.GetLeader], and is now officially mandated. Implementation of the petition will begin shortly once final details are decided.
+018: INS_volksraad_events.40.t | Motion in the Volksraad to reduce export tax on Rubber
+019: INS_volksraad_events.40.desc | [INS.GetLeader] has signed and approved a Volksraad petition to reduce the high taxes imposed on privately owned rubber plantations. These taxes have historically allowed for a very lucrative government monopoly on rubber, however, international protectionism has made this a much less lucrative system. [INS.GetLeader] has stated he no longer believes the taxes make up for the economic consequences they cause.
+020: INS_volksraad_events.40.a | [INS.GetLeader] has a point.
+021: INS_volksraad_events.40.b | The taxes will stay.
+022: INS_volksraad_events.41.t | The private tax on Rubber Exports has been reduced.
+023: INS_volksraad_events.41.desc | The petition has been signed by [HOL.GetLeader], and is now officially mandated. Implementation of the petition will begin shortly once final details are decided.
+024: INS_volksraad_events.60.t | Motion in the Volksraad to lift the unwritten rank-limit on Indonesian officers
+025: INS_volksraad_events.60.desc | [INS.GetLeader] has approved a Volksraad petition to lift the unwritten rule that limits the rank non-Dutch KNIL officers can hold, and to promote Indonesian officers who are deemed underranked for their accomplishments. The petition has been sent to [HOL.GetLeader] for final approval.
+026: INS_volksraad_events.61.t | The invisible rank-ceiling on [INS.GetAdjective] Generals is lifted.
+027: INS_volksraad_events.61.desc | The petition has been signed by [HOL.GetLeader], and is now officially mandated. Implementation of the petition will begin shortly once final details are decided.
+028: INS_volksraad_events.70.t | Motion in the Volksraad to legalize public display of nationalist flags and imagery
+029: INS_volksraad_events.70.desc | [INS.GetLeader] has approved a Volksraad petition to lift the restrictions of displaying nationalist flags and imagery in public spaces in [INS.GetNameDef], largely in order to reduce the radicalization of many young nationalists. [INS.GetLeader] insists we should take a defensive stance on the issue, cooperating with peaceful nationalist leaders while rooting out revolutionary movements, however the decision ultimately rests with us.
+030: INS_volksraad_events.71.t | The Red/White Flag is no longer illegal to display!
+031: INS_volksraad_events.71.desc | The petition has been signed by [HOL.GetLeader], and is now officially mandated. Implementation of the petition will begin shortly once final details are decided.
+032: INS_volksraad_events.100.t | Motion in the Volksraad to allow education subsidies for non-Dutch residents
+033: INS_volksraad_events.100.desc | [INS.GetLeader] has approved a Volksraad petition to allow non-Dutch residents of [INS.GetNameDef] to apply for education subsidies. The petition has been sent to [HOL.GetLeader] for final approval.
+034: INS_volksraad_events.101.t | [INS.GetAdjective]'s are now able to apply for Education Subsidies
+035: INS_volksraad_events.101.desc | The petition has been signed by [HOL.GetLeader], and is now officially mandated. Implementation of the petition will begin shortly once final details are decided.
+036: INS_union_events.1.t | [HOL.GetNameDefCap] Requests to Relocate Government to [1058.GetName]
+037: INS_union_events.1.desc | With the homeland lost, [HOL.GetNameDef] has informed us that their government and royal household will relocate to [1058.GetName]. They write of necessity, continuity, and the need to keep the Kingdom alive where the flag still flies.
+038: INS_union_events.1.a | The war will continue from [1058.GetName].
+039: INS_union_events.1.b | Who do they think they are! This is nothing but an attempt at reasserting colonial dominance!
+040: INS_union_events.2.t | [INS.GetNameDefCap] Accepts the Relocation Proposal
+041: INS_union_events.2.desc | [INS.GetNameDefCap] has agreed to host our government-in-exile in [1058.GetName]. Preparations for relocation are underway, and both administrations are coordinating the integration of offices and personnel. Together, we will carry the torch of the Kingdom forward from the East.
+042: INS_union_events.2.a | A united front against our common foes.
+043: INS_union_events.3.t | [INS.GetNameDefCap] Declines the Relocation Proposal
+044: INS_union_events.3.desc | [INS.GetNameDefCap] has outright refused our request to relocate to [1058.GetName]. [INS.GetLeader] stated we have no right to demand this level of aid when they are already spread thin enough as it is.
+045: INS_union_events.3.a | It seems they have forgotten whose banner still binds us.
+046: INS_union_events.4.t | [HOL.GetNameDefCap] Relocates Armed Forces to [1058.GetName]
+047: INS_union_events.4.desc | The first transports have arrived from the homeland. Ships crowded with officers, soldiers, and the remnants of our arsenals. As expected, some convoys did not reach port. What survives will form the spine of our forces in [1058.GetName].
+048: INS_union_events.4.a | Enough to keep the flag flying.
+049: INS_union_events.5.t | [INS.GetNameDefCap] Proposes the Netherlands–Indonesia Union
+050: INS_union_events.5.desc | It is clear to the world that the war is not looking in our favor. Our country has fallen and our base of operations has moved to the east. Ministers in [INS.GetName] have sent us a proposal to form a joint union state led by Queen Wilhelmina in order to guarantee as much cooperation as possible. While it seems nobody is particularly happy with the proposal, it may be our key for survival.
+051: INS_union_events.5.a | It is a risk we must undertake. Long live the Queen!
+052: INS_union_events.5.b | We cannot agree to this.
+053: INS_union_events.6.t | [HOL.GetNameDefCap] Accepts the Union Proposal
+054: INS_union_events.6.desc | After urgent debate within the cabinet, [HOL.GetLeader] has approved the [INS.GetAdjective] proposal. The decree is brief and without ceremony. Our governments shall act henceforth as one under the Crown until the war’s end.
+055: INS_union_events.6.a | A historic accord for both nations.
+056: INS_union_events.7.t | [HOL.GetNameDefCap] Declines the Union Proposal
+057: INS_union_events.7.desc | The council in [HOL.GetNameDef] has turned down the proposal for a joint union. Their message is firm, cooperation will continue, but sovereignty will not be shared.
+058: INS_union_events.7.a | It is unlikely to have worked out regardless.
+059: INS_union_events.8.t | [HOL.GetNameDefCap] Proposes the Netherlands–Indonesia Union
+060: INS_union_events.8.desc | It is clear to the world that the war is not looking in our favor. [HOL.GetNameDef] has fallen and their base of operations has moved to the east. [HOL.GetAdjective] leaders have sent us a proposal to form a joint union state led by Queen Wilhelmina in order to guarantee as much cooperation as possible. While it seems nobody is particularly happy with the proposal, it may be our key for survival.
+061: INS_union_events.8.a | It must be done.
+062: INS_union_events.8.b | This is all but an attempt at reasserting colonial dominance.
+063: INS_union_events.9.t | [INS.GetNameDefCap] Accepts the Union Proposal
+064: INS_union_events.9.desc | [INS.GetNameDefCap] has agreed to our proposal. It is unclear how this will turn out, but we must keep our focus on the war effort.
+065: INS_union_events.9.a | If we are to endure, we must endure together.
+066: INS_union_events.10.t | [INS.GetNameDefCap] Declines the Union Proposal
+067: INS_union_events.10.desc | [INS.GetNameDefCap] has declined the proposal for union. The [INS.GetAdjective] people and leaders do not see this working out long term, and oppose any proposal of giving up power.
+068: INS_union_events.10.a | It is unlikely to have worked out regardless.
+069: INS_communist_events.6.t | [FROM.GetAdjective] Agents Agitating in [ROOT.GetName]
+070: INS_communist_events.6.desc | Our intelligence services have confirmed what we long suspected. [FROM.GetNameDefCap] has been conducting a sustained campaign of subversion within our borders, funding radical cells, distributing seditious pamphlets, and organizing strikes among the workers. Their agents have embedded themselves in the trade unions and rural cooperatives, and are now openly calling for the overthrow of our government. The situation has reached a critical point, and we must act decisively before it spirals beyond our control.
+071: INS_communist_events.6.a | This cannot be tolerated!
+072: INS_communist_events.7.t | Communist Subversion in [FROM.GetName]
+073: INS_communist_events.7.desc | Troubling reports have reached us from [FROM.FROM.GetName]. Agents operating on behalf of [FROM.GetNameDef] have been stirring up revolutionary sentiment among the local population, exploiting grievances against our administration to build support for a communist takeover. If left unchecked, [FROM.FROM.GetNameDef] could be lost entirely to the radicals, and the rot may well spread further into our other holdings.
+074: INS_communist_events.7.a | We must stamp this out before it spreads!
+075: INS_communist_events.8.t | [FROM.GetAdjective] Propaganda Circulating in [ROOT.GetName]
+076: INS_communist_events.8.desc | Pamphlets and leaflets of [FROM.GetAdjective] origin have been appearing in our factories, markets, and universities with increasing frequency. They preach the gospel of class warfare and promise liberation through revolution, and our police report that they are finding a receptive audience among the discontented. The material is crude but effective, and its spread shows no signs of slowing.
+077: INS_communist_events.8.a | Find out who is distributing this filth!
+078: INS_communist_events.1.t | Revolution in [ROOT.GetName]
+079: INS_communist_events.1.desc | The situation has deteriorated beyond recovery. Months of [FROM.GetAdjective] agitation have done their work, and the communist movement in [ROOT.GetName] can no longer be contained through ordinary measures. General strikes have paralyzed the cities, armed partisans hold sway over whole provinces, and the [FROM.GetAdjective] government has thrown its full weight behind the revolutionaries. Our security forces are stretched thin and their loyalty is no longer certain. We must decide now whether to fight for the survival of the state or accept the inevitable before more blood is spilled.
+080: INS_communist_events.1.a | Rally the army. We will not go quietly.
+081: INS_communist_events.1.b | Further resistance will only bring ruin upon our people.
+082: INS_communist_events.1.c | Perhaps if we grant them a seat at the table, we can still control this.
+083: INS_communist_events.2.t | [FROM.GetNameDefCap] Chooses to Fight
+084: INS_communist_events.2.desc | The government in [FROM.GetName] has refused to yield, and has ordered its armed forces to suppress the revolutionary movement by force. Our comrades there are already taking up positions and seizing key strongholds. The struggle will not be a short one, but the people of [FROM.GetName] have made their choice, and we shall see to it that they do not stand alone.
+085: INS_communist_events.2.a | The revolution marches forward.
+086: INS_communist_events.3.t | [FROM.GetNameDefCap] Has Fallen
+087: INS_communist_events.3.desc | The old government in [FROM.GetName] has capitulated. Faced with the full scale of the revolutionary movement and the certain knowledge that [ROOT.GetNameDef] stood behind it, they saw no path forward but submission. Power has been transferred to the local communist party, and the new government has already begun reaching out to us for guidance. Another nation has been freed from the grip of the old order.
+088: INS_communist_events.3.a | A great victory for the working peoples of the world.
+089: INS_communist_events.4.t | Civil War Erupts in [FROM.GetName]
+090: INS_communist_events.4.desc | Communist revolutionaries, armed and organized with the backing of [FROM.FROM.GetNameDef], have launched an open insurrection in [FROM.GetName]. The colonial administration has lost control of large swathes of the territory, and the governor reports that the local garrison cannot restore order without reinforcement.
+091: INS_communist_events.4.a | Send in the troops. [FROM.GetName] is ours!
+092: INS_communist_events.5.t | [FROM.GetName] Lost to the Communists
+093: INS_communist_events.5.desc | The administration in [FROM.GetName] has surrendered to the communist insurgents without a fight. The governor and his staff have been placed under arrest, our flag hauled down, and a revolutionary government proclaimed in its place. All of this orchestrated by [FROM.FROM.GetNameDef] and their agents, who have been working to undermine our authority there for months. This is nothing short of theft, and it will not go unanswered.
+094: INS_communist_events.5.a | This is an outrage!
+095: INS_communist_events.9.t | [FROM.GetAdjective] Officers Seen Meeting with Dissidents
+096: INS_communist_events.9.desc | [FROM.GetAdjective] operatives have been spotted in the company of known agitators and militant leaders throughout the country. Student organizers who once handed out leaflets on street corners are now holding meetings behind closed doors with men carrying [FROM.GetAdjective] diplomatic papers. Banned publications are being printed faster than the police can confiscate them, and protests that once fizzled out in an afternoon now shut down entire districts for days. These communists are learning how to organize in larger groups every day, if we do not act fast we may lose control of them.
+097: INS_communist_events.9.a | Root out these foreign agents at once!
+098: INS_communist_events.10.t | [FROM.GetAdjective] Rhetoric Gaining Traction
+099: INS_communist_events.10.desc | [FROM.GetAdjective] pamphlets have been circulating in the barracks and the civil service, and confiscation efforts have done little to stem the tide. They speak of nations unshackled, of peoples who threw off their colonial governors and built something of their own. It would be easier to suppress if the sentiment did not ring true. Even loyal officials have begun to ask, quietly, whether our present arrangement serves our people or merely our masters.
+100: INS_communist_events.10.a | We must tread carefully.
+101: INS_limited_war_events.1.t | Crush Malaya!
+102: INS_limited_war_events.1.desc | The enemy lines have broken and our men press forward unopposed. Across the Strait, the British client state crumbles beneath the weight of the people's anger. The puppets of London thought their bayonets would shield them from history. They were wrong.
+103: INS_limited_war_events.1.a | Merdeka!
+104: INS_limited_war_events.1.b | A fine day for the Republic.
+105: INS_limited_war_events.2.t | [FROM.GetAdjective] Counter-Stroke
+106: INS_limited_war_events.2.desc | What was promised as a swift strike against the puppet regime has soured. The [FROM.GetAdjective] forces, stiffened by their imperial paymasters, have driven our men from the contested ground and now sit upon it as occupiers. Every day the wireless carries word of their boasting. To press on invites further humiliation, but to withdraw is to confess defeat before the whole archipelago.
+107: INS_limited_war_events.2.a | Withdraw the men. Save what we can.
+108: INS_limited_war_events.2.b | We will not yield to the puppets!
+109: INS_limited_war_events.3.t | [FROM.GetName] Bows to the Republic
+110: INS_limited_war_events.3.desc | Word has come from Kuala Lumpur. The puppet government, abandoned at the decisive hour by its London masters, has accepted our terms rather than see its towns burn. The disputed lands are ours. The lesson will not be lost on the other client states of the region.
+111: INS_limited_war_events.3.a | Indonesia rises.
+112: INS_limited_war_events.4.t | [FROM.GetName] Spurns Our Terms
+113: INS_limited_war_events.4.desc | [FROM.GetName] has thrown our offer back in our faces. The puppet ministers, reading from a script written in Whitehall, declare that no inch of soil shall be surrendered and that the Republic itself must be brought to heel before the guns fall silent.
+114: INS_limited_war_events.4.a | Then let the guns speak.
+115: INS_limited_war_events.5.t | [FROM.GetNameDef] Calls for Our Destruction
+116: INS_limited_war_events.5.desc | [FROM.GetNameDefCap] has cast off the last pretense of measured war. Their broadcasts now speak openly of dismembering the Republic and parceling its islands among the old colonial masters. There will be no quiet ending to this affair. Either Indonesia stands at the close of it, or it does not stand at all.
+117: INS_limited_war_events.5.a | We stand or we fall together.
+118: INS_limited_war_events.6.t | The [FROM.GetAdjective] Advance Falters
+119: INS_limited_war_events.6.desc | The [FROM.GetAdjective] thrust caught us unprepared and for a season we feared the worst. Yet their drive has run itself into the mud. Their men are tired, their lines are long, and the bluster from London grows thinner with each communique. The Republic may yet be magnanimous and offer the puppets a way to bow out of this affair, though many would say a clean victory serves the cause better than a measured one.
+120: INS_limited_war_events.6.a | Offer them terms.
+121: INS_limited_war_events.6.b | No mercy for the puppets.
+122: INS_limited_war_events.7.t | Our Offensive Grinds to a Halt
+123: INS_limited_war_events.7.desc | Our advance has stalled, and worse than that, the enemy knows it. A demand has come from across the Strait. Lay down arms now and accept their terms, or watch the casualty lists grow longer for the same outcome. The choice they offer is the size of the funeral.
+124: INS_limited_war_events.7.a | Better a poor peace than a worse war.
+125: INS_limited_war_events.7.b | The Republic does not surrender.
+126: INS_limited_war_events.8.t | [FROM.GetName] Refuses to Bend
+127: INS_limited_war_events.8.desc | [FROM.GetName] has answered our offer with defiance. Their ministers proclaim that they would sooner see every kampong from Penang to Johor put to the torch than yield a single concession to the Republic. So the war goes on.
+128: INS_limited_war_events.8.a | Then so be it.
+129: INS_limited_war_events.9.t | [FROM.GetName] Means to Break the Republic!
+130: INS_limited_war_events.9.desc | Wireless intercepts from the enemy command have confirmed the worst. There will be no settlement, no measured peace, no return to the lines we held before. The puppets and their London masters demand the total surrender of the Republic, that Indonesia be broken on the wheel and her islands handed back to the imperialist boot from which we tore them. To this there is only one answer.
+131: INS_limited_war_events.9.a | Indonesia stands!
+132: INS_martial_law_events.1.t | [INS.GetNameDefCap] wants to strengthen trade relations with us
+133: INS_martial_law_events.1.desc | The President of [INS.GetName] has reached out to us to express their wishes to strengthen the trade relationship between us, and for [INS.GetName] to have a bigger role in the co-prosperity sphere. [INS.GetName]’s president, [INS.GetLeader] has offered an enticing deal wherein rubber and other resources will be sold to us without any fees or taxes, with market controls ensuring low prices.
+134: INS_martial_law_events.1.a | Of course!
+135: INS_martial_law_events.1.b | We are not interested.
+136: INS_martial_law_events.2.t | [FROM.GetName] agrees to trade agreement
+137: INS_martial_law_events.2.desc | [ROOT.GetLeader] has returned from his meeting with the [JAP.GetAdjective] government in [JAP.GetCapitalVictoryPointName] today with good news; The trade agreement proposed in [JAP.GetCapitalVictoryPointName] was agreed to by all parties and will be put into effect shortly.
+138: INS_martial_law_events.2.a | This will greatly benefit both of our economies!
+139: INS_martial_law_events.3.t | [FROM.GetName] rejects trade agreement
+140: INS_martial_law_events.3.desc | [ROOT.GetLeader] has returned from his meeting with the [JAP.GetAdjective] government in [JAP.GetCapitalVictoryPointName] today with the unfortunate news that the negotiations went stale after both sides refused to concede on certain topics, resulting in no trade agreement being passed.
+141: INS_martial_law_events.3.a | A shame.
+142: INS_martial_law_events.4.t | [FROM.GetName] requests we recognize their Malay claims
+143: INS_martial_law_events.4.desc | An envoy from [FROM.GetNameDef] has presented our government with a formal request. President [FROM.GetLeader], who has proclaimed the unification of the Malay world to be his government's foremost goal, asks that we recognize the [INS.GetAdjective] claim to all ethnically Malay lands, from Sri Lanka to the Philippines.
+144: INS_martial_law_events.4.a | We will recognize their right to their historical lands.
+145: INS_martial_law_events.4.b | This is not our concern.
+146: INS_martial_law_events.5.t | [FROM.GetName] recognizes our claims
+147: INS_martial_law_events.5.desc | The government of [FROM.GetName] has formally recognized our claim to the Malay lands. With the blessing of our most powerful ally, the unification of the Malay world is looking much more feasible.
+148: INS_martial_law_events.5.a | Unity!
+149: INS_martial_law_events.6.t | [FROM.GetName] refuses to recognize our claims
+150: INS_martial_law_events.6.desc | The government of [FROM.GetName] has refused to recognize our claim to the Malay world. It seems our so-called allies would rather keep the Malay peoples divided than see us grow strong. We will remember this insult when the time comes.
+151: INS_martial_law_events.6.a | This is but a roadblock, we will persevere, we will succeed!
+152: INS_martial_law_events.7.t | [FROM.GetName] demands control over Northern Malay
+153: INS_martial_law_events.7.desc | [FROM.GetName] has sent out a formal request that we honor our recognition of their Malay claims by organizing the transfer of Northern Malay to [FROM.GetName], which is currently controlled by [SIA.GetName]. This move may anger the [SIA.GetAdjective] leadership, however it would severely strengthen our ties with [INS.GetName].
+154: INS_martial_law_events.7.a | We must honor the agreement.
+155: INS_martial_law_events.7.b | This is not worth creating conflict within the faction.
+156: INS_martial_law_events.8.t | [FROM.GetName] refuses our request
+157: INS_martial_law_events.8.desc | Despite their official recognition of our claims, the [JAP.GetAdjective] government has refused to mediate the transfer of Northern Malay, with [JAP.GetLeader] insisting they cannot risk conflict within the faction. It is clear their promises are empty and their words hold little meaning in the face of urgency.
+158: INS_martial_law_events.8.a | They have demonstrated an inability to follow through.
+159: INS_martial_law_events.9.t | [FROM.GetName] requests we transfer Northern Malay to [INS.GetNameDef]
+160: INS_martial_law_events.9.desc | [FROM.GetName] has informed us that [INS.GetName] has demanded we transfer Northern Malay to [INS.GetName] as part of their claim on all ethnically Malay territory. The [JAP.GetAdjective] government is officially backing the [INS.GetAdjective] claims, and [JAP.GetAdjective] advisors warn we may risk an armed conflict if we refuse.
+161: INS_martial_law_events.9.a | It is not as though we have a choice.
+162: INS_martial_law_events.9.b | We will not fall to imperialism!
+163: INS_martial_law_events.9.a.tt | §W§RWe risk being percieved as weak, which may lead to future concessions being demanded.§!§!
+164: INS_martial_law_events.10.t | [JAP.GetName] and [FROM.GetName] agree to the transfer
+165: INS_martial_law_events.10.desc | [JAP.GetName] has agreed to mediate the transfer of Northern Malay, and has sent envoys to negotiate in [SIA.GetCapitalVictoryPointName], together with [INS.GetAdjective] envoys. An agreement has been reached between the three parties, concluding that Northern Malay is, effective immediately, [INS.GetAdjective] territory.
+166: INS_martial_law_events.10.a | Wonderful!
+167: INS_martial_law_events.11.t | [FROM.GetName] refuses the transfer
+168: INS_martial_law_events.11.desc | [SIA.GetLeader] has refused to participate in a meeting, making it clear he has no intention of giving up Northern Malay regardless of the consequences. When we stated the severity of this decision, [SIA.GetLeader] was not persuaded and called our bluff, refusing to comply with any demands. Unfortunately, this leaves us without many options to continue.
+169: INS_martial_law_events.11.a | Then it is war.
+170: INS_martial_law_events.12.t | [FROM.GetName] informs us [SIA.GetName] has refused to comply
+171: INS_martial_law_events.12.desc | Envoys from [FROM.GetName] have arrived at [ROOT.GetCapitalVictoryPointName] bringing the unfortunate news that the [SIA.GetAdjective] has refused outright to comply to any transfer or negotiation, and that [JAP.GetNameDef] has formally kicked [SIA.GetNameDef] out of the faction.
+172: INS_martial_law_events.12.a | Then it is war.
+173: INS_martial_law_events.13.t | [FROM.GetName] requests overlordship of [SIA.GetName]
+174: INS_martial_law_events.13.desc | [FROM.GetName] has informed us of their wish to secure overlordship over [SIA.GetName], due to [FROM.GetLeader]’s belief that [SIA.GetName] is a weak nation unable to stand up for itself, which was made abundantly clear by their immediate submission to the request of Northern Malay. The value [INS.GetName] has provided to the faction is not insignificant, and it seems we risk losing them as an ally if we do not comply with their request.
+175: INS_martial_law_events.13.a | They have earned it.
+176: INS_martial_law_events.13.b | Absolutely not.
+177: INS_martial_law_events.14.t | [FROM.GetName] agrees to the transfer
+178: INS_martial_law_events.14.desc | The government of [FROM.GetName] has agreed to place [SIA.GetNameDef] under our authority effective immediately.
+179: INS_martial_law_events.14.a | Wonderful.
+180: INS_martial_law_events.15.t | [FROM.GetName] refuses the transfer
+181: INS_martial_law_events.15.desc | The government of [FROM.GetName] has refused to transfer overlordship over [SIA.GetName] to us despite their demonstrated inability to defend themselves.
+182: INS_martial_law_events.15.a | A shame.
+183: INS_martial_law_events.16.t | A new leadership for [ROOT.GetName]
+184: INS_martial_law_events.16.desc | With the restructuring of our government to the Union of Indonesian Provinces, the previous system of a Presidential body overseeing a democratically elected council will be replaced with a new federal presidential system. We must elect a new President
+185: INS_martial_law_events.16.a | This is just an internal restructuring, keep the same leadership.
+186: INS_martial_law_events.16.b | Hatta will take over
+187: INS_martial_law_events.16.c | Kartosoewirjo is a popular choice!
+188: INS_martial_law_events.16.d | A military governance is needed for now.

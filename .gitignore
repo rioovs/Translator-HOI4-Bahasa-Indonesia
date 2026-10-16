@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller
+*.manifest
+*.spec
+build/
+# dist/ is kept or ignored depending on preference; usually ignored in git to keep repo lean
+dist/
+
+# Paradox Backups
+*_backup_*/
+*.bak
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE & OS
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+.DS_Store

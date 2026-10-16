@@ -1,0 +1,478 @@
+[
+  {
+    "key": "wtt_japan.1.t",
+    "id": "[From.GetNameDefCap] Menginginkan Pertuanan atas Koloni Kita"
+  },
+  {
+    "key": "wtt_japan.1.desc",
+    "id": "Memanfaatkan peluang yang timbul dari kelemahan kita, pihak [From.GetAdjective] telah menawarkan untuk 'membantu' kita dalam 'menjaga ketertiban' di koloni-koloni kita. Mereka berpendapat bahwa, dengan jatuhnya daratan utama kita, kita tidak memiliki peluang untuk mempertahankan kendali kita.\\n\\nIni jelas merupakan siasat untuk merebut kendali koloni-koloni kita, namun pilihan apa lagi yang kita miliki?"
+  },
+  {
+    "key": "wtt_japan.1.a",
+    "id": "Sudah saatnya menerima dominasi Jepang di Timur."
+  },
+  {
+    "key": "wtt_japan.1.b",
+    "id": "Mereka harus merebutnya dengan kekerasan!"
+  },
+  {
+    "key": "wtt_japan.2.t",
+    "id": "[From.GetNameDefCap] Memberikan Pertuanan atas Koloni"
+  },
+  {
+    "key": "wtt_japan.2.desc",
+    "id": "[From.GetNameDefCap] telah mempertimbangkan secara seksama tawaran kita untuk 'menjaga ketertiban' di koloni mereka, dan telah memutuskan untuk menerimanya. Mereka secara efektif telah menyerahkan kendali penuh kepada kita."
+  },
+  {
+    "key": "wtt_japan.2.a",
+    "id": "Keputusan yang bijaksana."
+  },
+  {
+    "key": "wtt_japan.3.t",
+    "id": "[From.GetNameDefCap] Menolak Pertuanan atas Koloni"
+  },
+  {
+    "key": "wtt_japan.3.desc",
+    "id": "[From.GetNameDefCap] telah mempertimbangkan dengan matang tawaran kita untuk 'menjaga ketertiban' di koloni mereka, dan memutuskan untuk menolaknya."
+  },
+  {
+    "key": "wtt_japan.3.a",
+    "id": "Kita lihat saja bagaimana nasib mereka nanti."
+  },
+  {
+    "key": "wtt_japan.11.t",
+    "id": "Pakta Non-Agresi dengan [From.GetNameDef]"
+  },
+  {
+    "key": "wtt_japan.11.desc",
+    "id": "Meskipun ketegangan antara [From.GetAdjective] dan [Root.GetNameDef] meningkat hingga akhir-akhir ini, pihak [From.GetAdjective] kini telah membuka perundingan untuk sebuah Pakta Non-Agresi. Keuntungan bagi kita sudah jelas, namun yang patut kita waspadai adalah keuntungan yang akan diperoleh pihak [From.GetAdjective], dan apakah kita kelak akan menyesali langkah ini."
+  },
+  {
+    "key": "wtt_japan.11.a",
+    "id": "Kita harus menjaga perdamaian... untuk saat ini."
+  },
+  {
+    "key": "wtt_japan.11.b",
+    "id": "Mencegah mereka meraih keuntungan adalah prioritas utama!"
+  },
+  {
+    "key": "wtt_japan.12.t",
+    "id": "[From.GetNameDefCap] Menerima Pakta Non-Agresi"
+  },
+  {
+    "key": "wtt_japan.12.desc",
+    "id": "[From.GetNameDefCap] telah secara resmi menerima tawaran Pakta Non-Agresi dari kita."
+  },
+  {
+    "key": "wtt_japan.12.a",
+    "id": "Mereka masuk tepat ke dalam perangkap kita."
+  },
+  {
+    "key": "wtt_japan.13.t",
+    "id": "[From.GetNameDefCap] Menolak Pakta Non-Agresi"
+  },
+  {
+    "key": "wtt_japan.13.desc",
+    "id": "Entah dengan alasan apa, [From.GetNameDef] telah menolak tawaran Pakta Non-Agresi dari kita."
+  },
+  {
+    "key": "wtt_japan.13.a",
+    "id": "Apakah mereka sedang bersekongkol melawan kita?"
+  },
+  {
+    "key": "wtt_japan.21.t",
+    "id": "Pertukaran Jenderal [From.GetAdjective]"
+  },
+  {
+    "key": "wtt_japan.21.desc",
+    "id": "Pihak [From.GetAdjective] telah memutuskan untuk memanggil kembali pegawai negeri dan jenderal berhaluan kiri mereka, dan sebaliknya mengirimkan jenderal serta pegawai negeri berhaluan kanan mereka kepada kita dalam pengasingan tidak resmi."
+  },
+  {
+    "key": "wtt_japan.21.a",
+    "id": "Tampaknya sesuatu sedang bergejolak di [From.GetNameDef]..."
+  },
+  {
+    "key": "wtt_japan.22.t",
+    "id": "Jenderal [Root.GetAdjective] Telah Ditukar"
+  },
+  {
+    "key": "wtt_japan.22.desc",
+    "id": "Proses pertukaran jenderal dan pegawai negeri berhaluan kanan kita dengan jenderal dan pegawai negeri berhaluan kiri yang sebelumnya kita kirim ke pengasingan tidak resmi di [From.GetNameDef] kini telah selesai."
+  },
+  {
+    "key": "wtt_japan.22.a",
+    "id": "Ini akan memperkokoh cengkeraman kita atas [Root.GetNameDef]."
+  },
+  {
+    "key": "wtt_japan.31.t",
+    "id": "Nasib Keluarga Kekaisaran"
+  },
+  {
+    "key": "wtt_japan.31.desc",
+    "id": "Waktunya telah tiba untuk menentukan nasib Kaisar dan keluarganya. Status sosial turun-temurun tidak memiliki tempat di Jepang baru yang sedang kita bangun. Apa yang harus kita lakukan terhadap mereka?"
+  },
+  {
+    "key": "wtt_japan.31.a",
+    "id": "Asingkan mereka!"
+  },
+  {
+    "key": "wtt_japan.31.b",
+    "id": "Penggal kepala mereka!"
+  },
+  {
+    "key": "wtt_japan.32.t",
+    "id": "Keluarga Kekaisaran yang Terasing"
+  },
+  {
+    "key": "wtt_japan.32.desc",
+    "id": "[From.GetNameDefCap] telah mengasingkan keluarga kekaisaran, memberikan anugerah besar bagi kita dengan melakukannya! Beliau kini telah tiba di [Root.GetNameDef], dan terlepas dari pengasingannya, pengaruh beliau di mata rakyat dan pasukan masih sangat besar."
+  },
+  {
+    "key": "wtt_japan.32.a",
+    "id": "Kita harus layak menjadi rumah bagi beliau!"
+  },
+  {
+    "key": "wtt_japan.101.t",
+    "id": "Reunifikasi Manchuria"
+  },
+  {
+    "key": "wtt_japan.101.desc",
+    "id": "Dengan kemenangan mereka baru-baru ini melawan [MAN.GetName], pemerintah Jepang kini mengakui ikatan Tiongkok dengan wilayah tersebut, dan segera mengalihkan seluruh kendali kepada kita. Dengan gestur itikad baik ini, mereka menawarkan persekutuan kepada kita."
+  },
+  {
+    "key": "wtt_japan.101.a",
+    "id": "Mungkin bangsa Jepang memang masih bisa diajak berunding."
+  },
+  {
+    "key": "wtt_japan.101.b",
+    "id": "Kita terima Manchuria, tapi bukan kebaikan mereka."
+  },
+  {
+    "key": "wtt_japan.102.desc",
+    "id": "[From.GetNameDefCap] berterima kasih kepada kita atas pengembalian Manchuria, dan telah menerima tawaran persekutuan kita."
+  },
+  {
+    "key": "wtt_japan.103.desc",
+    "id": "[From.GetNameDefCap] berterima kasih kepada kita atas pengembalian Manchuria, namun menolak tawaran persekutuan kita."
+  },
+  {
+    "key": "wtt_japan.104.t",
+    "id": "Kedaulatan Filipina"
+  },
+  {
+    "key": "wtt_japan.104.desc",
+    "id": "[From.GetNameDefCap] telah membuat pernyataan terbuka dan tegas bahwa mereka 'tidak dapat lagi tinggal diam dan menyaksikan' sebuah bangsa di kawasan pengaruh mereka terus hidup di bawah sepatu lars Barat. Mereka kini menuntut agar kita mempercepat garis waktu dekolonisasi dan memberikan kedaulatan penuh kepada Filipina secepatnya."
+  },
+  {
+    "key": "wtt_japan.104.a",
+    "id": "Mereka benar. Filipina berhak atas kebebasan mereka."
+  },
+  {
+    "key": "wtt_japan.104.b",
+    "id": "Filipina akan tetap menjadi milik Amerika!"
+  },
+  {
+    "key": "wtt_japan.105.desc",
+    "id": "[From.GetNameDefCap] telah menanggapi tuntutan kita demi kemerdekaan penuh Filipina, dan pemerintah Amerika kini telah melakukan persiapan segera untuk memberikan kedaulatan penuh kepada wilayah Pasifik mereka."
+  },
+  {
+    "key": "wtt_japan.105.a",
+    "id": "Setidaknya mereka masih berpikir jernih."
+  },
+  {
+    "key": "wtt_japan.106.desc",
+    "id": "[From.GetNameDefCap] telah menanggapi tuntutan kita demi kemerdekaan penuh Filipina, dengan menegaskan kembali 'kepentingan vital Amerika' yang diwakili oleh Filipina di kawasan tersebut."
+  },
+  {
+    "key": "wtt_japan.106.a",
+    "id": "Dan mereka menyebut diri mereka 'pembela Kebebasan'?"
+  },
+  {
+    "key": "wtt_japan.107.desc",
+    "id": "[From.GetNameDefCap] telah menanggapi tuntutan Jepang demi kemerdekaan penuh kita, dan pemerintah Amerika kini telah melakukan persiapan segera untuk memberi kita kedaulatan penuh!"
+  },
+  {
+    "key": "wtt_japan.107.a",
+    "id": "Pujilah bangsa Jepang!"
+  },
+  {
+    "key": "wtt_japan.108.t",
+    "id": "Kudeta Perwira Muda"
+  },
+  {
+    "key": "wtt_japan.108.desc",
+    "id": "Sekelompok perwira muda telah berhasil membunuh sejumlah pejabat pemerintah serta perdana menteri. Mereka telah menduduki kota Tokyo dan mengamankan Istana Kekaisaran, seraya mengumumkan niat mereka untuk membersihkan pemerintahan dari 'pejabat korup' dan 'ancaman ideologis', demi memulihkan Kaisar sebagai penguasa tunggal bangsa.\\n\\nTindakan mereka memperoleh dukungan militer yang luar biasa besar, di mana operasi tandingan yang direncanakan berhasil digagalkan lewat penangkapan massal dan pembunuhan terhadap elemen-elemen yang setia kepada pemerintah lama. Dihadapkan pada peristiwa yang begitu mendadak dan tak terbendung, serta kendali para pemberontak atas istana, Kaisar tidak menunjukkan tanda-tanda mengecam aksi mereka.\\n\\nPerlawanan terorganisir pemerintah tampaknya telah runtuh, dan para pemberontak diperkirakan akan segera mengumumkan berlakunya kendali Kekaisaran secara mutlak atas seluruh bidang kebijakan domestik, luar negeri, dan militer."
+  },
+  {
+    "key": "wtt_japan.108.a",
+    "id": "Tennōheika Banzai!"
+  },
+  {
+    "key": "wtt_japan.109.t",
+    "id": "Jepang Mengusulkan Pakta Tripartit"
+  },
+  {
+    "key": "wtt_japan.109.desc",
+    "id": "[From.GetNameDefCap] telah mengirimkan utusan penjajakan untuk memastikan minat kita terhadap pakta tiga kekuatan antara kita, pihak [JAP_initiator.GetAdjective], dan pihak [ITA_fascism.GetAdjective]. Pihak [JAP_initiator.GetAdjective] berpendapat bahwa kita harus saling mendukung mengingat opini global yang kian memusuhi perjuangan kita."
+  },
+  {
+    "key": "wtt_japan.109.a",
+    "id": "Gagasan yang luar biasa. Kita akan menandatangani Pakta ini."
+  },
+  {
+    "key": "wtt_japan.109.b",
+    "id": "Tidak, kita tidak boleh mengambil risiko memusuhi dunia."
+  },
+  {
+    "key": "wtt_japan.110.desc",
+    "id": "[JAP_initiator.GetNameDefCap] telah mengirim utusan penjajakan untuk memastikan minat kita terhadap pakta tiga kekuatan antara kita, pihak [JAP_initiator.GetAdjective], dan pihak [GER_fascism.GetAdjective]. Pihak [JAP_initiator.GetAdjective] berpendapat bahwa saling mendukung adalah keharusan di tengah opini global yang kian memusuhi perjuangan kita. Pihak [GER_fascism.GetAdjective] telah menyatakan persetujuannya terhadap gagasan ini."
+  },
+  {
+    "key": "wtt_japan.111.t",
+    "id": "Pakta Tripartit Ditandatangani"
+  },
+  {
+    "key": "wtt_japan.111.desc",
+    "id": "Pemerintah [GER_fascism.GetAdjective] dan [ITA_fascism.GetAdjective] telah sepakat untuk menandatangani rancangan Pakta Tripartit, berikrar untuk berdiri di sisi kita apabila perang meletus."
+  },
+  {
+    "key": "wtt_japan.112.t",
+    "id": "[From.GetNameDefCap] Menolak Pakta Tripartit"
+  },
+  {
+    "key": "wtt_japan.112.desc",
+    "id": "Pemerintah [From.GetAdjective] telah menolak usulan Pakta Tripartit, memilih untuk berjuang sendirian."
+  },
+  {
+    "key": "wtt_japan.113.t",
+    "id": "[From.GetNameDefCap] Menandatangani Pakta Tripartit"
+  },
+  {
+    "key": "wtt_japan.113.desc",
+    "id": "Pemerintah [ITA_fascism.GetAdjective] telah sepakat untuk menandatangani usulan Pakta Tripartit, berikrar untuk berdiri di sisi kita apabila perang meletus."
+  },
+  {
+    "key": "wtt_japan.114.t",
+    "id": "Elemen Demokratis Melancarkan Kudeta"
+  },
+  {
+    "key": "wtt_japan.114.desc",
+    "id": "Elemen-elemen demokratis di dalam tubuh pemerintahan telah memprakarsai pengambilalihan negara secara mengejutkan, setelah pihak militer mengancam akan kembali mengekang hak-hak demokratis rakyat yang diperoleh dengan susah payah. Dengan ketangkasan yang mencengangkan, sebagian besar militer justru angkat senjata demi membela rakyat dan hak-hak kebebasan mereka.\\n\\nPerpecahan di tubuh militer ini memungkinkan perwakilan rakyat merebut kekuasaan di cabang legislatif dan eksekutif. Kendati pertempuran baru saja dimulai, kecil kemungkinan pemerintahan saat ini dapat digulingkan dengan mudah."
+  },
+  {
+    "key": "wtt_japan.114.a",
+    "id": "Jangan biarkan militer memerintah kita lagi!"
+  },
+  {
+    "key": "wtt_japan.115.t",
+    "id": "[From.GetName] Menyerang Uni Soviet"
+  },
+  {
+    "key": "wtt_japan.115.desc",
+    "id": "[From.GetNameDefCap] telah menyerang Uni Soviet secara sepihak, mengabaikan pakta non-agresi kita dengan mereka. Kita tidak punya pilihan lain selain menghormati persekutuan kita dan mendukung serangan [From.GetAdjective], atau menghormati pakta non-agresi kita dengan Soviet dan mengecam serangan tersebut."
+  },
+  {
+    "key": "wtt_japan.115.a",
+    "id": "Kita akan bergabung dengan sekutu kita!"
+  },
+  {
+    "key": "wtt_japan.115.b",
+    "id": "Perjanjian kita tak boleh dilanggar... Untuk saat ini."
+  },
+  {
+    "key": "wtt_japan.116.t",
+    "id": "[From.GetName] Bergabung dalam Perang"
+  },
+  {
+    "key": "wtt_japan.116.desc",
+    "id": "[From.GetNameDefCap] telah memutuskan untuk bergabung dalam perang kita melawan Soviet, mengabaikan pakta non-agresi mereka sebelumnya."
+  },
+  {
+    "key": "wtt_japan.116.a",
+    "id": "Sudah seharusnya demikian."
+  },
+  {
+    "key": "wtt_japan.117.t",
+    "id": "[From.GetName] Mengecam Perang Kita"
+  },
+  {
+    "key": "wtt_japan.117.desc",
+    "id": "[From.GetNameDefCap] telah memutuskan untuk menghormati pakta non-agresi mereka dengan Soviet, mengabaikan komitmen mereka kepada kita sebagai sekutu. Mereka telah mengecam agresi kita, yang tampaknya merupakan upaya untuk menyelamatkan situasi diplomatik dengan sesama anggota pakta."
+  },
+  {
+    "key": "wtt_japan.117.a",
+    "id": "Sungguh sangat disayangkan."
+  },
+  {
+    "key": "wtt_japan.118.t",
+    "id": "[From.GetName] Memohon Bantuan"
+  },
+  {
+    "key": "wtt_japan.118.desc",
+    "id": "[From.GetNameDefCap] saat ini tengah terjebak dalam perang saudara yang menghancurkan, dan kesulitan mengimbangi kekuatan militer musuh mereka. Pemerintahan transisi mereka kini telah mendekati perwakilan kita dengan tawaran untuk menyerahkan semenanjung Sakhalin Selatan demi mendapatkan bantuan militer yang sangat mereka butuhkan.\\n\\nIni bisa menjadi cara mudah untuk memperoleh wilayah sebagai imbalan atas pengiriman divisi sukarelawan."
+  },
+  {
+    "key": "wtt_japan.118.a",
+    "id": "Gagasan yang sangat bagus!"
+  },
+  {
+    "key": "wtt_japan_118_TT",
+    "id": "Para sukarelawan ini akan dikembalikan ke cadangan tenaga manusia jika §Y[From.GetName]§! memenangkan perang saudara."
+  },
+  {
+    "key": "wtt_japan.118.b",
+    "id": "Ini bukan pertukaran yang menguntungkan bagi kita."
+  },
+  {
+    "key": "wtt_japan.119.t",
+    "id": "[From.GetName] Menerima Pertukaran"
+  },
+  {
+    "key": "wtt_japan.119.desc",
+    "id": "[From.GetNameDefCap] telah menerima tawaran kita untuk menukar Semenanjung Sakhalin Selatan dengan dukungan militer. Mereka telah mengerahkan beberapa divisi 'sukarelawan' untuk membantu perjuangan kita!"
+  },
+  {
+    "key": "wtt_japan.119.a",
+    "id": "Mereka akan sangat berguna!"
+  },
+  {
+    "key": "wtt_japan.119.TT",
+    "id": "Dapatkan 8 unit dengan §Y12 batalion infanteri§! dan §Y3 batalion bantuan§!."
+  },
+  {
+    "key": "wtt_japan.120.t",
+    "id": "[From.GetName] Menolak Pertukaran"
+  },
+  {
+    "key": "wtt_japan.120.desc",
+    "id": "[From.GetNameDefCap] telah memberitahu kita bahwa mereka menolak tawaran untuk menukar Semenanjung Sakhalin Selatan demi dukungan militer."
+  },
+  {
+    "key": "wtt_japan.120.a",
+    "id": "Kita kini harus berjuang sendiri..."
+  },
+  {
+    "key": "wtt_japan.121.t",
+    "id": "[From.GetName] Merebut Tokyo"
+  },
+  {
+    "key": "wtt_japan.121.desc",
+    "id": "[From.GetNameDefCap] telah merebut ibu kota Jepang, dan pemerintah fasis [From.From.GetAdjective] telah runtuh. Jika kita ingin bertindak, kita harus melakukannya saat ini juga. Sangat penting bagi kita untuk bergerak cepat mengamankan kendali atas pulau-pulau luar Jepang dan mengambil alih komando elemen fasis yang tersisa, jika kita ingin membendung ancaman komunis."
+  },
+  {
+    "key": "wtt_japan.121.a",
+    "id": "Jalankan rencana ini."
+  },
+  {
+    "key": "wtt_japan.121.b",
+    "id": "Hal ini tidak menarik bagi kita saat ini."
+  },
+  {
+    "key": "wtt_japan.122.t",
+    "id": "Kaum Fasis Melarikan Diri ke Manchuria"
+  },
+  {
+    "key": "wtt_japan.122.desc",
+    "id": "Dengan jatuhnya Tokyo, pemerintah fasis telah runtuh dan para pendukung serta unit militer mereka yang tersisa melarikan diri ke [MAN.GetName], yang telah mengambil alih kendali atas pulau-pulau terluar serta wilayah kekuasaan di Korea dan Tiongkok.\\n\\nPerang saudara secara efektif telah berakhir, namun gencatan senjata ini sangat rapuh, karena kaum fasis belum sepenuhnya ditumpas secara telak."
+  },
+  {
+    "key": "wtt_japan.122.a",
+    "id": "Kita akan berurusan dengan mereka nanti."
+  },
+  {
+    "key": "wtt_japan.123.t",
+    "id": "Perlawanan Fasis Runtuh"
+  },
+  {
+    "key": "wtt_japan.123.desc",
+    "id": "Dengan jatuhnya Tokyo, rezim fasis telah hancur lebur. Para pendukung dan unit militer mereka yang tersisa tidak lagi memiliki tempat bergantung dan mulai tercerai-berai, memungkinkan penguasaan yang mudah atas wilayah-wilayah yang tersisa dan terluar."
+  },
+  {
+    "key": "wtt_japan.123.a",
+    "id": "Perang telah dimenangkan."
+  },
+  {
+    "key": "wtt_japan.124.t",
+    "id": "Sukarelawan Kembali Pulang"
+  },
+  {
+    "key": "wtt_japan.124.desc",
+    "id": "Dengan kemenangan komunis di Jepang, para sukarelawan kita yang selamat kini telah kembali ke tanah air."
+  },
+  {
+    "key": "wtt_japan.125.t",
+    "id": "Soviet Mengembalikan Manchuria"
+  },
+  {
+    "key": "wtt_japan.125.desc",
+    "id": "Setelah membebaskan Manchuria dari cengkeraman Jepang dan menggulingkan kaisar Qing yang digulingkan, [From.GetNameDef] kini menawarkan pengembalian Manchuria kepada kita, seraya menyatakan bahwa wilayah itu harus kembali ke tangan sah [Root.GetAdjective]."
+  },
+  {
+    "key": "wtt_japan.126.t",
+    "id": "[From.GetName] Menawarkan Perdamaian"
+  },
+  {
+    "key": "wtt_japan.126.desc",
+    "id": "Para pejabat [From.GetAdjective] telah mendekati kita dengan tawaran perdamaian. Mereka bersedia angkat kaki sepenuhnya dari benua ini, sebagai imbalan atas penghentian permusuhan segera."
+  },
+  {
+    "key": "wtt_japan.126.a",
+    "id": "Perang telah dimenangkan."
+  },
+  {
+    "key": "wtt_japan.126.b",
+    "id": "Kita hanya akan puas dengan kemenangan mutlak!"
+  },
+  {
+    "key": "wtt_japan.127.t",
+    "id": "[From.GetName] Menerima Perdamaian"
+  },
+  {
+    "key": "wtt_japan.127.desc",
+    "id": "[From.GetNameDef] telah menerima tawaran perdamaian kita, dan telah menghentikan permusuhan sebagai imbalan atas wilayah kekuasaan kita di benua Asia."
+  },
+  {
+    "key": "wtt_japan.127.a",
+    "id": "Mereka telah mengungguli kita... Untuk saat ini."
+  },
+  {
+    "key": "wtt_japan.128.t",
+    "id": "[From.GetName] Menolak Perdamaian"
+  },
+  {
+    "key": "wtt_japan.128.desc",
+    "id": "[From.GetNameDef] telah menolak tawaran perdamaian kita, bersumpah untuk terus berperang hingga memperoleh penyerahan tanpa syarat."
+  },
+  {
+    "key": "wtt_japan.128.a",
+    "id": "Maka kita akan bertempur sampai titik darah penghabisan!"
+  },
+  {
+    "key": "wtt_japan.40.t",
+    "id": "[From.GetLeader] Menuntut Manchuria"
+  },
+  {
+    "key": "wtt_japan.40.desc",
+    "id": "Beberapa hari yang lalu, pemerintah [From.GetNameDef] mulai melancarkan upaya terpadu untuk menekan kita. Artikel utama di surat kabar menuntut agar kita mengembalikan Manchuria ke dalam kendali [From.GetAdjective]. Ini bukan sekadar manuver propaganda untuk konsumsi internal semata, sebab utusan [From.GetLeader] telah menjajaki kita melalui jalur belakang diplomatik untuk mencapai kesepakatan mengenai masa depan wilayah Manchuria.\\n\\nHari ini, [From.GetLeader] sendiri angkat bicara mengenai persoalan tersebut, menuntut pengembalian penuh Manchuria kepada [From.GetNameDef] sesegera mungkin. Jika tidak, pemerintahnya terpaksa meninjau kembali kerja sama kita saat ini."
+  },
+  {
+    "key": "wtt_japan.40.a",
+    "id": "Wilayah itu milik mereka."
+  },
+  {
+    "key": "wtt_japan.40.b",
+    "id": "Mereka belum siap untuk memerintah diri sendiri."
+  },
+  {
+    "key": "wtt_japan.41.t",
+    "id": "Bantuan Militer dari [From.GetNameDef]"
+  },
+  {
+    "key": "wtt_japan.41.desc",
+    "id": "Markas Besar Kekaisaran Jepang telah memutuskan pergeseran mendasar dalam pandangan strategis mereka. Dalam konferensi bersama Kaisar, Menteri Angkatan Darat mempresentasikan rencana baru yang berasumsi bahwa perang melawan Uni Soviet akan pecah dalam waktu dekat. Demi mempersiapkan perang ini, Angkatan Darat Kekaisaran Jepang memutuskan bahwa militer kita harus mampu mempertahankan sebagian garis depan. Untuk tujuan ini, sejumlah besar perlengkapan yang hanya sedikit usang telah disediakan."
+  },
+  {
+    "key": "wtt_japan.41.a",
+    "id": "Sungguh baik hati mereka."
+  }
+]

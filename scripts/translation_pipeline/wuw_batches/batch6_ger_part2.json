@@ -1,0 +1,4403 @@
+[
+  {
+    "idx": 3533,
+    "indent": " ",
+    "key": "GER_wunderwaffe_dornberger_trait_tt",
+    "ver": "",
+    "val": "§Y$GER_walter_dornberger$§! ($high_command$): \\nReplace trait §Y$GER_head_of_the_missile_department$§! by §Y$GER_head_of_experimental_weapons$§! \\nEffective change: \\nFacility Supply Consumption: §G-10.00§! \\n$specialization_naval_speed_factor$: §G+10%§! \\n$specialization_nuclear_speed_factor$: §G+10%§!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3534,
+    "indent": " ",
+    "key": "GER_rally_the_industrialists_hess_stays_tt",
+    "ver": "",
+    "val": "Prevents §Y$GER_rudolf_hess$§! from undertaking his infamous flight.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3535,
+    "indent": " ",
+    "key": "unlock_decision_category_explained",
+    "ver": "",
+    "val": "Unlocks §Y$CATEGORY$§! Decisions. $DESC$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3536,
+    "indent": " ",
+    "key": "GER_integration_of_puppet_economies_decisions_tt",
+    "ver": "",
+    "val": "These decisions allow us to develop or exploit our puppets' economies.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3537,
+    "indent": " ",
+    "key": "GER_a_strong_successor_trigger_tt",
+    "ver": "",
+    "val": "All §Y3§! Ascended Advisors within the §YInner Circle§! have completed their capstone focus.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3538,
+    "indent": " ",
+    "key": "GER_a_strong_successor_tt",
+    "ver": "",
+    "val": "Gets event '§Y$GER_inner_circle.02.t$§!'. \\nOne of the current Ascended $GER_inner_circle_member_title$s within the §YInner Circle§! can replace §Y[ROOT.GetLeader]§! as Country Leader.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3539,
+    "indent": " ",
+    "key": "GER_a_strong_successor_current_advisors_tt",
+    "ver": "",
+    "val": "Current Ascended Advisors: §Y[GetAscendedAdvisorName1]§!, §Y[GetAscendedAdvisorName2]§! or §Y[GetAscendedAdvisorName3]§!.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3541,
+    "indent": " ",
+    "key": "GER_focus_can_only_be_completed_by_advisor_tt",
+    "ver": "",
+    "val": "This focus can only be started by §Y$CHARACTER$§! after having completed the focus §Y$FOCUS$§!.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3542,
+    "indent": " ",
+    "key": "GER_focus_can_only_be_completed_by_advisor_multiple_tt",
+    "ver": "",
+    "val": "This focus can only be started by §Y$CHARACTER$§! or §Y$CHARACTER_2$§! after having completed the focus §Y$FOCUS$§! or §Y$FOCUS_2$§!.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3544,
+    "indent": " ",
+    "key": "GER_ascension_of_character_focus_tt",
+    "ver": "",
+    "val": "§Y$CHARACTER$§! will start working on the focuses in his branch over time.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3545,
+    "indent": " ",
+    "key": "GER_ascension_of_character_tt",
+    "ver": "",
+    "val": "§Y$CHARACTER$§! is appointed §YReichsleiter§! and ascends within the §YInner Circle§! as:",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3546,
+    "indent": " ",
+    "key": "GER_ascended_character_trait_swap_tt",
+    "ver": "",
+    "val": "§Y$CHARACTER$§! rises within the §YInner Circle§!:",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3547,
+    "indent": " ",
+    "key": "GER_total_control_over_domestic_affairs_chancellors_tt",
+    "ver": "",
+    "val": "Based on the appointed Party Chancellor within the §YInner Circle§!:",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3549,
+    "indent": " ",
+    "key": "GER_event_to_replace_ascended_advisor_tt",
+    "ver": "",
+    "val": "Gets event '§YThe Rise of $CHARACTER$§!': \\n§Y$CHARACTER$§! can replace §Y[GetAscendedAdvisorName1]§!, §Y[GetAscendedAdvisorName2]§! or §Y[GetAscendedAdvisorName3]§! within the §YInner Circle§!.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3550,
+    "indent": " ",
+    "key": "replace_ascended_advisor_tt",
+    "ver": "",
+    "val": "§RRemove from§! §YInner Circle§!: \\n§Y$CHARACTER$§! as $TRAIT$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3551,
+    "indent": " ",
+    "key": "GER_stop_progress_on_advisor_focus_tt",
+    "ver": "",
+    "val": "§Y$CHARACTER$§! will stop working on the focus §Y$FOCUS$§!.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3552,
+    "indent": " ",
+    "key": "GER_advisor_will_continue_focus_tt",
+    "ver": "",
+    "val": "§Y$CHARACTER$§! prevails within the §YInner Circle§! and will continue working on the focus §Y$FOCUS$§!.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3553,
+    "indent": " ",
+    "key": "GER_inner_circle_industrial_me_focuses_tt",
+    "ver": "",
+    "val": "(Completing this focus will §Rlock§! §Y$FOCUS_1$§! and §Y$FOCUS_2$§! for their respective $GER_inner_circle_member_title$s)",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3554,
+    "indent": " ",
+    "key": "GER_intrigue_replacing_advisor_already_ascended_tt",
+    "ver": "",
+    "val": "§Y$CHARACTER$§! prevails within the §YInner Circle§! and will be able to complete the focus §Y$FOCUS$§!. \\n\\n§Y$CHARACTER_2$§! and §Y$CHARACTER_3$§! will no longer attempt to complete their respective mutually exclusive focus.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3555,
+    "indent": " ",
+    "key": "GER_inner_circle_event_pending_flag",
+    "ver": "",
+    "val": " There is a pending §YInner Circle§! Event.\\n",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3556,
+    "indent": " ",
+    "key": "GER_intrigue_replacing_advisor_new_ascending_tt",
+    "ver": "",
+    "val": "§Y$CHARACTER$§! ascends within the §YInner Circle§! as: \\n$IDEA$ \\n§Y$CHARACTER$§! will be able to complete the focus §Y$FOCUS$§!. \\n\\n§Y$CHARACTER_2$§! and §Y$CHARACTER_3$§! will no longer attempt to complete their respective mutually exclusive focus.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3557,
+    "indent": " ",
+    "key": "GER_inner_circle_cd_flag",
+    "ver": "",
+    "val": " Has appointed another §Y$GER_inner_circle_member_title$§!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3558,
+    "indent": " ",
+    "key": "GER_inner_circle_cd_days_tt",
+    "ver": "",
+    "val": "Days until next §Y$GER_inner_circle_member_title$§! can be appointed: [?GER_inner_circle_cd_flag:days_left|Y0]",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3559,
+    "indent": " ",
+    "key": "GER_inner_circle_focus_in_progress_tt",
+    "ver": "",
+    "val": "§Y$CHARACTER$§! is working on this focus. \\nProgress: §Y$FLAG_DAYS$§!/[?temp_focus_days] days",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3560,
+    "indent": " ",
+    "key": "GER_industrialists_intrigue_prevailed_tt",
+    "ver": "",
+    "val": "§Y$PREVAILED_CHARACTER$§! was trusted to lead the industrial effort and is the only one that can work on the Mutually-Exclusive focus.\\n\\n",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3562,
+    "indent": " ",
+    "key": "GER_inner_circle_title_text",
+    "ver": "",
+    "val": "INNER CIRCLE",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3563,
+    "indent": " ",
+    "key": "GER_inner_circle_hide_button_tt",
+    "ver": "",
+    "val": "[!hide_button] BLABLA",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3564,
+    "indent": " ",
+    "key": "GER_fuhrer_name_text",
+    "ver": "",
+    "val": "§Y[ROOT.GetLeader]§!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3565,
+    "indent": " ",
+    "key": "GER_fuhrer_title_text",
+    "ver": "",
+    "val": "Führer",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3566,
+    "indent": " ",
+    "key": "GER_fuhrer_title_text_female",
+    "ver": "",
+    "val": "Führerin",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3567,
+    "indent": " ",
+    "key": "GER_ascended_advisor_1_name_text",
+    "ver": "",
+    "val": "§Y[GetAscendedAdvisorName1]§!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3568,
+    "indent": " ",
+    "key": "GER_ascended_advisor_2_name_text",
+    "ver": "",
+    "val": "§Y[GetAscendedAdvisorName2]§!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3569,
+    "indent": " ",
+    "key": "GER_ascended_advisor_3_name_text",
+    "ver": "",
+    "val": "§Y[GetAscendedAdvisorName3]§!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3571,
+    "indent": " ",
+    "key": "GER_fuhrer_tooltip",
+    "ver": "",
+    "val": "The [GetFuhrerGenderedName] §Y[GetFuhrerName]§!.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3573,
+    "indent": " ",
+    "key": "remove_character_as_tt",
+    "ver": "",
+    "val": "§RRemove§! §Y$CHARACTER$§! as §Y$ROLE$§!.\\n",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3575,
+    "indent": " ",
+    "key": "GER_oppose_hitler_ww",
+    "ver": "",
+    "val": "Rally the Wehrmacht",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3576,
+    "indent": " ",
+    "key": "GER_oppose_hitler_ww_desc",
+    "ver": "",
+    "val": "Hitler's reign must come to an end. He means to provoke the Western powers by remilitarizing the Rhineland, but doing so will give us the excuse we need to seize power with the help of loyal elements in the Wehrmacht, and rally the people of Germany against him.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3577,
+    "indent": " ",
+    "key": "GER_rally_the_nation",
+    "ver": "",
+    "val": "Rally the Nation",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3578,
+    "indent": " ",
+    "key": "GER_rally_the_nation_desc",
+    "ver": "",
+    "val": "There are many within our nation who are willing to stand up against the Nazis now that the opportunity has arrived. We should rally the people, and perhaps even make contact with paramilitary organizations with experience of fighting against the Nazis ever since the days of the Weimar Republic.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3579,
+    "indent": " ",
+    "key": "GER_rally_the_nation_tt",
+    "ver": "",
+    "val": "We will be able to choose a national spirit that will have to either be §YAltered§! or §RRemoved§! upon the conclusion of the civil war.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3580,
+    "indent": " ",
+    "key": "GER_denazification_campaigns",
+    "ver": "",
+    "val": "Denazification Campaigns",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3581,
+    "indent": " ",
+    "key": "GER_denazification_campaigns_desc",
+    "ver": "",
+    "val": "In order to truly rid ourselves of the Nazi disease that has infected the very heart of [GER.GetNameDef], we must put extensive effort into denazifying, and arresting Nazis or those who harbor them as soon as we find them out.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3582,
+    "indent": " ",
+    "key": "GER_rebuild_the_nation_ww",
+    "ver": "",
+    "val": "Rebuild the Nation",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3583,
+    "indent": " ",
+    "key": "GER_rebuild_the_nation_ww_desc",
+    "ver": "",
+    "val": "We must focus all of our efforts on rapid reconstruction if we wish to recover from the ousting of the Nazi blight. The people will have to live modestly and work hard in the meantime, but will surely do so with the promise of a better tomorrow.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3584,
+    "indent": " ",
+    "key": "GER_revitalize_the_nation",
+    "ver": "",
+    "val": "Revitalize the Nation",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3585,
+    "indent": " ",
+    "key": "GER_revitalize_the_nation_desc",
+    "ver": "",
+    "val": "After the ravages of the civil war, we must look to rebuilding our nation. We will ask the people to set aside their personal comforts for a time, so that we may focus all our resources on attaining this goal.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3586,
+    "indent": " ",
+    "key": "GER_rebuild_the_nation_ww_tt",
+    "ver": "",
+    "val": "Unlocks Decision: §Y$GER_public_works_modifier$§!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3587,
+    "indent": " ",
+    "key": "GER_tend_to_the_future_of_germany",
+    "ver": "",
+    "val": "Tend to the Future of Germany",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3588,
+    "indent": " ",
+    "key": "GER_tend_to_the_future_of_germany_desc",
+    "ver": "",
+    "val": "Now that Germany has been successfully saved from the Nazis, we must look forward towards new horizons, and decide the future trajectory of our nation. For unity,  justice and freedom!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3589,
+    "indent": " ",
+    "key": "GER_tend_to_the_future_of_germany_tt",
+    "ver": "",
+    "val": "Any attempts of §YSeparatist Rebellion§! will be successfully circumvented",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3592,
+    "indent": " ",
+    "key": "GER_start_the_proletarian_revolution",
+    "ver": "",
+    "val": "Start The Proletarian Revolution",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3593,
+    "indent": " ",
+    "key": "GER_start_the_proletarian_revolution_desc",
+    "ver": "",
+    "val": "We had hoped that after the first civil war that the voice of the workers would have been heard more. It does however not seem to be that way, the proletariat deserves better, and by allowing them to rise up, we might finally be able to secure power to those who favor the proletariat, once and for all.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3594,
+    "indent": " ",
+    "key": "GER_start_the_proletarian_revolution_civil_war_tt",
+    "ver": "",
+    "val": "This will lead to a §RCivil War§! if the mission times out!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3595,
+    "indent": " ",
+    "key": "GER_states_with_proletarian_uprising_joins_cw_tt",
+    "ver": "",
+    "val": "States with the §Y$GER_proletariat_uprising_modifier$§! modifier will join the §YCommunist§! side in the event of a Civil War.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3596,
+    "indent": " ",
+    "key": "GER_the_proletarian_revolution_flag",
+    "ver": "",
+    "val": "The Proletarian Revolution is ongoing.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3597,
+    "indent": " ",
+    "key": "GER_formalize_the_intelligence_wing",
+    "ver": "",
+    "val": "Formalize the Intelligence Wing",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3598,
+    "indent": " ",
+    "key": "GER_formalize_the_intelligence_wing_desc",
+    "ver": "",
+    "val": "The country has suffered greatly under rulers which has not had the interest of the people in their minds. To ensure we can now rebuild the nation we must first know what we have to work with. A functional Intelligence Wing will be a good start!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3599,
+    "indent": " ",
+    "key": "GER_propaganda",
+    "ver": "",
+    "val": "Nationwide Propaganda",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3600,
+    "indent": " ",
+    "key": "GER_propaganda_desc",
+    "ver": "",
+    "val": "We have observed the power of propaganda before and cannot deny its effectiveness. By allocating resources to bolstering support for our glorious leaders we make sure to keep our population just where we want them.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3601,
+    "indent": " ",
+    "key": "GER_form_the_stasi",
+    "ver": "",
+    "val": "Form the Stasi",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3602,
+    "indent": " ",
+    "key": "GER_form_the_stasi_desc",
+    "ver": "",
+    "val": "The Intelligence Wing has been a great success and we have now begun looking upon the possibility of creating a Ministry that concerns itself with State Security. It might not be the most popular decision among the people, but it is one that is necessary.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3603,
+    "indent": " ",
+    "key": "GER_effective_operations",
+    "ver": "",
+    "val": "Effective Operations",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3604,
+    "indent": " ",
+    "key": "GER_effective_operations_desc",
+    "ver": "",
+    "val": "As Stasi continues to grow we must expand its area of operations. Missions carried out beyond [ROOT.GetAdjective] borders are as important to our state security as those commenced within the country.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3605,
+    "indent": " ",
+    "key": "GER_assemble_red_orchestra",
+    "ver": "",
+    "val": "Assemble the Red Orchestra",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3606,
+    "indent": " ",
+    "key": "GER_assemble_red_orchestra_desc",
+    "ver": "",
+    "val": "The Red Orchestra was never a solid group, but rather just a number of people gathered around a few resourceful individuals. Some of the members of this so called organization were most adept however, and we should consider recruiting them.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3607,
+    "indent": " ",
+    "key": "GER_ressurect_the_red_front_fighters_league",
+    "ver": "",
+    "val": "Resurrect the Red Front Fighters' League",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3608,
+    "indent": " ",
+    "key": "GER_ressurect_the_red_front_fighters_league_desc",
+    "ver": "",
+    "val": "The Red Front Fighters League was a paramilitary organization affiliated with the movement during the Weimar Republic. Under the fascist regime they bravely fought back both police and other oppressors. In the same fashion as our old regime usually employed, the Red Front Fighters were banned for this. It is time we bring them back!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3609,
+    "indent": " ",
+    "key": "GER_spawn_more_communist_militias_in_civil_war_tt",
+    "ver": "",
+    "val": "If another §YCivil War§! breaks out, create §Y2 German§! units in three core states affected by §Y$GER_proletariat_uprising_modifier$§!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3610,
+    "indent": " ",
+    "key": "GER_ressurect_the_red_front_fighters_league_tt",
+    "ver": "",
+    "val": "§Y2 Militia Units§! will be spawned in §Ythree random states§! currently affected by §Y$GER_proletariat_uprising_modifier$§! or controlled by §Y[ROOT.GetAdjective] Communists§!.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3611,
+    "indent": " ",
+    "key": "GER_reorganize_nationale_volksarmee",
+    "ver": "",
+    "val": "Reorganize the Nationale Volksarmee",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3612,
+    "indent": " ",
+    "key": "GER_reorganize_nationale_volksarmee_desc",
+    "ver": "",
+    "val": "Corruption and fascist sentiments still run deep within our army. To prevent dissent and mutiny we must weed out those that wish us harm. This will leave us with a gaping hole in the ranks, so to ensure our people's safety we must appoint new, loyal generals to lead our brave soldiers into battle should such actions be needed.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3613,
+    "indent": " ",
+    "key": "GER_cannot_join_oppossing_civil_war_side_tt",
+    "ver": "",
+    "val": "These characters will not be able to join the opposing side in a potential §YCivil War§!:",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3614,
+    "indent": " ",
+    "key": "GER_ensure_army_loyalty",
+    "ver": "",
+    "val": "Ensure Army Loyalty",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3615,
+    "indent": " ",
+    "key": "GER_ensure_army_loyalty_desc",
+    "ver": "",
+    "val": "There are those within the ranks that can yet be swayed to our cause rather than the folly they have been forced to adhere too. It will take some work but by instilling a good communal spirit in our soldiers we can ensure their loyalty for years to come.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3616,
+    "indent": " ",
+    "key": "GER_political_commissars",
+    "ver": "",
+    "val": "Political Commissars",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3617,
+    "indent": " ",
+    "key": "GER_political_commissars_desc",
+    "ver": "",
+    "val": "There are those within the ranks that can yet be swayed to our cause rather than the folly they have been forced to adhere too. We must appoint officers whose responsibility it is to educate the common soldier of the benefits of communism and organize them to ensure loyalty.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3618,
+    "indent": " ",
+    "key": "GER_rapid_army_expansion",
+    "ver": "",
+    "val": "Rapid Army Expansion",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3619,
+    "indent": " ",
+    "key": "GER_rapid_army_expansion_desc",
+    "ver": "",
+    "val": "Our Army has not been growing at the same rate as before after our well needed changes. We still have need of a large army to protect our people in an all the more hostile world. A significant mobilization and training push should solve this issue.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3620,
+    "indent": " ",
+    "key": "GER_the_peoples_victory",
+    "ver": "",
+    "val": "The People's Victory",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3621,
+    "indent": " ",
+    "key": "GER_the_peoples_victory_desc",
+    "ver": "",
+    "val": "The people have spoken, and the people have been heard. Our old and corrupt government has shown signs of weakness and we must seize the opportunity to demand their resignation and take the power for ourselves, in the name of the people!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3622,
+    "indent": " ",
+    "key": "GER_legacy_of_the_spartacus_league",
+    "ver": "",
+    "val": "Legacy of the Spartacus League",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3623,
+    "indent": " ",
+    "key": "GER_legacy_of_the_spartacus_league_desc",
+    "ver": "",
+    "val": "The Spartacus League ceased to exist in 1919 as Kommunistische Partei Deutschlands was formed, but some of their ideas are worth bringing back. The League had visions of creating a socialist republic with its basis in democratic elections and the will of the people, yet allowing revolutionary groups if need be. It is time we work towards this goal once more.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3624,
+    "indent": " ",
+    "key": "GER_social_ownership",
+    "ver": "",
+    "val": "Social Ownership",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3625,
+    "indent": " ",
+    "key": "GER_social_ownership_desc",
+    "ver": "",
+    "val": "We have seen what happens when important state services are allowed to be run by people whose goal is not aligned with what is best for the people. To prevent this from ever happening again we should transfer our industry into public ownership.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3626,
+    "indent": " ",
+    "key": "GER_civil_liberties",
+    "ver": "",
+    "val": "Civil Liberties",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3627,
+    "indent": " ",
+    "key": "GER_civil_liberties_desc",
+    "ver": "",
+    "val": "There is a misconception among our comrades that in order for the state to function efficiently and securely, it must coerce every individual into conformity. But this runs counter to the objectives of socialism. Only through the protection of civil liberties will the people be truly loyal to the state.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3628,
+    "indent": " ",
+    "key": "GER_embrace_democratic_institutions",
+    "ver": "",
+    "val": "Embrace Democratic Institutions",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3629,
+    "indent": " ",
+    "key": "GER_embrace_democratic_institutions_desc",
+    "ver": "",
+    "val": "Liberal democracy is nothing more than a front for the bourgeoisie. True democracy requires economic as well as social equality. As such, we alone are positioned to fully incorporate the will of the people into the process of governing the nation.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3630,
+    "indent": " ",
+    "key": "GER_establish_volkskommissariats",
+    "ver": "",
+    "val": "Establish Volkskommissariats",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3631,
+    "indent": " ",
+    "key": "GER_establish_volkskommissariats_desc",
+    "ver": "",
+    "val": "Foreign occupation is unacceptable, but in order to establish legitimate worker-led governments among our newly liberated neighbors, we shall take on the difficult responsibility of stewardship and guide them towards the socialist ideal.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3632,
+    "indent": " ",
+    "key": "GER_establish_volkskommissariats_tt",
+    "ver": "",
+    "val": "Unlocks decisions to §YEstablish Volkskommissariats§! in any current and future §Yneighboring subject states§! that share our ideology.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3633,
+    "indent": " ",
+    "key": "GER_industrialize_volkskommissariats",
+    "ver": "",
+    "val": "Industrialize Volkskommissariats",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3634,
+    "indent": " ",
+    "key": "GER_industrialize_volkskommissariats_desc",
+    "ver": "",
+    "val": "The inefficient application of labor due to a lack of equipment is causing the industries of the Volkskommissariats to lag behind their [ROOT.GetAdjective] counterparts. We must invest in industrialization schemes to correct this imbalance.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3635,
+    "indent": " ",
+    "key": "GER_industrialize_volkskommissariats_tt",
+    "ver": "",
+    "val": "Unlocks Decisions to enact §YIndustrialization Efforts§! in §YVolkskommissariats§!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3636,
+    "indent": " ",
+    "key": "GER_protect_the_revolution",
+    "ver": "",
+    "val": "Protect the Revolution",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3637,
+    "indent": " ",
+    "key": "GER_protect_the_revolution_desc",
+    "ver": "",
+    "val": "Though some see our interventions abroad as a ploy to gain influence, we know that our mission is to protect the proletariat even beyond our borders.To do so, we must have the ability to act outside of the normal bounds of what is internationally acceptable.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3638,
+    "indent": " ",
+    "key": "GER_protect_the_revolution_tt",
+    "ver": "",
+    "val": "Unlocks decision to §YDemand Subjugation§! of §Yneighboring countries§! where a Civil War was triggered by [ROOT.GetNameDef]",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3639,
+    "indent": " ",
+    "key": "GER_instill_german_discipline",
+    "ver": "",
+    "val": "Instill German Discipline",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3640,
+    "indent": " ",
+    "key": "GER_instill_german_discipline_desc",
+    "ver": "",
+    "val": "Looking upon the armies of the Volkskommissariats, it is painfully clear that they lack [ROOT.GetAdjective] standards of discipline and efficiency. We must educate them in these matters so they may better defend against our adversaries.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3641,
+    "indent": " ",
+    "key": "GER_integrate_subjects_economies",
+    "ver": "",
+    "val": "Integrate Subject's Economies",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3642,
+    "indent": " ",
+    "key": "GER_integrate_subjects_economies_desc",
+    "ver": "",
+    "val": "The Volkskommissariat economies have made great progress under our stewardship. In order to maximize efficiency even further, we shall integrate our industries together into a single economic bloc.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3643,
+    "indent": " ",
+    "key": "GER_current_future_volkskommisariats_tt",
+    "ver": "",
+    "val": "All current and future §YVolkskommissariats§!:",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3644,
+    "indent": " ",
+    "key": "GER_integrate_volkskommissariats",
+    "ver": "",
+    "val": "Integrate Volkskommissariats",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3645,
+    "indent": " ",
+    "key": "GER_integrate_volkskommissariats_desc",
+    "ver": "",
+    "val": "The Volkskommissariats were intended to guide the liberated peoples of Europe towards socialism. However, as our economies and cultures have become intertwined, a new sense of identity has emerged that advocates for an expansion of what it means to be [ROOT.GetAdjective]. From here on, we are one people, one country.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3646,
+    "indent": " ",
+    "key": "GER_integrate_volkskommissariats_tt",
+    "ver": "",
+    "val": "Unlocks Decisions to §YIntegrate Volkskommissariats§!. Once §Y[ROOT.GetNameWithFlag]§! integrates the first §YVolkskommissariat§! the country will be known as §Y$GER_german_socialist_union_communism$§!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3647,
+    "indent": " ",
+    "key": "GER_expand_social_welfare",
+    "ver": "",
+    "val": "Expand Social Welfare",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3648,
+    "indent": " ",
+    "key": "GER_expand_social_welfare_desc",
+    "ver": "",
+    "val": "After the Great War, we began to develop a welfare system to benefit the people, but this became more limited after the Great Depression. We should pour resources into rebuilding this institution and make it a badge of honor for every German, proving to the world the superiority of Communism.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3649,
+    "indent": " ",
+    "key": "GER_liberate_austria",
+    "ver": "",
+    "val": "Liberate Austria",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3650,
+    "indent": " ",
+    "key": "GER_liberate_austria_desc",
+    "ver": "",
+    "val": "Our neighbors in the south have long lived under terrible conditions for the people. Though they call another country their home we share much likeness, and even share a language. For the best of the [AUS.GetAdjective] people we shall extend a demand, no, an offer to join us!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3651,
+    "indent": " ",
+    "key": "GER_spark_the_flame_of_revolution",
+    "ver": "",
+    "val": "Spark the Flame of Revolution",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3652,
+    "indent": " ",
+    "key": "GER_spark_the_flame_of_revolution_desc",
+    "ver": "",
+    "val": "The situation for the workers in neighboring countries is not as good as we wish for it to be. In the long run an armed revolution in these countries will be unavoidable, but for now, we should attempt to at least spread the word of communism in these countries.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3653,
+    "indent": " ",
+    "key": "GER_spark_the_flame_of_revolution_tt",
+    "ver": "",
+    "val": "Unlocks decisions to §YBolster Communist Sentiments§! in §Yminor neighboring countries§!. Once the communists have majority support in the influenced country a §YCivil War§! to turn the country §YCommunist§! will break out.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3654,
+    "indent": " ",
+    "key": "GER_proletarian_international_alliance",
+    "ver": "",
+    "val": "Proletarian International",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3655,
+    "indent": " ",
+    "key": "GER_support_the_proletarian_uprising",
+    "ver": "",
+    "val": "Support the Proletarian Uprising",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3656,
+    "indent": " ",
+    "key": "GER_support_the_proletarian_uprising_desc",
+    "ver": "",
+    "val": "As we foresee a sharp increase in the amount of civil wars in our immediate surroundings we must update our stance on how best support uprising workers. These workers may be ill prepared for such an undertaking, and by making sure they are at least well equipped we can ensure that a red wave will cascade across our part of Europe.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3657,
+    "indent": " ",
+    "key": "GER_support_the_proletarian_uprising_tt",
+    "ver": "",
+    "val": "Unlocks §YDecisions§! to send §YInfantry Equipment§! to countries currently engulfed in a civil war as a result of §Y[ROOT.GetAdjective]§! bolstering of §YCommunist§! sentiments.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3658,
+    "indent": " ",
+    "key": "GER_the_proletarian_legion",
+    "ver": "",
+    "val": "The Proletarian Legion",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3659,
+    "indent": " ",
+    "key": "GER_the_proletarian_legion_desc",
+    "ver": "",
+    "val": "We must take responsibility for the uprisings we have started. The proletariat in these countries now ravaged by civil war needs our help to put an end to their corrupt regimes as soon as possible. We must consider sending troops to their aid!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3660,
+    "indent": " ",
+    "key": "GER_the_proletarian_legion_tt",
+    "ver": "",
+    "val": "Once §YAny Country§! that §Y[ROOT.GetNameWithFlag]§! has spurred §YCommunism§! in enters a §YCivil War§!:",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3661,
+    "indent": " ",
+    "key": "GER_strengthen_the_proletarian_international",
+    "ver": "",
+    "val": "Strengthen Proletarian International",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3662,
+    "indent": " ",
+    "key": "GER_strengthen_the_proletarian_international_desc",
+    "ver": "",
+    "val": "As the workers in our neighboring countries are rising up for their rights we see ample opportunity to strengthen our position as a reliable alliance. By inviting these new-founded Communist states into the Proletarian International, we may all grow stronger.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3663,
+    "indent": " ",
+    "key": "GER_strengthen_the_proletarian_international_tt",
+    "ver": "",
+    "val": "Every country in §YEurope§! that §Y[GER.GetNameWithFlag]§! has influenced towards §YCommunism§! will be invited to the §YProletarian International§!. This effect will apply to countries that are influenced towards Communism §Yafter this focus was taken§! as well.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3664,
+    "indent": " ",
+    "key": "GER_proletarian_solidarity",
+    "ver": "",
+    "val": "Proletarian Solidarity",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3665,
+    "indent": " ",
+    "key": "GER_proletarian_solidarity_desc",
+    "ver": "",
+    "val": "We have put considerable time and resources behind our efforts to turn Europe on the path towards Communism. Is it not only fair that we reap the benefits of our labor now?",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3666,
+    "indent": " ",
+    "key": "GER_proletarian_solidarity_decision_tt",
+    "ver": "",
+    "val": "Unlock Decision: §YEncourage Proletarian Solidarity§! to increase resource trade with countries [GER.GetName] have helped turn Communist",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3667,
+    "indent": " ",
+    "key": "GER_liberate_italy",
+    "ver": "",
+    "val": "Liberate Italy",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3668,
+    "indent": " ",
+    "key": "GER_liberate_italy_desc",
+    "ver": "",
+    "val": "The [ITA.GetAdjective]s have long suffered under the rule of [ITA.GetLeader]. Once they were the supposed ally of our own former government, and now that we have changed for the better, it must be our duty to bring them along with us!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3669,
+    "indent": " ",
+    "key": "GER_the_end_to_fascist_europe",
+    "ver": "",
+    "val": "The End to Fascist Europe",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3670,
+    "indent": " ",
+    "key": "GER_the_end_to_fascist_europe_desc",
+    "ver": "",
+    "val": "Even at this time there remains countries in Europe that are subject to a Fascist rule. As we are well aware of the strain this puts on a population we must see to that these countries are liberated at once!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3671,
+    "indent": " ",
+    "key": "GER_bypass_end_to_fascist_europe_tt",
+    "ver": "",
+    "val": "Not: Any other country:\\n   Capital State: Is in §YEurope§!\\n   Current ruling party is §YFascist§!.",
+    "comment": " #The indentations are there so the tt looks correct",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3672,
+    "indent": " ",
+    "key": "GER_war_against_fascism_tt",
+    "ver": "",
+    "val": "Gain §YAnnex§! war goal against any §YFascist§! nation in §YEurope§! that [GER.GetNameDef] does not already have a war goal against. Current effect:",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3673,
+    "indent": " ",
+    "key": "GER_red_europe",
+    "ver": "",
+    "val": "A Red Europe",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3674,
+    "indent": " ",
+    "key": "GER_red_europe_desc",
+    "ver": "",
+    "val": "We cannot limit our efforts to encourage workers to pick up arms and raise the red flag to our immediate neighboring countries. We must spread the proletarian revolution across Europe!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3675,
+    "indent": " ",
+    "key": "GER_spark_the_flame_of_revolution_red_europe_tt",
+    "ver": "",
+    "val": "Unlocks decisions to §YBolster Communist Sentiments§! in §Yminor European countries§!. Once the communists have majority support in the influenced country a §YCivil War§! to turn the country §YCommunist§! will break out.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3676,
+    "indent": " ",
+    "key": "GER_root_out_imperialism",
+    "ver": "",
+    "val": "Root Out Imperialism",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3677,
+    "indent": " ",
+    "key": "GER_root_out_imperialism_desc",
+    "ver": "",
+    "val": "The roots of imperialism grow deep in the soils of Africa and Asia, shackling the workers there. These people have suffered under colonialism for far too long now. We must end the exploitation and give the oppressed masses the means to rise up, seize their fate, and distract our foes.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3678,
+    "indent": " ",
+    "key": "GER_root_out_imperialism_tt",
+    "ver": "",
+    "val": "Unlocks §YDecisions§! to increase resistance and autonomy gain in §YAfrican§! and §YAsian§! countries.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3679,
+    "indent": " ",
+    "key": "GER_strengthen_the_proletarian_international_internationally_tt",
+    "ver": "",
+    "val": "Every country §Youtside Europe§! that §Y[GER.GetNameWithFlag]§! has influenced towards §YCommunism§! will be invited to the §YProletarian International§!. This effect will apply to countries that are influenced towards Communism §Yafter this focus was taken§! as well.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3680,
+    "indent": " ",
+    "key": "GER_hegemony_over_europe",
+    "ver": "",
+    "val": "Hegemony over Europe",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3681,
+    "indent": " ",
+    "key": "GER_hegemony_over_europe_desc",
+    "ver": "",
+    "val": "The old, imperial Europe is crumbling. We will establish a new socialist order in its place, with the workers of Europe looking to us to lead them against the bourgeois tyranny. A proletarian victory will establish our hegemony across the continent.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3682,
+    "indent": " ",
+    "key": "GER_war_against_major_countries_in_europe_tt",
+    "ver": "",
+    "val": "Gain §YAnnex§! war goal against all §YMajor§! nations that controls at least one state in §YEurope§!. Current effect:",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3683,
+    "indent": " ",
+    "key": "GER_align_south_america",
+    "ver": "",
+    "val": "Align South America",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3684,
+    "indent": " ",
+    "key": "GER_align_south_america_desc",
+    "ver": "",
+    "val": "The South American workers have suffered long enough under the yoke of capitalism. Swaying them to our cause will surely lead to staunch allies across the continent",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3685,
+    "indent": " ",
+    "key": "GER_communist_propaganda_south_america_decision_tt",
+    "ver": "",
+    "val": "Unlocks decisions to §YBolster Communist Sentiments§! in §Yminor South American countries§!. Once the communists have majority support in the influenced country a §YCivil War§! to turn the country §YCommunist§! will break out.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3686,
+    "indent": " ",
+    "key": "GER_wage_war_on_capitalism",
+    "ver": "",
+    "val": "Wage War on Capitalism",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3687,
+    "indent": " ",
+    "key": "GER_wage_war_on_capitalism_desc",
+    "ver": "",
+    "val": "Capitalism is the natural enemy of Communism and must be dismantled by force if necessary. We will lead this charge against [USA.GetNameDef], which is the very symbol of capitalism, paving the way for a new socialist era.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3688,
+    "indent": " ",
+    "key": "GER_instigate_middle_eastern_revolutions",
+    "ver": "",
+    "val": "Instigate Middle-Eastern Revolutions",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3689,
+    "indent": " ",
+    "key": "GER_instigate_middle_eastern_revolutions_desc",
+    "ver": "",
+    "val": "The Middle East has long been oppressed by foreign powers and is ripe for a socialist revolution. We should stir the people's lingering desire to finally become free from exploitation and raise the red flag of socialism.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3690,
+    "indent": " ",
+    "key": "GER_communist_propaganda_middle_east_decision_tt",
+    "ver": "",
+    "val": "Unlocks decisions to §YBolster Communist Sentiments§! in §Yminor Middle-Eastern countries§!. Once the communists have majority support in the influenced country a §YCivil War§! to turn the country §YCommunist§! will break out.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3691,
+    "indent": " ",
+    "key": "GER_intervene_in_spain",
+    "ver": "",
+    "val": "Intervene in Spain",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3692,
+    "indent": " ",
+    "key": "GER_intervene_in_spain_desc",
+    "ver": "",
+    "val": "It is our duty to help our comrades in Spain in whatever way we can against the forces of Fascism. Sending battle-hardened troops will surely be appreciated.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3693,
+    "indent": " ",
+    "key": "GER_assist_our_eastern_comrades",
+    "ver": "",
+    "val": "Assist Our Eastern Comrades",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3694,
+    "indent": " ",
+    "key": "GER_assist_our_eastern_comrades_desc",
+    "ver": "",
+    "val": "The struggles of our far eastern comrades have taken their toll. We should alleviate them as best we can. Sending battle-hardened troops might turn the tides of fortune for them.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3695,
+    "indent": " ",
+    "key": "GER_strike_at_the_rising_sun",
+    "ver": "",
+    "val": "Strike at the Rising Sun",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3696,
+    "indent": " ",
+    "key": "GER_strike_at_the_rising_sun_desc",
+    "ver": "",
+    "val": "[JAP.GetNameDefCap] remains a bastion of imperialism, oppressing anyone who wishes for equality and socialism. It is high time the Japanese are brought to heel and accept the new proletarian world order.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3697,
+    "indent": " ",
+    "key": "GER_nationalize_industries",
+    "ver": "",
+    "val": "Nationalize Industries",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3698,
+    "indent": " ",
+    "key": "GER_nationalize_industries_desc",
+    "ver": "",
+    "val": "Having seen the positive outcome of our state centralization of the economy, we might be considering the same for our industry. As it is now, the industry is split under many private owner, using different processes and methods of manufacturing their goods. Nationalizing the industries will give us much more control over the output and efficiency of production.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3699,
+    "indent": " ",
+    "key": "GER_form_agricultural_cooperatives",
+    "ver": "",
+    "val": "Form Agricultural Cooperatives",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3700,
+    "indent": " ",
+    "key": "GER_form_agricultural_cooperatives_desc",
+    "ver": "",
+    "val": "The agricultural sector is one of most importance to us. Several industries depend on the farm workers and their work, and leaving them on their own is hardly a responsible action. By forming cooperatives we can ensure that the agricultural sector works together in unison, with maximum efficiency and minimal loss.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3701,
+    "indent": " ",
+    "key": "GER_effectivize_the_volkswerke",
+    "ver": "",
+    "val": "Effectivize the Volkswerke",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3702,
+    "indent": " ",
+    "key": "GER_effectivize_the_volkswerke_desc",
+    "ver": "",
+    "val": "The so called Volkswerke is one of the few ideas that our predecessors had. As a state controlled industrial conglomerate to oversee growth and production within the mining and steel industry, the Volkswerke is worthy of all the improvements that we can make to it.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3703,
+    "indent": " ",
+    "key": "GER_womens_rights_and_equality",
+    "ver": "",
+    "val": "Women's Rights and Equality",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3704,
+    "indent": " ",
+    "key": "GER_womens_rights_and_equality_desc",
+    "ver": "",
+    "val": "Gender has long been a determining factor in where an individual is expected to serve their country, be it on the front, in the factories or at home. By pursuing a more equal division of burdens we allow for a larger workforce, and a larger army, should the need arise.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3705,
+    "indent": " ",
+    "key": "GER_locks_women_in_workforce_decision_tt",
+    "ver": "",
+    "val": "The §Y$women_in_the_workforce$§! Decision becomes §Yunavailable§!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3706,
+    "indent": " ",
+    "key": "GER_labor_rights_and_union_stuff",
+    "ver": "",
+    "val": "Establish Trade Unions",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3707,
+    "indent": " ",
+    "key": "GER_labor_rights_and_union_stuff_desc",
+    "ver": "",
+    "val": "Allowing workers to unionize to together voice their concerns and stipulate their working conditions have long been neglected in our country. It is in due time that the state not only allow but encourages the formation of workers unions!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3708,
+    "indent": " ",
+    "key": "GER_proletarian_dictatorship",
+    "ver": "",
+    "val": "Proletarian Dictatorship",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3709,
+    "indent": " ",
+    "key": "GER_proletarian_dictatorship_desc",
+    "ver": "",
+    "val": "To provide our people with the best possibilities and living standards we must ensure a stable leadership that is well in tune with the people and their needs. As a long time fighter for the proletariat [ROOT.GetLeader] meets all the qualifications and has proven to have nothing but the best in mind for the workers.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3710,
+    "indent": " ",
+    "key": "GER_state_controlled_economy",
+    "ver": "",
+    "val": "State Controlled Economy",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3711,
+    "indent": " ",
+    "key": "GER_state_controlled_economy_desc",
+    "ver": "",
+    "val": "Our economy is far too brittle to be left to people who do not know how to best manage it. To avoid an economic crisis that would cause long term effects on our people, the state must take control of our economy.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3712,
+    "indent": " ",
+    "key": "GER_central_planning",
+    "ver": "",
+    "val": "Central Planning",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3713,
+    "indent": " ",
+    "key": "GER_central_planning_desc",
+    "ver": "",
+    "val": "As our economy is now within the hands of the state, it seems only right that our economical planning should be centralized as well. Only those with an overview of the country's economy can be expected to make the best calls for where to invest, and how to best distribute resources, after all.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3714,
+    "indent": " ",
+    "key": "GER_the_german_stakhanovite_movement",
+    "ver": "",
+    "val": "The German Stakhanovite Movement",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3715,
+    "indent": " ",
+    "key": "GER_the_german_stakhanovite_movement_desc",
+    "ver": "",
+    "val": "The Stakhanovite movement originated in [SOV.GetName] under communist rule as workers begun taking pride in working harder and producing more than what was really expected of them. This movement skyrocketed production and provided the workers with a stronger sense of purpose. We should consider encouraging similar sentiments here in [ROOT.GetNameDef].",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3716,
+    "indent": " ",
+    "key": "GER_the_german_stakhanovite_movement_tt",
+    "ver": "",
+    "val": "By completing either §Y$GER_establish_the_reichswerke$§! or §Y$GER_invest_in_vereinigte_stahlwerke$§! this focus will modify the amount of resources gained by §G5%§!.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3717,
+    "indent": " ",
+    "key": "GER_spheres_of_influence",
+    "ver": "",
+    "val": "Spheres of Influence",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3718,
+    "indent": " ",
+    "key": "GER_spheres_of_influence_desc",
+    "ver": "",
+    "val": "With two similar minded countries in such close proximity, we must set a level play field for us and [SOV.GetAdjective]. By establishing a sphere of influence and designating one for our comrades to the east, we limit the risk of armed conflict.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3719,
+    "indent": " ",
+    "key": "GER_spheres_of_influence_tt",
+    "ver": "",
+    "val": "Us and §Y[SOV.GetNameWithFlag]§! Will set up our Spheres of Influence in §YEurope§!.\\n\\nOur §YSphere of Influence§! will include:\\n§Y[SWE.GetNameWithFlag]\\n[NOR.GetNameWithFlag]\\n[DEN.GetNameWithFlag]\\n[POL.GetNameWithFlag]§! (West)\\n§Y[CZE.GetNameWithFlag]§! (West)\\n§Y[HUN.GetNameWithFlag]§!\\n\\nTheir §YSphere of Influence will include§!:\\n§Y[FIN.GetNameWithFlag]\\n[EST.GetNameWithFlag]\\n[LAT.GetNameWithFlag]\\n[LIT.GetNameWithFlag]\\n[SLO.GetNameWithFlag]\\n[POL.GetNameWithFlag]§! (East)\\n§Y[ROM.GetNameWithFlag]\\n[BUL.GetNameWithFlag]\\n[YUG.GetNameWithFlag]§!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3720,
+    "indent": " ",
+    "key": "GER_czechoslovakia",
+    "ver": "",
+    "val": "Liberate Workers in [CZE.GetName]",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3721,
+    "indent": " ",
+    "key": "GER_czechoslovakia_desc",
+    "ver": "",
+    "val": "Just across the border to the south, in [CZE.GetNameDef], there are still workers that needs to be freed from the shackles of capitalism. They have yet to fully see the light of correct form of communism and we must make sure to bring it to them, in whatever way needed. Such is our duty as good comrades.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3722,
+    "indent": " ",
+    "key": "GER_poland",
+    "ver": "",
+    "val": "Protect the [POL.GetAdjective] Proletariat",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3723,
+    "indent": " ",
+    "key": "GER_poland_desc",
+    "ver": "",
+    "val": "The proletariat in [POL.GetNameDef] are not yet enjoying the same rights as our [ROOT.GetAdjective] workers. As they fail to thrive under their current leadership it might be time that we step up to liberate and protect them.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3724,
+    "indent": " ",
+    "key": "GER_hungary",
+    "ver": "",
+    "val": "End the Oppression of [HUN.GetAdjective] Workers",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3725,
+    "indent": " ",
+    "key": "GER_hungary_desc",
+    "ver": "",
+    "val": "Workers in [HUN.GetNameDef] are still struggling for rights that should be baseline. The government in the country has clearly failed to see their needs and as such, we must step in to ensure that the proletariat all across [HUN.GetName] is treated fairly and with the respect they deserve.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3726,
+    "indent": " ",
+    "key": "GER_the_northern_shield",
+    "ver": "",
+    "val": "The Northern Shield",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3727,
+    "indent": " ",
+    "key": "GER_the_northern_shield_desc",
+    "ver": "",
+    "val": "The Nordic countries are rich in resource but despite their efforts to unionize their workers the proletariat is still suffering under capitalist interests. We believe that not only do the workers deserve better, but also that we could also utilize these resources much better. The exploitation of the Nordic workers must come to an end!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3728,
+    "indent": " ",
+    "key": "GER_sign_the_second_treaty_of_berlin",
+    "ver": "",
+    "val": "Sign the Second Treaty of Berlin",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3729,
+    "indent": " ",
+    "key": "GER_sign_the_second_treaty_of_berlin_desc",
+    "ver": "",
+    "val": "We are aware of our sizeable army, yet we are equally aware that [SOV.GetNameDef] has an army that we do not wish to engage with. By reaching out and ensuring that we are on the same page to avoid hostilities we can ensure a better future for all workers in our respective countries.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3730,
+    "indent": " ",
+    "key": "GER_defense_treaty_with_the_soviet",
+    "ver": "",
+    "val": "Defense Treaty with the Soviet",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3731,
+    "indent": " ",
+    "key": "GER_defense_treaty_with_the_soviet_desc",
+    "ver": "",
+    "val": "Now that we have agreed with the [SOV.GetAdjective]s not to engage in hostilities we should consider taking the diplomatic relationship a step further. We consider them worthy of our protection, and we assume, that they would feel the same, and that a mutual defense treaty would be just as much in their interests as it is in ours.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3732,
+    "indent": " ",
+    "key": "GER_industrial_cooperation",
+    "ver": "",
+    "val": "Industrial Cooperation",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3733,
+    "indent": " ",
+    "key": "GER_industrial_cooperation_desc",
+    "ver": "",
+    "val": "Our cooperation with the [SOV.GetAdjective]s have so far been restricted to military matters. Considering that [SOV.GetNameDef] is an ally of us, it would only make sense for us to cooperate in other fields as well. Our industrial philosophies are already similar enough that joint efforts in the industrial sector should not be difficult to achieve.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3734,
+    "indent": " ",
+    "key": "GER_tech_sharing",
+    "ver": "",
+    "val": "Industrial Technology Sharing",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3735,
+    "indent": " ",
+    "key": "GER_tech_sharing_desc",
+    "ver": "",
+    "val": "The sharing of technology among us and other like-minded countries should be something we strive for. Reaching out to the [SOV.GetAdjective]s for this endeavor seems the most rational course of action.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3736,
+    "indent": " ",
+    "key": "GER_resource_trade",
+    "ver": "",
+    "val": "Resource Trade",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3737,
+    "indent": " ",
+    "key": "GER_resource_trade_desc",
+    "ver": "",
+    "val": "Though we strive to be able to support ourselves as much as possible, we must allow ourselves to trade with countries who share our ideals. By offering [SOV.GetNameDef] some compensation in the form of industrial capacity, we should be able to secure ourselves a very beneficial deal with them.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3738,
+    "indent": " ",
+    "key": "GER_factories_for_resources",
+    "ver": "",
+    "val": "Factories for Resources",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3739,
+    "indent": " ",
+    "key": "GER_factories_for_resources_desc",
+    "ver": "",
+    "val": "We have an abundance of civilian industry in [ROOT.GetNameDef] that could be put to better use. We are aware that [SOV.GetNameDef] is rather underdeveloped in some regions, coincidentally said regions are also oftentimes rich with valuable resources. A proposition to relocate some industry in return for some of these resources could prove a lucrative opportunity for us.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3740,
+    "indent": " ",
+    "key": "GER_factories_for_resources_tt",
+    "ver": "",
+    "val": "Unlocks §YDecisions§! to relocate industries to §Y[SOV.GetNameWithFlag]§! in return for resources.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3743,
+    "indent": " ",
+    "key": "GER_monarchist_sentiment",
+    "ver": "",
+    "val": "Monarchist Sentiment",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3744,
+    "indent": " ",
+    "key": "GER_monarchist_sentiment_desc",
+    "ver": "",
+    "val": "The people want a monarchy, and that is what they will get. Though the specific form of government has not yet been decided upon, it is nonetheless clear that the German people need their Kaiser back.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3745,
+    "indent": " ",
+    "key": "GER_the_monarchy_compromise_ww",
+    "ver": "",
+    "val": "$GER_the_monarchy_compromise$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3746,
+    "indent": " ",
+    "key": "GER_the_monarchy_compromise_ww_desc",
+    "ver": "",
+    "val": "$GER_the_monarchy_compromise_desc$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3747,
+    "indent": " ",
+    "key": "GER_re_establish_free_elections_ww",
+    "ver": "",
+    "val": "$GER_reestablish_free_elections$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3748,
+    "indent": " ",
+    "key": "GER_re_establish_free_elections_ww_desc",
+    "ver": "",
+    "val": "$GER_reestablish_free_elections_desc$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3749,
+    "indent": " ",
+    "key": "GER_re_ratify_the_locarno_treaty",
+    "ver": "",
+    "val": "Re-ratify the Locarno Treaty",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3750,
+    "indent": " ",
+    "key": "GER_re_ratify_the_locarno_treaty_desc",
+    "ver": "",
+    "val": "The Locarno Treaties were signed in 1925, which had the Entente attempt to normalize relations with us while securing territorial integrity in Europe. While it has been seen as oppressive towards us, it is clear that it is for the best to undo Hitler's mistake of opposing it.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3751,
+    "indent": " ",
+    "key": "GER_re_ratify_the_locarno_treaty_tt",
+    "ver": "",
+    "val": "§Y[FRA.GetNameDefCap]§! will be more likely to accept any diplomatic actions we take",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3752,
+    "indent": " ",
+    "key": "GER_franco_germanic_pact",
+    "ver": "",
+    "val": "Franco-German Pact",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3753,
+    "indent": " ",
+    "key": "GER_franco_germanic_pact_desc",
+    "ver": "",
+    "val": "With our recent normalization of relations with the [FRA.GetAdjective], it would prove wise to deepen our relationship and formalize a pact of friendship and mutual assistance, so that we can stand together against the [SOV.GetAdjective]s in the East.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3754,
+    "indent": " ",
+    "key": "GER_request_the_return_of_french_held_colonies",
+    "ver": "",
+    "val": "Request the Return of French-held Colonies",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3755,
+    "indent": " ",
+    "key": "GER_request_the_return_of_french_held_colonies_desc",
+    "ver": "",
+    "val": "At the end of the Great War, we were stripped of our colonial possessions. With the German Colonial Society regaining popularity under Adenauer, it might be time to request back our old colonies of Kamerun and Togoland. The better our relationship with France, the higher likelihood they may allow us to regain the territory.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3756,
+    "indent": " ",
+    "key": "GER_offer_trade_proposal",
+    "ver": "",
+    "val": "Offer Trade Proposal",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3757,
+    "indent": " ",
+    "key": "GER_offer_trade_proposal_desc",
+    "ver": "",
+    "val": "There are many states with abundant natural resources, with which trade would prove highly profitable. The Indonesian and Congolese territories are rich in rubber and rare metals, so establishing trade deals with [BEL.GetNameDEF] and [HOL.GetNameDef] would allow us to attain the rich resources of their colonies to fuel our industries.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3758,
+    "indent": " ",
+    "key": "GER_reverse_the_brain_drain_ww",
+    "ver": "",
+    "val": "$GER_reverse_the_brain_drain$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3759,
+    "indent": " ",
+    "key": "GER_reverse_the_brain_drain_ww_desc",
+    "ver": "",
+    "val": "$GER_reverse_the_brain_drain_desc$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3760,
+    "indent": " ",
+    "key": "GER_shared_rd_programs_ww",
+    "ver": "",
+    "val": "$GER_shared_rd_programs$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3761,
+    "indent": " ",
+    "key": "GER_shared_rd_programs_ww_desc",
+    "ver": "",
+    "val": "$GER_shared_rd_programs_desc$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3762,
+    "indent": " ",
+    "key": "GER_shared_rd_programs_ww_tt",
+    "ver": "",
+    "val": "The research speed bonus from §Y$GER_rnd_programs_modifier$§! increases by §G+1.00%§! for every new faction member, up to a maximum of §G+10.00%§!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3763,
+    "indent": " ",
+    "key": "GER_shared_rd_programs_2_tt",
+    "ver": "",
+    "val": "Every §YNation§! in our §YFaction§! will also join the §YCentral European Research§! sharing group.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3764,
+    "indent": " ",
+    "key": "GER_pool_technical_know_how_ww",
+    "ver": "",
+    "val": "$GER_pool_technical_know_how$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3765,
+    "indent": " ",
+    "key": "GER_pool_technical_know_how_ww_desc",
+    "ver": "",
+    "val": "$GER_pool_technical_know_how_desc$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3766,
+    "indent": " ",
+    "key": "GER_the_mannheim_project_ww",
+    "ver": "",
+    "val": "The Mannheim Project",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3767,
+    "indent": " ",
+    "key": "GER_the_mannheim_project_ww_desc",
+    "ver": "",
+    "val": "We should redouble our efforts in cracking the secrets of the atom, and look into weaponizing it against the [SOV.GetAdjective]s. This will prove easier thanks to our newfound allies, who may be willing to share any info they have on the matter.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3768,
+    "indent": " ",
+    "key": "GER_ban_political_uniforms",
+    "ver": "",
+    "val": "Ban Political Uniforms",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3769,
+    "indent": " ",
+    "key": "GER_ban_political_uniforms_desc",
+    "ver": "",
+    "val": "The Weimar era was plagued by paramilitary organizations and political groups taking their fight to our streets. In an effort to ensure stability for the future, we should ban these open displays of political affiliation.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3770,
+    "indent": " ",
+    "key": "GER_embrace_liberal_leanings",
+    "ver": "",
+    "val": "Embrace Liberal Leanings",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3771,
+    "indent": " ",
+    "key": "GER_embrace_liberal_leanings_desc",
+    "ver": "",
+    "val": "Conservatism was proved outdated when our Kaiser could not do that which our politicians could at the end of the war. We should always look forward, and strive for a better tomorrow!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3772,
+    "indent": " ",
+    "key": "GER_strive_for_conservative_values",
+    "ver": "",
+    "val": "Strive for Conservative Values",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3773,
+    "indent": " ",
+    "key": "GER_strive_for_conservative_values_desc",
+    "ver": "",
+    "val": "Liberal ideas have run rampant in our nation for too long, weakening the minds of our men, and corrupting our politicians. We must return to our good old fashioned values, so that the chaos of the Weimar Republic may never return.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3774,
+    "indent": " ",
+    "key": "GER_strengthen_the_welfare_state",
+    "ver": "",
+    "val": "Strengthen the Welfare State",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3775,
+    "indent": " ",
+    "key": "GER_strengthen_the_welfare_state_desc",
+    "ver": "",
+    "val": "Our nation has a long history as a welfare state, and it is not something we intend on changing now. We must stick to our principles, and ensure that our people live as good lives as we can possibly provide them.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3776,
+    "indent": " ",
+    "key": "GER_democratic_shield",
+    "ver": "",
+    "val": "Democratic Shield",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3777,
+    "indent": " ",
+    "key": "GER_democratic_shield_desc",
+    "ver": "",
+    "val": "Democracy is in danger all around the world, as it once was in our nation. We know the horrors of the authoritarian and totalitarian populists, and must ensure that the people of other nations do not have to go through what we once did.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3778,
+    "indent": " ",
+    "key": "GER_send_military_support_democratic_shield_tt",
+    "ver": "",
+    "val": "Unlocks decisions to §YSend Military Equipment§! to §YDemocratic§! countries at war",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3779,
+    "indent": " ",
+    "key": "GER_revive_the_kaiserreich_ww",
+    "ver": "",
+    "val": "$GER_revive_the_kaiserreich$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3780,
+    "indent": " ",
+    "key": "GER_revive_the_kaiserreich_ww_desc",
+    "ver": "",
+    "val": "$GER_revive_the_kaiserreich_desc$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3781,
+    "indent": " ",
+    "key": "GER_return_of_the_kaiser_ww",
+    "ver": "",
+    "val": "The Return of the Kaiser",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3782,
+    "indent": " ",
+    "key": "GER_return_of_the_kaiser_ww_desc",
+    "ver": "",
+    "val": "The Kaiserreich needs a Kaiser, and Wilhelm II still lives, exiled in the Netherlands. We will lift his exile and invite him to return to take the throne, despite what the Western Democracies might think.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3783,
+    "indent": " ",
+    "key": "GER_military_dictatorship",
+    "ver": "",
+    "val": "Military Dictatorship",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3784,
+    "indent": " ",
+    "key": "GER_military_dictatorship_desc",
+    "ver": "",
+    "val": "The Great War proved to us that the Kaiser alone is not enough to steer our nation in the best possible direction. As was done back then, the new Supreme Army Command must once again assume dictatorial powers and become the sole political authority in the Empire.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3785,
+    "indent": " ",
+    "key": "GER_military_dictatorship_tt",
+    "ver": "",
+    "val": "§YThe German Empire§! will be known as §Ythe German Kaiserreich§!.\\n",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3786,
+    "indent": " ",
+    "key": "GER_invite_scientists_back",
+    "ver": "",
+    "val": "The Imperial Science Initiative",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3787,
+    "indent": " ",
+    "key": "GER_invite_scientists_back_desc",
+    "ver": "",
+    "val": "Many bright minds fled the country when the Nazis took over, and for good reason. Now however with our glorious Empire restored, many may be willing to once again return to us.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3788,
+    "indent": " ",
+    "key": "GER_glorious_mechanical_machinations",
+    "ver": "",
+    "val": "Glorious Mechanical Machinations",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3789,
+    "indent": " ",
+    "key": "GER_glorious_mechanical_machinations_desc",
+    "ver": "",
+    "val": "Our Kaiser has long had a fascination for great machines, and has ordered our scientists to prioritize research of creations previously only seen in dreams, such as massive railway cannons, planes that can fly across the Atlantic, and ships whose silhouettes cover the horizons.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3790,
+    "indent": " ",
+    "key": "GER_prussian_artillery",
+    "ver": "",
+    "val": "Prussian Artillery Doctrine",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3791,
+    "indent": " ",
+    "key": "GER_prussian_artillery_desc",
+    "ver": "",
+    "val": "Back in the day, we managed to win battle after battle using our superior doctrines. Quality and firepower are big parts of what made it such a successful tactic, and it is something we must once again attempt to emulate!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3792,
+    "indent": " ",
+    "key": "GER_fan_prussian_militarism",
+    "ver": "",
+    "val": "$GER_fan_the_prussian_militarism$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3793,
+    "indent": " ",
+    "key": "GER_fan_prussian_militarism_desc",
+    "ver": "",
+    "val": "$GER_fan_the_prussian_militarism_desc$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3794,
+    "indent": " ",
+    "key": "GER_fan_prussian_militarism_tt",
+    "ver": "",
+    "val": "Unlocks §YRupprecht von Wittelsbach§! as a level 4 Field Marshal",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3795,
+    "indent": " ",
+    "key": "GER_re_form_the_freikorps",
+    "ver": "",
+    "val": "Reestablish the Freikorps",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3796,
+    "indent": " ",
+    "key": "GER_re_form_the_freikorps_desc",
+    "ver": "",
+    "val": "The Freikorps have aided us in our struggle against our ideological opponents for a long time, assisting us with putting down the Bavarian Soviet Republic among other attempts at revolution throughout the Weimar era. We should try to reestablish such a paramilitary force, so that neither the communists or the Nazis can regain a foothold in our nation.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3797,
+    "indent": " ",
+    "key": "GER_freikrops_militia_recruitment_tt",
+    "ver": "",
+    "val": "Gain five Freikorps §YMilitia§! units",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3798,
+    "indent": " ",
+    "key": "GER_re_form_the_freikorps_generals_tt",
+    "ver": "",
+    "val": "§YFranz Ritter von Epp§! and §YHermann Erhardt§! become available as generals",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3799,
+    "indent": " ",
+    "key": "GER_re_establish_the_landwehr",
+    "ver": "",
+    "val": "Reestablish the Landeswehr",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3800,
+    "indent": " ",
+    "key": "GER_re_establish_the_landwehr_desc",
+    "ver": "",
+    "val": "The Landwehr have been a useful self-defense tool ever since 1813, and have been very useful for the Weimar Republic. We should also endeavor to make the men of our nation useful and establish our own Landwehr and Landesschützen battalions.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3801,
+    "indent": " ",
+    "key": "GER_all_for_the_front",
+    "ver": "",
+    "val": "All For the Front!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3802,
+    "indent": " ",
+    "key": "GER_all_for_the_front_desc",
+    "ver": "",
+    "val": "Every man will have to give his heart, blood and soul to the German nation if he wishes for his fatherland to reclaim its former glory. Everything we make should be for the front, and it is a reality our people will have to understand with time.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3803,
+    "indent": " ",
+    "key": "GER_expatriate_the_communists_ww",
+    "ver": "",
+    "val": "$GER_expatriate_the_communists$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3804,
+    "indent": " ",
+    "key": "GER_expatriate_the_communists_ww_desc",
+    "ver": "",
+    "val": "$GER_expatriate_the_communists_desc$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3805,
+    "indent": " ",
+    "key": "GER_demand_the_return_of_southern_jutland",
+    "ver": "",
+    "val": "Demand the Return of Southern Jutland",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3806,
+    "indent": " ",
+    "key": "GER_demand_the_return_of_southern_jutland_desc",
+    "ver": "",
+    "val": "The ownership of the Duchy of Schleswig has long been a contentious matter between us and the Danes. At the end of the Great War, despite not even taking part in it, the Entente gave Northern Schleswig away to them. We must undo this historical injustice, and demand that the Danish government hand it back to us.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3807,
+    "indent": " ",
+    "key": "GER_glory_to_the_imperial_army",
+    "ver": "",
+    "val": "Glory to the Imperial Army",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3808,
+    "indent": " ",
+    "key": "GER_glory_to_the_imperial_army_desc",
+    "ver": "",
+    "val": "The Imperial army has won battle after battle, and has ensured that Prussia and Germany found their place in Europe. Despite the politicians' betrayal at the end of the Weltkrieg however, the army will be able to regain it's lost splendor.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3809,
+    "indent": " ",
+    "key": "GER_glory_to_the_imperial_army_tt",
+    "ver": "",
+    "val": "Unlocks §YPrince Eitel Friedrich§! as a level 2 General",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3810,
+    "indent": " ",
+    "key": "GER_restore_the_holy_roman_empire",
+    "ver": "",
+    "val": "Restore the Holy Roman Empire",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3811,
+    "indent": " ",
+    "key": "GER_restore_the_holy_roman_empire_desc",
+    "ver": "",
+    "val": "Many doubted that a day like this one would ever come, but here we are. With the old borders of the Empire reclaimed, we may once again be able to crown an emperor of the Holy Roman Empire, this time however in the form of a unified nation. Glory to the Empire!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3812,
+    "indent": " ",
+    "key": "GER_weltpolitik",
+    "ver": "",
+    "val": "Weltpolitik",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3813,
+    "indent": " ",
+    "key": "GER_weltpolitik_desc",
+    "ver": "",
+    "val": "We won't be taken seriously as a major power until we have restored our global empire, or built ourselves a new one in its place. We must therefore start looking outward, and no longer only focus our eyes on the European continent.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3814,
+    "indent": " ",
+    "key": "GER_prepare_for_the_next_naval_blockade",
+    "ver": "",
+    "val": "Prepare for the Next Naval Blockade",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3815,
+    "indent": " ",
+    "key": "GER_prepare_for_the_next_naval_blockade_desc",
+    "ver": "",
+    "val": "We know what happened the last time we fought against enemies with a larger fleet than ours. Thanks to the knowledge we now possess, we can attempt to circumvent many of the problems we once faced by careful preparations before war has even arrived.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3816,
+    "indent": " ",
+    "key": "GER_accept_british_naval_dominance_ww",
+    "ver": "",
+    "val": "$GER_accept_british_naval_dominance$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3817,
+    "indent": " ",
+    "key": "GER_accept_british_naval_dominance_ww_desc",
+    "ver": "",
+    "val": "$GER_accept_british_naval_dominance_desc$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3818,
+    "indent": " ",
+    "key": "GER_carve_up_congo",
+    "ver": "",
+    "val": "Carve up the Congo",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3819,
+    "indent": " ",
+    "key": "GER_carve_up_congo_desc",
+    "ver": "",
+    "val": "The Congo is ripe for colonization, and is abundant with natural resources. Perhaps we could find an agreement with the British appeasers to divide this vast territory up among each other, as a great stepping stone in our efforts to reform our colonial empire.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3820,
+    "indent": " ",
+    "key": "GER_anglo_germanic_defense_pact",
+    "ver": "",
+    "val": "Anglo-German Defense Pact",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3821,
+    "indent": " ",
+    "key": "GER_anglo_germanic_defense_pact_desc",
+    "ver": "",
+    "val": "The British have been our enemies for a long time, but with recent developments, we may be able to score a defensive agreement with them stating that if anyone attacks one of us, they attack both. This will be a great step in the normalization of relations with their state.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3822,
+    "indent": " ",
+    "key": "GER_signed_the_anglo_german_defence_pact_opm",
+    "ver": "",
+    "val": "Signed the Anglo-German Defense Pact",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3823,
+    "indent": " ",
+    "key": "GER_anglo_germanic_cooperation_program",
+    "ver": "",
+    "val": "Anglo-German Cooperation Program",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3824,
+    "indent": " ",
+    "key": "GER_anglo_germanic_cooperation_program_desc",
+    "ver": "",
+    "val": "The Royal Navy possesses vast knowledge of shipbuilding and naval combat. Thanks to our close cooperation, we may be able to gain and make use of knowledge that the British have previously kept a close-guarded secret.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3825,
+    "indent": " ",
+    "key": "GER_carte_blanche_for_alsace_and_french_colonies_ww",
+    "ver": "",
+    "val": "$GER_carte_blanche_for_alsace_and_french_colonies$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3826,
+    "indent": " ",
+    "key": "GER_carte_blanche_for_alsace_and_french_colonies_ww_desc",
+    "ver": "",
+    "val": "$GER_carte_blanche_for_alsace_and_french_colonies_desc$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3827,
+    "indent": " ",
+    "key": "GER_petition_for_the_return_of_old_colonies",
+    "ver": "",
+    "val": "Petition for the Return of Old Colonies",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3828,
+    "indent": " ",
+    "key": "GER_petition_for_the_return_of_old_colonies_desc",
+    "ver": "",
+    "val": "Our newfound British friends may be open to discussing the return of our colonies which they took over at the end of the Great War. They may demand compensations of some kind, but it is something that we would be willing to do if it could mean the restoration of our old claims.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3829,
+    "indent": " ",
+    "key": "GER_unify_west_africa",
+    "ver": "",
+    "val": "Unify South-West Africa",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3830,
+    "indent": " ",
+    "key": "GER_unify_west_africa_desc",
+    "ver": "",
+    "val": "Our dreams of Mittelafrika are currently hindered by the existence of the Angolan region. In order to connect our territories in South-West Africa with our Congolese holdings, we must send an ultimatum demanding the immediate recognition of our rule over the territory.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3831,
+    "indent": " ",
+    "key": "GER_expand_pacific_holdings",
+    "ver": "",
+    "val": "Expand Pacific Holdings",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3832,
+    "indent": " ",
+    "key": "GER_expand_pacific_holdings_desc",
+    "ver": "",
+    "val": "With a bloodied tooth for an empire in the Pacific Ocean, our politicians are advocating for the expansion of our reach across the region, with a goal of establishing [ROOT.GetAdjective] hegemony in the far east. We should support this initiative, and go on the offensive.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3833,
+    "indent": " ",
+    "key": "GER_closer_sino_germanic_relations",
+    "ver": "",
+    "val": "Closer Sino-German Relations",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3834,
+    "indent": " ",
+    "key": "GER_closer_sino_germanic_relations_desc",
+    "ver": "",
+    "val": "The [CHI.GetAdjective] have been a long standing ally of ours, with many seeing it likely for the [CHI.GetAdjective] government to enter the Great War on our side at the time. We should value our relationship with them, and attempt to strengthen the bond between our nations.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3835,
+    "indent": " ",
+    "key": "CHI_has_accepted_german_overtures",
+    "ver": "",
+    "val": "China has accepted [ROOt.GetAdjective] Overtures",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3836,
+    "indent": " ",
+    "key": "GER_industrial_investments",
+    "ver": "",
+    "val": "Industrial Investments",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3837,
+    "indent": " ",
+    "key": "GER_industrial_investments_desc",
+    "ver": "",
+    "val": "[CHI.GetNameDefCap] is very underdeveloped and lacks the industrialization it would need to properly stand on the world stage as a great power. We should send over engineers to aid in their industrialization, as well as fund up and coming [CHI.GetAdjective] corporations in an attempt to aid them in their industrial growth.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3838,
+    "indent": " ",
+    "key": "GER_launch_sino_germanic_joint_research_program",
+    "ver": "",
+    "val": "Launch a Sino-German Joint Research Program",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3839,
+    "indent": " ",
+    "key": "GER_launch_sino_germanic_joint_research_program_desc",
+    "ver": "",
+    "val": "The [CHI.GetAdjective] possess knowledge that would be valuable to know, and we know a lot that would be useful for them as well. Therefore we should endeavor to establish a joint research and development team that can aid the progress of both our nations cooperatively.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3840,
+    "indent": " ",
+    "key": "GER_send_military_aid",
+    "ver": "",
+    "val": "Send Military Aid",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3841,
+    "indent": " ",
+    "key": "GER_send_military_aid_desc",
+    "ver": "",
+    "val": "Our friends in [CHI.GetNameDef] are surrounded by enemies, many of which seek to threaten the very existence of their state. We must send over ammunition and equipment to them, so that they can secure their borders and prove useful to us in the years to come.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3842,
+    "indent": " ",
+    "key": "GER_send_volunteers",
+    "ver": "",
+    "val": "The Far Eastern Legion",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3843,
+    "indent": " ",
+    "key": "GER_send_volunteers_desc",
+    "ver": "",
+    "val": "Many [ROOT.GetAdjective]s yearn for adventure, and wish to go fight for a good cause. We should thus establish a legion of 'volunteers' that will go off to aid our [CHI.GetAdjective] friends in their wars.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3844,
+    "indent": " ",
+    "key": "GER_request_the_return_of_qingdao",
+    "ver": "",
+    "val": "Request the Return of Qingdao",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3845,
+    "indent": " ",
+    "key": "GER_request_the_return_of_qingdao_desc",
+    "ver": "",
+    "val": "Tsingtao was one of the many treaty ports gained from China during their century of humiliation. Though we lost the city at the end of the Great War, a city which had been ceded to us so many years ago, we may now find the opportunity to ask for it back from [CHI.GetNameDef], provided we have the right compensations ready.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3846,
+    "indent": " ",
+    "key": "GER_the_sino_germanic_pact",
+    "ver": "",
+    "val": "The Sino-German Pact",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3847,
+    "indent": " ",
+    "key": "GER_the_sino_germanic_pact_desc",
+    "ver": "",
+    "val": "The time has finally come to officially recognize the [CHI.GetAdjective] government as an ally. We should formalize this alliance immediately, so that we can together stand up against all those who seek to oppress us!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3848,
+    "indent": " ",
+    "key": "GER_divide_and_conquer",
+    "ver": "",
+    "val": "Divide and Conquer",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3849,
+    "indent": " ",
+    "key": "GER_divide_and_conquer_desc",
+    "ver": "",
+    "val": "We and the [CHI.GetAdjective] have our desired spheres of influence in the far east, and at some point borders will have to be drawn up and respected. As such we should do that as soon as possible, so that both of our imperial dreams can be recognized.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3850,
+    "indent": " ",
+    "key": "GER_asian_spheres_of_influence_tt",
+    "ver": "",
+    "val": "Us and §Y[CHI.GetNameWithFlag]§! Will set up our Spheres of Influence in §YAsia§!, modifying the cost of taking states within and without each others respective spheres.\\n\\nOur §YSphere of Influence§! will include:\\n§Y[MAL.GetNameWithFlag]§!\\n§Y[INS.GetNameWithFlag]§!\\n§Y[PHI.GetNameWithFlag]§!\\n§Y[AST.GetNameWithFlag]§!\\n§Y[NZL.GetNameWithFlag]§!\\nAll §YSouth Pacific Islands§!\\n\\nTheir §YSphere of Influence§! will include:\\n§Y[SIA.GetNameWithFlag]\\n[VIN.GetNameWithFlag]\\n[CAM.GetNameWithFlag]\\n[LAO.GetNameWithFlag]\\n[CHI.GetNameWithFlag]\\n[RAJ.GetNameWithFlag]\\n[TIB.GetNameWithFlag]\\n[NEP.GetNameWithFlag]\\n[BHU.GetNameWithFlag]\\n[KOR.GetNameWithFlag]\\n[JAP.GetNameWithFlag]\\n[MON.GetNameWithFlag]§!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3851,
+    "indent": " ",
+    "key": "GER_the_second_naval_race",
+    "ver": "",
+    "val": "The Second Naval Race",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3852,
+    "indent": " ",
+    "key": "GER_the_second_naval_race_desc",
+    "ver": "",
+    "val": "We have been humiliated by the British and the French for far too long! It is high time we restore our fleets, and officially declare that we do not intend to bow before them any longer. Soon, they will find that the seas belong to us, and no one else.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3853,
+    "indent": " ",
+    "key": "GER_rebuild_the_high_seas_fleet_ww",
+    "ver": "",
+    "val": "$GER_rebuild_the_high_seas_fleet$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3854,
+    "indent": " ",
+    "key": "GER_rebuild_the_high_seas_fleet_ww_desc",
+    "ver": "",
+    "val": "$GER_rebuild_the_high_seas_fleet_desc$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3855,
+    "indent": " ",
+    "key": "GER_break_anglo_french_colonial_hegemony_ww",
+    "ver": "",
+    "val": "$GER_break_the_anglo_french_colonial_hegemony$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3856,
+    "indent": " ",
+    "key": "GER_break_anglo_french_colonial_hegemony_ww_desc",
+    "ver": "",
+    "val": "$GER_break_the_anglo_french_colonial_hegemony_desc$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3857,
+    "indent": " ",
+    "key": "GER_break_anglo_french_colonial_hegemony_ww_tt",
+    "ver": "",
+    "val": "If we have signed a treaty of mutual cooperation with §YFrance§!, we will not gain a wargoal on them",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3858,
+    "indent": " ",
+    "key": "GER_asian_allies",
+    "ver": "",
+    "val": "Asian Allies",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3859,
+    "indent": " ",
+    "key": "GER_asian_allies_desc",
+    "ver": "",
+    "val": "There are many minor nations in Asia that have not fallen under control of our enemies. Perhaps with promises of a secure future and territorial gains, they would be willing to aid us in our global conflict.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3860,
+    "indent": " ",
+    "key": "GER_our_place_in_the_sun_ww",
+    "ver": "",
+    "val": "Our Place in the Sun",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3861,
+    "indent": " ",
+    "key": "GER_our_place_in_the_sun_ww_desc",
+    "ver": "",
+    "val": "Let everyone know that [ROOT.GetNameDef] once more asserts its right to take its place in the sun! Our people will no longer be humiliated in the shadows, under the thumb of the Empire on which the sun never sets!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3862,
+    "indent": " ",
+    "key": "GER_realize_mittelafrika",
+    "ver": "",
+    "val": "Realize Mittelafrika",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3863,
+    "indent": " ",
+    "key": "GER_realize_mittelafrika_desc",
+    "ver": "",
+    "val": "Our colonial empire will reach far and wide, and the riches of central Africa have always been alluring. We should realize our dreams of a German Mittelafrika as soon as possible, so that we can make use of the heart of Africa.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3864,
+    "indent": " ",
+    "key": "GER_realize_mittelafrika_tt",
+    "ver": "",
+    "val": "Gains claim on all §YCongolese§!, §YKenyan§!, §YAngolan§! and §YMozambican§! states.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3865,
+    "indent": " ",
+    "key": "GER_african_allies",
+    "ver": "",
+    "val": "African Allies",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3866,
+    "indent": " ",
+    "key": "GER_african_allies_desc",
+    "ver": "",
+    "val": "The people of Africa yearn for liberation from the Europeans. Perhaps we can lure them to our side with promises of autonomy if they join us.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3867,
+    "indent": " ",
+    "key": "GER_african_allies_tt",
+    "ver": "",
+    "val": "Unlocks decisions to §YSupport the Independence§! of §YAfrican§! countries",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3868,
+    "indent": " ",
+    "key": "GER_asian_allies_faction_tt",
+    "ver": "",
+    "val": "Independent Asian Minors who are currently not in a faction get the following event:",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3869,
+    "indent": " ",
+    "key": "GER_african_allies_faction_tt",
+    "ver": "",
+    "val": "Independent African Minors who are currently not in a faction get the following event:",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3870,
+    "indent": " ",
+    "key": "GER_asian_allies_tt",
+    "ver": "",
+    "val": "Unlocks decisions to §YSupport the Independence§! of §YAsian§! countries",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3871,
+    "indent": " ",
+    "key": "GER_expand_african_reach",
+    "ver": "",
+    "val": "Expand African Reach",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3872,
+    "indent": " ",
+    "key": "GER_expand_african_reach_desc",
+    "ver": "",
+    "val": "There are regions of Africa that we lay claim to that are not under the control of our current enemies. We should make sure that our claims are made clear, and demand these territories from them right away.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3874,
+    "indent": " ",
+    "key": "GER_realpolitik",
+    "ver": "",
+    "val": "Realpolitik",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3875,
+    "indent": " ",
+    "key": "GER_realpolitik_desc",
+    "ver": "",
+    "val": "The time has come for us to look outward at the rest of Europe, and see in which direction the winds are blowing. If the opportunities for alliances or conquest arise, we must make sure to take hold of them immediately.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3877,
+    "indent": " ",
+    "key": "GER_restore_the_brest_litovsk_borders",
+    "ver": "",
+    "val": "Restore the Brest-Litovsk Borders",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3878,
+    "indent": " ",
+    "key": "GER_restore_the_brest_litovsk_borders_desc",
+    "ver": "",
+    "val": "The borders established in the treaty of Brest-Litovsk have long since been unlawfully revoked by the treaty of Versailles, despite the Russians losing the Great War and ceding the lands to us. We must strive to regain our lost eastern possessions, even if it may lead to war in the future.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3879,
+    "indent": " ",
+    "key": "GER_demand_further_polish_concessions",
+    "ver": "",
+    "val": "Demand Further Polish Concessions",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3880,
+    "indent": " ",
+    "key": "GER_demand_further_polish_concessions_desc",
+    "ver": "",
+    "val": "We have gotten the Poles to cede the integral parts of the old Empire back to us, but we will not stop there. The Brest-Litovsk borders have not yet been restored, and Poland is still in the way of us realizing our dreams.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3881,
+    "indent": " ",
+    "key": "GER_restore_eastern_imperial_possessions",
+    "ver": "",
+    "val": "Restore Eastern Imperial Possessions",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3882,
+    "indent": " ",
+    "key": "GER_restore_eastern_imperial_possessions_desc",
+    "ver": "",
+    "val": "Lands integral to our empire are currently being withheld from us by foreign powers. In order to realize the Brest-Litovsk borders, we must first look to Poznan, West Prussia and Silesia.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3883,
+    "indent": " ",
+    "key": "GER_incorporate_the_polish_rump_state",
+    "ver": "",
+    "val": "Incorporate the Polish Rump State",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3884,
+    "indent": " ",
+    "key": "GER_incorporate_the_polish_rump_state_desc",
+    "ver": "",
+    "val": "Even the last remaining pieces of Poland belong to the empire, as was specified in the Brest-Litovsk treaty. We must reclaim these territories, by force if necessary.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3886,
+    "indent": " ",
+    "key": "GER_memel_ultimatum",
+    "ver": "",
+    "val": "Memel Ultimatum",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3887,
+    "indent": " ",
+    "key": "GER_memel_ultimatum_desc",
+    "ver": "",
+    "val": "If we have learned anything from the Great War, it is that we must prepare for an attack on our outlying eastern possessions. These possessions must be restored and fortified against invasion. This however cannot be done without control of the strategically important Memelland, which we will have to reclaim.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3888,
+    "indent": " ",
+    "key": "GER_demand_lithuanian_integration",
+    "ver": "",
+    "val": "Demand Lithuanian Integration",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3889,
+    "indent": " ",
+    "key": "GER_demand_lithuanian_integration_desc",
+    "ver": "",
+    "val": "The Lithuanian kingdom was once planned to be a semi-autonomous part of our nation, and that it will be. We must seek the annexation of the Lithuanian lands, and crown Mindaugas as the Duke of the territories.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3891,
+    "indent": " ",
+    "key": "GER_establish_eastern_grand_duchies",
+    "ver": "",
+    "val": "[GetEasternDuchiesName]",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3892,
+    "indent": " ",
+    "key": "GER_establish_eastern_grand_duchies_desc",
+    "ver": "",
+    "val": "All of the territory encompassed in the treaty can't be held directly by us. We do however have plans for Grand Duchies and Satellite Kingdoms in the east that will be able to hold onto these territories for us.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3893,
+    "indent": " ",
+    "key": "GER_eastern_duchies_name_democratic",
+    "ver": "",
+    "val": "Eastern Autonomous States",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3894,
+    "indent": " ",
+    "key": "GER_eastern_duchies_name_neutrality",
+    "ver": "",
+    "val": "Establish Eastern Grand Duchies",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3896,
+    "indent": " ",
+    "key": "GER_subduing_the_baltic_states",
+    "ver": "",
+    "val": "Subduing the Baltic States",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3897,
+    "indent": " ",
+    "key": "GER_subduing_the_baltic_states_desc",
+    "ver": "",
+    "val": "The Baltic states are illegitimate, claiming the territories of our United Baltic Duchy. We must subjugate them, and hand the lands over to the Baltic-German aristocracy.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3898,
+    "indent": " ",
+    "key": "GER_subduing_the_baltic_states_tt",
+    "ver": "",
+    "val": "Gain three Baltische Landeswehr §YInfantry§! units.\\nIf §YPoland§! has not §YRestored the Bermontians§!, §YRüdiger von der Goltz§! will join us as a level 3 Field Marshal.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3900,
+    "indent": " ",
+    "key": "GER_strike_eastward",
+    "ver": "",
+    "val": "Strike Eastward",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3901,
+    "indent": " ",
+    "key": "GER_strike_eastward_desc",
+    "ver": "",
+    "val": "With the borders secured, it is time that we strike down our biggest rival, the one who broke the treaty of Brest-Litovsk, and the one who threatens the stability of Eastern Europe, namely [SOV.GetNameDef]. It is time to capture Moscow, and truly bring the [SOV.GetAdjective] giant to it's knees.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3902,
+    "indent": " ",
+    "key": "GER_unlocks_kremlin_raid_tt",
+    "ver": "",
+    "val": "Unlocks §YAir Raid§! on §YKremlin§! when at war with §Y[SOV.GetNameWithFlag]§!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3904,
+    "indent": " ",
+    "key": "GER_end_european_communism",
+    "ver": "",
+    "val": "End European Communism",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3905,
+    "indent": " ",
+    "key": "GER_end_european_communism_desc",
+    "ver": "",
+    "val": "Now that the biggest threat to our nation has been destroyed, it is time to clean up the mess that they left in Europe. Communism is a fundamental threat to our values, and must be extinguished for good.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3906,
+    "indent": " ",
+    "key": "GER_strike_eastward_eq_trigger_tt",
+    "ver": "",
+    "val": "More than §Y100.000§! infantry equipment in the army",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3907,
+    "indent": " ",
+    "key": "GER_second_vienna_award_eq_trigger_tt",
+    "ver": "",
+    "val": "More than §Y60.000§! infantry equipment in the army",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3908,
+    "indent": " ",
+    "key": "GER_sea_lion_eq_trigger_tt",
+    "ver": "",
+    "val": "More than §Y90.000§! infantry equipment in the army",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3909,
+    "indent": " ",
+    "key": "GER_puppet_finland",
+    "ver": "",
+    "val": "Ensure [FIN.GetAdjective] Loyalty",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3910,
+    "indent": " ",
+    "key": "GER_puppet_finland_desc",
+    "ver": "",
+    "val": "[GetFinlandpuppetDescription]",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3911,
+    "indent": " ",
+    "key": "GER_finland_puppet_description_democratic",
+    "ver": "",
+    "val": "The [FIN.GetAdjective] people may be our brothers in arms, but we can never be certain if there will come a day in which they betray us and switch sides. We must ensure that such a day never comes, no matter the cost!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3912,
+    "indent": " ",
+    "key": "GER_finland_puppet_description_neutrality",
+    "ver": "",
+    "val": "The [FIN.GetAdjective] people rejected our offer to instate a king in the past, but we will not allow them to do so again. It is time for Prince Wolfgang of Hesse to take his place on their throne, whether they like it or not.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3913,
+    "indent": " ",
+    "key": "GER_see_to_the_eastern_front_ww",
+    "ver": "",
+    "val": "See to the Eastern Front",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3914,
+    "indent": " ",
+    "key": "GER_see_to_the_eastern_front_ww_desc",
+    "ver": "",
+    "val": "Our actions in the previous war are still in recent memory with many. We must refocus the fears of the continent on the true danger: the great [GER.GetGreatRedMenaceDesc] that looms in the East. We will begin a massive propaganda campaign to open the eyes of the continent.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3915,
+    "indent": " ",
+    "key": "GER_the_eastern_threat",
+    "ver": "",
+    "val": "The Eastern Threat",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3916,
+    "indent": " ",
+    "key": "guardian_against_the_eastern_threat",
+    "ver": "",
+    "val": "Guardian Against the Eastern Threat",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3917,
+    "indent": " ",
+    "key": "existential_threat",
+    "ver": "",
+    "val": "Existential Threat",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3918,
+    "indent": " ",
+    "key": "GER_seeks_to_restore_brest_litovsk",
+    "ver": "",
+    "val": "Seeking to restore Brest-Litovsk",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3919,
+    "indent": " ",
+    "key": "GER_seeks_to_restore_brest_litovsk_worse",
+    "ver": "",
+    "val": "$GER_seeks_to_restore_brest_litovsk$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3920,
+    "indent": " ",
+    "key": "GER_safeguard_the_baltic_ww",
+    "ver": "",
+    "val": "$GER_safeguard_the_baltic$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3921,
+    "indent": " ",
+    "key": "GER_safeguard_the_baltic_ww_desc",
+    "ver": "",
+    "val": "$GER_safeguard_the_baltic_desc$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3922,
+    "indent": " ",
+    "key": "GER_tributes_for_guarantees",
+    "ver": "",
+    "val": "Tributes for Guarantees",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3923,
+    "indent": " ",
+    "key": "GER_tributes_for_guarantees_desc",
+    "ver": "",
+    "val": "We should safeguard the Baltic states from the Bear in the east, but we will not do so for free. Seeing as these nations are in such a vulnerable position, it would be easy to demand compensation for protection.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3924,
+    "indent": " ",
+    "key": "tributes_from_lithuania_tt",
+    "ver": "",
+    "val": "If §Y[LIT.GetNameWithFlag]§! Accepts:",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3925,
+    "indent": " ",
+    "key": "tributes_from_latvia_or_estonia_tt",
+    "ver": "",
+    "val": "If §Y[LAT.GetNameWithFlag]§! or §Y[EST.GetNameWithFlag]§! Accepts:",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3926,
+    "indent": " ",
+    "key": "GER_will_also_recieve_trade_and_civs_tt",
+    "ver": "",
+    "val": "We will also receive a small portion of their resources and civilian industry. \\n The amount of §Y$MODIFIER_CONSUMER_GOODS_FACTOR$§! will depend on how many nations accept our demands",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3927,
+    "indent": " ",
+    "key": "GER_support_the_finns_ww",
+    "ver": "",
+    "val": "$GER_support_the_finns$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3928,
+    "indent": " ",
+    "key": "GER_support_the_finns_ww_desc",
+    "ver": "",
+    "val": "The Finns find themselves in the firing line of the [GER.GetRussiansDemonym]. We will offer them a guarantee against the eastern threat, and give them some modest industrial aid.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3929,
+    "indent": " ",
+    "key": "GER_danzig_for_guarantees_ww",
+    "ver": "",
+    "val": "$GER_danzig_for_guarantees$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3930,
+    "indent": " ",
+    "key": "GER_danzig_for_guarantees_ww_desc",
+    "ver": "",
+    "val": "$GER_danzig_for_guarantees_desc$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3931,
+    "indent": " ",
+    "key": "GER_safeguard_poland",
+    "ver": "",
+    "val": "Safeguard Poland",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3932,
+    "indent": " ",
+    "key": "GER_safeguard_poland_desc",
+    "ver": "",
+    "val": "The Poles are vulnerable to attack from the east. We must protect them at all costs, in order to keep a buffer state in between us and the [SOV.GetAdjective]s.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3933,
+    "indent": " ",
+    "key": "GER_safeguard_poland_tt",
+    "ver": "",
+    "val": "If §YPoland§! is either in our faction or guaranteed by us when completing §YHold Joint Military Drills§!, we will gain an additional §G25§! §YArmy Experience§! and §G15§! §YAir Experience§!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3934,
+    "indent": " ",
+    "key": "GER_offer_military_production_support",
+    "ver": "",
+    "val": "Offer Military Production Support",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3935,
+    "indent": " ",
+    "key": "GER_offer_military_production_support_desc",
+    "ver": "",
+    "val": "The eastern buffer states lack the strong industrial power-base that we have. We should offer them support in producing weapons and ammunition, so that they can hopefully hold their own for a while if attacked by the [SOV.GetNameDef].",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3936,
+    "indent": " ",
+    "key": "GER_offer_military_production_support_tt",
+    "ver": "",
+    "val": "All Eastern European states under our protection will gain the following boost to their §YMilitary Production§! for §Y730§! days:",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3937,
+    "indent": " ",
+    "key": "GER_liberate_oppressed_people",
+    "ver": "",
+    "val": "Liberate Oppressed People",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3938,
+    "indent": " ",
+    "key": "GER_liberate_oppressed_people_desc",
+    "ver": "",
+    "val": "There are many people in [SOV.GetNameDef] who are amenable to us, and wish for liberation more than anything. Perhaps we should free them from their oppressors, and have them become our newfound allies in the east.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3939,
+    "indent": " ",
+    "key": "GER_liberate_oppressed_people_tt",
+    "ver": "",
+    "val": "It becomes §G40%§! cheaper to liberate and §G20%§! cheaper to puppet constituent states of §Y[SOV.GetNameDef]§!.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3940,
+    "indent": " ",
+    "key": "GER_liberate_oppressed_people_cossacks_tt",
+    "ver": "",
+    "val": "Enables the reinstatement of South-Russian §YCossack Republics§!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3941,
+    "indent": " ",
+    "key": "GER_build_the_eastern_bulwark",
+    "ver": "",
+    "val": "Build the Eastern Bulwark",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3942,
+    "indent": " ",
+    "key": "GER_build_the_eastern_bulwark_desc",
+    "ver": "",
+    "val": "The countries to our east have defenses much to weak to properly stand up against the [SOV.GetAdjective] threat. We must invest into fortifications in their countries, so that trying to take them will be as costly as possible for the enemy.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3943,
+    "indent": " ",
+    "key": "GER_build_the_eastern_bulwark_tt",
+    "ver": "",
+    "val": "Constructs level 2 §YLand Forts§! in all states owned by §Y[ROOT.GetNameDef]§! or any country guaranteed by or in a faction with §Y[ROOT.GetNameDef]§! on the border with §Y[SOV.GetNameDef]§!.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3944,
+    "indent": " ",
+    "key": "GER_build_the_eastern_bulwark_ns_tt",
+    "ver": "",
+    "val": "Upon entering war with §Y[SOV.GetNameDef]§!, we will gain:",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3945,
+    "indent": " ",
+    "key": "GER_ally_white_russian_forces",
+    "ver": "",
+    "val": "Ally the Russian White Movement",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3946,
+    "indent": " ",
+    "key": "GER_ally_white_russian_forces_desc",
+    "ver": "",
+    "val": "There are many Russians who fled abroad after the Reds won the Russian civil war. We should reach out to them, and see if they are willing to cooperate in the recapture of their homeland, at the cost of having to give up any claims to the lands given to us or our allies in the treaty of Brest-Litovsk.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3947,
+    "indent": " ",
+    "key": "GER_hold_joint_military_drills",
+    "ver": "",
+    "val": "Hold Joint Military Drills",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3948,
+    "indent": " ",
+    "key": "GER_hold_joint_military_drills_desc",
+    "ver": "",
+    "val": "Our eastern allies have fought the [SOV.GetAdjective]s more recently than we have, and may possess valuable knowledge on how to beat them. We should organize military drills together, so that such knowledge can be spread around.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3949,
+    "indent": " ",
+    "key": "GER_hold_joint_military_drills_tt",
+    "ver": "",
+    "val": "We, and any Eastern European countries we guarantee or that are in our faction will gain the following national spirit:",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3950,
+    "indent": " ",
+    "key": "GER_extend_mitteleuropas_bounderies",
+    "ver": "",
+    "val": "Extend Mitteleuropa's Boundaries Eastward",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3951,
+    "indent": " ",
+    "key": "GER_extend_mitteleuropas_bounderies_desc",
+    "ver": "",
+    "val": "The nations to our east are more than just buffer states. We should invite them into Mitteleuropa, and ensure that they also help grow our alliance and customs union stronger.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3952,
+    "indent": " ",
+    "key": "GER_extend_mitteleuropas_bounderies_tt",
+    "ver": "",
+    "val": "Invites Guaranteed Eastern European states into §YMitteleuropa§!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3953,
+    "indent": " ",
+    "key": "GER_reach_out_to_scandinavia",
+    "ver": "",
+    "val": "Reach Out to Scandinavia",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3954,
+    "indent": " ",
+    "key": "GER_reach_out_to_scandinavia_desc",
+    "ver": "",
+    "val": "Mountains and the cold are no protection against the [GER.GetGreatRedMenaceName] Menace, and the Scandinavians must know this. We shall offer them membership and protection against the threat of the [SOV.GetAdjective]s.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3955,
+    "indent": " ",
+    "key": "GER_mitteleuropa",
+    "ver": "",
+    "val": "Mitteleuropa",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3956,
+    "indent": " ",
+    "key": "GER_mitteleuropa_desc",
+    "ver": "",
+    "val": "The main interest-area of the German people is in Middle Europe, initially being envisioned by the Prussians as a pan-Germanist state-centric imperium. These ideas could use some polishing, but are a good base on which we could build the new order in Europe.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3957,
+    "indent": " ",
+    "key": "GER_mitteleuropa_tt",
+    "ver": "",
+    "val": "Unlocks a decision to §YSway Public Opinion in Austria to our Side§!, which makes them more willing to accept both an alliance and subjugation.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3958,
+    "indent": " ",
+    "key": "GER_mitteleuropa_alliance",
+    "ver": "",
+    "val": "Mitteleuropa",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3959,
+    "indent": " ",
+    "key": "GER_brothers_in_arms",
+    "ver": "",
+    "val": "Brothers in Arms",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3960,
+    "indent": " ",
+    "key": "GER_brothers_in_arms_desc",
+    "ver": "",
+    "val": "Our Austrian brothers fought hard together with us as part of the Central Powers. We should reach out to them with an offer they can't say no to, so that we can once again fight side by side.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3961,
+    "indent": " ",
+    "key": "GER_carve_up_czechoslovakia",
+    "ver": "",
+    "val": "Carve up Czechoslovakia",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3962,
+    "indent": " ",
+    "key": "GER_carve_up_czechoslovakia_desc",
+    "ver": "",
+    "val": "The [CZE.GetAdjective] state stands in the way of not only our ambitions, but also of those of our allies to the south. We should carve them up between us, so that Mitteleuropa can be realized.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3963,
+    "indent": " ",
+    "key": "GER_rekindle_imperial_sentiment_ww",
+    "ver": "",
+    "val": "$GER_rekindle_imperial_sentiment$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3964,
+    "indent": " ",
+    "key": "GER_rekindle_imperial_sentiment_ww_desc",
+    "ver": "",
+    "val": "$GER_rekindle_imperial_sentiment_desc$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3965,
+    "indent": " ",
+    "key": "GER_the_first_berlin_award",
+    "ver": "",
+    "val": "The First Berlin Award",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3966,
+    "indent": " ",
+    "key": "GER_the_first_berlin_award_desc",
+    "ver": "",
+    "val": "The Polish are squatting on not only our lands, but also on Austro-Hungarian lands. We should attempt to intimidate them into handing such regions back to Mitteleuropa, lest they face the wrath of the German armies.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3967,
+    "indent": " ",
+    "key": "GER_the_first_berlin_award_hun_tt",
+    "ver": "",
+    "val": "If we are in a faction with §Y[HUN.GetNameDef]§!:",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3968,
+    "indent": " ",
+    "key": "GER_the_first_berlin_award_aus_tt",
+    "ver": "",
+    "val": "If we are in a faction with §Y[AUS.GetNameDef]§!:",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3969,
+    "indent": " ",
+    "key": "GER_the_second_berlin_award",
+    "ver": "",
+    "val": "The Second Berlin Award",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3970,
+    "indent": " ",
+    "key": "GER_the_second_berlin_award_desc",
+    "ver": "",
+    "val": "The Romanians and Slavs are also occupying rightfully Austro-Hungarian land. We must demand they return these at once!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3971,
+    "indent": " ",
+    "key": "GER_trade_agreements",
+    "ver": "",
+    "val": "Trade Agreements",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3972,
+    "indent": " ",
+    "key": "GER_trade_agreements_desc",
+    "ver": "",
+    "val": "Mitteleuropa is not only an alliance of force, but also a union to help establish better trade relations and economic cooperation. We should emphasize this role, and use it to reach out to those who are rich in natural resources.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3973,
+    "indent": " ",
+    "key": "GER_trade_agreements_tt",
+    "ver": "",
+    "val": "All allies will receive the §YNational Spirit§!:",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3974,
+    "indent": " ",
+    "key": "GER_mitteleuropa_cooperation_sphere",
+    "ver": "",
+    "val": "Mitteleuropa Cooperation Sphere",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3975,
+    "indent": " ",
+    "key": "GER_mitteleuropa_cooperation_sphere_desc",
+    "ver": "",
+    "val": "Central Europe possesses many bright minds. Despite this, they are unable to cooperate due to their different governments' desires to keep their knowledge to themselves. We must encourage closer scientific cooperation with our allies.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3976,
+    "indent": " ",
+    "key": "GER_conquer_italy",
+    "ver": "",
+    "val": "Conquer Italy",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3977,
+    "indent": " ",
+    "key": "GER_conquer_italy_desc",
+    "ver": "",
+    "val": "The Italians betrayed us during the Great War when they attacked Austria-Hungary and took the side of the Entente. We will never forget, and never forgive. It is time we taught them what treachery and betrayal ultimately leads to.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3978,
+    "indent": " ",
+    "key": "GER_align_italy",
+    "ver": "",
+    "val": "Align Italy",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3979,
+    "indent": " ",
+    "key": "GER_align_italy_desc",
+    "ver": "",
+    "val": "Italy may have betrayed us during the Great War, but we must not forget the fact that they have an impressive navy, one which might be able to stand toe to toe with our enemies. We should therefore seek to reestablish our old alliance with them.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3980,
+    "indent": " ",
+    "key": "GER_the_austrian_question",
+    "ver": "",
+    "val": "The Austrian Question",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3981,
+    "indent": " ",
+    "key": "GER_the_austrian_question_desc",
+    "ver": "",
+    "val": "The lesser German solution was a mistake, one that we must remedy immediately. We should coerce the Austrians into joining our nation, perhaps even taking the opportunity to offer up Burgenland in exchange for an alliance with [HUN.GetNameDef].",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3982,
+    "indent": " ",
+    "key": "GER_the_austrian_question_more_likely_to_accept_tt",
+    "ver": "",
+    "val": "They are §RLESS§! likely to accept if they currently lead a faction.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3983,
+    "indent": " ",
+    "key": "GER_align_czechoslovakia",
+    "ver": "",
+    "val": "Align Czechoslovakia",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3984,
+    "indent": " ",
+    "key": "GER_align_czechoslovakia_desc",
+    "ver": "",
+    "val": "The Czechoslovak state is rich in industrial capabilities and natural resources, having been one of the heartlands of industrialization in Austria-Hungary. We should have them join Mitteleuropa, so that we can make use of their riches.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3985,
+    "indent": " ",
+    "key": "GER_sway_the_balkans",
+    "ver": "",
+    "val": "Sway the Balkans",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3986,
+    "indent": " ",
+    "key": "GER_sway_the_balkans_desc",
+    "ver": "",
+    "val": "There are many nations in the Balkans who feel threatened by foreign powers. We should offer them a place in Mitteleuropa, so that our union can grow ever stronger.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3987,
+    "indent": " ",
+    "key": "GER_sway_the_balkans_tt",
+    "ver": "",
+    "val": "Unlocks decisions to §YStrengthen [ROOT.GetRulingIdeology] Ideology§! in §YBalkan§! nations and to §YBring them into Mitteleuropa§!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3988,
+    "indent": " ",
+    "key": "GER_establish_a_customs_union",
+    "ver": "",
+    "val": "Establish a Customs Union",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3989,
+    "indent": " ",
+    "key": "GER_establish_a_customs_union_desc",
+    "ver": "",
+    "val": "As were the plans in the Septemberprogramm of old, we should now establish the Mitteleuropa customs union, and slowly but surely unite the European economies into one most powerful force.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3990,
+    "indent": " ",
+    "key": "GER_integrated_economies",
+    "ver": "",
+    "val": "Integrated Economies",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3991,
+    "indent": " ",
+    "key": "GER_integrated_economies_desc",
+    "ver": "",
+    "val": "The integration of our allies' economies with ours, and the establishing of a German central bank which can monitor and aid the other states' economical situation, will be very beneficial for us in the long run, not only strengthening us, but also increasing their reliance on us, eventually allowing us to take control of their foreign affairs.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3992,
+    "indent": " ",
+    "key": "GER_integrated_economies_tt",
+    "ver": "",
+    "val": "Every §YFaction Member§! will receive the §YEvent:§! [GER.GetNameDefCap] Wishes for Further Integration of our Economy",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3993,
+    "indent": " ",
+    "key": "GER_european_confederation",
+    "ver": "",
+    "val": "European Confederation",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3994,
+    "indent": " ",
+    "key": "GER_european_confederation_desc",
+    "ver": "",
+    "val": "With our allies now having a great reliance on us, it is time to start attempting to integrate them further, with the dreams of being able to establish a European Confederation.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3995,
+    "indent": " ",
+    "key": "GER_bring_turkey_into_the_fold",
+    "ver": "",
+    "val": "Bring [TUR.GetNameDef] Back into the Fold",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3996,
+    "indent": " ",
+    "key": "GER_bring_turkey_into_the_fold_desc",
+    "ver": "",
+    "val": "The Turks have claims outside their current borders, and will be easily coerced into joining our faction. It is time we once again bring them back into the fold.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3997,
+    "indent": " ",
+    "key": "GER_german_hegemony_in_the_middle_east",
+    "ver": "",
+    "val": "German Hegemony in the Middle-East",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3998,
+    "indent": " ",
+    "key": "GER_german_hegemony_in_the_middle_east_desc",
+    "ver": "",
+    "val": "The Middle-East lies ripe for conquest, and many of the states may be willing to align with us in the hopes of us opposing the British or the French empires. It is time that we establish our hegemony in the Middle East.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 3999,
+    "indent": " ",
+    "key": "GER_sway_the_middle_east_decisions_tt",
+    "ver": "",
+    "val": "Unlocks decisions to §YStrengthen [ROOT.GetRulingIdeology] Ideology§! in §YMiddle-Eastern§! nations and to §YBring them into Mitteleuropa§!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 4000,
+    "indent": " ",
+    "key": "GER_reject_the_locarno_treaty",
+    "ver": "",
+    "val": "Reject the Locarno Treaty",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 4001,
+    "indent": " ",
+    "key": "GER_reject_the_locarno_treaty_desc",
+    "ver": "",
+    "val": "The Locarno Treaty was clearly set up to hinder us from regaining territories which were unjustly stripped away from us. We should reject this treaty altogether, and prepare for the recapturing of our old states.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 4002,
+    "indent": " ",
+    "key": "GER_backdoor_negotiations",
+    "ver": "",
+    "val": "Backdoor Negotiations",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 4003,
+    "indent": " ",
+    "key": "GER_backdoor_negotiations_desc",
+    "ver": "",
+    "val": "We could attempt to get around Western meddling in the lowlands by not attacking all of them, but instead goading one to attack the other, and then joining the side of one of them, effectively causing a split between the old nations in the Greater Netherlands region.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 4004,
+    "indent": " ",
+    "key": "GER_backdoor_negotiations_tt",
+    "ver": "",
+    "val": "These decisions allow us to add one of the target nations to our faction while attacking the other.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 4005,
+    "indent": " ",
+    "key": "GER_schlieffen_once_more_ww",
+    "ver": "",
+    "val": "$GER_schlieffen_once_more$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 4006,
+    "indent": " ",
+    "key": "GER_schlieffen_once_more_ww_desc",
+    "ver": "",
+    "val": "$GER_schlieffen_once_more_desc$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 4007,
+    "indent": " ",
+    "key": "GER_bypass_maginot_in_the_south_ww",
+    "ver": "",
+    "val": "$GER_bypass_maginot_in_the_south$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 4008,
+    "indent": " ",
+    "key": "GER_bypass_maginot_in_the_south_ww_desc",
+    "ver": "",
+    "val": "$GER_bypass_maginot_in_the_south_desc$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 4009,
+    "indent": " ",
+    "key": "GER_reinstate_imperial_possessions_ww",
+    "ver": "",
+    "val": "$GER_reinstate_imperial_possessions$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 4010,
+    "indent": " ",
+    "key": "GER_reinstate_imperial_possessions_ww_desc",
+    "ver": "",
+    "val": "$GER_reinstate_imperial_possessions_desc$",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 4011,
+    "indent": " ",
+    "key": "GER_establish_western_grand_duchies",
+    "ver": "",
+    "val": "[GetWesternDuchiesName]",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 4012,
+    "indent": " ",
+    "key": "GER_western_duchies_name_democratic",
+    "ver": "",
+    "val": "Western Autonomous States",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 4013,
+    "indent": " ",
+    "key": "GER_western_duchies_name_neutrality",
+    "ver": "",
+    "val": "Establish Western Grand Duchies",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 4014,
+    "indent": " ",
+    "key": "GER_establish_western_grand_duchies_desc",
+    "ver": "",
+    "val": "As was the plan in the Septemberprogramm, we should try to establish our control over the western regions by creating client states of our own, carving up the borders as we see fit.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 4015,
+    "indent": " ",
+    "key": "GER_integrate_western_german_speakers",
+    "ver": "",
+    "val": "Integrate Western German Speakers",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 4016,
+    "indent": " ",
+    "key": "GER_integrate_western_german_speakers_desc",
+    "ver": "",
+    "val": "The Septemberprogramm envisioned the greater Luxembourg area integrated with the German state. Both that region and Switzerland used to be part of the Holy Roman Empire, of which we are the sole rightful successor. These Germanic areas must be reincorporated into our realm as rapidly as possible.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 4017,
+    "indent": " ",
+    "key": "GER_core_ardennes_tt",
+    "ver": "",
+    "val": "If [ROOT.GetnameDef] is §Ynot in a faction§! with [BEL.GetNameDef] and §Yfully controls§! [980.GetName]:",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 4018,
+    "indent": " ",
+    "key": "GER_core_german_switzerland_tt",
+    "ver": "",
+    "val": "If [ROOT.GetnameDef] is §Ynot in a faction§! with [SWI.GetNameDef] and §Yfully controls§! [3.GetName], [847.GetName], and [151.GetName]:",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 4019,
+    "indent": " ",
+    "key": "GER_core_alto_adige_tt",
+    "ver": "",
+    "val": "If [ROOT.GetnameDef] is §Ynot in a faction§! with [ITA.GetNameDef] and §Yfully controls§! [39.GetName]:",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 4020,
+    "indent": " ",
+    "key": "GER_assassinate_mussolini_ww",
+    "ver": "",
+    "val": "Assassinate Mussolini",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 4021,
+    "indent": " ",
+    "key": "GER_assassinate_mussolini_ww_desc",
+    "ver": "",
+    "val": "The time has come to ensure the end of the linchpin of [ITA.GetAdjective] fascism. German hands will assassinate the leader, after which the [ITA.GetAdjective] royalists will seize power in one swift motion.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 4022,
+    "indent": " ",
+    "key": "GER_prepare_italian_coup_ww",
+    "ver": "",
+    "val": "Prepare [ITA.GetAdjective] Coup",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 4023,
+    "indent": " ",
+    "key": "GER_prepare_italian_coup_ww_desc",
+    "ver": "",
+    "val": "Italy's fall into fascism must be undone. We will approach the [ITA.GetAdjective] royalists with a proposal for a coup with our support.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 4030,
+    "indent": " ",
+    "key": "GER_unlock_influence_countries_tt",
+    "ver": "",
+    "val": "Unlocks Decision: §Y$GER_influence_countries_cat$§!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 4031,
+    "indent": " ",
+    "key": "GER_middle_eastern_trade_tt",
+    "ver": "",
+    "val": "Unlocks Decision: §Y$GER_middle_eastern_trade_cat$§!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 4032,
+    "indent": " ",
+    "key": "GER_allied_trade_tt",
+    "ver": "",
+    "val": "Unlocks Decision: §Y$GER_mitteleuropa_allied_trade_cat$§!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 4033,
+    "indent": " ",
+    "key": "GER_allied_customs_union_integration_request_tt",
+    "ver": "",
+    "val": "Unlocks Decision: §Y$GER_mitteleuropa_economic_integration_cat$§!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 4034,
+    "indent": " ",
+    "key": "GER_plan_z_lock_other_focus_tt",
+    "ver": "",
+    "val": "Focus §Y$GER_trade_interdiction$§! will be locked until the focus §Y$GER_high_seas_fleet$§! is completed.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 4035,
+    "indent": " ",
+    "key": "GER_trade_interdiction_lock_other_focus_tt",
+    "ver": "",
+    "val": "Focus §Y$GER_plan_z$§! will be locked until the focus §Y$GER_unrestricted_convoy_raiding$§! is completed.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 4036,
+    "indent": " ",
+    "key": "GER_strafbataillon_spawn_tt",
+    "ver": "",
+    "val": "§Y3 Penal Division§! units will be created in §Y[ROOT.Capital.GetName]§!. \\nUnlocks limited recruitment of §YPenal Divisions§!.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 4037,
+    "indent": " ",
+    "key": "GER_allied_economic_integration_tt",
+    "ver": "",
+    "val": "Unlocks Decisions to: §YFurther Increase Allies' Economic Dependency§!, allowing for us to turn §YFaction Members§! into §YPuppets§!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 4038,
+    "indent": " ",
+    "key": "GER_allied_civilian_administration_integration_tt",
+    "ver": "",
+    "val": "Unlocks Decisions to: §YIntegrate our Subjects' Civilian Administrations§!, allowing for us to §YAnnex§! our §YPuppets§!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 4039,
+    "indent": " ",
+    "key": "GER_mackensen_went_into_retirement",
+    "ver": "",
+    "val": "§YAugust von Mackensen§! went into Retirement",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 4040,
+    "indent": " ",
+    "key": "GER_build_volkshalle_landmark_tt",
+    "ver": "",
+    "val": "Replaces the §Y$landmark_berlin_reichstag$§! with the §Y$landmark_berlin_volkshalle$§!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 4043,
+    "indent": " ",
+    "key": "generic_invite_to_faction_tt",
+    "ver": "",
+    "val": "Gets event '§Y[ROOT.GetNameDef] invites us to the [ROOT.GetFactionName]§!'.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 4044,
+    "indent": " ",
+    "key": "generic_invite_to_faction_advanced_tt",
+    "ver": "",
+    "val": "Gets event '§Y[ROOT.GetNameDef] invites [TARGET_COUNTRY.GetName] to the [ROOT.GetFactionName]§!'.",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 4046,
+    "indent": " ",
+    "key": "available_political_advisor_no_trait_tt",
+    "ver": "",
+    "val": "$available_political_advisor$§Y$CHARACTER$§!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 4047,
+    "indent": " ",
+    "key": "remove_political_advisor_no_trait_tt",
+    "ver": "",
+    "val": "$remove_political_advisor$§Y$CHARACTER$§!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  },
+  {
+    "idx": 4049,
+    "indent": " ",
+    "key": "available_scientist_one_line_tt",
+    "ver": "",
+    "val": "$available_scientist_tt$ §Y$CHARACTER$§!",
+    "comment": "",
+    "section": "### GERMAN FOCUS TREE ###"
+  }
+]

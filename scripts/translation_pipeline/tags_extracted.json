@@ -1,0 +1,3359 @@
+[
+  {
+    "tag": "ABK",
+    "base": "",
+    "adj": "",
+    "dem": "Abkhazia",
+    "neu": "Abkhaz Military Authority",
+    "com": "Abkhaz Independent Commune",
+    "fas": "Orthodox State of Abkhazia"
+  },
+  {
+    "tag": "ADU",
+    "base": "Andalusia",
+    "adj": "Andalusian",
+    "dem": "Islamic Republic of Al-Andalus",
+    "neu": "Al-Andalus",
+    "com": "People's Republic of Andalusia",
+    "fas": "Caliphate of Cordoba"
+  },
+  {
+    "tag": "AFA",
+    "base": "",
+    "adj": "",
+    "dem": "Afar Republic",
+    "neu": "Sultanate of Aussa",
+    "com": "Revolutionary Democratic Union of Afar",
+    "fas": "Empire of the Sands"
+  },
+  {
+    "tag": "AFG",
+    "base": "Afghanistan",
+    "adj": "Afghan",
+    "dem": "Republic of Afghanistan",
+    "neu": "Kingdom of Afghanistan",
+    "com": "Democratic Republic of Afghanistan",
+    "fas": "New Afghan Empire"
+  },
+  {
+    "tag": "ALB",
+    "base": "Albania",
+    "adj": "Albanian",
+    "dem": "Albanian Republic",
+    "neu": "Albanian Kingdom",
+    "com": "Socialist Republic of Albania",
+    "fas": "Greater Albania"
+  },
+  {
+    "tag": "ALG",
+    "base": "Algeria",
+    "adj": "Algerian",
+    "dem": "Republic of Algeria",
+    "neu": "Algeria",
+    "com": "Commune of Algeria",
+    "fas": "Algerian Caliphate"
+  },
+  {
+    "tag": "ALT",
+    "base": "",
+    "adj": "",
+    "dem": "Altai",
+    "neu": "Confederated Republic of Altai",
+    "com": "Oyrot Soviet Republic",
+    "fas": "New Genghisid Empire of Altaians and Oirats"
+  },
+  {
+    "tag": "ANG",
+    "base": "Angola",
+    "adj": "Angolan",
+    "dem": "Republic of Angola",
+    "neu": "Angola",
+    "com": "Democratic People's Republic of Angola",
+    "fas": "Angolan Empire"
+  },
+  {
+    "tag": "ANU",
+    "base": "Ainu",
+    "adj": "Ainu",
+    "dem": "Ainu Republic",
+    "neu": "United Ainu Chiefdom",
+    "com": "Ainu Agrarian Farmers Republic",
+    "fas": "Greater Ainu Realm"
+  },
+  {
+    "tag": "AOI",
+    "base": "Africa Orientale Italiana",
+    "adj": "",
+    "dem": "Italo-Ethiopian Federation",
+    "neu": "Italo-Ethiopian State of East Africa",
+    "com": "East African Commune",
+    "fas": "Italian State of East Africa"
+  },
+  {
+    "tag": "ARG",
+    "base": "Argentina",
+    "adj": "Argentinean",
+    "dem": "Argentine Republic",
+    "neu": "Argentina",
+    "com": "Argentina Populares",
+    "fas": "Argentine League"
+  },
+  {
+    "tag": "ARM",
+    "base": "Armenia",
+    "adj": "Armenian",
+    "dem": "Republic of Armenia",
+    "neu": "Armenian Independent Territories",
+    "com": "Armenian Socialist Republic",
+    "fas": "Greater Armenia"
+  },
+  {
+    "tag": "AST",
+    "base": "Australia",
+    "adj": "Australian",
+    "dem": "Australia",
+    "neu": "Emu Empire",
+    "com": "Australian People's Republic",
+    "fas": "Centralist Australia"
+  },
+  {
+    "tag": "ASY",
+    "base": "Assyria",
+    "adj": "Assyrian",
+    "dem": "Assyrian Republic",
+    "neu": "Assyria",
+    "com": "Assyrian Socialist Republic",
+    "fas": "Great Assyria"
+  },
+  {
+    "tag": "ATJ",
+    "base": "Aceh",
+    "adj": "Acehnese",
+    "dem": "Free State of Aceh",
+    "neu": "Kingdom of Aceh Darussalam",
+    "com": "Revolutionary State of Aceh",
+    "fas": "Sublime Aceh Sultanate"
+  },
+  {
+    "tag": "AUS",
+    "base": "Austria",
+    "adj": "Austrian",
+    "dem": "Republic of Austria",
+    "neu": "Austria",
+    "com": "Socialist Republic of Austria",
+    "fas": "Austria"
+  },
+  {
+    "tag": "AZR",
+    "base": "Azerbaijan",
+    "adj": "Azerbaijani",
+    "dem": "Azerbaijan Democratic Republic",
+    "neu": "Islamic Republic of Azerbaijan",
+    "com": "Azerbaijan Socialist Republic",
+    "fas": "Empire of Fire"
+  },
+  {
+    "tag": "BAH",
+    "base": "Bahamas",
+    "adj": "Bahamian",
+    "dem": "Commonwealth of The Bahamas",
+    "neu": "Bahamas",
+    "com": "Bahamian Commune",
+    "fas": "Bahamas Unitary State"
+  },
+  {
+    "tag": "BAN",
+    "base": "Bangladesh",
+    "adj": "Bangladeshi",
+    "dem": "Bangladesh",
+    "neu": "Sultanate of Bangladesh",
+    "com": "Bengal People's Republic",
+    "fas": "State of Bengal"
+  },
+  {
+    "tag": "BAR",
+    "base": "Barotseland",
+    "adj": "Barotse",
+    "dem": "Federal Republic of Barotseland",
+    "neu": "Kingdom of Barotseland",
+    "com": "People's Independent Communes of Barotseland",
+    "fas": "Resurgent Empire of Barotseland"
+  },
+  {
+    "tag": "BAS",
+    "base": "Antilles",
+    "adj": "Antillian",
+    "dem": "Republic of the British Antilles",
+    "neu": "British Antillean Federation",
+    "com": "British Antillean Commune",
+    "fas": "Liberated States of the British West Indies"
+  },
+  {
+    "tag": "BAY",
+    "base": "Bavaria",
+    "adj": "Bavarian",
+    "dem": "Bavarian Free State",
+    "neu": "Kingdom of Bavaria",
+    "com": "Bavarian Soviet Republic",
+    "fas": "National Socialist State of Bavaria"
+  },
+  {
+    "tag": "BEG",
+    "base": "",
+    "adj": "",
+    "dem": "Benishangul-Gumuz Republic",
+    "neu": "Benishangul-Gumuz Nation",
+    "com": "Socialist Union of Funj and Gumuz Peoples",
+    "fas": "Funjistan"
+  },
+  {
+    "tag": "BEL",
+    "base": "Belgium",
+    "adj": "Belgian",
+    "dem": "Belgium",
+    "neu": "Leopoldian Belgium",
+    "com": "Co-operative of Belgium",
+    "fas": "Rexist Belgium"
+  },
+  {
+    "tag": "BHR",
+    "base": "Bahrain",
+    "adj": "Bahraini",
+    "dem": "Islamic Republic of Bahrain",
+    "neu": "Kingdom of Bahrain",
+    "com": "Bahraini Soviet Republic",
+    "fas": "Neo-Usfurid Emirate"
+  },
+  {
+    "tag": "BHU",
+    "base": "Bhutan",
+    "adj": "Bhutanese",
+    "dem": "Bhutanese Republic",
+    "neu": "Bhutan",
+    "com": "Union of Red Dragons",
+    "fas": "Thunder Dragon Empire"
+  },
+  {
+    "tag": "BIA",
+    "base": "Biafra",
+    "adj": "Biafran",
+    "dem": "Republic of Biafra",
+    "neu": "Edo Kingdom of Benin",
+    "com": "Biafran People's Republic",
+    "fas": "Greater Igboland"
+  },
+  {
+    "tag": "BLC",
+    "base": "Balochistan",
+    "adj": "Baloch",
+    "dem": "Islamic Republic of Balochistan",
+    "neu": "Balochistan",
+    "com": "Baloch People's Republic",
+    "fas": "Baloch Khanate"
+  },
+  {
+    "tag": "BLI",
+    "base": "Bali",
+    "adj": "Balinese",
+    "dem": "Pulau Dewata Bali",
+    "neu": "Kingdomship of Bali",
+    "com": "Balinese Union",
+    "fas": "Wilwatikta"
+  },
+  {
+    "tag": "BLR",
+    "base": "Belarus",
+    "adj": "Belarusian",
+    "dem": "Republic of Belarus",
+    "neu": "Belarus",
+    "com": "Belarusian Socialist Republic",
+    "fas": "White Ruthenia"
+  },
+  {
+    "tag": "BLZ",
+    "base": "Belize",
+    "adj": "Belizean",
+    "dem": "Belize",
+    "neu": "Republic of Belize",
+    "com": "Popular Union of Belize",
+    "fas": "State of Belize"
+  },
+  {
+    "tag": "BOL",
+    "base": "Bolivia",
+    "adj": "Bolivian",
+    "dem": "Bolivian Republic",
+    "neu": "Bolivia",
+    "com": "Bolivia Izquerdista",
+    "fas": "Falangist Bolivia"
+  },
+  {
+    "tag": "BOS",
+    "base": "Bosnia",
+    "adj": "Bosnian",
+    "dem": "Bosnia-Herzegovina",
+    "neu": "Bosnia",
+    "com": "Socialist Republic of Bosnia",
+    "fas": "Bosnia-Herzegovinan Defensive Cooperative"
+  },
+  {
+    "tag": "BOT",
+    "base": "Botswana",
+    "adj": "Batswana",
+    "dem": "Republic of Botswana",
+    "neu": "Botswana",
+    "com": "Union of the Batswana People",
+    "fas": "Greater Botswana"
+  },
+  {
+    "tag": "BOU",
+    "base": "Bougainville",
+    "adj": "Bougainvillean",
+    "dem": "Republic of Bougainville",
+    "neu": "Republic of the North Solomons",
+    "com": "Revolutionary Socialist Republic of Bougainville",
+    "fas": "Melanesian State of Bougainville"
+  },
+  {
+    "tag": "BRA",
+    "base": "Brazil",
+    "adj": "Brazilian",
+    "dem": "Second Brazilian Republic",
+    "neu": "Brazil",
+    "com": "Brazilian Socialist Republic",
+    "fas": "Integralist Brazil"
+  },
+  {
+    "tag": "BRD",
+    "base": "Burundi",
+    "adj": "Burundi",
+    "dem": "Burundi",
+    "neu": "Kingdom of Burundi",
+    "com": "Democratic People's Republic of Burundi",
+    "fas": "Empire of Burundi"
+  },
+  {
+    "tag": "BRI",
+    "base": "Brittany",
+    "adj": "Breton",
+    "dem": "Breton Free Republic",
+    "neu": "",
+    "com": "Socialist State of Brittany",
+    "fas": "National Republic of Brittany"
+  },
+  {
+    "tag": "BRM",
+    "base": "Burma",
+    "adj": "Burmese",
+    "dem": "Burma",
+    "neu": "Fourth Burmese Empire",
+    "com": "Socialist Republic of the Union of Burma",
+    "fas": "State of Burma"
+  },
+  {
+    "tag": "BRN",
+    "base": "Brunei",
+    "adj": "Bruneian",
+    "dem": "Brunei Federation",
+    "neu": "Brunei Darussalam",
+    "com": "Brunei People's Republic",
+    "fas": "Grand Bruneian Sultanate"
+  },
+  {
+    "tag": "BSK",
+    "base": "",
+    "adj": "",
+    "dem": "Bashkortostan",
+    "neu": "Independent Ufa Governorate",
+    "com": "Bashkirian Commune",
+    "fas": "Greater Bashkiria"
+  },
+  {
+    "tag": "BUK",
+    "base": "",
+    "adj": "",
+    "dem": "Bukharan Jadidist Republic",
+    "neu": "Emirate of Bukhara",
+    "com": "Bukharan People's Republic",
+    "fas": "Bukharan Sufist State"
+  },
+  {
+    "tag": "BUL",
+    "base": "Bulgaria",
+    "adj": "Bulgarian",
+    "dem": "Republic of Bulgaria",
+    "neu": "Bulgaria",
+    "com": "Socialist Republic of Bulgaria",
+    "fas": "Legionnaires Bulgaria"
+  },
+  {
+    "tag": "BYA",
+    "base": "",
+    "adj": "",
+    "dem": "Republic of Buryatia",
+    "neu": "The Dharmatic Kingdom of Buryatia",
+    "com": "Buryat-Mongol People's Union",
+    "fas": "Great Buryat-Mongol Yuan Successor State"
+  },
+  {
+    "tag": "CAM",
+    "base": "Cambodia",
+    "adj": "Cambodian",
+    "dem": "Republic of Cambodia",
+    "neu": "Kingdom of Cambodia",
+    "com": "People's Republic of Kampuchea",
+    "fas": "Imperial Khmer"
+  },
+  {
+    "tag": "CAN",
+    "base": "Canada",
+    "adj": "Canadian",
+    "dem": "Canada",
+    "neu": "Free Canadian Republic",
+    "com": "Canada Popular State",
+    "fas": "Unitary Canada"
+  },
+  {
+    "tag": "CAR",
+    "base": "Central African Republic",
+    "adj": "Central African",
+    "dem": "Central African Federation",
+    "neu": "Central African Republic",
+    "com": "Commune of Central Africa",
+    "fas": "Central African Empire"
+  },
+  {
+    "tag": "CAT",
+    "base": "Catalonia",
+    "adj": "Catalan",
+    "dem": "Catalonian Free Republic",
+    "neu": "Catalonia",
+    "com": "Communion of Catalans",
+    "fas": "Catalan State"
+  },
+  {
+    "tag": "CAY",
+    "base": "Guiana",
+    "adj": "Guianan",
+    "dem": "Republic of Cayenne",
+    "neu": "Cayenne",
+    "com": "Socialist Republic of French Guiana",
+    "fas": "Cayenne Unitary State"
+  },
+  {
+    "tag": "CBV",
+    "base": "Cabo Verde",
+    "adj": "Cabo Verdean",
+    "dem": "Republic of Cabo Verde",
+    "neu": "Principality of Cape Verde",
+    "com": "Democratic Republic of Cabo Verde",
+    "fas": "Archipelagic Empire of Macaronesia"
+  },
+  {
+    "tag": "CHA",
+    "base": "Chad",
+    "adj": "Chadian",
+    "dem": "Republic of Chad",
+    "neu": "Chad",
+    "com": "Democratic People's Republic of Chad",
+    "fas": "Pan-Sahelian Empire"
+  },
+  {
+    "tag": "CHI",
+    "base": "China",
+    "adj": "Chinese",
+    "dem": "Republic of China",
+    "neu": "China",
+    "com": "Chinese People's Republic",
+    "fas": "Reorganized Nationalist China"
+  },
+  {
+    "tag": "CHL",
+    "base": "Chile",
+    "adj": "Chilean",
+    "dem": "Chile",
+    "neu": "Chilean Republic",
+    "com": "Chilean Socialist Republic",
+    "fas": "Vanguard Chile"
+  },
+  {
+    "tag": "CHM",
+    "base": "Champa",
+    "adj": "Cham",
+    "dem": "Champa Republic",
+    "neu": "Kingdom of Champa",
+    "com": "Cham People's Council Republic",
+    "fas": "Greater Champa"
+  },
+  {
+    "tag": "CHR",
+    "base": "Charrúa Nation",
+    "adj": "Charrúa",
+    "dem": "Charrúa Republic",
+    "neu": "Charrúa Nation",
+    "com": "Collective Defense Union of Charrúa and Guaraní Peoples",
+    "fas": "Neo-Charrúan Kingdom"
+  },
+  {
+    "tag": "CHU",
+    "base": "",
+    "adj": "",
+    "dem": "Chuvashia",
+    "neu": "Orthodox Union of Descendants of Suars and Volga Bulgarians",
+    "com": "Chuvash Soviet",
+    "fas": "Neo Volga-Bulgaria"
+  },
+  {
+    "tag": "CIN",
+    "base": "",
+    "adj": "",
+    "dem": "Chechen-Ingush Republic",
+    "neu": "Chechnya-Ingushetia",
+    "com": "Chechen-Ingush People's Republic",
+    "fas": "Caucasian Emirate"
+  },
+  {
+    "tag": "CIP",
+    "base": "Central Indian Princely States",
+    "adj": "Central Indian",
+    "dem": "Madhya Pradesh",
+    "neu": "Central Indian Princely States",
+    "com": "Central Indian Commune",
+    "fas": "Central Indian Empire"
+  },
+  {
+    "tag": "CKK",
+    "base": "",
+    "adj": "",
+    "dem": "Chukotka Republic",
+    "neu": "Independent Chukchi Territories",
+    "com": "Chukotkan People's Republic",
+    "fas": "Chukchi Nation"
+  },
+  {
+    "tag": "CMR",
+    "base": "Cameroon",
+    "adj": "Cameroonian",
+    "dem": "Republic of Cameroon",
+    "neu": "Cameroon",
+    "com": "Socialist Federation of Cameroon",
+    "fas": "Nationalist Cameroon"
+  },
+  {
+    "tag": "COG",
+    "base": "Congo",
+    "adj": "Congolese",
+    "dem": "Congo-Léopoldville",
+    "neu": "Congolese State",
+    "com": "Democratic Republic of the Congo",
+    "fas": "Zaire"
+  },
+  {
+    "tag": "COL",
+    "base": "Colombia",
+    "adj": "Colombian",
+    "dem": "Colombia",
+    "neu": "Nueva Constitución",
+    "com": "Colombian Socialist Republic",
+    "fas": "Nueva Gran Colombia"
+  },
+  {
+    "tag": "COR",
+    "base": "Corsica",
+    "adj": "Corsican",
+    "dem": "Corsican Republic",
+    "neu": "Duchy of Corsica",
+    "com": "Revolutionary Corsica",
+    "fas": "Fraternal Corsica"
+  },
+  {
+    "tag": "COS",
+    "base": "Costa Rica",
+    "adj": "Costa Rican",
+    "dem": "Costa Rica",
+    "neu": "Reino de la Costa",
+    "com": "Costa del Pueblo",
+    "fas": "Costa Potente"
+  },
+  {
+    "tag": "CPS",
+    "base": "Champasak",
+    "adj": "Bassac Laotian",
+    "dem": "Republic of Champasak",
+    "neu": "Kingdom of Champasak",
+    "com": "Bassac People's Democratic Republic",
+    "fas": "Empire of Champasak"
+  },
+  {
+    "tag": "CRC",
+    "base": "Antilles",
+    "adj": "Antillean",
+    "dem": "Netherlands Antilles",
+    "neu": "ABC Republic",
+    "com": "Curative People's Republic",
+    "fas": "Empire of the Dutch Antilles"
+  },
+  {
+    "tag": "CRI",
+    "base": "",
+    "adj": "",
+    "dem": "Crimea",
+    "neu": "Crimean Regime",
+    "com": "Crimean People's Republic",
+    "fas": "Crimean Khanate"
+  },
+  {
+    "tag": "CRO",
+    "base": "Croatia",
+    "adj": "Croatian",
+    "dem": "Republic of Croatia",
+    "neu": "Kingdom of Croatia",
+    "com": "SR Croatia",
+    "fas": "Independent State of Croatia"
+  },
+  {
+    "tag": "CSA",
+    "base": "Confederation of America",
+    "adj": "Confederate",
+    "dem": "Confederacy of American States",
+    "neu": "Confederation of America",
+    "com": "Confederacy of American Workers",
+    "fas": "Confederated States of America"
+  },
+  {
+    "tag": "CUB",
+    "base": "Cuba",
+    "adj": "Cuban",
+    "dem": "Cuba",
+    "neu": "Republic of Cuba",
+    "com": "Revolutionary Cuba",
+    "fas": "Falangist Cuba"
+  },
+  {
+    "tag": "CYP",
+    "base": "Cyprus",
+    "adj": "Cypriot",
+    "dem": "Republic of Cyprus",
+    "neu": "Cyprus",
+    "com": "Cypriot Democratic People's Republic",
+    "fas": "Cypriot Empire"
+  },
+  {
+    "tag": "CZE",
+    "base": "Czechoslovakia",
+    "adj": "Czechoslovakian",
+    "dem": "Czechoslovak Republic",
+    "neu": "Kingdom of Czechoslovakia",
+    "com": "Czechoslovak Socialist Republic",
+    "fas": "Czechoslovak State"
+  },
+  {
+    "tag": "DAG",
+    "base": "",
+    "adj": "",
+    "dem": "Mountainous Republic of Dagestan",
+    "neu": "Second North Caucasian Emirate",
+    "com": "Dagestani People's Republic",
+    "fas": "Legionary Dagestani State"
+  },
+  {
+    "tag": "DAH",
+    "base": "Benin",
+    "adj": "Beninese",
+    "dem": "Benin",
+    "neu": "Dahomey",
+    "com": "Socialist Republic of Dahomey",
+    "fas": "Benin Unitary Federation"
+  },
+  {
+    "tag": "DDR",
+    "base": "Germany",
+    "adj": "East German",
+    "dem": "Constitutional Germany",
+    "neu": "Kingdom of Prussia",
+    "com": "German Democratic Republic",
+    "fas": "DNSR"
+  },
+  {
+    "tag": "DEN",
+    "base": "Denmark",
+    "adj": "Danish",
+    "dem": "Denmark",
+    "neu": "Kingdom of Denmark",
+    "com": "Danish Civil Union",
+    "fas": "Danevælde"
+  },
+  {
+    "tag": "DIP",
+    "base": "Indian Partisans",
+    "adj": "Partisan",
+    "dem": "",
+    "neu": "",
+    "com": "",
+    "fas": ""
+  },
+  {
+    "tag": "DJI",
+    "base": "Djibouti",
+    "adj": "Djiboutian",
+    "dem": "Republic of Djibouti",
+    "neu": "Djibouti",
+    "com": "Djiboutian Socialist Republic",
+    "fas": "Empire of Adal"
+  },
+  {
+    "tag": "DNZ",
+    "base": "Danzig",
+    "adj": "Danzig",
+    "dem": "Free City of Danzig",
+    "neu": "",
+    "com": "Danzig Commune",
+    "fas": "Free City of Danzig"
+  },
+  {
+    "tag": "DOM",
+    "base": "Dominican Republic",
+    "adj": "Dominican",
+    "dem": "Representative Dominican Republic",
+    "neu": "Santo Domingo",
+    "com": "Dominican People's Republic",
+    "fas": "Dominican Republic"
+  },
+  {
+    "tag": "DON",
+    "base": "Don Republic",
+    "adj": "Don Cossack",
+    "dem": "Don Republic",
+    "neu": "Don Cossack Host",
+    "com": "Don Soviet Republic",
+    "fas": "Almighty Don Host"
+  },
+  {
+    "tag": "ECU",
+    "base": "Ecuador",
+    "adj": "Ecuadorian",
+    "dem": "Ecuador",
+    "neu": "Galapagos Regime",
+    "com": "Equatorial Socialist Republic",
+    "fas": "Ecuadorian Authority"
+  },
+  {
+    "tag": "EGY",
+    "base": "Egypt",
+    "adj": "Egyptian",
+    "dem": "Egypt",
+    "neu": "Kingdom of Egypt",
+    "com": "Soviet Republic of the Nile",
+    "fas": "Imperial Kemet"
+  },
+  {
+    "tag": "ELS",
+    "base": "El Salvador",
+    "adj": "Salvadoran",
+    "dem": "Republic of El Salvador",
+    "neu": "Teocracia de El Salvador",
+    "com": "Central American Socialist Republic",
+    "fas": "El Salvador"
+  },
+  {
+    "tag": "ENG",
+    "base": "Britain",
+    "adj": "British",
+    "dem": "United Kingdom",
+    "neu": "Great Britain",
+    "com": "Union of Britain",
+    "fas": "British Empire"
+  },
+  {
+    "tag": "EQG",
+    "base": "Equatorial Guinea",
+    "adj": "Equatorial Guinean",
+    "dem": "Republic of Equatorial Guinea",
+    "neu": "Equatorial Guinea",
+    "com": "Equatorial Commune of Guinea",
+    "fas": "Equatorial Empire of Guinea"
+  },
+  {
+    "tag": "ERI",
+    "base": "Eritrea",
+    "adj": "Eritrean",
+    "dem": "Eritrea",
+    "neu": "Eritrean Kingdom",
+    "com": "Eritrean Democratic People's Republic",
+    "fas": "Unitary Eritrea"
+  },
+  {
+    "tag": "EST",
+    "base": "Estonia",
+    "adj": "Estonian",
+    "dem": "Republic of Estonia",
+    "neu": "Estonia",
+    "com": "Estonian People's Republic",
+    "fas": "Vapsid Estonia"
+  },
+  {
+    "tag": "ETH",
+    "base": "Ethiopia",
+    "adj": "Ethiopian",
+    "dem": "Federal Democratic Republic of Ethiopia",
+    "neu": "Ethiopia",
+    "com": "People's Democratic Republic of Ethiopia",
+    "fas": "Ethiopian Empire"
+  },
+  {
+    "tag": "EVE",
+    "base": "Evenkia",
+    "adj": "Evenk",
+    "dem": "Evenkia",
+    "neu": "Federal State of Evenkia",
+    "com": "Evenki Soviet Republic",
+    "fas": "East-Siberian State"
+  },
+  {
+    "tag": "EZO",
+    "base": "Ezo",
+    "adj": "Ezo",
+    "dem": "Ezo Republic",
+    "neu": "Ezo Shogunate",
+    "com": "United Communes of Northern Japan",
+    "fas": "Imperial State of Hokkaido"
+  },
+  {
+    "tag": "FER",
+    "base": "",
+    "adj": "",
+    "dem": "Far Eastern Republic",
+    "neu": "Independent State of the Far East",
+    "com": "Far Eastern Commune",
+    "fas": "East Siberian Empire"
+  },
+  {
+    "tag": "FIJ",
+    "base": "Fiji",
+    "adj": "Fijian",
+    "dem": "Melanesian Federation",
+    "neu": "Fiji",
+    "com": "Pacific Worker State",
+    "fas": "Empire of the Seas"
+  },
+  {
+    "tag": "FIN",
+    "base": "Finland",
+    "adj": "Finnish",
+    "dem": "Republic of Finland",
+    "neu": "Finland",
+    "com": "Socialist Republic of Finland",
+    "fas": "White Finland"
+  },
+  {
+    "tag": "FOR",
+    "base": "Formosa",
+    "adj": "Formosan",
+    "dem": "Aboriginal Republic of Taiwan",
+    "neu": "Republic of Taiwan",
+    "com": "Soviet of Workers, Soldiers, and the Landless in Taiwan",
+    "fas": "State of Formosa"
+  },
+  {
+    "tag": "FRA",
+    "base": "France",
+    "adj": "French",
+    "dem": "France",
+    "neu": "Bourbon France",
+    "com": "French Commune",
+    "fas": "Nation Française"
+  },
+  {
+    "tag": "FSA",
+    "base": "Federation of South Arabia",
+    "adj": "Yemeni",
+    "dem": "Al-Yaman",
+    "neu": "Federation of South Arabia",
+    "com": "South Yemen",
+    "fas": "Saba Empire"
+  },
+  {
+    "tag": "FSM",
+    "base": "Micronesia",
+    "adj": "Micronesian",
+    "dem": "Federated States of Micronesia",
+    "neu": "",
+    "com": "Greater Pohnpei Union State",
+    "fas": "Second Saudeleur Dynastic Empire"
+  },
+  {
+    "tag": "GAB",
+    "base": "Gabon",
+    "adj": "Gabonese",
+    "dem": "Gabonese Republic",
+    "neu": "Gabon",
+    "com": "Gabonese Commune",
+    "fas": "Sovereign Gabonese State"
+  },
+  {
+    "tag": "GAL",
+    "base": "Galicia and Lodomeria",
+    "adj": "Galician",
+    "dem": "Republic of Galicia",
+    "neu": "Kingdom of Galicia and Lodomeria",
+    "com": "",
+    "fas": "State of Galicia"
+  },
+  {
+    "tag": "GAM",
+    "base": "The Gambia",
+    "adj": "Gambian",
+    "dem": "The Gambia",
+    "neu": "Islamic Republic of The Gambia",
+    "com": "United Worker State of The Gambia",
+    "fas": "Nationalist The Gambia"
+  },
+  {
+    "tag": "GAR",
+    "base": "Guaraní Nation",
+    "adj": "Guaraní",
+    "dem": "Guaraní Republic",
+    "neu": "Guaraní Nation",
+    "com": "Guaraní People's United Communes",
+    "fas": "Guaraní Empire"
+  },
+  {
+    "tag": "GBA",
+    "base": "",
+    "adj": "",
+    "dem": "Gambela Federation",
+    "neu": "Gambela",
+    "com": "Anuak-Nuer Peoples' Popular State",
+    "fas": "Upper-Nilotic National Union"
+  },
+  {
+    "tag": "GDC",
+    "base": "Guangdong",
+    "adj": "Cantonese",
+    "dem": "Guangdong Independent Republic",
+    "neu": "Guangdong Clique",
+    "com": "Socialist Republic of Canton",
+    "fas": "Great Guangdong Clique"
+  },
+  {
+    "tag": "GDL",
+    "base": "Guadeloupe",
+    "adj": "Guadeloupean",
+    "dem": "Republic of Guadeloupe",
+    "neu": "Guadeloupe",
+    "com": "Guadeloupean Commune",
+    "fas": "Karukera Empire"
+  },
+  {
+    "tag": "GEN",
+    "base": "Generalgouvernement",
+    "adj": "South Polish",
+    "dem": "Bundesstaat Krakau",
+    "neu": "Grand Duchy of Krakow",
+    "com": "Volkskommissariat Krakau",
+    "fas": "Generalgouvernement"
+  },
+  {
+    "tag": "GEO",
+    "base": "Georgia",
+    "adj": "Georgian",
+    "dem": "Republic of Georgia",
+    "neu": "Kingdom of Georgia",
+    "com": "Georgian Socialist Republic",
+    "fas": "Caucasus Authority"
+  },
+  {
+    "tag": "GER",
+    "base": "Germany",
+    "adj": "German",
+    "dem": "German Republic",
+    "neu": "German Empire",
+    "com": "Socialist Republic of Germany",
+    "fas": "German Reich"
+  },
+  {
+    "tag": "GHA",
+    "base": "Ghana",
+    "adj": "Ghanaian",
+    "dem": "Republic of Ghana",
+    "neu": "Ghana",
+    "com": "Socialist State of Ghana",
+    "fas": "Ghana Empire"
+  },
+  {
+    "tag": "GLC",
+    "base": "Galicia",
+    "adj": "Galician",
+    "dem": "Republic of Galiza",
+    "neu": "Galicia",
+    "com": "Socialist Galiza",
+    "fas": "State of Gallaecia"
+  },
+  {
+    "tag": "GNA",
+    "base": "Guinea",
+    "adj": "Guinean",
+    "dem": "Republic of Guinea",
+    "neu": "Guinea",
+    "com": "Socialist Republic of Guinea-Conakry",
+    "fas": "Sovereign State of Guinea"
+  },
+  {
+    "tag": "GNB",
+    "base": "Guinea-Bissau",
+    "adj": "Bissau-Guinean",
+    "dem": "Republic of Guinea-Bissau",
+    "neu": "Constitutional State of Guinea-Bissau",
+    "com": "Guinea-Bissau",
+    "fas": "Dictatorial Guinea-Bissau"
+  },
+  {
+    "tag": "GOT",
+    "base": "",
+    "adj": "",
+    "dem": "Swedish Exiles",
+    "neu": "Kingdom of Sweden",
+    "com": "The island of workers strife",
+    "fas": "The true Sweden"
+  },
+  {
+    "tag": "GOW",
+    "base": "Gowa",
+    "adj": "Makassarese",
+    "dem": "Sulawesian Republic",
+    "neu": "Sultanate of Gowa",
+    "com": "Union of Bornean and Sulawesian People's Republics",
+    "fas": "Sultanate of Sulawesi"
+  },
+  {
+    "tag": "GRE",
+    "base": "Greece",
+    "adj": "Greek",
+    "dem": "Hellenic Republic",
+    "neu": "Kingdom of Greece",
+    "com": "Provisional Democratic Greece",
+    "fas": "Hellenic State"
+  },
+  {
+    "tag": "GRN",
+    "base": "Greenland",
+    "adj": "Kalaallit",
+    "dem": "Greenland",
+    "neu": "Kingdom of Greenland",
+    "com": "People's Community of Kalaallit Nunaat",
+    "fas": "East Inuit Realm"
+  },
+  {
+    "tag": "GSM",
+    "base": "Gansu Ma",
+    "adj": "Gansu Ma",
+    "dem": "Gansu Hui Republic",
+    "neu": "Gansu Ma",
+    "com": "People's Republic of Ma",
+    "fas": "Gansu Ma Free State"
+  },
+  {
+    "tag": "GUA",
+    "base": "Guatemala",
+    "adj": "Guatemalan",
+    "dem": "Republic of Guatemala",
+    "neu": "Guatemala",
+    "com": "Union Guatemala",
+    "fas": "Guatemalan Corporate State"
+  },
+  {
+    "tag": "GUM",
+    "base": "Mariana Islands",
+    "adj": "Mariana",
+    "dem": "Mariana Federation",
+    "neu": "",
+    "com": "United Communes of Mariana",
+    "fas": "Unitary Island State"
+  },
+  {
+    "tag": "GXC",
+    "base": "Guangxi",
+    "adj": "Guangxi",
+    "dem": "Guangxi Independent Republic",
+    "neu": "Guangxi Clique",
+    "com": "Socialist Republic of the Zhu Jiang",
+    "fas": "Third Guangxi Clique"
+  },
+  {
+    "tag": "GYA",
+    "base": "Guyana",
+    "adj": "Guyanese",
+    "dem": "Co-operative Republic of Guyana",
+    "neu": "Guyana",
+    "com": "Indo-Guyanese Union",
+    "fas": "Great Guyana"
+  },
+  {
+    "tag": "HAI",
+    "base": "Haiti",
+    "adj": "Haitian",
+    "dem": "Haiti",
+    "neu": "Kingdom of Haiti",
+    "com": "Haiti Socialist Republic",
+    "fas": "Third Empire of Haiti"
+  },
+  {
+    "tag": "HAN",
+    "base": "Hannover",
+    "adj": "Hanoverian",
+    "dem": "Free State of Hanover",
+    "neu": "Kingdom of Westphalia",
+    "com": "People's Republic of Lower Saxony",
+    "fas": "Greater Hanover"
+  },
+  {
+    "tag": "HAR",
+    "base": "",
+    "adj": "",
+    "dem": "Harari Republic",
+    "neu": "Emirate of Harar",
+    "com": "Harari People's Socialist Republic",
+    "fas": "Empire of Harar"
+  },
+  {
+    "tag": "HAW",
+    "base": "Hawai'i",
+    "adj": "Hawai'ian",
+    "dem": "Hawai'ian Republic",
+    "neu": "Kingdom of Hawai'i",
+    "com": "Great Ohana Commonwealth",
+    "fas": "Hawai'ian Empire"
+  },
+  {
+    "tag": "HBC",
+    "base": "Hebei-Chahar",
+    "adj": "Hebei-Chahar",
+    "dem": "Hebei-Chahar Republic",
+    "neu": "Hebei-Chahar",
+    "com": "Hebei-Chahar Soviet Republic",
+    "fas": "Hebei-Chahar Free State"
+  },
+  {
+    "tag": "HES",
+    "base": "Hesse",
+    "adj": "Hessian",
+    "dem": "People's State of Hesse",
+    "neu": "Grand Duchy of Hesse",
+    "com": "People's Republic of Hesse",
+    "fas": "Groß-Hessen"
+  },
+  {
+    "tag": "HOL",
+    "base": "Netherlands",
+    "adj": "Dutch",
+    "dem": "Netherlands",
+    "neu": "Kingdom of Netherlands",
+    "com": "People's United Provinces",
+    "fas": "Dutch Rijk"
+  },
+  {
+    "tag": "HON",
+    "base": "Honduras",
+    "adj": "Honduran",
+    "dem": "Honduras",
+    "neu": "Atlas Honduras",
+    "com": "Honduran Commonwealth",
+    "fas": "Corporatist Honduras"
+  },
+  {
+    "tag": "HRZ",
+    "base": "Herzegovina",
+    "adj": "Herzegovinan",
+    "dem": "Republic of Herzegovina",
+    "neu": "",
+    "com": "Socialist Republic of Herzegovina",
+    "fas": "New Duchy of Saint Sava"
+  },
+  {
+    "tag": "HUN",
+    "base": "Hungary",
+    "adj": "Hungarian",
+    "dem": "Republic of Hungary",
+    "neu": "Kingdom of Hungary",
+    "com": "Hungarian People's Republic",
+    "fas": "Hungary"
+  },
+  {
+    "tag": "HYD",
+    "base": "Hyderabad",
+    "adj": "Hyderabadi",
+    "dem": "Telangana",
+    "neu": "Hyderabad",
+    "com": "Red Republic of South India",
+    "fas": "Deccan Iron State"
+  },
+  {
+    "tag": "IAS",
+    "base": "Isthmo-Amerindia",
+    "adj": "Isthmo-Amerindian",
+    "dem": "Isthmo-Amerindian Federation",
+    "neu": "Isthmo-Amerindian State",
+    "com": "Isthmo-Amerindian Soviet Socialist Republic",
+    "fas": "Great Isthmo-Amerindian Nation"
+  },
+  {
+    "tag": "ICE",
+    "base": "Iceland",
+    "adj": "Icelandic",
+    "dem": "Iceland",
+    "neu": "Island",
+    "com": "Worker's Republic of Iceland",
+    "fas": "Islandsveldi"
+  },
+  {
+    "tag": "IMO",
+    "base": "Imamate of Oman",
+    "adj": "Hajar Omani",
+    "dem": "Elective Imamate of Oman",
+    "neu": "Imamate of Oman",
+    "com": "Arab Socialist Republic of Oman",
+    "fas": "Neo-Omani Empire"
+  },
+  {
+    "tag": "INC",
+    "base": "Neo-Inca State",
+    "adj": "Incan",
+    "dem": "Neo-Inca State",
+    "neu": "Inca Empire",
+    "com": "Union of People's of Tawantinsuyu",
+    "fas": "Great Inca Empire"
+  },
+  {
+    "tag": "INS",
+    "base": "Indonesia",
+    "adj": "Indonesian",
+    "dem": "Republic of Indonesia",
+    "neu": "Republic of Indonesia",
+    "com": "People's Democratic Front",
+    "fas": "Republic of Indonesia"
+  },
+  {
+    "tag": "INU",
+    "base": "Inuit",
+    "adj": "Inuit",
+    "dem": "Federated Inuit Republics",
+    "neu": "United Inuit States",
+    "com": "Inuit Union",
+    "fas": "Neo-Thule State"
+  },
+  {
+    "tag": "IRE",
+    "base": "Ireland",
+    "adj": "Irish",
+    "dem": "Ireland",
+    "neu": "Free Ireland",
+    "com": "Irish People's Union",
+    "fas": "Resurrectionist Ireland"
+  },
+  {
+    "tag": "IRQ",
+    "base": "Iraq",
+    "adj": "Iraqi",
+    "dem": "Iraqi Republic",
+    "neu": "Kingdom of Iraq",
+    "com": "Iraqi People's State",
+    "fas": "Al-Muthanna Iraq"
+  },
+  {
+    "tag": "ISR",
+    "base": "Israel",
+    "adj": "Israeli",
+    "dem": "Israel",
+    "neu": "Free State of Jerusalem",
+    "com": "Levantine Union",
+    "fas": "Israeli Totalitariat"
+  },
+  {
+    "tag": "ITA",
+    "base": "Italy",
+    "adj": "Italian",
+    "dem": "Italian Republic",
+    "neu": "Kingdom of Italy",
+    "com": "Italian Union",
+    "fas": "Italy"
+  },
+  {
+    "tag": "ITZ",
+    "base": "Itza State",
+    "adj": "Itza",
+    "dem": "Itza Federation",
+    "neu": "Itza Nation",
+    "com": "Chichén Itzá Collective",
+    "fas": "South-West Mayan Empire"
+  },
+  {
+    "tag": "IVO",
+    "base": "Côte d'Ivoire",
+    "adj": "Ivorian",
+    "dem": "République de Côte d'Ivoire",
+    "neu": "Côte d'Ivoire",
+    "com": "Ivory Commune",
+    "fas": "Presidential Dictatorship of Côte d'Ivoire"
+  },
+  {
+    "tag": "JAM",
+    "base": "Jamaica",
+    "adj": "Jamaican",
+    "dem": "Jamaica",
+    "neu": "Jamaican Principality",
+    "com": "Commune of Jamaica",
+    "fas": "Xaymacan Empire"
+  },
+  {
+    "tag": "JAN",
+    "base": "Jan Mayen",
+    "adj": "Polar",
+    "dem": "Jan Mayen",
+    "neu": "Jan Mayen",
+    "com": "Jan Mayen",
+    "fas": "Jan Mayen"
+  },
+  {
+    "tag": "JAP",
+    "base": "Japan",
+    "adj": "Japanese",
+    "dem": "State of Japan",
+    "neu": "Japanese Empire",
+    "com": "Japanese People's Republic",
+    "fas": "Imperial Japan"
+  },
+  {
+    "tag": "JOR",
+    "base": "Jordan",
+    "adj": "Jordanian",
+    "dem": "Jordan",
+    "neu": "Kingdom of Jordan",
+    "com": "Red Jordan",
+    "fas": "Empire of Jordan"
+  },
+  {
+    "tag": "KAL",
+    "base": "",
+    "adj": "",
+    "dem": "Kalmykia",
+    "neu": "Kalmyk Khaganate",
+    "com": "Kalmyk Socialist Workers Union",
+    "fas": "Great Horde"
+  },
+  {
+    "tag": "KAR",
+    "base": "",
+    "adj": "",
+    "dem": "Karelia",
+    "neu": "Karelo-Finnish Military Junta",
+    "com": "Karelian People's Republic",
+    "fas": "Karelo-Finnic Unitary State"
+  },
+  {
+    "tag": "KAS",
+    "base": "Kashmir",
+    "adj": "Kashmiri",
+    "dem": "Jammu and Kashmir",
+    "neu": "Kashmir",
+    "com": "Commune of Kashmir and Jammu",
+    "fas": "Sultanate of Kashmir"
+  },
+  {
+    "tag": "KAT",
+    "base": "Katanga",
+    "adj": "Katangese",
+    "dem": "Republic of Katanga",
+    "neu": "State of Katanga",
+    "com": "Katangese People's Republic",
+    "fas": "Katanga Free State"
+  },
+  {
+    "tag": "KAZ",
+    "base": "Kazakhstan",
+    "adj": "Kazakh",
+    "dem": "Kazakhstan",
+    "neu": "Kazakh Khanate",
+    "com": "Kazakh Soviet Socialist Republic",
+    "fas": "Alash Orda"
+  },
+  {
+    "tag": "KBK",
+    "base": "",
+    "adj": "",
+    "dem": "Federal Republic of Kabardins and Karachay-Balkars",
+    "neu": "Kabardino-Balkarian Mountainous Republic",
+    "com": "Kabardino-Balkar Soviet Republic",
+    "fas": "Circassian Realm"
+  },
+  {
+    "tag": "KEN",
+    "base": "Kenya",
+    "adj": "Kenyan",
+    "dem": "Republic of Kenya",
+    "neu": "Kenya",
+    "com": "People's Republic of Kenya",
+    "fas": "Greater Kenyan Empire"
+  },
+  {
+    "tag": "KHA",
+    "base": "",
+    "adj": "",
+    "dem": "Republic of Khakassia",
+    "neu": "Khaganate of the Northern Dragon",
+    "com": "Khakas Soviet Republic",
+    "fas": "Neo Yensei-Kyrgyz Khaganate"
+  },
+  {
+    "tag": "KHI",
+    "base": "",
+    "adj": "",
+    "dem": "Khivan Jadidist Republic",
+    "neu": "New Khivan Khanate",
+    "com": "Khorezm People's Republic",
+    "fas": "Basmachi State of Khiva"
+  },
+  {
+    "tag": "KHL",
+    "base": "Khalistan",
+    "adj": "Sikh",
+    "dem": "Republic of Khalistan",
+    "neu": "Khalistan",
+    "com": "Socialist Khalistan",
+    "fas": "Sikh Empire"
+  },
+  {
+    "tag": "KHM",
+    "base": "Khotan Ma",
+    "adj": "Khotan Ma",
+    "dem": "Khotan Hui Republic",
+    "neu": "Khotan Ma",
+    "com": "People's Republic of Ma",
+    "fas": "Khotan Ma Free State"
+  },
+  {
+    "tag": "KKP",
+    "base": "",
+    "adj": "",
+    "dem": "Republic of Karakalpakstan",
+    "neu": "Karakalpakstan",
+    "com": "Karakalpak Socialist Union-State",
+    "fas": "Karakalpak National State"
+  },
+  {
+    "tag": "KLT",
+    "base": "Kalat",
+    "adj": "Brahui",
+    "dem": "Republic of Kalat",
+    "neu": "Khanate of Kalat",
+    "com": "Free Peoples Democratic Republic of Kalat",
+    "fas": "Great Khanate of Kalat"
+  },
+  {
+    "tag": "KOL",
+    "base": "Kolhapur and Deccan States",
+    "adj": "Kolhapuri",
+    "dem": "Kerala",
+    "neu": "Kolhapur and Deccan States",
+    "com": "Deccan People's States",
+    "fas": "West Indian Empire"
+  },
+  {
+    "tag": "KOM",
+    "base": "",
+    "adj": "",
+    "dem": "Komi Republic",
+    "neu": "Komi State",
+    "com": "Komi Socialist State",
+    "fas": "New Permian State"
+  },
+  {
+    "tag": "KOR",
+    "base": "Korea",
+    "adj": "Korean",
+    "dem": "Korea",
+    "neu": "People's Republic of Korea",
+    "com": "Democratic People's Republic of Korea",
+    "fas": "Independent Korean Governorate"
+  },
+  {
+    "tag": "KOS",
+    "base": "Kosovo",
+    "adj": "Kosovan",
+    "dem": "Republic of Kosovo",
+    "neu": "",
+    "com": "Kosovo Communist League",
+    "fas": "Dardania"
+  },
+  {
+    "tag": "KSH",
+    "base": "Kashubia",
+    "adj": "Kashubian",
+    "dem": "",
+    "neu": "Duchy of Pomeralia-Gdansk",
+    "com": "Kashubian Commune",
+    "fas": "Kashubian Free State"
+  },
+  {
+    "tag": "KUB",
+    "base": "Kuban People's Republic",
+    "adj": "Kuban Cossack",
+    "dem": "Kuban People's Republic",
+    "neu": "Kuban National Republic",
+    "com": "Kuban-Black Sea Soviet Republic",
+    "fas": "Almighty Kuban Host"
+  },
+  {
+    "tag": "KUM",
+    "base": "Kumul Khanate",
+    "adj": "Kumullik",
+    "dem": "Kumul Republic",
+    "neu": "Kumul Khanate",
+    "com": "Turco-Mongol Federative People's Republic",
+    "fas": "Chagatai Khanate"
+  },
+  {
+    "tag": "KUR",
+    "base": "Kurdistan",
+    "adj": "Kurdistani",
+    "dem": "Kurdistan",
+    "neu": "Kingdom of Kurdistan",
+    "com": "Socialist Republic of Kurdistan",
+    "fas": "Xoybun Kurdistan"
+  },
+  {
+    "tag": "KUW",
+    "base": "Kuwait",
+    "adj": "Kuwaiti",
+    "dem": "Kuwait",
+    "neu": "Kingdom of Kuwait",
+    "com": "People's Republic of Kuwait",
+    "fas": "Dictatorial Kuwait"
+  },
+  {
+    "tag": "KYR",
+    "base": "Kyrgyzstan",
+    "adj": "Kirghiz",
+    "dem": "Kyrgyzstan",
+    "neu": "Kirghizia",
+    "com": "Kirghiz Soviet Socialist Republic",
+    "fas": "Neo-Kyrgyz Khanate"
+  },
+  {
+    "tag": "LAO",
+    "base": "Laos",
+    "adj": "Laotian",
+    "dem": "Republic of Laos",
+    "neu": "Kingdom of Laos",
+    "com": "Lao People's Democratic Republic",
+    "fas": "Kingdom of Luang Prabang"
+  },
+  {
+    "tag": "LAT",
+    "base": "Latvia",
+    "adj": "Latvian",
+    "dem": "Republic of Latvia",
+    "neu": "Latvia",
+    "com": "Latvian People's Republic",
+    "fas": "Thunder Cross Latvia"
+  },
+  {
+    "tag": "LBA",
+    "base": "Libya",
+    "adj": "Libyan",
+    "dem": "Libyan Electorate",
+    "neu": "Kingdom of Libya",
+    "com": "Libyan Socialist Republic",
+    "fas": "Africa Nova"
+  },
+  {
+    "tag": "LBV",
+    "base": "Kingdom of Lombardy-Venetia",
+    "adj": "",
+    "dem": "United Republics of Lombardy and Venetia",
+    "neu": "Kingdom of Lombardy-Venetia",
+    "com": "People's United Provinces of Transpadania",
+    "fas": "Most Serene Republic of Cisalpina"
+  },
+  {
+    "tag": "LEB",
+    "base": "Lebanon",
+    "adj": "Lebanese",
+    "dem": "Lebanon",
+    "neu": "Lebanon",
+    "com": "Lebanese Socialist Republic",
+    "fas": "Lebanon Free State"
+  },
+  {
+    "tag": "LIB",
+    "base": "Liberia",
+    "adj": "Liberian",
+    "dem": "Liberia",
+    "neu": "Independent Liberia",
+    "com": "Liberian Commune",
+    "fas": "Reorganized Liberian Free State"
+  },
+  {
+    "tag": "LIT",
+    "base": "Lithuania",
+    "adj": "Lithuanian",
+    "dem": "Republic of Lithuania",
+    "neu": "Lithuania",
+    "com": "Lithuanian People's Republic",
+    "fas": "Iron Wolf Lithuania"
+  },
+  {
+    "tag": "LUX",
+    "base": "Luxembourg",
+    "adj": "Luxembourg",
+    "dem": "Luxembourg",
+    "neu": "Grand Duchy of Luxembourg",
+    "com": "Independent Luxembourg Commune",
+    "fas": "Volksdeutsche Luxembourg"
+  },
+  {
+    "tag": "MAC",
+    "base": "Macedonia",
+    "adj": "Macedonian",
+    "dem": "Republic of Macedonia",
+    "neu": "Macedonia",
+    "com": "Macedonian People's Republic",
+    "fas": "Greater Macedonia"
+  },
+  {
+    "tag": "MAD",
+    "base": "Madagascar",
+    "adj": "Malagasy",
+    "dem": "Madagascar",
+    "neu": "Republic of Madagascar",
+    "com": "Malagasy People's Republic",
+    "fas": "Empire of Imerina"
+  },
+  {
+    "tag": "MAL",
+    "base": "Malaysia",
+    "adj": "Malaysian",
+    "dem": "Republic of Malaysia",
+    "neu": "Republic of Malaysia",
+    "com": "Malay People's Republic",
+    "fas": "Malaysia"
+  },
+  {
+    "tag": "MAN",
+    "base": "China",
+    "adj": "Manchu",
+    "dem": "Manchu Republic",
+    "neu": "Qing China",
+    "com": "Free Democratic People's Republic of Manchukuo",
+    "fas": "Qing China"
+  },
+  {
+    "tag": "MAY",
+    "base": "Maya",
+    "adj": "Maya",
+    "dem": "Maya Republic",
+    "neu": "Maya State",
+    "com": "Maya People's Republic",
+    "fas": "Mesoamerican Empire of the Maya"
+  },
+  {
+    "tag": "MEK",
+    "base": "Mecklenburg",
+    "adj": "Mecklenburg",
+    "dem": "Free State of Mecklenburg",
+    "neu": "Grand Duchy of Mecklenburg",
+    "com": "People's State of Mecklenburg",
+    "fas": "Groß-Mecklenburg"
+  },
+  {
+    "tag": "MEL",
+    "base": "",
+    "adj": "",
+    "dem": "Mari El",
+    "neu": "Free Mari National Republic",
+    "com": "Mari Independent Farmers Commune",
+    "fas": "Realm of the Great God of Light"
+  },
+  {
+    "tag": "MEN",
+    "base": "Mengkukuo",
+    "adj": "Mengjiangi",
+    "dem": "Republic of Mengjiang",
+    "neu": "Mengjiang",
+    "com": "People's Mengjiang",
+    "fas": "Mengkukuo"
+  },
+  {
+    "tag": "MEX",
+    "base": "Mexico",
+    "adj": "Mexican",
+    "dem": "United Mexican States",
+    "neu": "Mexico",
+    "com": "Mexican Soviet Republic",
+    "fas": "Mexican Junta"
+  },
+  {
+    "tag": "MIS",
+    "base": "Mosquitia",
+    "adj": "Miskito",
+    "dem": "Mosquitia",
+    "neu": "Mosquito Kingdom",
+    "com": "Soviet Socialist Republic of the Mosquito Coast",
+    "fas": "Great Mosquitia"
+  },
+  {
+    "tag": "MLD",
+    "base": "Maldives",
+    "adj": "Maldivian",
+    "dem": "Maldives",
+    "neu": "Sultanate of the Maldives",
+    "com": "Maldive Commune",
+    "fas": "Resurgent Maldives"
+  },
+  {
+    "tag": "MLI",
+    "base": "Mali",
+    "adj": "Malian",
+    "dem": "Republic of Mali",
+    "neu": "Mali",
+    "com": "Malian Socialist Worker State",
+    "fas": "Resurgent Mali Empire"
+  },
+  {
+    "tag": "MLT",
+    "base": "Malta",
+    "adj": "Maltese",
+    "dem": "Malta",
+    "neu": "Sovereign Military Order of Malta",
+    "com": "Malta Commune",
+    "fas": "Tenth Crusade"
+  },
+  {
+    "tag": "MLW",
+    "base": "Malawi",
+    "adj": "Malawian",
+    "dem": "Republic of Malawi",
+    "neu": "Malawi",
+    "com": "Communist Malawi",
+    "fas": "Empire of Malawi"
+  },
+  {
+    "tag": "MNT",
+    "base": "Montenegro",
+    "adj": "Montenegrin",
+    "dem": "Republic of Montenegro",
+    "neu": "Montenegro",
+    "com": "Socialist Republic of Montenegro",
+    "fas": "Independent Montenegro"
+  },
+  {
+    "tag": "MOL",
+    "base": "Moldova",
+    "adj": "Moldovan",
+    "dem": "Moldova",
+    "neu": "Moldavia",
+    "com": "Moldavian Socialist Republic",
+    "fas": "Bessarabia"
+  },
+  {
+    "tag": "MON",
+    "base": "Mongolia",
+    "adj": "Mongolian",
+    "dem": "Mongolian Parliamentary Republic",
+    "neu": "Great Mongolian State",
+    "com": "Mongolian People's Republic",
+    "fas": "New Mongol Empire"
+  },
+  {
+    "tag": "MOR",
+    "base": "Morocco",
+    "adj": "Moroccan",
+    "dem": "Morocco",
+    "neu": "Kingdom of Morocco",
+    "com": "Moroccan People's Republic",
+    "fas": "Maghreb Empire"
+  },
+  {
+    "tag": "MPU",
+    "base": "Manipur",
+    "adj": "Manipuri",
+    "dem": "Manipur",
+    "neu": "Manipur",
+    "com": "Manipur People's Republic",
+    "fas": "Kingdom of Manipur"
+  },
+  {
+    "tag": "MRT",
+    "base": "Mauritania",
+    "adj": "Mauritanian",
+    "dem": "Republic of Mauritania",
+    "neu": "Mauritania",
+    "com": "Revolutionary Mauritania",
+    "fas": "Caliphate of Mauritania"
+  },
+  {
+    "tag": "MYS",
+    "base": "Mysore",
+    "adj": "Mysorean",
+    "dem": "Mysuru",
+    "neu": "Mysore",
+    "com": "Egalitarian Mysore",
+    "fas": "State of Greater Karnataka"
+  },
+  {
+    "tag": "MZB",
+    "base": "Mozambique",
+    "adj": "Mozambican",
+    "dem": "Republic of Mozambique",
+    "neu": "Mozambique",
+    "com": "People's Republic of Mozambique",
+    "fas": "Great Mozambique"
+  },
+  {
+    "tag": "NAH",
+    "base": "Nahua Nation",
+    "adj": "Nahua",
+    "dem": "South Nahua Republic",
+    "neu": "Nahua Nation",
+    "com": "Nahua People's Republic",
+    "fas": "Nahua Empire"
+  },
+  {
+    "tag": "NAV",
+    "base": "Basque Country",
+    "adj": "Basque",
+    "dem": "Basque Country",
+    "neu": "Kingdom of Navarra",
+    "com": "Socialist Euzkal Herria",
+    "fas": "Baskonia"
+  },
+  {
+    "tag": "NEN",
+    "base": "",
+    "adj": "",
+    "dem": "Nenetsia",
+    "neu": "Nenets Migratory State",
+    "com": "Nenets People's Republic",
+    "fas": "Greater Nenets State"
+  },
+  {
+    "tag": "NEP",
+    "base": "Nepal",
+    "adj": "Nepali",
+    "dem": "Federal Republic of Nepal",
+    "neu": "Nepal",
+    "com": "Federal Democratic Republic of Nepal",
+    "fas": "Gorkha Empire"
+  },
+  {
+    "tag": "NGA",
+    "base": "Nigeria",
+    "adj": "Nigerian",
+    "dem": "Republic of Nigeria",
+    "neu": "Nigeria",
+    "com": "Socialist Nigerian Federation",
+    "fas": "Nigerian Military State"
+  },
+  {
+    "tag": "NGR",
+    "base": "Niger",
+    "adj": "Nigerien",
+    "dem": "Republic of the Niger",
+    "neu": "Niger",
+    "com": "Nigerien People's Republic",
+    "fas": "The Niger Ascendancy"
+  },
+  {
+    "tag": "NIC",
+    "base": "Nicaragua",
+    "adj": "Nicaraguan",
+    "dem": "Republic of Nicaragua",
+    "neu": "Nicaragua",
+    "com": "Sandinista Nicaragua",
+    "fas": "Nicaraguan Junta"
+  },
+  {
+    "tag": "NIR",
+    "base": "Northern Ireland",
+    "adj": "North Irish",
+    "dem": "Northern Ireland",
+    "neu": "Ulster",
+    "com": "Commune in the North of Ireland",
+    "fas": "Ulster Nation"
+  },
+  {
+    "tag": "NMB",
+    "base": "Namibia",
+    "adj": "Namibian",
+    "dem": "Namibia",
+    "neu": "State of South West Africa",
+    "com": "Democratic People's Republic of Namibia",
+    "fas": "Namib Empire"
+  },
+  {
+    "tag": "NOA",
+    "base": "",
+    "adj": "",
+    "dem": "North Ossetia-Alania",
+    "neu": "North Ossetian Patriarchy",
+    "com": "Alanian People's Republic",
+    "fas": "Kingdom of Alania"
+  },
+  {
+    "tag": "NOR",
+    "base": "Norway",
+    "adj": "Norwegian",
+    "dem": "Norway",
+    "neu": "",
+    "com": "Norwegian People's Republic",
+    "fas": "Norges Nasjonale Regjering"
+  },
+  {
+    "tag": "NWF",
+    "base": "North-Western Frontier Provinces",
+    "adj": "Pashtun",
+    "dem": "Khyber Pakhtunkhwa",
+    "neu": "North-Western Frontier Provinces",
+    "com": "The Free Republic of Pashtunistan",
+    "fas": "Pashtunistan Empire"
+  },
+  {
+    "tag": "NXM",
+    "base": "Ningxia Ma",
+    "adj": "Ningxia Ma",
+    "dem": "Ningxia Hui Republic",
+    "neu": "Ningxia Ma",
+    "com": "People's Republic of Ma",
+    "fas": "Ningxia Ma Free State"
+  },
+  {
+    "tag": "NZL",
+    "base": "New Zealand",
+    "adj": "New Zealand",
+    "dem": "New Zealand",
+    "neu": "Nova Zeelandia Republic",
+    "com": "People's Republic of Aotearoa",
+    "fas": "Kiwi Empire"
+  },
+  {
+    "tag": "OCC",
+    "base": "Occitania",
+    "adj": "Occitan",
+    "dem": "Occitania",
+    "neu": "Kingdom of Aquitaine",
+    "com": "Worker's Commune of Occitania",
+    "fas": "Imperialist Occitania"
+  },
+  {
+    "tag": "OKN",
+    "base": "Okinawa",
+    "adj": "Okinawan",
+    "dem": "Okinawa",
+    "neu": "Ryukyu Kingdom",
+    "com": "United Communes of Southern Japan",
+    "fas": "Resurgent Empire of Ryukyu"
+  },
+  {
+    "tag": "OMA",
+    "base": "Oman",
+    "adj": "Omani",
+    "dem": "Republic of Oman",
+    "neu": "Sultanate of Muscat and Oman",
+    "com": "People's Republic of Oman",
+    "fas": "Omani Empire"
+  },
+  {
+    "tag": "ORO",
+    "base": "",
+    "adj": "",
+    "dem": "Oromo Republic",
+    "neu": "Oromia",
+    "com": "Democratic Republic of Oromia",
+    "fas": "Greater Oromo Territories"
+  },
+  {
+    "tag": "OVO",
+    "base": "",
+    "adj": "",
+    "dem": "Ostyak-Vogul National Republic",
+    "neu": "Ob-Ugric State",
+    "com": "Ostyak-Vogul Soviet Republic",
+    "fas": "Khanate of Sibir"
+  },
+  {
+    "tag": "PAK",
+    "base": "Pakistan",
+    "adj": "Pakistani",
+    "dem": "Republic of Pakistan",
+    "neu": "Pakistan",
+    "com": "People's Republic of Pakistan",
+    "fas": "New Mughal Empire"
+  },
+  {
+    "tag": "PAL",
+    "base": "Palestine",
+    "adj": "Palestinian",
+    "dem": "Palestine",
+    "neu": "Free Mandate of Palestine",
+    "com": "People's Socialist Palestine",
+    "fas": "Jund Palestine"
+  },
+  {
+    "tag": "PAN",
+    "base": "Panama",
+    "adj": "Panamanian",
+    "dem": "Panama",
+    "neu": "Costas Hermanas",
+    "com": "United Communes of Panama",
+    "fas": "Patriotic Communal Panama"
+  },
+  {
+    "tag": "PAP",
+    "base": "Papal States",
+    "adj": "",
+    "dem": "Roman Republic",
+    "neu": "Papal States",
+    "com": "Roman People's Republic",
+    "fas": "Kingdom of God"
+  },
+  {
+    "tag": "PAR",
+    "base": "Paraguay",
+    "adj": "Paraguayan",
+    "dem": "Republic of Paraguay",
+    "neu": "Paraguay",
+    "com": "Paraguay",
+    "fas": "Provisional Republic of Paraguay"
+  },
+  {
+    "tag": "PER",
+    "base": "Iran",
+    "adj": "Iranian",
+    "dem": "Republic of Iran",
+    "neu": "Iran",
+    "com": "Iranian Communist Authority",
+    "fas": "New Persian Empire"
+  },
+  {
+    "tag": "PHI",
+    "base": "Philippines",
+    "adj": "Philippine",
+    "dem": "Commonwealth of the Philippines",
+    "neu": "Philippines",
+    "com": "Community of the Philippines",
+    "fas": "Philippine State"
+  },
+  {
+    "tag": "PLU",
+    "base": "Palau",
+    "adj": "Palauan",
+    "dem": "Republic of Palau",
+    "neu": "Palau",
+    "com": "Palauan Soldiers' Council",
+    "fas": "South Seas Empire"
+  },
+  {
+    "tag": "PNG",
+    "base": "Papua",
+    "adj": "Papuan",
+    "dem": "Papua New Guinea",
+    "neu": "Federation of Papuan Peoples",
+    "com": "United Papuan Communes",
+    "fas": "Papua"
+  },
+  {
+    "tag": "POK",
+    "base": "Pontianak",
+    "adj": "Dayak",
+    "dem": "Dayak Republic of West Borneo",
+    "neu": "Pontianak Kadriyah Sultanate",
+    "com": "Soviet Republic of West Kalimantan",
+    "fas": "Great Mempawah Kingdom"
+  },
+  {
+    "tag": "POL",
+    "base": "Poland",
+    "adj": "Polish",
+    "dem": "Polish Republic",
+    "neu": "Poland",
+    "com": "Polish People's Republic",
+    "fas": "Falangist Poland"
+  },
+  {
+    "tag": "POR",
+    "base": "Portugal",
+    "adj": "Portuguese",
+    "dem": "Portuguese Republic",
+    "neu": "Portugal",
+    "com": "Maximalist Portugal",
+    "fas": "Greater Portugal"
+  },
+  {
+    "tag": "PRC",
+    "base": "China",
+    "adj": "Chinese",
+    "dem": "Chinese Republic",
+    "neu": "China",
+    "com": "Chinese Soviet Republic",
+    "fas": "Chinese Empire"
+  },
+  {
+    "tag": "PRE",
+    "base": "Prussia",
+    "adj": "Prussian",
+    "dem": "Free State of Prussia",
+    "neu": "Kingdom of Prussia",
+    "com": "Democratic Republic of Prussia",
+    "fas": "Prussian Reich"
+  },
+  {
+    "tag": "PRU",
+    "base": "Peru",
+    "adj": "Peruvian",
+    "dem": "Republic of Peru",
+    "neu": "Peruvian Independent State",
+    "com": "Revolutionary Peru",
+    "fas": "Peru"
+  },
+  {
+    "tag": "PSH",
+    "base": "Pashtunistan",
+    "adj": "Pashtun",
+    "dem": "Republic of Pashtunistan",
+    "neu": "Emirate of Pashtunistan",
+    "com": "Workers Republic of Pashtunistan",
+    "fas": "Islamic State of Pashtunistan"
+  },
+  {
+    "tag": "PSR",
+    "base": "",
+    "adj": "",
+    "dem": "Second Philippine Republic",
+    "neu": "Second Philippine Republic",
+    "com": "Second Philippine People's Republic",
+    "fas": "Second Philippine Republic"
+  },
+  {
+    "tag": "PUE",
+    "base": "Puerto Rico",
+    "adj": "Puerto Rican",
+    "dem": "Puerto Rico",
+    "neu": "Porto Rico",
+    "com": "Taino Republic",
+    "fas": "Viceroyalty of Boriquén"
+  },
+  {
+    "tag": "QAT",
+    "base": "Qatar",
+    "adj": "Qatari",
+    "dem": "Republic of Qatar",
+    "neu": "Qatar",
+    "com": "Qatari Commune",
+    "fas": "Unitary State of Qatar"
+  },
+  {
+    "tag": "QEM",
+    "base": "",
+    "adj": "",
+    "dem": "Qwara Republic",
+    "neu": "Qemant State",
+    "com": "Begemder Democratic Republic of People's Unity",
+    "fas": "Futurist Union of Qemant and Qwaran People "
+  },
+  {
+    "tag": "QUE",
+    "base": "Québec",
+    "adj": "Québécois",
+    "dem": "Québec",
+    "neu": "Patriote Québec",
+    "com": "Québec People's Republic",
+    "fas": "Canadien-Métis First Nation State"
+  },
+  {
+    "tag": "RAA",
+    "base": "Reichskommissariat Australasien",
+    "adj": "Australasian",
+    "dem": "Bundesstaat Australasien",
+    "neu": "Grand Duchy of Australasia",
+    "com": "Volkskommissariat Australasien",
+    "fas": "Reichskommissariat Australasien"
+  },
+  {
+    "tag": "RAJ",
+    "base": "India",
+    "adj": "Indian",
+    "dem": "India",
+    "neu": "India",
+    "com": "Indian People's Republic",
+    "fas": "Free India"
+  },
+  {
+    "tag": "RAN",
+    "base": "Reichskommissariat Anden",
+    "adj": "Andean",
+    "dem": "Bundesstaat Anden",
+    "neu": "Grand Duchy of the Andes",
+    "com": "Volkskommissariat Anden",
+    "fas": "Reichskommissariat Anden"
+  },
+  {
+    "tag": "RAP",
+    "base": "Rapa Nui",
+    "adj": "Rapa Nui",
+    "dem": "Rapa Nui Republic",
+    "neu": "Kingdom of Rapa Nui",
+    "com": "Sailor's Commune of Rapa Nui",
+    "fas": "East-Polynesian Empire"
+  },
+  {
+    "tag": "RAR",
+    "base": "Reichskommissariat Arabien",
+    "adj": "Arabian",
+    "dem": "Bundesstaat Arabien",
+    "neu": "Grand Duchy of Arabia",
+    "com": "Volkskommissariat Arabien",
+    "fas": "Reichskommissariat Arabien"
+  },
+  {
+    "tag": "RAS",
+    "base": "Madras States",
+    "adj": "Madrasi",
+    "dem": "Tamil Nadu",
+    "neu": "Madras Princely States",
+    "com": "The Democratic Republic of Madras",
+    "fas": "Vijayanagara Empire"
+  },
+  {
+    "tag": "RCG",
+    "base": "Congo",
+    "adj": "Congolese",
+    "dem": "Republic of the Congo",
+    "neu": "Congo-Brazzaville",
+    "com": "Democratic Republic of the West Congo",
+    "fas": "The Congo"
+  },
+  {
+    "tag": "RCO",
+    "base": "Reichskommissariat Kolumbus",
+    "adj": "Columbian",
+    "dem": "Bundesstaat Kolumbus",
+    "neu": "Grand Duchy of the Grand Caribbean",
+    "com": "Volkskommissariat Kolumbus",
+    "fas": "Reichskommissariat Kolumbus"
+  },
+  {
+    "tag": "RDS",
+    "base": "Regno del Sud",
+    "adj": "Italian",
+    "dem": "",
+    "neu": "",
+    "com": "",
+    "fas": ""
+  },
+  {
+    "tag": "RGB",
+    "base": "Reichskommissariat Großbritannien",
+    "adj": "British",
+    "dem": "Bundesstaat Großbritannien",
+    "neu": "Grand Duchy of Great Britain",
+    "com": "Volkskommissariat Großbritannien",
+    "fas": "Reichskommissariat Großbritannien"
+  },
+  {
+    "tag": "RHD",
+    "base": "Reichskommissariat Hindustan",
+    "adj": "Hindustani",
+    "dem": "Bundesstaat Hindustan",
+    "neu": "Grand Duchy of Hindustan",
+    "com": "Volkskommissariat Hindustan",
+    "fas": "Reichskommissariat Hindustan"
+  },
+  {
+    "tag": "RHI",
+    "base": "Rhineland",
+    "adj": "Rhenish",
+    "dem": "Rhenish Republic",
+    "neu": "Rheinland-Pfalz",
+    "com": "People's Independent Communes of the Rhine",
+    "fas": "Rhenish Reich"
+  },
+  {
+    "tag": "RIF",
+    "base": "",
+    "adj": "",
+    "dem": "Republic of the Rif",
+    "neu": "Republic of the Rif",
+    "com": "People's Republic of the Rif",
+    "fas": "Empire of the Rif"
+  },
+  {
+    "tag": "RIG",
+    "base": "Republic of the Rio Grande",
+    "adj": "Riograndese",
+    "dem": "Republic of the Rio Grande",
+    "neu": "Cristero Republic of the Rio Grande",
+    "com": "People's Commonwealth of the Rio Grande",
+    "fas": "Synarchist Republic of the Rio Grande"
+  },
+  {
+    "tag": "RJP",
+    "base": "Rajputana",
+    "adj": "Rajput",
+    "dem": "Rajasthan",
+    "neu": "Rajputana",
+    "com": "Red Desert Free State",
+    "fas": "Kingdom of the Thar Dunes"
+  },
+  {
+    "tag": "RKA",
+    "base": "Reichskommissariat Mittelafrika",
+    "adj": "Central African",
+    "dem": "Bundesstaat Mittelafrika",
+    "neu": "Grand Duchy of Central Africa",
+    "com": "Volkskommissariat Mittelafrika",
+    "fas": "Reichskommissariat Mittelafrika"
+  },
+  {
+    "tag": "RKB",
+    "base": "Reichskommissariat Belgien-Nordfrankreich",
+    "adj": "Belgian",
+    "dem": "Bundesstaat Belgien-Nordfrankreich",
+    "neu": "Grand Duchy of Belgium and Northern France",
+    "com": "Volkskommissariat Belgien-Nordfrankreich",
+    "fas": "Reichskommissariat Belgien-Nordfrankreich"
+  },
+  {
+    "tag": "RKC",
+    "base": "Reichskommissariat Balkan",
+    "adj": "Balkan",
+    "dem": "Bundesstaat Balkan",
+    "neu": "Grand Duchy of the Balkans",
+    "com": "Volkskommissariat Balkan",
+    "fas": "Reichskommissariat Balkan"
+  },
+  {
+    "tag": "RKG",
+    "base": "Reichskommissariat Norwegen",
+    "adj": "Norwegian",
+    "dem": "Bundesstaat Norwegen",
+    "neu": "Grand Duchy of Norway",
+    "com": "Volkskommissariat Norwegen",
+    "fas": "Reichskommissariat Norwegen"
+  },
+  {
+    "tag": "RKH",
+    "base": "Protektorat Böhmen und Mähren",
+    "adj": "Bohemian",
+    "dem": "Bundesstaat Böhmen-Mähren",
+    "neu": "Grand Duchy of Bohemia and Moravia",
+    "com": "Volkskommissariat Böhmen-Mähren",
+    "fas": "Protektorat Böhmen-Mähren"
+  },
+  {
+    "tag": "RKI",
+    "base": "Reichskommissariat Iberien",
+    "adj": "Iberian",
+    "dem": "Bundesstaat Iberien",
+    "neu": "Grand Duchy of Iberia",
+    "com": "Volkskommissariat Iberien",
+    "fas": "Reichskommissariat Iberien"
+  },
+  {
+    "tag": "RKK",
+    "base": "Reichskommissariat Kaukasien",
+    "adj": "Caucasian",
+    "dem": "Bundesstaat Kaukasien",
+    "neu": "Grand Duchy of the Caucasus",
+    "com": "Volkskommissariat Kaukasien",
+    "fas": "Reichskommissariat Kaukasien"
+  },
+  {
+    "tag": "RKL",
+    "base": "Reichskommissariat Ural",
+    "adj": "Uralic",
+    "dem": "Bundesstaat Ural",
+    "neu": "Grand Duchy of the Urals",
+    "com": "Volkskommissariat Ural",
+    "fas": "Reichskommissariat Ural"
+  },
+  {
+    "tag": "RKM",
+    "base": "Reichskommissariat Moskowien",
+    "adj": "Muscovite",
+    "dem": "Bundesstaat Moskowien",
+    "neu": "Grand Duchy of Muscovy",
+    "com": "Volkskommissariat Moskowien",
+    "fas": "Reichskommissariat Moskowien"
+  },
+  {
+    "tag": "RKN",
+    "base": "Reichskommissariat Niederlande",
+    "adj": "Dutch",
+    "dem": "Bundesstaat Niederlande",
+    "neu": "Grand Duchy of the Netherlands",
+    "com": "Volkskommissariat Niederlande",
+    "fas": "Reichskommissariat Niederlande"
+  },
+  {
+    "tag": "RKO",
+    "base": "Reichskommissariat Ostland",
+    "adj": "Baltic",
+    "dem": "Bundesstaat Ostland",
+    "neu": "Grand Duchy of Ostland",
+    "com": "Volkskommissariat Ostland",
+    "fas": "Reichskommissariat Ostland"
+  },
+  {
+    "tag": "RKT",
+    "base": "Reichskommissariat Turkestan",
+    "adj": "Turkic",
+    "dem": "Bundesstaat Turkestan",
+    "neu": "Grand Duchy of Turkestan",
+    "com": "Volkskommissariat Turkestan",
+    "fas": "Reichskommissariat Turkestan"
+  },
+  {
+    "tag": "RKU",
+    "base": "Reichskommissariat Ukraine",
+    "adj": "Ukrainian",
+    "dem": "Bundesstaat Ukraine",
+    "neu": "Grand Duchy of Ukraine",
+    "com": "Volkskommissariat Ukraine",
+    "fas": "Reichskommissariat Ukraine"
+  },
+  {
+    "tag": "RKV",
+    "base": "Reichskommissariat Klein-Venedig",
+    "adj": "Lesser Venetian",
+    "dem": "Bundesstaat Klein-Venedig",
+    "neu": "Grand Duchy of Klein-Venedig",
+    "com": "Volkskommissariat Klein-Venedig",
+    "fas": "Reichskommissariat Klein-Venedig"
+  },
+  {
+    "tag": "RNA",
+    "base": "Reichskommissariat Nordafrika",
+    "adj": "North African",
+    "dem": "Bundesstaat Nordafrika",
+    "neu": "Grand Duchy of North Africa",
+    "com": "Volkskommissariat Nordafrika",
+    "fas": "Reichskommissariat Nordafrika"
+  },
+  {
+    "tag": "RNG",
+    "base": "China",
+    "adj": "Chinese",
+    "dem": "Provisional Government of the Republic of China",
+    "neu": "Reformed Government of the Republic of China",
+    "com": "Enlightened Chinese People's Republic",
+    "fas": "Reorganized National Government of the Republic of China"
+  },
+  {
+    "tag": "ROA",
+    "base": "Reichskommissariat Ostasien",
+    "adj": "East Asian",
+    "dem": "Bundesstaat Ostasien",
+    "neu": "Grand Duchy of East Asia",
+    "com": "Volkskommissariat Ostasien",
+    "fas": "Reichskommissariat Ostasien"
+  },
+  {
+    "tag": "ROM",
+    "base": "Romania",
+    "adj": "Romanian",
+    "dem": "Romania",
+    "neu": "Kingdom of Romania",
+    "com": "Socialist Republic of Romania",
+    "fas": "Legionary Romania"
+  },
+  {
+    "tag": "RSI",
+    "base": "Repubblica Sociale Italiana",
+    "adj": "Italian",
+    "dem": "",
+    "neu": "",
+    "com": "",
+    "fas": ""
+  },
+  {
+    "tag": "RUS",
+    "base": "Reichskommissariat Nordamerika",
+    "adj": "North American",
+    "dem": "Bundesstaat Nordamerika",
+    "neu": "Grand Duchy of North America",
+    "com": "Volkskommissariat Nordamerika",
+    "fas": "Reichskommissariat Nordamerika"
+  },
+  {
+    "tag": "RUT",
+    "base": "Carpatho-Ukraine",
+    "adj": "Carpatho-Ukrainian",
+    "dem": "",
+    "neu": "",
+    "com": "",
+    "fas": ""
+  },
+  {
+    "tag": "RWA",
+    "base": "Rwanda",
+    "adj": "Rwandan",
+    "dem": "Republic of Rwanda",
+    "neu": "Rwanda",
+    "com": "Rwanda Commune",
+    "fas": "Rwanda Empire"
+  },
+  {
+    "tag": "SAB",
+    "base": "Sabah",
+    "adj": "Sabahan",
+    "dem": "Republic of Sabah",
+    "neu": "State of Sabah",
+    "com": "Northeast Kalimantan Commune",
+    "fas": "Grand State of North Borneo"
+  },
+  {
+    "tag": "SAF",
+    "base": "South Africa",
+    "adj": "South African",
+    "dem": "South Africa",
+    "neu": "Unitary South Africa",
+    "com": "Cape Commune",
+    "fas": "Nationalist South Africa"
+  },
+  {
+    "tag": "SAM",
+    "base": "Samoa",
+    "adj": "Samoan",
+    "dem": "Independent State of Samoa",
+    "neu": "",
+    "com": "Samoan Peoples Republic",
+    "fas": "Manaist State of Samoa"
+  },
+  {
+    "tag": "SAR",
+    "base": "Sarawak",
+    "adj": "Sarawak",
+    "dem": "Sarawak Republic",
+    "neu": "Raj of Sarawak",
+    "com": "North Kalimantan Commune",
+    "fas": "North Borneo Empire"
+  },
+  {
+    "tag": "SAU",
+    "base": "Central Arabia",
+    "adj": "Arabian",
+    "dem": "Arabian Republic",
+    "neu": "Saudi Arabia",
+    "com": "Republic of the Arabian Assembly",
+    "fas": "Arabic Empire"
+  },
+  {
+    "tag": "SAX",
+    "base": "Saxony",
+    "adj": "Saxon",
+    "dem": "Free State of Saxony",
+    "neu": "Kingdom of Saxony",
+    "com": "Democratic Republic of Saxony",
+    "fas": "Saxon Empire"
+  },
+  {
+    "tag": "SCO",
+    "base": "Scotland",
+    "adj": "Scottish",
+    "dem": "Scotland",
+    "neu": "Kingdom of Scotland",
+    "com": "Commonwealth of Alba",
+    "fas": "Caledonia"
+  },
+  {
+    "tag": "SDL",
+    "base": "Sudetenland",
+    "adj": "Sudeten",
+    "dem": "Free Sudetenland",
+    "neu": "",
+    "com": "Sudetenland Free Workers",
+    "fas": "Sudetenland German Free Corps"
+  },
+  {
+    "tag": "SEN",
+    "base": "Senegal",
+    "adj": "Senegalese",
+    "dem": "Senegal",
+    "neu": "State of Jolof",
+    "com": "Democratic People's Republic of Senegal",
+    "fas": "Senegal Dictatorial State"
+  },
+  {
+    "tag": "SER",
+    "base": "Serbia",
+    "adj": "Serbian",
+    "dem": "Serbia",
+    "neu": "Serbia",
+    "com": "Socialist Republic of Serbia",
+    "fas": "Serbian Empire"
+  },
+  {
+    "tag": "SHL",
+    "base": "Schleswig",
+    "adj": "Schleswig",
+    "dem": "Schleswig-Holstein",
+    "neu": "Duchy of Schleswig-Holstein",
+    "com": "Free People's Republic of Schleswig-Holstein",
+    "fas": "Schleswig-Holsteinish Reich"
+  },
+  {
+    "tag": "SHX",
+    "base": "Shanxi",
+    "adj": "Shanxi",
+    "dem": "Shanxi Republic",
+    "neu": "Shanxi",
+    "com": "Shanxi Soviet Republic",
+    "fas": "Shanxi Yan State"
+  },
+  {
+    "tag": "SIA",
+    "base": "Siam",
+    "adj": "Siamese",
+    "dem": "Republic of Thailand",
+    "neu": "Siam",
+    "com": "Thai People's Republic",
+    "fas": "Siamese Empire"
+  },
+  {
+    "tag": "SIC",
+    "base": "Sichuan",
+    "adj": "Sichuanese",
+    "dem": "Sichuan Republic",
+    "neu": "Sichuan Clique",
+    "com": "Sichuan Soviet Republic",
+    "fas": "Sichuan Free State"
+  },
+  {
+    "tag": "SID",
+    "base": "",
+    "adj": "",
+    "dem": "Sidamo Republic",
+    "neu": "Kingdom of Sidamo",
+    "com": "Southern Nations, Nationalities, and Peoples' Socialist Union",
+    "fas": "Sidama Realm"
+  },
+  {
+    "tag": "SIE",
+    "base": "Sierra Leone",
+    "adj": "Sierra Leonean",
+    "dem": "Sierra Leone",
+    "neu": "Kingdom of Sierra Leone",
+    "com": "Democratic People's Republic of Sierra Leone",
+    "fas": "Sierra Leone Junta"
+  },
+  {
+    "tag": "SIK",
+    "base": "Sinkiang",
+    "adj": "Sinkiangi",
+    "dem": "Sinkiang Independent Republic",
+    "neu": "State of Sinkiang",
+    "com": "Sinkiang",
+    "fas": "Neo-Chagatai Khanate"
+  },
+  {
+    "tag": "SIL",
+    "base": "Silesia",
+    "adj": "Silesian",
+    "dem": "",
+    "neu": "Duchy of Silesia",
+    "com": "Silesian People's Republic",
+    "fas": "Silesian State"
+  },
+  {
+    "tag": "SIN",
+    "base": "Sindh",
+    "adj": "Sindhi",
+    "dem": "Free Democratic Republic of Sindh",
+    "neu": "Sindh",
+    "com": "Karachi Commune",
+    "fas": "Imperial State of Karachi"
+  },
+  {
+    "tag": "SKK",
+    "base": "Sikkim",
+    "adj": "Sikkimese",
+    "dem": "Sikkim",
+    "neu": "Kingdom of Sikkim",
+    "com": "Free Sikkim",
+    "fas": "Kirati Empire"
+  },
+  {
+    "tag": "SLO",
+    "base": "Slovakia",
+    "adj": "Slovakian",
+    "dem": "Slovak Republic",
+    "neu": "Free State of Slovakia",
+    "com": "Slovak Socialist Republic",
+    "fas": "Slovakia"
+  },
+  {
+    "tag": "SLV",
+    "base": "Slovenia",
+    "adj": "Slovenian",
+    "dem": "Republic of Slovenia",
+    "neu": "Slovenia",
+    "com": "Democratic People's Republic of Slovenia",
+    "fas": "Falangist Slovenia"
+  },
+  {
+    "tag": "SMI",
+    "base": "Sápmi",
+    "adj": "Sámi",
+    "dem": "Republic of Sápmi",
+    "neu": "Sápmi",
+    "com": "People's Republic of Sápmi",
+    "fas": "Greater Sámi Realm"
+  },
+  {
+    "tag": "SND",
+    "base": "Shandong",
+    "adj": "Shandong",
+    "dem": "Shandong Republic",
+    "neu": "Shandong Clique",
+    "com": "Shandong Soviet Republic",
+    "fas": "Shandong Free State"
+  },
+  {
+    "tag": "SNG",
+    "base": "Singapore",
+    "adj": "Singaporean",
+    "dem": "Singapore",
+    "neu": "Singaporean State",
+    "com": "People's Republic of Singapore",
+    "fas": "Sultanate of Singapore"
+  },
+  {
+    "tag": "SOK",
+    "base": "Sokoto",
+    "adj": "Sokoto",
+    "dem": "Hausa-Fulani Republic of Sokoto",
+    "neu": "Sokoto Caliphate",
+    "com": "Islamic Socialist Republic of Sokoto",
+    "fas": "Sublime Sultanate of Sokoto"
+  },
+  {
+    "tag": "SOL",
+    "base": "Solomon Islands",
+    "adj": "Solomon",
+    "dem": "Solomon Islands",
+    "neu": "",
+    "com": "Solomon's Communes",
+    "fas": "Solomon's Empire"
+  },
+  {
+    "tag": "SOM",
+    "base": "Somalia",
+    "adj": "Somalian",
+    "dem": "Somalia",
+    "neu": "Somali Sultanate",
+    "com": "Somali Democratic Republic",
+    "fas": "Ajuraan Empire"
+  },
+  {
+    "tag": "SOV",
+    "base": "Russia",
+    "adj": "Russian",
+    "dem": "Russian Federation",
+    "neu": "Russia",
+    "com": "Soviet Union",
+    "fas": "Russian Empire"
+  },
+  {
+    "tag": "SPA",
+    "base": "Spain",
+    "adj": "Spanish",
+    "dem": "Spain",
+    "neu": "Nationalist Spain",
+    "com": "Republican Spain",
+    "fas": "Nationalist Spain"
+  },
+  {
+    "tag": "SPB",
+    "base": "Spain",
+    "adj": "Spanish",
+    "dem": "Spain",
+    "neu": "Carlist Spain",
+    "com": "Republican Spain",
+    "fas": "Nationalist Spain"
+  },
+  {
+    "tag": "SPC",
+    "base": "Spain",
+    "adj": "Spanish",
+    "dem": "Spain",
+    "neu": "Regional Defense Council of Aragon",
+    "com": "Republican Spain",
+    "fas": "Nationalist Spain"
+  },
+  {
+    "tag": "SPD",
+    "base": "Spain",
+    "adj": "Spanish",
+    "dem": "Spain",
+    "neu": "Regional Defense Council of Aragon",
+    "com": "Republican Spain",
+    "fas": "Nationalist Spain"
+  },
+  {
+    "tag": "SPM",
+    "base": "Sardinia-Piedmont",
+    "adj": "",
+    "dem": "United States of Savoy and Sardinia",
+    "neu": "Sardinia-Piedmont",
+    "com": "Cisalpine People's Federation",
+    "fas": "Grand Duchy of Savoy"
+  },
+  {
+    "tag": "SPR",
+    "base": "Spain",
+    "adj": "Spanish",
+    "dem": "Spain",
+    "neu": "Spanish Empire",
+    "com": "Republican Spain",
+    "fas": "Nationalist Spain"
+  },
+  {
+    "tag": "SRL",
+    "base": "Sri Lanka",
+    "adj": "Sri Lankan",
+    "dem": "Democratic Socialist Republic of Sri Lanka",
+    "neu": "Sri Lanka",
+    "com": "Tamil-Sinhalese Socialist Federation",
+    "fas": "Nationalist Ceylon"
+  },
+  {
+    "tag": "SSI",
+    "base": "Siak",
+    "adj": "Siak Malay",
+    "dem": "Republic of Siak",
+    "neu": "Sultanate of Siak Sri Indrapura",
+    "com": "Soviet Republic of Siak Sri Indrapura",
+    "fas": "Great Kingdom of Siak"
+  },
+  {
+    "tag": "SUD",
+    "base": "Sudan",
+    "adj": "Sudanese",
+    "dem": "Republic of the Sudan",
+    "neu": "Sudan",
+    "com": "Commune of the Sudan",
+    "fas": "Nubia"
+  },
+  {
+    "tag": "SUR",
+    "base": "Suriname",
+    "adj": "Surinamese",
+    "dem": "Republic of Suriname",
+    "neu": "Suriname",
+    "com": "Surinen Democratic Republic",
+    "fas": "Surinam Unitary State"
+  },
+  {
+    "tag": "SWE",
+    "base": "Sweden",
+    "adj": "Swedish",
+    "dem": "Sweden",
+    "neu": "Kingdom of Sweden",
+    "com": "Folkrepubliken Sverige",
+    "fas": "Svea Rike"
+  },
+  {
+    "tag": "SWI",
+    "base": "Switzerland",
+    "adj": "Swiss",
+    "dem": "Switzerland",
+    "neu": "Helvetic Junta",
+    "com": "United Cantons",
+    "fas": "Imperial Helvetia"
+  },
+  {
+    "tag": "SYR",
+    "base": "Syria",
+    "adj": "Syrian",
+    "dem": "Syria",
+    "neu": "Kingdom of Syria",
+    "com": "Socialist State of Syria",
+    "fas": "Syrian National State"
+  },
+  {
+    "tag": "TAH",
+    "base": "Tahiti",
+    "adj": "Tahitian",
+    "dem": "French Polynesia",
+    "neu": "",
+    "com": "Tahitian Commune",
+    "fas": "Tahitian National Assembly"
+  },
+  {
+    "tag": "TAJ",
+    "base": "Tajikistan",
+    "adj": "Tajik",
+    "dem": "Republic of Tajikistan",
+    "neu": "Tajikistan",
+    "com": "Tajik Soviet Republic",
+    "fas": "Bekstvo of Matcha"
+  },
+  {
+    "tag": "TAN",
+    "base": "Tannu Tuva",
+    "adj": "Tuvan",
+    "dem": "Tuva Independent Republic",
+    "neu": "Tannu Uriankhai",
+    "com": "Tannu Tuva",
+    "fas": "Tuvan Nationalist Republic"
+  },
+  {
+    "tag": "TAT",
+    "base": "",
+    "adj": "",
+    "dem": "Tatarstan",
+    "neu": "Tatar Military Union",
+    "com": "Tatar Worker's Republic",
+    "fas": "New Kazani Khanate"
+  },
+  {
+    "tag": "TAY",
+    "base": "",
+    "adj": "",
+    "dem": "Taymyria",
+    "neu": "Dolgano-Nenets Migratory State",
+    "com": "Taymyr People's Republic",
+    "fas": "North Siberian Empire"
+  },
+  {
+    "tag": "THU",
+    "base": "Thuringia",
+    "adj": "Thuringian",
+    "dem": "Free State of Thuringia",
+    "neu": "Duchy of Thuringia",
+    "com": "People's State of Thuringia",
+    "fas": "Great Thuringii"
+  },
+  {
+    "tag": "TIB",
+    "base": "Tibet",
+    "adj": "Tibetan",
+    "dem": "Republic of Tibet",
+    "neu": "Tibet",
+    "com": "Monastic Commune of Tibet",
+    "fas": "Tibetan Empire"
+  },
+  {
+    "tag": "TIG",
+    "base": "",
+    "adj": "",
+    "dem": "Tigrinyan Republic",
+    "neu": "Tigray",
+    "com": "Tigrinyan People's Revolutionary Popular State",
+    "fas": "Aksumite Kingdom"
+  },
+  {
+    "tag": "TML",
+    "base": "East Timor",
+    "adj": "Timorese",
+    "dem": "Democratic Republic of Timor-Leste",
+    "neu": "Timorese National Union",
+    "com": "Revolutionary Democratic Republic of Timor-Leste",
+    "fas": "Independent State of Timor"
+  },
+  {
+    "tag": "TMS",
+    "base": "Turkmenistan",
+    "adj": "Turkmen",
+    "dem": "Republic of Turkmenistan",
+    "neu": "Turkmenistan",
+    "com": "Turkestan Autonomous Soviet Socialist Republic",
+    "fas": "Neo-Seljuk Empire"
+  },
+  {
+    "tag": "TNE",
+    "base": "Ternate",
+    "adj": "Ternate",
+    "dem": "United States of Maluku",
+    "neu": "Sultanate of Ternate",
+    "com": "People's Republic of Maluku",
+    "fas": "Kingdom of Gapi"
+  },
+  {
+    "tag": "TOG",
+    "base": "Togo",
+    "adj": "Togolese",
+    "dem": "Togolese Republic",
+    "neu": "Togo",
+    "com": "Togolese Commune",
+    "fas": "Nationalist Togo"
+  },
+  {
+    "tag": "TOS",
+    "base": "Grand Duchy of Tuscany",
+    "adj": "",
+    "dem": "Confederated States of Tuscany",
+    "neu": "Grand Duchy of Tuscany",
+    "com": "People's Republic of Tuscany",
+    "fas": "Etrurian Social Republic"
+  },
+  {
+    "tag": "TRA",
+    "base": "Transylvania",
+    "adj": "Transylvanian",
+    "dem": "",
+    "neu": "Principality of Transylvania",
+    "com": "Carpathian Socialist Union",
+    "fas": "Legionary Transylvania"
+  },
+  {
+    "tag": "TRI",
+    "base": "Trinidad and Tobago",
+    "adj": "Trinidadian and Tobagonian",
+    "dem": "Republic of Trinidad and Tobago",
+    "neu": "Trinidad and Tobago",
+    "com": "Amerindian People's Republic",
+    "fas": "Empire of Cairi"
+  },
+  {
+    "tag": "TTS",
+    "base": "Kingdom of the Two Sicilies",
+    "adj": "",
+    "dem": "Neapolitanian-Sicilian Republic",
+    "neu": "Kingdom of the Two Sicilies",
+    "com": "People's Republic of Mezzogiorno",
+    "fas": "Parthenopean Republic"
+  },
+  {
+    "tag": "TUN",
+    "base": "Tunisia",
+    "adj": "Tunisian",
+    "dem": "Republic of Tunisia",
+    "neu": "Tunisia",
+    "com": "Communist State of Tunisia",
+    "fas": "Barbary Tunis"
+  },
+  {
+    "tag": "TUR",
+    "base": "Turkey",
+    "adj": "Turkish",
+    "dem": "Republic of Turkey",
+    "neu": "Turkey",
+    "com": "Turkish Socialist Republic",
+    "fas": "Turkish Empire"
+  },
+  {
+    "tag": "TZN",
+    "base": "Tanzania",
+    "adj": "Tanzanian",
+    "dem": "Republic of Tanzania",
+    "neu": "Tanzania",
+    "com": "Tanzanian Socialist Union",
+    "fas": "Nationalist Tanzanian State"
+  },
+  {
+    "tag": "UAE",
+    "base": "Arab Emirates",
+    "adj": "Emirati",
+    "dem": "Trucial States",
+    "neu": "United Arab Emirates",
+    "com": "People's Arab Union",
+    "fas": "Arab Emirate"
+  },
+  {
+    "tag": "UBD",
+    "base": "United Baltic Duchy",
+    "adj": "Baltic German",
+    "dem": "Baltic German Federal Republic",
+    "neu": "United Baltic Duchy",
+    "com": "Baltendeutsche Demokratische Republik",
+    "fas": "Grand Duchy of Livonia"
+  },
+  {
+    "tag": "UDM",
+    "base": "",
+    "adj": "",
+    "dem": "Udmurtia",
+    "neu": "South Permic State",
+    "com": "Udmurt Commune",
+    "fas": "Spiritual State of Udmurt Vos"
+  },
+  {
+    "tag": "UGA",
+    "base": "Uganda",
+    "adj": "Ugandan",
+    "dem": "Uganda",
+    "neu": "Kingdom of Buganda",
+    "com": "Ugandan People's Republic",
+    "fas": "Nationalist Uganda"
+  },
+  {
+    "tag": "UKR",
+    "base": "Ukraine",
+    "adj": "Ukrainian",
+    "dem": "Republic of Ukraine",
+    "neu": "Ukrainian Hetmanate",
+    "com": "Ukrainian Socialist Republic",
+    "fas": "Ukrainian Nationalist State"
+  },
+  {
+    "tag": "URG",
+    "base": "Uruguay",
+    "adj": "Uruguayan",
+    "dem": "Oriental Republic of Uruguay",
+    "neu": "Uruguay",
+    "com": "Socialist Republic of Uruguay",
+    "fas": "New Constitutional Uruguay"
+  },
+  {
+    "tag": "USA",
+    "base": "America",
+    "adj": "American",
+    "dem": "United States",
+    "neu": "America",
+    "com": "Communist States of America",
+    "fas": "Free American Empire"
+  },
+  {
+    "tag": "USB",
+    "base": "Unaligned States of America",
+    "adj": "American",
+    "dem": "Unaligned States of America",
+    "neu": "Unaligned States of America",
+    "com": "Unaligned States of America",
+    "fas": "Unaligned States of America"
+  },
+  {
+    "tag": "UZB",
+    "base": "Uzbekistan",
+    "adj": "Uzbek",
+    "dem": "Republic of Uzbekistan",
+    "neu": "Uzbekistan",
+    "com": "Uzbek Soviet Socialist Republic",
+    "fas": "Uzbek Khanate"
+  },
+  {
+    "tag": "VAN",
+    "base": "Vanuatu",
+    "adj": "Vanuatuan",
+    "dem": "Republic of Vanuatu",
+    "neu": "Sublime Republic of Vemerana",
+    "com": "People's Provisional Government of Vanuatu",
+    "fas": "Ni-Vanuatu Empire"
+  },
+  {
+    "tag": "VEN",
+    "base": "Venezuela",
+    "adj": "Venezuelan",
+    "dem": "Federal Republic of Venezuela",
+    "neu": "Bolivarian Venezuela",
+    "com": "Leftist International Venezuela",
+    "fas": "Venezuela"
+  },
+  {
+    "tag": "VGE",
+    "base": "",
+    "adj": "",
+    "dem": "Republic of Volga Germany",
+    "neu": "Volga German State",
+    "com": "Volga German Workers Union",
+    "fas": "Volga German Reich"
+  },
+  {
+    "tag": "VIN",
+    "base": "Vietnam",
+    "adj": "Vietnamese",
+    "dem": "Republic of Vietnam",
+    "neu": "Empire of Dai Nam",
+    "com": "Democratic Republic of Vietnam",
+    "fas": "Empire of Vietnam"
+  },
+  {
+    "tag": "VLA",
+    "base": "",
+    "adj": "",
+    "dem": "Vladivostok Independent Republic",
+    "neu": "Vladivostok Interventionalist State",
+    "com": "Vladivostok Syndicalist Collective",
+    "fas": "Far Eastern Russo-Japanese State"
+  },
+  {
+    "tag": "VOL",
+    "base": "Upper Volta",
+    "adj": "Upper Voltan",
+    "dem": "Burkina Faso",
+    "neu": "Upper Volta",
+    "com": "Upper Volta Socialist Republic",
+    "fas": "Authority of Upper Volta"
+  },
+  {
+    "tag": "WES",
+    "base": "Western Sahara",
+    "adj": "Sahrawian",
+    "dem": "Sahrawi Republic",
+    "neu": "Sahrawi Arab Democratic Republic",
+    "com": "Commune of the Western Sahara",
+    "fas": "Empire of the Desert"
+  },
+  {
+    "tag": "WGR",
+    "base": "Germany",
+    "adj": "West German",
+    "dem": "Federal Republic of Germany",
+    "neu": "Bayern-Hannover",
+    "com": "Socialist Republic of Germany",
+    "fas": "Fourth Reich"
+  },
+  {
+    "tag": "WIS",
+    "base": "Gujarat",
+    "adj": "Gujarati",
+    "dem": "Gujarat",
+    "neu": "Western Indian States",
+    "com": "Western Indian Proletariat Commune",
+    "fas": "Gujarat Sultanate"
+  },
+  {
+    "tag": "WLA",
+    "base": "Y Wladfa",
+    "adj": "Welsh Argentine",
+    "dem": "Y Wladfa",
+    "neu": "Y Wladychfa Gymreig",
+    "com": "Cymun Patagonia",
+    "fas": "Ymerodraeth Patagonia"
+  },
+  {
+    "tag": "WLS",
+    "base": "Wales",
+    "adj": "Welsh",
+    "dem": "Wales",
+    "neu": "Principality of Wales",
+    "com": "Welsh People's Republic",
+    "fas": "Cambria"
+  },
+  {
+    "tag": "WPG",
+    "base": "West Papua",
+    "adj": "West Papuan",
+    "dem": "Republic of West Papua",
+    "neu": "Koreri State of Papua",
+    "com": "People's Commune of Western New Guinea",
+    "fas": "Papua Unitary State"
+  },
+  {
+    "tag": "WUR",
+    "base": "Baden-Württemberg",
+    "adj": "Baden-Württembergian",
+    "dem": "Free State of Baden-Württemberg",
+    "neu": "Kingdom of Baden-Württemberg",
+    "com": "People's Republic of Baden-Württemberg",
+    "fas": "Swabia"
+  },
+  {
+    "tag": "XIC",
+    "base": "Xi'an",
+    "adj": "Xi'an",
+    "dem": "Xi'an Republic",
+    "neu": "Northeastern Army",
+    "com": "Xi'an Soviet Republic",
+    "fas": "Xi'an Free State"
+  },
+  {
+    "tag": "XSM",
+    "base": "Qinghai Ma",
+    "adj": "Ma",
+    "dem": "Hui Republic",
+    "neu": "Qinghai Ma",
+    "com": "People's Republic of Ma",
+    "fas": "Qinghai Ma Free State"
+  },
+  {
+    "tag": "YAK",
+    "base": "",
+    "adj": "",
+    "dem": "Sakha Republic",
+    "neu": "White Siberia",
+    "com": "Yakut People's Soviet",
+    "fas": "Greater Siberian State"
+  },
+  {
+    "tag": "YAM",
+    "base": "",
+    "adj": "",
+    "dem": "Yamalian Republic",
+    "neu": "Yamalo-Nenetsian Migratory State",
+    "com": "Yamalo-Nenets Soviet",
+    "fas": "Pan-Nenets Unitary State"
+  },
+  {
+    "tag": "YEM",
+    "base": "Yemen",
+    "adj": "Yemeni",
+    "dem": "Yemen Arab Republic",
+    "neu": "Yemen",
+    "com": "People's Democratic Republic of Yemen",
+    "fas": "Federation of South Arabia"
+  },
+  {
+    "tag": "YUC",
+    "base": "Yucatán",
+    "adj": "Yucateco",
+    "dem": "Republic of Yucatán",
+    "neu": "Maya-Yucatec State",
+    "com": "Zapatista Republic of Yucatán",
+    "fas": "Synarchist Republic of Yucatán"
+  },
+  {
+    "tag": "YUG",
+    "base": "Yugoslavia",
+    "adj": "Yugoslavian",
+    "dem": "Yugoslavian Confederation",
+    "neu": "Yugoslavia",
+    "com": "SFR Yugoslavia",
+    "fas": "Radikalna Yugoslavia"
+  },
+  {
+    "tag": "YUN",
+    "base": "Yunnan",
+    "adj": "Yunnanese",
+    "dem": "Yunnan Independent Republic",
+    "neu": "Yunnan",
+    "com": "Soviet Republic of Yunnan",
+    "fas": "Yunnan Free Empire"
+  },
+  {
+    "tag": "ZAM",
+    "base": "Zambia",
+    "adj": "Zambian",
+    "dem": "Zambia",
+    "neu": "Kingdom of Zambia",
+    "com": "Zambian People's Republic",
+    "fas": "State of Zambia"
+  },
+  {
+    "tag": "ZIM",
+    "base": "Zimbabwe",
+    "adj": "Zimbabwean",
+    "dem": "Republic of Zimbabwe",
+    "neu": "Zimbabwe",
+    "com": "Zimbabwean Democratic Republic",
+    "fas": "Rhodesia"
+  },
+  {
+    "tag": "dalmatia",
+    "base": "Dalmatia",
+    "adj": "Dalmatian",
+    "dem": "Republic of Dalmatia",
+    "neu": "Kingdom of Dalmatia",
+    "com": "Dalmatian Commune",
+    "fas": "Second Dalmatian League"
+  },
+  {
+    "tag": "vojvodina",
+    "base": "Vojvodina",
+    "adj": "Vojvodinian",
+    "dem": "Republic of Vojvodina",
+    "neu": "",
+    "com": "Socialist Province of Vojvodina",
+    "fas": "Syrmian Empire"
+  }
+]

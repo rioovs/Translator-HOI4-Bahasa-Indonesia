@@ -1,0 +1,877 @@
+[
+  {
+    "key": "INS_nationalize_companies_tt",
+    "version": "",
+    "en": "All Military Industrial Organizations and Industrial Concerns will be nationalized and given a new name."
+  },
+  {
+    "key": "INS_is_union_tt",
+    "version": "",
+    "en": "Has formed the Netherlands-Indonesia Union"
+  },
+  {
+    "key": "INS_is_union_tt_NOT",
+    "version": "",
+    "en": "Has not formed the Netherlands-Indonesia Union"
+  },
+  {
+    "key": "INS_denounce_soetardjo",
+    "version": "",
+    "en": "Denounce Soetardjo"
+  },
+  {
+    "key": "INS_denounce_soetardjo_tt",
+    "version": "",
+    "en": "We will begin planning an underground revolution, infiltrating the government and establishing guerilla cells across the archipelago. Once we are sufficiently prepared, we will begin a guerilla war of independence against the Dutch."
+  },
+  {
+    "key": "INS_soetardjo_petition_debate_done_tt",
+    "version": "",
+    "en": "The Volksraad debate on Soetardjo's petition for autonomy has concluded"
+  },
+  {
+    "key": "INS_tkr_tt",
+    "version": "",
+    "en": "Modifies §YThe People's Security Army§! by:"
+  },
+  {
+    "key": "INS_commander_sudirman_tt",
+    "version": "",
+    "en": "§YSudirman§!([INS.GetFlag]) Gets promoted to §YField Marshal§!"
+  },
+  {
+    "key": "INS_the_declaration_of_independence",
+    "version": "",
+    "en": "The Declaration of Independence"
+  },
+  {
+    "key": "INS_the_declaration_of_independence_desc",
+    "version": "",
+    "en": "We cannot risk waiting any longer, we must strike while the iron is hot! We should send our militias to seize control of ports, cities, and industrial centres quickly enough that the Dutch authorities will not have time to react. Then, we will declare independence, proclaiming the Republic of Indonesia."
+  },
+  {
+    "key": "INS_the_declaration_of_independence_tt",
+    "version": "",
+    "en": "We will declare §YIndependence§!. Every state where we established a §YMilitia Base§! or §YHeadquarters§! will be under our control, with the rest staying with [HOL.GetNameDef]\\n\\n[HOL.GetNameDefCap] will not recognize our sovereignty and a low-intensity conflict will commence. This could escalate to a §Rwar§!.\\n\\nUnlocks land raids to take over states."
+  },
+  {
+    "key": "INS_laskar_rakjat",
+    "version": "",
+    "en": "Laskar Rakyat"
+  },
+  {
+    "key": "INS_laskar_rakjat_desc",
+    "version": "",
+    "en": "The revolution is made up of many various militias across Indonesia, some big and some small. Organizing the militias is a necessary step to achieve victory. We mustn't be too hasty, however, as empowering militias with ties to our political rivals could pose catastrophe."
+  },
+  {
+    "key": "INS_militia_tt",
+    "version": "",
+    "en": "Creates a new §YFreedom Fighter§! militia division template and unlocks decisions to manage them."
+  },
+  {
+    "key": "INS_militia_warning_tt",
+    "version": "",
+    "en": "Militias are §Ysemi-autonomous§! groups of freedom fighters. They will fight for us, but their help is not free. They will expect to receive compensation for their efforts. §RStability will be drastically impacted if demands are not met!§!"
+  },
+  {
+    "key": "INS_usa_tanks_opinion_mod",
+    "version": "",
+    "en": "Purchased Our Tanks"
+  },
+  {
+    "key": "INS_republic_add_generals_tt",
+    "version": "",
+    "en": "(§Y$INS_sudirman$§!([INS.GetFlag]), §Y$INS_soengkono$§!([INS.GetFlag]), §Y$INS_supriyadi$§!([INS.GetFlag]), §Y$INS_djatikoesoemo$§!([INS.GetFlag]), §Y$INS_maludin_simbolan$§!([INS.GetFlag])) becomes a General."
+  },
+  {
+    "key": "INS_big_militia_presence_tt",
+    "version": "",
+    "en": "Will be controlled by our Militias upon declaring independence."
+  },
+  {
+    "key": "INS_prepare_raiding_bases",
+    "version": "",
+    "en": "Prepare Raiding Bases"
+  },
+  {
+    "key": "INS_prepare_raiding_bases_desc",
+    "version": "",
+    "en": "We will utilize our network of spies to establish bunkers across the entire archipelago in secret, ensuring we are prepared to strike once the revolution begins."
+  },
+  {
+    "key": "INS_netherlands_can_remove_autonomy_tt_50",
+    "version": "",
+    "en": "\\nIf [HOL.GetFlag]§Y[HOL.GetNameDefCap]§! completes this focus first:\\n    ([INS.GetFlag]§Y[INS.GetName]§!): Add §Y£autonomy_texticon -50.00§!"
+  },
+  {
+    "key": "INS_netherlands_can_remove_autonomy_tt_75",
+    "version": "",
+    "en": "\\nIf [HOL.GetFlag]§Y[HOL.GetNameDefCap]§! completes this focus first:\\n    ([INS.GetFlag]§Y[INS.GetName]§!): Add §Y£autonomy_texticon -75.00§!"
+  },
+  {
+    "key": "INS_netherlands_can_remove_autonomy_tt_100",
+    "version": "",
+    "en": "\\nIf [HOL.GetFlag]§Y[HOL.GetNameDefCap]§! completes this focus first:\\n    ([INS.GetFlag]§Y[INS.GetName]§!): Add §Y£autonomy_texticon -100.00§!"
+  },
+  {
+    "key": "INS_netherlands_can_remove_autonomy_tt_150",
+    "version": "",
+    "en": "\\nIf [HOL.GetFlag]§Y[HOL.GetNameDefCap]§! completes this focus first:\\n    ([INS.GetFlag]§Y[INS.GetName]§!): Add §Y£autonomy_texticon -150.00§!"
+  },
+  {
+    "key": "INS_netherlands_can_remove_autonomy_tt_200",
+    "version": "",
+    "en": "\\nIf [HOL.GetFlag]§Y[HOL.GetNameDefCap]§! completes this focus first:\\n    ([INS.GetFlag]§Y[INS.GetName]§!): Add §Y£autonomy_texticon -200.00§!"
+  },
+  {
+    "key": "INS_netherlands_can_remove_autonomy_tt_250",
+    "version": "",
+    "en": "\\nIf [HOL.GetFlag]§Y[HOL.GetNameDefCap]§! completes this focus first:\\n    ([INS.GetFlag]§Y[INS.GetName]§!): Add §Y£autonomy_texticon -250.00§!"
+  },
+  {
+    "key": "INS_cannot_become_independent_tt",
+    "version": "",
+    "en": "§W§Y[INS.GetFlag][INS.GetNameDefCap]§! will be §Rpermanently locked out of becoming independent§! without foreign intervention.§!"
+  },
+  {
+    "key": "INS_loans_timer",
+    "version": "",
+    "en": "\\nIn §Y365§! days:"
+  },
+  {
+    "key": "INS_expand_batavia_med_school_tt",
+    "version": "",
+    "en": "§Y$INS_dutch_east_indies$§!: Research Speed modifier is at least §G1.00%§!."
+  },
+  {
+    "key": "INS_subsidize_local_business",
+    "version": "",
+    "en": "Subsidize Local Businesses"
+  },
+  {
+    "key": "INS_subsidize_local_business_desc",
+    "version": "",
+    "en": "We should give subsidies to local businesses to stimulate economic growth, boosting our economy in the long run."
+  },
+  {
+    "key": "INS_expand_batavia_med_school",
+    "version": "",
+    "en": "Expand Batavia Medical School"
+  },
+  {
+    "key": "INS_expand_batavia_med_school_desc",
+    "version": "",
+    "en": "Expanding the Batavia Medical School by building new campus facilities and hiring more professors will make further education much more accessible, which is vital for our long term economic growth."
+  },
+  {
+    "key": "INS_prepare_for_policy_shift",
+    "version": "",
+    "en": "Prepare for a Policy Shift"
+  },
+  {
+    "key": "INS_prepare_for_policy_shift_desc",
+    "version": "",
+    "en": "The political landscape in the Indies has been impacted by the national awakening of the past decades, and our current policies are clearly outdated. We should consider making some changes in our governing structure."
+  },
+  {
+    "key": "INS_reallocate_rubber_industry_funding",
+    "version": "",
+    "en": "Reallocate Rubber Industry Funding"
+  },
+  {
+    "key": "INS_reallocate_rubber_industry_funding_desc",
+    "version": "",
+    "en": "Our reliance on selling rubber has had a disastrous effect on our economy. We should diversify our economy by prospecting for resources and opening mines and factories across the archipelago. This will not be a cheap endeavour, so we will have to reduce the budget for maintaining rubber plantations."
+  },
+  {
+    "key": "INS_reallocate_rubber_industry_funding_tt",
+    "version": "",
+    "en": "Unlocks a decision to §Yremove rubber from a state§! and replace it with smaller quantities of §Yother resources§!."
+  },
+  {
+    "key": "INS_underground_revolution",
+    "version": "",
+    "en": "Underground Revolution"
+  },
+  {
+    "key": "INS_underground_revolution_desc",
+    "version": "",
+    "en": "We will begin planning a revolution from the shadows, slowly increasing membership and militia activity until we are ready to strike."
+  },
+  {
+    "key": "INS_infiltrate_the_media",
+    "version": "",
+    "en": "Infiltrate the Media"
+  },
+  {
+    "key": "INS_infiltrate_the_media_desc",
+    "version": "",
+    "en": "Our movement has secured the membership of several high-ranking members of media organizations in the Indies. We can use this to our advantage to subtly plant pro-revolutionary sentiment in the minds of citizens."
+  },
+  {
+    "key": "INS_infiltrate_the_army",
+    "version": "",
+    "en": "Infiltrate the Army"
+  },
+  {
+    "key": "INS_infiltrate_the_army_desc",
+    "version": "",
+    "en": "Many of our members are enlisted in the KNIL, from low ranking soldiers to majors. We should collect as many secrets as possible, while elevating our own to high positions. Once we pull the trigger, we can stir chaos in the KNIL."
+  },
+  {
+    "key": "INS_privately_owned_military_industry",
+    "version": "",
+    "en": "Privately Owned Military Industry"
+  },
+  {
+    "key": "INS_privately_owned_military_industry_desc",
+    "version": "",
+    "en": "We will establish several shadow corporations in the military industrial sector, ensuring we will retain control over military industry once the revolution has begun."
+  },
+  {
+    "key": "INS_privately_owned_military_industry_tt",
+    "version": "",
+    "en": "Add §G2§! §YMilitary Factory§! in your HQ"
+  },
+  {
+    "key": "INS_instigate_chaos_sulawesi",
+    "version": "",
+    "en": "Instigate Chaos in Sulawesi"
+  },
+  {
+    "key": "INS_instigate_chaos_sulawesi_desc",
+    "version": "",
+    "en": "We will cooperate with local nationalists in Sulawesi, organizing strikes, riots, and radicalizing the population."
+  },
+  {
+    "key": "INS_instigate_chaos_sulawesi_tt",
+    "version": "",
+    "en": "Once we declare independence, we will gain a §Gcore§! on §Y[673.GetName]§! and §Y[1056.GetName]§!. They will continue to be uncored by the Dutch East Indies."
+  },
+  {
+    "key": "INS_instigate_chaos_medan",
+    "version": "",
+    "en": "Instigate Chaos in Medan"
+  },
+  {
+    "key": "INS_instigate_chaos_medan_desc",
+    "version": "",
+    "en": "We will cooperate with local nationalists in Medan and Riouw, organizing strikes, riots, and radicalizing the population."
+  },
+  {
+    "key": "INS_instigate_chaos_medan_tt",
+    "version": "",
+    "en": "Once we declare independence, we will get a §Gcore§! on §Y[1049.GetName]§!. It will continue to be uncored by the Dutch East Indies."
+  },
+  {
+    "key": "INS_embezzlement_scheme_in_batavia",
+    "version": "",
+    "en": "Embezzlement Scheme in Batavia"
+  },
+  {
+    "key": "INS_embezzlement_scheme_in_batavia_desc",
+    "version": "",
+    "en": "We will setup a scheme to move our production from Batavia to republican territory upon declaring independence."
+  },
+  {
+    "key": "INS_embezzlement_scheme_in_batavia_tt",
+    "version": "",
+    "en": "Upon declaring independence, half of all factories in §Y[1058.GetName]§! will be relocated to our §YRevolutionary Headquarters§!."
+  },
+  {
+    "key": "INS_volksraad_rumors",
+    "version": "",
+    "en": "Rumors in The Volksraad"
+  },
+  {
+    "key": "INS_volksraad_rumors_desc",
+    "version": "",
+    "en": "We will begin discreetly discussing the revolution within the Volksraad. If we are successful, we can convince the Indonesian Volksraad members to join our cause."
+  },
+  {
+    "key": "INS_volksraad_rumors_tt",
+    "version": "",
+    "en": "All §YIndonesian §!Volksraad advisors will be §Gkept§! after declaring independence."
+  },
+  {
+    "key": "INS_railway_youth_force",
+    "version": "",
+    "en": "Cooperate With the Railway Youth Force"
+  },
+  {
+    "key": "INS_railway_youth_force_desc",
+    "version": "",
+    "en": "The railway youth force is an Islamic youth militia group primarily active in Central Java, named after their strategy of seizing railways. They would make for a valuable ally, however, they are energetic and want to engage in combat. They will become unhappy with the government if we stay in a ceasefire for too long."
+  },
+  {
+    "key": "INS_sleeper_informant_network",
+    "version": "",
+    "en": "[GetInformantNetworkName]"
+  },
+  {
+    "key": "INS_Sleeper_Informant_Network_name",
+    "version": "",
+    "en": "Sleeper Informant Network"
+  },
+  {
+    "key": "INS_KNIL_Informant_Network_name",
+    "version": "",
+    "en": "KNIL Informant Network"
+  },
+  {
+    "key": "INS_sleeper_informant_network_desc",
+    "version": "",
+    "en": "We will create an informant network that is embedded throughout the KNIL administrative apparatus, giving us advance warning of enemy plans."
+  },
+  {
+    "key": "INS_sleeper_informant_network_tt",
+    "version": "",
+    "en": "§RWhen Independence is declared:§!\\n"
+  },
+  {
+    "key": "INS_the_peoples_security_army",
+    "version": "",
+    "en": "The People's Security Army"
+  },
+  {
+    "key": "INS_the_peoples_security_army_desc",
+    "version": "",
+    "en": "Our members, which are primarily young Indonesians are growing impatient, eager to contribute and fight for our Independence. We should establish a Revolutionary Armed Forces and begin training our future soldiers."
+  },
+  {
+    "key": "INS_commander_sudirman",
+    "version": "",
+    "en": "Sudirman's Army"
+  },
+  {
+    "key": "INS_commander_sudirman_desc",
+    "version": "",
+    "en": "Sudirman, despite being a young up-and-comer has shown great potential and is very popular among the young members of the resistance. He should guide the path of the People's Security Army and lead us to victory."
+  },
+  {
+    "key": "INS_commander_oerip",
+    "version": "",
+    "en": "Oerip's Army"
+  },
+  {
+    "key": "INS_commander_oerip_desc",
+    "version": "",
+    "en": "Oerip has served decades in the army and is the only Indonesian to ever be promoted to Major in the KNIL. His knowledge and experience far outreaches that of any other member. He should guide the path of the People's Security Army and lead us to victory."
+  },
+  {
+    "key": "INS_sudirmans_promotion",
+    "version": "",
+    "en": "Sudirmans Promotion"
+  },
+  {
+    "key": "INS_sudirmans_promotion_desc",
+    "version": "",
+    "en": "Sudirman has shown great leadership skills, and has orchestrated several successful assaults. It is time we recognize our Commander's efforts by giving him the title of General that he deserves."
+  },
+  {
+    "key": "INS_tkr_steal_general",
+    "version": "",
+    "en": "Poach KNIL Generals"
+  },
+  {
+    "key": "INS_tkr_steal_general_desc",
+    "version": "",
+    "en": "If we can convince high-ranking members of the East Indies Army to join our cause, we'll simultaneously improve our army while sabotaging theirs."
+  },
+  {
+    "key": "INS_tkr_supply",
+    "version": "",
+    "en": "Every Revolutionary Must Fight"
+  },
+  {
+    "key": "INS_tkr_supply_desc",
+    "version": "",
+    "en": "We will ensure every member of our movement receives formal military training, no exceptions."
+  },
+  {
+    "key": "INS_tkr_professional_army",
+    "version": "",
+    "en": "A Professional Army"
+  },
+  {
+    "key": "INS_tkr_professional_army_desc",
+    "version": "",
+    "en": "We mustn't rely only on militias, we should develop a professional Republican army to maintain order."
+  },
+  {
+    "key": "INS_arm_the_revolutionaries",
+    "version": "",
+    "en": "Arm the Revolutionaries"
+  },
+  {
+    "key": "INS_arm_the_revolutionaries_desc",
+    "version": "",
+    "en": "We must begin with the revolutionaries and nationalists who are full of energy and ready to give everything they have for Indonesia. We will provide them with training and equipment they need to fight for their country."
+  },
+  {
+    "key": "INS_arm_the_youth",
+    "version": "",
+    "en": "Arm the Youth"
+  },
+  {
+    "key": "INS_arm_the_youth_desc",
+    "version": "",
+    "en": "Beyond the revolutionaries, we must arm the youth. Still full of energy and hope, they will carry the flame of the revolution. We must ensure as many Indonesian young adults as possible are trained and equipped for combat. If fighting reaches their homes, they will be ready to act."
+  },
+  {
+    "key": "INS_arm_the_students",
+    "version": "",
+    "en": "Arm the Students"
+  },
+  {
+    "key": "INS_arm_the_students_desc",
+    "version": "",
+    "en": "Students have built the foundation of the revolution since decades ago, and they will continue to lead it forward."
+  },
+  {
+    "key": "INS_guerilla_industry",
+    "version": "",
+    "en": "Guerilla Industry"
+  },
+  {
+    "key": "INS_guerilla_industry_desc",
+    "version": "",
+    "en": "We will utilize our guerilla forces across the archipelago in order to seize control of factories, allowing us to produce new guns to arm our militias with."
+  },
+  {
+    "key": "INS_indonesian_assault_doctrine",
+    "version": "",
+    "en": "The Indonesian Assault Doctrine"
+  },
+  {
+    "key": "INS_indonesian_assault_doctrine_desc",
+    "version": "",
+    "en": "Soldiers are not all there is to a war. A million men means nothing if they do not have guns to fight with. We must prioritize obtaining high-quality artillery in order to push deeper into enemy-controlled territory."
+  },
+  {
+    "key": "INS_tighter_tkr_integration",
+    "version": "",
+    "en": "Tighter TKR-Laskar Integration"
+  },
+  {
+    "key": "INS_tighter_tkr_integration_desc",
+    "version": "",
+    "en": "The People’s Security Army and the various militia forces do not operate in unity, and coordination is limited. This is only going to cause more and more problems as the war continues, we need to intertwine the armed forces and militias into one unified organization, despite the inevitable protests from militia officers.\" \n  INS_quality_over_quantity: \"Quality Over Quantity"
+  },
+  {
+    "key": "INS_quality_over_quantity_desc",
+    "version": "",
+    "en": "One well trained soldier with a thought-out strategy and modern equipment will beat five students with pistols. We must prioritize high-quality, well-armed soldiers and special forces over mobilizing as many soldiers as possible."
+  },
+  {
+    "key": "INS_add_militia_cap_1_tt",
+    "version": "",
+    "en": "§YFreedom Fighter§! division cap increases by §Y1§!.\\n"
+  },
+  {
+    "key": "INS_add_militia_cap_2_tt",
+    "version": "",
+    "en": "§YFreedom Fighter§! division cap increases by §Y2§!.\\n"
+  },
+  {
+    "key": "INS_add_militia_cap_3_tt",
+    "version": "",
+    "en": "§YFreedom Fighter§! division cap increases by §Y3§!.\\n"
+  },
+  {
+    "key": "INS_add_3_militia_unit_tt",
+    "version": "",
+    "en": "Create three §YFreedom Fighter§! units, which can be used in §Yraids§! to increase §Gmilitia presence§! in Dutch states."
+  },
+  {
+    "key": "INS_add_fully_trained_militia_unit_tt",
+    "version": "",
+    "en": "Create one trained §YFreedom Fighter§! unit.\\n"
+  },
+  {
+    "key": "INS_expand_resistance_membership",
+    "version": "",
+    "en": "Expand Resistance Membership"
+  },
+  {
+    "key": "INS_expand_resistance_membership_desc",
+    "version": "",
+    "en": "Centering our entire movement in one base will guarantee failure. We will draft members into groups of militias to send as envoys that will increase our popularity and control in various regions."
+  },
+  {
+    "key": "INS_deploy_the_kris",
+    "version": "",
+    "en": "Indonesian People's Service of Sulawesi"
+  },
+  {
+    "key": "INS_deploy_the_kris_desc",
+    "version": "",
+    "en": "The Indonesian People's Service of Sulawesi, known in Indonesian as the KRIS are an active group of Militias and form the majority of militia presence in Sulawesi and Manado. We should recruit them to formally fight alongside the TKR."
+  },
+  {
+    "key": "INS_assist_the_pemuda",
+    "version": "",
+    "en": "Assist the Pemuda"
+  },
+  {
+    "key": "INS_assist_the_pemuda_desc",
+    "version": "",
+    "en": "Java is full of various Pemuda student militias. Joining forces with them and providing military assistance in their missions against the Dutch might secure us a useful ally."
+  },
+  {
+    "key": "INS_mobilize_the_pemuda",
+    "version": "",
+    "en": "Mobilize the Pemuda"
+  },
+  {
+    "key": "INS_mobilize_the_pemuda_desc",
+    "version": "",
+    "en": "Now that we have successfully earned the trust of the largest Pemuda groups, we should begin plans to mobilize them into the TKR."
+  },
+  {
+    "key": "INS_organize_jakarta_pemuda",
+    "version": "",
+    "en": "Organize the Jakarta Pemudas"
+  },
+  {
+    "key": "INS_organize_jakarta_pemuda_desc",
+    "version": "",
+    "en": "Java has many Pemuda groups of all sizes. While we have mobilized and recruited most of them, there are dozens of small ones in Jakarta still acting independently. We must contact them and establish collaboration."
+  },
+  {
+    "key": "INS_recognize_moestopos_batallion",
+    "version": "",
+    "en": "Recognition of Moestopo's Batallion"
+  },
+  {
+    "key": "INS_recognize_moestopos_batallion_desc",
+    "version": "",
+    "en": "A revolutionary named Moestopo has declared himself as the self-proclaimed 'Acting Minister of Defense' in Surabaya, maintaining control of the militia forces in Surabaya. His efforts deserve formal recognition, we should formally promote him to Major General of the TKR."
+  },
+  {
+    "key": "INS_darul_islam_focus",
+    "version": "",
+    "en": "Darul Islam"
+  },
+  {
+    "key": "INS_darul_islam_focus_desc",
+    "version": "",
+    "en": "Kartosoewirjo's hizbullah have proved themselves in the hills of West Java, and we cannot afford to leave such fighters outside our ranks. Let his irregulars stand among our own, and let the man himself bear the rank he has earned. The faithful will press their case in the Republic soon enough."
+  },
+  {
+    "key": "INS_just_a_fisherman",
+    "version": "",
+    "en": "Just a Fisherman"
+  },
+  {
+    "key": "INS_just_a_fisherman_desc",
+    "version": "",
+    "en": "Fighting a war in an archipelago without a Navy is a difficult task and not one we can sustain much longer. We will try a possibly naive strategy, wherein we will send militias on fishing boats disguised as fishermen to Dutch-controlled ports."
+  },
+  {
+    "key": "INS_a_cheap_navy",
+    "version": "",
+    "en": "A Cheap Navy"
+  },
+  {
+    "key": "INS_a_cheap_navy_desc",
+    "version": "",
+    "en": "We do not have the time or money to build a big modern navy. We must make due with what we have, and scrap together anything we can find."
+  },
+  {
+    "key": "INS_divert_army_funds_to_navy",
+    "version": "",
+    "en": "Divert Army Funds to the Navy"
+  },
+  {
+    "key": "INS_divert_army_funds_to_navy_desc",
+    "version": "",
+    "en": "Indonesia is an archipelago, our infantry are nothing without ships to transport them. It is a worthy sacrifice to divert funding from the TKR to our new Navy."
+  },
+  {
+    "key": "INS_indonesian_naval_doctrine",
+    "version": "",
+    "en": "Indonesian Naval Doctrine"
+  },
+  {
+    "key": "INS_indonesian_naval_doctrine_desc",
+    "version": "",
+    "en": "Now that we are building a navy of our own, it is important to consider the doctrine by which we will fight and train. We should prioritize forming and adopting a Naval Doctrine as soon as possible."
+  },
+  {
+    "key": "INS_domestic_shipbuilding",
+    "version": "",
+    "en": "Domestic Shipbuilding"
+  },
+  {
+    "key": "INS_domestic_shipbuilding_desc",
+    "version": "",
+    "en": "We cannot rely on captured and purchased ships forever, it will not be long until there are no more Dutch ships left for us to capture. We should start building our own ships early."
+  },
+  {
+    "key": "INS_acquire_modern_blueprints",
+    "version": "",
+    "en": "Acquire Modern Blueprints"
+  },
+  {
+    "key": "INS_acquire_modern_blueprints_desc",
+    "version": "",
+    "en": "We will purchase blueprints from other countries and private corporations that we will use to construct our new Navy."
+  },
+  {
+    "key": "INS_reclaiming_the_dutch_navy",
+    "version": "",
+    "en": "Reclaiming the Dutch Indies Navy"
+  },
+  {
+    "key": "INS_reclaiming_the_dutch_navy_desc",
+    "version": "",
+    "en": "The Dutch have left plenty of ships stationed in ports we now occupy. We should claim these ships for ourselves while we have the chance."
+  },
+  {
+    "key": "INS_admiral_mas_pardi",
+    "version": "",
+    "en": "Admiral Mas Pardi"
+  },
+  {
+    "key": "INS_admiral_mas_pardi_desc",
+    "version": "",
+    "en": "Any good navy needs an Admiral to command it. Mas Pardi is the obvious choice."
+  },
+  {
+    "key": "INS_akademi_angkatan_laut",
+    "version": "",
+    "en": "Construct Akademi Angkatan Laut"
+  },
+  {
+    "key": "INS_akademi_angkatan_laut_desc",
+    "version": "",
+    "en": "We will construct a Naval Academy with facilities for Naval research, while educating more citizens into Engineers and Admirals."
+  },
+  {
+    "key": "INS_pki_militia_tt",
+    "version": "",
+    "en": "Tan Malaka has a very powerful militia, however, they fight not only for the will of Indonesia but for the will of §Rcommunism§! and the Soviet. §REventually, they will oppose any non-communist government violently.§!"
+  },
+  {
+    "key": "INS_increase_laskar_funding_tt",
+    "version": "",
+    "en": "§WGain§! 1§Y Military Factory§! for every demand successfully granted to a militia (maximum of §G6§!)\" \n  INS_subsidize_laskar_armament: \"Subsidize Laskar Armament"
+  },
+  {
+    "key": "INS_subsidize_laskar_armament_desc",
+    "version": "",
+    "en": "Militias fighting with bamboo spears are not going to survive for long against heavily armed units. We need to prioritize producing more guns and ammunition for these militias."
+  },
+  {
+    "key": "INS_loot_knil_weapons_caches",
+    "version": "",
+    "en": "Loot KNIL Weapons Caches"
+  },
+  {
+    "key": "INS_loot_knil_weapons_caches_desc",
+    "version": "",
+    "en": "There are plenty of weapons caches the KNIL deposited before the revolution. Many of our members are former members of the KNIL, and we may be able to find and loot these caches."
+  },
+  {
+    "key": "INS_utilize_tan_malakas_militia",
+    "version": "",
+    "en": "Utilize Tan Malaka's Militia"
+  },
+  {
+    "key": "INS_utilize_tan_malakas_militia_desc",
+    "version": "",
+    "en": "Tan Malaka's Red Militia is perhaps the strongest singular militia in all of Indonesia, and it would be a huge boon to mobilize them in the TKR. This does not come without risks, giving a powerful militia with strong political motives this much influence will make it much easier for them to seize power for themselves."
+  },
+  {
+    "key": "INS_increase_laskar_funding",
+    "version": "",
+    "en": "Increase Laskar Funding"
+  },
+  {
+    "key": "INS_increase_laskar_funding_desc",
+    "version": "",
+    "en": "Our Militias make up the majority of our forces. We need to acknowledge this and fund them accordingly, even if they are not completely loyal to [INS.GetLeader]."
+  },
+  {
+    "key": "INS_develop_a_functioning_airforce",
+    "version": "",
+    "en": "Develop a Proper Airforce"
+  },
+  {
+    "key": "INS_develop_a_functioning_airforce_desc",
+    "version": "",
+    "en": "An Air force has a big impact on an army, we should prioritize creating one."
+  },
+  {
+    "key": "INS_political_stabilization",
+    "version": "",
+    "en": "The Central Indonesian National Committee"
+  },
+  {
+    "key": "INS_political_stabilization_desc",
+    "version": "",
+    "en": "In order to end the infighting between the many political factions in Indonesia, we must grant concessions to the other factions, allowing us to focus on the ongoing conflict. We will establish a semi-democratic committee overseen by the President, serving as a parliamentary body for Indonesia."
+  },
+  {
+    "key": "INS_nationalize",
+    "version": "",
+    "en": "Nationalize!"
+  },
+  {
+    "key": "INS_nationalize_desc",
+    "version": "",
+    "en": "Our newly independent republic is still plagued with remnants of Dutch rule. The military industrial companies, the oil companies, the agricultural companies, and many others are all tied to the Netherlands, be it directly or indirectly. For our Republic to truly be independent, we must establish our own national institutions to inherit the Indonesian assets from these corporations."
+  },
+  {
+    "key": "INS_restore_order",
+    "version": "",
+    "en": "Restore Order"
+  },
+  {
+    "key": "INS_restore_order_desc",
+    "version": "",
+    "en": "Our nation is becoming more unstable for each passing day. If we do not react soon a civil war is all but inevitable. We must start negotiations between the National Committee, President, and Militia leaders to find a solution."
+  },
+  {
+    "key": "INS_vice_presidential_edict",
+    "version": "",
+    "en": "Sign Vice Presidential Edict X"
+  },
+  {
+    "key": "INS_vice_presidential_edict_desc",
+    "version": "",
+    "en": "The National Committee is almost unanimous in its demand for real legislative power. A petition has been handed to the President proposing a Hybrid system, where the National Committee will become an independent parliament, sharing joint legislative powers with the President. The offer is enticing, but there is a risk of Presidential power becoming negligible."
+  },
+  {
+    "key": "INS_local_cooperatives",
+    "version": "",
+    "en": "Establish Local Cooperatives"
+  },
+  {
+    "key": "INS_local_cooperatives_desc",
+    "version": "",
+    "en": "We should not create a capitalist system like that in the west, but we should not disregard the economic benefit privatization provides. We will allow for the creation of local cooperatives, wherein their success will grant riches to their owners. However, they will be overseen by the government, and will be forbidden from expanding outside of their locality."
+  },
+  {
+    "key": "INS_local_unity",
+    "version": "",
+    "en": "Partial Princely Autonomy"
+  },
+  {
+    "key": "INS_local_unity_desc",
+    "version": "",
+    "en": "We will grant partial autonomy to Princely States, as a temporary measure to decrease infighting during these already hectic times."
+  },
+  {
+    "key": "INS_education_subsidies",
+    "version": "",
+    "en": "Education Subsidies"
+  },
+  {
+    "key": "INS_education_subsidies_desc",
+    "version": "",
+    "en": "Investing in the future of the nations youths is absolutely necessary if we want an economically successful state. We will construct affordable schools across the republic."
+  },
+  {
+    "key": "INS_land_reform",
+    "version": "",
+    "en": "Land Reform"
+  },
+  {
+    "key": "INS_land_reform_desc",
+    "version": "",
+    "en": "The Netherlands directly owned large quantities of land before we declared independence. We should distribute this land to any Indonesian who will make use of it for low prices in order to encourage economic growth."
+  },
+  {
+    "key": "INS_dominion_of_atjeh",
+    "version": "",
+    "en": "The Dominion of Atjeh"
+  },
+  {
+    "key": "INS_dominion_of_atjeh_desc",
+    "version": "",
+    "en": "The separatist movement in Atjeh is large, and growing. There is no reason to escalate the situation, we should instead negotiate a compromise wherein they stay a part of Indonesia, while being mostly autonomous."
+  },
+  {
+    "key": "INS_dissolve_national_party",
+    "version": "",
+    "en": "Dissolve the National Party"
+  },
+  {
+    "key": "INS_dissolve_national_party_desc",
+    "version": "",
+    "en": "The Hybrid system was created as a necessary compromise to avoid chaos. We should not allow the President to hold this much power undemocratically. The president must be deposed by parliament or else we will never achieve democracy."
+  },
+  {
+    "key": "INS_womens_sufferage",
+    "version": "",
+    "en": "Women's Suffrage"
+  },
+  {
+    "key": "INS_womens_sufferage_desc",
+    "version": "",
+    "en": "Extending the vote to women will lead to short term instability, but is necessary for long term stability and democracy."
+  },
+  {
+    "key": "INS_women_in_military",
+    "version": "",
+    "en": "Women in the Military"
+  },
+  {
+    "key": "INS_women_in_military_desc",
+    "version": "",
+    "en": "Allowing women to serve in the military is necessary to ensure our armed forces are as powerful as possible."
+  },
+  {
+    "key": "INS_fair_election",
+    "version": "",
+    "en": "A Fair Election"
+  },
+  {
+    "key": "INS_fair_election_desc",
+    "version": "",
+    "en": "With the President deposed, and the revolution over, we can finally hold the first truly fair election, with no authoritarian influence."
+  },
+  {
+    "key": "INS_continue_hybrid_politics",
+    "version": "",
+    "en": "Continue the Hybrid Politics"
+  },
+  {
+    "key": "INS_continue_hybrid_politics_desc",
+    "version": "",
+    "en": "Hybrid politics is a necessary evil. While the end goal is true democracy, Indonesia is far too young and unstable for all power to be handed to the people. The President and Parliament will continue to moderate each other, ensuring neither body becomes too powerful."
+  },
+  {
+    "key": "INS_guided_economy",
+    "version": "",
+    "en": "Guided Economy"
+  },
+  {
+    "key": "INS_guided_economy_desc",
+    "version": "",
+    "en": "We will oversee the economy of Indonesia directly to ensure we maintain control. We will nationalize all banks, as well as the oil and agricultural sectors."
+  },
+  {
+    "key": "INS_reform_education_system",
+    "version": "",
+    "en": "Mandatory Ideological Education"
+  },
+  {
+    "key": "INS_reform_education_system_desc",
+    "version": "",
+    "en": "The revolution was proof that students and youths upset with the social order will always lead the rebellion. For the safety of our government and nation, we will require that schools teach according to our government ideology."
+  },
+  {
+    "key": "INS_reform_education_system_2",
+    "version": "",
+    "en": "Education Reform"
+  },
+  {
+    "key": "INS_reform_education_system_2_desc",
+    "version": "",
+    "en": "If we want Indonesia to become a wealthy nation in the future, all Indonesians, regardless of birthplace must be entitled to an education."
+  }
+]

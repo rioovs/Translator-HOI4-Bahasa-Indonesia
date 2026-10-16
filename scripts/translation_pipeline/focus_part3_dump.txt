@@ -1,0 +1,175 @@
+INS_three_year_plan -> Three Year Plan
+INS_three_year_plan_desc -> We can establish a three year plan to build infrastructure across the archipelago and connect the islands.
+INS_destroy_pacific_colonialism -> Destroy Pacific Colonialism
+INS_destroy_pacific_colonialism_desc -> The revolution may have ended, but there are still battles to be fought. There are still many people living under colonial tyranny at our doorstep. We cannot idly sit and watch, we must take action to liberate them from their overlords!
+INS_rapid_mobilization -> Rapid Mobilization
+INS_rapid_mobilization_desc -> Any strong nation has a strong army to stand on. If we want to become a regional superpower capable of standing our ground, we must begin by making our army far stronger than it is today.
+INS_greater_indonesia -> Proclaim Greater Indonesia
+INS_greater_indonesia_desc -> The ancient empire of Nusantara had once united the Malay-world as one entity, one people. With us having liberated Malaya from colonial tyranny, we should do like our ancestors in Nusantara, declaring the entire Malay world as one united nation.
+INS_secularism -> Secularism
+INS_secularism_desc -> Indonesia is home to many people of many religions. Mixing religion and politics together will only cause infighting, therefore we should ban religious political parties.
+INS_integrate_sarekat_islam -> Integrate Sarekat Islam
+INS_integrate_sarekat_islam_desc -> The big Islamic political parties have a lot of popular support. It is in our best interest to integrate them into government.
+INS_sjahrirs_continued_tenure -> Sjahrirs Continued Tenure
+INS_sjahrirs_continued_tenure_desc -> Prime Minister Sjahrir has proved himself as a great leader, guiding us through the revolution, improving our economy, and establishing democracy. We should reelect him as Prime Minister.
+INS_unity_in_diversity -> Unity in Diversity
+INS_unity_in_diversity_desc -> For centuries the words Unity in Diversity have captured the spirit of our archipelago. During the revolution this idea became a rallying cry, reminding Indonesians that though we speak many languages and follow many different traditions, we stand together as one people. We should enshrine this phrase in our constitution, so that our unity will be preserved for generations to come.
+INS_the_timor_issue -> [INS_timor_issue_scripted_name]
+INS_timor_issue_scripted_name_issue -> The Timor Issue
+INS_timor_issue_scripted_name_attack -> Attack East Timor
+INS_the_timor_issue_desc -> [INS_timor_issue_scripted_desc]
+INS_timor_issue_scripted_desc_issue -> East Timor is clearly rightful Indonesian territory, and while the revolution has ended, it is still under colonial rule. We will send an ultimatum to [721.OWNER.GetName] demanding the immediate transfer of East Timor.
+INS_timor_issue_scripted_desc_attack -> East Timor is clearly rightful Indonesian territory. The rebels on the island may claim independence, but they clearly do not speak for the entire population. The remnants of portugese colonialism must be integrated into the Republic.
+INS_pledge_to_allies -> Pledge to the Allies
+INS_pledge_to_allies_desc -> We are at risk of being invaded as part of the growing conflict across the world. While our relations with the Allies have been shaky, we have established ourselves as a Democratic power in the pacific and should align ourselves with the big democratic powers.
+INS_mixed_economy_system -> Mixed Economy System
+INS_mixed_economy_system_desc -> Indonesia is a unique country and will not thrive under traditional Capitalism or Communism. We should establish a mixed economy system, with elements of both capitalism and communism.
+INS_social_democracy -> Social Democracy
+INS_social_democracy_desc -> The [INS.GetAdjective] economy has grown massively since Sjahrirs economic policies were implemented. We should declare Indonesia as a fully Social Democratic state, and develop future economic policies based on the principles of social democracy.
+INS_prime_minister_sjarifuddin -> Prime Minister Sjarifuddin
+INS_prime_minister_sjarifuddin_desc -> Sjarifuddin is the best candidate for Indonesia, his moderate policies allow for compromise between the communists and socialists.
+INS_concessions_to_communists -> Concessions to the Communists
+INS_concessions_to_communists_desc -> The PKI has a significant number of seats in parliament, we should grant a few ministerial positions to PKI leaders to ensure stability.
+INS_sjarifuddin_focus_2 -> Self-Managed Export Economy
+INS_sjarifuddin_focus_2_desc -> With our newfound independence we should revisit our export economy system and reorganize it so that it no longer takes Dutch profits into accord. While an export-based economy is still dangerous, we can make it much more reliable than in previous years.
+INS_prime_minister_hatta -> Prime Minister Hatta
+INS_prime_minister_hatta_desc -> Mohammad Hatta, known as the proclamator of the revolution has served as Vice President to Sukarno, and was generally the more democratic-leaning of the two. He will make a suitable Prime Minister that most political parties can compromise on.
+INS_hatta_focus_2 -> The Next Steps
+INS_hatta_focus_2_desc -> The revolution has ended, and while certain political figures are insisting the revolution must continue, these voices should be ignored. Instead we should look forward, we must build up Indonesia so that future generations will live in prosperity.
+INS_hatta_princely_advisors -> Integrate the Princely States
+INS_hatta_princely_advisors_desc -> Through our shared diversity we find unity. We have based our nation on this principle, but the end of the revolution has put strain to the idea due to the lack of a shared struggle. In order to prevent resentment and uprisings from minority groups, we should establish an additional council where local rulers from princely states have a direct say in national politics.
+INS_prime_minister_tt -> The first Indonesian general election has been held
+INS_guided_democracy -> Declare Martial Law
+INS_guided_democracy_desc -> It is now clear that the division of power through the formation of the National Committee was a mistake and has only resulted in instability. We mustn’t let this continue else we want another civil war. We must declare martial law and temporarily seize control over the committee until order is restored.
+INS_centralization -> Centralization
+INS_centralization_desc -> Power will be centralized in Java with other islands having limited autonomy. All decisions must pass through Java to ensure order and stability. The President will oversee democracy.
+INS_abolish_national_committee -> Abolish National Committee
+INS_abolish_national_committee_desc -> The National Committee will be abolished and replaced by a Working Committee serving underneath the presidency. The President will serve for life to maintain order. The Working Committee will be given more power slowly rather than all at once.
+INS_abolish_national_committee_tt -> Support for §Y[ROOT.GetNeutralParty]§! will be set to §Y100%§!.
+INS_pancasila_achieved -> Pancasila Achieved
+INS_pancasila_achieved_desc -> When we founded this country, it was founded on the five principles of Pancasilia; Belief in the one and only god, just and civilized humanity, the unity of Indonesia, democratic life led by wisdom, and social justice for all the people of Indonesia. While we have not always successfully operated under these principles, we have finally achieved the unity envisioned by the original principles, and can officially begin the next phase of our Republic’s continued prosperity.
+INS_the_co_prosperity_sphere -> The Co-Prosperity Sphere
+INS_the_co_prosperity_sphere_tt -> Unlocks decisions §Y$INS_request_membership$§! and §Y$INS_assume_complete_power$§! decision to flip the country and §Y$INS_sukarno$ Fascist§!.
+INS_the_co_prosperity_sphere_desc -> Though there is much opposition to cooperating with the Japanese, it is in our best interest during these unstable times to join forces with a stronger power to stand strong against the western allies.
+INS_strengthen_ins_jap_trade -> Strengthen [ROOT.GetAdjective]-[JAP.GetAdjective] Trade
+INS_strengthen_ins_jap_trade_desc -> We should improve the trade relations between us and our new ally. If we sell our excess resources at drastically lower costs, we can prove our worthiness and gain additional bargaining power after the war.
+INS_seek_recognition_of_mal_claims -> Seek Recognition of Our Malay Claims
+INS_seek_recognition_of_mal_claims_desc -> Malaya and North Borneo are of our origin, only divided by thin colonial borders. We should seek that [JAP.GetNameDef] recognizes our right to this territory and promises it to us once we have defeated Britain.
+INS_demand_northern_malay -> Demand Northern Malay
+INS_demand_northern_malay_desc -> Northern Malay belongs today to Siam, despite being ethnically Malay. We will not tolerate a so-called “ally” occupying our territory, we must demand intervention from Japan.
+INS_siam_agreement -> The Siam Agreement
+INS_siam_agreement_desc -> Siam is a weak nation unable to stand up for itself. We have proven our worthiness to Japan, and they have continued to fall to pressure. There is no doubt that we will all be better off if Siam becomes an Indonesian puppet.
+INS_local_autonomy -> Local Autonomy
+INS_local_autonomy_industry_tt -> §Y1§! Civilian Factory is §Rremoved§! from §Y[1051.GetName]§!, §Y[335.GetName]§! and §Y[1058.GetName]§!.\n§Y1§! Civilian Factory is §Gadded§! to §Y4 random owned states§!.
+INS_local_autonomy_desc -> The many islands that encompass Indonesia have different cultures, languages, and needs. It is unreasonable to think that one government can successfully oversee them all. We will begin to reform Indonesia into a Federation, where each province has a significant degree of autonomy over itself.
+INS_union_of_ins_states -> Union of [ROOT.GetAdjective] Provinces
+INS_union_of_ins_states_desc -> We should give provinces even more autonomy, reducing the role of the federal government to primarily inter-province and external affairs. We will elect a new federal President based on the wishes of the provinces. The local rulers will be free to form their own leadership structure as they choose.
+INS_union_of_ins_states_tt -> \nReleases §Y[ATJ.GetName]§!, §Y[BLI.Getname]§!, §Y[SSI.GetName]§!, §Y[TNE.GetName]§!, §Y[POK.GetName]§! and §Y[GOW.GetName]§! as §Y$autonomy_taog_indonesian_union_state$s§!.
+INS_indonesian_inter_province_trade_agreement -> [ROOT.GetAdjective] Inter-Province Trade Agreement
+INS_indonesian_inter_province_trade_agreement_tt -> All §YIndonesian§! countries gain:
+INS_indonesian_inter_province_trade_agreement_desc -> Trade between provinces must be quick and cheap. We will ensure it is almost always preferable to buy from and sell to another province rather than another country, through drastically reducing taxes on trade, and building new inter-province infrastructure.
+INS_expanding_the_union -> Expanding the Union
+INS_expanding_the_union_desc -> The people of Northern Borneo have lived in tyranny for too long. We will utilize guerilla warfare in order to force the British to withdraw, allowing Brunei, Sabah, and the Raj of Sarawak to become provinces of Indonesia.
+INS_expanding_the_union_tt -> Unlocks decisions to start a §YLimited War§! for any states we do not yet control on §YBorneo§!.
+INS_dismantle_indonesia -> Dismantle [ROOT.GetName]
+INS_dismantle_indonesia_tt -> §YDismantle the federation§! and choose which state to rule from. The remaining provinces will be set free.
+INS_dismantle_indonesia_desc -> We have tried many government types and they have all ended in instability. The revolution has ended, and the Dutch colonizers have been defeated, we are no longer required to stand together as one united front. We will dismantle the federation altogether, giving the local Sultans free reign to establish their own independent countries.
+INS_all_toward_the_war_effort -> All Toward the War Effort
+INS_all_toward_the_war_effort_desc -> The Malay and [AST.GetAdjective] fronts led by us will dictate the outcome of Malay unity for years to come. We cannot spare any resources, everything must go to the brave soldiers fighting for Malay freedom.
+INS_enact_militarism -> Enact Militarism
+INS_enact_militarism_desc -> We should learn a few lessons from [JAP.GetNameDefCap] and its militarist policies. Adopting similar principles will serve to benefit our new government.
+INS_sukarnos_industrialization -> Empower Javanese Industry
+INS_sukarnos_industrialization_desc -> Java's industries are the backbone of our economy and military. All roads must lead to Rome.
+INS_sukarnos_industrialization2 -> Every Man Must Play His Part
+INS_sukarnos_industrialization2_desc -> The war effort is the number one priority of this nation, and therefore it is the number one priority of every Indonesian to contribute. Luxury is the enemy, the military industrial complex must grow.
+INS_japanese_military_lessons -> Japanese Military Lessons
+INS_japanese_military_lessons_desc -> We should study the military doctrines of Japan and adapt our own army accordingly.
+INS_support_tan_malakas_coup -> Support Tan Malaka's Coup
+INS_support_tan_malakas_coup_desc -> Sukarno proclaimed our independence, but he has proven himself a man of half-measures and diplomatic concessions. Tan Malaka and his Persatuan Perjuangan demand what the people demand: one hundred percent independence, no negotiations, no compromise. If Sukarno will not fight for the revolution in full, then the revolution must find a leader who will.
+INS_minimum_program -> The Minimum Program
+INS_minimum_program_desc -> The Persatuan Perjuangan has laid out its demands: a people's government, a people's army, and the nationalization of all foreign-owned plantations and industry. We need capable men to carry this program forward. Njono speaks for the workers, Setyadjit for the party intellectuals. Together they will see that the revolution is organized from the factory floor to the halls of government.
+INS_agrarian_reform -> Agrarian Reform
+INS_agrarian_reform_desc -> For three centuries the land of Indonesia has fed the plantations of strangers. The peasants who worked it have known little else. A revolution that leaves this unchanged is no revolution at all. We will see the land pass to those who till it.
+INS_soviet_aid -> Soviet Aid
+INS_soviet_aid_desc -> The Soviet Union has recognised our revolution and stands ready to supply it. Whatever differences divide our programme from Moscow's, we cannot afford to refuse what is on offer. We should take the arms and press on.
+INS_pacific_revolution -> The Pacific Revolution
+INS_pacific_revolution_desc -> The colonial powers did not retreat from Asia, only from Indonesia. The old order still holds in places such as Malaya and the Phillipines, and in each of them there are men and women who wish to overturn it. Our revolution has given us both the standing and the obligation to assist them. We must.
+INS_purge_oppurtunists_tt -> Unlocks §Y$INS_launch_revolution$§! in countries with §Y60%§! or more communist support. Countries we instigate revolutions in will become our §Ypuppet§!.
+INS_purge_oppurtunists -> Purge the Opportunists
+INS_purge_oppurtunists_desc -> Musso spent twenty years in Moscow learning to take orders. He returned with Soviet instructions in his pocket and a plan to turn our republic into a puppet of the Comintern. We did not throw off the Dutch only to kneel before another foreign master. The opportunists who would sell our revolution to Moscow must be rooted out, and the peoples we liberate shall look to Jakarta, not to the Kremlin.
+INS_the_maphilindo_speech -> The Maphilindo Speech
+INS_the_maphilindo_speech_desc -> If a Betawi and Banjar person are both Indonesian despite cultural differences through their shared struggle against tyranny, then there is no reason a Malayan and Filipino are not also Indonesian. We must unite these lands as one unified state!
+INS_the_maphilindo_speech_tt -> Allows coring and annexing §YMalay§! subjects
+INS_pan_asian_union -> The Pan-Asian Union
+INS_pan_asian_union_desc -> The pacific revolution is only beginning, and we are not yet safe. We must stand together and cooperate to protect each other from the great powers of the world. Together we are strong.
+INS_federation_of_aslia -> Federation of Aslia
+INS_federation_of_aslia_trigger_tt -> Has completed the decision §Y$form_maphilindo$§!.
+INS_federation_of_aslia_desc -> The nations we have liberated need not stand alone. Tan Malaka always envisioned something greater than one republic. A federation from the mainland to the Pacific, united against any colonial power that dares return. We will offer them full membership in our state." \n  INS_aslia_tt: "Allows coring and annexing §YPacific§! subjects
+INS_pan_economic_area -> The Pan-Asian Economic Area
+INS_pan_economic_area_desc -> Economic cooperation within the union is essential for our shared prosperity. We must facilitate duty-free trade between all member states to reduce our reliance on outside nations.
+INS_pan_economic_area_tt -> All faction members that are a subject of §Y[ROOT.GetNameDef]§!
+INS_musso_ascends -> Musso Ascends
+INS_musso_ascends_tt -> Unlocks §Y$INS_launch_revolution$§! in countries with §Y30%§! or more communist support. Countries we instigate revolutions in will remain independent.
+INS_musso_ascends_desc -> Tan Malaka is a dreamer. Musso brings what dreamers cannot: the full backing of the Soviet Union and the solidarity of the international communist movement. Our revolution need not stand alone.
+INS_utilize_comintern_connections -> Utilize Comintern Connections
+INS_utilize_comintern_connections_desc -> Musso’s connections with high-ranking comintern officials makes the process of joining the comintern easy. We should send him to [SOV.GetNameDef] to negotiate without delay.
+INS_united_against_japan -> United against [JAP.GetNameDef]
+INS_united_against_japan_desc -> While nobody is keen on siding with the Allies, and the scar left by the Dutch is not forgotten, we must temporarily put aside our differences to fight against our mutual enemy, else we risk another overlord taking over [ROOT.GetName].
+INS_revolutionary_economic_cooperation -> Revolutionary Economic Cooperation
+INS_revolutionary_economic_cooperation_desc -> We have saved the lives of many millions who no longer live under tyranny. Now, we must build together. Through cooperation and trade, we can forge strong economies and armies, protecting us from foreign powers for years to come.
+INS_revolutionary_economic_cooperation_tt -> Gains §Y$INS_revolutionary_economic_cooperation_modifier$§! which grants:\n§Y4%§! Stability §Yper Country§! that we have §Ystarted a revolution in§!\n§Y4%§! Construction Speed §Yper Country§! that we have §Ystarted a revolution in§!\n§Y4%§! Political Power Gain §Yper Country§! that we have §Ystarted a revolution in§!\n§Y-4%§! Consumer Goods §Yper Country§! that we have §Ystarted a revolution in§!\n\nCurrently we have started revolutions in §Y[?INS_communist_revolts_succeeded]§! countries.
+INS_soviet_economic_integration -> Soviet Economic Integration
+INS_soviet_economic_integration_desc -> The revolution has given us our freedom, but freedom alone does not build factories or feed the masses. The Soviet Union offers what no capitalist power will: industrial expertise, development credits, and trade on terms that do not come with colonial strings attached. We would be fools to refuse.
+INS_the_three_year_plan -> The Three Year Plan
+INS_the_three_year_plan_desc -> We will declare a three year plan for our economy, which will guide us long-term and reduce time spent on bureaucracy.
+INS_the_three_year_plan_tt -> The §YNational Spirit§! Will improve by §G1%§! every month until reaching it's full potential at §Y26%§!.
+INS_realign_export_markets -> Realign Export Markets
+INS_realign_export_markets_desc -> We must strengthen our global trade relations, reducing our dependency on a few major powers. Instead, we should make many, smaller trades with smaller nations & companies.
+INS_divert_javanese_education_funding_the_east -> Divert Javanese Education Funding East
+INS_divert_javanese_education_funding_the_east_desc -> There is no question that the former colonial overlords invested only in the growth of Java and resource-rich parts of Sumatra, while leaving the rest of the colony to rot. We can right this wrong by taking parts of Java’s education budget and reallocating it to build new schools in the east.
+INS_eastern_universities -> Eastern Universities
+INS_eastern_universities_desc -> By building new universities in the east, higher education will be available to more citizens, and students will be encouraged to move from Java to attend far-away schools, reducing the cultural divide between Java and the rest of [ROOT.GetName].
+INS_eng_treaty_holside_tt -> §Y[ENG.GetNameDefCap]§! will officially declare themselves on our side of the conflict and provide substantial help. If the war ends in victory, §Y[ENG.GetNameDefCap]§! will be entitled to Borneo.
+INS_eng_treaty_engside_tt -> We will officially align ourselves with §Y[HOL.GetNameDefCap]§! in the East Indies conflict. If §Y[HOL.GetNameDefCap]§! wins, we will be entitled to ownership of Borneo.
+INS_fra_treaty_holside_tt -> §Y[FRA.GetNameDefCap]§! will officially declare themselves on our side of the conflict and provide substantial help. If the war ends in victory, §Y[FRA.GetNameDefCap]§! will be entitled to northeastern Sumatra.
+INS_fra_treaty_fraside_tt -> We will officially align ourselves with §Y[HOL.GetNameDefCap]§! in the East Indies conflict. If §Y[HOL.GetNameDefCap]§! wins, we will be entitled to ownership of northeastern Sumatra.
+INS_take_batavia_explination_tt -> If we successfully occupy all of Java, we will destroy the colonial government from the inside and §Gwin the war§!. However, if we do not manage to do so within §Y730 days§!, we will §Rperish§!.
+INS_we_will_need_another_tt -> As we already control all of Java, we will need to control one additional state in addition to Java.
+INS_centralize_the_state -> Centralize the State
+INS_centralize_the_state_desc -> From Sumatra to Sulawesi, from Borneo to Bangka, our development programs have brought roads, factories and institutions to territories that [1058.GetName] once administered in name only. These regions are no longer distant provinces. They are [INS.GetNameDefCap].
+INS_centralize_the_state_1_tt -> Prerequisite states that are §Ycored§!:
+INS_centralize_the_state_2_tt -> Prerequisite states that are §Yuncored§!:
+INS_fate_of_de_javasche_bank -> [INS_fate_of_de_javasche_bank_scripted_name]
+INS_fate_of_de_javasche_bank_scripted_name_colony -> Fate of De Javasche Bank
+INS_fate_of_de_javasche_bank_scripted_name_independent -> Fate of Bank Indonesia
+INS_fate_of_de_javasche_bank_desc -> [INS_fate_of_de_javasche_bank_scripted_desc]
+INS_fate_of_de_javasche_bank_scripted_desc_colony -> The East Indies Guilder has been in freefall since the depression struck, and De Javasche Bank lacks the tools to arrest the decline. We must decide how to stabilize our currency before what remains of investor confidence evaporates entirely.
+INS_fate_of_de_javasche_bank_scripted_desc_independent -> We inherited a currency in crisis. The old colonial Guilder was already faltering, and the transition to the Rupiah has done nothing to steady the markets. Bank Indonesia needs clear direction from the government, or our young economy will suffer for it.
+INS_finish_the_bauxite_project -> Finish the Bangka Project
+INS_finish_the_bauxite_project_desc -> With new roads, ports and railways operational across Bangka-Belitung, survey teams report deposits of tungsten and chromium beyond our initial expectations. These islands will yet prove their full worth to the republic.
+INS_australian_contracts -> Australian Contracts
+INS_australian_contracts_desc -> Our rubber reserves have grown far beyond domestic needs. Australia, ever hungry for raw materials to feed its own industries, presents a natural trading partner. Securing long-term contracts with Australian firms would bring steady revenue and strengthen our position in the regional economy.
+INS_coopereate_with_chinese_businessmen -> Cooperate With the Chinese Businessmen
+INS_coopereate_with_chinese_businessmen_desc -> A wealthy and well-connected merchant class has long facilitated trade across the archipelago. Rather than sideline these established networks, we should work with them. Their capital and commercial expertise could prove invaluable in pulling our economy out of its current malaise.
+INS_oil_decisions_unlock_tt -> Unlocks new §Y$INS_realign_supply_chains_cat$§! decisions to sell §YOil§!.
+INS_negotiate_new_contracts_unlock_tt -> Unlocks new §Y$INS_realign_supply_chains_cat$§! decisions.
+INS_realign_supply_chains_explain_tt -> Unlocks §Y$INS_realign_supply_chains_cat$§! Decisions to sell resources to private companies on a 2-year lease.
+INS_negotiate_new_contracts -> Negotiate New Contracts
+INS_negotiate_new_contracts_desc -> Our growing reputation as a reliable supplier has opened doors that were previously closed to us. New buyers are circling, and we should move quickly to lock them into long-term agreements before our competitors can undercut us.
+INS_all_in_on_rubber -> All in on Rubber
+INS_all_in_on_rubber_desc -> Rubber is our strongest hand, and we intend to play it. Every available acre of plantation land will be turned over to rubber cultivation, and our export apparatus reorganized to move it faster and cheaper than anyone else in the region.
+INS_more_market_resources -> Outsell the Great Depression
+INS_more_market_resources_desc -> The world may be mired in economic crisis, but crisis breeds opportunity for those bold enough to seize it. By flooding the market with our commodities at prices no competitor can match, we will ensure that when the world recovers, Indonesian goods are already on every shelf and in every warehouse.
+INS_recovering_from_the_great_depression -> Recovering From The Great Depression
+INS_recovering_from_the_great_depression_desc -> The Great Depression has had a devastating effect on [INS.GetNameDef]. With our economy being primarily export-based, protectionism around the world has crippled us. As global trade looks poised to open up again, we must seek out new markets, and work to re-establish our old trade routes.
+INS_first_come_first_serve -> First Come, First Serve
+INS_first_come_first_serve_desc -> While the protectionism of the Great Depression is slowing down, increased production and an overvalued guilder has left the Dutch export market in tatters, as our old trading partners in the west have turned to South America to meet their demand. Rather than chasing them down for new trade agreements, we could use this as an opportunity to expand into new markets in Asia.
+INS_oil_export -> Increased Oil Export
+INS_oil_export_desc -> We will improve the oil infrastructure in Sumatra and Kalimantan in order to secure trade deals with our new trading partners.
+INS_increased_trade_with_japan -> Increased Trade With Japan
+INS_increased_trade_with_japan_desc -> [JAP.GetNameDefCap] has been an increasingly valuable trading partner and has not let us down. We should negotiate new trade agreements to further the economic cooperation between our two nations, and help us shake off the vestiges of the Great Depression. This may upset our allies in the West, especially the Netherlands. However, if we ever want a say in our own destiny, we will need to secure our own trade links.
+INS_asian_trade_investments -> Asian Trade Investments
+INS_asian_trade_investments_desc -> The devastation of the Great Depression showed us how overreliant we’ve been on our long-term trade partners in the west. With our economy primarily being export-based, it is crucial now more than ever that we develop and expand new markets in Southeast Asia to ensure our economy will not depend on any individual country.
+INS_asian_trade_investments_tt -> Every §Y420§! days, the resources to market penalty from §YThe Great Depression§! will §GImprove§! by §Y5%§! until the negative modifiers are gone.
+INS_declare_free_trade -> Declare Free Trade
+INS_declare_free_trade_desc -> We should not align ourselves exclusively to one country, we will allow the market to naturally make the best decisions for [INS.GetNameDef].

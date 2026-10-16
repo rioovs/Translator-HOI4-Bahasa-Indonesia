@@ -1,0 +1,434 @@
+[
+  {
+    "key": "news.295.desc",
+    "version": "",
+    "type": "desc",
+    "en": "With the reunification of Austria and Hungary completed, the Hungarian government has gathered international press in Budapest and announced the restoration of the Austro-Hungarian Empire.\\n\\nKing Otto has assumed his rightful title as Emperor of Austria, and has reiterated his vow that, though the Empire is yet but a shadow of its former self, he shall not rest until all Habsburg lands have been reunited. Their neighbors undoubtedly eye the proceedings in Budapest suspiciously."
+  },
+  {
+    "key": "news.296.t",
+    "version": "",
+    "type": "title",
+    "en": "Wilhelm assumes the Hungarian Crown"
+  },
+  {
+    "key": "news.296.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Seeking a King for their nation, the Hungarians, after long negotiations and preparations, officially invited the Swedish Prince Wilhelm, Duke of Södermanland, earlier this week. Today, amidst much fanfare and celebration, he was crowned King of Hungary in a solemn ceremony at the Royal Palace in Budapest.\\n\\nIt is said the new King takes the well-being of his people to heart, and that he strongly supports their democratic rights. Furthermore, he advocates dialog with Hungary's neighbors over hostility. The new King may thus well prove a welcome aid to reducing tensions in the region."
+  },
+  {
+    "key": "news.297.t",
+    "version": "",
+    "type": "title",
+    "en": "Friedrich Franz assumes the Hungarian Crown"
+  },
+  {
+    "key": "news.297.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Seeking a King for their nation, the Hungarians, after long negotiations and preparations, officially invited the German Friedrich Franz, Grand Duke of Mecklenburg-Schwerin, earlier this week. Today, amidst much fanfare and celebration, he was crowned King of Hungary in a solemn ceremony at the Royal Palace in Budapest.\\n\\nA member of the SS since 1931, the new King's ideological leanings are well-known, and he has already declared that he 'will bring Hungary the greatness it deserves, no matter the cost'. Together with the King's promise to 'undo the injustices visited on us in the past', it is therefore unlikely this coronation will result in the easing of tensions in the region."
+  },
+  {
+    "key": "news.298.t",
+    "version": "",
+    "type": "title",
+    "en": "[HUN.GetName] Renounces Treaty of Trianon"
+  },
+  {
+    "key": "news.298.desc",
+    "version": "",
+    "type": "desc",
+    "en": "In a public declaration, [HUN.GetLeader] has renounced the treaty imposed by the Allied powers after the Great War. Signed by the [HUN.GetAdjective]s under protest, in 1920, it greatly reduced the country's size and limited the strength of its military.\\n\\nIn his speech, [HUN.GetLeader] already hinted that Hungary may soon look towards reaffirming their claims on the territories taken from them two decades ago."
+  },
+  {
+    "key": "news.299.t",
+    "version": "",
+    "type": "title",
+    "en": "Hungary Proclaims Greater Hungary"
+  },
+  {
+    "key": "news.299.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Having regained the lands that were taken from them in the Treaty of Trianon, [From.GetLeader] issued a proclamation yesterday evening that the nation shall henceforth be known as Greater Hungary. It is hoped that this will serve to increase Greater Hungary's prestige in the eyes of the world, as well as better describe the extent of its borders."
+  },
+  {
+    "key": "news.300.t",
+    "version": "",
+    "type": "title",
+    "en": "[HUN.GetNameDefCap] Demands Transylvania"
+  },
+  {
+    "key": "news.300.desc",
+    "version": "",
+    "type": "desc",
+    "en": "In an effort to further reverse the Treaty of Trianon, [HUN.GetNameDef] has issued an ultimatum to [ROM.GetNameDef] demanding the return of Transylvania. No official response has yet been made, but [HUN.GetNameDef] has already hinted that force of arms will be considered if their demands are rejected."
+  },
+  {
+    "key": "news.301.t",
+    "version": "",
+    "type": "title",
+    "en": "[ROM.GetNameDefCap] Returns Transylvania"
+  },
+  {
+    "key": "news.301.desc",
+    "version": "",
+    "type": "desc",
+    "en": "[ROM.GetNameDefCap] has announced that it will accept the [HUN.GetAdjective] demands for a return of Transylvania. Accordingly, the territory has now been reunited with the country, greatly increasing its size and strength. It is unlikely that a success of this magnitude will deter the Hungarians from issuing further demands for their remaining lost territories."
+  },
+  {
+    "key": "news.302.t",
+    "version": "",
+    "type": "title",
+    "en": "Romania Rejects [HUN.GetAdjective] Demands"
+  },
+  {
+    "key": "news.302.desc",
+    "version": "",
+    "type": "desc",
+    "en": "The ultimatum's deadline has come and gone without a Romanian reply. Outraged [HUN.GetAdjective] officials have already denounced Romania's government, claiming they are 'destabilizing the region' with their insistence to adhere to 'unlawful treaties'. Both nations seem to be preparing for a war that may well erupt at any day."
+  },
+  {
+    "key": "news.303.t",
+    "version": "",
+    "type": "title",
+    "en": "Hungary Demands Southern Slovakia"
+  },
+  {
+    "key": "news.303.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Following up on their vows to redress the Treaty of Trianon, Hungary has demanded the return of Southern Slovakia from [From.GetName]. The [From.GetAdjective]s have not yet responded, but the threat of war in [HUN.GetAdjective] rhetoric is but all too clear. Rejection may well lead to a new war in the region."
+  },
+  {
+    "key": "news.304.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetName] Returns Southern Slovakia"
+  },
+  {
+    "key": "news.304.desc",
+    "version": "",
+    "type": "desc",
+    "en": "[From.GetName] has officially accepted the [HUN.GetAdjective] demands for a return of Southern Slovakia, and has already taken hurried steps to ensure the territory will be returned to Hungary immediately. It is unlikely that this success will deter the [HUN.GetAdjective]s from issuing further demands for their remaining lost territories."
+  },
+  {
+    "key": "news.305.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.From.GetName] Rejects [HUN.GetAdjective] Demands"
+  },
+  {
+    "key": "news.305.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Diplomatic negotiations have broken down, and today [From.From.GetName] publicly rejected the [HUN.GetAdjective] demands for the return of Southern Slovakia. Outraged [HUN.GetAdjective] officials have already denounced [From.From.GetName]'s government, claiming they are 'destabilizing the region' with their insistence to adhere to 'unlawful treaties'. Both nations seem to be preparing for a war that may well erupt at any day."
+  },
+  {
+    "key": "news.306.t",
+    "version": "",
+    "type": "title",
+    "en": "Hungary Demands the Vojvodina"
+  },
+  {
+    "key": "news.306.desc",
+    "version": "",
+    "type": "desc",
+    "en": "In light of their previous successes in obtaining the return of lost territory, the [HUN.GetAdjective]s have now demanded that Yugoslavia return the Vojvodina. As the Yugoslavs try to find a diplomatic solution, [HUN.GetAdjective] impatience has already become more and more clear, and should the Yugoslavs reject the demands it is unlikely a peaceful solution will be found."
+  },
+  {
+    "key": "news.307.t",
+    "version": "",
+    "type": "title",
+    "en": "Yugoslavia Returns the Vojvodina"
+  },
+  {
+    "key": "news.307.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Yugoslavia has decided to cave to [HUN.GetAdjective] demands, and has arranged for the rapid transfer of the Vojvodina to its neighbor. Though it required ample use of gunboat diplomacy, it is undeniable that Hungary has grown into a new regional powerhouse."
+  },
+  {
+    "key": "news.308.t",
+    "version": "",
+    "type": "title",
+    "en": "Yugoslavia Rejects [HUN.GetAdjective] Demands"
+  },
+  {
+    "key": "news.308.desc",
+    "version": "",
+    "type": "desc",
+    "en": "In a clear act of defiance the Yugoslavs have rejected [HUN.GetAdjective] demands for the Vojvodina. Hungary, on its part, has made no efforts to step down its threats of using force to secure its 'lawful territory'. Both nations seem to be preparing for a war that may well erupt at any day."
+  },
+  {
+    "key": "news.309.t",
+    "version": "",
+    "type": "title",
+    "en": "Hungary Claims Overlordship over Slovakia"
+  },
+  {
+    "key": "news.310.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetName] Caves to Hungary"
+  },
+  {
+    "key": "news.311.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.From.GetName] Rejects [HUN.GetAdjective] Demands"
+  },
+  {
+    "key": "news.312.t",
+    "version": "",
+    "type": "title",
+    "en": "Renewal of the Rome Protocols"
+  },
+  {
+    "key": "news.313.t",
+    "version": "",
+    "type": "title",
+    "en": "Pact of Rome Formed"
+  },
+  {
+    "key": "news.314.t",
+    "version": "",
+    "type": "title",
+    "en": "Horthy Assassinated"
+  },
+  {
+    "key": "news.314.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Reports have emerged from Hungary that Miklos Horthy was shot by a lone gunman today after leaving the Parliament building in Budapest. Though he was immediately rushed to the hospital, doctors announced that he was already deceased by the time he arrived. The gunman, shot by police as he tried to escape the scene, has been identified as a communist party member.\\n\\nThe assassination has caused an uproar in domestic [HUN.GetAdjective] politics, as Horthy's anti-communist leanings were paramount in keeping revolutionary elements at bay. Without the old admiral at the helm of the political scene, it is likely that communist influences will increase dramatically."
+  },
+  {
+    "key": "news.315.t",
+    "version": "",
+    "type": "title",
+    "en": "Austria Denies Referendum"
+  },
+  {
+    "key": "news.315.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Austria has outright rejected the [HUN.GetAdjective] calls for a referendum, despite Hungary's increasing belligerence. The latter has accused the Austrian government of flagrantly disregarding the democratic rights of their people. They have stated that they will not shy away from the use of force to protect the Austrian people's desire to be reunified with their [HUN.GetAdjective] brethren. Both sides have now begun to mobilize, and war seems inevitable."
+  },
+  {
+    "key": "news.316.t",
+    "version": "",
+    "type": "title",
+    "en": "The Polish-Romanian Alliance"
+  },
+  {
+    "key": "news.316.desc",
+    "version": "",
+    "type": "desc",
+    "en": "The Poles and Romanians have announced a renewed commitment to each other's defense. Although good relations have existed between the two nations for well over a decade now, today's announcement indicates that a policy of mutual defense is increasingly dominating military planning both in Poland and in Romania."
+  },
+  {
+    "key": "news.317.t",
+    "version": "",
+    "type": "title",
+    "en": "The Cordon Sanitaire"
+  },
+  {
+    "key": "news.317.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Citing the increasing dangers posed by the ideologies to their east and west, the Romanians have announced the formation of the Cordon Sanitaire. The alliance welcomes all who find themselves strangled by fascism and communism in Eastern Europe, and already some countries are considering to join their forces with Romania."
+  },
+  {
+    "key": "news.318.t",
+    "version": "",
+    "type": "title",
+    "en": "Bulgaria Submits to Romania"
+  },
+  {
+    "key": "news.318.desc",
+    "version": "",
+    "type": "desc",
+    "en": "In response to a Romanian ultimatum, and faced with immediate Romanian military action should they refuse, the Bulgarians have made significant changes to their government to make it more Romania-friendly. Bulgaria has accepted all of their neighbor's demands, and it is unlikely they will refuse further requests. As a result, it can now only be regarded as a Romanian puppet."
+  },
+  {
+    "key": "news.319.t",
+    "version": "",
+    "type": "title",
+    "en": "Bulgaria Rejects Romanian Demands"
+  },
+  {
+    "key": "news.319.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Despite having been issued an ultimatum, and being faced with immediate Romanian military action should they refuse, Bulgaria has rejected the Romanian demands. The latter has refused to back down, and both countries seem on a clear path towards military conflict."
+  },
+  {
+    "key": "news.324.t",
+    "version": "",
+    "type": "title",
+    "en": "Yugoslavia Submits to Romania"
+  },
+  {
+    "key": "news.324.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Faced with Romanian demands for a 'drastically restructuring' of their state, and the threat of military force if they should refuse, Yugoslavia saw no other course of action than to submit. The announced 'restructuring', however, has not only resulted in the partitioning of Yugoslavia in its constituent states, but has also involved the installation of puppet governments.\\n\\nIt is clear that predominantly Romanian interests have been served under the pretense of the right of self-determination, and that Romanian influence in the region is continuing to grow."
+  },
+  {
+    "key": "news.320.t",
+    "version": "",
+    "type": "title",
+    "en": "Yugoslavia Rejects Romanian Demands"
+  },
+  {
+    "key": "news.320.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Despite being faced with Romanian demands for a 'drastically restructuring' of their state, and the threat of military force if they should refuse, Yugoslavia has rejected the ultimatum. Even though ample pressure was exerted on the country from multiple directions, the Yugoslavs are resolved to defend their nation with tooth and nail. Romania has now declared war, and it is not inconceivable that other nations might partake in a partitioning."
+  },
+  {
+    "key": "news.321.t",
+    "version": "",
+    "type": "title",
+    "en": "Yugoslavia Partitioned"
+  },
+  {
+    "key": "news.321.desc",
+    "version": "",
+    "type": "desc",
+    "en": "At Romanian instigation, Yugoslavia has been issued an ultimatum calling for a 'restructuring of their state'. Faced with pressure from multiple neighbors at once, the Yugoslavs have seen no alternative but to accept, and a partitioning of the nation is presently under way."
+  },
+  {
+    "key": "news.322.t",
+    "version": "",
+    "type": "title",
+    "en": "Coup in Romania"
+  },
+  {
+    "key": "news.322.desc",
+    "version": "",
+    "type": "desc",
+    "en": "As dissatisfaction with the country's leadership has risen to dangerous levels in Romania, Prince Michael has now instigated a coup with the aid of substantial elements of the military. Early reports indicate it is successful, and King Michael has already announced he has assumed the role of head of state, intending to give Romania the leadership it requires."
+  },
+  {
+    "key": "news.323.t",
+    "version": "",
+    "type": "title",
+    "en": "King Carol II Abdicates"
+  },
+  {
+    "key": "news.323.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Pressured by powerful elements in his government, King Carol II of Romania saw no choice but to announce and sign his abdication. His successor is King Michael, but many of the dictatorial powers obtained by Carol have been vested back into the government and so it is unlikely the young King will be able to wield similar power as his predecessor.\\n\\nFollowing his abdication Carol appears to have emptied his expansive bank accounts and has fled into exile, taking up residence in one of Mexico City's more expensive neighborhoods with his mistress Magda Lupescu."
+  },
+  {
+    "key": "news.325.t",
+    "version": "",
+    "type": "title",
+    "en": "Yugoslavia Claims Bulgaria"
+  },
+  {
+    "key": "news.325.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Citing the foundations of their nation as a 'union of the South Slav peoples', Yugoslav rhetoric has recently increasingly argued for the Bulgarian people's membership of this union. Now, this propaganda has taken a drastic new turn as Yugoslavia has outright staked their claim to the Bulgarian region. As both nations ready their forces, war may well erupt at any moment."
+  },
+  {
+    "key": "news.326.t",
+    "version": "",
+    "type": "title",
+    "en": "The Banovina of Croatia"
+  },
+  {
+    "key": "news.326.desc",
+    "version": "",
+    "type": "desc",
+    "en": "As a result of continuing and increasing problems with Croatian nationalist elements, the Yugoslav government has been necessitated to grant increased autonomy to the Croatians. A new semi-independent state, the Banovina of Croatia, has been called into being, and though it is still nominally a dependency of Yugoslavia, the government's influence in the region has now been greatly reduced."
+  },
+  {
+    "key": "news.327.t",
+    "version": "",
+    "type": "title",
+    "en": "Yugoslavia Claims Macedonia"
+  },
+  {
+    "key": "news.327.desc",
+    "version": "",
+    "type": "desc",
+    "en": "With the aim of unifying the Macedonian peoples, Yugoslavia has announced that it now considers Central Macedonia an integral part of the Yugoslav nation. To back up their claim, divisions have been poised at the border, and the threat of a new military conflict looms over the region."
+  },
+  {
+    "key": "news.328.t",
+    "version": "",
+    "type": "title",
+    "en": "Yugoslavia Claims Italian Border"
+  },
+  {
+    "key": "news.328.desc",
+    "version": "",
+    "type": "desc",
+    "en": "The Yugoslav government has recently increasingly spoken out against the Italian treatment of Slav minorities in the border regions of Istria and Zara. Today it announced that it considers these regions, taken by Italy after the Great War and predominantly populated by ethnic Slavs, to be an integral part of the Yugoslav nation Furthermore, to safeguard the rights of the inhabitants of these regions, the Yugoslavs have indicated that they will not shy away from use of military force."
+  },
+  {
+    "key": "news.329.t",
+    "version": "",
+    "type": "title",
+    "en": "Yugoslavia Recognizes [SOV.GetNameDef]"
+  },
+  {
+    "key": "news.329.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Yugoslavia, even more stoically than other nations, has for years refused to recognize the communist state that is [SOV.GetNameDef]. With today's announcement that the government of Yugoslavia will henceforth establish official relations with the Soviets, this policy has at last come to an end. Whether this means an opening of the Yugoslav state to communist influence remains to be seen, but the tone of the announcement was surprisingly cordial."
+  },
+  {
+    "key": "news.330.t",
+    "version": "",
+    "type": "title",
+    "en": "The Pan-Slavic Worker's Congress"
+  },
+  {
+    "key": "news.330.desc",
+    "version": "",
+    "type": "desc",
+    "en": "Disagreeing with fundamental aspects of Soviet communism, the Yugoslavs have taken their own approach to the ideology. Rather than be a member of the Comintern, the Yugoslav government has announced that they aim to lead the Southern Slavs in their fight for the rights of the worker. It is likely that they will soon attempt to bring their neighbors into the fold, a move that could seriously upset the balance of power in the region."
+  },
+  {
+    "key": "news.334.t",
+    "version": "",
+    "type": "title",
+    "en": "The Panay Incident"
+  },
+  {
+    "key": "news.334.d",
+    "version": "",
+    "type": "desc",
+    "en": "[USA.GetAdjective] and [ENG.GetAdjective] gunboats were attacked by [JAP.GetAdjective] aircraft in separate actions today, while evacuating Western civilians from the front line in the war between [JAP.GetName] and [CHI.GetName]. Despite being clearly marked as an [USA.GetAdjective] vessel, the USS Panay was hit by two bombs and sunk, with three [USA.GetAdjective] and one [ITA.GetAdjective] citizen killed and others wounded. In a separate attack on HMS Ladybird, one [ENG.GetAdjective] sailor was killed.\\n\\nBoth the [USA.GetAdjective] and [ENG.GetAdjective] Governments have issued strong protests. The incident highlights the increasing tension between the three foremost naval powers."
+  },
+  {
+    "key": "news.335.t",
+    "version": "",
+    "type": "title",
+    "en": "Tensions running high between [USA.GetNameDef] and [JAP.GetName]"
+  },
+  {
+    "key": "news.335.d",
+    "version": "",
+    "type": "desc",
+    "en": "\\nThe recent Panay Incident has spun out of control. Outrage in [USA.GetNameDef] has led to several prominent politicians to demand an immediate reprisal against [JAP.GetNameDef]. [USA.GetAdjective] media has been awash with ever new stories of [JAP.GetAdjective] atrocities, some true, some exaggerated, some entirely made up. With the two great powers on the brink of war, few observers still hold hope that the situation can be stabilized."
+  },
+  {
+    "key": "news.336.title",
+    "version": "",
+    "type": "title",
+    "en": "Remember the Alamo"
+  },
+  {
+    "key": "news.336.desc",
+    "version": "",
+    "type": "desc",
+    "en": "[MEX.GetAdjective] forces have reoccupied Texas after a hundred years of absence. [USA.GetAdjective] troops have been fully cleared from the major cities of Texas, including San Antonio and its famous landmark, the Alamo. Although no fighting took place at the historic site, [MEX.GetLeader] has toured the Catholic mission's premises, holding rallies and speeches encouraging the troops to keep fighting for final victory over the hated 'Yanquis'."
+  }
+]

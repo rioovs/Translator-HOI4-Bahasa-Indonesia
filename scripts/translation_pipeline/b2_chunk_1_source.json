@@ -1,0 +1,422 @@
+[
+  {
+    "key": "news.185.d",
+    "version": "",
+    "type": "desc",
+    "en": "Aiming to redefine the power balance in the Mediterranean, [From.GetName] has been making political overtures towards the creation of a new alliance in the region.\\n\\nLargely military in nature, the [From.GetFactionName] will, in the words of [From.GetLeader], place Italy at the center of a new world power."
+  },
+  {
+    "key": "news.186.t",
+    "version": "",
+    "type": "title",
+    "en": "Italy Lays Claim to Greek Territory"
+  },
+  {
+    "key": "news.186.d",
+    "version": "",
+    "type": "desc",
+    "en": "Citing the Roman Empire as a forerunner to the modern [From.GetAdjective] state, [From.GetName] has claimed that an independent Greek state has no right to exist. Instead, \"the Greek Territories\" must acknowledge Italian supremacy in the Aegean, or have it seized by force.\\n\\n[Greece.GetName] has denounced the claims as ludicrous. However, [From.GetName] has the backing of the [From.GetFactionName]."
+  },
+  {
+    "key": "news.187.t",
+    "version": "",
+    "type": "title",
+    "en": "Italy Seeks Support From [GRE.GetName]"
+  },
+  {
+    "key": "news.187.d",
+    "version": "",
+    "type": "desc",
+    "en": "Citing [GRE.GetName] as the successor of the first ancient European states, [ITA.GetName] claims there exists a natural friendship between their two states.\\nTheir political agenda is obvious, as [ITA.GetName] also sees [GRE.GetName] as a natural member of the [ITA.GetFactionName].\\n\\nAfter a millennia and a half of separation, whether east and west can once again be united remains to be seen."
+  },
+  {
+    "key": "news.188.t",
+    "version": "",
+    "type": "title",
+    "en": "[ITA.GetName] Seeks Reconciliation With [TUR.GetName]"
+  },
+  {
+    "key": "news.188.d",
+    "version": "",
+    "type": "desc",
+    "en": "Despite decades of conflict and diplomatic maneuvering to achieve dominance in the Mediterranean, [ITA.GetName] and [TUR.GetName] are starting to place their disagreements behind them.\\n\\nIn an agreement to cooperate \"for the benefit of the entire Mediterranean Sphere,\" [ITA.GetName] and [TUR.GetName] pledge to ensure closer diplomatic bonds than they have ever had since the modern founding of the two nations."
+  },
+  {
+    "key": "news.189.t",
+    "version": "",
+    "type": "title",
+    "en": "Italy Demands Anatolian Naval Bases"
+  },
+  {
+    "key": "news.189.d",
+    "version": "",
+    "type": "desc",
+    "en": "The 1915 Treaty of London promised Turkish territory in Anatolia for Italy. Other treaties would take precedence, but the promises have not been forgotten by [From.GetAdjective] leadership.\\n\\n[From.GetLeader] has publicly stated that due to the strategic importance of the Anatolian coast, [From.GetName] fully intends to take what \"rightfully belongs to Italy.\""
+  },
+  {
+    "key": "news.190.t",
+    "version": "",
+    "type": "title",
+    "en": "Balearic Islands ceded to [Italy.GetName]"
+  },
+  {
+    "key": "news.190.d",
+    "version": "",
+    "type": "desc",
+    "en": "Following the reliance on [Italy.GetAdjective] forces in the Spanish Civil War, [Italy.GetName] has requested the Balearic Islands from [From.GetName]. [From.GetLeader] has acquiesced, highlighting the diplomatic move as a strengthening of the bonds between the two nations.\\n\\nAs for [Italy.GetName], naval bases in the Balearic Islands will allow them to exert greater influence over the Strait of Gibraltar, and give them better access to the Atlantic."
+  },
+  {
+    "key": "news.192.t",
+    "version": "",
+    "type": "title",
+    "en": "Italy Announces Claims On Yugoslavian Territory"
+  },
+  {
+    "key": "news.192.d",
+    "version": "",
+    "type": "desc",
+    "en": "Speaking to the Italian populations along the Dalmatian coast, [From.GetLeader] has announced that [From.GetName] fully considers Italian-speaking territory in [YUG.GetName] to be a rightful part of [From.GetName]. \\n\\nAn official statement backed up the claims, making it clear that [From.GetName] is prepared to take the territory by force, if need be."
+  },
+  {
+    "key": "news.193.t",
+    "version": "",
+    "type": "title",
+    "en": "Italian Foreign Office in [YUG.GetName]"
+  },
+  {
+    "key": "news.193.d",
+    "version": "",
+    "type": "desc",
+    "en": "Rather than confronting [YUG.GetName] over Italian populations on the Dalmatian coast, [From.GetName] has announced the establishment of a permanent diplomatic mission to [YUG.GetName]. According to a statement from the [From.GetAdjective] foreign ministry, the two countries have so much shared history and so many common interests that mutual understanding is far more important than a petty border dispute.\\n\\nWith tensions rising across Europe, one can only hope more countries take this approach."
+  },
+  {
+    "key": "news.194.t",
+    "version": "",
+    "type": "title",
+    "en": "Eastern Poland Ceded to [From.GetName]"
+  },
+  {
+    "key": "news.194.d",
+    "version": "",
+    "type": "desc",
+    "en": "Through unknown political machinations, the leadership of [Poland.GetName] has ceded their eastern regions to the [From.GetName]. \\n\\nIt is yet unknown as to what promises or threats were made by [From.GetName] to achieve this political victory. We may never know, as [Poland.GetLeader] has yet to say a word beyond the announcement of the agreement."
+  },
+  {
+    "key": "news.195.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetName] Granted Eastern Germany"
+  },
+  {
+    "key": "news.195.d",
+    "version": "",
+    "type": "desc",
+    "en": "Following the [Soviet.GetName] occupation of Germany, [From.GetName] has been given most of Eastern Germany, including the contested territory of Ostpreussen.\\nIt seems this is the result of a secret clause in the Soviet-Polish treaty. Poland is granted German land as compensation for what they were forced to cede to the [Soviet.GetName].\\n\\nPoland played with the highest stakes, and while much was lost, much has now also been gained."
+  },
+  {
+    "key": "news.196.t",
+    "version": "",
+    "type": "title",
+    "en": "The [From.GetName] Encourages Revolutionaries"
+  },
+  {
+    "key": "news.196.d",
+    "version": "",
+    "type": "desc",
+    "en": "In an impassioned speech, [From.GetLeader] has called on communist parties everywhere to hasten the fall of Capitalism by employing more extreme tactics. Fear of persecution must not stop a single man or woman from promoting the struggle of the working classes.\\n\\nThe [From.GetName] will be increasing the funding of foreign communist parties, and educate them in the more extreme tactics required to bring their nations in line with the [From.GetFactionName]."
+  },
+  {
+    "key": "news.197.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetName] Gives in to [Soviet.GetAdjective] Ultimatum"
+  },
+  {
+    "key": "news.197.d",
+    "version": "",
+    "type": "desc",
+    "en": "[From.GetName] has given in to a [Soviet.GetAdjective] ultimatum, and has ceded control over the Aegean Islands to [Soviet.GetName].\\n\\nWith this, the [Soviet.GetName] strengthen their presence in the Mediterranean, and reinforce themselves as a naval force in the region."
+  },
+  {
+    "key": "news.198.t",
+    "version": "",
+    "type": "title",
+    "en": "[From.GetName] Resists [Soviet.GetAdjective] Ultimatum"
+  },
+  {
+    "key": "news.198.d",
+    "version": "",
+    "type": "desc",
+    "en": "[From.GetName] has refused the demands in a [SOV.GetAdjective] ultimatum delivered to them over the Aegean Islands. As the [SOV.GetName] exerts greater and greater influence over the region, [From.GetLeader] has proclaimed that giving them a single island in the Aegean would end with them taking the entire Mediterranean.\\n\\nWith the ultimatum refused, [From.GetName] is on the brink of war, and can only wait for the [SOV.GetNameDef] to pull the trigger."
+  },
+  {
+    "key": "news.199.t",
+    "version": "",
+    "type": "title",
+    "en": "[?SOV.former_controller_of_bessarabia.GetNameDefCap] Cedes Bessarabia to [From.GetNameDef]"
+  },
+  {
+    "key": "news.199.d",
+    "version": "",
+    "type": "desc",
+    "en": "\\n\\n[?SOV.former_controller_of_bessarabia.GetNameDefCap] has been forced to give in to an ultimatum from [From.GetNameDef]. The territories of Bessarabia have been passed to [From.GetAdjective] control, and the [?SOV.former_controller_of_bessarabia.GetAdjective] state is left with its borders diminished.\\n\\nIt remains to be seen how [?SOV.former_controller_of_bessarabia.GetNameDef] will avoid further losses."
+  },
+  {
+    "key": "news.200.t",
+    "version": "",
+    "type": "title",
+    "en": "German Influence in [CZE.GetNameDef]"
+  },
+  {
+    "key": "news.200.d",
+    "version": "",
+    "type": "desc",
+    "en": "Speaking of brotherhood between nations within \"the German Sphere,\" [From.GetLeader] in a speech today announced the [From.GetName]'s dedication to political and diplomatic cooperation with [CZE.GetNameDef]. With significant German-speaking populations, [CZE.GetNameDef] was presented as a natural partner to [From.GetAdjective] interests.\\n\\nWhile it is uncertain how much say [CZE.GetNameDef] has in this cooperation, they can at least rest assured that their borders are safe from [GER.GetNameDef]'s territorial ambitions."
+  },
+  {
+    "key": "news.201.t",
+    "version": "",
+    "type": "title",
+    "en": "[GER.GetNameDefCap] Forces [TUR.GetNameDef] to Submit"
+  },
+  {
+    "key": "news.201.d",
+    "version": "",
+    "type": "desc",
+    "en": "\\nBeing faced by diplomatic and military pressure from the [GER.GetFactionName] to both the east and west, the [TUR.GetAdjective] government has been thrown into political turmoil.\\n\\nFollowing German and Soviet threats, the new government that has emerged from the chaos is far friendlier to the [GER.GetFactionName] than the old. Several eastern territories have already been ceded to [SOV.GetNameDef]. \\n\\nIndeed, certain hastily silenced dissenters have argued that the new government follows [GER.GetLeader]'s every whim."
+  },
+  {
+    "key": "news.202.t",
+    "version": "",
+    "type": "title",
+    "en": "Slovakia For Danzig"
+  },
+  {
+    "key": "news.202.d",
+    "version": "",
+    "type": "desc",
+    "en": "Following months of increasingly aggressive rhetoric, the deteriorating relationship between [GER.GetNameDef] and [POL.GetNameDef] had a reversal of fortunes this evening, with a diplomatic deal intended to settle the Danzig dispute.\\n\\n[POL.GetNameDef] will incorporate the German-controlled Slovakia as a Polish substate, and will in exchange cede the region of Danzig. The status of the Free City of Danzig was quickly settled, and it will soon be fully reincorporated into the German state.\\n\\nWhile the matter seems to have been settled peacefully, the victors of the Great War are sure to have objections."
+  },
+  {
+    "key": "news.203.t",
+    "version": "",
+    "type": "title",
+    "en": "Poland Cedes Danzig"
+  },
+  {
+    "key": "news.203.d",
+    "version": "",
+    "type": "desc",
+    "en": "Following the presentation of a [GER.GetAdjective] ultimatum to [From.GetNameDef], [From.GetLeader] and the [From.GetAdjective] government have decided to comply with every demand rather than face war.\\n\\nIt is their hope that with the loss of Danzig, [From.GetNameDef] will be safe from further German territorial ambitions. The situation remains tense, however, and it is telling that Polish border forces have not yet received the order to stand down"
+  },
+  {
+    "key": "news.204.t",
+    "version": "",
+    "type": "title",
+    "en": "Poland Refuses German Ultimatum"
+  },
+  {
+    "key": "news.204.d",
+    "version": "",
+    "type": "desc",
+    "en": "Considering the demands, it seemed inevitable. \\n\\n[From.GetNameDef] would be forced to cede Danzig to Germany, and a Polish plenipotentiary would be sent to Berlin to negotiate further terms. [From.GetLeader] pointed to [GER.GetNameDef]'s recent actions when stating that it was obvious Germany would not be satisfied with Danzig alone.\\n\\nGerman and Polish forces are prepared for war, and reports are already coming in of clashes on the border. Once again there is war in Europe."
+  },
+  {
+    "key": "news.205.t",
+    "version": "",
+    "type": "title",
+    "en": "The Pax Americana"
+  },
+  {
+    "key": "news.205.d_america",
+    "version": "",
+    "type": "desc",
+    "en": "Looking to the conflicts on the other continents, [USA.GetLeader] has announced a new foreign policy program, intended to keep the peace at home.\\n\\nAny government on the American continent may appeal to the United States for military protection, should they feel threatened by their neighbors. While not a guarantee of any particular state the desire for peace in America is no longer just a dream, but official American policy."
+  },
+  {
+    "key": "news.205.d_not_america",
+    "version": "",
+    "type": "desc",
+    "en": "Looking to the conflicts on the other continents, [USA.GetLeader] has announced a new foreign policy program, intended to keep the peace at home.\\nAny government on the American continent may appeal to the United States for military protection, should they feel threatened by their neighbors. While not a guarantee of any particular state the desire for peace in America is no longer just a dream, but official American policy"
+  },
+  {
+    "key": "news.206.t",
+    "version": "",
+    "type": "title",
+    "en": "American Anti-Imperialism"
+  },
+  {
+    "key": "news.206.d_communist",
+    "version": "",
+    "type": "desc",
+    "en": "Following the spread of the worker's revolution to the United States, their rhetoric against the old order has turned far more aggressive. Now [USA.GetLeader] is questioning the status of Canada as a subject state to the British Empire, while American diplomats are espousing a world free of aristocracy and overlordship across the world.\\n\\nDespite the bonds tying them together, tensions between [USA.GetNameDef] and the colonial empire of [ENG.GetNameDef] are rising. It is simply a matter of time before this diplomatic conflict escalates and revolution is brought to [ENG.GetNameDef] by force."
+  },
+  {
+    "key": "news.206.d_not_communist",
+    "version": "",
+    "type": "desc",
+    "en": "The new communist regime in the United States has adopted a new doctrine of [USA.GetAdjective] foreign policy, taking a far more aggressive stance towards former allies and friends alike, while moving closer to the members of the Communist International.\\nThis policy change includes questioning the status of [CAN.GetName] as a subject nation, and the general practice of what they term \"Worldwide British imperialism.\"\\n\\nWith tensions rising, the threat of a new British-American conflict seems far too real."
+  },
+  {
+    "key": "news.207.t",
+    "version": "",
+    "type": "title",
+    "en": "[USA.GetNameDefCap] Denounces the Comintern"
+  },
+  {
+    "key": "news.207.d_fascism",
+    "version": "",
+    "type": "desc",
+    "en": "\\nIn response to increasingly aggressive rhetoric from [SOV.GetNameDef], [USA.GetLeader] has spoken back against what he calls \"the greatest danger to human civilization, communism.\"\\n\\nNot only will [USA.GetNameDef] be pursuing protective policies to prevent the spread of world socialism in the Americas, but aims to destroy the heart of communism itself.\\n\\nWith the power of the [USA.GetAdjective] war machine, the utter removal of all communism seems - for the first time - entirely possible."
+  },
+  {
+    "key": "news.207.d_not_fascism",
+    "version": "",
+    "type": "desc",
+    "en": "[USA.GetLeader] today held a public speech against what he named \"the greatest danger to human civilization,\" communism.\\n\\nNot only will [USA.GetNameDef] be pursuing protective policies to prevent the spread of world socialism in the Americas, but the [USA.GetAdjective] explicitly aims to destroy the heart of communism itself.\\n\\nWith tensions at an all-time high, a single spark is all that is needed to trigger the fires of war between [SOV.GetNameDef] and [USA.GetNameDef]."
+  },
+  {
+    "key": "news.208.t",
+    "version": "",
+    "type": "title",
+    "en": "The Japanese Army Embraces Nanshin-ron"
+  },
+  {
+    "key": "news.208.d",
+    "version": "",
+    "type": "desc",
+    "en": "The armed forces of Japan have long acknowledged that [JAP.GetName] does not possess the natural resources needed for a prolonged war effort. With rising tensions and outbreaks of armed conflict involving the world's major powers, the threat of loss of import seems greater by the day.\\nTo counter this, Japanese strategists have come up with a strategic plan to seize Western colonies in Southeast Asia and the Pacific. These resource-rich regions will fuel the Japanese war machine and allow it to continue more or less unhindered, as long as the colonial powers and the [USA.GetName] can be kept at bay."
+  },
+  {
+    "key": "news.209.t",
+    "version": "",
+    "type": "title",
+    "en": "The Japanese Army Embraces Hokushin-ron"
+  },
+  {
+    "key": "news.209.d",
+    "version": "",
+    "type": "desc",
+    "en": "The armed forces of Japan have long acknowledged that [JAP.GetNameDef] does not possess the natural resources needed for a prolonged war effort. With rising tensions and outbreaks of armed conflict involving the world's major powers, the threat of loss of import seems greater by the day.\\nTo counter this, Japanese strategists have come up with a strategic plan to seize Siberian mines and oil fields from [SOV.GetNameDef]. It is theorized that a speedy advance will enable Japan to take control of key territory before a proper [SOV.GetAdjective] counterattack can be mounted. By then the Japanese army will have all the resources it needs to keep the flames of war burning until the [SOV.GetAdjective] capitulation."
+  },
+  {
+    "key": "news.210.t",
+    "version": "",
+    "type": "title",
+    "en": "Japan Replaces Government in China"
+  },
+  {
+    "key": "news.210.d",
+    "version": "",
+    "type": "desc",
+    "en": "Following decades of political instability in China, coupled with armed conflict both internally and externally, the Japanese government has announced that it considers the Chinese government a threat to the stability of its sphere of interest.\\n\\nIt is on this basis that - under the threat of war - a new government has been placed in charge, loyal to Japan and subject to the Japanese Emperor. This new government not only has the protection of the Japanese army, but a military mandate to retake the Chinese warlord states.\\n\\nWhile political conflict is certain to rage on, outright war between the two countries has been averted."
+  },
+  {
+    "key": "news.211.t",
+    "version": "",
+    "type": "title",
+    "en": "Japan Claims Hegemony in East Asia"
+  },
+  {
+    "key": "news.211.d",
+    "version": "",
+    "type": "desc",
+    "en": "Considering their military supremacy unchallenged in East Asia, [JAP.GetLeader] has announced that [JAP.GetNameDef] considers the entire region as their sphere of interest. Without accurate information about the extent of Japan's capacity for power projection, it is still unclear exactly what [JAP.GetNameDef] considers a rightful part of the recently established [JAP.GetFactionName]."
+  },
+  {
+    "key": "news.212.t",
+    "version": "",
+    "type": "title",
+    "en": "Japanese Diplomats in Berlin"
+  },
+  {
+    "key": "news.212.d_not_axis",
+    "version": "",
+    "type": "desc",
+    "en": "A new partnership is developing between Tokyo and Berlin. Negotiations have begun for a pact between the two states, citing both strategic interests and shared values. While it remains to be seen what, if anything, comes from these negotiations, the prospect of a friendship between some of the strongest military forces on each hemisphere is a cause to worry for their many enemies."
+  },
+  {
+    "key": "news.212.d_axis",
+    "version": "",
+    "type": "desc",
+    "en": "A new partnership is developing between Tokyo and Berlin. Negotiations have begun for a pact between the two states, citing both strategic interests and shared values. While it remains to be seen what, if anything, comes from these negotiations, the prospect of a friendship between some of the strongest military forces on each hemisphere is a cause for celebration for their allies, and a cause to worry for their many enemies."
+  },
+  {
+    "key": "news.213.t",
+    "version": "",
+    "type": "title",
+    "en": "[USA.GetNameDefCap] Stands Against Fascism"
+  },
+  {
+    "key": "news.213.d_peace",
+    "version": "",
+    "type": "desc",
+    "en": "As the Land of the Free, [USA.GetNameDef] considers itself the natural enemy of fascism in all its forms across the world. With the aggression of the German regime, they are at present the greatest enemy of a world built on the liberal principles [USA.GetNameDef] adhere to.\\n\\nWith this in mind, and the approval of the [USA.GetAdjective] Congress, [USA.GetLeader] has issued a warning to the [GER.GetNameDef]. Unless [GER.GetNameDef] reverses their political course, [USA.GetNameDef] will take action against them.\\n\\nWhile no course of action was specified, the implied threat of war lies heavy between the two countries."
+  },
+  {
+    "key": "news.213.d_war",
+    "version": "",
+    "type": "desc",
+    "en": "As the Land of the Free, [USA.GetNameDef] considers itself the natural enemy of fascism in all its forms across the world. With the aggression of the German regime, they are at present the greatest enemy of a world built on the liberal principles [USA.GetNameDef] adhere to.\\n\\nWith this in mind, and the approval of the [USA.GetAdjective] Congress, [USA.GetLeader] has issued a warning to [GER.GetNameDef]. Unless [GER.GetNameDef] capitulates and reverses political course, [USA.GetNameDef] will bring all their industrial and military might against them.\\n\"We will not allow [GER.GetNameDef] to divert the progress of history!\""
+  },
+  {
+    "key": "news.214.t",
+    "version": "",
+    "type": "title",
+    "en": "Poland Seeks Baltic Cooperation"
+  },
+  {
+    "key": "news.214.d_not_baltic",
+    "version": "",
+    "type": "desc",
+    "en": "\"There is no outcome for us that does not risk yet more oppression of the Polish people.\"\\n\\nFollowing [POL.GetName]'s distancing from the international community, Polish politicians have been pursuing the idea of a power \"between the seas.\"\\n\\nWhile the hope is to create an alliance stretching from the Baltic to the Black Sea, their stated priority remains to reinforce their position against threatening influences to both the east and the west. To this end, [POL.GetName] is seeking closer bonds with their neighbors in the Baltic."
+  },
+  {
+    "key": "news.214.d_baltic",
+    "version": "",
+    "type": "desc",
+    "en": "[POL.GetName] has been gradually distancing itself from the international community, well-aware that they can not rely on the politicking of the \"great powers\" to prevent aggressors from once again bringing down the Polish state.\\n\\nInstead, [POL.GetLeader] has presented plans for an alliance to reinforce the Baltic region, that will hopefully deter aggression from either east or west.\\n\\nWith the deterioration of European stability, such an alliance might be in our best interest."
+  },
+  {
+    "key": "news.215.t",
+    "version": "",
+    "type": "title",
+    "en": "[GER.GetName] Formalises Anti-Soviet Pact"
+  },
+  {
+    "key": "news.215.d_not_soviet",
+    "version": "",
+    "type": "desc",
+    "en": "[GER.GetNameDefCap] has long condemned communism in all forms, and has made diplomatic motions to demand other nations oppose it as well.\\n\\nNow, the [GER.GetName] has offered \"states under immediate threat from communism\" a chance to form a pact against the [SOU.GetName]. Any country in the pact will be committed to fighting a war against the [SOU.GetName], should there come a time when a member is attacked."
+  },
+  {
+    "key": "news.215.d_soviet",
+    "version": "",
+    "type": "desc",
+    "en": "[GER.GetLeader] has been a vocal opponent of communism since before he came to power, and there has never been any doubt that [GER.GetNameDef] considers itself an enemy of [SOU.GetNameDef].\\n\\nToday, that attitude has been announced to the world, as the previously held \"Anti-Soviet Agreement\" between [GER.GetNameDef] and several other countries now has been formalised into a pact. The other members will be called to war should one of them end up in a conflict against us."
+  },
+  {
+    "key": "news.216.t",
+    "version": "",
+    "type": "title",
+    "en": "[TUR.GetName] Resists Ultimatum From [GER.GetName]."
+  },
+  {
+    "key": "news.216.d",
+    "version": "",
+    "type": "desc",
+    "en": "Diplomats from the [GER.GetName] handed [TUR.GetName] an ultimatum yesterday, which demanded [TUR.GetLeader] step down in favor of a German-backed government. With the backing of the Grand National Assembly, [TUR.GetLeader] rejected the ultimatum, announcing to the [TUR.GetAdjective] people that Turkey would never be the pawn in a foreign dictator's war games.\\n\\nNow the country braces itself for war."
+  },
+  {
+    "key": "news.217.t",
+    "version": "",
+    "type": "title",
+    "en": "[GER.GetNameDefCap] Drives [TUR.GetNameDef] to Join the [ENG.GetFactionName]"
+  },
+  {
+    "key": "news.217.d",
+    "version": "",
+    "type": "desc",
+    "en": "\\n\\nIn delivering an ultimatum to the [TUR.GetAdjective] government, [GER.GetNameDef] has created a new enemy for itself. Rather than cave to the demands from [GER.GetAdjective] diplomats as [GER.GetLeader] expected, [TUR.GetNameDef] has agreed to a defensive alliance with [ENG.GetNameDef].\\n\\n[ENG.GetNameDef] and her allies prepare to defend [TUR.GetNameDef] in case [GER.GetNameDef] acts on its ultimatum."
+  }
+]

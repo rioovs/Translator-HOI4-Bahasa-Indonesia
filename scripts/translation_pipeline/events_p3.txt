@@ -1,0 +1,230 @@
+000: INS_revolution_events.1.t | [HOL.GetNameDefCap] moves to crush the Republic
+001: INS_revolution_events.1.desc | As expected, the Dutch government has reacted to our demand for independence by sending soldiers to [1058.GetName] and distributing anti-republican propaganda through the media.
+002: INS_revolution_events.1.a | We must act fast.
+003: INS_revolution_events.2.t | [HOL.GetNameDefCap] requests additional help
+004: INS_revolution_events.2.desc | [HOL.GetLeader] has called an emergency meeting with our leaders, requesting that we provide further help in the reconquest of the Indies, to the extent of directly joining the conflict. [HOL.GetLeader] stated that the situation is dire, and Dutch forces are unable to push back the revolutionary militias. [HOL.GetLeader] promises that if we help them, we will be given Borneo as payment.
+005: INS_revolution_events.2.a | We'll do it for Borneo.
+006: INS_revolution_events.2.b | We are not interested.
+007: INS_revolution_events.3.t | [ENG.GetNameDefCap] agrees to the London-Batavia Accord
+008: INS_revolution_events.3.desc | [ENG.GetNameDefCap] has agreed to directly join the conflict, sending several divisions to fight in Batavia. While we will have to give up Borneo, this moves the odds heavily in our favor.
+009: INS_revolution_events.3.a | Borneo will be a necessary sacrifice.
+010: INS_revolution_events.4.t | [ENG.GetNameDefCap] rejects the London-Batavia Accord
+011: INS_revolution_events.4.desc | [ENG.GetNameDefCap] has refused any further help in the conflict, despite the urgency and reward offered. [ENG.GetLeader] stated that while it is in their best interest that we preserve our colonial empire, the risk of global escalation following their involvement is too high, and that we will need to handle this ourselves.
+012: INS_revolution_events.4.a | This is not looking good.
+013: INS_revolution_events.5.t | [HOL.GetNameDefCap] requests our help
+014: INS_revolution_events.5.desc | Revolutionaries in the Dutch East Indies have declared independence from [HOL.GetNameDef] and occupied major cities. [HOL.GetLeader] has reached out to us with urgency, requesting that we help them militarily while they prepare an invasion.
+015: INS_revolution_events.5.a | If the revolutionaries succeed, citizens in our colonies may be inspired to do the same.
+016: INS_revolution_events.5.b | We are not interested.
+017: INS_revolution_events.6.t | [ENG.GetNameDefCap] agrees to help us
+018: INS_revolution_events.6.desc | [ENG.GetNameDefCap] has agreed to send volunteer troops and equipment to [1058.GetName] to help us take back control over the Indies.
+019: INS_revolution_events.6.a | This will be easy.
+020: INS_revolution_events.7.t | [ENG.GetNameDefCap] refuses to help us
+021: INS_revolution_events.7.desc | [ENG.GetNameDefCap] has refused to help us reassert control over the Indies, insisting that the Indies is not their concern, despite their proximity to the conflict. We will have to rearm the KNIL on our own.
+022: INS_revolution_events.7.a | This is unacceptable!
+023: INS_revolution_events.8.t | Revolutionary militias plotting in the Indies
+024: INS_revolution_events.8.desc | Our Colonial Police in the East Indies have arrested and questioned several members of a rising revolutionary movement in Indonesia. It appears they are trying to establish a military presence in order to prepare for launching a national independence campaign. We do not know for sure yet, but they may be plotting an armed revolution.
+025: INS_revolution_events.8.a | We must watch closely.
+026: INS_revolution_events.9.t | Indonesian Declaration of Independence
+027: INS_revolution_events.9.desc | A Speech was given today in Java by [INS.GetLeader], declaring independence of the newly founded Republic of Indonesia. While we do not recognize this new republic, their militias have occupied territory and our police are failing to govern these areas. If we do not take this situation seriously, it may turn into all-out warfare.
+028: INS_revolution_events.9.a | Unacceptable!
+029: INS_revolution_events.9.b | This isn't worth the energy, if they want independence so bad, then so be it.
+030: INS_revolution_events.11.t | Indies Military Forces successfully stop Militia Campaign
+031: INS_revolution_events.11.desc | A team of Republican militias have launched a military operation to occupy [?event_target:INS_temp_occupied_state.GetName]. Our brave soldiers in the Indies successfully managed to push the militia forces out, and we maintain full control over the region.
+032: INS_revolution_events.11.a | Another victory for [HOL.GetNameDef].
+033: INS_revolution_events.12.t | Militias attempt to occupy [?event_target:INS_temp_occupied_state.GetName]
+034: INS_revolution_events.12.desc | A team of Republican militias have launched a military operation to occupy [?event_target:INS_temp_occupied_state.GetName]. Our police and soldiers eventually managed to contain the situation, but the situation has sparked dissent within [?event_target:INS_temp_occupied_state.GetName], with many civilians supporting the militias and publicly speaking against the [HOL.GetAdjective] government.
+035: INS_revolution_events.12.a | We cannot let this escalate.
+036: INS_revolution_events.14.t | Militias occupy [?event_target:INS_temp_occupied_state.GetName]
+037: INS_revolution_events.14.desc | Despite the best efforts of our Colonial Police and Soldiers, Republican militias have successfully launched a military operation to occupy [?event_target:INS_temp_occupied_state.GetName]. Our police and soldiers have had to evacuate and have declared a state of failure to govern the region due to Militia resistance. If we let the militias continue to push us around, we risk losing our great Colony forever.
+038: INS_revolution_events.14.a | This is outrageous!
+039: INS_revolution_no_effect_tt | No effects
+040: INS_revolution_events.19.t | Peace Negotiations in the Indies
+041: INS_revolution_events.19.desc | [HOL.GetLeader] has been called to a meeting with [INS.GetLeader] in order to discuss a potential peace agreement. [INS.GetLeader] has stated that far too many lives have been lost, and has proposed a two-state-solution where borders will be kept as they are now, with slight adjustments, and for fighting to stop permanently.
+042: INS_revolution_events.19.a | We must agree. Too many lives have already been lost.
+043: INS_revolution_events.19.b | If you want peace so badly then you can surrender!
+044: INS_revolution_events.20.t | [HOL.GetNameDefCap] agrees to the two state solution!
+045: INS_revolution_events.20.desc | [INS.GetLeader] has returned from his meeting with [HOL.GetLeader] with good news. A two state solution has been agreed on by both sides, and we will begin moving our troops in accordance with the new borders immediately. While nobody is happy that we had to leave our fellow Indonesians behind, the decision to end the fighting is ultimately for the best.
+046: INS_revolution_events.20.a | The bloodshed will finally end.
+047: INS_revolution_events.21.t | [HOL.GetNameDefCap] refuses to stop fighting
+048: INS_revolution_events.21.desc | [INS.GetLeader]’s meeting with [HOL.GetLeader] did not go to plan, with both parties getting visibly angry and refusing to compromise, causing the meeting to be cut short.
+049: INS_revolution_events.21.a | How many more lives must be lost?
+050: INS_revolution_events.22.t | [HOL.GetNameDefCap] requests our help
+051: INS_revolution_events.22.desc | [HOL.GetLeader] has called for a meeting with [FRA.GetLeader] in Amsterdam to discuss the ongoing situation in the Indies. During the meeting, [HOL.GetLeader] explained how the revolutionaries have begun arming militias at a pace the Dutch army cannot match, and that [HOL.GetNameDef] is at risk of losing their colonial hegemony. [HOL.GetLeader.GetHeShe] has requested that we formally join the conflict on the Dutch side, and send divisions to Batavia to help reconquer the Indies. In exchange, we will be entitled to northeastern Sumatra once order is restored.
+052: INS_revolution_events.22.a | While helping will be expensive, Sumatra might just make it worth it.
+053: INS_revolution_events.22.b | This is asking too much of us.
+054: INS_revolution_events.23.t | [FRA.GetNameDefCap] agrees to help us!
+055: INS_revolution_events.23.desc | [FRA.GetNameDefCap] has agreed to our call for help, and has sent many French divisions to Batavia to help us immediately.
+056: INS_revolution_events.23.a | The odds are now in our favor.
+057: INS_revolution_events.24.t | [FRA.GetNameDefCap] refuses to help.
+058: INS_revolution_events.24.desc | [FRA.GetNameDefCap] has refused to help us with the revolution, despite the urgency. We must begin to rearm rapidly, or else we will soon be outnumbered.
+059: INS_revolution_events.24.a | This is not looking good.
+060: INS_revolution_events.25.t | The end of the war in Indonesia
+061: INS_revolution_events.25.desc | [HOL.GetAdjective] forces have destroyed the major militia bases and toppled the Republican government. Republican elite and commanders have been arrested, and the Indies government is reestablishing their operations in former-republic territory. As promised for our contributions, the agreed upon territory has been given to us.
+062: INS_revolution_events.25.a | Wonderful!
+063: INS_revolution_events.26.t | The end of the war in Indonesia
+064: INS_revolution_events.26.desc | [HOL.GetAdjective] forces and Republican militias have been fighting for much longer than either side anticipated, and [HOL.GetLeader] has agreed to sign a peace agreement which imposes a two-state-solution. However, as we still held up our end of the agreement, [HOL.GetLeader] has confirmed we will still be given the territory which we were promised.
+065: INS_revolution_events.26.a | An interesting development.
+066: INS_revolution_events.27.t | The end of the war in Indonesia
+067: INS_revolution_events.27.desc | [HOL.GetAdjective] forces and Republican militias have been fighting for much longer than either side anticipated, and despite the efforts of [HOL.GetNameDef] and our own military involvement, the sheer number of militia forces and the guerilla nature of their army has made the conflict reach a stalemate heavily in the Republican favor. Thus, [HOL.GetLeader] announced today that [HOL.GetLeader.GetHeShe] has signed a peace-agreement with the Republic imposing a two state solution in the Republican favor. What is left of the Indies is a shell of its former glory. [HOL.GetLeader] stated that as the conflict ended in a loss, he will be unable to give us the promised territory for our military contributions.
+068: INS_revolution_events.27.a | This is insanity!
+069: INS_revolution_events.28.t | The fall of the Indies
+070: INS_revolution_events.28.desc | Despite the heavy military spending done by [HOL.GetNameDef], and our own direct contributions to the conflict, the sheer number of militias in the Indies have managed to overwhelm our forces, and have occupied all major cities, toppling the Dutch administration and forcing a surrender.
+071: INS_revolution_events.28.a | But we were promised territory!
+072: INS_revolution_events.29.t | The fall of the Indies
+073: INS_revolution_events.29.desc | Despite our best efforts, the revolutionaries in the Indies have taken control of our major cities and have destroyed the colonial government from within. Our generals have been captured and our communications lines have been cut. We have no choice but to accept our defeat.
+074: INS_revolution_events.29.a | This is a tragedy.
+075: INS_revolution_events.30.t | [INS.GetLeader] proposes local ceasefire agreement
+076: INS_revolution_events.30.desc | [INS.GetLeader] has proposed a local ceasefire in [FROM.GetName], promising to withdraw his troops from [FROM.GetName] if we agree, allowing our troops to reassert control over the region. However, this is on the condition that we delay our major military operations temporarily, giving the revolutionaries time to plan.
+077: INS_revolution_events.30.a | We will agree to this.
+078: INS_revolution_events.30.b | We refuse, we will take [FROM.GetName] back by force!
+079: INS_revolution_events.31.t | [HOL.GetNameDefCap] agrees to ceasefire in [FROM.GetName]
+080: INS_revolution_events.31.desc | The ceasefire negotiations have gone well, with [HOL.GetLeader] agreeing to our terms. We have ordered the militia commanders in [FROM.GetName] to withdraw their forces immediately.
+081: INS_revolution_events.31.a | Hopefully they hold up their end of the agreement.
+082: INS_revolution_events.32.t | [HOL.GetNameDefCap] refuses a ceasefire
+083: INS_revolution_events.32.desc | The ceasefire negotiations did not go as planned, and [HOL.GetLeader] refused to sign the agreement and cut negotiations short before a compromise could be found.
+084: INS_revolution_events.32.a | This is unacceptable!
+085: INS_revolution_events.33.t | [INS.GetNameDefCap] Requests Mediation
+086: INS_revolution_events.33.desc | The Indonesian republicans have formally requested our assistance in brokering a settlement with the Dutch. Our advisors in the region report that the situation is deteriorating rapidly, and that continued Dutch military operations risk driving the nationalists into the arms of the Soviets. The Netherlands is a valued ally in Europe, but we cannot ignore the political realities in Southeast Asia. If Indonesia falls to communism because we stood idle, it will be our failure.
+087: INS_revolution_events.33.a | Dispatch the mediators.
+088: INS_revolution_events.33.b | We cannot risk our relationship with the Dutch.
+089: INS_revolution_events.34.t | [FROM.GetNameDefCap] Agrees to Mediate
+090: INS_revolution_events.34.desc | Washington has agreed to mediate between our government and the Dutch. American envoys are en route, and a formal ceasefire will be proposed. This is an enormous opportunity. With the world's foremost power backing negotiations, the Dutch will find it far more difficult to stall or resort to force. We must hold firm at the table and let the Americans do what they do best.
+091: INS_revolution_events.34.a | Let us hope the Dutch see reason.
+092: INS_revolution_events.35.t | [USA.GetNameDefCap] Announces Mediation
+093: INS_revolution_events.35.desc | The Americans have inserted themselves into the Indonesian question. Washington claims to be acting as a neutral mediator, but the implications are clear. If we cannot resolve this conflict to their satisfaction, they will use their considerable leverage against us. Our negotiators must tread carefully. American goodwill is not something we can afford to squander.
+094: INS_revolution_events.35.a | We will settle this on our own terms.
+095: INS_revolution_events.36.t | [FROM.GetNameDefCap] Declines to Intervene
+096: INS_revolution_events.36.desc | The Americans have refused our request for mediation. Washington has chosen to stand with their European allies rather than support our struggle for self-determination. We are on our own. This is a bitter blow, but the revolution did not begin because we expected foreign powers to hand us our freedom.
+097: INS_revolution_events.36.a | We will win this war without them.
+098: INS_revolution_events.37.t | [USA.GetNameDefCap] Issues Ultimatum
+099: INS_revolution_events.37.desc | The Americans have lost patience. Washington has delivered an ultimatum demanding the immediate cessation of all military operations in Indonesia and the recognition of Indonesian sovereignty. The threat is barely veiled. Our standing in the international community will not survive a public break with the Americans, and our economy cannot absorb the consequences. Our generals insist the campaign can still be won, but at what cost?
+100: INS_revolution_events.37.a | We have no choice but to comply.
+101: INS_revolution_events.37.b | Indonesia is ours. We will not yield.
+102: INS_revolution_events.38.t | The Dutch Concede
+103: INS_revolution_events.38.desc | It is over. The Dutch government has accepted the American ultimatum and recognized our sovereignty. Three hundred and fifty years of colonial rule, ended not on the battlefield alone, but at the negotiating table with the weight of the world's greatest power behind our cause. The republic is ours, truly and completely, at last.
+104: INS_revolution_events.38.a | Merdeka!
+105: INS_revolution_events.39.t | The Dutch Refuse
+106: INS_revolution_events.39.desc | Against all expectations, the Dutch have rejected the American ultimatum. Their generals must believe they can win this war before Washington acts. They are wrong. With the Americans now openly committed to our cause, the balance of power has shifted decisively. Let them come. We are no longer fighting alone.
+107: INS_revolution_events.39.a | The world stands with us.
+108: INS_revolution_events.40.t | The Dutch Accept Our Terms
+109: INS_revolution_events.40.desc | The Hague has accepted our ultimatum. Dutch forces in Indonesia will stand down, and sovereignty will be transferred to the Indonesian republic. It is a satisfactory conclusion to an unfortunate episode. Our interests in the region are now far better served by a stable, independent Indonesia than by propping up a colonial enterprise the Dutch could no longer sustain.
+110: INS_revolution_events.40.a | A sensible outcome.
+111: INS_revolution_events.41.t | The Dutch Defy Us
+112: INS_revolution_events.41.desc | The Hague has rejected our ultimatum outright. Dutch forces in Indonesia continue their operations in open defiance of American demands. This is an extraordinary miscalculation. The Netherlands cannot prosecute a colonial war in Asia and depend on American aid in Europe at the same time. They have forced our hand.
+113: INS_revolution_events.41.a | So be it.
+114: INS_revolution_events.42.t | A Final Throw of the Dice
+115: INS_revolution_events.42.desc | Reports from our intelligence services in Batavia describe an enemy preperation unlike anything we have ever seen from the Republicans. It appears they are preparing a destabilization operation to storm Java and destroy all of our communications infrastructure, effectively guaranteeing their victory. However, this operation is extremely risky, and requires them moving nearly all of their resources toward it. Our generals estimate they are only able to hold this position for around two years, and cannot easily back out of it. If we hold them back for long enough, we will be able to crush their government and revolution like an overripe tomato.
+116: INS_revolution_events.42.a | Thus begins the final battle.
+117: INS_revolution_events.43.t | Militia Base in [FROM.GetName] has been established
+118: INS_revolution_events.43.desc | Our efforts in [FROM.GetName] have been successful, and our local militia leaders have confirmed they are prepared to act when it is time.
+119: INS_revolution_events.43.a | We must continue our efforts.
+120: INS_loyalist_events.1.t | [INS.GetLeader] requests a transfer of Henri Winkelman
+121: INS_loyalist_events.1.desc | [INS.GetLeader] has contacted us concerning the ongoing conflicts around the world and the dangerous position [INS.GetNameDef] finds itself in. [INS.GetLeader] has proposed that Henri Winkelman, former Commander of the Royal Netherlands East Indies Army be formally transferred back to [INS.GetNameDef], in order to ensure the security of the colony.
+122: INS_loyalist_events.1.a | We will arrange for his immediate transfer.
+123: INS_loyalist_events.1.b | Henri Winkelman is needed in the homeland.
+124: INS_loyalist_events.2.t | [HOL.GetLeader] agrees to transfer Henri Winkelman.
+125: INS_loyalist_events.2.desc | [INS.GetLeader] has returned from [HOL.GetNameDef] where he met with [HOL.GetLeader]. The meeting went well, with [HOL.GetLeader] acknowledging the situation and agreeing to Winkelman's immediate transfer. Henri Winkelman is on his way to [1058.GetName] where he will await our orders.
+126: INS_loyalist_events.2.a | This will be very helpful.
+127: INS_loyalist_events.3.t | [HOL.GetLeader] refuses to transfer Henri Winkelman
+128: INS_loyalist_events.3.desc | [INS.GetLeader] has returned from [HOL.GetNameDef] where he met with [HOL.GetLeader]. Unfortunately, Henri Winkelman will not be sent to the Indies, and we will have to defend ourselves without him.
+129: INS_loyalist_events.3.a | We must figure out a new plan at haste.
+130: INS_loyalist_events.4.t | [FROM.GetNameDefCap] Proposes Unification
+131: INS_loyalist_events.4.desc | An [FROM.GetAdjective] delegation has arrived in [ROOT.Capital.GetCapitalVictoryPointName] with a proposal for unification. They point to the shared Malay heritage of our peoples and note that the boundaries between our nations were established by European colonial administrators, not by the peoples who inhabit these lands. The proposal would see both governments dissolved and reformed as a single state.
+132: INS_loyalist_events.4.a | We accept the proposal.
+133: INS_loyalist_events.4.b | We must decline.
+134: INS_loyalist_events.5.t | [FROM.GetNameDefCap] Accepts Unification
+135: INS_loyalist_events.5.desc | Our diplomats have returned from [FROM.Capital.GetCapitalVictoryPointName] with excellent news. The [FROM.GetAdjective] government has accepted our proposal, and their officials are already making arrangements for the integration of their territories into our administration.
+136: INS_loyalist_events.5.a | Together, we are stronger!
+137: INS_loyalist_events.6.t | [FROM.GetNameDefCap] Rejects Unification
+138: INS_loyalist_events.6.desc | Our diplomats have returned from [FROM.Capital.GetCapitalVictoryPointName] empty-handed. The [FROM.GetAdjective] government was unwilling to entertain the proposal. Few reasons were given, and our delegation was sent home with little more than polite formalities.
+139: INS_loyalist_events.6.a | Their loss.
+140: INS_loyalist_events.7.t | [FROM.GetNameDefCap] Demands Referendum in [MAL.GetName]
+141: INS_loyalist_events.7.desc | [FROM.GetNameDefCap] has formally requested that we permit a referendum in [MAL.GetName] on the question of unification with their state. Their ambassador was forthright about the likely outcome, stating that the Malay people on both sides of the border consider themselves one nation. Permitting the vote would almost certainly mean losing [MAL.GetName].
+142: INS_loyalist_events.7.a | Let the people decide.
+143: INS_loyalist_events.7.b | We will not allow it.
+144: INS_loyalist_events.8.t | [FROM.GetNameDefCap] Approves Unification Referendum
+145: INS_loyalist_events.8.desc | Our overlord has granted [FROM.FROM.GetNameDef] permission to hold a referendum in our country. [FROM.FROM.GetAdjective] campaigners have arrived in force, and balloting is to begin within the month. The question put to our people is a simple one. Do we wish to join [FROM.FROM.GetNameDef], or do we wish to remain as we are?
+146: INS_loyalist_events.8.a | We will join them.
+147: INS_loyalist_events.8.b | We would rather stay.
+148: INS_loyalist_events.9.t | [FROM.GetNameDefCap] Votes Against Unification
+149: INS_loyalist_events.9.desc | The referendum in [FROM.GetName] has concluded. The [FROM.GetAdjective] people have voted to remain under our administration. The [FROM.FROM.GetAdjective] campaigners have departed.
+150: INS_loyalist_events.9.a | As expected.
+151: INS_loyalist_events.10.t | [FROM.GetNameDefCap] Votes for Unification
+152: INS_loyalist_events.10.desc | The referendum in [FROM.GetName] has concluded with a decisive vote in favour of unification with [FROM.FROM.GetNameDef]. Our administrators in the region report that the result was expected. We are obligated to honour it.
+153: INS_loyalist_events.10.a | We gave our word.
+154: INS_loyalist_events.11.t | Malayan Referendum Succeeds
+155: INS_loyalist_events.11.desc | The people of [MAL.GetName] have voted to join our nation. [MAL.GetAdjective] officials are cooperating with our administration to begin the transfer of authority. There will be one fewer border on the map of the Malay world.
+156: INS_loyalist_events.11.a | Welcome home.
+157: INS_loyalist_events.12.t | Malayan Unification Rejected
+158: INS_loyalist_events.12.desc | Our proposal for unification with [MAL.GetName] has been turned down. The [MAL.GetAdjective] government, or those above them, have decided against it. We shall have to revisit the matter at a more opportune time.
+159: INS_loyalist_events.12.a | We will not forget this.
+160: INS_loyalist_events.13.t | [FROM.GetNameDefCap] Proposes Compromise Over Singapore
+161: INS_loyalist_events.13.desc | The [FROM.GetAdjective] government has approached us with a proposal regarding Singapore. They request sovereignty over the island, citing its place within the Malay world. In return, they are prepared to guarantee our continued access to the port, its military installations, and all resource extraction rights currently in effect.
+162: INS_loyalist_events.13.a | A fair arrangement.
+163: INS_loyalist_events.13.b | Singapore is not for sale.
+164: INS_loyalist_events.14.t | Singapore Compromise Accepted
+165: INS_loyalist_events.14.desc | The deal has been accepted. Singapore will be transferred to our control, while the former controllers retain their commercial and military access to the port. Our flag now flies over one of the most important harbours in Asia.
+166: INS_loyalist_events.14.a | The straits are ours.
+167: INS_loyalist_events.15.t | Singapore Compromise Rejected
+168: INS_loyalist_events.15.desc | Our proposal has been refused. The controllers of Singapore are unwilling to part with the island under any terms. We offered them everything short of continued sovereignty, and it was not enough.
+169: INS_loyalist_events.15.a | So be it.
+170: INS_loyalist_events.16.t | [FROM.GetNameDefCap] Requests Transfer of Ceylon
+171: INS_loyalist_events.16.desc | The [FROM.GetAdjective] government has made a formal request for the transfer of Ceylon. Their diplomats cite long-standing trade and ethnic connections between the island and the Malay world. The claim is tenuous, to be frank, but [FROM.GetNameDef] has grown powerful enough that such requests must be given serious consideration.
+172: INS_loyalist_events.16.a | Very well, let them have it.
+173: INS_loyalist_events.16.b | Ceylon will remain under our control.
+174: INS_loyalist_events.17.t | Ceylon Transferred
+175: INS_loyalist_events.17.desc | The transfer of Ceylon is complete. Our administration has begun moving officials to the island, and the handover has proceeded without incident. We now hold a position on both sides of the strait.
+176: INS_loyalist_events.17.a | Excellent.
+177: INS_loyalist_events.18.t | Ceylon Request Denied
+178: INS_loyalist_events.18.desc | Our request for the transfer of Ceylon has been denied. The current controllers have no intention of parting with the island, and our diplomats report that further discussion on the matter would be fruitless.
+179: INS_loyalist_events.18.a | Another time, perhaps.
+180: INS_loyalist_events.19.t | [FROM.GetNameDefCap] Demands Referendum in Papua
+181: INS_loyalist_events.19.desc | [FROM.GetNameDefCap] has demanded that we permit a referendum in eastern Papua. On the [FROM.GetAdjective] side of the border, there are new roads running through the jungle, clinics staffed with government doctors, and schools teaching in the local languages. On ours, the last governor visited Port Moresby twice in three years. The [FROM.GetAdjective] ambassador did not need to say much more than that.
+182: INS_loyalist_events.19.a | Let them hold their vote.
+183: INS_loyalist_events.19.b | We will not permit this.
+184: INS_loyalist_events.20.t | Papua Referendum Approved
+185: INS_loyalist_events.20.desc | The Australians agreed to hold the referendum. Every district in eastern Papua returned the same result. Our investment in the western half of the island spoke louder than any campaign poster could have.
+186: INS_loyalist_events.20.a | The island is whole at last.
+187: INS_loyalist_events.21.t | Papua Referendum Denied
+188: INS_loyalist_events.21.desc | The Australians refused. Their governor in Port Moresby issued a statement calling the request an affront to Australian sovereignty. The Papuan people themselves were not consulted.
+189: INS_loyalist_events.21.a | We will remember this.
+190: INS_loyalist_events.22.t | [FROM.GetNameDefCap] Demands Eastern Timor
+191: INS_loyalist_events.22.desc | The [FROM.GetAdjective] government has issued a formal demand for the surrender of Eastern Timor. Their ambassador noted that our garrison there numbers fewer than two hundred men and that Lisbon has allocated almost nothing to the territory in years. He then asked what exactly we think we are holding onto.
+192: INS_loyalist_events.22.a | It is not worth fighting over.
+193: INS_loyalist_events.22.b | Timor is ours and will remain so.
+194: INS_loyalist_events.23.t | Eastern Timor Surrendered
+195: INS_loyalist_events.23.desc | The controllers of Eastern Timor have begun withdrawing their garrison and packing up the colonial administration. The entire island will soon be under [INS.GetAdjective] authority.
+196: INS_loyalist_events.23.a | As it should be.
+197: INS_loyalist_events.24.t | Eastern Timor Demand Refused
+198: INS_loyalist_events.24.desc | The colonial governor in Dili has personally written to reject our demand, insisting that Eastern Timor remains sovereign territory of his government. Our general staff has drawn up contingency plans should the cabinet wish to pursue the matter further.
+199: INS_loyalist_events.24.a | Begin preparations.
+200: INS_loyalist_events.25.t | [FROM.GetNameDefCap] Proposes Unification
+201: INS_loyalist_events.25.desc | An [FROM.GetAdjective] delegation has arrived with a proposal for the unification of our two republics. They argue that our peoples share common Austronesian roots far older than the colonial boundaries that separate us, and that a single state spanning the archipelago would be the foremost power in Southeast Asia. Accepting would mean dissolving our government and integrating into theirs.
+202: INS_loyalist_events.25.a | We accept.
+203: INS_loyalist_events.25.b | We fought too hard for this republic.
+204: INS_loyalist_events.26.t | [FROM.GetNameDefCap] Accepts Unification
+205: INS_loyalist_events.26.desc | The [FROM.GetAdjective] government has accepted our proposal. Their officials are already coordinating with ours to begin the process of integration. From Aceh to Luzon, from Borneo to Mindanao, our nation now spans the full breadth of the Malay archipelago.
+206: INS_loyalist_events.26.a | A new era begins.
+207: INS_loyalist_events.27.t | [FROM.GetNameDefCap] Rejects Unification
+208: INS_loyalist_events.27.desc | The [FROM.GetAdjective] government has declined. Their own struggle for independence is too recent, and too costly, for them to surrender their sovereignty to another state. The proposal has been shelved.
+209: INS_loyalist_events.27.a | A shame.
+210: INS_loyalist_events.28.t | [FROM.GetNameDefCap] Requests Referendum in [PHI.GetName]
+211: INS_loyalist_events.28.desc | [FROM.GetNameDefCap] has formally requested that we permit a referendum in [PHI.GetName] on the question of unification. Their diplomats stress the shared Austronesian ancestry of both peoples and the artificial nature of the colonial borders separating them. If the vote goes ahead, the result is likely to favour [FROM.GetNameDef].
+212: INS_loyalist_events.28.a | The people should have their say.
+213: INS_loyalist_events.28.b | Out of the question.
+214: INS_loyalist_events.29.t | Unification Referendum Approved
+215: INS_loyalist_events.29.desc | [FROM.FROM.GetNameDefCap] has proposed the unification of our two nations on the basis of shared Austronesian heritage. Our overlord has granted them permission to hold a referendum on the matter, and [FROM.FROM.GetAdjective] campaigners have already begun arriving. The result will determine whether our republic joins [FROM.FROM.GetNameDef] or continues under its current arrangements.
+216: INS_loyalist_events.29.a | This is an interesting proposal.
+217: INS_loyalist_events.29.b | Absolutely not.
+218: INS_loyalist_events.30.t | [FROM.GetNameDefCap] Votes Against Unification
+219: INS_loyalist_events.30.desc | The ballot boxes have been counted and the [FROM.FROM.GetAdjective] campaigners sent packing. The [FROM.GetAdjective] people voted to stay. Independence, it seems, still means something in [FROM.Capital.GetCapitalVictoryPointName].
+220: INS_loyalist_events.30.a | That is the end of it.
+221: INS_loyalist_events.31.t | [FROM.GetNameDefCap] Votes for Unification
+222: INS_loyalist_events.31.desc | The ballot boxes have been counted. The [FROM.GetAdjective] people have chosen [FROM.FROM.GetNameDef] over us, and the margin was not close. Our administrators are already receiving instructions to begin the handover.
+223: INS_loyalist_events.31.a | The people have spoken.
+224: INS_loyalist_events.32.t | [PHI.GetNameDefCap] Votes to Unify
+225: INS_loyalist_events.32.desc | The [PHI.GetAdjective] referendum has concluded in our favour. Their government has accepted the result and initiated contact with our foreign ministry to arrange the transfer of authority.
+226: INS_loyalist_events.32.a | Together at last.
+227: INS_loyalist_events.33.t | [PHI.GetNameDefCap] Refuses Unification
+228: INS_loyalist_events.33.desc | The [PHI.GetAdjective] government has declined our proposal for unification. Their parliament voted it down without so much as a second reading. We offered them a place in the greatest nation in Southeast Asia, and they spat on it.
+229: INS_loyalist_events.33.a | A setback, nothing more.

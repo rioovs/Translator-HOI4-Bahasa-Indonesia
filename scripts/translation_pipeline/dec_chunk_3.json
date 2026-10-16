@@ -1,0 +1,352 @@
+[
+  {
+    "line_num": 186,
+    "key": "decision_cost_faction_influence_10_PP_75_tooltip",
+    "ver": "",
+    "val": "It costs £GFX_influence_texticon  §Y10%§! §YFaction Influence§! and £pol_power  §Y75§! to take the decision",
+    "comm": ""
+  },
+  {
+    "line_num": 187,
+    "key": "decision_cost_faction_influence_5_PP_25",
+    "ver": "",
+    "val": "£GFX_influence_texticon  §Y5%§! £pol_power  §Y25§!",
+    "comm": ""
+  },
+  {
+    "line_num": 188,
+    "key": "decision_cost_faction_influence_5_PP_25_blocked",
+    "ver": "",
+    "val": "£GFX_influence_texticon  §R5%§! £pol_power  §R25§!",
+    "comm": ""
+  },
+  {
+    "line_num": 189,
+    "key": "decision_cost_faction_influence_5_PP_25_tooltip",
+    "ver": "",
+    "val": "It costs £GFX_influence_texticon  §Y5%§! §YFaction Influence§! and £pol_power  §Y25§! to take the decision",
+    "comm": ""
+  },
+  {
+    "line_num": 191,
+    "key": "decision_cost_PP_50_MP_2500_ie_2500",
+    "ver": "",
+    "val": "£infantry_equipment_text_icon  §Y2500§!\\n£pol_power  §Y50§!£manpower_texticon  §Y2500§!",
+    "comm": ""
+  },
+  {
+    "line_num": 192,
+    "key": "decision_cost_PP_50_MP_2500_ie_2500_blocked",
+    "ver": "",
+    "val": "£infantry_equipment_text_icon  §Y2500§!\\n£pol_power  §Y50§!£manpower_texticon  §Y2500§!",
+    "comm": ""
+  },
+  {
+    "line_num": 193,
+    "key": "decision_cost_PP_50_MP_2500_ie_2500_tooltip",
+    "ver": "",
+    "val": "It costs £infantry_equipment_text_icon  §Y2500§!, £pol_power  §Y50§!, and £manpower_texticon  §Y2500§! to take the decision",
+    "comm": ""
+  },
+  {
+    "line_num": 195,
+    "key": "decision_cost_PP_50_MP_5000_ie_1500",
+    "ver": "",
+    "val": "£infantry_equipment_text_icon  §Y1500§!\\n£pol_power  §Y50§!£manpower_texticon  §Y5000§!",
+    "comm": ""
+  },
+  {
+    "line_num": 196,
+    "key": "decision_cost_PP_50_MP_5000_ie_1500_blocked",
+    "ver": "",
+    "val": "£infantry_equipment_text_icon  §Y1500§!\\n£pol_power  §Y50§!£manpower_texticon  §Y5000§!",
+    "comm": ""
+  },
+  {
+    "line_num": 197,
+    "key": "decision_cost_PP_50_MP_5000_ie_1500_tooltip",
+    "ver": "",
+    "val": "It costs £infantry_equipment_text_icon  §Y1500§!, £pol_power  §Y50§!, and £manpower_texticon  §Y5000§! to take the decision",
+    "comm": ""
+  },
+  {
+    "line_num": 199,
+    "key": "RAJ_population_decisions",
+    "ver": "",
+    "val": "Rural Industrialization",
+    "comm": ""
+  },
+  {
+    "line_num": 200,
+    "key": "RAJ_industrialize_state",
+    "ver": "",
+    "val": "Industrialize [FROM.GetName]",
+    "comm": ""
+  },
+  {
+    "line_num": 201,
+    "key": "RAJ_industrialize_state_desc",
+    "ver": "",
+    "val": "Our nation is once again on the rise. Although the task is great, bringing rural areas into the modern era is sure to pay dividends in the future.",
+    "comm": ""
+  },
+  {
+    "line_num": 202,
+    "key": "RAJ_industrialized_this_state",
+    "ver": "",
+    "val": "§HRural areas already industrialized§!",
+    "comm": ""
+  },
+  {
+    "line_num": 203,
+    "key": "RAJ_reduce_agrarian_society_value_tooltip",
+    "ver": "",
+    "val": "\\n§H$RAJ_agrarian_society$§!\\nRecruitable Population Factor: [?RAJ_agrarian_society_increment|+=%]\\n",
+    "comm": ""
+  },
+  {
+    "line_num": 204,
+    "key": "RAJ_industrialize_state_goe",
+    "ver": "",
+    "val": "$RAJ_industrialize_state$",
+    "comm": ""
+  },
+  {
+    "line_num": 205,
+    "key": "RAJ_industrialize_state_goe_desc",
+    "ver": "",
+    "val": "$RAJ_industrialize_state_desc$",
+    "comm": ""
+  },
+  {
+    "line_num": 206,
+    "key": "war_propaganda_radio_industry",
+    "ver": "",
+    "val": "Radio Propaganda",
+    "comm": ""
+  },
+  {
+    "line_num": 207,
+    "key": "war_propaganda_radio_industry_desc",
+    "ver": "",
+    "val": "Technology has developed to a point where a significant proportion of our population has access to a home radio. State sponsored media is the perfect tool for stoking the war effort in the hearts of our people.",
+    "comm": ""
+  },
+  {
+    "line_num": 208,
+    "key": "war_propaganda_film_industry",
+    "ver": "",
+    "val": "[ROOT.GetImportOrDomesticFilmIndustry]",
+    "comm": ""
+  },
+  {
+    "line_num": 209,
+    "key": "war_propaganda_film_industry_desc",
+    "ver": "",
+    "val": "[ROOT.GetImportOrDomesticFilmIndustryDesc]",
+    "comm": ""
+  },
+  {
+    "line_num": 210,
+    "key": "DOMESTIC_FILM_INDUSTRY",
+    "ver": "",
+    "val": "Utilize Domestic Film Industry",
+    "comm": ""
+  },
+  {
+    "line_num": 211,
+    "key": "IMPORTED_FILM_INDUSTRY",
+    "ver": "",
+    "val": "Import Propaganda Films",
+    "comm": ""
+  },
+  {
+    "line_num": 212,
+    "key": "DOMESTIC_FILM_INDUSTRY_DESC",
+    "ver": "",
+    "val": "The [ROOT.GetAdjective] film industry has developed significantly in the last decade. With a population starved for entertainment, we stand to benefit from a cinematic production designed to stir patriotic sentiment.",
+    "comm": ""
+  },
+  {
+    "line_num": 213,
+    "key": "IMPORTED_FILM_INDUSTRY_DESC",
+    "ver": "",
+    "val": "Our benefactors and allies are making strategic use of propaganda films. With a little investment, we could screen these productions around our own country in order to stir the war effort amongst our people.",
+    "comm": ""
+  },
+  {
+    "line_num": 215,
+    "key": "the_lion_has_wings",
+    "ver": "",
+    "val": "The Lion Has Wings",
+    "comm": ""
+  },
+  {
+    "line_num": 216,
+    "key": "the_battle_of_london",
+    "ver": "",
+    "val": "The Battle of London",
+    "comm": ""
+  },
+  {
+    "line_num": 217,
+    "key": "queens_messengers",
+    "ver": "",
+    "val": "Queen's Messengers",
+    "comm": ""
+  },
+  {
+    "line_num": 218,
+    "key": "in_which_we_serve",
+    "ver": "",
+    "val": "In Which We Serve",
+    "comm": ""
+  },
+  {
+    "line_num": 219,
+    "key": "the_volunteer",
+    "ver": "",
+    "val": "The Volunteer",
+    "comm": ""
+  },
+  {
+    "line_num": 220,
+    "key": "fires_were_started",
+    "ver": "",
+    "val": "Fires Were Started",
+    "comm": ""
+  },
+  {
+    "line_num": 222,
+    "key": "men_of_timor",
+    "ver": "",
+    "val": "Men of Timor",
+    "comm": ""
+  },
+  {
+    "line_num": 223,
+    "key": "soldiers_without_uniform",
+    "ver": "",
+    "val": "Soldiers Without Uniform",
+    "comm": ""
+  },
+  {
+    "line_num": 224,
+    "key": "mid_east",
+    "ver": "",
+    "val": "Mid East",
+    "comm": ""
+  },
+  {
+    "line_num": 226,
+    "key": "atlantic_patrol",
+    "ver": "",
+    "val": "Atlantic Patrol",
+    "comm": ""
+  },
+  {
+    "line_num": 227,
+    "key": "front_of_steel",
+    "ver": "",
+    "val": "Front of Steel",
+    "comm": ""
+  },
+  {
+    "line_num": 228,
+    "key": "home_front",
+    "ver": "",
+    "val": "Home Front",
+    "comm": ""
+  },
+  {
+    "line_num": 229,
+    "key": "wings_of_youth",
+    "ver": "",
+    "val": "Wings of Youth",
+    "comm": ""
+  },
+  {
+    "line_num": 230,
+    "key": "all_out_for_war",
+    "ver": "",
+    "val": "All Out for War",
+    "comm": ""
+  },
+  {
+    "line_num": 231,
+    "key": "banshees_over_canada",
+    "ver": "",
+    "val": "Banshees Over Canada",
+    "comm": ""
+  },
+  {
+    "line_num": 233,
+    "key": "the_planes_of_hindustan",
+    "ver": "",
+    "val": "The Planes of Hindustan",
+    "comm": ""
+  },
+  {
+    "line_num": 234,
+    "key": "road_to_victory",
+    "ver": "",
+    "val": "Road to Victory",
+    "comm": ""
+  },
+  {
+    "line_num": 235,
+    "key": "hes_in_the_navy",
+    "ver": "",
+    "val": "He's in the Navy",
+    "comm": ""
+  },
+  {
+    "line_num": 236,
+    "key": "in_self_defence",
+    "ver": "",
+    "val": "In Self Defence",
+    "comm": ""
+  },
+  {
+    "line_num": 238,
+    "key": "women_in_defense",
+    "ver": "",
+    "val": "Women in Defense",
+    "comm": ""
+  },
+  {
+    "line_num": 239,
+    "key": "winning_your_wings",
+    "ver": "",
+    "val": "Winning Your Wings",
+    "comm": ""
+  },
+  {
+    "line_num": 240,
+    "key": "the_world_at_war",
+    "ver": "",
+    "val": "The World at War",
+    "comm": ""
+  },
+  {
+    "line_num": 241,
+    "key": "mission_accomplished",
+    "ver": "",
+    "val": "Mission Accomplished",
+    "comm": ""
+  },
+  {
+    "line_num": 242,
+    "key": "the_fleet_that_came_to_stay",
+    "ver": "",
+    "val": "The Fleet That Came to Stay",
+    "comm": ""
+  },
+  {
+    "line_num": 243,
+    "key": "fury_in_the_pacific",
+    "ver": "",
+    "val": "Fury in the Pacific",
+    "comm": ""
+  }
+]

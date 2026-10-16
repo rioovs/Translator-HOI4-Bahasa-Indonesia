@@ -1,0 +1,341 @@
+000: available_focus_tt | §GAvailable§! focus(es):\n
+001: INSHOL_the_declaration_of_independence | The National Revolution
+002: INSHOL_dutch_east_indies | Dutch East Indies
+003: INSHOL_dutch_east_indies_desc | The colony was founded nearly 500 years ago, and has taken many shapes since then. The world is changing quickly, and our actions now will dictate the future of Dutch-Indonesian relations far into the future.
+004: INSHOL_the_war_in_europe | The War in Europe
+005: INSHOL_the_war_in_europe_desc | The conflict in Europe is rapidly escalating, and the Netherlands is now at war. We can no longer rely on them to protect us and must stand our ground, or else we risk being overtaken by foreign powers.
+006: INSHOL_military_equipment_contracts | Military Equipment Contracts
+007: INSHOL_military_equipment_contracts_desc | The Indies is a vast archipelago with tens of millions of citizens. We are far from having the Industrial capacity necessary to defend ourselves. However, we have enough resources to secure trade all across the world. By securing contracts with Democracies across the world, our problem can be solved.
+008: INSHOL_hawk_75a7 | The Hawk 75a-7
+009: INSHOL_hawk_75a7_desc | The American Hawk 75A-7 fighter is the perfect plane for the Indies, affordable and powerful. We can secure a deal with the manufacturer in order to make the much needed improvements to our Air Force.
+010: INSHOL_purchase_american_tanks | Purchase American Tanks
+011: INSHOL_purchase_american_tanks_desc | While the Indies lacks the industry needed for Tank Manufacturing, we can purchase them directly from the United States funded by the Indies rubber industry.
+012: INSHOL_purchase_british_artillery | Purchase British Artillery
+013: INSHOL_purchase_british_artillery_desc | We can outsource our Artillery manufacturing to the United Kingdom, allowing us to prioritize other equipment.
+014: INSHOL_produce_own_goods | Produce Our Own Goods
+015: INSHOL_produce_own_goods_desc | While we have plenty of lucrative trade deals we can secure, we must not forget about our own production lines and military industrial companies. We should subsidize said companies so that we can decrease our dependence on foreign imports.
+016: INSHOL_east_indies_investments | East Indies Investments
+017: INSHOL_east_indies_investments_desc | A good overlord is one that invests in the development of her Colonies. Investing into the economic development of the Indies is in our best interest, and beneficial for the citizens of the Colony.
+018: INSHOL_east_indies_student_exchange | East Indies Student Exchange Program
+019: INSHOL_east_indies_student_exchange_desc | Creating a system where Indonesians can move to the Netherlands to study in our Universities can be a significant boon to the economy of the Netherlands and Indies alike.
+020: INSHOL_east_indies_fokker_division | Form an East Indies Fokker Division
+021: INSHOL_east_indies_fokker_division_desc | Fokker is being licensed by the Indies Air Force enough to where it is worth considering creating a dedicated subsidiary prioritizing the Indies Air Force.
+022: INSHOL_expand_shell | Expand Shell's Infrastructure
+023: INSHOL_expand_shell_desc | Shell is gradually becoming a larger part of our economy. It is clear we must expand the oil infrastructure in the Indies to keep up with Shell's export capacity.
+024: INSHOL_increase_funding_for_tix | Increase Funding for the T.IX Airplane Project
+025: INSHOL_increase_funding_for_tix_desc | Engineers at Fokker are developing a new twin-engine bomber to replace the obsolete models used by the Indies Air Force. This project has a very low budget, and is likely to not be completed for a very long time. We can increase their funding to greatly speed up progress.
+026: INSHOL_reduce_land_ownership_taxes | Reduce Land Ownership Taxes
+027: INSHOL_reduce_land_ownership_taxes_desc | We should reduce the tax placed on Indonesian citizens that own land, encouraging the development of farms and businesses.
+028: INSHOL_coffee_plantations | Coffee Plantations
+029: INSHOL_coffee_plantations_desc | We should focus on obtaining more state-owned land in the eastern islands. We can use this land to build Coffee plantations.
+030: INSHOL_overallwagen | Overvalwagen
+031: INSHOL_overallwagen_desc | Tanks are not necessarily the solution for the East Indies Army. We lack the industrial strength necessary to produce them, and the harsh terrain renders them niche. We could invest in building Armored Cars for Indonesia to fill the gap.
+032: INSHOL_indonesian_cheap_labor | Indonesian Cheap Labor
+033: INSHOL_indonesian_cheap_labor_desc | $CONGO_cheap_labor_desc$" #LL: stealing this to save time, hope you don't mind!
+  INSHOL_eastern_development_fund: "Development Fund for the Eastern Islands
+034: INSHOL_eastern_development_fund_desc | We focus too much on investments into Java and Sumatra, ignoring most of the Colonies land. We must commit to developing infrastructure in the East to allow for future industrialization.
+035: INSHOL_increase_rubber_taxes | Increase Rubber Taxes
+036: INSHOL_increase_rubber_taxes_desc | Many rubber companies in the Indies are acquiring great wealth using the resources of the Colony. It is only fair we put a hefty tax on these operations.
+037: INSHOL_reform_knil | Reform the KNIL
+038: INSHOL_reform_knil_desc | Since the East Indies completed its conquest of the entire archipelago, the Royal Netherlands East Indies Army has remained immobile and has a severe lack of funding. With rising tensions worldwide, we must begin rearming the Indies sooner rather than later.
+039: INSHOL_fund_ml_knil | Fund the ML-KNIL
+040: INSHOL_fund_ml_knil_desc | If we want to keep up with the armies of the world, we must build a proper air force of our own, otherwise we will be at a significant disadvantage.
+041: INSHOL_bandung_aircraft_facility_tt | §YWest Java:§!\n    Add §G1§! Building Slots and §G1§! §YMilitary Factory§! per prerequisite focus completed.
+042: INSHOL_rangers | Rangers
+043: INSHOL_rangers_desc | The Indies is a vast archipelago with a diverse environment. We should train Rangers adapted to combat in these harsh environments, to ensure we are ready to defend them.
+044: INSHOL_mountaineers | Mountaineers
+045: INSHOL_mountaineers_desc | We should train Mountaineers that are prepared to fight in the hostile terrain of our archipelago.
+046: INSHOL_elevate_elite_infantry | Depot Speciale Troepen
+047: INSHOL_elevate_elite_infantry_desc | We cannot rely on great war strategies forever, we must adapt to new technologies and ensure we do not fall behind. We should establish several elite infantry divisions that are ready to defend all sorts of environments.
+048: INSHOL_modernize_knil | Modernize the KNIL
+049: INSHOL_modernize_knil_desc | We will study new strategies and doctrines for the East Indies Army, ensuring we maintain an advantage on the enemy.
+050: INSHOL_transfer_of_henri_winkelman | Transfer of Henri Winkelman
+051: INSHOL_transfer_of_henri_winkelman_desc | Henri Winkelman previously served in the KNIL for many years. It is clear he is needed in the Indies once more, and we should arrange for his formal transfer to the East Indies.
+052: INSHOL_eastern_conscription | Raise the Auxiliary Corps
+053: INSHOL_eastern_conscription_desc | There are several indigenous auxiliary corps on Java and Madura which are controlled by local princely rulers. In these dire times, we could negotiate an agreement with the local rulers wherein these divisions will be under our authority.
+054: INSHOL_establish_vk_knil | Establish the VK-KNIL
+055: INSHOL_establish_vk_knil_desc | We will establish a Women's Volunteer Corps for the KNIL. Their contributions will serve an important role in improving our logistics and communications.
+056: INSHOL_emergency_dockyard_construction | Emergency Dockyard Construction
+057: INSHOL_emergency_dockyard_construction_desc | The threat of a naval invasion cannot be understated, we must prioritize our naval defense as our top priority.
+058: INSHOL_emergency_powers_gov_general | Emergency Powers For the Governor General
+059: INSHOL_emergency_powers_gov_general_desc | The ongoing war requires hard decisions to be made without delay, which is not possible when all decisions in the Indies must go through the Netherlands beforehand. We should grant emergency authority to [INS.GetLeader] so that he can act without delay.
+060: INSHOL_emergency_naval_purchases | Emergency Naval Purchases
+061: INSHOL_emergency_naval_purchases_desc | Our coasts are unsafe and insufficiently defended. Time is of the essence, we must obtain a stronger navy or we will surely perish. We will purchase ships from private companies using debt, and refit them into naval destroyers.
+062: INSHOL_east_indies_navy | East Indies Navy
+063: INSHOL_east_indies_navy_desc | [INS.GetNameDefCap] lacks an official Navy, leaving the Netherlands in charge of defending the colony. With the increasing tension in Europe and Asia, this will not continue to work. We must take the first step toward founding a dedicated [INS.GetAdjective] navy.
+064: INSHOL_marines | Marines
+065: INSHOL_marines_desc | We should establish a dedicated Indies Marine Corps under the new Navy, and send marines in training to learn on Dutch ships.
+066: INSHOL_domestic_ship_production | Domestic Ship Production
+067: INSHOL_domestic_ship_production_desc | If we want our Navy to stand against our neighbors, we must begin to ramp up domestic ship production.
+068: INSHOL_destroyers | Destroyers
+069: INSHOL_destroyers_desc | Our heavier warships cannot work the narrow seas of the archipelago without escorts to screen them. By laying down modern destroyers, the [ROOT.GetAdjective] navy can guard its shipping lanes and drive off torpedo craft across the straits.
+070: INSHOL_cruisers | Cruisers
+071: INSHOL_cruisers_desc | A fleet without battleships must rest its weight on its cruisers. Building a strong cruiser squadron gives the [ROOT.GetAdjective] navy a hard core able to patrol the long distances between the islands and answer any raider that enters our waters.
+072: INSHOL_submarines | Submarines
+073: INSHOL_submarines_desc | The straits of the East Indies are made for ambush, and a submarine costs far less than the warship it sends to the bottom. A strong submarine arm lets the [ROOT.GetAdjective] navy hold the sea lanes and strike at enemy shipping without ever showing itself.
+074: INSHOL_outsourced_navy | Outsource Production to Corporations
+075: INSHOL_outsourced_navy_desc | We have enough expenses as it is, we cannot continue to divert more and more of the colonial budget to the Navy. We can pay corporations to handle production for us.
+076: INSHOL_divert_civilian_to_navy | Divert Civilian & Army Spending to the Navy
+077: INSHOL_divert_civilian_to_navy_desc | With the current state of the world, the risk of a naval invasion is higher than ever. We cannot afford to be frugal, we must divert funding from all sectors of government towards the Navy.
+078: INSHOL_begin_negotiations_soetardjo | Begin Negotiations With Soetardjo
+079: INSHOL_begin_negotiations_soetardjo_desc | Soetardjo's petition for autonomy is promising, giving us an opportunity to compromise between the Nationalists and Loyalists. We should begin official negotiations with his party.
+080: INSHOL_urge_gov_veto | Urge A Governor Veto
+081: INSHOL_urge_gov_veto_desc | The Soetardjo Petition is a nationalist scheme the Indies government is falling for. We must urge the Governor General to veto the petition immediately, else we risk losing our colony.
+082: INSHOL_eventual_autonomy | Agree to Eventual Autonomy
+083: INSHOL_eventual_autonomy_desc | The Indonesian desire for independence is strong and is not slowing down. We will agree to eventual autonomy for the Indies, but only once the colony has proven it can sustain itself, and will continue to uphold democratic ideals.
+084: INSHOL_autonomous_dominion | The Soetardjo Act of [GetYear]
+085: INSHOL_autonomous_dominion_desc | Despite the unreasonable definition 'self-reliance' set by the Netherlands which we must meet for the terms of the Soetardjo petition to be valid, the Indonesian desire for independence is strong enough that we managed to meet these requirements. As per the agreement, we will declare total and unconditional independence from the Dutch crown.
+086: INSHOL_sideline_the_volksraad | Sideline the Volksraad
+087: INSHOL_sideline_the_volksraad_desc | The petition called by Soetardjo is in clear violation of Article 1 of the Dutch Constitution, and will only cause difficulty for the Indies administration. The petition must be vetoed.
+088: INSHOL_prioritize_dutch_profits | Prioritize Dutch Profits
+089: INSHOL_prioritize_dutch_profits_desc | We will focus our effort on increasing profits for the homeland. Their economic stability is for the good of the Kingdom as a whole.
+090: INSHOL_development_loans_netherlands | Development Loans From the Netherlands
+091: INSHOL_development_loans_netherlands_desc | We can take out loans from Dutch companies to speed up our industrialization effort. While we will utilize our position as a developing colony to guarantee low interest rates, we will still have to pay interest.
+092: INSHOL_request_economic_dev_subsidy | Request Economic Development Subsidies
+093: INSHOL_request_economic_dev_subsidy_desc | We have proven our value to our overlord as a profitable colony. We can utilize this as bargaining material to get industrial development subsidies.
+094: INSHOL_loyalty_to_crown | Loyalty to the Crown
+095: INSHOL_loyalty_to_crown_desc | The East Indies is many things, but above all we are a loyal Dutch colony. Queen Wilhelmina will guide us to victory. We must not allow Nationalism to end nearly 500 years of history, and continue to affirm our absolute loyalty to the Crown.
+096: INSHOL_education_reforms | Education Reforms
+097: INSHOL_education_reforms_desc | Many citizens of the East Indies lack the ability to get an education, and very few have graduated from secondary school. If we want the East Indies to become a wealthy industrialized state, we must ensure education is properly accessible to the population.
+098: INSHOL_nationalist_coallition | A Nationalist Coalition
+099: INSHOL_nationalist_coallition_desc | The Volksraad has spoken with one voice for too long, and that voice has been too quiet. The time for petitions and patient deferrals is past. A coalition of the chamber's nationalist members will set aside their quarrels and demand unconditional independence. Older voices from outside the chamber, men the Dutch once thought safely sidelined, will be welcomed back into the fold.
+100: INSHOL_volksraad_compromises | Volksraad Compromises
+101: INSHOL_volksraad_compromises_desc | Reform within the chamber has carried us this far and there is no reason to abandon the road now. The Volksraad will continue its careful work, trading concession for concession with The Hague, pursuing self-rule through patience rather than rupture. A future inside a Dutch commonwealth offers more than a future spent fighting for one outside it.
+102: INSHOL_establish_the_princely_council | Establish the Princely Council
+103: INSHOL_establish_the_princely_council_desc | The sultans and rajas of the archipelago command loyalties that no chamber in Batavia ever has. Their courts are older than the Company and older than the Republic that succeeded it. A formal council of the princely houses will give these rulers a seat at the table of the new nation, and bind their authority to ours.
+104: INSHOL_nationalize_dutch_companies | Nationalize Dutch Companies
+105: INSHOL_nationalize_dutch_companies_desc | The great trading houses, the shipping lines, the plantation concerns and the banks have worn Dutch names for as long as anyone can remember. They will wear Indonesian ones from now on. The boards will be reseated, the signs taken down, and the capital that was extracted from these islands for three centuries will at last belong to the islands themselves.
+106: INSHOL_democracy | A Democratic Indonesia
+107: INSHOL_democracy_desc | The Volksraad began its life as a half-measure, an advisory body with carefully limited teeth, designed to offer the appearance of representation while withholding the substance. It has outgrown its makers. The chamber will be reconstituted as a true legislature, with members chosen by the people it claims to represent and decisions binding on the government that once kept it on a short leash.
+108: INSHOL_princely_authority | Princely Authority
+109: INSHOL_princely_authority_desc | A council of advisors is a fine thing in its place, but the sultans who lent their names to the founding of this nation may yet lend more than that. The parliament will not stand in the way of those who would see one of their number raised above the rest. The old courts have waited a long time for this question to be asked of them again.
+110: INSHOL_encourage_further_investment | Encourage Further Investment
+111: INSHOL_encourage_further_investment_desc | The terms agreed at the Volksraad have settled the political question for now, and Dutch capital has taken note. Tariffs will be eased, guarantees extended, and the chambers of commerce in Amsterdam and Rotterdam reassured that the archipelago remains open for business. What was profitable under the old arrangement will be profitable under the new one.
+112: INSHOL_east_indies_artillery | East Indies Artillery Manufacturing
+113: INSHOL_east_indies_artillery_desc | Opening up artillery manufacturing facilities in Java will allow us to rely less on foreign trade for our military effort.
+114: INSHOL_recall_gerardus_johannes_berenschot | Recall General Berenschot
+115: INSHOL_recall_gerardus_johannes_berenschot_desc | Gerardus Johannes Berenschot is one of the most talented Generals in the Commonwealth. He has spent the majority of his career in the Indies but has spent several years in the Netherlands. In these dire times, we must recall him to the Indies to help in the war effort.
+116: INSHOL_east_indies_cruiser_manufacturing | East Indies Cruiser Manufacturing
+117: INSHOL_east_indies_cruiser_manufacturing_desc | Manufacturing our own Cruiser ships instead of ordering them directly from the Dutch is the first step towards forming a real Navy, a necessary effort considering the Japanese threat.
+118: INSHOL_transfer_of_conrad_helfrich | Transfer Conrad Helfrich to the Indies
+119: INSHOL_transfer_of_conrad_helfrich_desc | Transferring Admiral Conrad Helfrich to the Indies directly will critically improve the naval effort in the Indies.
+120: INSHOL_naval_program | Netherlands-Indonesia Naval Program
+121: INSHOL_naval_program_desc | The East Indies Navy is far behind other navies, even colonial navies. It is in the best interest of all parties that we aid in the development of this new navy, in order to ensure hasty progress.
+122: INSHOL_naval_program_transfer_25_tt | Transfer §Y25%§! of our naval forces to [INS.GetNameDef].
+123: INSHOL_naval_program_transfer_25_2_tt | §Y[HOL.GetFlag] [HOL.GetNameDefCap]§! will transfer §Y25%§! of their naval forces to §Y[INS.GetNameDefCap]§!.
+124: INSHOL_naval_program_transfer_100_tt | Transfer §Rour entire navy§! to [INS.GetNameDef].
+125: INSHOL_naval_program_transfer_100_2_tt | §Y[HOL.GetFlag] [HOL.GetNameDefCap]§! will transfer their entire navy to §Y[INS.GetNameDefCap]§!.
+126: INSHOL_naval_program_rejected_tt | Unlocks national focus §Y$INSHOL_naval_secondchance$§!.
+127: INSHOL_hybrid_navy | A Hybrid Navy
+128: INSHOL_hybrid_navy_desc | Our Navy cannot rely only on taking over the pacific fleet of [HOL.GetNameDef], we must begin manufacturing our own ships or else one mistake may cut off our entire naval supply.
+129: INSHOL_request_naval_control | East Indies Squadron
+130: INSHOL_request_naval_control_desc | [HOL.GetNameDefCap] has fallen and is in no place to operate an entire navy. We should take control over it for the remainder of the war.
+131: INSHOL_naval_secondchance | East Indies Naval Scheme
+132: INSHOL_naval_secondchance_desc | While [HOL.GetNameDef] have refused to sign over control over the Navy, we still need to defend the pacific unless we wish to be overtaken. While it may not work out as well as if they agreed to our proposal, we will figure out a good-enough alternative.
+133: INSHOL_netherlands_in_exile | Netherlands in Exile
+134: INSHOL_netherlands_in_exile_desc | The tragic fall of our kingdom is now a reality. We cannot sink to the point of defeatism. We must accept what has happened and focus on what we can salvage.
+135: INSHOL_relocate_our_generals | Relocate our Army to Java
+136: INSHOL_relocate_our_generals_desc | The remaining exiled Generals, Commanders, and holdout Soldiers must be relocated to [1058.GetName] with utmost priority, before it is too late.
+137: INSHOL_netherlands_indonesia_union | Netherlands-Indonesia Union
+138: INSHOL_netherlands_indonesia_union_desc | The concept of an equal union state between [HOL.GetNameDef] and [INS.GetNameDef] is laughable to many, but with the crisis we find ourselves in it is looking like the only way to maximize our chance of maintaining sovereignty.
+139: INSHOL_revolution_ongoing_tt | Indonesian Revolution is Ongoing
+140: INSHOL_reasserting_control | Reassert Control over the Indies
+141: INSHOL_reasserting_control_desc | We cannot idly stand and watch as these opportunists attempt to ruin what we have spent centuries building, whilst destroying our infrastructure and radicalizing the youth. We must take action!
+142: INSHOL_request_british_support | Request British Support
+143: INSHOL_request_british_support_desc | [ENG.GetNameDefCap], as a fellow colonial power will likely be sympathetic to our situation, especially since if the revolutionaries succeed, it could set off a domino effect in east asia. We should request their economic and military aid.
+144: INSHOL_franco_dutch_accord | Franco-Dutch Accord
+145: INSHOL_franco_dutch_accord_desc | Despite our soldiers being better equipped and organized than the Republican militias, their overwhelming numbers have turned the conflict against us. To secure victory we need outside support, more than most would give. France may be willing to intervene if we offer them territory in the Indies to expand their presence in the Pacific.
+146: INSHOL_london_batavia_accord | London-Batavia Accord
+147: INSHOL_london_batavia_accord_desc | Despite our soldiers being better equipped and organized than the Republican militias, their overwhelming numbers have turned the conflict against us. To secure victory we need outside support, more than most would give. [ENG.GetNameDefCap] may have an interest due to their presence in Malaya. Perhaps they could be persuaded if we offer something in return?
+148: INSHOL_australian_divisions | Send Australian Infantry to Java
+149: INSHOL_australian_divisions_desc | As per the London-Batavia Accord, Britain is required to send additional divisions to the Indies through Australia once we request it, as Australia’s proximity to the Indies makes them the perfect candidates to host a military base outside of the Indies itself.
+150: INSHOL_indian_divisions | British Indian Army Divisions
+151: INSHOL_indian_divisions_desc | While Britain will most likely be unwilling to send their own men to the Indies, convincing them to send Indian divisions is much easier, especially due to their proximity to Batavia.
+152: INSHOL_undermine_the_militias | Undermine the Militias
+153: INSHOL_undermine_the_militias_desc | The media is exaggerating the severity of this situation, the militias are just a group of rogue youths trying to reach for something unreachable. We do not need to divert all of our resources to stopping them, we should just hold the line and wait for them to tire.
+154: INSHOL_flag_will_fly_again | The Flag Will Fly Once More
+155: INSHOL_flag_will_fly_again_desc | The Dutch flag has flown in the Indies for centuries, there is no world in which we would allow it to be lowered. If keeping our crown jewel colony requires sending in tanks and bomber planes then they will be sent!
+156: INSHOL_flag_will_fly_again_tt | §YOnce the revolution ends, the spirit will be removed and the rule changes will be reverted.§!
+157: INSHOL_mass_mobilization | Mass Mobilization
+158: INSHOL_mass_mobilization_desc | We cannot win this conflict and crush the Republic without a well equipped army. We must rearm the Indies and divert funding from civilian sectors to the KNIL.
+159: INSHOL_batavia_storm_operation | Storm Batavia
+160: INSHOL_instigate_infighting | Instigate Infighting in the Republic
+161: INSHOL_ultimatum_to_republic | An Ultimatum to the Republic
+162: INSHOL_comite_rijkseenheid | Comité Rijkseenheid
+163: INSHOL_comite_rijkseenheid_desc | The flag is being lowered in the Indies, and yet people are just watching it happen. We cannot allow this, we must convince the Indies Administration that the Dutch people want the revolution to be stopped!
+164: INSHOL_increase_esclation_placeholder | Rapid Escalation
+165: INSHOL_increase_esclation_placeholder_desc | Our militias have taken control of many vital ports, cities, and industrial centers. We will not continue to wait for the Netherlands to act, we will call for a major military offensive ourselves!
+166: INSHOL_linggadjati_agreement | Negotiation of Ceasefire Agreements
+167: INSHOL_linggadjati_agreement_desc | Invading Java has proven difficult, and our administration is growing unstable. We must fall back and play defensively so as to not risk the fall of the entire Republic. We should negotiate local ceasefires with the Netherlands, allowing us to reorganize our forces before putting our focus back on Java.
+168: INSHOL_increase_esclation_placeholder_tt | Unlocks a §YDecision§! to negotiate local ceasefires and §Yincrease the timer§! to occupy Java.
+169: INSHOL_seek_foreign_help | Seek Foreign Help
+170: INSHOL_seek_foreign_help_desc | It is no secret that attempting to win a war against a heavily industrialized colonial power as a newly formed nation without an established economy is a nearly impossible task. We should reach out to other countries that support our cause in order to see if they would be willing to help us.
+171: INSHOL_renville_agreement | The Renville Agreement
+172: INSHOL_renville_agreement_desc | The unprecedented aggression taken by the Netherlands has brought international attention to the revolution, and yet the Netherlands has continued to violate ceasefires and bait a reaction out of us. We must try to make a call to [USA.GetNameDef], as if we convince them to stand up for Indonesia, the Netherlands will have no choice but to back down.
+173: INSHOL_no_compromise | No Compromise, No Surrender
+174: INSHOL_no_compromise_desc | The Dutch greed that caused them to invest almost exclusively in Java, ignoring the eastern islands, has left Java as the Achilles' heel of the entire colony. This will be their downfall!
+175: INSHOL_end_to_bloodshed | Two State Solution
+176: INSHOL_end_to_bloodshed_desc | This conflict has gone on for far too long, with little progress in either direction, only more lives lost each and every day. Nobody wants this to continue, it is time we discuss with the Dutch leaders at the negotiating table.
+177: INSHOL_reorganize_colonies | Reorganize the Colony
+178: in_240_days_tt | §YIn 240 days:§!\n
+179: indonesia_trading_with_us_modifier | Trade Agreements
+180: indonesia_opposing_us_modifier | Trade Opposition
+181: indonesia_trading_with_enemy_modifier | Trading With Japan
+182: INSHOL_java | $HOL_java$
+183: INSHOL_java_desc | $HOL_java_desc$
+184: INSHOL_sumatra | $HOL_sumatra$
+185: INSHOL_sumatra_desc | $HOL_sumatra_desc$
+186: INSHOL_borneo_and_the_grote_oost | $HOL_borneo_and_the_grote_oost$
+187: INSHOL_borneo_and_the_grote_oost_desc | $HOL_borneo_and_the_grote_oost_desc$
+188: INSHOL_foundations_of_defense | $HOL_the_foundations_of_defense$
+189: INSHOL_foundations_of_defense_desc | $HOL_the_foundations_of_defense_desc$
+190: INSHOL_investments_in_civ_railways_tt | If [HOL.GetFlag]§Y[HOL.GetName]§! completes the focus:\n         ([INS.GetFlag]§Y[INS.GetName]§!: Add §Y£autonomy_texticon -250.00§!)\n   If [INS.GetFlag]§Y[INS.GetName]§! completes the focus:\n         Add §Y£autonomy_texticon 250.00§!
+191: INSHOL_investments_in_civ_railways | Investments in Civilian Railways
+192: INSHOL_investments_in_civ_railways_desc | Winning over the support of the people of the Indies requires investing in civilian infrastructure. Currently, our railways are primarily used for cargo transportation. We should purchase passenger trains to run across our pre-existing railways in Java and Sumatra.
+193: INSHOL_continue_exclusive_rights | Exclusive Rights for De Javasche Bank
+194: INSHOL_continue_exclusive_rights_desc | The East Indies Guilder has lost most of its value during the great depression, and our economic growth has reached a standstill. We could try to stabilize the Guilder by giving the Bank of Java exclusive printing rights, which it had until 1922.
+195: INSHOL_peg_indies_guilder_to_dutch_guilder | Peg the Indies Guilder to the Dutch Guilder
+196: INSHOL_peg_indies_guilder_to_dutch_guilder_desc | The East Indies Guilder has lost most of its value during the great depression, and our economic growth has reached a standstill. The easiest solution is to peg the Indies Guilder to the Dutch Guilder, a far more stable currency. This will also tie us closer to our overlord.
+197: INSHOL_peg_indies_guilder_to_us_dollar | Peg the Indies Guilder to the US Dollar
+198: INSHOL_peg_indies_guilder_to_us_dollar_desc | The East Indies Guilder has lost most of its value during the great depression, and our economic growth has reached a standstill. While we could peg the Indies Guilder to the Dutch Guilder, the US dollar is a far more stable currency. Pegging the Guilder to the Dollar also allows us to have more economic independence, making self rule a more attainable goal.
+199: indonesia_currency_pegged_to_dollar_modifier | Indies Guilder pegged to the US Dollar
+200: INSHOL_eventual_autonomy_req_tt | Has successfully completed at least §Y4§! Volksraad missions
+201: indonesia_volksraad_passed_12 | The Indonesian national flag has been officially recognized 
+202: INSHOL_request_east_timor | Demand the Return of East Timor
+203: INSHOL_request_east_timor_desc | Timor has no right being occupied by Portugal, it is a remnant of colonial history that we mustn’t continue to tolerate, for it is rightful Indonesian territory. We will issue a formal demand to Portugal that they return Timor to us immediately.
+204: INSHOL_java_factories | Open Weapons Factories in Java
+205: INSHOL_java_factories_desc | While basic, there is no denying that simply building more arms factories goes a long way towards improving the strength of an army. As the industrial powerhouse of the colony, Java is an obvious location to build them in.
+206: INSHOL_license_dutch_weapon_blueprints | License Dutch Weapon Blueprints
+207: INSHOL_license_dutch_weapon_blueprints_desc | Rather than investing in building an entire domestic manufacturing process and creating our own technology designs, we should cooperate with Dutch companies in order to purchase their weapon blueprints.
+208: INSHOL_bangka_production_lines | Bangka Production Lines
+209: INSHOL_bangka_production_lines_desc | The exponential development of Bangka’s infrastructure as a result of the Bangka Project has turned this once tiny, mostly unimportant island into the perfect site for new industrial projects. We have an opportunity to strengthen the KNIL by building a new weapon factory in Bangka, which, due to the island's concentrated roads, railways, and ports, will operate more efficiently than if we had built them elsewhere.
+210: INSHOL_artillerie_inrichtingen | Artillerie Inrichtingen
+211: INSHOL_artillerie_inrichtingen_desc | Artillerie Inrichtingen has been manufacturing artillery and other arms in the Netherlands for over 250 years, and has been operating in the Indies for several decades. Expanding their manufacturing capabilities by opening new manufacturing facilities in the Indies would significantly improve the capabilities of the KNIL, whilst strengthening the economy of underfunded areas by creating new jobs.
+212: INSHOL_ai_pyrotechnische | Artillerie Inrichtingen Pyrotechnische
+213: INSHOL_ai_pyrotechnische_desc | Continuing the expansion of Artillerie Inrichtingens production facilities within the East Indies, we should fund the establishment of an East Indies division of Artillerie Inrichtingen’s pyrotechnical subsidiary.
+214: INSHOL_bio_pharma | Bio Pharma
+215: INSHOL_bio_pharma_desc | Expanding the Indies pharmaceutical industry is the obvious next step in reforming the KNIL, in order to ensure wounded soldiers receive adequate treatment and recover safely. The prevalence of quinine in the Indies makes the cost of this project substantially lower than normal.
+216: INSHOL_develop_fighters | Develop New Fighters
+217: INSHOL_develop_fighters_desc | We will send Batavian engineers to Amsterdam to study Fokker’s fighter production firsthand, gaining access to its closely guarded manufacturing secrets. They will return with the knowledge and technical expertise required to establish a modern domestic fighter industry in the Indies.
+218: INSHOL_develop_bombers | Develop New Bombers
+219: INSHOL_develop_bombers_desc | We will send Batavian engineers to Amsterdam to study Fokker’s bomber plane production firsthand, gaining access to its closely guarded manufacturing secrets. They will return with the knowledge and technical expertise required to establish a modern domestic bomber industry in the Indies.
+220: INSHOL_bandung_aircraft_facility | Bandung Aircraft Manufacturing Facility
+221: INSHOL_bandung_aircraft_facility_desc | While blueprints and manufacturing secrets are useful, they’re useless until we build planes from them. We will open new aircraft facilities in Bandung in order to meet the current needs of the ML-KNIL.
+222: INSHOL_netherlands_indies_air_doctrine | The Netherlands-Indies Air Doctrine
+223: INSHOL_netherlands_indies_air_doctrine_desc | We will study the air forces of nations facing challenges similar to our own, drawing on their hard-won experience to shape a doctrine suited to the realities of the East Indies, without repeating these historical mistakes.
+224: INSHOL_manado_military_academy | Makassar Military Academy
+225: INSHOL_manado_military_academy_desc | Establishing a military academy outside of Java will help mitigate our manpower shortage significantly by making conscription feasible in the eastern islands. Makassar, located around the middle of the East Indies is the perfect location for it.
+226: INSHOL_infantry_training_in_borneo | Infantry Training in Borneo
+227: INSHOL_infantry_training_in_borneo_desc | The East Indies are defined by dense jungles, rugged mountains, and unforgiving terrain. Our soldiers, primarily based in Java, are woefully unprepared to fight in these conditions. We must expand military training beyond Java and conduct exercises in harsher environments. Few places on earth rival the jungles and mountains of Borneo, making it the perfect spot to train world-class rangers.
+228: INSHOL_knil_engineers | Genie Corps
+229: INSHOL_knil_engineers_desc | We mustn't focus all our efforts on infantry and rifle production, and remember that logistics and communications play an essential role in winning battles. We should train engineers and fund Batavian vocational schools to ensure our army is not bottlenecked by poor logistics.
+230: INSHOL_work_with_oil_barons | Cooperate With the Oil Barons
+231: INSHOL_work_with_oil_barons_desc | The Great Depression has left our export based economy in a depressing state. It might be time to consider offloading some of the trade negotiations to the oil barons of Sumatra, in order to guarantee the oil gets sold. This will however come at a cost, as for them to agree to this deal, we will need to sell the oil at prices significantly lower than the market rate.
+232: INSHOL_rubber_taxation | Rubber Taxation
+233: INSHOL_rubber_taxation_desc | Dutch investment and expertise have transformed the rubber plantations of the East Indies into one of the Empire’s most valuable assets. It is only just that the Crown claims its rightful share of the wealth it has created. Though certain local politicians protest, the interests of the Empire cannot be dictated by provincial agitation.
+234: INSHOL_padang_port | International Port in Padang
+235: INSHOL_padang_port_desc | Resources produced in Padang must first be routed through Java before reaching international markets, as the region lacks facilities capable of handling large convoys. This unnecessary detour strains our supply chain and limits Sumatra’s economic potential. By constructing a major cargo harbor in Padang, we can remove this detour, increasing the profitability of Padang’s plantations.
+236: INSHOL_subsidize_bauxite | Subsidize Bauxite Projects
+237: INSHOL_subsidize_bauxite_desc | The ongoing project in the Indies to modernize the bauxite-rich Bangka-Belitung islands is very promising, and the potential for long term profit is high. We should support the Indies government with economic subsidies in order to expedite the project.
+238: INSHOL_agricultural_subsidies | Privatize the Agricultural Sector
+239: INSHOL_agricultural_subsidies_desc | By permitting the establishment of privately owned farms of varying sizes, we can accelerate infrastructure development in underfunded rural regions while simultaneously increasing government revenue. To achieve this, we will establish a structured tax framework wherein all tax income generated by these farms is remitted directly to the Netherlands, rather than first going through the Indies.
+240: INSHOL_import_sugar | Import Sugar
+241: INSHOL_import_sugar_desc | We will mandate price controls in the growing agricultural sector in the Indies in order to import all of the nation's sugar from plantations in the Indies, at prices no other government can match, and establish a government monopoly on sugar.
+242: INSHOL_import_lumber | Import Lumber
+243: INSHOL_import_lumber_desc | We will mandate price controls in the growing agricultural sector in the Indies in order to import all of the nation's lumber from plantations in the Indies, at prices no other government can match, and establish a government monopoly on lumber.
+244: INSHOL_industrialized_colony | The Industrialized Colony
+245: INSHOL_industrialized_colony_desc | The East Indies, once a humble colony, has become one of the most industrialized, wealthy regions in all of Asia. This marks a monumental moment in the history of the Netherlands, and humanity. Our efforts have paid off, and we will continue to invest in the development of our colony, and reestablish the Netherlands as a global power once more.
+246: INSHOL_economic_integration | Economic Integration
+247: INSHOL_economic_integration_desc | The Dutch East Indies is the shining jewel of our Empire, their prosperity secured through the steady leadership of the Queen, the Prime Minister, and the Governor-General. This stability must not be endangered by reckless calls for independence, which would bring only disorder and decline. We will bind the economies of the Netherlands and the Indies ever tighter, ensuring continued stability and greatness.
+248: INSHOL_republic_of_indonesia | The Republic of Indonesia
+249: INSHOL_republic_of_indonesia_desc | When the Netherlands begrudgingly agreed to the Soetardjo Petition, the resulting legislation bound Indonesian Independence to a long list of conditions to qualify as economically. self-sufficient. Despite this, these conditions have now been met in full thanks to the determination held by the Indonesian people, and the Netherlands has no choice but to accept our formal declaration of independence.
+250: INSHOL_propose_malay_unification | Propose Malay Unification
+251: INSHOL_propose_malay_unification_desc | Indonesia is an archipelago home to hundreds of cultures, languages, and ethnicities. While some are similar, others are distinctly different. Yet through the shared struggle of colonial rule, we have found unity under one nation; Indonesia. Perhaps we should ask ourselves why this unity must stop here, when across the straits the people of Malaya share much the same history and aspirations as our own?
+252: INSHOL_singapore_compromise | The Singapore Compromise
+253: INSHOL_singapore_compromise_desc | Singapore is Indonesian land in history and culture, and it is only natural that it should be included in a united Indonesia. Yet Britain is not willing to give up Singapore due to its strategic importance and necessity as a military base. We should propose a compromise wherein Singapore joins the union, on the condition that Britain retains the right to station forces on the island.
+254: INSHOL_request_ceylon | Request Transfer of Ceylon
+255: INSHOL_request_ceylon_desc | The British colony of Ceylon shares deep cultural and linguistic ties with the wider Malay world. As the pan-Malayan federation of Maphilindo grows, it is only natural that this island too should find its place within the confederation.
+256: INSHOL_papua_referendum | The Papua Referendum
+257: INSHOL_papua_referendum_desc | Today, the island of Papua is divided between Indonesia and Australia. While our investments and development have transformed our half into a growing and prosperous region, the Australian-administered territory remains neglected and underdeveloped. The future of the island should rest in the hands of its people, and therefore we must demand an official referendum on the unification of Papua.
+258: INSHOL_invite_phillipines | Propose Maphillindo
+259: INSHOL_invite_phillipines_desc | The many peoples of our union speak different languages and uphold different traditions, yet nearly all trace their roots to the Malay world. We should reform our union state into a pan-Malayan confederation, inviting the Philippines as a member state. What was once several insignificant colonies will now stand strong as Southeast Asia’s regional power.
+260: HOL_obtain_foreign_colonial_investments_taog | $HOL_obtain_foreign_colonial_investments$
+261: HOL_obtain_foreign_colonial_investments_taog_desc | $HOL_obtain_foreign_colonial_investments_desc$
+262: HOL_the_western_possessions_taog | $HOL_the_western_possessions$
+263: HOL_the_western_possessions_taog_desc | $HOL_the_western_possessions_desc$
+264: HOL_expand_curacao_oil_refineries_taog | $HOL_expand_curacao_oil_refineries$
+265: HOL_expand_curacao_oil_refineries_taog_desc | $HOL_expand_curacao_oil_refineries_desc$
+266: HOL_open_second_paranam_bauxite_mine_taog | $HOL_open_second_paranam_bauxite_mine$
+267: HOL_open_second_paranam_bauxite_mine_taog_desc | $HOL_open_second_paranam_bauxite_mine_desc$
+268: HOL_antilles_defenses_taog | $HOL_antilles_defenses$
+269: HOL_antilles_defenses_taog_desc | $HOL_antilles_defenses_desc$
+270: HOL_pre_empt_venezuelan_aggression_taog | $HOL_pre_empt_venezuelan_aggression$
+271: HOL_pre_empt_venezuelan_aggression_taog_desc | $HOL_pre_empt_venezuelan_aggression_desc$
+272: HOL_continue_the_war_in_batavia_taog | $HOL_continue_the_war_in_batavia$
+273: HOL_continue_the_war_in_batavia_taog_desc | $HOL_continue_the_war_in_batavia_desc$
+274: HOL_a_western_capital_taog | $HOL_a_western_capital$
+275: HOL_a_western_capital_taog_desc | $HOL_a_western_capital_desc$
+276: HOL_expand_the_colonial_army_taog | $HOL_expand_the_colonial_army$
+277: HOL_expand_the_colonial_army_taog_desc | $HOL_expand_the_colonial_army_desc$
+278: HOL_colonial_shipbuilding_taog | $HOL_colonial_shipbuilding$
+279: HOL_colonial_shipbuilding_taog_desc | $HOL_colonial_shipbuilding_desc$
+280: HOL_the_east_indies_war_machine_taog | $HOL_the_east_indies_war_machine$
+281: HOL_the_east_indies_war_machine_taog_desc | $HOL_the_east_indies_war_machine_desc$
+282: HOL_prepare_for_our_return_taog | $HOL_prepare_for_our_return$
+283: HOL_prepare_for_our_return_taog_desc | $HOL_prepare_for_our_return_desc$
+284: HOL_liberation_taog | $HOL_liberation$
+285: HOL_liberation_taog_desc | $HOL_liberation_desc$
+286: HOL_curtail_colonial_autonomy_taog | $HOL_curtail_colonial_autonomy$
+287: HOL_curtail_colonial_autonomy_taog_desc | $HOL_curtail_colonial_autonomy_desc$
+288: HOL_taog_guarantee_colonial_loyalty | Guarantee Colonial Loyalty
+289: HOL_taog_guarantee_colonial_loyalty_desc | Nationalism is on the rise in the Indies and it is clear another revolution is in the works. While the one we faced in 1927 was crushed with ease, our sources tell us that we may be dealing with a much more prepared group of revolutionaries. Perhaps if we grant some concessions to Soetardjo's peaceful nationalist movement we can draw the attention of civilians away from the revolution, and towards Soetardjo?
+290: HOL_taog_guarantee_colonial_loyalty_tt | §WGuarantees that [INS.GetNameDef] will not have a revolution.§!\n[INS.GetNameDefCap] will attempt to declare independence peacefully. This can be stopped by completing the focus §Y$INSHOL_industrialized_colony$§!, which will require heavy investment into the colony.
+291: jungle_tanks_tt | Enables §YJungle Tanks§!\n§YAll Tank Divisions (Jungle)§!:\nAttack §G+15%§!\nMovement: §G+15%§!
+292: jungle_heavy_tanks_tt | Enables §YJungle Heavy Tanks§!\n§YHeavy, Super Heavy and Modern Tank Divisions (Jungle)§!:\nAttack §G+15%§!\nMovement: §G+15%§!
+293: generic_choice_tt | Giving choice between: \n
+294: generic_or_tt | Or:\n
+295: effects_of_event_tt | \n§YEffects of event§!:
+296: potential_consequence_tt | §YPotential consequence§!:\n
+297: add_trait_to_theorist_tt | Add trait to §YTheorist§!:
+298: remove_2_offsite_dockyard | Remove §R2§! offmap §YNaval Dockyard§!.
+299: effect_tt | \n§YEffect§!:
+300: jungle_heavy_tanks | Jungle Heavy Tanks
+301: add_random_stat_to_general_tt | Adds one extra random skill stat to this general
+302: generic_unlock_industrial_concern_tt | Available as Industrial Concern: \n
+303: ABDA_abdacom | Establish the ABDACOM
+304: ABDA_abdacom_desc | With enemy powers advancing rapidly across Southeast Asia and the Pacific, allied forces in the region must act as one to hold them back. By establishing a joint supreme command we can pool our resources, coordinate our naval assets, and present a unified front against the enemy.
+305: ABDA_fortress_singapore | Fortress Singapore
+306: ABDA_fortress_singapore_desc | Singapore is the linchpin of our defensive strategy in the region. Reinforcing its fortifications and garrisoning it in strength will buy critical time for the broader ABDACOM effort and deny the enemy a rapid strategic victory.
+307: ABDA_corps_expeditionnaire | CEFEO
+308: ABDA_corps_expeditionnaire_desc | French Indochina sits at the northern flank of the ABDACOM defensive perimeter. By committing the Corps Expéditionnaire Français en Extrême-Orient to active operations, [FRA.GetNameDef] will bring vital manpower and experience from its colonial forces to the joint command.
+309: ABDA_maintain_strategic_flexibility | Maintain Strategic Flexibility
+310: ABDA_maintain_strategic_flexibility_desc | The United States must not overcommit its forces to any single theatre. By carefully managing our strategic reserve, we ensure that American industrial and military power can be brought to bear wherever it is needed most across the Pacific.
+311: ABDA_the_malay_barrier | The Malay Barrier
+312: ABDA_the_malay_barrier_desc | The chain of islands stretching from Malaya through [INS.GetNonIdeologyName] forms a natural defensive barrier. ABDA forces must exploit this geography, establishing a coordinated naval and ground defence to slow the enemy advance.
+313: ABDA_develop_naval_infrastructure | Develop Naval Infrastructure
+314: ABDA_develop_naval_infrastructure_desc | Sustained naval operations in the Pacific require bases, fuel depots, and repair facilities. Investing in the infrastructure of our ports and anchorages will extend the reach and endurance of ABDA naval forces.
+315: ABDA_unified_naval_command | Unified Naval Command
+316: ABDA_unified_naval_command_desc | With land defences established and infrastructure in place, ABDA can now bring all naval forces under a single unified command. Standardised signals, shared intelligence, and coordinated patrol routes will multiply the effectiveness of every vessel in the theatre.
+317: ABDA_ship_a_day_sinking_quotas | Ship-A-Day Sinking Quotas
+318: ABDA_ship_a_day_sinking_quotas_desc | Enemy supply lines stretching across the Pacific are their strategic vulnerability. By setting aggressive and coordinated sinking quotas for our submarine and surface forces, ABDACOM can bleed the enemy logistically and force them onto the defensive.
+319: ABDA_naval_procurement | Naval Procurement
+320: ABDA_naval_procurement_desc | The losses already suffered demand urgent replacement. A coordinated ABDACOM procurement programme will prioritise destroyers, submarines, and patrol vessels best suited to the Pacific theatre, ensuring our combined fleet can match enemy expansion.
+321: ABDA_keep_trade_open | Keep Trade Open
+322: ABDA_keep_trade_open_desc | The rubber and oil of the [INS.GetNonIdeologyName] are critical to the Allied war effort. ABDACOM must safeguard the sea lanes that carry these vital resources, protecting convoys from enemy interdiction and keeping trade flowing to our industries.
+323: ABDA_expand_the_command | Expand the Command
+324: ABDA_expand_the_command_desc | ABDACOM has proven its worth. Now we must build on that foundation, extending membership to other Allied nations in the region and deepening our research and intelligence sharing to stay ahead of the enemy.
+325: ABDA_basic_available_trigger_tt | Is not at war with any ABDACOM member
+326: ABDA_spirit_tooltip | Modifies §YABDA Supreme Command§!:
+327: abdacom_member | Member of ABDACOM
+328: ABDA_malay_barrier_modifier_tt | Modifies §Y$ABDA_supreme_command$§! by:\n §G+15%§! Repair Speed\n §G+10%§! Convoy Escort Efficiency
+329: ABDA_ship_a_day_modifier_tt | Modifies §Y$ABDA_supreme_command$§! by:\n §G+10%§! Submarine Attack\n §G+10%§! Submarine Defence
+330: ABDA_keep_trade_open_modifier_tt | Modifies §Y$ABDA_supreme_command$§! by:\n §G+10%§! Screening Efficiency\n §G+10%§! Screen Defence
+331: ABDA_unified_naval_command_modifier_tt | Modifies §Y$ABDA_supreme_command$§! by:\n §G+10%§! Ship Experience Gain
+332: ABDA_develop_naval_infrastructure_ast_tt | [AST.GetName] receives §Y2 dockyards§! in a core territory.
+333: ABDA_develop_naval_infrastructure_ins_tt | [INS.GetName] receives §Y2 dockyards§! in a core territory.
+334: ABDA_develop_naval_infrastructure_generic_tt | Depending on the membership of §YABDACOM§!, [AST.GetName] and the [INS.GetName] may each receive 2 dockyards in their core territories.
+335: ABDA_expand_the_command_tt | Extends ABDACOM membership to [SIA.GetName], [NZL.GetName] and [MAL.GetName] if they are in our faction, granting them the full §Y$ABDA_supreme_command$§! modifier at its current strength.
+336: ABDA_naval_procurement_ins_ships_tt | [INS.GetName] will receive §Y6 Clemson Class destroyers transferred§! from [USA.GetAdjective] mothballed fleets.
+337: ABDA_naval_procurement_hol_ships_tt | [HOL.GetName] will receive §Y6 Clemson Class destroyers transferred§! from [USA.GetAdjective] mothballed fleets.
+338: ABDA_naval_procurement_ast_ships_tt | [AST.GetName] will receive §Y6 Clemson Class destroyers transferred§! from [USA.GetAdjective] mothballed fleets.
+339: ABDA_naval_procurement_generic_tt | Depending on the membership of §YABDACOM§!, [INS.GetNameDef], [HOL.GetNameDef], and [AST.GetNameDef] may each receive §Y6 Clemson Class destroyers§! transferred from [USA.GetAdjective] mothballed fleets.

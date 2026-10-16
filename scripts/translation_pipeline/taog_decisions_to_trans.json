@@ -1,0 +1,1577 @@
+[
+  {
+    "key": "HOL_recall_conrad_helfrich",
+    "version": "",
+    "en": "Recall Conrad Helfrich From the Indies"
+  },
+  {
+    "key": "HOL_recall_conrad_helfrich_desc",
+    "version": "",
+    "en": "In these pressing times, we must prioritize the homeland above all else. Conrad Helfrich, as the Royal Dutch Navy's best Admiral, must return to the Netherlands."
+  },
+  {
+    "key": "INS_is_taking_volksraad",
+    "version": "",
+    "en": "Is currently passing a law in the Volksraad"
+  },
+  {
+    "key": "INS_volksraad_cat",
+    "version": "",
+    "en": "The Volksraad"
+  },
+  {
+    "key": "INS_volksraad_cat_desc",
+    "version": "",
+    "en": "The People’s Council, known in Dutch as the Volksraad, was established in 1918 as an attempt to bring democracy to the East Indies, as part of the implementation of the so-called “Ethical Policies”. The seats are filled by both Dutch and Indonesian officials, selected through various means. While the Netherlands maintains an unconditional veto right, the Volksraad can pass motions and bills to the government."
+  },
+  {
+    "key": "INS_volksraad_allow_language_in_schools",
+    "version": "",
+    "en": "Allow the Indonesian Language in Schools"
+  },
+  {
+    "key": "INS_volksraad_allow_language_in_schools_desc",
+    "version": "",
+    "en": "Access to higher education in the indies is largely limited to the Dutch and wealthy classes of Indonesians who speak Dutch, as it is the only language higher education is taught in. An ongoing motion in the Volksraad to open Indonesian-language schools is awaiting a vote from the Governor General."
+  },
+  {
+    "key": "INS_volksraad_allow_language_in_government",
+    "version": "",
+    "en": "Allow the Indonesian Language in Government"
+  },
+  {
+    "key": "INS_volksraad_allow_language_in_government_desc",
+    "version": "",
+    "en": "Governmental roles in the Indies, including the Volksraad all require fluency in the Dutch language, which has led to many members of the Volksraad, especially representatives of native communities, to question the validity of its democracy. They have put together a motion which insists that government positions should be able to be filled by Indonesian speakers when possible."
+  },
+  {
+    "key": "INS_volksraad_remove_education_quotas",
+    "version": "",
+    "en": "Abolish the Education-Quota System"
+  },
+  {
+    "key": "INS_volksraad_remove_education_quotas_desc",
+    "version": "",
+    "en": "The education system in the East Indies currently operates using education quotas, where a certain number of Indonesian students must be accepted, and a certain number of Dutch students must be accepted. This has been controversial in the Volksraad due to the common belief that it is skewed unfairly toward the Dutch favor. While we could let the Volksraad continue arguing for years over how to reform the system, it may be worth abolishing the quota system all-together."
+  },
+  {
+    "key": "INS_volksraad_reduce_rubber_export_tax",
+    "version": "",
+    "en": "Reduce the Private Rubber-Export Tax"
+  },
+  {
+    "key": "INS_volksraad_reduce_rubber_export_tax_desc",
+    "version": "",
+    "en": "There is currently an extremely high tax on private companies exporting rubber, allowing us to maintain a monopoly over the market. However, this has resulted in economic stagnation in some regions due to private plantations being unable to operate. This was deemed worthwhile at the time of implementation, but international protectionism from the Great Depression has left our rubber export economy far less lucrative. It may be worth reducing the tax in order to stimulate the economy."
+  },
+  {
+    "key": "INS_volksraad_knil_rank_limit",
+    "version": "",
+    "en": "Pass Anti-Discrimination Laws for Military Ranks"
+  },
+  {
+    "key": "INS_volksraad_knil_rank_limit_desc",
+    "version": "",
+    "en": "While there is no formal rule stopping Indonesian natives from rising the ranks of the KNIL, there is an unwritten rule forbidding this, limiting even the most well-performing of military personnel unable to progress beyond Colonel status. Several parties in the Volksraad have been pressuring the government to recognize the efforts of high performing Indonesian officers."
+  },
+  {
+    "key": "INS_volksraad_legalize_displaying_flag",
+    "version": "",
+    "en": "Legalize the Display of the Red/White Flag"
+  },
+  {
+    "key": "INS_volksraad_legalize_displaying_flag_desc",
+    "version": "",
+    "en": "The red and white flag of “Indonesia” is currently illegal to display in public due to its connections to nationalist, anti-colonial organizations. Legalizing its display would likely be a demonstration of our willingness to cooperate, and stop the ongoing radicalization of nationalists across the archipelago."
+  },
+  {
+    "key": "INS_volksraad_education_subsidies_for_indonesians",
+    "version": "",
+    "en": "Open Education Subsidies for Non-Dutch Residents"
+  },
+  {
+    "key": "INS_volksraad_education_subsidies_for_indonesians_desc",
+    "version": "",
+    "en": "There has been an ongoing debate within the Volksraad regarding the subsidies and scholarships given to Dutch students in the East Indies. Several representatives of native communities in the Volksraad have argued that this system should be expanded to any student, regardless of background. This would buy us a lot of good-will with the population, though it would not be cheap."
+  },
+  {
+    "key": "INS_volksraad_indonesian_national_language",
+    "version": "",
+    "en": "Make Indonesian an official National Language"
+  },
+  {
+    "key": "INS_volksraad_indonesian_national_language_desc",
+    "version": "",
+    "en": "The Indonesian language has grown to become a common language in many parts of the archipelago, bridging language gaps between several cultures. With the Indonesian language now being permitted within education and government roles, many Volksraad representatives have been petitioning for its legal recognition as an official language of the colony, sharing equal status with Dutch."
+  },
+  {
+    "key": "INS_volksraad_official_flag",
+    "version": "",
+    "en": "Officialize the Indonesian Flag"
+  },
+  {
+    "key": "indonesia_volksraad_official_flag_effect_tt",
+    "version": "",
+    "en": "Our flag will be changed to the Red/White flag."
+  },
+  {
+    "key": "INS_volksraad_official_flag_desc",
+    "version": "",
+    "en": "The motions in the Volksraad pushing for autonomy have ultimately succeeded, and what was called the Dutch East Indies only a few years ago is now the Dominion of Indonesia. Our flag should be adjusted to represent these changes."
+  },
+  {
+    "key": "indonesia_volksraad_passed_6",
+    "version": "",
+    "en": "Has passed anti-discrimination laws in the military"
+  },
+  {
+    "key": "recognize_maphilindo",
+    "version": "",
+    "en": "$form_maphilindo$"
+  },
+  {
+    "key": "form_majapahit_empire_flag",
+    "version": "",
+    "en": "Has formed Nusantara"
+  },
+  {
+    "key": "phillipines_integrated",
+    "version": "",
+    "en": "Has integrated the Philippines"
+  },
+  {
+    "key": "INS_autonomy_indonesian_in_schools",
+    "version": "",
+    "en": "Indonesian Language Allowed in Schools"
+  },
+  {
+    "key": "INS_autonomy_indonesian_in_govenment",
+    "version": "",
+    "en": "Indonesian Language Allowed in Government"
+  },
+  {
+    "key": "INS_autonomy_no_education_quotas",
+    "version": "",
+    "en": "Education-Quotas Abolished"
+  },
+  {
+    "key": "INS_autonomy_reduced_rubber_tax",
+    "version": "",
+    "en": "Rubber Export Tax Reduced"
+  },
+  {
+    "key": "INS_autonomy_knil_rank_limit",
+    "version": "",
+    "en": "Anti-Discrimination Laws Passed in the Military"
+  },
+  {
+    "key": "INS_autonomy_flag_legalized",
+    "version": "",
+    "en": "Display of the Red/White Flag Legalized"
+  },
+  {
+    "key": "INS_autonomy_education_subsidies",
+    "version": "",
+    "en": "Education Subsidies Available for Indonesians"
+  },
+  {
+    "key": "INS_autonomy_national_language",
+    "version": "",
+    "en": "Indonesian Language Recognized"
+  },
+  {
+    "key": "INS_autonomy_official_flag",
+    "version": "",
+    "en": "Indonesian Flag In Use"
+  },
+  {
+    "key": "INS_move_capital_to_amsterdam",
+    "version": "",
+    "en": "Move the capital to Amsterdam"
+  },
+  {
+    "key": "INS_move_capital_to_batavia",
+    "version": "",
+    "en": "Move the capital to Batavia"
+  },
+  {
+    "key": "INS_sukarno_is_dead",
+    "version": "",
+    "en": "Sukarno is dead"
+  },
+  {
+    "key": "INS_atjeh_management",
+    "version": "",
+    "en": "Police Action in Atjeh"
+  },
+  {
+    "key": "INS_atjeh_management_2",
+    "version": "",
+    "en": "Integrate Atjeh"
+  },
+  {
+    "key": "INS_soetardjo_petition",
+    "version": "",
+    "en": "Soetardjo Petition Pending Approval"
+  },
+  {
+    "key": "INS_soetardjo_petition_desc",
+    "version": "",
+    "en": "The round table conference Soetardjo called for has been held, concluding that [INS.GetNameDef] must meet a series of economic requirements to ensure self-sufficiency. We must demonstrate clear progress towards these goals, or else [HOL.GetNameDef] will eventually overrule the decision in order to maintain the status quo. "
+  },
+  {
+    "key": "INS_soetardjo_petition_refresh_tt",
+    "version": "",
+    "en": "Reactivates Mission: §YSoetardjo Petition Pending Approval§! with a duration of §Y120 days§!."
+  },
+  {
+    "key": "INS_soetardjo_pending",
+    "version": "",
+    "en": "Volksraad Debating Soetardjo's Petition for Autonomy"
+  },
+  {
+    "key": "INS_soetardjo_pending_desc",
+    "version": "",
+    "en": "Soetardjo is a Volksraad member who is known for leading the peaceful nationalist movement. He is currently organizing a petition requesting that [INS.GetNameDef] be given more autonomy, and for a round table conference to be organized between Dutch and Indonesian representatives, in order to discuss the desire of Indonesians to become autonomous as part of a Dutch commonwealth. This petition is currently being debated within the Volksraad. Once these debates conclude, we must decide how to respond, as the petition's consequences are of great significance."
+  },
+  {
+    "key": "INS_flag_legalized",
+    "version": "",
+    "en": "Red/White Flag is legal to display"
+  },
+  {
+    "key": "INS_owned_states_at_game_start_tt",
+    "version": "",
+    "en": "All Indonesian States"
+  },
+  {
+    "key": "INS_win_condition_base_republic_warning",
+    "version": "",
+    "en": "Destroy the East Indies"
+  },
+  {
+    "key": "INS_win_condition_base_republic_warning_desc",
+    "version": "",
+    "en": "We must continue to fight, recruit civilians, and ensure the fire within every Indonesian soul continues to burn. Once we topple the Indies administration, [HOL.GetNameDef] will have no choice but to surrender."
+  },
+  {
+    "key": "INS_win_condition_base_republic_real",
+    "version": "",
+    "en": "Destroy the East Indies"
+  },
+  {
+    "key": "INS_win_condition_base_republic_real_desc",
+    "version": "",
+    "en": "We must continue to fight, recruit civilians, and ensure the fire within every Indonesian soul continues to burn. Once we topple the Indies administration, [HOL.GetNameDef] will have no choice but to surrender."
+  },
+  {
+    "key": "will_complete_when_conditions_met_tt",
+    "version": "",
+    "en": "This will automatically be selected once the prerequisites are met."
+  },
+  {
+    "key": "INS_militias_cat",
+    "version": "",
+    "en": "Laskar Rakyat"
+  },
+  {
+    "key": "INS_militias_basic_summon",
+    "version": "",
+    "en": "Mobilize Civilians"
+  },
+  {
+    "key": "INS_militias_basic_summon_desc",
+    "version": "",
+    "en": "We will recruit young adults and students that are passionate for Indonesian independence to join the TKR as armed militias."
+  },
+  {
+    "key": "INS_militias_kris_repayment",
+    "version": "",
+    "en": "KRIS Militias Demand Investment in Sulawesi"
+  },
+  {
+    "key": "INS_militias_di_mission",
+    "version": "",
+    "en": "Darul Islam Demands Representation"
+  },
+  {
+    "key": "INS_militias_jakarta_pemuda_mission",
+    "version": "",
+    "en": "Jakarta Pemuda Demand Improved Education"
+  },
+  {
+    "key": "INS_militias_railway_pemuda_mission",
+    "version": "",
+    "en": "Railway Youth Force Demands Combat"
+  },
+  {
+    "key": "INS_revolution_planning_cat",
+    "version": "",
+    "en": "Underground Revolution"
+  },
+  {
+    "key": "INS_revolution_planning_hq",
+    "version": "",
+    "en": "Establish a Revolutionary HQ in [FROM.GetName]"
+  },
+  {
+    "key": "INS_revolution_planning_hq_desc",
+    "version": "",
+    "en": "We will establish our militia headquarters in [FROM.GetName], which will operate as our central command for militia bases across the archipelago. Our headquarters and its surrounding territory will be prioritized in infiltration missions and will be firmly within our control."
+  },
+  {
+    "key": "INS_revolution_planning_hq_tt",
+    "version": "",
+    "en": "Has built at most §Y3§! revolutionary headquarters"
+  },
+  {
+    "key": "INS_revolution_planning_hq_DONE",
+    "version": "",
+    "en": "Revolutionary Headquarters"
+  },
+  {
+    "key": "INS_revolution_planning_hq_DONE_desc",
+    "version": "",
+    "en": "This is our revolutionary headquarters, where our militias report to. This state will be under our control once we declare independence."
+  },
+  {
+    "key": "INS_revolution_planning_hq_DONE_trigger_tt",
+    "version": "",
+    "en": "Can only establish one HQ"
+  },
+  {
+    "key": "INS_revolution_planning_envoy_DONE_trigger_tt",
+    "version": "",
+    "en": "Cannot establish multiple bases in the same state"
+  },
+  {
+    "key": "INS_revolution_planning_envoy_DONE",
+    "version": "",
+    "en": "Militia Base in [FROM.GetName]"
+  },
+  {
+    "key": "INS_has_revolutionary_hq",
+    "version": "",
+    "en": "Has established a Revolutionary HQ"
+  },
+  {
+    "key": "INS_revolution_planning_influence_state",
+    "version": "",
+    "en": "Establish Militia Base in [FROM.GetName]"
+  },
+  {
+    "key": "INS_revolution_planning_influence_state_desc",
+    "version": "",
+    "en": "We will send militias to [FROM.GetName] to establish a militia base, ensuring local revolutionaries are able to communicate with HQ and have an easier time executing operations once we declare independence."
+  },
+  {
+    "key": "INS_revolution_planning_cat_map_name",
+    "version": "",
+    "en": "Select where to manage militia activity"
+  },
+  {
+    "key": "INS_state_revolution_hq_tt",
+    "version": "",
+    "en": "State will be controlled by us once we declare independence"
+  },
+  {
+    "key": "INS_hq_warning",
+    "version": "",
+    "en": "§W§RPutting our headquarters here is difficult and will exert most of our resources.§!§!"
+  },
+  {
+    "key": "INS_revolution_points_remaining_tt",
+    "version": "",
+    "en": "Can build at least §Y1§! more militia base (currently §Y[?INS_revolution_points_remaining]§! remaining)"
+  },
+  {
+    "key": "INS_revolution_planning_influence_state_points_notif_tt",
+    "version": "",
+    "en": "We will be able to establish a militia base in §Y[?INS_starting_revolution_points_count]§! additional §Rnon-java§! states."
+  },
+  {
+    "key": "INS_revolution_planning_influence_state_points_notif_tt_1",
+    "version": "",
+    "en": "We will only be able to establish a militia base in §Y1§! additional §Rnon-java§! state."
+  },
+  {
+    "key": "INS_revolution_point_spend_tt",
+    "version": "",
+    "en": "A militia base is established in [FROM.GetName]"
+  },
+  {
+    "key": "INS_revolution_points_in_state_tt",
+    "version": "",
+    "en": "[FROM.GetName] does not already have a militia base"
+  },
+  {
+    "key": "war_escalation_1_or_more_tt",
+    "version": "",
+    "en": "Escalation is at least §Y1§!"
+  },
+  {
+    "key": "war_escalation_2_or_more_tt",
+    "version": "",
+    "en": "Escalation is at least §Y2§!"
+  },
+  {
+    "key": "war_escalation_3_or_more_tt",
+    "version": "",
+    "en": "Escalation is at least §Y3§!"
+  },
+  {
+    "key": "war_escalation_4_or_more_tt",
+    "version": "",
+    "en": "Escalation is at least §Y4§!"
+  },
+  {
+    "key": "war_escalation_5_or_more_tt",
+    "version": "",
+    "en": "Escalation is at least §Y5§!"
+  },
+  {
+    "key": "war_escalation_7_or_more_tt",
+    "version": "",
+    "en": "Escalation is at least §Y7§!"
+  },
+  {
+    "key": "war_escalation_8_or_more_tt",
+    "version": "",
+    "en": "Escalation is at least §Y8§!"
+  },
+  {
+    "key": "war_escalation_10_or_more_tt",
+    "version": "",
+    "en": "Escalation is at §Y10§!"
+  },
+  {
+    "key": "war_escalation_10_max_tt",
+    "version": "",
+    "en": "Escalation is below §Y10§!"
+  },
+  {
+    "key": "INS_no_raids_allowed_tt",
+    "version": "",
+    "en": "§W§RRaids will be unavailable while this decision is active.§!§!"
+  },
+  {
+    "key": "INS_is_deescalating_tt",
+    "version": "",
+    "en": "Is not already doing a deescalation mission"
+  },
+  {
+    "key": "INS_escalate_the_conflict",
+    "version": "",
+    "en": "Escalate the Conflict"
+  },
+  {
+    "key": "INS_escalate_the_conflict_desc",
+    "version": "",
+    "en": "We will organize riots and skirmishes with the enemy forces in order to raise tension and escalation, laying the groundwork to ensure more severe operations later face less international scrutiny."
+  },
+  {
+    "key": "INS_escalate_the_conflict_HOL",
+    "version": "",
+    "en": "$INS_escalate_the_conflict$"
+  },
+  {
+    "key": "INS_escalate_the_conflict_HOL_desc",
+    "version": "",
+    "en": "$INS_escalate_the_conflict_desc$"
+  },
+  {
+    "key": "INS_deescalate_the_conflict",
+    "version": "",
+    "en": "Request International Mediation"
+  },
+  {
+    "key": "INS_deescalate_the_conflict_2",
+    "version": "",
+    "en": "Order a Ceasefire"
+  },
+  {
+    "key": "INS_deescalate_the_conflict_desc",
+    "version": "",
+    "en": "The Dutch will not negotiate with us in good faith. To them we remain rebels, an inconvenience to be suppressed rather than a nation to be reckoned with. But the great powers of the world are another matter, and The Hague cannot dismiss them so easily. We will appeal to the international community to mediate, and let foreign pressure compel what our own voice cannot."
+  },
+  {
+    "key": "INS_deescalate_the_conflict_2_desc",
+    "version": "",
+    "en": "Our raids have done their work. The colonial garrison knows our reach, and The Hague knows we are not cowed. Yet each strike gives the Netherlands fresh cause to send more men and more ships, and we are not ready for open war. Word will go to our commanders to hold their fire. The next blow falls when we say so, not when the Dutch goad us into it."
+  },
+  {
+    "key": "INS_renville_tt_HOL",
+    "version": "",
+    "en": "§W§Y[USA.GetFlag][USA.GetNameDefCap]§! will give us an ultimatum. If we do not surrender and withdraw from Indonesia, they will §Rdeclare war§! on us.§!"
+  },
+  {
+    "key": "INS_renville_wont_happen_neutral_tt",
+    "version": "",
+    "en": "The conflict will end before American negotiations conclude, they will be unable to intervene."
+  },
+  {
+    "key": "INS_renville_explain_USA_tt",
+    "version": "",
+    "en": "If the conflict has not resolved in §Y365 days§!:\\n\\n"
+  },
+  {
+    "key": "INS_renville_timer_mission_republic",
+    "version": "",
+    "en": "Renville Negotiations Pending"
+  },
+  {
+    "key": "INS_renville_timer_mission_HOL",
+    "version": "",
+    "en": "$INS_renville_timer_mission_republic$"
+  },
+  {
+    "key": "INS_national_revolution_peace_negotiation",
+    "version": "",
+    "en": "Negotiate withdrawal of [FROM.GetName]"
+  },
+  {
+    "key": "indonesia_reduce_escalation_1_effect_tooltip_for_min_4",
+    "version": "",
+    "en": "Reduces escalation by §G1§!, to a minimum of §Y4§!."
+  },
+  {
+    "key": "INS_ongoing_influence_process",
+    "version": "",
+    "en": "Is not already establishing a militia base"
+  },
+  {
+    "key": "INS_current_revolution_strength_3_tt",
+    "version": "",
+    "en": "This state currently has §GHigh§! militia activity."
+  },
+  {
+    "key": "INS_current_revolution_strength_0_tt",
+    "version": "",
+    "en": "This state currently has no militia activity."
+  },
+  {
+    "key": "INS_has_spent_points_trigger_tt",
+    "version": "",
+    "en": "Cannot establish additional militia bases"
+  },
+  {
+    "key": "INS_national_revolution_cat",
+    "version": "",
+    "en": "Indonesian National Revolution"
+  },
+  {
+    "key": "INS_national_revolution_cat_desc",
+    "version": "",
+    "en": "After 350 years of Dutch tyranny, we have taken matters into our own hands and declared independence. The Netherlands does not recognize our authority, still continuing to govern the Indies as their colony while treating us as criminals.\\n\\nWe must continue to take control over more regions and important cities and topple the Dutch government from within. However, we should be careful to not be too aggressive without careful planning, as rapid escalation from us might provoke Dutch military action."
+  },
+  {
+    "key": "INS_national_revolution_cat_map",
+    "version": "",
+    "en": "Launch Feint Uprisings"
+  },
+  {
+    "key": "INS_national_revolution_dutch_cat",
+    "version": "",
+    "en": "Revolutionary Militias in the Indies"
+  },
+  {
+    "key": "INS_national_revolution_dutch_cat_desc",
+    "version": "",
+    "en": "Revolutionaries in the East Indies have illegally declared independence, and have taken control over regions of the Indies with militia forces. Despite our best efforts, we have been unable to reestablish control in these regions due to the sheer number of militia forces present.\\n\\nWe need to stop them before they take control over more cities and destabilize the Indies administration further. While extreme, military force may be necessary if they continue to act like this."
+  },
+  {
+    "key": "INS_HOL_revolution_not_going_well_tt",
+    "version": "",
+    "en": "§RWithout Batavia we cannot govern the Indies, and we will have no choice but to negotiate a peace agreement with the revolutionaries.§!"
+  },
+  {
+    "key": "INS_gradual_escalation_republic",
+    "version": "",
+    "en": "Gradual Escalation"
+  },
+  {
+    "key": "INS_gradual_escalation_HOL",
+    "version": "",
+    "en": "Gradual Escalation"
+  },
+  {
+    "key": "INS_gradual_escalation_republic_desc",
+    "version": "",
+    "en": "Dutch reprisals have grown heavier after each of our raids, and their patrols press into districts they had abandoned months ago. Our commanders report harder fighting in places long thought settled, and our casualties mount faster than the recruiters can replace them. The conflict has spread into provinces that were quiet last year."
+  },
+  {
+    "key": "INS_gradual_escalation_HOL_desc",
+    "version": "",
+    "en": "The reports from our residencies worsen by the week. The rebels strike in districts where they were not thought to operate, and the military command in Batavia presses for measures heavier than any tried before. In The Hague, those who once counselled patience grow fewer at every cabinet meeting."
+  },
+  {
+    "key": "INS_national_revolution_republic_win_ins_tt",
+    "version": "",
+    "en": "[INS.GetAdjective] Republican Militias will assert §Gde-facto control§! over the region, and the conflict will end in a §GRepublican Victory§!."
+  },
+  {
+    "key": "INS_national_revolution_republic_win_hol_tt",
+    "version": "",
+    "en": "[INS.GetAdjective] Republican Militias will assert §Rde-facto control§! over the region, and the conflict will end in a §RRepublican Victory§!."
+  },
+  {
+    "key": "INS_national_revolution_dutch_cat_map",
+    "version": "",
+    "en": "View states occupied by militias"
+  },
+  {
+    "key": "INS_take_batavia",
+    "version": "",
+    "en": "Seize control over Java"
+  },
+  {
+    "key": "INS_take_batavia_desc",
+    "version": "",
+    "en": "The Dutch greed that caused them to invest almost exclusively in Java, ignoring the eastern islands has left Java as the Achilles' heel of the entire colony. This will be their downfall! We must storm our forces into Java and destroy Dutch communications and supply networks, making the Indies administration unable to operate."
+  },
+  {
+    "key": "INS_hold_batavia_HOL",
+    "version": "",
+    "en": "Hold Java"
+  },
+  {
+    "key": "INS_hold_batavia_HOL_desc",
+    "version": "",
+    "en": "The Republican forces have begun an operation to relocate most of their forces into Java, attempting to take control over the entire island. We must continue to resist, their operation is risky, and has given us an opportunity to topple their government if they fail."
+  },
+  {
+    "key": "INS_militias_moestopo_mission",
+    "version": "",
+    "en": "Moestopo demands promotion for his efforts"
+  },
+  {
+    "key": "INS_militias_pki_uprising_mission",
+    "version": "",
+    "en": "Communist Uprising Inevitable"
+  },
+  {
+    "key": "INS_pacific_revolution_cat",
+    "version": "",
+    "en": "Pacific Revolution"
+  },
+  {
+    "key": "INS_instigate_in_country",
+    "version": "",
+    "en": "Instigate Revolution in [FROM.GetName]"
+  },
+  {
+    "key": "INS_instigate_in_country_desc",
+    "version": "",
+    "en": "Our revolution did not end when the last colonial soldier was driven from [ROOT.GetAdjective] soil. The workers and peasants of [FROM.GetName] suffer under the same yoke we have cast off, and they look to us now as proof that the oppressor can be beaten. We shall send our agitators among them, distribute pamphlets, fund their unions, and fan the flames of discontent until the conditions for revolution are ripe."
+  },
+  {
+    "key": "INS_launch_revolution",
+    "version": "",
+    "en": "Call for Revolution"
+  },
+  {
+    "key": "INS_launch_revolution_desc",
+    "version": "",
+    "en": "The conditions in [FROM.GetName] are ripe. Our agents report growing unrest in the factories and fields, and the local party cells are prepared to act. The time has come to call the workers and peasants of [FROM.GetName] to rise and seize what is rightfully theirs."
+  },
+  {
+    "key": "INS_anti_colonialist_bonus",
+    "version": "",
+    "en": "Spread Anti-Colonialist Sentiment in [FROM.GetName]"
+  },
+  {
+    "key": "INS_anti_colonialist_bonus_desc",
+    "version": "",
+    "en": "The people of [FROM.GetName] toil for the benefit of a foreign master, made to serve interests not their own. We shall remind them that submission is a choice, and that their masters are not as strong as they pretend to be."
+  },
+  {
+    "key": "INS_revolutionary_sentiment",
+    "version": "",
+    "en": "Cooperate with [FROM.GetAdjective] Revolutionaries"
+  },
+  {
+    "key": "INS_revolutionary_sentiment_desc",
+    "version": "",
+    "en": "There are those within [FROM.GetName] who have already taken up the cause on their own. They lack organization and resources, but not conviction. By coordinating with these groups we can hasten the collapse of the existing order, even if the resulting instability makes the country harder to govern in the short term."
+  },
+  {
+    "key": "INS_arm_militias",
+    "version": "",
+    "en": "Arm Local [FROM.GetAdjective] Militias"
+  },
+  {
+    "key": "INS_arm_militias_desc",
+    "version": "",
+    "en": "Pamphlets and speeches will carry the revolution only so far. When the moment comes, our comrades in [FROM.GetName] must be able to fight. Surplus arms and supplies are to be smuggled to sympathetic militias so that the forces of reaction will face an armed populace, not a defenceless one."
+  },
+  {
+    "key": "INS_arm_militias_tt",
+    "version": "",
+    "en": "If a civil war starts, the Communists will start with additional divisions."
+  },
+  {
+    "key": "INS_propoganda_mission",
+    "version": "",
+    "en": "Spread Communism through [FROM.GetName]"
+  },
+  {
+    "key": "INS_propoganda_mission_desc",
+    "version": "",
+    "en": "Party organisers are to be dispatched throughout [FROM.GetName] to establish reading circles, recruit among the trade unions, and bring the message of revolution to the villages. The seeds we plant today will bear fruit soon enough."
+  },
+  {
+    "key": "INS_abandon_mission",
+    "version": "",
+    "en": "Abandon the Mission"
+  },
+  {
+    "key": "INS_abandon_mission_desc",
+    "version": "",
+    "en": "Our resources are not limitless, and the struggle in [FROM.GetNameDef] demands more than we can presently afford to give. We shall withdraw our agents and redirect our efforts where they are needed most."
+  },
+  {
+    "key": "INS_aslia_cat",
+    "version": "",
+    "en": "Unification of the Pacific"
+  },
+  {
+    "key": "INS_maphilindo_speech_ingration",
+    "version": "",
+    "en": "Annex subject"
+  },
+  {
+    "key": "INS_integrate_subject",
+    "version": "",
+    "en": "Integrate [FROM.GetName]"
+  },
+  {
+    "key": "INS_integrate_subject_in_progress",
+    "version": "",
+    "en": "Is already integrating a subject"
+  },
+  {
+    "key": "INS_can_raid_here_HOL",
+    "version": "",
+    "en": "Raidable State"
+  },
+  {
+    "key": "INS_can_raid_here_HOL_tt",
+    "version": "",
+    "en": "This state is a potential target of a militia land raid by the Republic. If successful, the state will be taken from us. In order to defend the state from raids, we can:\\n$success_modifier_INS_has_influence_mod_counterplay$\\n$success_modifier_INS_defense_modifier_counterplay$\\n$success_modifier_INS_naval_dominance_modifier_counterplay$\\n- Increase §YAir Superiority§!\\n- Reduce intel to enemies\\n- Reduce resistance in the state"
+  },
+  {
+    "key": "INS_war_escalation_text",
+    "version": "",
+    "en": "£generic_war_escalation_text_icon Escalation Level: §Y[?INS.INS_war_escalation_level]§!"
+  },
+  {
+    "key": "INS_war_escalation_level_tt",
+    "version": "",
+    "en": "§YCurrent Escalation§!\\n\\nEscalation Level increases over time, and also by Militias §Yoccupying new states§!, and [HOL.GetNameDef] taking actions to combat militia activity. If the situation escalates enough, it can turn into §Rtotal warfare§!."
+  },
+  {
+    "key": "INS_war_escalation_1_tt",
+    "version": "",
+    "en": "§Y[INS.GetName]§!: Unlocks land raids"
+  },
+  {
+    "key": "INS_war_escalation_2_tt",
+    "version": "",
+    "en": "§Y[INS.GetName]§!: Unlocks decision to order a ceasefire"
+  },
+  {
+    "key": "INS_war_escalation_3_tt",
+    "version": "",
+    "en": "§Y[HOL.GetName]§!: Unlocks focuses to request British or French involvement"
+  },
+  {
+    "key": "INS_war_escalation_4_tt",
+    "version": "",
+    "en": "§Y[HOL.GetName]§!: Unlocks decision to declare war (with heavy penalties due to international pushback)\\n§Y[INS.GetName]§!: Unlocks decision to request international mediation to deescalate"
+  },
+  {
+    "key": "INS_war_escalation_5_tt",
+    "version": "",
+    "en": "§Y[INS.GetName]§!: Battle in Surabaya"
+  },
+  {
+    "key": "INS_war_escalation_6_tt",
+    "version": "",
+    "en": "No effects"
+  },
+  {
+    "key": "INS_war_escalation_7_tt",
+    "version": "",
+    "en": "§Y[HOL.GetName]§!: Decision to declare war no longer gives penalties\\n§Y[INS.GetName]§!: Unlocks focus to declare war"
+  },
+  {
+    "key": "INS_war_escalation_8_tt",
+    "version": "",
+    "en": "§Y[INS.GetName]§!: Unlocks focus to launch infiltration campaign in Java. §RThis can lead to an early Indonesian victory.§!\\n§Y[INS.GetName]§!: Failed Attempt on Sukarno's Life"
+  },
+  {
+    "key": "INS_war_escalation_9_tt",
+    "version": "",
+    "en": "§Y[INS.GetName]§!: Socialist Parties Merge"
+  },
+  {
+    "key": "INS_war_escalation_10_tt",
+    "version": "",
+    "en": "§Y[INS.GetName]§!: Can request American diplomatic involvement"
+  },
+  {
+    "key": "INS_limited_wars_cat",
+    "version": "",
+    "en": "Limited Wars"
+  },
+  {
+    "key": "INS_start_limited_war_malaya",
+    "version": "",
+    "en": "Start a Limited War in Malaya"
+  },
+  {
+    "key": "INS_limited_war_malaya",
+    "version": "",
+    "en": "Konfrontasi!"
+  },
+  {
+    "key": "INS_start_limited_war_borneo",
+    "version": "",
+    "en": "Start a Limited War in North Borneo"
+  },
+  {
+    "key": "INS_limited_war_borneo",
+    "version": "",
+    "en": "Ganyang Borneo!"
+  },
+  {
+    "key": "INS_borneo_puppet_cat",
+    "version": "",
+    "en": "The North Borneo Federation"
+  },
+  {
+    "key": "INS_release_puppet_sarawak",
+    "version": "",
+    "en": "Proclaim the Raj of Sarawak"
+  },
+  {
+    "key": "INS_release_puppet_sarawak_desc",
+    "version": "",
+    "en": "Release §YSarawak§! as an integrated member of the Indonesian Union."
+  },
+  {
+    "key": "INS_release_puppet_brunei",
+    "version": "",
+    "en": "Restore the Sultanate of Brunei"
+  },
+  {
+    "key": "INS_release_puppet_brunei_desc",
+    "version": "",
+    "en": "Release §YBrunei§! as an integrated member of the Indonesian Union."
+  },
+  {
+    "key": "INS_release_puppet_sabah",
+    "version": "",
+    "en": "Proclaim the Republic of Sabah"
+  },
+  {
+    "key": "INS_release_puppet_sabah_desc",
+    "version": "",
+    "en": "Release §YSabah§! as an integrated member of the Indonesian Union."
+  },
+  {
+    "key": "INS_revolution_penalty_reduce_tt",
+    "version": "",
+    "en": "§YWe will not get penalties if this decision is taken at escalation 7§!."
+  },
+  {
+    "key": "INS_revolution_penalty_reduce_tt_2",
+    "version": "",
+    "en": "§RPenalties will be removed if we wait until escalation §Y8§!§!."
+  },
+  {
+    "key": "INS_increase_escalation_1_tt",
+    "version": "",
+    "en": "Increases §YEscalation Level§! by §R1§!"
+  },
+  {
+    "key": "INS_increase_escalation_2_tt",
+    "version": "",
+    "en": "Increases §YEscalation Level§! by §R2§!"
+  },
+  {
+    "key": "INS_increase_escalation_3_tt",
+    "version": "",
+    "en": "Increases §YEscalation Level§! by §R3§!"
+  },
+  {
+    "key": "INS_reduce_escalation_1_tt",
+    "version": "",
+    "en": "Reduces §YEscalation Level§! by §G1§!"
+  },
+  {
+    "key": "INS_reduce_escalation_2_tt",
+    "version": "",
+    "en": "Reduces §YEscalation Level§! by §G2§!"
+  },
+  {
+    "key": "INS_reduce_escalation_3_tt",
+    "version": "",
+    "en": "Reduces §YEscalation Level§! by §G3§!"
+  },
+  {
+    "key": "INS_exile_cat",
+    "version": "",
+    "en": "East Indies Exile Government"
+  },
+  {
+    "key": "INS_legitimacy_decision_1",
+    "version": "",
+    "en": "Lobbying Efforts"
+  },
+  {
+    "key": "INS_dockyard_decision",
+    "version": "",
+    "en": "Lease Foreign Dockyards"
+  },
+  {
+    "key": "INS_army_factory_decision",
+    "version": "",
+    "en": "Lease Foreign Military Factories"
+  },
+  {
+    "key": "INS_mil_factory_cost_tt",
+    "version": "",
+    "en": "Increases cost of East Indies Exile Government decisions by £pol_power §Y25§!."
+  },
+  {
+    "key": "INS_revolution_war_HOL",
+    "version": "",
+    "en": "Launch a Police Action"
+  },
+  {
+    "key": "INS_revolution_war_HOL_desc",
+    "version": "",
+    "en": "These rebels have gone on long enough. Far too much money and military resources have gone toward thwarting the militia operations, and yet they continue to expand. We cannot wait any longer, total war is the only way forward."
+  },
+  {
+    "key": "INS_national_revolution_republic_warning_police_action",
+    "version": "",
+    "en": "[HOL.GetName] Preparing Military Campaign"
+  },
+  {
+    "key": "INS_national_revolution_republic_sukarno_threatened",
+    "version": "",
+    "en": "Sukarno Facing Assassination Attempts"
+  },
+  {
+    "key": "INS_national_revolution_republic_sukarno_threatened_desc",
+    "version": "",
+    "en": "Sukarno recently survived an assassination attempt, and it is clear another one will happen if order is not restored."
+  },
+  {
+    "key": "INS_economic_cat",
+    "version": "",
+    "en": "The Indonesian Economy"
+  },
+  {
+    "key": "INS_expanding_asian_trade_mission",
+    "version": "",
+    "en": "Expanding Asian Trade Routes"
+  },
+  {
+    "key": "INS_improve_the_category_of_state_decision",
+    "version": "",
+    "en": "Invest in the Urbanization of §Y[FROM.GetName]§!"
+  },
+  {
+    "key": "INS_unity_in_diversity_cat",
+    "version": "",
+    "en": "Unity in Diversity"
+  },
+  {
+    "key": "INS_unity_in_diversity_explain_tt",
+    "version": "",
+    "en": "Allows you to §Gcore§! any Indonesian princely state which has received industrial investment."
+  },
+  {
+    "key": "INS_core_state_decision",
+    "version": "",
+    "en": "Integrate [FROM.GetName]"
+  },
+  {
+    "key": "INS_has_built_at_least_one_infrastructure",
+    "version": "",
+    "en": "Has built at least one §Y$infrastructure$§!"
+  },
+  {
+    "key": "INS_has_built_at_least_one_civ",
+    "version": "",
+    "en": "Has built at least one §Y$industrial_complex$§!"
+  },
+  {
+    "key": "INS_volksraad_decisions_no_reject",
+    "version": "",
+    "en": "[HOL.GetFlag][HOL.GetNameDefCap] can no longer §Yveto§! Volksraad decisions"
+  },
+  {
+    "key": "INS_malay_unification_cat",
+    "version": "",
+    "en": "Malay Unification"
+  },
+  {
+    "key": "INS_propose_malay_unification_decision",
+    "version": "",
+    "en": "$INSHOL_propose_malay_unification$"
+  },
+  {
+    "key": "INS_propose_malay_unification_decision_desc",
+    "version": "",
+    "en": "$INSHOL_propose_malay_unification_desc$"
+  },
+  {
+    "key": "INS_invite_phillipines_decision",
+    "version": "",
+    "en": "$INSHOL_invite_phillipines$"
+  },
+  {
+    "key": "INS_invite_phillipines_decision_desc",
+    "version": "",
+    "en": "$INSHOL_invite_phillipines_desc$"
+  },
+  {
+    "key": "INS_singapore_compromise_decision",
+    "version": "",
+    "en": "$INSHOL_singapore_compromise$"
+  },
+  {
+    "key": "INS_singapore_compromise_decision_desc",
+    "version": "",
+    "en": "$INSHOL_singapore_compromise_desc$"
+  },
+  {
+    "key": "INS_request_ceylon_decision",
+    "version": "",
+    "en": "$INSHOL_request_ceylon$"
+  },
+  {
+    "key": "INS_request_ceylon_decision_desc",
+    "version": "",
+    "en": "$INSHOL_request_ceylon_desc$"
+  },
+  {
+    "key": "INS_papua_referendum_decision",
+    "version": "",
+    "en": "$INSHOL_papua_referendum$"
+  },
+  {
+    "key": "INS_papua_referendum_decision_desc",
+    "version": "",
+    "en": "$INSHOL_papua_referendum_desc$"
+  },
+  {
+    "key": "INS_economic_convert_rubber",
+    "version": "",
+    "en": "Reallocate Rubber Industry Funding in [FROM.GetName]"
+  },
+  {
+    "key": "INS_convert_rubber_tt",
+    "version": "",
+    "en": "§RRemoves§! §Y16§!£resources_strip|3 in [FROM.GetName]\\nChoose §Yone§! of the following:\\n   Add production of §Y8§!£resources_strip|1 in [FROM.GetName]\\n   Add production of §Y3§!£resources_strip|2, §Y3§!£resources_strip|5 in [FROM.GetName]\\n   Add production of §Y3§!£resources_strip|4, §Y3§!£resources_strip|6 in [FROM.GetName]\\n   Add production of §Y4§!£resources_strip|7 in [FROM.GetName]\\n"
+  },
+  {
+    "key": "INS_selling_resource_flag",
+    "version": "",
+    "en": "Is already negotiating a resource contract"
+  },
+  {
+    "key": "INS_cost_text_rubber_4",
+    "version": "",
+    "en": "£resources_strip|3 §Y4§!"
+  },
+  {
+    "key": "INS_cost_text_rubber_4_blocked",
+    "version": "",
+    "en": "£resources_strip|3 §R4§!"
+  },
+  {
+    "key": "INS_cost_text_rubber_4_tooltip",
+    "version": "",
+    "en": "It costs£resources_strip|3 §Y4§! to take the decision."
+  },
+  {
+    "key": "INS_cost_text_rubber_8",
+    "version": "",
+    "en": "£resources_strip|3 §Y8§!"
+  },
+  {
+    "key": "INS_cost_text_rubber_8_blocked",
+    "version": "",
+    "en": "£resources_strip|3 §R8§!"
+  },
+  {
+    "key": "INS_cost_text_rubber_12",
+    "version": "",
+    "en": "£resources_strip|3 §Y12§!"
+  },
+  {
+    "key": "INS_cost_text_rubber_12_blocked",
+    "version": "",
+    "en": "£resources_strip|3 §R12§!"
+  },
+  {
+    "key": "INS_cost_text_rubber_16",
+    "version": "",
+    "en": "£resources_strip|3 §Y16§!"
+  },
+  {
+    "key": "INS_cost_text_rubber_16_blocked",
+    "version": "",
+    "en": "£resources_strip|3 §R16§!"
+  },
+  {
+    "key": "INS_cost_text_rubber_24",
+    "version": "",
+    "en": "£resources_strip|3 §Y24§!"
+  },
+  {
+    "key": "INS_cost_text_rubber_24_blocked",
+    "version": "",
+    "en": "£resources_strip|3 §R24§!"
+  },
+  {
+    "key": "INS_cost_text_rubber_32",
+    "version": "",
+    "en": "£resources_strip|3 §Y32§!"
+  },
+  {
+    "key": "INS_cost_text_rubber_32_blocked",
+    "version": "",
+    "en": "£resources_strip|3 §R32§!"
+  },
+  {
+    "key": "INS_cost_text_rubber_40",
+    "version": "",
+    "en": "£resources_strip|3 §Y40§!"
+  },
+  {
+    "key": "INS_cost_text_rubber_40_blocked",
+    "version": "",
+    "en": "£resources_strip|3 §R40§!"
+  },
+  {
+    "key": "INS_cost_text_rubber_48",
+    "version": "",
+    "en": "£resources_strip|3 §Y48§!"
+  },
+  {
+    "key": "INS_cost_text_rubber_48_blocked",
+    "version": "",
+    "en": "£resources_strip|3 §R48§!"
+  },
+  {
+    "key": "INS_cost_text_rubber_60",
+    "version": "",
+    "en": "£resources_strip|3 §Y60§!"
+  },
+  {
+    "key": "INS_cost_text_rubber_60_blocked",
+    "version": "",
+    "en": "£resources_strip|3 §R60§!"
+  },
+  {
+    "key": "INS_cost_text_rubber_90",
+    "version": "",
+    "en": "£resources_strip|3 §Y90§!"
+  },
+  {
+    "key": "INS_cost_text_rubber_90_blocked",
+    "version": "",
+    "en": "£resources_strip|3 §R90§!"
+  },
+  {
+    "key": "INS_cost_text_rubber_120",
+    "version": "",
+    "en": "£resources_strip|3 §Y120§!"
+  },
+  {
+    "key": "INS_cost_text_rubber_120_blocked",
+    "version": "",
+    "en": "£resources_strip|3 §R120§!"
+  },
+  {
+    "key": "INS_cost_text_oil_4",
+    "version": "",
+    "en": "£resources_strip|1 §Y4§!"
+  },
+  {
+    "key": "INS_cost_text_oil_4_blocked",
+    "version": "",
+    "en": "£resources_strip|1 §R4§!"
+  },
+  {
+    "key": "INS_cost_text_oil_8",
+    "version": "",
+    "en": "£resources_strip|1 §Y8§!"
+  },
+  {
+    "key": "INS_cost_text_oil_8_blocked",
+    "version": "",
+    "en": "£resources_strip|1 §R8§!"
+  },
+  {
+    "key": "INS_cost_text_oil_12",
+    "version": "",
+    "en": "£resources_strip|1 §Y12§!"
+  },
+  {
+    "key": "INS_cost_text_oil_12_blocked",
+    "version": "",
+    "en": "£resources_strip|1 §R12§!"
+  },
+  {
+    "key": "INS_cost_text_oil_16",
+    "version": "",
+    "en": "£resources_strip|1 §Y16§!"
+  },
+  {
+    "key": "INS_cost_text_oil_16_blocked",
+    "version": "",
+    "en": "£resources_strip|1 §R16§!"
+  },
+  {
+    "key": "INS_cost_text_oil_24",
+    "version": "",
+    "en": "£resources_strip|1 §Y24§!"
+  },
+  {
+    "key": "INS_cost_text_oil_24_blocked",
+    "version": "",
+    "en": "£resources_strip|1 §R24§!"
+  },
+  {
+    "key": "INS_cost_text_oil_32",
+    "version": "",
+    "en": "£resources_strip|1 §Y32§!"
+  },
+  {
+    "key": "INS_cost_text_oil_32_blocked",
+    "version": "",
+    "en": "£resources_strip|1 §R32§!"
+  },
+  {
+    "key": "INS_cost_text_oil_40",
+    "version": "",
+    "en": "£resources_strip|1 §Y40§!"
+  },
+  {
+    "key": "INS_cost_text_oil_40_blocked",
+    "version": "",
+    "en": "£resources_strip|1 §R40§!"
+  },
+  {
+    "key": "INS_cost_text_oil_48",
+    "version": "",
+    "en": "£resources_strip|1 §Y48§!"
+  },
+  {
+    "key": "INS_cost_text_oil_48_blocked",
+    "version": "",
+    "en": "£resources_strip|1 §R48§!"
+  },
+  {
+    "key": "INS_cost_text_oil_60",
+    "version": "",
+    "en": "£resources_strip|1 §Y60§!"
+  },
+  {
+    "key": "INS_cost_text_oil_60_blocked",
+    "version": "",
+    "en": "£resources_strip|1 §R60§!"
+  },
+  {
+    "key": "INS_cost_text_oil_90",
+    "version": "",
+    "en": "£resources_strip|1 §Y90§!"
+  },
+  {
+    "key": "INS_cost_text_oil_90_blocked",
+    "version": "",
+    "en": "£resources_strip|1 §R90§!"
+  },
+  {
+    "key": "INS_cost_text_oil_120",
+    "version": "",
+    "en": "£resources_strip|1 §Y120§!"
+  },
+  {
+    "key": "INS_cost_text_oil_120_blocked",
+    "version": "",
+    "en": "£resources_strip|1 §R120§!"
+  },
+  {
+    "key": "INS_resources_refunded_in_24_months_tt",
+    "version": "",
+    "en": "§W§YThe sold resources will be consumed for two years, after which they will be returned.§!§!"
+  },
+  {
+    "key": "INS_realign_supply_chains_time_reduce_30_tt",
+    "version": "",
+    "en": "Reduces the cooldown of  §Y$INS_realign_supply_chains_cat$§! Decisions by §Y30§! days."
+  },
+  {
+    "key": "INS_realign_supply_chains_time_reduce_10_tt",
+    "version": "",
+    "en": "Reduces the cooldown of  §Y$INS_realign_supply_chains_cat$§! Decisions by §Y10§! days."
+  },
+  {
+    "key": "INS_realign_supply_chains_cat",
+    "version": "",
+    "en": "Resource Contracts"
+  },
+  {
+    "key": "INS_rubber_for_civ",
+    "version": "",
+    "en": "Sell Rubber to Subsidize Civilian Industry"
+  },
+  {
+    "key": "INS_rubber_for_mil",
+    "version": "",
+    "en": "Sell Rubber to Pay For Military Industrial Expansions"
+  },
+  {
+    "key": "INS_rubber_for_xp",
+    "version": "",
+    "en": "Sell Rubber to Fund Training Missions"
+  },
+  {
+    "key": "INS_rubber_for_pp",
+    "version": "",
+    "en": "Use Rubber for Bribery"
+  },
+  {
+    "key": "INS_rubber_for_infantry_eq",
+    "version": "",
+    "en": "Sell Rubber for Guns"
+  },
+  {
+    "key": "INS_rubber_for_truck",
+    "version": "",
+    "en": "Sell Rubber to Secure Transport Fleets"
+  },
+  {
+    "key": "INS_rubber_for_train",
+    "version": "",
+    "en": "Sell Rubber to Expand Railway infrastructure"
+  },
+  {
+    "key": "INS_rubber_for_soldiers",
+    "version": "",
+    "en": "Fund the Military Communications Infrastructure Project with Rubber"
+  },
+  {
+    "key": "INS_oil_for_civ",
+    "version": "",
+    "en": "Sell Oil to Subsidize Civilian Industry"
+  },
+  {
+    "key": "INS_oil_for_mil",
+    "version": "",
+    "en": "Sell Oil to Pay For Military Industrial Expansions"
+  },
+  {
+    "key": "INS_oil_for_plane",
+    "version": "",
+    "en": "Sell Oil to American Plane Companies"
+  },
+  {
+    "key": "INS_oil_for_dockyard",
+    "version": "",
+    "en": "Sell Oil to American Shipyards"
+  },
+  {
+    "key": "INS_launch_feint_uprising",
+    "version": "",
+    "en": "Launch Feint Uprising"
+  },
+  {
+    "key": "INS_launch_feint_uprising_desc",
+    "version": "",
+    "en": "We will use our local connections to arm the people and send them out to stir up trouble, thereby drawing military attention. Their doomed uprising will be a heroic sacrifice for the cause."
+  },
+  {
+    "key": "INS_launched_feint_uprising",
+    "version": "",
+    "en": "Another feint uprising currently active."
+  },
+  {
+    "key": "INS_feint_uprising_tt",
+    "version": "",
+    "en": "Nearby KNIL and Dutch units will deploy to this state to suppress the local unrest, leaving neighboring states temporarily undefended."
+  },
+  {
+    "key": "INS_reorganize_freedom_fighter_militia_1",
+    "version": "",
+    "en": "Reorganize Freedom Fighter Divisions"
+  },
+  {
+    "key": "INS_reorganize_freedom_fighter_militia_1_tt",
+    "version": "",
+    "en": "Adds §Y2 $militia$ battalions§! to the §YFreedom Fighters§! Template."
+  },
+  {
+    "key": "INS_reorganize_freedom_fighter_militia_flag",
+    "version": "",
+    "en": "Has taken Decision: §Y$INS_reorganize_freedom_fighter_militia_1$§!"
+  },
+  {
+    "key": "INS_reorganize_freedom_fighter_militia_2",
+    "version": "",
+    "en": "Further Reorganize Freedom Fighter Divisions"
+  },
+  {
+    "key": "INS_reorganize_freedom_fighter_militia_2_tt",
+    "version": "",
+    "en": "Adds §Y3 $militia$ battalions§! to the §YFreedom Fighters§! Template."
+  },
+  {
+    "key": "INS_reorganize_freedom_fighter_militia_recon",
+    "version": "",
+    "en": "Reorganize Freedom Fighter Reconnaissance Units"
+  },
+  {
+    "key": "INS_reorganize_freedom_fighter_militia_recon_tt",
+    "version": "",
+    "en": "Adds §Y1 $recon$ battalion§! to the §YFreedom Fighters§! Template."
+  },
+  {
+    "key": "INS_leaders_cat",
+    "version": "",
+    "en": "Democratic Elections"
+  },
+  {
+    "key": "INS_has_changed_leader",
+    "version": "",
+    "en": "Election has been held less than 120 days ago"
+  },
+  {
+    "key": "INSHOL_democratic_elections_tt",
+    "version": "",
+    "en": "§YVolksraad§! becomes the ruling party.\\nUnlocks §YDemocratic Elections§! decisions to switch out the current country leader."
+  },
+  {
+    "key": "INSHOL_nationalist_coallition_tt",
+    "version": "",
+    "en": "§Y$INS_sutan_sjahrir$§! and §Y$INS_mohammad_hatta$§! will be available as country leaders after completing §Y$INSHOL_democracy$§!."
+  },
+  {
+    "key": "INSHOL_princely_authority_tt",
+    "version": "",
+    "en": "Princely leaders will be available as options for §YDemocratic Elections§!."
+  },
+  {
+    "key": "INS_set_leader_to_tjarda",
+    "version": "",
+    "en": "Elect $INS_a_t_van_starkenborgh_stachouwer$"
+  },
+  {
+    "key": "INS_set_leader_to_cornelis",
+    "version": "",
+    "en": "Elect $INS_bonifacius_cornelis_de_jonge$"
+  },
+  {
+    "key": "INS_set_leader_to_sjahrir",
+    "version": "",
+    "en": "Elect $INS_sutan_sjahrir$"
+  },
+  {
+    "key": "INS_set_leader_to_hatta",
+    "version": "",
+    "en": "Elect $INS_mohammad_hatta$"
+  },
+  {
+    "key": "INS_set_leader_to_sjarifuddin",
+    "version": "",
+    "en": "Elect $INS_amir_sjarifuddin_harahap$"
+  },
+  {
+    "key": "INS_set_leader_to_oerip",
+    "version": "",
+    "en": "Elect $INS_oerip_soemohardjo$"
+  },
+  {
+    "key": "INS_set_leader_to_poorten",
+    "version": "",
+    "en": "Elect $HOL_hein_ter_poorten$"
+  },
+  {
+    "key": "INS_set_leader_to_dewa",
+    "version": "",
+    "en": "Elect $INS_dewa_geg$"
+  },
+  {
+    "key": "INS_set_leader_to_INS_syarif_muhammad_alkadrie",
+    "version": "",
+    "en": "Elect $INS_syarif_muhammad_alkadrie$"
+  },
+  {
+    "key": "INS_set_leader_to_INS_sultan_muhibuddin",
+    "version": "",
+    "en": "Elect $INS_sultan_muhibuddin$"
+  },
+  {
+    "key": "INS_set_leader_to_INS_iskandar_sjah",
+    "version": "",
+    "en": "Elect $INS_iskandar_sjah$"
+  },
+  {
+    "key": "INS_set_leader_to_INS_syarif_kasim",
+    "version": "",
+    "en": "Elect $INS_syarif_kasim$"
+  },
+  {
+    "key": "INS_will_keep_characters_tt",
+    "version": "",
+    "en": "We will keep §Yall§! Dutch characters in the event of independence."
+  },
+  {
+    "key": "INS_will_not_keep_characters_tt",
+    "version": "",
+    "en": "We will keep §Ysome§! Dutch characters in the event of independence."
+  },
+  {
+    "key": "INS_the_co_prosperity_sphere_cat",
+    "version": "",
+    "en": "$INS_the_co_prosperity_sphere$"
+  },
+  {
+    "key": "INS_assume_complete_power",
+    "version": "",
+    "en": "Assume Complete Power"
+  },
+  {
+    "key": "INS_request_membership",
+    "version": "",
+    "en": "Request Membership"
+  },
+  {
+    "key": "INS_request_membership_tt",
+    "version": "",
+    "en": "They are more likely to accept if we share §YIdeology§!"
+  },
+  {
+    "key": "is_not_engaged_in_a_limited_war",
+    "version": "",
+    "en": "Is not engaged in a §YLimited War§!"
+  },
+  {
+    "key": "has_released_contingency_funds",
+    "version": "",
+    "en": "Has Released Contingency Funds"
+  },
+  {
+    "key": "improved_ship_hull_carrier",
+    "version": "",
+    "en": "Improved Carrier"
+  }
+]

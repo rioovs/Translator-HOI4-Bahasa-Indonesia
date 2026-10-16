@@ -1,0 +1,762 @@
+[
+  {
+    "key": "INS_political_events.1.t",
+    "version": "",
+    "en": "The New Governor General for [INS.GetNameDef]"
+  },
+  {
+    "key": "INS_political_events.1.desc",
+    "version": "",
+    "en": "The five-year term of [INS.GetLeader] is approaching its end, and thus we must decide on a suitable leader to take his place. Queen Wilhelmina has recommended Alidius Tjarda van Starkenborgh Stachouwer, who has shown great promise as Extraordinary Ambassador and Minister Plenipotentiary."
+  },
+  {
+    "key": "INS_political_events.1.a",
+    "version": "",
+    "en": "As the Queen wants."
+  },
+  {
+    "key": "INS_political_events.1.b",
+    "version": "",
+    "en": "[INS.GetLeader] has done well, he should serve another term."
+  },
+  {
+    "key": "INS_political_events.2.t",
+    "version": "",
+    "en": "[FROM.GetName] demands ownership of [721.GetName]"
+  },
+  {
+    "key": "INS_political_events.2.desc",
+    "version": "",
+    "en": "The new Republican government in the former Indies has declared the entire archipelago as their territory. [FROM.GetLeader] has sent us an official demand to give up [721.GetName], threatening military action upon refusal."
+  },
+  {
+    "key": "INS_political_events.2.a",
+    "version": "",
+    "en": "Fine, it is not worth causing an incident."
+  },
+  {
+    "key": "INS_political_events.2.b",
+    "version": "",
+    "en": "Absolutely not!"
+  },
+  {
+    "key": "INS_political_events.3.t",
+    "version": "",
+    "en": "[FROM.GetName] agrees to give up [721.GetName]"
+  },
+  {
+    "key": "INS_political_events.3.desc",
+    "version": "",
+    "en": "As expected, [FROM.GetLeader] has agreed to our demands and has begun moving troops out of [721.GetName]. TKR forces have entered the region together with several government envoys. [INS.GetLeader] himself gave a speech in Dili declaring freedom from colonial influence."
+  },
+  {
+    "key": "INS_political_events.3.a",
+    "version": "",
+    "en": "Wonderful!"
+  },
+  {
+    "key": "INS_political_events.4.t",
+    "version": "",
+    "en": "[FROM.GetName] refuses to give up [721.GetName]"
+  },
+  {
+    "key": "INS_political_events.4.desc",
+    "version": "",
+    "en": "Negotiations with [FROM.GetName] did not go well. [FROM.GetLeader] refused to give up [721.GetName] for any reason, ending the meeting early."
+  },
+  {
+    "key": "INS_political_events.4.a",
+    "version": "",
+    "en": "Then it is war."
+  },
+  {
+    "key": "INS_political_events.5.t",
+    "version": "",
+    "en": "The Indonesian General Election"
+  },
+  {
+    "key": "INS_political_events.5.desc",
+    "version": "",
+    "en": "Today marks a historical milestone for Indonesia. With the revolution officially over, Prime Minister [INS.GetLeader] has declared that Indonesia will hold its first free and democratic election. The outcome of this election will have a lasting impact on Indonesia."
+  },
+  {
+    "key": "INS_political_events.5.a",
+    "version": "",
+    "en": "Sutan Sjahrir has led our country to this point, he will guide us further!"
+  },
+  {
+    "key": "INS_political_events.5.b",
+    "version": "",
+    "en": "Amir Sjarifuddin is a fair compromise between the Socialists and Nationalists."
+  },
+  {
+    "key": "INS_political_events.5.c",
+    "version": "",
+    "en": "Mohammad Hatta started the revolution, and he will complete it."
+  },
+  {
+    "key": "INS_political_events.6.t",
+    "version": "",
+    "en": "Our preparations pay off"
+  },
+  {
+    "key": "INS_political_events.6.desc",
+    "version": "",
+    "en": "With the revolution underway, our guerillas which have infiltrated the Indies administration no longer need to operate in secrecy, and will begin to carry out their sabotage missions before the Netherlands has time to react."
+  },
+  {
+    "key": "INS_political_events.6.a",
+    "version": "",
+    "en": "We must continue to act fast."
+  },
+  {
+    "key": "INS_political_events.7.t",
+    "version": "",
+    "en": "The Soetardjo Petition"
+  },
+  {
+    "key": "INS_political_events.7.desc",
+    "version": "",
+    "en": "The Volksraad petition organized by Soetardjo which requests a round table conference to be held between Dutch and Indonesian representatives to discuss the Indonesian desire for autonomy has finished internal debate, and the petition has gone to the Governor General for approval. While many advisors insist the status quo must be maintained, and therefore the petition should be vetoed, there is no denying that nationalist movements are only getting stronger and more radicalized. If we continue to refuse every peaceful request for autonomy, the nationalists may begin trying more violent alternatives instead."
+  },
+  {
+    "key": "INS_political_events.7.a",
+    "version": "",
+    "en": "We must begin negotiations in order to avoid an inevitable civil war."
+  },
+  {
+    "key": "INS_political_events.7.b",
+    "version": "",
+    "en": "The status quo must continue."
+  },
+  {
+    "key": "INS_political_events.7.c",
+    "version": "",
+    "en": "Perhaps the nationalists have a point?"
+  },
+  {
+    "key": "INS_political_events.8.t",
+    "version": "",
+    "en": "[?event_target:INS_invasion_event_invader.GetAdjective] Occupation Imminent"
+  },
+  {
+    "key": "INS_political_events.8.desc",
+    "version": "",
+    "en": "Soldiers from [?event_target:INS_invasion_event_invader.GetName] have arrived at [?event_target:INS_invasion_event_invaded_state.GetName], and our soldiers in the area, being greatly outnumbered, have been ordered to engage a full military evacuation of [?event_target:INS_invasion_event_invaded_state.GetName]. The [?event_target:INS_invasion_event_invader.GetAdjective] forces are continuing to advance in the Indies and our chance of avoiding occupation are looking bleak."
+  },
+  {
+    "key": "INS_political_events.8.a",
+    "version": "",
+    "en": "We will arrest the nationalists and defend our home until the death!"
+  },
+  {
+    "key": "INS_political_events.9.t",
+    "version": "",
+    "en": "Indonesians Declare Independence"
+  },
+  {
+    "key": "INS_political_events.9.desc",
+    "version": "",
+    "en": "As [JAP.GetNameDef] began to withdraw their forces from the East Indies, we sent soldiers to Batavia in order to reestablish the colonial government. However, our soldiers discovered that the political landscape in the Indies has significantly changed since the occupation. Before our troops even made it to Batavia, [INS.GetLeader] had already signed a declaration of independence, proclaiming the Republic of Indonesia as an independent nation, with shocking amounts of support from the public."
+  },
+  {
+    "key": "INS_political_events.9.a",
+    "version": "",
+    "en": "Send in the tanks!"
+  },
+  {
+    "key": "INS_political_events.9.b",
+    "version": "",
+    "en": "This is hopeless, more fighting is not what we need. We should focus on rebuilding the homeland."
+  },
+  {
+    "key": "INS_political_events.11.t",
+    "version": "",
+    "en": "[HOL.GetNameDefCap] recognizes Indonesian sovereignty"
+  },
+  {
+    "key": "INS_political_events.11.desc",
+    "version": "",
+    "en": "Upon declaring independence, our militias immediately moved to defend our territory from the Dutch invasion we expected. However, to the surprise of many, [HOL.GetLeader] announced he will not call for an invasion, instead prioritizing rebuilding the Dutch homeland and avoiding further conflict."
+  },
+  {
+    "key": "INS_political_events.11.a",
+    "version": "",
+    "en": "A surprise, but a welcome one."
+  },
+  {
+    "key": "INS_political_events.12.t",
+    "version": "",
+    "en": "Meeting with Indonesian Nationalists"
+  },
+  {
+    "key": "INS_political_events.12.desc",
+    "version": "",
+    "en": "Our troops have landed in [?event_target:INS_invasion_event_invaded_state.GetName] and victory on the Indonesian front is imminent. We need to settle on how we should go about occupying Indonesia. While direct occupation would get us the resources we need, it’s going to be expensive and difficult. We’ve negotiated with Sukarno, a leading revolutionary, and have created a plan wherein we will establish an Indonesian puppet state, officially led partly by Sukarno, but under our command. This will keep the Indonesian civilians calm, and will be much cheaper than total occupation."
+  },
+  {
+    "key": "INS_political_events.12.a",
+    "version": "",
+    "en": "We should continue negotiations with Sukarno"
+  },
+  {
+    "key": "INS_political_events.12.b",
+    "version": "",
+    "en": "We are not interested in cooperating with revolutionaries."
+  },
+  {
+    "key": "INS_political_events.13.t",
+    "version": "",
+    "en": "[?event_target:INS_invasion_event_invader.GetAdjective] Occupation Imminent"
+  },
+  {
+    "key": "INS_political_events.13.desc",
+    "version": "",
+    "en": "Soldiers from [?event_target:INS_invasion_event_invader.GetName] have arrived at [?event_target:INS_invasion_event_invaded_state.GetName], and our soldiers in the area, being greatly outnumbered, have been ordered to engage a full military evacuation of [?event_target:INS_invasion_event_invaded_state.GetName]. The [?event_target:INS_invasion_event_invader.GetAdjective] forces are continuing to advance in the Indies and our chance of avoiding occupation are looking bleak. Additionally, our spies report that [?event_target:INS_invasion_event_invader.GetLeader] has been seen negotiating with Sukarno and other nationalist leaders, aiming to create an Indonesian puppet state led by Sukarno under the Co-Prosperity Sphere."
+  },
+  {
+    "key": "INS_political_events.13.a",
+    "version": "",
+    "en": "We will arrest the nationalists and defend our home until the death!"
+  },
+  {
+    "key": "INS_political_events.13.b",
+    "version": "",
+    "en": "It's dangerous, but perhaps this is a real chance to become independent?"
+  },
+  {
+    "key": "INS_peta_explain_tt",
+    "version": "",
+    "en": "We will be able to use the chaos of the occupation to declare total independence if [JAP.GetName] gets pushed back."
+  },
+  {
+    "key": "INS_peta_explain_tt_jap",
+    "version": "",
+    "en": "§R[INS.GetName] may stay loyal to us, but if we begin to lose control of territory, they may call our bluff and declare independence§!."
+  },
+  {
+    "key": "INS_political_events.14.t",
+    "version": "",
+    "en": "Nationalist Leaders Arrested"
+  },
+  {
+    "key": "INS_political_events.14.desc",
+    "version": "",
+    "en": "Sukarno, as well as several other top revolutionaries in Indonesia have been arrested by Dutch military police, before we were able to establish the puppet regime."
+  },
+  {
+    "key": "INS_political_events.14.a",
+    "version": "",
+    "en": "Shame, he would've been a valuable ally."
+  },
+  {
+    "key": "INS_political_events.15.t",
+    "version": "",
+    "en": "Defenders of the Homeland"
+  },
+  {
+    "key": "INS_political_events.15.desc",
+    "version": "",
+    "en": "Negotiations with Sukarno have concluded, and the puppet regime in Indonesia is under way. Sukarno has used his connections together with our military presence to destabilize the Dutch government and establish de-facto control over the archipelago."
+  },
+  {
+    "key": "INS_political_events.15.a",
+    "version": "",
+    "en": "We have not only secured cheap resources, we have secured a valuable ally."
+  },
+  {
+    "key": "INS_political_events.16.t",
+    "version": "",
+    "en": "[?event_target:INS_invasion_event_invader.GetAdjective] occupation of the Indies"
+  },
+  {
+    "key": "INS_political_events.16.desc",
+    "version": "",
+    "en": "The [?event_target:INS_invasion_event_invader.GetAdjective] forces in the Indies have cooperated with Indonesian nationalists to destabilize our colonial administration, and have fully occupied the indies. Dutch flags have been lowered and replaced with Indonesian flags, and the native citizens of the Indies appear to be embracing the [?event_target:INS_invasion_event_invader.GetAdjective] occupiers. It is not looking good for our colonial empire."
+  },
+  {
+    "key": "INS_political_events.16.a",
+    "version": "",
+    "en": "They have won the battle, but they have not won the war."
+  },
+  {
+    "key": "INS_political_events.17.t",
+    "version": "",
+    "en": "[INS.GetName] declares independence"
+  },
+  {
+    "key": "INS_political_events.17.desc",
+    "version": "",
+    "en": "Word has reached the Imperial General Headquarters from Batavia. Sukarno and his clique, raised up by our own hand to govern the islands in the Emperor's name, have proclaimed the [FROM.GetAdjective] Republic as a response to our repeated territorial losses, believing we are stretched too thin to do anything about it."
+  },
+  {
+    "key": "INS_political_events.17.a",
+    "version": "",
+    "en": "Unfortunately, they may be correct."
+  },
+  {
+    "key": "INS_political_events.18.t",
+    "version": "",
+    "en": "Tan Malaka Returns to Indonesia"
+  },
+  {
+    "key": "INS_political_events.18.desc",
+    "version": "",
+    "en": "Tan Malaka, the Indonesian communist who has served these past years as a trusted advisor to our government, has announced his immediate departure. With [INS.GetNameDef] now standing as a free republic, he intends to return at last to the country he last set foot in as a fugitive over two decades ago. He thanks us for the refuge offered him and the freedom to continue his work, and says only that his place is now at home."
+  },
+  {
+    "key": "INS_political_events.18.a",
+    "version": "",
+    "en": "We will wish him good luck."
+  },
+  {
+    "key": "INS_political_events.19.t",
+    "version": "",
+    "en": "[HOL.GetName] Recalls Admiral Helfrich"
+  },
+  {
+    "key": "INS_political_events.19.desc",
+    "version": "",
+    "en": "Word has reached [1058.GetName] that Admiral Conrad Helfrich, commander of our naval forces and the most capable officer we have in these waters, has been ordered home. The Hague cites pressing needs in the metropole, and offers little further explanation. His departure leaves the archipelago thinly defended at a moment when our position here is far from secure, and the wardroom in Surabaya is said to be in a sour mood."
+  },
+  {
+    "key": "INS_political_events.19.a",
+    "version": "",
+    "en": "A grim day for the fleet"
+  },
+  {
+    "key": "INS_industrial_events.4.t",
+    "version": "",
+    "en": "Budget Reallocation in [FROM.FROM.GetName]"
+  },
+  {
+    "key": "INS_industrial_events.4.desc",
+    "version": "",
+    "en": "By shutting down rubber plantations in [FROM.FROM.GetName], we have made room in the budget for new industrial projects in the region."
+  },
+  {
+    "key": "INS_industrial_events.4.a",
+    "version": "",
+    "en": "We will construct oil wells in [FROM.FROM.GetName]"
+  },
+  {
+    "key": "INS_industrial_events.4.b",
+    "version": "",
+    "en": "We should open an aluminium smelter in [FROM.FROM.GetName]"
+  },
+  {
+    "key": "INS_industrial_events.4.c",
+    "version": "",
+    "en": "We should prospect for resources we lack production of"
+  },
+  {
+    "key": "INS_industrial_events.4.d",
+    "version": "",
+    "en": "We can open coal mines in [FROM.FROM.GetName]"
+  },
+  {
+    "key": "INS_industrial_events.5.t",
+    "version": "",
+    "en": "[INS_industrial_events_5_t_scripted]"
+  },
+  {
+    "key": "INS_industrial_events_5_t_colonial",
+    "version": "",
+    "en": "Fate of De Javasche Bank"
+  },
+  {
+    "key": "INS_industrial_events_5_t_independent",
+    "version": "",
+    "en": "Fate of Bank Indonesia"
+  },
+  {
+    "key": "INS_industrial_events.5.desc",
+    "version": "",
+    "en": "[INS_industrial_events_5_desc_scripted]"
+  },
+  {
+    "key": "INS_industrial_events_5_desc_colonial",
+    "version": "",
+    "en": "De Javasche Bank's reserves have fallen to their lowest point in a decade. The Guilder buys less every month, and plantation owners are demanding payment in foreign currency. Our financial advisors agree that the Bank alone cannot reverse the decline, but they disagree sharply on the remedy."
+  },
+  {
+    "key": "INS_industrial_events_5_desc_independent",
+    "version": "",
+    "en": "Bank Indonesia has reported that the Rupiah lost nearly a fifth of its value in the last quarter alone. Rice traders in Surabaya have begun refusing it outright in favor of foreign notes. Our finance minister insists the currency can be saved, but only if we act decisively and soon."
+  },
+  {
+    "key": "INS_industrial_events.5.a",
+    "version": "",
+    "en": "We should try to strengthen the Guilder, not replace it."
+  },
+  {
+    "key": "INS_industrial_events.5.b",
+    "version": "",
+    "en": "We will peg the Indies Guilder to the Dutch Guilder."
+  },
+  {
+    "key": "INS_industrial_events.5.c",
+    "version": "",
+    "en": "We will peg the Indies Guilder to the US Dollar."
+  },
+  {
+    "key": "INS_industrial_events.6.t",
+    "version": "",
+    "en": "A More Lucrative Agreement"
+  },
+  {
+    "key": "INS_industrial_events.6.desc",
+    "version": "",
+    "en": "The Cinchona Bureau has accepted our terms. With malaria ravaging half the tropics and no substitute for quinine in sight, they had little choice. The new agreement guarantees us a substantially larger share of the profits from every gram of quinine that leaves our shores. The question now is where to direct this windfall."
+  },
+  {
+    "key": "INS_industrial_events.6.a",
+    "version": "",
+    "en": "Invest in our cities."
+  },
+  {
+    "key": "INS_industrial_events.6.b",
+    "version": "",
+    "en": "Develop the outer islands."
+  },
+  {
+    "key": "INS_industrial_events.6.c",
+    "version": "",
+    "en": "Strengthen our military industry."
+  },
+  {
+    "key": "INS_industrial_events.28.t",
+    "version": "",
+    "en": "Rubber Shipment Dispatched"
+  },
+  {
+    "key": "INS_industrial_events.28.desc",
+    "version": "",
+    "en": "The convoys have loaded the last of the rubber and put to sea. Our buyers will have what they paid for, and our books will reflect the agreed compensation in due course. For the next two years the cost of this transaction will sit on our balance sheets, a reminder of what the Depression demands of us."
+  },
+  {
+    "key": "INS_industrial_events.28.a",
+    "version": "",
+    "en": "Acknowledged."
+  },
+  {
+    "key": "INS_industrial_events.28.b",
+    "version": "",
+    "en": "Arrange another shipment."
+  },
+  {
+    "key": "INS_industrial_events.36.t",
+    "version": "",
+    "en": "Oil Shipment Dispatched"
+  },
+  {
+    "key": "INS_industrial_events.36.desc",
+    "version": "",
+    "en": "The tankers have departed our refineries, their holds bound for the buyer's ports. The compensation has been agreed and will be received in full, though the burden of the sale will weigh on our economy for two years to come. Such are the terms the world offers us in these lean years."
+  },
+  {
+    "key": "INS_industrial_events.36.a",
+    "version": "",
+    "en": "Acknowledged."
+  },
+  {
+    "key": "INS_industrial_events.36.b",
+    "version": "",
+    "en": "Arrange another shipment."
+  },
+  {
+    "key": "INS_dutch_events.1.t",
+    "version": "",
+    "en": "[INS.GetNameDefCap] Requests Command of Our Navy"
+  },
+  {
+    "key": "INS_dutch_events.1.desc",
+    "version": "",
+    "en": "Following the fall of our homeland, [INS.GetNameDef] has petitioned us to transfer command of our naval forces to [INS.GetNameDef]. They argue that a unified command will allow for better coordination during this unprecedented time."
+  },
+  {
+    "key": "INS_dutch_events.1.a",
+    "version": "",
+    "en": "If it strengthens the cause, we must concede."
+  },
+  {
+    "key": "INS_dutch_events.1.b",
+    "version": "",
+    "en": "Our ships will answer only to The Hague."
+  },
+  {
+    "key": "INS_dutch_events.2.t",
+    "version": "",
+    "en": "[HOL.GetNameDefCap] Accepts Our Naval Command Proposal"
+  },
+  {
+    "key": "INS_dutch_events.2.desc",
+    "version": "",
+    "en": "[HOL.GetNameDefCap] has accepted our proposal to let us assume command of the combined naval forces. The transition is proceeding smoothly, and both [HOL.GetAdjective] and [INS.GetAdjective] officers are working side by side to strengthen our position in the Pacific."
+  },
+  {
+    "key": "INS_dutch_events.2.a",
+    "version": "",
+    "en": "Together, we will hold the Pacific."
+  },
+  {
+    "key": "INS_dutch_events.3.t",
+    "version": "",
+    "en": "[HOL.GetNameDefCap] Declines Our Naval Command Proposal"
+  },
+  {
+    "key": "INS_dutch_events.3.desc",
+    "version": "",
+    "en": "[HOL.GetNameDefCap] has declined our offer for a unified naval command, citing logistical and administrative concerns. While disappointing, our cooperation continues through other channels of the war effort."
+  },
+  {
+    "key": "INS_dutch_events.3.a",
+    "version": "",
+    "en": "We will find another way to strengthen our Naval influence."
+  },
+  {
+    "key": "INS_dutch_events.4.t",
+    "version": "",
+    "en": "[HOL.GetNameDefCap] Establishes the [HOL.GetName]-[INS.GetName] Naval Program"
+  },
+  {
+    "key": "INS_dutch_events.4.desc",
+    "version": "",
+    "en": "[HOL.GetNameDefCap] has announced the creation of the [HOL.GetName]-[INS.GetName] Naval Program, a joint initiative to reorganize and expand our maritime forces. [HOL.GetAdjective] expertise and [INS.GetAdjective] manpower will together form the backbone of a new Pacific defense network."
+  },
+  {
+    "key": "INS_dutch_events.4.a",
+    "version": "",
+    "en": "A firm step toward mutual survival."
+  },
+  {
+    "key": "INS_exile_accepted_flag",
+    "version": "",
+    "en": "Is hosting [HOL.GetNameDef] in exile"
+  },
+  {
+    "key": "INS_hey_btw_you_are_gonna_die_just_know_that_yeah_tt",
+    "version": "",
+    "en": "§RThis will end the game for you.§!"
+  },
+  {
+    "key": "INS_chaos_events.1.t",
+    "version": "",
+    "en": "Battle in Surabaya"
+  },
+  {
+    "key": "INS_chaos_events.1.desc",
+    "version": "",
+    "en": "After the declaration of Independence, power in Surabaya has become unstable. Today, a group of Dutch loyalists raised the old colonial flag atop the former Hotel Yamato. Local pemuda youths stormed the building and removed the flags, raising the red-and-white Indonesian flag instead. The incident has escalated into violent, unorganized combat."
+  },
+  {
+    "key": "INS_chaos_events.1.a",
+    "version": "",
+    "en": "As they should!"
+  },
+  {
+    "key": "INS_chaos_events.1.b",
+    "version": "",
+    "en": "Order a ceasefire, we cannot risk escalation."
+  },
+  {
+    "key": "INS_chaos_events.2.t",
+    "version": "",
+    "en": "Socialist Parties Merge"
+  },
+  {
+    "key": "INS_chaos_events.2.desc",
+    "version": "",
+    "en": "The two largest Socialist parties in Indonesia, led by Amir Sjarifuddin and Sutan Sjahrir announced a merger today, forming a unified Socialist Party of Indonesia. This significantly increases the political influence of the party, potentially putting our administration at risk."
+  },
+  {
+    "key": "INS_chaos_events.2.a",
+    "version": "",
+    "en": "Allow it."
+  },
+  {
+    "key": "INS_chaos_events.2.b",
+    "version": "",
+    "en": "There is no time for politics, declare martial law!"
+  },
+  {
+    "key": "INS_chaos_events.3.t",
+    "version": "",
+    "en": "Failed Attempt on Sukarno's Life"
+  },
+  {
+    "key": "INS_chaos_events.3.desc",
+    "version": "",
+    "en": "An attempt was made on Sukarno's life today by a Dutch soldier, who fired at Sukarno's car. Thankfully Sukarno was not in the vehicle, however his chauffeur was wounded severely. While this attempt was unsuccessful, it is clear this will not be the last attempt, both from Dutch soldiers and Indonesian opposition."
+  },
+  {
+    "key": "INS_chaos_events.3.a",
+    "version": "",
+    "en": "We must restore order!"
+  },
+  {
+    "key": "INS_chaos_events.4.t",
+    "version": "",
+    "en": "Sukarno's Assassination"
+  },
+  {
+    "key": "INS_chaos_events.4.desc",
+    "version": "",
+    "en": "A tragic day has befallen Indonesia today. Sukarno has faced another assassination attempt, this time successfully. We mustn't let a succession crisis come out of this, order must be restored quickly or the republic will collapse."
+  },
+  {
+    "key": "INS_chaos_events.4.a",
+    "version": "",
+    "en": "Vice President Hatta will take over."
+  },
+  {
+    "key": "INS_chaos_events.4.b",
+    "version": "",
+    "en": "The Socialist Party will take over."
+  },
+  {
+    "key": "INS_chaos_events.4.c",
+    "version": "",
+    "en": "Abolish the Republic, Tan Malaka will lead us to victory!"
+  },
+  {
+    "key": "INS_henri_winkelman_tt",
+    "version": "",
+    "en": "Henri Winkelman Transfer Refused"
+  },
+  {
+    "key": "taog_news.1.t",
+    "version": "",
+    "en": "The Dawn of the Netherlands-Indonesia Union"
+  },
+  {
+    "key": "taog_news.1.desc",
+    "version": "",
+    "en": "Queen Wilhelmina held an announcement in [1058.GetName] yesterday, announcing the unexpected creation of a Netherlands–Indonesia Union state. With the homeland under occupation, the [HOL.GetAdjective] government-in-exile and the [INS.GetAdjective] administration have agreed to govern as one body under the Crown. Officials of both countries describe the move as a measure of necessity rather than choice, a desperate effort to preserve the unity and authority of the Kingdom across two continents."
+  },
+  {
+    "key": "taog_news.1.a",
+    "version": "",
+    "en": "An interesting development."
+  },
+  {
+    "key": "taog_news.2.t",
+    "version": "",
+    "en": "The Indonesian Declaration of Independence"
+  },
+  {
+    "key": "taog_news.2.desc",
+    "version": "",
+    "en": "[INS.GetAdjective] revolutionary [INS.GetLeader] held a speech in Java today declaring the independence of the newly formed Republic of Indonesia. [HOL.GetNameDef] does not recognize the sovereignty of this newfound republic, but Republican militias already hold de-facto control over certain territory."
+  },
+  {
+    "key": "taog_news.2.a",
+    "version": "",
+    "en": "This could set off a large shift globally."
+  },
+  {
+    "key": "ABDA_events.1.t",
+    "version": "",
+    "en": "An Invitation to a New Supreme Command"
+  },
+  {
+    "key": "ABDA_events.1.desc",
+    "version": "",
+    "en": "[FROM.GetNameDef] has established a joint supreme command for the Pacific theatre and has extended an invitation for us to join. The initiative — known as ABDACOM — seeks to pool the naval, air, and ground forces of allied nations operating in the region under a unified command structure. Membership would mean closer coordination with [FROM.GetNameDef] and the other partners already committed to the effort. We must decide whether to accept."
+  },
+  {
+    "key": "ABDA_events.1.a",
+    "version": "",
+    "en": "We will stand together."
+  },
+  {
+    "key": "ABDA_events.1.b",
+    "version": "",
+    "en": "We cannot commit to this at the present time."
+  },
+  {
+    "key": "ABDA_events.2.t",
+    "version": "",
+    "en": "[FROM.GetName] Joins the ABDACOM"
+  },
+  {
+    "key": "ABDA_events.2.desc",
+    "version": "",
+    "en": "[FROM.GetNameDef] has accepted our invitation to join the ABDACOM Supreme Command. Their forces will now operate under the joint command structure, strengthening our position in the Pacific theatre."
+  },
+  {
+    "key": "ABDA_events.2.a",
+    "version": "",
+    "en": "A welcome development."
+  },
+  {
+    "key": "ABDA_events.3.t",
+    "version": "",
+    "en": "[FROM.GetName] Declines to Join"
+  },
+  {
+    "key": "ABDA_events.3.desc",
+    "version": "",
+    "en": "[FROM.GetNameDef] has declined our invitation to join the ABDACOM Supreme Command. Their forces will not be committed to the joint effort at this time, though the door may yet remain open."
+  },
+  {
+    "key": "ABDA_events.3.a",
+    "version": "",
+    "en": "Unfortunate, but noted."
+  },
+  {
+    "key": "ABDA_events.5.t",
+    "version": "",
+    "en": "An Invitation to Join ABDACOM"
+  },
+  {
+    "key": "ABDA_events.5.desc",
+    "version": "",
+    "en": "[FROM.GetNameDef] has extended an invitation for us to join the American-British-Dutch-Australian Command. ABDACOM has already established itself as the supreme coordinating authority for Allied forces in the Pacific theatre, bringing together the navies and armies of the major Allied powers under one command. Membership would bring our forces into this unified structure, with access to shared intelligence, coordinated doctrine, and the full weight of Allied support. We must decide."
+  },
+  {
+    "key": "ABDA_events.5.a",
+    "version": "",
+    "en": "We will stand together."
+  },
+  {
+    "key": "ABDA_events.5.b",
+    "version": "",
+    "en": "We cannot commit to this at the present time."
+  },
+  {
+    "key": "ABDA_events.4.t",
+    "version": "",
+    "en": "The Defences of Singapore"
+  },
+  {
+    "key": "ABDA_events.4.desc",
+    "version": "",
+    "en": "With Singapore designated as a linchpin of the ABDACOM defensive perimeter, our commanders must decide how to invest in its fortifications. We can prioritise the naval approaches and harbour defences, harden the landward approaches against an overland assault, or spread our resources across both. Each course of action will shape how Singapore can be defended when the enemy comes."
+  },
+  {
+    "key": "ABDA_events.4.a",
+    "version": "",
+    "en": "Reinforce the naval approaches. Singapore's strength is its harbour."
+  },
+  {
+    "key": "ABDA_events.4.b",
+    "version": "",
+    "en": "Fortify the landward perimeter. The real threat will come overland."
+  },
+  {
+    "key": "ABDA_events.4.c",
+    "version": "",
+    "en": "A balanced approach. No single avenue of attack must go undefended."
+  },
+  {
+    "key": "ABDA_fortress_singapore_choice_tt",
+    "version": "",
+    "en": "Completing this focus will present a choice for how to fortify Singapore."
+  },
+  {
+    "key": "ABDA_faction_membership_requirement_tt",
+    "version": "",
+    "en": "Eligible faction members will receive invites to join."
+  }
+]

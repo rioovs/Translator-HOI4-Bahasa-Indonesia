@@ -1,0 +1,2378 @@
+[
+  {
+    "lineNum": 1223,
+    "key": "ENG_ROYAL_TANK_REGIMENT_DESC_COMMUNIST",
+    "val": "Britain invented the tank, and so the Republican Guard Tank Regiment should be equipped with the world's best tanks, but this is not currently the case. The Special Vehicle Development Committee proposes to research and develop a modern design to keep Britain at the forefront of tank development.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1224,
+    "key": "ENG_vickers_experimental_facility_focus",
+    "val": "Vickers Experimental Facilities",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1225,
+    "key": "ENG_vickers_experimental_facility_focus_desc",
+    "val": "In order to further our research and development of special technological projects, we should endeavor to expand Vickers' experimental facilities at Foxwarren.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1226,
+    "key": "ENG_vickers_experimental_facility_focus_tt",
+    "val": "If there are no other §YExperimental Facilities§! in §Y[126.GetName]§!, we will gain §G1§! §YAerodynamics and Avionics Facility§! in §Y[126.GetName]§!.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1227,
+    "key": "ENG_expand_the_secret_intelligence_service_focus",
+    "val": "Expand the Secret Intelligence Service",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1228,
+    "key": "ENG_expand_the_secret_intelligence_service_focus_desc",
+    "val": "The Secret Intelligence Service, commonly called the MI6, helps protect our homeland from any subversive activities and foreign threats. Though formed during the Great War, they were reorganized in the twenties. Back then however we missed some important details, and should endeavor to increase the size of the organization once again.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1229,
+    "key": "uk_empire_focus",
+    "val": "Reinforce the Empire",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1230,
+    "key": "uk_empire_focus_desc",
+    "val": "Our Empire is vast, and despite our power, weakly defended. To combat this we need to encourage Imperial Patriotism throughout the realm.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1231,
+    "key": "uk_service_focus",
+    "val": "Service Overseas",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1232,
+    "key": "uk_service_focus_desc",
+    "val": "By rotating armed forces personnel to colonial stations and back home again they can learn about the conditions on different fronts, gain experience, and share it with their comrades back home.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1233,
+    "key": "uk_mediterranean_focus",
+    "val": "Mediterranean Bastion",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1234,
+    "key": "uk_mediterranean_focus_desc",
+    "val": "The route through the Mediterranean is a vitally important shortcut to and from India. As such, it is of utmost importance to keep it open and in our hands.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1235,
+    "key": "uk_rock_focus",
+    "val": "Fortify the Rock",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1236,
+    "key": "uk_rock_focus_desc",
+    "val": "As well as controlling the entrance to the Mediterranean, Gibraltar provides a strongly defended harbour from which ships can operate in both the Atlantic and the Mediterranean. As such, it is imperative that it is strongly guarded.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1237,
+    "key": "uk_greece_focus",
+    "val": "Coerce Greece",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1238,
+    "key": "uk_greece_focus_desc",
+    "val": "It is in our interests to have basing rights in Greece, and frankly the Greeks are in no position to refuse us.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1239,
+    "key": "uk_malta_focus",
+    "val": "Fortify Malta",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1240,
+    "key": "uk_malta_focus_desc",
+    "val": "Malta commands an excellent position in the central Mediterranean, a vital way station along our lifeline through Egypt and the Suez Canal to India and the Far East. Time spent fortifying it more strongly could never be wasted.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1241,
+    "key": "ENG_mot_focus_tooltip",
+    "val": "We can now deploy Motorized Infantry Divisions.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1242,
+    "key": "uk_canada_focus",
+    "val": "Development in Canada",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1243,
+    "key": "uk_canada_focus_desc",
+    "val": "An investment in Canada's Industry and Shipyards will provide a boost to their economy and allow them to provide a greater contribution in the event of war.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1244,
+    "key": "uk_australia_focus",
+    "val": "Development in Australia",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1245,
+    "key": "uk_australia_focus_desc",
+    "val": "An investment in Australia's Shipyards and Industry will provide a boost to their economy and allow them to provide a greater contribution in the event of war.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1246,
+    "key": "uk_protect_suez",
+    "val": "Protect the Suez",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1247,
+    "key": "uk_protect_suez_desc",
+    "val": "Controlling the Suez channel is part of the means by which the British Empire retains its command of the sea. Losing this region would be disastrous. Measures must be taken to fortify it.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1248,
+    "key": "uk_balkan_strategy",
+    "val": "Balkan Strategy",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1249,
+    "key": "uk_balkan_strategy_desc",
+    "val": "Many of the nations in the Balkans are pro-British and see the same threat from central Europe as we do. If we seize the opportunity and support them early, we can secure their loyalty, although at the expense of angering their revengist neighbors.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1250,
+    "key": "uk_new_zealand_focus",
+    "val": "Develop New Zealand",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1251,
+    "key": "uk_new_zealand_focus_desc",
+    "val": "New Zealand retains a strong connection to our nation and has warned against the fascist threat. Their contribution in the event of war is certain, and we should aid them in preparing accordingly.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1252,
+    "key": "uk_south_africa_focus",
+    "val": "Develop South Africa",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1253,
+    "key": "uk_south_africa_focus_desc",
+    "val": "The political situation in South Africa is uncertain. We cannot fully trust that they will support our war effort, but by aiding them in strengthening their industry, we can hope to increase support for the British cause.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1254,
+    "key": "FRA_strengthen_government_support_tooltip",
+    "val": "'Strengthen Government Support' idea has run its course.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1255,
+    "key": "ITA_victoryinETH",
+    "val": "Triumph in Africa",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1256,
+    "key": "ITA_victoryinETH_desc",
+    "val": "Failure in the first First Italo-Ethiopian War has been a stain on Italian honor for 40 years, by achieving victory now that stain will be removed and the strength of the Iron will of Fascism will be proven!",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1257,
+    "key": "USA_reinforce_monroe_doctrine_tt",
+    "val": "Increases Trade Opinion with all American nations.\\n",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1258,
+    "key": "1939_bookmark_threat",
+    "val": "Recent Fascist expansionism",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1259,
+    "key": "USA_civil_war_fired",
+    "val": "The Second American Civil War has started.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1260,
+    "key": "USA_anti_imperialism",
+    "val": "Anti-Imperialism",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1261,
+    "key": "USA_anti_imperialism_desc",
+    "val": "America has always been an enemy of imperialistic oppressors, but it's plain to see that most so-called democracies are willing to keep these institutions alive as long as they benefit from them. The revolutionaries of the Soviet Union are better allies.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1262,
+    "key": "USA_fascist_menace",
+    "val": "The Prussian Menace",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1263,
+    "key": "USA_fascist_menace_desc",
+    "val": "The Versailles Treaty and economic sanctions haven't stopped Germany, and Prussian militarism is once again rearing its ugly, aggressive head. Germany must be defeated again and brought under our control, at least for the time being.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1264,
+    "key": "USA_crusade_against_communism",
+    "val": "Crusade Against Communism",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1265,
+    "key": "USA_crusade_against_communism_desc",
+    "val": "The Red Terror is by far the worst menace this world has ever faced. By any means necessary, the destructive ideology emanating from the Soviet Union must be cut off at its origin, and we will be the ones to do it.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1266,
+    "key": "USA_strike_at_the_empire",
+    "val": "Strike at the Empire",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1267,
+    "key": "USA_strike_at_the_empire_desc",
+    "val": "The true threat to liberty in the world is the colonial empires built by European superpowers. They must be crushed and their populations freed, starting with the British Empire we once freed ourselves from.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1268,
+    "key": "USA_defense_of_the_pacific",
+    "val": "Defense of the Pacific",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1269,
+    "key": "USA_defense_of_the_pacific_desc",
+    "val": "The Japanese government is beyond hope, its expansionism threatening both our people and its Asian neighbors. The nation must be brought under American administration to reform it and prevent it from ever repeating its mistakes.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1270,
+    "key": "ENG_home_defence",
+    "val": "Home Defense",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1271,
+    "key": "ENG_home_defence_desc",
+    "val": "A vast empire is of no use if we cannot protect the British people. We should focus our efforts on keeping the British Isles safe.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1272,
+    "key": "ENG_home_defence_tt",
+    "val": "Unlocks decisions to §YDefend the Homeland§! in the case of an invasion.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1273,
+    "key": "ENG_issue_gasmasks",
+    "val": "Issue Gasmasks",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1274,
+    "key": "ENG_issue_gasmasks_desc",
+    "val": "The world is growing more dangerous every day. We should protect the civilian population from any poisonous gas attacks. Britain shall breathe easy.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1275,
+    "key": "ENG_military_training_act",
+    "val": "Military Training Act",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1276,
+    "key": "ENG_military_training_act_desc",
+    "val": "The Great War has left our people with an impression that they would not have to fight again. As the world grows dangerous, we must ensure that all capable young men receive basic military training.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1277,
+    "key": "ENG_embargo_germany",
+    "val": "Embargo Germany",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1278,
+    "key": "ENG_embargo_germany_desc",
+    "val": "German rearmament is an insult and a great threat to world peace. We will not be supplying the resources they need to fuel their war machine.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1279,
+    "key": "ENG_war_with_germany",
+    "val": "War with Germany",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1280,
+    "key": "ENG_war_with_germany_desc",
+    "val": "The Germans have left us with no other choice. For the sake of the free world and the future of our children. It is time for war.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1281,
+    "key": "ENG_swedish_intervention",
+    "val": "Swedish Intervention",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1282,
+    "key": "ENG_swedish_intervention_desc",
+    "val": "Swedish movements against democracy have gained a worrying amount of influence. We cannot risk Swedish steel ending up as guns in the hands of our enemies. The Swedes shall remain free, but we need to secure a certain degree of influence over their country.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1283,
+    "key": "ENG_norwegian_intervention",
+    "val": "Norwegian Intervention",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1284,
+    "key": "ENG_norwegian_intervention_desc",
+    "val": "Norwegian movements against democracy continue to gain ground. We should ensure that their politics stay aligned with our own interests, even if we need to use force.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1285,
+    "key": "ENG_danish_intervention",
+    "val": "Danish Intervention",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1286,
+    "key": "ENG_danish_intervention_desc",
+    "val": "Danish support for the enemies of world peace has continued to grow. There is only one way to ensure they stay on our side. We should use Denmark to establish a strategic foothold in the region in case a land invasion in Europe becomes necessary.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1287,
+    "key": "ENG_benelux_intervention",
+    "val": "Benelux Intervention",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1288,
+    "key": "ENG_benelux_intervention_desc",
+    "val": "The political environment in the Benelux Region is growing hostile towards us. We should send a clear warning that any enemy of democracy will not be tolerated and we are ready to use force if necessary.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1289,
+    "key": "ENG_belgium_security",
+    "val": "Secure Belgium",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1290,
+    "key": "ENG_belgium_security_desc",
+    "val": "A warning was clearly not enough. If political tendencies continue as they have this far, Belgium will pose a direct threat to our waters. We must intervene and establish a strategic foothold on mainland Europe.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1291,
+    "key": "ENG_dutch_security",
+    "val": "Secure The Netherlands",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1292,
+    "key": "ENG_dutch_security_desc",
+    "val": "Political movements in the Netherlands continue to support our enemies. The Netherlands will have to be subdued in order to ensure a free Europe.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1293,
+    "key": "ENG_war_with_japan",
+    "val": "War with Japan",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1294,
+    "key": "ENG_war_with_japan_desc",
+    "val": "All other options are exhausted and the Japanese refuse to give up their expansionist ways. For the safety of the British Empire and the people of Asia, we must subdue the Japanese.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1295,
+    "key": "ENG_war_with_italy",
+    "val": "War with Italy",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1296,
+    "key": "ENG_war_with_italy_desc",
+    "val": "The Italians refuse to give up their plans for a new Empire and have proven willing to go to war in order to expand their borders. We must do what we can to eliminate this threat before it is too late.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1297,
+    "key": "ENG_embargo_ussr",
+    "val": "Embargo [SOV.GetNameDefCap]",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1298,
+    "key": "ENG_embargo_ussr_desc",
+    "val": "[SOV.GetNameDefCap] is growing powerful and using British resources to fuel their military efforts. We should deprive them of access to our trade.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1299,
+    "key": "ENG_war_with_ussr",
+    "val": "Operation Unthinkable",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1300,
+    "key": "ENG_war_with_ussr_desc",
+    "val": "The threat of [SOU.GetNameDef] continues to grow despite our objections. We cannot tolerate an aggressive [SOU.GetName] and are left with no other choice than to go to war for a better tomorrow.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1301,
+    "key": "kamikaze_focus_tooltip",
+    "val": "Allows §YKamikaze Strike§! air missions, suicide attacks against enemy ships.\\n",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1302,
+    "key": "AST_additional_militia_training",
+    "val": "Additional Militia Training",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1303,
+    "key": "AST_additional_militia_training_desc",
+    "val": "Much of our militia is unfit for service - either sick or under-equipped. We are taking steps to remedy this oversight in a dangerous world.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1304,
+    "key": "AST_royal_australian_artillery",
+    "val": "Royal Australian Artillery",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1305,
+    "key": "AST_royal_australian_artillery_desc",
+    "val": "Artillery is the queen of the battlefield, and we must expand our access to heavy guns.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1306,
+    "key": "AST_promote_reservists",
+    "val": "Promote Reservists",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1307,
+    "key": "AST_promote_reservists_desc",
+    "val": "Though we need a home defense force, promoting militia and reserves into the regular army will give us a needed boost in available soldiers and experience.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1308,
+    "key": "AST_daimler_dingo",
+    "val": "Daimler Dingo",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1309,
+    "key": "AST_daimler_dingo_desc",
+    "val": "This British-made armored car will improve our mobility on the battlefield. And, after all, it is named for our national canine.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1310,
+    "key": "AST_hmas_assault",
+    "val": "HMAS Assault",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1311,
+    "key": "AST_hmas_assault_desc",
+    "val": "War in the Pacific will be an amphibious war, so the construction of a naval base specialized in training marines how to take a beach is imperative for the war effort.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1312,
+    "key": "AST_specialize_equipment",
+    "val": "Specialize Equipment",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1313,
+    "key": "AST_specialize_equipment_desc",
+    "val": "Not all of the British-made equipment we use is effective for our unique combat situation. Special and custom tools have become necessary.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1314,
+    "key": "AST_australian_womens_army_service",
+    "val": "Australian Women's Army Service",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1315,
+    "key": "AST_australian_womens_army_service_desc",
+    "val": "Every man is needed at the front, so driving, signal and maintenance jobs will be handled by thousands of Australia's women.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1316,
+    "key": "AST_australian_army_catering_corps",
+    "val": "Australian Army Catering Corps",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1317,
+    "key": "AST_australian_army_catering_corps_desc",
+    "val": "The Australian army is being poorly served by the quality of its food, largely because of the quality of its cooks. By reorganizing this process, we can boost morale and effectiveness.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1318,
+    "key": "AST_fund_owen_gun_research",
+    "val": "Fund Owen Gun Research",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1319,
+    "key": "AST_fund_owen_gun_research_desc",
+    "val": "Evelyn Owen has developed a new submachine gun that can withstand the harsh pressures of jungle warfare. We should put government resources into production and improvement of this weapon.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1320,
+    "key": "AST_sentinel_tank_project",
+    "val": "Sentinel Tank Project",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1321,
+    "key": "AST_sentinel_tank_project_desc",
+    "val": "Australia should develop its own homemade armored vehicle. Based on German and American ideas, the Sentinel program should be advanced.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1322,
+    "key": "AST_airborne_defence",
+    "val": "Airborne Defence",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1323,
+    "key": "AST_airborne_defence_desc",
+    "val": "We must protect the skies over Australia by investing in air defense, including interceptors and anti-air.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1324,
+    "key": "AST_introduce_unconventional_warfare",
+    "val": "Introduce Unconventional Warfare",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1325,
+    "key": "AST_introduce_unconventional_warfare_desc",
+    "val": "The jungles of the Pacific will require a new kind of warfare. We must learn to move quickly and quietly through the dense cover - ambush our enemies and expect the same from them.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1326,
+    "key": "AST_z_special_unit",
+    "val": "Z Special Unit",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1327,
+    "key": "AST_z_special_unit_desc",
+    "val": "Z Special Unit will be our commando team, specializing in reconnaissance and sabotage behind enemy lines. This will require brave men willing to undergo the most serious training.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1328,
+    "key": "AST_m_special_unit",
+    "val": "M Special Unit",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1329,
+    "key": "AST_m_special_unit_desc",
+    "val": "M Special Unit will be our advance scouting and reconnaissance arm in the war, sending back up to the moment intelligence about enemy dispositions and placements.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1330,
+    "key": "AST_expand_the_raaf",
+    "val": "Expand the RAAF",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1331,
+    "key": "AST_expand_the_raaf_desc",
+    "val": "Our air force needs to grow, so we are investing in more bases, more training and more production.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1332,
+    "key": "AST_cac_boomerang",
+    "val": "CAC Boomerang",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1333,
+    "key": "AST_cac_boomerang_desc",
+    "val": "The Boomerang will be Australia's contribution to fighter design and an insurance policy against the loss of imported aircraft. We need to compete with Japanese and American planes.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1334,
+    "key": "AST_expand_northern_presence",
+    "val": "Expand Northern Presence",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1335,
+    "key": "AST_expand_northern_presence_desc",
+    "val": "With our cities mostly on the east and west coasts of the island, Australia's northern frontier lacks the proper defense or preparation in case of invasion or attack. New military structures in that area will be welcome.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1336,
+    "key": "AST_cac_woomera",
+    "val": "CAC Woomera",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1337,
+    "key": "AST_cac_woomera_desc",
+    "val": "Australia will develop its own bomber arm. The Woomera is only a light craft, but will be adequate for protecting our homeland and light combat air support.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1338,
+    "key": "AST_volunteer_air_observers_corps",
+    "val": "Volunteer Air Observers Corps",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1339,
+    "key": "AST_volunteer_air_observers_corps_desc",
+    "val": "Keep your eyes on the skies! We call on Australians to learn the silhouettes of common aircraft and notify the government of any suspicious or enemy planes that near the Dominion.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1340,
+    "key": "AST_naval_bombers",
+    "val": "Naval Bombers",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1341,
+    "key": "AST_naval_bombers_desc",
+    "val": "We are surrounded by water, so we should look into planes and training that will allow us to intercept and attack enemy fleets. Naval bombing is a specialized skill and should be a focus.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1342,
+    "key": "AST_death_from_down_under",
+    "val": "Death From Down Under",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1343,
+    "key": "AST_death_from_down_under_desc",
+    "val": "No bombers will damage our ports and cities once we have upgraded our air defense system, through better understanding of air power and the brute force of anti-air weapons.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1344,
+    "key": "AST_womens_auxilliary_australian_air_force",
+    "val": "Women's Auxiliary Australian Air Force",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1345,
+    "key": "AST_womens_auxilliary_australian_air_force_desc",
+    "val": "A full half of our population is better used in the war effort than sitting at home. Aircraft maintenance, the signal corps and other related tasks will be turned over to women.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1346,
+    "key": "AST_dominate_the_skies",
+    "val": "Dominate the Skies",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1347,
+    "key": "AST_dominate_the_skies_desc",
+    "val": "Australia is far from many enemy air bases, so it should be our goal to have total air superiority in our corner of the globe.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1348,
+    "key": "AST_cockatoo_island_shipyards",
+    "val": "Cockatoo Island Shipyards",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1349,
+    "key": "AST_cockatoo_island_shipyards_desc",
+    "val": "The expansion and improvement of the Cockatoo Island Shipyards is a major priority for our government. Sydney Harbour has the best access to manpower and resources and that is where we should focus our naval construction efforts.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1350,
+    "key": "AST_kangaroo_point_shipyards",
+    "val": "Kangaroo Point Dry Dock",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1351,
+    "key": "AST_kangaroo_point_shipyards_desc",
+    "val": "Evans Deakin & Company propose a shipyard and substantial drydock at Kangaroo Point. Such an endeavor would be ideal for enhancing our capacity for naval power projection.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1352,
+    "key": "AST_protect_overseas_commerce",
+    "val": "Protect Overseas Commerce",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1353,
+    "key": "AST_protect_overseas_commerce_desc",
+    "val": "An island nation relies on the supplies it can bring in from others across the waves. Defending the convoy lines and trade routes is not simply a strategy - it is a necessity.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1354,
+    "key": "AST_fly_the_jolly_roger",
+    "val": "Fly the Jolly Roger",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1355,
+    "key": "AST_fly_the_jolly_roger_desc",
+    "val": "From our island stronghold we can send forth packs of submarines to harass and destroy the enemy trade and supply that passes by our shores.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1356,
+    "key": "AST_scrap_iron_flotilla",
+    "val": "Scrap Iron Flotilla",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1357,
+    "key": "AST_scrap_iron_flotilla_desc",
+    "val": "Until we can upgrade our fleet, we will make do with the aging vessels we have. Our enemy may refer to our older destroyers as a Scrap Iron Flotilla, but it will do us proud.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1358,
+    "key": "AST_royal_australian_submarine_service",
+    "val": "Royal Australian Submarine Service",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1359,
+    "key": "AST_royal_australian_submarine_service_desc",
+    "val": "Submarines are the sea weapon of the future, and a crucial component of our allies' forces. We must embrace this way of war.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1360,
+    "key": "AST_naval_auxiliary_patrol",
+    "val": "Naval Auxiliary Patrol",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1361,
+    "key": "AST_naval_auxiliary_patrol_desc",
+    "val": "The many harbors of our great land are inviting targets for stealthy submarine attacks. An auxiliary force of coastal patrol ships will alert us to any danger.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1362,
+    "key": "AST_cruisers",
+    "val": "Cruisers",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1363,
+    "key": "AST_cruisers_desc",
+    "val": "We can leave the battleships and carriers to the big dogs, since a mass of cruiser-sized ships will more than meet our needs.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1364,
+    "key": "AST_pacific_area_navy",
+    "val": "Pacific Area Navy",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1365,
+    "key": "AST_pacific_area_navy_desc",
+    "val": "Though His Majesty fights for survival in Europe, our immediate priority should be a navy that can fight our enemies here in the Pacific. We must develop strategies that are in line with that objective.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1366,
+    "key": "AST_standard_gauge_railway",
+    "val": "Standard Gauge Railway",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1367,
+    "key": "AST_standard_gauge_railway_desc",
+    "val": "For decades, Australia has had competing railway gauges, making a mess of our transportation and shipping needs. The time has come to finally standardize railway gauges around the country.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1368,
+    "key": "AST_industries_assistance_corporation",
+    "val": "Industries Assistance Corporation",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1369,
+    "key": "AST_industries_assistance_corporation_desc",
+    "val": "The recent global economic dislocation has discouraged investment and entrepreneurship in Australia. The Industries Assistance Corporation will advise and finance small business around the country to get the economy moving again.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1370,
+    "key": "AST_western_australian_government_railways",
+    "val": "Western Australian Government Railways",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1371,
+    "key": "AST_western_australian_government_railways_desc",
+    "val": "The state-owned railways in Western Australia should be given a greater priority than road construction at this point. Geography favors the train in the West - we should take advantage of that.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1372,
+    "key": "AST_south_australian_housing_trust",
+    "val": "South Australian Housing Trust",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1373,
+    "key": "AST_south_australian_housing_trust_desc",
+    "val": "South Australia needs more industry and investment, so it will dedicate resources to a series of planned communities and housing improvements, especially around Adelaide.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1374,
+    "key": "AST_department_of_supply_and_development",
+    "val": "Department of Supply and Development",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1375,
+    "key": "AST_department_of_supply_and_development_desc",
+    "val": "In wartime, we need a special department to handle logistical and supply matters - ammunition, fuel supplies and everything necessary to keep an army on the move.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1376,
+    "key": "AST_expand_lithgow_small_arms_factory",
+    "val": "Expand Lithgow Small Arms Factory",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1377,
+    "key": "AST_expand_lithgow_small_arms_factory_desc",
+    "val": "Our Vickers and Brens come from the Lithgow Small Arms Factory. As it grows, we will find it easier to increase our fighting capacity.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1378,
+    "key": "AST_allied_works_council",
+    "val": "Allied Works Council",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1379,
+    "key": "AST_allied_works_council_desc",
+    "val": "All military construction in Australia will be overseen by the Allied Works Council. This centralized planning will make sure that the government gets the type of productivity it needs.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1380,
+    "key": "AST_expand_the_northern_railway",
+    "val": "Expand the Northern Railway",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1381,
+    "key": "AST_expand_the_northern_railway_desc",
+    "val": "We have a railway that stretches from Adelaide in the south to Alice Springs in the north. Now we must extend that northern point to other cities in the area, connecting all of Australia.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1382,
+    "key": "AST_australian_arms_production",
+    "val": "Australian Arms Production",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1383,
+    "key": "AST_australian_arms_production_desc",
+    "val": "The long convoy times mean that Australia must take a greater responsibility for producing its own guns than other Dominions. We have the factories, and we have the know-how.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1384,
+    "key": "AST_uranium_mining",
+    "val": "Uranium Mining",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1385,
+    "key": "AST_uranium_mining_desc",
+    "val": "Over the last decades, we have found large uranium deposits in South Australia, especially around Mt Gee. Uranium is now a vital military resource and exploitation of these reserves should be increased.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1386,
+    "key": "AST_establish_advisory_war_council",
+    "val": "Establish Advisory War Council",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1387,
+    "key": "AST_establish_advisory_war_council_desc",
+    "val": "Australia's politicians must put aside ideological and partisan disagreements and come together to consult and advise on the conduct of the war.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1388,
+    "key": "AST_national_security_act",
+    "val": "National Security Act",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1389,
+    "key": "AST_national_security_act_desc",
+    "val": "Now that we are at war, the Federal government will assume greater powers to protect Australia. Greater press censorship, suppression of dissident groups and greater ability to tax and seize property for the defense of the Dominion.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1390,
+    "key": "AST_volunteer_defence_corps",
+    "val": "Volunteer Defence Corps",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1391,
+    "key": "AST_volunteer_defence_corps_desc",
+    "val": "A Volunteer Defence Corps has been assembled from older veterans and other citizens not in the regular army. They will serve as a home guard to free up the army to take direct action against its enemies.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1392,
+    "key": "AST_civil_construction_corps",
+    "val": "Civil Construction Corps",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1393,
+    "key": "AST_civil_construction_corps_desc",
+    "val": "We will conscript able-bodied men to serve in a Civil Construction Corps to help in the building of airfields, transportation, forts, and other important military infrastructure.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1394,
+    "key": "AST_army_inventions_directorate",
+    "val": "Army Inventions Directorate",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1395,
+    "key": "AST_army_inventions_directorate_desc",
+    "val": "Wars spur innovation and creativity and the government needs a way to sort the good ideas from the bad. A new specialized patent office would be dedicated to determining which of the many submissions to the government have any value.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1396,
+    "key": "AST_invest_in_victory",
+    "val": "Invest in Victory",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1397,
+    "key": "AST_invest_in_victory_desc",
+    "val": "By selling war bonds to our population, they can contribute their savings to the war effort.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1398,
+    "key": "AST_citizen_military_forces",
+    "val": "Citizen Military Forces",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1399,
+    "key": "AST_citizen_military_forces_desc",
+    "val": "It is now time to prepare a reserve army to increase our readiness in case of war. We will draft available militiamen into the army for home defense, and then prepare them for service overseas if needed.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1400,
+    "key": "AST_rats_of_tobruk",
+    "val": "Rats of Tobruk",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1401,
+    "key": "AST_rats_of_tobruk_desc",
+    "val": "Our brave soldiers have proven themselves adept at desert warfare and scavenging from the battlefield. They harass the enemy, striking from their bases and then retreating before the counterattack.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1402,
+    "key": "AST_rats_of_tobruk_effect_1",
+    "val": "Gain elite unit in Tobruk",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1403,
+    "key": "AST_rats_of_tobruk_effect_2",
+    "val": "Gain elite unit in Sydney",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1404,
+    "key": "AST_fight_work_or_perish",
+    "val": "Fight Work or Perish",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1405,
+    "key": "AST_fight_work_or_perish_desc",
+    "val": "With our enemy posing an existential threat to the Dominion, Australians must make a choice. They will fight, they will work, or they will perish.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1406,
+    "key": "AST_research_collaboration",
+    "val": "Research Collaboration",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1407,
+    "key": "AST_research_collaboration_desc",
+    "val": "The British showed us the advantage of sharing scientific progress between close allies. Our whole faction will be able to conduct wartime R&D more efficiently if we take the steps necessary to coordinate this.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1408,
+    "key": "AST_fund_australian_defense_research",
+    "val": "Fund Australian Defense Research",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1409,
+    "key": "AST_fund_australian_defense_research_desc",
+    "val": "Now that Australia is fully a sovereign nation we are no longer receiving access to advanced prototypes and blueprints like we previously did. We must ensure that we always stay ahead of our enemies, and do not fall behind in technology.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1410,
+    "key": "AST_squash_the_squanderbugs",
+    "val": "Squash the Squander Bugs",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1411,
+    "key": "AST_squash_the_squanderbugs_desc",
+    "val": "Wasteful spending on inflation-affected consumer goods is taking money away from war bonds and the war effort. We need to discourage this appetite for luxury while our army is in need.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1412,
+    "key": "AST_rationing_and_recycling",
+    "val": "Rationing and Recycling",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1413,
+    "key": "AST_rationing_and_recycling_desc",
+    "val": "Every resource matters. We will ration food for our citizens, recycle to get as much metal as we can from worn-out goods and promote economies throughout the country.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1414,
+    "key": "AST_classify_aliens",
+    "val": "Classify Aliens",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1415,
+    "key": "AST_classify_aliens_desc",
+    "val": "Australia is a nation of immigrants, and as such, may have taken in some with loyalties to their homeland. We will register and track foreign-born Australians.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1416,
+    "key": "AST_strengthen_ties_with_uk",
+    "val": "Strengthen Ties With UK",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1417,
+    "key": "AST_strengthen_ties_with_uk_desc",
+    "val": "Our loyalties lie with the Mother Country. We will go where she follows and commit to fighting her enemies. God Save the King.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1418,
+    "key": "AST_support_the_policy_of_appeasement",
+    "val": "Support the Policy of Appeasement",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1419,
+    "key": "AST_support_the_policy_of_appeasement_desc",
+    "val": "The costs of the last war still weigh heavily on the national memory. If making territorial concessions half a world away can keep Australia out of war, then we should certainly consider these concessions.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1420,
+    "key": "AST_the_singapore_strategy",
+    "val": "The Singapore Strategy",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1421,
+    "key": "AST_the_singapore_strategy_desc",
+    "val": "Singapore is too far from London to be secure. Australia will take it upon itself to protect this outpost of empire from aggression from others.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1422,
+    "key": "AST_adopt_westminster",
+    "val": "Adopt Westminster",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1423,
+    "key": "AST_adopt_westminster_desc",
+    "val": "We embrace the Westminster system that we have inherited from the United Kingdom.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1424,
+    "key": "AST_CSIR",
+    "val": "CSIR",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1425,
+    "key": "AST_CSIR_desc",
+    "val": "The Commonwealth Scientific and Industrial Research Organization is our government research arm to improve the efficiency of science and production in Australia. By increasing our support for it, we will give further energy to the sinews of war.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1426,
+    "key": "AST_swpa_protector",
+    "val": "SWPA Protector",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1427,
+    "key": "AST_swpa_protector_desc",
+    "val": "Australia must assume the primary position as the protector of the South West Pacific Area. The entire sea zone from Indochina through Indonesia to New Guinea should be under our aegis.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1428,
+    "key": "AST_empire_air_training_scheme",
+    "val": "Empire Air Training Scheme",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1429,
+    "key": "AST_empire_air_training_scheme_desc",
+    "val": "It is time for Australia to commit to a proper air training program. With the encouragement and support of the United Kingdom, all of the Dominions will work together to contribute pilots and support crew for the war effort.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1430,
+    "key": "AST_commonwealth_aircraft_corporation",
+    "val": "Commonwealth Aircraft Corporation",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1431,
+    "key": "AST_commonwealth_aircraft_corporation_desc",
+    "val": "The Commonwealth Aircraft Corporation is the primary producer of aircraft and aircraft engines in Australia. It has a proven track record, and support for it will give our pilots the materials they require.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1432,
+    "key": "AST_sever_ties_with_uk",
+    "val": "Sever Ties With UK",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1433,
+    "key": "AST_sever_ties_with_uk_desc",
+    "val": "The time has come to break from the United Kingdom. Australia can direct her own course without interference from London and stake a claim to its own destiny in its own region.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1434,
+    "key": "AST_protect_the_homeland",
+    "val": "Protect The Homeland",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1435,
+    "key": "AST_protect_the_homeland_desc",
+    "val": "Australia is large, but its coasts can be protected. Keeping our own nation safe is the highest priority.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1436,
+    "key": "AST_the_swpa_menace",
+    "val": "The SWPA Menace",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1437,
+    "key": "AST_the_swpa_menace_desc",
+    "val": "Japan is building an empire that threatens the safety of Australia and freedom in the region. We should turn to like-minded nations to be our allies.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1438,
+    "key": "AST_never_another_gallipoli",
+    "val": "Never Another Gallipoli",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1439,
+    "key": "AST_never_another_gallipoli_desc",
+    "val": "The only way to ensure that Australia is not drawn into further costly wars through sentiment is to take complete control of our foreign policy. We need no distant King and cannot afford ancient blood ties pulling us into conflicts that do not serve our interests.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1440,
+    "key": "AST_woo_usa",
+    "val": "Woo USA",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1441,
+    "key": "AST_woo_usa_desc",
+    "val": "Our true ally is America, another Pacific power with British roots. This rich and powerful land is better able to understand our needs, increase our prosperity and protect us from aggression.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1442,
+    "key": "AST_protect_the_dutch_colonies",
+    "val": "Protect the Dutch Colonies",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1443,
+    "key": "AST_protect_the_dutch_colonies_desc",
+    "val": "The Netherlands is a weak and distant master of her Indonesian colonies. It cannot defend them against attacks from Japan, China, or any other potentially hostile nation. We must assume control for the greater good.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1444,
+    "key": "AST_the_south_west_pacific_initiative",
+    "val": "The South West Pacific Initiative",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1445,
+    "key": "AST_the_south_west_pacific_initiative_desc",
+    "val": "We have established the power base and credibility to create our own network of alliances, centered on defending the South West Pacific Area from hostile powers. We will seek out like-minded powers and make Australia a major voice in global affairs.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1446,
+    "key": "AST_preemptive_intervention",
+    "val": "Preemptive Intervention",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1447,
+    "key": "AST_preemptive_intervention_desc",
+    "val": "Japan's empire building over the last decade poses a threat to every free people in the Pacific. We cannot afford to wait until it turns its hungry eyes in our direction. The time for action is now.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1448,
+    "key": "AST_research_cooperation",
+    "val": "Research Cooperation",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1449,
+    "key": "AST_research_cooperation_desc",
+    "val": "Australians are an intelligent and resourceful people, but we haven't the infrastructure or population for a serious scientific program. We will work with our allies, sharing knowledge and breakthroughs for mutual benefit.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1450,
+    "key": "AST_abandon_the_westminster_system",
+    "val": "Abandon the Westminster System",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1451,
+    "key": "AST_abandon_the_westminster_system_desc",
+    "val": "Though the Westminster Parliament is our inheritance from Great Britain, it has outlived its usefulness in the modern era. Cabinet disagreements and party rivalries have done little to help stabilize Australia through the recent economic crisis.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1452,
+    "key": "AST_support_the_centre_party",
+    "val": "Support the Centre Party",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1453,
+    "key": "AST_support_the_centre_party_desc",
+    "val": "In New South Wales, a vigorous anti-Communist movement has arisen. Assisted by its New Guard allies, the Centre Party might hold the key to strengthening Australia.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1454,
+    "key": "AST_supply_indonesian_nationalists",
+    "val": "Supply Indonesian Nationalists",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1455,
+    "key": "AST_supply_indonesian_nationalists_desc",
+    "val": "We should support the people of Indonesia in their fight against their Dutch oppressors. They will need education and training, but with their numerical superiority, victory in this fight for justice is inevitable, as will be their gratitude to us.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1456,
+    "key": "AST_support_indonesian_uprising",
+    "val": "Support Indonesian Uprising",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1457,
+    "key": "AST_support_indonesian_uprising_desc",
+    "val": "Now that the Indonesians have taken up arms against the Dutch, they will need more than words. The uprising needs guns and other equipment, as well as full-throated diplomatic support.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1458,
+    "key": "AST_demand_new_zealand",
+    "val": "Demand New Zealand",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1459,
+    "key": "AST_demand_new_zealand_desc",
+    "val": "The Kiwis have long been our closest allies and friends. We have fought on the same beaches and died in the same useless Imperial wars. It is time to unite our two countries under one flag.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1460,
+    "key": "AST_protect_the_south_west_pacific",
+    "val": "Protect the South West Pacific",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1461,
+    "key": "AST_protect_the_south_west_pacific_desc",
+    "val": "It is time to use our regional might to bring all of the South West Pacific into our sphere of influence. Only we can protect the people and resources from outsiders who wish to pillage our heritage.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1462,
+    "key": "AST_a_deal_with_japan",
+    "val": "A Deal With Japan",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1463,
+    "key": "AST_a_deal_with_japan_desc",
+    "val": "With the South West Pacific in our orbit, we can reach a rapprochement with the Empire of Japan. If it stays in the North West and leaves our sphere to us, then there will be no reason for us to fight.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1464,
+    "key": "AST_our_own_empire",
+    "val": "Our Own Empire",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1465,
+    "key": "AST_our_own_empire_desc",
+    "val": "The time has come for the former colony to stand on its own and proclaim an Australian empire. Our benevolence and farsighted planning will be for the good of all in the area.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1466,
+    "key": "AST_japan_tech_sharing",
+    "val": "Japan Tech Sharing",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1467,
+    "key": "AST_japan_tech_sharing_desc",
+    "val": "Japanese scientists have been able to outpace our own research institutes, but our new harmony with the Empire of the Rising Sun opens up new opportunities for learning and sharing.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1468,
+    "key": "AST_war_on_japan",
+    "val": "War on Japan",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1469,
+    "key": "AST_war_on_japan_desc",
+    "val": "Japan's aggression has gone on too long. It has raped and pillaged its way through East Asia and now it has its eyes on the lands and resources further south. We cannot stand aside.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1470,
+    "key": "AST_empower_the_workers",
+    "val": "Empower the Workers",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1471,
+    "key": "AST_empower_the_workers_desc",
+    "val": "A nation of convicts, ranchers and dockworkers. That is Australia. It is time to give voice and power to the workers and proletariat of Australia. Long live the Revolution.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1472,
+    "key": "AST_delegation_to_china",
+    "val": "Delegation to China",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1473,
+    "key": "AST_delegation_to_china_desc",
+    "val": "Long torn apart by Imperial greed, the Chinese people need a friend. And we need a regional ally against Fascism. This official meeting with the Chinese government will bring us closer together.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1474,
+    "key": "AST_commitment_to_the_cause",
+    "val": "Commitment to the Cause",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1475,
+    "key": "AST_commitment_to_the_cause_desc",
+    "val": "The time has come to cast off the shackles of a foreign king and build a Worker's Paradise free of the Imperialist warmongering that risks all of Australia.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1476,
+    "key": "AST_indirect_support",
+    "val": "Indirect Support",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1477,
+    "key": "AST_indirect_support_desc",
+    "val": "The People's Republic of China is at war, but we are in no position to expose ourselves. A small shipment of arms and cautious encouragement is all we can risk at the moment.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1478,
+    "key": "AST_direct_support",
+    "val": "Direct Support",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1479,
+    "key": "AST_direct_support_desc",
+    "val": "To arms, Comrades! Hear the call of our Chinese brothers suffering in the war against Fascism! Sign up and join the global struggle of all workers!",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1480,
+    "key": "AST_join_comintern",
+    "val": "Join Comintern",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1481,
+    "key": "AST_join_comintern_desc",
+    "val": "Our future lies with Communism, so we must join our Comrades around the world in this global struggle. Papa Joe will show us the way and lead the workers from Australia and everywhere else to a glorious tomorrow.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1482,
+    "key": "AST_workers_paradise",
+    "val": "Workers Paradise",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1483,
+    "key": "AST_workers_paradise_desc",
+    "val": "The Stalinist Communist experiment is a failure, but we believe that Socialism is the right path. Australia will strike out on a second path for the workers to follow, free from direction from Moscow.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1484,
+    "key": "AST_research_city_excursions",
+    "val": "Research City Excursions",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1485,
+    "key": "AST_research_city_excursions_desc",
+    "val": "The Soviet Union has built research cities and laboratories throughout its territory and it has invited Australian researchers to come and learn about the glories of Communist science.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1486,
+    "key": "AST_nz_puppet",
+    "val": "NZ Puppet",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1487,
+    "key": "AST_nz_puppet_desc",
+    "val": "The workers of New Zealand should join with their Australian brothers and sisters. We can protect them, and have offered the gentle hand of friendship, so long as they submit to our direction.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1488,
+    "key": "AST_the_threat_against_the_people",
+    "val": "The Threat Against the People",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1489,
+    "key": "AST_the_threat_against_the_people_desc",
+    "val": "The militarist and Fascist power of Imperial Japan is a threat to the well-being of all Australians, and blocks the peaceful coexistence of the workers of the world. Australia will push back this enemy of the people, forcing them to stay on their dismal, rocky islands.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1490,
+    "key": "AST_new_general_tt",
+    "val": "A new §Y3 Skill§! General named §YIven Mackay§! will appear.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1491,
+    "key": "AST_homeland_defense_tt",
+    "val": "Fortify the Homeland with §Ycoastal forts and land forts§! guarding likely landing sites and ports.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1492,
+    "key": "AST_swpi_research_tt",
+    "val": "We will enter a §Ytech sharing agreement§! with the US or with other members of our faction.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1493,
+    "key": "AST_deal_with_japan_tt",
+    "val": "We will propose to transfer overlordship of §YMalaya§! to Japan in return for an alliance. Should this not be possible, we will propose to cede the states of §YKalimantan§!, §YSulawesi§! and §YThe Moluccas§! to Japan instead.\\n",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1494,
+    "key": "CAN_rowell_sirois_commission",
+    "val": "Rowell-Sirois Commission",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1495,
+    "key": "CAN_rowell_sirois_commission_desc",
+    "val": "The Rowell-Sirois Commission has determined that Canada's federal constitutional arrangement hinders recovery from the Great Depression. We should equalize the standards of service nationwide.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1496,
+    "key": "CAN_crown_corporations",
+    "val": "Crown Corporations",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1497,
+    "key": "CAN_crown_corporations_desc",
+    "val": "To provide essential services and stimulate economic and industrial growth, Canada must create many new Crown Corporations. Where private enterprise will not step in, the government must.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1498,
+    "key": "CAN_war_bonds",
+    "val": "War Bonds",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1499,
+    "key": "CAN_war_bonds_desc",
+    "val": "We cannot finance the war effort based on our meager tax base or resource exports. The patriotic Canadian people must invest in their country and support the war effort through War Bonds.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1500,
+    "key": "CAN_defence_of_canada_regulations",
+    "val": "Defense of Canada Regulations",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1501,
+    "key": "CAN_defence_of_canada_regulations_desc",
+    "val": "In times of war, civil rights need to be curtailed to prevent subversion of the war effort. This means restrictions on the press, dissident groups and some legal rights.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1502,
+    "key": "CAN_national_housing_act",
+    "val": "National Housing Act",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1503,
+    "key": "CAN_national_housing_act_desc",
+    "val": "A modernizing Dominion needs to have standardized regulations on housing across the nation. We must improve the living conditions of all Canadians.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1504,
+    "key": "CAN_dollar_a_year_men",
+    "val": "Dollar-A-Year Men",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1505,
+    "key": "CAN_dollar_a_year_men_desc",
+    "val": "Canadian industry has efficiency issues, but a number of wealthy businessmen have offered their service and advice in return for a token sum. This small coterie of counselors will move us forward.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1506,
+    "key": "CAN_canada_pacific_railway",
+    "val": "Canadian Pacific Railway",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1507,
+    "key": "CAN_canada_pacific_railway_desc",
+    "val": "The CPR has made all of its resources available to the war effort. Thousands of tonnes of supplies and material will cross our grand Dominion, from sea to sea, without interruption.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1508,
+    "key": "CAN_maritime_colonial_railway",
+    "val": "Maritime Colonial Railway",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1509,
+    "key": "CAN_maritime_colonial_railway_desc",
+    "val": "Our Eastern provinces have been underserved by rail lines since the sale of the Intercolonial Railway to the Canadian National Railway. We are encouraging and undertaking a new Maritime Colonial Railway to expand connections between the central provinces and the Atlantic provinces.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1510,
+    "key": "CAN_retool_angus_shops",
+    "val": "Retool Angus Shops",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1511,
+    "key": "CAN_retool_angus_shops_desc",
+    "val": "A modern army needs armor, and the CPR's Angus Shops are suitable for its construction. Retool and refit this infrastructure to build tanks.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1512,
+    "key": "CAN_imperial_oil",
+    "val": "Imperial Oil",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1513,
+    "key": "CAN_imperial_oil_desc",
+    "val": "Imperial Oil wants to finance exploration in Western Canada. This will increase our reserves of petroleum and lubricate the war machine.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1514,
+    "key": "CAN_department_of_munitions_and_supply",
+    "val": "Department of Munitions and Supply",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1515,
+    "key": "CAN_department_of_munitions_and_supply_desc",
+    "val": "We will bring the control and management of Canada's national resources under C.D. Howe in the Department of Munitions and Supply.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1516,
+    "key": "CAN_national_resources_mobilization_act",
+    "val": "National Resources Mobilization Act",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1517,
+    "key": "CAN_national_resources_mobilization_act_desc",
+    "val": "Canada is large with its population scattered in pockets across the land. A system should be developed to track employment status, and make sure that anyone eligible for service overseas can be located.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1518,
+    "key": "CAN_wartime_prices_and_trade_board",
+    "val": "Wartime Prices and Trade Board",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1519,
+    "key": "CAN_wartime_prices_and_trade_board_desc",
+    "val": "To prevent profiteering and hoarding, price controls have been introduced to make goods available to most Canadians.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1520,
+    "key": "CAN_bits_and_pieces_program",
+    "val": "Bits and Pieces Program",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1521,
+    "key": "CAN_bits_and_pieces_program_desc",
+    "val": "The Bits and Pieces Program will mobilize for the war effort a number of small factories that have been dedicated to minor consumer goods. A bicycle factory can find capacity for a number of useful war goods.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1522,
+    "key": "CAN_fund_the_national_research_council",
+    "val": "Fund the National Research Council",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1523,
+    "key": "CAN_fund_the_national_research_council_desc",
+    "val": "Canada has a history of science and advancement, but the need for researchers is greater than ever. It is time to throw more weight behind the NRC.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1524,
+    "key": "CAN_mine_the_shield",
+    "val": "Mine the Shield",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1525,
+    "key": "CAN_mine_the_shield_desc",
+    "val": "The Canadian Shield is rich with nickel, copper, gold and silver. We are given nature's bounty in minerals. It is time to exploit it further.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1526,
+    "key": "CAN_canada_wheat_board",
+    "val": "Canada Wheat Board",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1527,
+    "key": "CAN_canada_wheat_board_desc",
+    "val": "The devastation of our western farmers in the Depression can be addressed if we revive and reinvigorate the Canada Wheat Board to set prices for sale of wheat, barley, oats and other crops.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1528,
+    "key": "CAN_victory_aircraft_limited",
+    "val": "Victory Aircraft Limited",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1529,
+    "key": "CAN_victory_aircraft_limited_desc",
+    "val": "Victory Aircraft has been tasked with building Canada's bomber fleet. Lancasters for everyone!",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1530,
+    "key": "CAN_alberta_coal_towns",
+    "val": "Alberta Coal Towns",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1531,
+    "key": "CAN_alberta_coal_towns_desc",
+    "val": "There are coal deposits all along the Rockies ready to be exploited. We can promote emigration to these new mine locations and improve employment in the west.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1532,
+    "key": "CAN_commit_to_the_war",
+    "val": "Commit to the War",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1533,
+    "key": "CAN_commit_to_the_war_desc",
+    "val": "The world is burning and Canada has a role to play. We vow to protect democracy and the British way of life.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1534,
+    "key": "CAN_john_inglis_and_company",
+    "val": "John Inglis and Company",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1535,
+    "key": "CAN_john_inglis_and_company_desc",
+    "val": "John Inglis and Company should be directed to build new machine guns and cannon for the Canadian army.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1536,
+    "key": "CAN_polymer_corporation",
+    "val": "Polymer Corporation",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1537,
+    "key": "CAN_polymer_corporation_desc",
+    "val": "The new crown corporation Polymer Corporation has proven to be exceptionally efficient in the production of new rubber polymers.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1538,
+    "key": "CAN_national_steel_car",
+    "val": "National Steel Car",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1539,
+    "key": "CAN_national_steel_car_desc",
+    "val": "Though it has struggled through the Depression, the National Steel Car company has the expertise and experience to help build the vehicles we will need for the expanded railway and army.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1540,
+    "key": "CAN_send_in_the_zombies",
+    "val": "Send in the Zombies",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1541,
+    "key": "CAN_send_in_the_zombies_desc",
+    "val": "The time has come to put all of Canada's eligible men to work in the army. We’ve mobilized a lot of men to work in the industry through the NRMA, but now they should be sent overseas.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1542,
+    "key": "CAN_if_day",
+    "val": "If Day",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1543,
+    "key": "CAN_if_day_desc",
+    "val": "Canadians are not taking the threat of foreign domination seriously, so we will simulate a Nazi occupation of Winnipeg to drive the fear home. This will certainly increase sales of Victory Bonds.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1544,
+    "key": "CAN_defense_research_grants",
+    "val": "Defense Research Grants",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1545,
+    "key": "CAN_defense_research_grants_desc",
+    "val": "Now that Canada is fully a sovereign nation we are no longer receiving access to advanced prototypes and blueprints like we previously did. We must ensure that we always stay ahead of our enemies, and do not fall behind in technology.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1546,
+    "key": "CAN_uranium_mining",
+    "val": "Uranium Mining",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1547,
+    "key": "CAN_uranium_mining_desc",
+    "val": "Our allies are working on a secret project that will require uranium. Fortunately, the Eldorado company has discovered the rare mineral and built a town around the mines - Port Radium. The government must seize control of this company and protect this highly sensitive mineral.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1548,
+    "key": "CAN_long_branch_arsenal",
+    "val": "Long Branch Arsenal",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1549,
+    "key": "CAN_long_branch_arsenal_desc",
+    "val": "The Long Branch Arsenal in Western Toronto will be our center for rifle production. We need thousands of Lee-Enfields, and the Arsenal's central location will aid in distribution throughout the country.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1550,
+    "key": "CAN_independent_command",
+    "val": "Independent Command",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1551,
+    "key": "CAN_independent_command_desc",
+    "val": "In the Great War, Canadian troops were ultimately answerable to British officers, leading to senseless slaughter at the Somme and Passchendaele. This time, Canada will command its own.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1552,
+    "key": "CAN_forced_quebec_conscription",
+    "val": "Forced Quebec Conscription",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1553,
+    "key": "CAN_forced_quebec_conscription_desc",
+    "val": "Just like in 1917, our French Canadian citizens in Quebec are resisting the idea of a national draft to bring more men into the army. We will not stand by and let one minority defy the will of Parliament.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1554,
+    "key": "CAN_compromise_with_quebec",
+    "val": "Compromise With Quebec",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1555,
+    "key": "CAN_compromise_with_quebec_desc",
+    "val": "Quebec is balking at national conscription. This issue almost tore the country apart in the Great War, and we cannot afford to disrupt our national unity in a time of crisis. Maybe we can make a deal regarding war service for residents of Quebec.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1556,
+    "key": "CAN_war_fueled_economy",
+    "val": "War Fueled Economy",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1557,
+    "key": "CAN_war_fueled_economy_desc",
+    "val": "The overseas demand for raw materials and finished goods is lifting Canada out of the Depression. Our natural wealth in forests and minerals can feed the allied war machine and enrich the nation.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1558,
+    "key": "CAN_army_modernization",
+    "val": "Army Modernization",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1559,
+    "key": "CAN_army_modernization_desc",
+    "val": "Too long secure in our fireproof house, far from inflammable materials, Canada has let its army make do with antiquated equipment and training. We must move on modernization before it is too late.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1560,
+    "key": "CAN_canadian_infantry_corps",
+    "val": "Canadian Infantry Corps",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1561,
+    "key": "CAN_canadian_infantry_corps_desc",
+    "val": "We now have enough men to establish a corps level formation. The Canadian Infantry Corps is our first corps size group since the last war.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1562,
+    "key": "CAN_cmp_truck",
+    "val": "CMP Truck",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1563,
+    "key": "CAN_cmp_truck_desc",
+    "val": "Canadian factories are safe from enemy bombing and so can be directed to make transportation for the war effort. Our CMP Truck design is versatile, suited to many climates.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1564,
+    "key": "CAN_royal_regiment_of_canadian_artillery",
+    "val": "Royal Regiment of Canadian Artillery",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1565,
+    "key": "CAN_royal_regiment_of_canadian_artillery_desc",
+    "val": "Despite a lack of up-to-date cannon, we must start training our artillery men to fight a modern war, including how to use anti-air guns and new 25 pounders.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1566,
+    "key": "CAN_a_motorized_army",
+    "val": "A Motorized Army",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1567,
+    "key": "CAN_a_motorized_army_desc",
+    "val": "Canada's experience in manufacturing trucks and engines has given us an edge in the research and development of motorized armed forces.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1568,
+    "key": "CAN_red_deer_training_camp",
+    "val": "Red Deer Training Camp",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1569,
+    "key": "CAN_red_deer_training_camp_desc",
+    "val": "The Red Deer Training Camp will be the main location for the training of our new army. With a full armory and nearby airfields, Red Deer is ideally situated.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1570,
+    "key": "CAN_the_walkie_talkie",
+    "val": "The Walkie-Talkie",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1571,
+    "key": "CAN_the_walkie_talkie_desc",
+    "val": "Donald Hings has invented and is patenting a new handheld two way communication device that works on radio waves. This will greatly improve communication and targeting.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1572,
+    "key": "CAN_1st_canadian_parachute_battalion",
+    "val": "1st Canadian Parachute Battalion",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1573,
+    "key": "CAN_1st_canadian_parachute_battalion_desc",
+    "val": "Despite resistance from those that would prefer we focus on home defense, modern airborne warfare needs a dedicated parachute battalion to get the drop on our enemies.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1574,
+    "key": "CAN_the_black_devils",
+    "val": "The Black Devils",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1575,
+    "key": "CAN_the_black_devils_desc",
+    "val": "A special commando unit will need to be available for dangerous assignments. Cooperation with our American Allies in the creation of The Devil's Brigade has been arranged.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1576,
+    "key": "CAN_the_valentine_tank",
+    "val": "The Valentine Tank",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1577,
+    "key": "CAN_the_valentine_tank_desc",
+    "val": "Canada has a license to produce the Valentine Tank, a durable medium tank of British design.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1578,
+    "key": "CAN_the_rocky_mountain_rangers",
+    "val": "The Rocky Mountain Rangers",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1579,
+    "key": "CAN_the_rocky_mountain_rangers_desc",
+    "val": "Home defense in the west will fall to the Rocky Mountain Rangers, based in Kamloops.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1580,
+    "key": "CAN_strengthen_the_commonwealth_ties",
+    "val": "Strengthen the Commonwealth Ties",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1581,
+    "key": "CAN_strengthen_the_commonwealth_ties_desc",
+    "val": "Our fellow Dominions are our truest friends, and we should all march together in support of His Majesty.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1582,
+    "key": "CAN_shadow_factories",
+    "val": "Shadow Factories",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1583,
+    "key": "CAN_shadow_factories_desc",
+    "val": "We need aircraft factories, but it is easier and safer to have the parts manufacture dispersed around other factories, especially near automobile works. This will encourage secrecy and safety.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1584,
+    "key": "CAN_montreal_laboratory_collaboration",
+    "val": "Montreal Laboratory Collaboration",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1585,
+    "key": "CAN_montreal_laboratory_collaboration_desc",
+    "val": "The Montreal Laboratory has become an attraction for scientists all around the world. French and British scientists have felt especially welcome and are bringing greatly needed expertise to the Dominions’ efforts.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1586,
+    "key": "CAN_the_plan",
+    "val": "The Plan",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1587,
+    "key": "CAN_the_plan_desc",
+    "val": "We have joined with our allies to share experience and insight in the training of pilots. The war could be won from the air, so the Commonwealth Air Training Plan could be the key to victory.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1588,
+    "key": "CAN_camp_x",
+    "val": "Camp X",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1589,
+    "key": "CAN_camp_x_desc",
+    "val": "Intelligence gathering and spy training will be centralized at a secret location near Oshawa. It is centrally located for signals from both the UK and America.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1590,
+    "key": "CAN_supply_the_empire",
+    "val": "Supply the Empire",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1591,
+    "key": "CAN_supply_the_empire_desc",
+    "val": "Is there any nation as rich in wood, iron, nickel, and coal? So long as our convoys and railways are safe, we can ship raw materials to our ports and then to our Imperial partners.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1592,
+    "key": "CAN_aluminium_company_of_canada",
+    "val": "Aluminum Company of Canada",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1593,
+    "key": "CAN_aluminium_company_of_canada_desc",
+    "val": "Aluminum is lightweight and rustproof. By expanding our mining and production of aluminum, we can ensure that our factories and assembly lines will always be fed.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1594,
+    "key": "CAN_turner_valley_oilfield",
+    "val": "Turner Valley Oilfield",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1595,
+    "key": "CAN_turner_valley_oilfield_desc",
+    "val": "Discovered in 1914, the Turner Valley outside Calgary has become one of the largest oil fields in the Empire. Further development should be a top priority for the industry and the government.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1596,
+    "key": "CAN_patriation",
+    "val": "Patriation",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1597,
+    "key": "CAN_patriation_desc",
+    "val": "The time has come for Canada to reduce its ties to Mother England. We are a grown nation, with a destiny of our own, looking to the continent and across the Pacific as much as to England and Europe.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1598,
+    "key": "CAN_permanent_joint_defense_board",
+    "val": "Permanent Joint Defense Board",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1599,
+    "key": "CAN_permanent_joint_defense_board_desc",
+    "val": "Geography and common heritage ties us to the United States, but the continent is too large for one of us to defend alone. A joint defense board is required for consultation and planning on the protection of North America.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1600,
+    "key": "CAN_north_american_alliance",
+    "val": "North American Alliance",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1601,
+    "key": "CAN_north_american_alliance_desc",
+    "val": "The time has come to announce a great and permanent partnership with the United States of America. None can challenge us when we are united in peace and brotherhood.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1602,
+    "key": "CAN_habakkuk_carrier",
+    "val": "Habakkuk Carrier",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1603,
+    "key": "CAN_habakkuk_carrier_desc",
+    "val": "Project Habakkuk is our plan to build an anti-submarine carrier from a material made of wood pulp and ice. This will free up steel for more important uses, and further Canadian science.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1604,
+    "key": "CAN_refuge_for_scientists",
+    "val": "Refuge for Scientists",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1605,
+    "key": "CAN_refuge_for_scientists_desc",
+    "val": "Far from the tumult of war, Canada has proven to be a promising landing place for scientists that wish to carry out their work free from bombs and bullets.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1606,
+    "key": "CAN_swastika_clubs",
+    "val": "Swastika Clubs",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1607,
+    "key": "CAN_swastika_clubs_desc",
+    "val": "Many Canadians are turning to Swastika Clubs to promote the ideas and ideals of Fascism. Fascinating!",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1608,
+    "key": "CAN_support_the_blue_shirts",
+    "val": "Support the Blue Shirts",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1609,
+    "key": "CAN_support_the_blue_shirts_desc",
+    "val": "Our nation's turn to fascism will require a strong paramilitary arm to intimidate and impress our rivals. The Blue Shirts will be our answer to any who defy our new order.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1610,
+    "key": "CAN_join_germany",
+    "val": "Join Germany",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1611,
+    "key": "CAN_join_germany_desc",
+    "val": "Hitler has proven to be a reasonable man who is making reasonable demands while making his nation strong. We will join the Reich in solidarity for a new Golden Age.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1612,
+    "key": "CAN_support_a_synarchist_baja",
+    "val": "Support a Synarchist Baja",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1613,
+    "key": "CAN_support_a_synarchist_baja_desc",
+    "val": "To further the spread of conservative nationalism in North America, we should throw our weight behind a Synarchist revolt in Mexico. Once it is successful, we will have two Fascist states ready to spread the words across the hemisphere.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1614,
+    "key": "CAN_pinion_the_eagle",
+    "val": "Pinion the Eagle",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1615,
+    "key": "CAN_pinion_the_eagle_desc",
+    "val": "Our long border with the United States has been undefended for too long. America remains the greatest threat to Canadian security, so action will be taken to make it too difficult and troublesome for the USA to invade.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1616,
+    "key": "CAN_skewer_the_eagle",
+    "val": "Skewer the Eagle",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1617,
+    "key": "CAN_skewer_the_eagle_desc",
+    "val": "We will form an alliance with our Mexican brothers to surround and contain the American threat.",
+    "isPureVar": false
+  },
+  {
+    "lineNum": 1618,
+    "key": "CAN_defence_scheme_no_1",
+    "val": "Defense Scheme No.1",
+    "isPureVar": false
+  }
+]

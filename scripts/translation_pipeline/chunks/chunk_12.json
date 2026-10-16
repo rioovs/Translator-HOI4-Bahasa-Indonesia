@@ -1,0 +1,1402 @@
+[
+  {
+    "line": 3117,
+    "key": "wuw_GER_realpolitik.6.a",
+    "ver": "",
+    "en": "There isn't much we can do to stop them...",
+    "comment": ""
+  },
+  {
+    "line": 3118,
+    "key": "wuw_GER_realpolitik.6.b",
+    "ver": "",
+    "en": "We will never give up our freedom!",
+    "comment": ""
+  },
+  {
+    "line": 3120,
+    "key": "wuw_GER_realpolitik.7.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Demands we become their Client State",
+    "comment": ""
+  },
+  {
+    "line": 3121,
+    "key": "wuw_GER_realpolitik.7.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] of [FROM.GetNameDef] has demanded that we submit to their rule and become a client state of theirs, as was originally laid out in the treaty of Brest-Litovsk way back when. Should we give in to their demands?",
+    "comment": ""
+  },
+  {
+    "line": 3122,
+    "key": "wuw_GER_realpolitik.7.a",
+    "ver": "",
+    "en": "There isn't much we can do to stop them...",
+    "comment": ""
+  },
+  {
+    "line": 3123,
+    "key": "wuw_GER_realpolitik.7.b",
+    "ver": "",
+    "en": "We will never give up our freedom!",
+    "comment": ""
+  },
+  {
+    "line": 3125,
+    "key": "wuw_GER_realpolitik.8.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Accepts our Demands",
+    "comment": ""
+  },
+  {
+    "line": 3126,
+    "key": "wuw_GER_realpolitik.8.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] of [FROM.GetNameDef] has announced that the [FROM.GetAdjective] nation will submit to our rule, as they do not have the power to stop us, and fighting would only bring more destruction to their lands and people.",
+    "comment": ""
+  },
+  {
+    "line": 3127,
+    "key": "wuw_GER_realpolitik.8.a",
+    "ver": "",
+    "en": "A great day for [ROOT.GetNameDef]!",
+    "comment": ""
+  },
+  {
+    "line": 3129,
+    "key": "wuw_GER_realpolitik.9.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Rejects our Demands",
+    "comment": ""
+  },
+  {
+    "line": 3130,
+    "key": "wuw_GER_realpolitik.9.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] of [FROM.GetNameDef] has declared that our reasons for demanding their submission as based on loose documents that hold no real value, and has publicly denounced our nation as a whole. It seems they are intent to fight for their freedom if they must...",
+    "comment": ""
+  },
+  {
+    "line": 3131,
+    "key": "wuw_GER_realpolitik.9.a",
+    "ver": "",
+    "en": "They will regret their decision",
+    "comment": ""
+  },
+  {
+    "line": 3133,
+    "key": "wuw_GER_realpolitik.10.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Demands we Restore the Monarchy",
+    "comment": ""
+  },
+  {
+    "line": 3134,
+    "key": "wuw_GER_realpolitik.10.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] of [FROM.GetNameDef] has demanded that we submit to their rule and become a client state of theirs, as was originally the plan when we first accepted a von Hessen on our throne in 1918. Should we give in to their demands?",
+    "comment": ""
+  },
+  {
+    "line": 3135,
+    "key": "wuw_GER_realpolitik.10.a",
+    "ver": "",
+    "en": "Perhaps they can protect us from the [SOV.GetAdjective]s",
+    "comment": ""
+  },
+  {
+    "line": 3136,
+    "key": "wuw_GER_realpolitik.10.b",
+    "ver": "",
+    "en": "By Sisu we will not lay down!",
+    "comment": ""
+  },
+  {
+    "line": 3138,
+    "key": "wuw_GER_realpolitik.11.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Accepts our Demands",
+    "comment": ""
+  },
+  {
+    "line": 3139,
+    "key": "wuw_GER_realpolitik.11.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] of [FROM.GetNameDef] has announced that the [FROM.GetAdjective] nation will submit to our rule, as it was a mistake of the former government to renounce the monarchy and German claimant to their throne.",
+    "comment": ""
+  },
+  {
+    "line": 3140,
+    "key": "wuw_GER_realpolitik.11.a",
+    "ver": "",
+    "en": "A great day for [ROOT.GetNameDef]!",
+    "comment": ""
+  },
+  {
+    "line": 3142,
+    "key": "wuw_GER_realpolitik.12.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Rejects our Demands",
+    "comment": ""
+  },
+  {
+    "line": 3143,
+    "key": "wuw_GER_realpolitik.12.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] of [FROM.GetNameDef] has declared that our reasons for demanding their submission are as frail as our people and national will itself. It seems they are intent to fight for their freedom if they must...",
+    "comment": ""
+  },
+  {
+    "line": 3144,
+    "key": "wuw_GER_realpolitik.12.a",
+    "ver": "",
+    "en": "They will regret their decision",
+    "comment": ""
+  },
+  {
+    "line": 3146,
+    "key": "wuw_GER_realpolitik.13.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Demands we become their Client State",
+    "comment": ""
+  },
+  {
+    "line": 3147,
+    "key": "wuw_GER_realpolitik.13.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] of [FROM.GetNameDef] has demanded that we submit to their rule and become a client state of theirs, claiming  that it is in order to more easily protect us from the [SOV.GetAdjective] threat. Should we give in to their demands?",
+    "comment": ""
+  },
+  {
+    "line": 3148,
+    "key": "wuw_GER_realpolitik.13.a",
+    "ver": "",
+    "en": "Perhaps they can protect us from the [SOV.GetAdjective]s",
+    "comment": ""
+  },
+  {
+    "line": 3149,
+    "key": "wuw_GER_realpolitik.13.b",
+    "ver": "",
+    "en": "By Sisu we will not lay down!",
+    "comment": ""
+  },
+  {
+    "line": 3151,
+    "key": "wuw_GER_realpolitik.14.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Accepts our Demands",
+    "comment": ""
+  },
+  {
+    "line": 3152,
+    "key": "wuw_GER_realpolitik.14.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] of [FROM.GetNameDef] has announced that the [FROM.GetAdjective] nation will submit to our rule, as they need all the help they can get if they wish to continue the Heimosodat.",
+    "comment": ""
+  },
+  {
+    "line": 3153,
+    "key": "wuw_GER_realpolitik.14.a",
+    "ver": "",
+    "en": "A great day for [ROOT.GetNameDef]!",
+    "comment": ""
+  },
+  {
+    "line": 3155,
+    "key": "wuw_GER_realpolitik.15.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Rejects our Demands",
+    "comment": ""
+  },
+  {
+    "line": 3156,
+    "key": "wuw_GER_realpolitik.15.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] of [FROM.GetNameDef] has declared that our reasons for demanding their submission are as frail as our people and national will itself. It seems they are intent to fight for their freedom if they must...",
+    "comment": ""
+  },
+  {
+    "line": 3157,
+    "key": "wuw_GER_realpolitik.15.a",
+    "ver": "",
+    "en": "They will regret their decision",
+    "comment": ""
+  },
+  {
+    "line": 3159,
+    "key": "wuw_GER_realpolitik.16.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Demands our Annexation",
+    "comment": ""
+  },
+  {
+    "line": 3160,
+    "key": "wuw_GER_realpolitik.16.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] of [FROM.GetNameDef] has declared that our existence must come to an end as soon as possible, as we should be integrated into the [FROM.GetAdjective] state. Should we accept their demands?",
+    "comment": ""
+  },
+  {
+    "line": 3161,
+    "key": "wuw_GER_realpolitik.16.a",
+    "ver": "",
+    "en": "This is the end of the line for us",
+    "comment": ""
+  },
+  {
+    "line": 3162,
+    "key": "wuw_GER_realpolitik.16.b",
+    "ver": "",
+    "en": "To arms men!",
+    "comment": ""
+  },
+  {
+    "line": 3164,
+    "key": "wuw_GER_realpolitik.17.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Demands Imperial Possessions",
+    "comment": ""
+  },
+  {
+    "line": 3165,
+    "key": "wuw_GER_realpolitik.17.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] of [FROM.GetNameDef] has demanded that we return to them their old eastern imperial possessions, namely provinz Westpreußen, provinz Schlesien and provinz Posen. It is a lot of land, but perhaps returning it to them is the only way to avoid the abyss of subjugation.",
+    "comment": ""
+  },
+  {
+    "line": 3166,
+    "key": "wuw_GER_realpolitik.17.a",
+    "ver": "",
+    "en": "If it is what it takes...",
+    "comment": ""
+  },
+  {
+    "line": 3167,
+    "key": "wuw_GER_realpolitik.17.b",
+    "ver": "",
+    "en": "They will have to pry it from our hands themselves!",
+    "comment": ""
+  },
+  {
+    "line": 3169,
+    "key": "wuw_GER_realpolitik.18.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Accepts our Demands",
+    "comment": ""
+  },
+  {
+    "line": 3170,
+    "key": "wuw_GER_realpolitik.18.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] of [FROM.GetNameDef] has announced that the [FROM.GetAdjective] nation will hand our old eastern imperial possessions back to us. Finally, the historical injustices of Versailles have been undone!",
+    "comment": ""
+  },
+  {
+    "line": 3171,
+    "key": "wuw_GER_realpolitik.18.a",
+    "ver": "",
+    "en": "A great day for the [ROOT.GetAdjective] nation!",
+    "comment": ""
+  },
+  {
+    "line": 3173,
+    "key": "wuw_GER_realpolitik.19.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Rejects our Demands",
+    "comment": ""
+  },
+  {
+    "line": 3174,
+    "key": "wuw_GER_realpolitik.19.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] of [FROM.GetNameDef] has declared that our reasons for demanding their territory were nullified by Versailles, a treaty which we have no right of violating.",
+    "comment": ""
+  },
+  {
+    "line": 3175,
+    "key": "wuw_GER_realpolitik.19.a",
+    "ver": "",
+    "en": "They will regret their decision",
+    "comment": ""
+  },
+  {
+    "line": 3176,
+    "key": "wuw_GER_realpolitik.19.b",
+    "ver": "",
+    "en": "This is not the time for haste",
+    "comment": ""
+  },
+  {
+    "line": 3177,
+    "key": "GER_kaiserreich_decided_not_to_attack_poland",
+    "ver": "",
+    "en": "Decided not to attack §YPoland§! over the rejected return of old Imperial Possessions",
+    "comment": ""
+  },
+  {
+    "line": 3179,
+    "key": "wuw_GER_realpolitik.20.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Demands Further Concessions",
+    "comment": ""
+  },
+  {
+    "line": 3180,
+    "key": "wuw_GER_realpolitik.20.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] of [FROM.GetNameDef] has demanded that we hand even more territory over to them. This time they demand [87.GetName], [98.GetName] and [97.GetName]. They once again encroach on our state, but perhaps it is the only way to avoid annihilation. Should we accept their terms?",
+    "comment": ""
+  },
+  {
+    "line": 3181,
+    "key": "wuw_GER_realpolitik.20.a",
+    "ver": "",
+    "en": "Hopefully this will be the last of it...",
+    "comment": ""
+  },
+  {
+    "line": 3182,
+    "key": "wuw_GER_realpolitik.20.b",
+    "ver": "",
+    "en": "They have gone too far this time!",
+    "comment": ""
+  },
+  {
+    "line": 3184,
+    "key": "wuw_GER_realpolitik.21.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Accepts our Demands",
+    "comment": ""
+  },
+  {
+    "line": 3185,
+    "key": "wuw_GER_realpolitik.21.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] of [FROM.GetNameDef] has announced that the [FROM.GetAdjective] nation will hand [87.GetName], [98.GetName] and [97.GetName] over to us. Perhaps they have not yet figured out what plans we have in store for the [FROM.GetAdjective] state.",
+    "comment": ""
+  },
+  {
+    "line": 3186,
+    "key": "wuw_GER_realpolitik.21.a",
+    "ver": "",
+    "en": "A great day for the [ROOT.GetAdjective] nation!",
+    "comment": ""
+  },
+  {
+    "line": 3188,
+    "key": "wuw_GER_realpolitik.22.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Rejects our Demands",
+    "comment": ""
+  },
+  {
+    "line": 3189,
+    "key": "wuw_GER_realpolitik.22.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] of [FROM.GetNameDef] has declared that our reasons for demanding [FROM.GetAdjective] land are fabricated lies and they will not stand idly by while we steal traditional [FROM.GetAdjective] land from its people. It seems they called our bluff.",
+    "comment": ""
+  },
+  {
+    "line": 3190,
+    "key": "wuw_GER_realpolitik.22.a",
+    "ver": "",
+    "en": "They didn't fall for our trick, but we will not falter!",
+    "comment": ""
+  },
+  {
+    "line": 3192,
+    "key": "wuw_GER_realpolitik.23.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Invites us to an Alliance",
+    "comment": ""
+  },
+  {
+    "line": 3193,
+    "key": "wuw_GER_realpolitik.23.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] of [FROM.GetNameDef] has arrived at our capital today extending an offer to us. They wish for us to join their alliance, and take part in any and all previously established partnerships and unions. They also claim that they will aid us in the reconquest of our old Ottoman lands. Will we accept this offer?",
+    "comment": ""
+  },
+  {
+    "line": 3194,
+    "key": "wuw_GER_realpolitik.23.a",
+    "ver": "",
+    "en": "It is time to reclaim our birthright!",
+    "comment": ""
+  },
+  {
+    "line": 3195,
+    "key": "wuw_GER_realpolitik.23.b",
+    "ver": "",
+    "en": "We do not need their friendship!",
+    "comment": ""
+  },
+  {
+    "line": 3197,
+    "key": "wuw_GER_realpolitik.24.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Accepts our offer",
+    "comment": ""
+  },
+  {
+    "line": 3198,
+    "key": "wuw_GER_realpolitik.24.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] of [FROM.GetNameDef] has responded favorably to our offer, and their diplomats have arrived in our nation to sign the necessary documents to facilitate their full entry into our alliance. They would gladly take our aid in reclaiming old Ottoman lands.",
+    "comment": ""
+  },
+  {
+    "line": 3199,
+    "key": "wuw_GER_realpolitik.24.a",
+    "ver": "",
+    "en": "Very good",
+    "comment": ""
+  },
+  {
+    "line": 3201,
+    "key": "wuw_GER_realpolitik.25.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Rejects our offer",
+    "comment": ""
+  },
+  {
+    "line": 3202,
+    "key": "wuw_GER_realpolitik.25.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] of [FROM.GetNameDef] has responded to our alliance invitation with strong displeasure, and claims that any sort of partnership between our countries is and will forever be off the table. It seems they don't want our aid in reclaiming old Ottoman lands...",
+    "comment": ""
+  },
+  {
+    "line": 3203,
+    "key": "wuw_GER_realpolitik.25.a",
+    "ver": "",
+    "en": "They are missing out...",
+    "comment": ""
+  },
+  {
+    "line": 3205,
+    "key": "wuw_GER_realpolitik.26.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Requests Trade Agreements",
+    "comment": ""
+  },
+  {
+    "line": 3206,
+    "key": "wuw_GER_realpolitik.26.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] of [FROM.GetNameDef] has sent diplomats to our capital to discuss the prospect of intricate trade relations with the [FROM.GetAdjective] nation. This would take our relationship closer, but this will allow them access to our resources at a cheaper price, which has the risk of hurting our economy.",
+    "comment": ""
+  },
+  {
+    "line": 3207,
+    "key": "wuw_GER_realpolitik.26.a",
+    "ver": "",
+    "en": "We see no issue with this",
+    "comment": ""
+  },
+  {
+    "line": 3208,
+    "key": "wuw_GER_realpolitik.26.b",
+    "ver": "",
+    "en": "You can take your papers back to Berlin!",
+    "comment": ""
+  },
+  {
+    "line": 3210,
+    "key": "wuw_GER_realpolitik.27.t",
+    "ver": "",
+    "en": "Civil War in [ROOT.GetNameDef]",
+    "comment": ""
+  },
+  {
+    "line": 3211,
+    "key": "wuw_GER_realpolitik.27.desc",
+    "ver": "",
+    "en": "After a long period of growing monarchist sentiments it seems that the [ROOT.GetAdjective] conservative elements has grown weary of waiting for a peaceful change of government, claiming that our government is intent on keeping all the power for itself and not allowing a reversion to past eras. Following intense discourse it seems that diplomacy has fallen through and armed conflict has ensued.",
+    "comment": ""
+  },
+  {
+    "line": 3212,
+    "key": "wuw_GER_realpolitik.27.a",
+    "ver": "",
+    "en": "For the King!",
+    "comment": ""
+  },
+  {
+    "line": 3213,
+    "key": "wuw_GER_realpolitik.27.b",
+    "ver": "",
+    "en": "We must stop this folly!",
+    "comment": ""
+  },
+  {
+    "line": 3215,
+    "key": "wuw_GER_realpolitik.28.t",
+    "ver": "",
+    "en": "Civil War in [ROOT.GetNameDef]",
+    "comment": ""
+  },
+  {
+    "line": 3216,
+    "key": "wuw_GER_realpolitik.28.desc",
+    "ver": "",
+    "en": "After a long period of growing democratic sentiments it seems that the [ROOT.GetAdjective] democratic elements has grown weary of waiting for a peaceful change of government, claiming that our current government is intent on keeping all the power for itself must be brought down in order for democracy to bloom. Following intense discourse it seems that diplomacy has fallen through and armed conflict has ensued.",
+    "comment": ""
+  },
+  {
+    "line": 3217,
+    "key": "wuw_GER_realpolitik.28.a",
+    "ver": "",
+    "en": "For the Republic!",
+    "comment": ""
+  },
+  {
+    "line": 3218,
+    "key": "wuw_GER_realpolitik.28.b",
+    "ver": "",
+    "en": "We must stop this folly!",
+    "comment": ""
+  },
+  {
+    "line": 3220,
+    "key": "wuw_GER_realpolitik.29.t",
+    "ver": "",
+    "en": "Civil War in [ROOT.GetNameDef]",
+    "comment": ""
+  },
+  {
+    "line": 3221,
+    "key": "wuw_GER_realpolitik.29.desc",
+    "ver": "",
+    "en": "After a long period of growing fascist sentiments it seems that the [ROOT.GetAdjective] fascist elements has grown weary of waiting for a peaceful change of government, and have bombed a local police station, in what instigated fighting in the streets. Following intense discourse it seems that diplomacy has fallen through and armed conflict has ensued. We can only wait with baited breath and see where the future of the [ROOT.GetAdjective] nation lies.",
+    "comment": ""
+  },
+  {
+    "line": 3222,
+    "key": "wuw_GER_realpolitik.29.a",
+    "ver": "",
+    "en": "For the Revolution!",
+    "comment": ""
+  },
+  {
+    "line": 3223,
+    "key": "wuw_GER_realpolitik.29.b",
+    "ver": "",
+    "en": "We must stop this folly!",
+    "comment": ""
+  },
+  {
+    "line": 3227,
+    "key": "wuw_GER_realpolitik.33.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Demands Economic Integration",
+    "comment": ""
+  },
+  {
+    "line": 3228,
+    "key": "wuw_GER_realpolitik.33.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] of [FROM.GetNameDef] has arrived at our capital today extending an offer to us. They wish for us to increase our customs union activities and further our economic integration with them. It would help our economy significantly, but something smells fishy about all of this...",
+    "comment": ""
+  },
+  {
+    "line": 3229,
+    "key": "wuw_GER_realpolitik.33.a",
+    "ver": "",
+    "en": "It is too good to pass up",
+    "comment": ""
+  },
+  {
+    "line": 3230,
+    "key": "wuw_GER_realpolitik.33.b",
+    "ver": "",
+    "en": "We will not give up our economic independence!",
+    "comment": ""
+  },
+  {
+    "line": 3232,
+    "key": "wuw_GER_realpolitik.34.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Accepts our offer",
+    "comment": ""
+  },
+  {
+    "line": 3233,
+    "key": "wuw_GER_realpolitik.34.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] of [FROM.GetNameDef] has responded favorably to our offer, and their diplomats have arrived in our nation to sign the necessary documents to facilitate their further economic integration.",
+    "comment": ""
+  },
+  {
+    "line": 3234,
+    "key": "wuw_GER_realpolitik.34.a",
+    "ver": "",
+    "en": "We are grateful for their naiveté",
+    "comment": ""
+  },
+  {
+    "line": 3236,
+    "key": "wuw_GER_realpolitik.35.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Rejects our offer",
+    "comment": ""
+  },
+  {
+    "line": 3237,
+    "key": "wuw_GER_realpolitik.35.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] of [FROM.GetNameDef] has responded to our integration invitation with strong displeasure, and claims that any sort of closer economic partnership between our countries is and will forever be off the table. Perhaps they could see what we had in store for them...",
+    "comment": ""
+  },
+  {
+    "line": 3238,
+    "key": "wuw_GER_realpolitik.35.a",
+    "ver": "",
+    "en": "Terrible news...",
+    "comment": ""
+  },
+  {
+    "line": 3240,
+    "key": "wuw_GER_realpolitik.36.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Proposes Unification",
+    "comment": ""
+  },
+  {
+    "line": 3241,
+    "key": "wuw_GER_realpolitik.36.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] of [FROM.GetNameDef] has proposed that our nation unify with theirs, seeing as the people are the same, and will feel better protected unified under one stronger state. There is a hint of heavy-handedness and aggression in the message, but perhaps it would be best to become a part of a greater whole?",
+    "comment": ""
+  },
+  {
+    "line": 3242,
+    "key": "wuw_GER_realpolitik.36.a",
+    "ver": "",
+    "en": "The lesser-German solution was a mistake",
+    "comment": ""
+  },
+  {
+    "line": 3243,
+    "key": "wuw_GER_realpolitik.36.b",
+    "ver": "",
+    "en": "We will not compromise on our independence!",
+    "comment": ""
+  },
+  {
+    "line": 3245,
+    "key": "wuw_GER_realpolitik.37.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Accepts our Demands",
+    "comment": ""
+  },
+  {
+    "line": 3246,
+    "key": "wuw_GER_realpolitik.37.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] of [FROM.GetNameDef] has announced that after holding a public vote, it has been decided that the [FROM.GetAdjective] nation will officially cease to be from this day forward, and become an integral part of the [ROOT.GetAdjective] realm. It seems our persuasion succeeded.",
+    "comment": ""
+  },
+  {
+    "line": 3247,
+    "key": "wuw_GER_realpolitik.37.a",
+    "ver": "",
+    "en": "A great day for the [ROOT.GetAdjective] nation!",
+    "comment": ""
+  },
+  {
+    "line": 3249,
+    "key": "wuw_GER_realpolitik.38.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Rejects our Demands",
+    "comment": ""
+  },
+  {
+    "line": 3250,
+    "key": "wuw_GER_realpolitik.38.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] of [FROM.GetNameDef] has declared that our reasons for demanding [FROM.GetAdjective] subjugation wholly undermine the idea of [FROM.GetAdjective] sovereignty and self-determination. It seems they do not wish to be a part of a Greater Germanic state.",
+    "comment": ""
+  },
+  {
+    "line": 3251,
+    "key": "wuw_GER_realpolitik.38.a",
+    "ver": "",
+    "en": "In that case we must respect their wishes",
+    "comment": ""
+  },
+  {
+    "line": 3252,
+    "key": "wuw_GER_realpolitik.38.b",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] is [ROOT.GetAdjective]!",
+    "comment": ""
+  },
+  {
+    "line": 3253,
+    "key": "AUS_is_more_likely_to_accept_being_brothers_in_arms_flag",
+    "ver": "",
+    "en": "The §Y[AUS.GetAdjective]§! people have been swayed to our side",
+    "comment": ""
+  },
+  {
+    "line": 3255,
+    "key": "wuw_GER_realpolitik.39.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Invites us to an Alliance",
+    "comment": ""
+  },
+  {
+    "line": 3256,
+    "key": "wuw_GER_realpolitik.39.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] of [FROM.GetNameDef] has arrived at our capital today extending an offer to us. They wish for us to join their alliance, and take part in any and all previously established partnerships and unions. They also claim that they will aid us in the reconquest of our old Hungarian lands, and help us restore Greater Hungary. Should we accept this offer?",
+    "comment": ""
+  },
+  {
+    "line": 3257,
+    "key": "wuw_GER_realpolitik.39.a",
+    "ver": "",
+    "en": "It is time to reclaim our birthright!",
+    "comment": ""
+  },
+  {
+    "line": 3258,
+    "key": "wuw_GER_realpolitik.39.b",
+    "ver": "",
+    "en": "We do not need their friendship!",
+    "comment": ""
+  },
+  {
+    "line": 3260,
+    "key": "wuw_GER_realpolitik.40.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Accepts our offer",
+    "comment": ""
+  },
+  {
+    "line": 3261,
+    "key": "wuw_GER_realpolitik.40.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] of [FROM.GetNameDef] has responded favorably to our offer, and their diplomats have arrived in our nation to sign the necessary documents to facilitate their full entry into our alliance. They would gladly take our aid in reclaiming old Hungarian lands.",
+    "comment": ""
+  },
+  {
+    "line": 3262,
+    "key": "wuw_GER_realpolitik.40.a",
+    "ver": "",
+    "en": "Very good",
+    "comment": ""
+  },
+  {
+    "line": 3264,
+    "key": "wuw_GER_realpolitik.41.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Rejects our offer",
+    "comment": ""
+  },
+  {
+    "line": 3265,
+    "key": "wuw_GER_realpolitik.41.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] of [FROM.GetNameDef] has responded to our alliance invitation with strong displeasure, and claims that any sort of partnership between our countries is and will forever be off the table. It seems they don't want our aid in reclaiming old Hungarian lands...",
+    "comment": ""
+  },
+  {
+    "line": 3266,
+    "key": "wuw_GER_realpolitik.41.a",
+    "ver": "",
+    "en": "They are missing out...",
+    "comment": ""
+  },
+  {
+    "line": 3268,
+    "key": "wuw_GER_realpolitik.42.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Invites us to an Alliance",
+    "comment": ""
+  },
+  {
+    "line": 3269,
+    "key": "wuw_GER_realpolitik.42.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] of [FROM.GetNameDef] has arrived at our capital today extending an offer to us. They wish for us to join their alliance, and once again fight side by side as brothers, just like we did in the Great War. They also claim that they will aid us in the reconquest of our old Austro-Hungarian lands, and help us restore the Empire's territorial integrity. Should we accept their offer?",
+    "comment": ""
+  },
+  {
+    "line": 3270,
+    "key": "wuw_GER_realpolitik.42.a",
+    "ver": "",
+    "en": "It is time to reclaim our birthright!",
+    "comment": ""
+  },
+  {
+    "line": 3271,
+    "key": "wuw_GER_realpolitik.42.b",
+    "ver": "",
+    "en": "We do not need their friendship!",
+    "comment": ""
+  },
+  {
+    "line": 3273,
+    "key": "wuw_GER_realpolitik.43.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Accepts our offer",
+    "comment": ""
+  },
+  {
+    "line": 3274,
+    "key": "wuw_GER_realpolitik.43.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] of [FROM.GetNameDef] has responded favorably to our offer, and their diplomats have arrived in our nation to sign the necessary documents to facilitate their full entry into Mitteleuropa. They would gladly take our aid in reclaiming old Austro-Hungarian lands, and wish to once again fight side by side, as brothers against the world.",
+    "comment": ""
+  },
+  {
+    "line": 3275,
+    "key": "wuw_GER_realpolitik.43.a",
+    "ver": "",
+    "en": "Splendorous",
+    "comment": ""
+  },
+  {
+    "line": 3277,
+    "key": "wuw_GER_realpolitik.44.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Rejects our offer",
+    "comment": ""
+  },
+  {
+    "line": 3278,
+    "key": "wuw_GER_realpolitik.44.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] of [FROM.GetNameDef] has responded to our alliance invitation with strong displeasure, and claims that any sort of partnership between our countries is and will forever be off the table. It seems they don't want our aid in reclaiming old Austro-Hungarian lands...",
+    "comment": ""
+  },
+  {
+    "line": 3279,
+    "key": "wuw_GER_realpolitik.44.a",
+    "ver": "",
+    "en": "They do not see what is best for their own people",
+    "comment": ""
+  },
+  {
+    "line": 3281,
+    "key": "wuw_GER_realpolitik.45.t",
+    "ver": "",
+    "en": "[FROM.GetLeader] Wants to Split Czechoslovakia",
+    "comment": ""
+  },
+  {
+    "line": 3282,
+    "key": "wuw_GER_realpolitik.45.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] of [FROM.GetNameDef] has approached us with an interesting offer. They wish to split the old Czechoslovak lands between our two nations. Sounds like a good idea, no?",
+    "comment": ""
+  },
+  {
+    "line": 3283,
+    "key": "wuw_GER_realpolitik.45.a",
+    "ver": "",
+    "en": "Deal!",
+    "comment": ""
+  },
+  {
+    "line": 3284,
+    "key": "wuw_GER_realpolitik.45.b",
+    "ver": "",
+    "en": "We cannot agree to this",
+    "comment": ""
+  },
+  {
+    "line": 3286,
+    "key": "wuw_GER_realpolitik.46.t",
+    "ver": "",
+    "en": "[GER.GetNameDefCap] Demands Czechoslovak Lands",
+    "comment": ""
+  },
+  {
+    "line": 3287,
+    "key": "wuw_GER_realpolitik.46.desc",
+    "ver": "",
+    "en": "[GER.GetLeader] of [GER.GetNameDef] has demanded that we hand all Czechoslovak lands formerly part of the Austro-Hungarian Empire back to them and their allies. Sounds like a bad deal for us, but perhaps we can't stand up to them?",
+    "comment": ""
+  },
+  {
+    "line": 3288,
+    "key": "wuw_GER_realpolitik.46.a",
+    "ver": "",
+    "en": "We cannot fight them both...",
+    "comment": ""
+  },
+  {
+    "line": 3289,
+    "key": "wuw_GER_realpolitik.46.b",
+    "ver": "",
+    "en": "We will never surrender!",
+    "comment": ""
+  },
+  {
+    "line": 3291,
+    "key": "wuw_GER_realpolitik.47.t",
+    "ver": "",
+    "en": "[FROM.GetLeader] Accepts Splitting Czechoslovakia",
+    "comment": ""
+  },
+  {
+    "line": 3292,
+    "key": "wuw_GER_realpolitik.47.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] of [FROM.GetNameDef] has caved to our demands, as harsh as they may be. Our troops have already started moving and it is finally time to restore long lost past glory.",
+    "comment": ""
+  },
+  {
+    "line": 3293,
+    "key": "wuw_GER_realpolitik.47.a",
+    "ver": "",
+    "en": "Great",
+    "comment": ""
+  },
+  {
+    "line": 3295,
+    "key": "wuw_GER_realpolitik.48.t",
+    "ver": "",
+    "en": "[FROM.GetLeader] Rejects Splitting Czechoslovakia",
+    "comment": ""
+  },
+  {
+    "line": 3296,
+    "key": "wuw_GER_realpolitik.48.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] of [FROM.GetNameDef] has denied us our rightful lands and claims that if we want to have it, we will have to take it with our own hands. The [FROM.GetAdjective]s sure talk big, but can they back it up?",
+    "comment": ""
+  },
+  {
+    "line": 3297,
+    "key": "wuw_GER_realpolitik.48.a",
+    "ver": "",
+    "en": "We will reclaim what is ours!",
+    "comment": ""
+  },
+  {
+    "line": 3299,
+    "key": "wuw_GER_realpolitik.49.t",
+    "ver": "",
+    "en": "Our Overlord Surrenders us to [GER.GetNameDef]",
+    "comment": ""
+  },
+  {
+    "line": 3300,
+    "key": "wuw_GER_realpolitik.49.desc",
+    "ver": "",
+    "en": "Our overlord has betrayed us completely and opted to hand our lands over to [GER.GetNameDef]. Should we comply with their choice or try to resist them?",
+    "comment": ""
+  },
+  {
+    "line": 3301,
+    "key": "wuw_GER_realpolitik.49.a",
+    "ver": "",
+    "en": "Alright...",
+    "comment": ""
+  },
+  {
+    "line": 3302,
+    "key": "wuw_GER_realpolitik.49.b",
+    "ver": "",
+    "en": "Then they will have to take us by force!",
+    "comment": ""
+  },
+  {
+    "line": 3304,
+    "key": "wuw_GER_realpolitik.50.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Rejects our Offer",
+    "comment": ""
+  },
+  {
+    "line": 3305,
+    "key": "wuw_GER_realpolitik.50.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] of [FROM.GetNameDef] has denied our motion to carve up the old Austro-Hungarian Czechoslovak lands. It seems the deal is off after all...",
+    "comment": ""
+  },
+  {
+    "line": 3306,
+    "key": "wuw_GER_realpolitik.50.a",
+    "ver": "",
+    "en": "Then there is not much we can do...",
+    "comment": ""
+  },
+  {
+    "line": 3308,
+    "key": "wuw_GER_realpolitik.51.t",
+    "ver": "",
+    "en": "The First Berlin Award",
+    "comment": ""
+  },
+  {
+    "line": 3309,
+    "key": "wuw_GER_realpolitik.51.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] of [FROM.GetNameDef] has recently denounced our, as they stated it, unlawful occupation of our Galician lands, as the lands are supposedly still a rightful part of the old Austro-Hungarian Empire, something which [FROM.GetNameDef] and their allies lay complete claim to. Now, we have received a [FROM.GetAdjective] ultimatum, and their troops are amassing on our border. How should we respond?",
+    "comment": ""
+  },
+  {
+    "line": 3310,
+    "key": "wuw_GER_realpolitik.51.a",
+    "ver": "",
+    "en": "It is not worth shedding any blood over",
+    "comment": ""
+  },
+  {
+    "line": 3311,
+    "key": "wuw_GER_realpolitik.51.b",
+    "ver": "",
+    "en": "Then come and get it!",
+    "comment": ""
+  },
+  {
+    "line": 3313,
+    "key": "wuw_GER_realpolitik.52.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Transfers Galicia",
+    "comment": ""
+  },
+  {
+    "line": 3314,
+    "key": "wuw_GER_realpolitik.52.desc",
+    "ver": "",
+    "en": "The reasonable [FROM.GetLeader] of [FROM.GetNameDef] has agreed to hand over their territories in Galicia to our alliance, and has told their troops to stand down and withdraw from the area. We stand victorious once again!",
+    "comment": ""
+  },
+  {
+    "line": 3315,
+    "key": "wuw_GER_realpolitik.52.a",
+    "ver": "",
+    "en": "This is a great day!",
+    "comment": ""
+  },
+  {
+    "line": 3317,
+    "key": "wuw_GER_realpolitik.53.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Stands Firm",
+    "comment": ""
+  },
+  {
+    "line": 3318,
+    "key": "wuw_GER_realpolitik.53.desc",
+    "ver": "",
+    "en": "Though not entirely unexpected, the foolish [FROM.GetLeader] of [FROM.GetNameDef] has put the nation's troops on high alert after receiving our ultimatum, and sent an envoy stating that they will not take one single step back regarding the dispute.",
+    "comment": ""
+  },
+  {
+    "line": 3319,
+    "key": "wuw_GER_realpolitik.53.a",
+    "ver": "",
+    "en": "They will come to regret their decision!",
+    "comment": ""
+  },
+  {
+    "line": 3320,
+    "key": "wuw_GER_realpolitik.53.b",
+    "ver": "",
+    "en": "We must let this go...",
+    "comment": ""
+  },
+  {
+    "line": 3322,
+    "key": "wuw_GER_realpolitik.54.t",
+    "ver": "",
+    "en": "The Second Berlin Award",
+    "comment": ""
+  },
+  {
+    "line": 3323,
+    "key": "wuw_GER_realpolitik.54.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] of [FROM.GetNameDef] has recently denounced our, as they stated it, unlawful occupation of our Banatian and Transylvanian lands, as the lands are supposedly still a rightful part of the old Austro-Hungarian Empire, something which [FROM.GetNameDef] and their allies lay complete claim to. Now, we have received a [FROM.GetAdjective] ultimatum, and their troops are amassing on our border. How should we respond?",
+    "comment": ""
+  },
+  {
+    "line": 3324,
+    "key": "wuw_GER_realpolitik.54.a",
+    "ver": "",
+    "en": "It is not worth shedding any blood over",
+    "comment": ""
+  },
+  {
+    "line": 3325,
+    "key": "wuw_GER_realpolitik.54.b",
+    "ver": "",
+    "en": "Then come and get it!",
+    "comment": ""
+  },
+  {
+    "line": 3327,
+    "key": "wuw_GER_realpolitik.55.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Transfers Old Hungarian Possessions",
+    "comment": ""
+  },
+  {
+    "line": 3328,
+    "key": "wuw_GER_realpolitik.55.desc",
+    "ver": "",
+    "en": "\\nThe reasonable [FROM.GetLeader] of [FROM.GetNameDef] has agreed to hand over their territories in the old Hungarian lands to our alliance, and has told their troops to stand down and withdraw from the area. We stand victorious once again!",
+    "comment": ""
+  },
+  {
+    "line": 3329,
+    "key": "wuw_GER_realpolitik.55.a",
+    "ver": "",
+    "en": "This is a great day!",
+    "comment": ""
+  },
+  {
+    "line": 3331,
+    "key": "wuw_GER_realpolitik.56.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Stands Firm",
+    "comment": ""
+  },
+  {
+    "line": 3332,
+    "key": "wuw_GER_realpolitik.56.desc",
+    "ver": "",
+    "en": "Though not entirely unexpected, the foolish [FROM.GetLeader] of [FROM.GetNameDef] has put the nation's troops on high alert after receiving our ultimatum, and sent an envoy stating that they will not take one single step back regarding the dispute.",
+    "comment": ""
+  },
+  {
+    "line": 3333,
+    "key": "wuw_GER_realpolitik.56.a",
+    "ver": "",
+    "en": "They will come to regret their decision!",
+    "comment": ""
+  },
+  {
+    "line": 3334,
+    "key": "wuw_GER_realpolitik.56.b",
+    "ver": "",
+    "en": "We must let this go...",
+    "comment": ""
+  },
+  {
+    "line": 3336,
+    "key": "wuw_GER_realpolitik.57.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Integrates our Economy",
+    "comment": ""
+  },
+  {
+    "line": 3337,
+    "key": "wuw_GER_realpolitik.57.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] of [FROM.GetNameDef] has gone a step further than was initially promised, and is manipulating the markets to further increase our dependency on their economy, in a move to ensure we cannot stray from their path. If we do not break off from them immediately, this will practically be the end of our status as an independent nation. How shall we go about this?",
+    "comment": ""
+  },
+  {
+    "line": 3338,
+    "key": "wuw_GER_realpolitik.57.a",
+    "ver": "",
+    "en": "We will have to accept the situation",
+    "comment": ""
+  },
+  {
+    "line": 3339,
+    "key": "wuw_GER_realpolitik.57.b",
+    "ver": "",
+    "en": "Victory or death!",
+    "comment": ""
+  },
+  {
+    "line": 3341,
+    "key": "wuw_GER_realpolitik.58.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Accepts Further Integration",
+    "comment": ""
+  },
+  {
+    "line": 3342,
+    "key": "wuw_GER_realpolitik.58.desc",
+    "ver": "",
+    "en": "The glorious news that the leadership in [FROM.GetNameDef] has accepted to become further integrated with us has been met with great applause in the Reichstag earlier today. What we could offer was clearly enough for them to consider the offer advantageous despite the slight hit to their sovereignty.",
+    "comment": ""
+  },
+  {
+    "line": 3343,
+    "key": "wuw_GER_realpolitik.58.a",
+    "ver": "",
+    "en": "Great!",
+    "comment": ""
+  },
+  {
+    "line": 3345,
+    "key": "wuw_GER_realpolitik.59.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Rejects Further Integration",
+    "comment": ""
+  },
+  {
+    "line": 3346,
+    "key": "wuw_GER_realpolitik.59.desc",
+    "ver": "",
+    "en": "Despite the obvious advantages and it clearly being the best for the union, [FROM.GetNameDef] has rejected our proposal for further integration. One can only speculate as to their reasons, but it seems they might not have the unions best interests in mind.",
+    "comment": ""
+  },
+  {
+    "line": 3347,
+    "key": "wuw_GER_realpolitik.59.a",
+    "ver": "",
+    "en": "They are a risk to the confederation's unity!",
+    "comment": ""
+  },
+  {
+    "line": 3348,
+    "key": "wuw_GER_realpolitik.59.b",
+    "ver": "",
+    "en": "We will keep a close eye upon them",
+    "comment": ""
+  },
+  {
+    "line": 3350,
+    "key": "wuw_GER_realpolitik.60.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Demands Total Integration",
+    "comment": ""
+  },
+  {
+    "line": 3351,
+    "key": "wuw_GER_realpolitik.60.desc",
+    "ver": "",
+    "en": "Integrating our economies was apparently not enough to satiate the [FROM.GetAdjective]s, as [FROM.GetLeader] of [FROM.GetNameDef] has today gone a step further than was initially promised, and is now demanding our total integration into their nation. If we do not break off from them immediately, this will be the end of our status as an independent nation. How shall we go about this?",
+    "comment": ""
+  },
+  {
+    "line": 3352,
+    "key": "wuw_GER_realpolitik.60.a",
+    "ver": "",
+    "en": "We will have to accept the situation",
+    "comment": ""
+  },
+  {
+    "line": 3353,
+    "key": "wuw_GER_realpolitik.60.b",
+    "ver": "",
+    "en": "Victory or death!",
+    "comment": ""
+  },
+  {
+    "line": 3355,
+    "key": "wuw_GER_realpolitik.61.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Accepts Total Integration",
+    "comment": ""
+  },
+  {
+    "line": 3356,
+    "key": "wuw_GER_realpolitik.61.desc",
+    "ver": "",
+    "en": "The glorious news that the leadership in [FROM.GetNameDef] has accepted to become integrated into our nation  has been met with great applause in the Reichstag earlier today. What we could offer was clearly enough for them to consider the offer advantageous despite the end of their sovereignty.",
+    "comment": ""
+  },
+  {
+    "line": 3357,
+    "key": "wuw_GER_realpolitik.61.a",
+    "ver": "",
+    "en": "Great!",
+    "comment": ""
+  },
+  {
+    "line": 3359,
+    "key": "wuw_GER_realpolitik.62.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Rejects Total Integration",
+    "comment": ""
+  },
+  {
+    "line": 3360,
+    "key": "wuw_GER_realpolitik.62.desc",
+    "ver": "",
+    "en": "Despite the obvious advantages and it clearly being the best for the union, [FROM.GetNameDef] has rejected our proposal for total integration. One can only speculate as to their reasons, but it seems they might not have the unions best interests in mind.",
+    "comment": ""
+  },
+  {
+    "line": 3361,
+    "key": "wuw_GER_realpolitik.62.a",
+    "ver": "",
+    "en": "They are a risk to the federation's unity!",
+    "comment": ""
+  },
+  {
+    "line": 3362,
+    "key": "wuw_GER_realpolitik.62.b",
+    "ver": "",
+    "en": "We will keep a close eye upon them",
+    "comment": ""
+  },
+  {
+    "line": 3364,
+    "key": "wuw_GER_realpolitik.63.t",
+    "ver": "",
+    "en": "[FROM.GetNameDefCap] Invites us to a Customs Union",
+    "comment": ""
+  },
+  {
+    "line": 3365,
+    "key": "wuw_GER_realpolitik.63.desc",
+    "ver": "",
+    "en": "[FROM.GetLeader] of [FROM.GetNameDef] has approached us with an offer for us to join a customs union with them, which will do nothing but to strengthen both of our nations' economies. Sounds like a deal too good to pass up right?",
+    "comment": ""
+  },
+  {
+    "line": 3366,
+    "key": "wuw_GER_realpolitik.63.a",
+    "ver": "",
+    "en": "We will gladly accept",
+    "comment": ""
+  },
+  {
+    "line": 3367,
+    "key": "wuw_GER_realpolitik.63.b",
+    "ver": "",
+    "en": "Sounds suspicious to me...",
+    "comment": ""
+  },
+  {
+    "line": 3371,
+    "key": "GOT_GER_integrated_puppet_economies.01.t",
+    "ver": "",
+    "en": "[FROM.GetAdjective] Development Aid",
+    "comment": ""
+  },
+  {
+    "line": 3372,
+    "key": "GOT_GER_integrated_puppet_economies.01.desc",
+    "ver": "",
+    "en": "The Germans are investing in industries to further develop our military production and integrate part of our economy. While this will surely boost our productivity, it will also lessen our autonomy and independence.",
+    "comment": ""
+  },
+  {
+    "line": 3373,
+    "key": "GOT_GER_integrated_puppet_economies.01.a",
+    "ver": "",
+    "en": "We must make this work in our favor",
+    "comment": ""
+  },
+  {
+    "line": 3374,
+    "key": "GOT_GER_integrated_puppet_economies.02.t",
+    "ver": "",
+    "en": "[FROM.GetAdjective] Exploitation Program",
+    "comment": ""
+  },
+  {
+    "line": 3375,
+    "key": "GOT_GER_integrated_puppet_economies.02.desc",
+    "ver": "",
+    "en": "In order to bolster their own industrial capacity, the Germans are carrying out an exploitation policy to harness all our resources and productivity which will leave us dry.",
+    "comment": ""
+  }
+]

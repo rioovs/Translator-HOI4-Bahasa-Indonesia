@@ -1,0 +1,416 @@
+[
+  {
+    "line": 1979,
+    "key": "RAJ_provincial_elections_desc",
+    "val": "The new Government of India Act mandates elections in the provinces, establishing some measure of local government responsible to the Indian population. Kita akan see what effect this has on the British rule.",
+    "eng_count": 11
+  },
+  {
+    "line": 1981,
+    "key": "RAJ_swaraj_desc",
+    "val": "Gandhi's concept of self-rule - Swaraj - is gaining popularity throughout India. It advocates a total break from British institutions and customs and Swaraj groups are agitating at Indian schools.",
+    "eng_count": 7
+  },
+  {
+    "line": 1983,
+    "key": "RAJ_indian_national_congress_desc",
+    "val": "The Indian National Congress has been very successful in elections across the subcontinent. They are a strong voice for an independent India, or at least one with greater autonomy within the Empire.",
+    "eng_count": 13
+  },
+  {
+    "line": 1985,
+    "key": "RAJ_quit_india_movement_desc",
+    "val": "Gandhi's campaign for Indian Independence has reached a climax with a call for the British to leave India. It is inconceivable that the Raj can end before the war is over, but the situation on the ground is growing more tense by the day.",
+    "eng_count": 19
+  },
+  {
+    "line": 1987,
+    "key": "RAJ_all_india_forward_bloc_desc",
+    "val": "The All India Forward Bloc thinks that British disengagement from India is taking too long. A stronger - even militant - position must be taken.",
+    "eng_count": 5
+  },
+  {
+    "line": 1990,
+    "key": "RAJ_seek_help_from_soviet_desc",
+    "val": "The Soviet Union is the natural balance to British Imperial power. They claim they are the engine of revolution, and we should encourage them to export their revolution to India.",
+    "eng_count": 16
+  },
+  {
+    "line": 1994,
+    "key": "RAJ_indian_peoples_army_desc",
+    "val": "We should organize a military force that will learn from and be allied with the Communist cause.",
+    "eng_count": 9
+  },
+  {
+    "line": 1996,
+    "key": "RAJ_research_city_excursions_desc",
+    "val": "Soviet Research Cities are a wonder, and India's population is full of energetic and intelligent minds. Sending our young engineers to these cities will help us develop a domestic research and industry base.",
+    "eng_count": 10
+  },
+  {
+    "line": 1998,
+    "key": "RAJ_combined_arms_academy_desc",
+    "val": "Soviet military training can be made more efficient through the new Combined Arms Academy. We can get up to date on modern warfare, using air, land and sea power.",
+    "eng_count": 9
+  },
+  {
+    "line": 2000,
+    "key": "RAJ_rani_of_jhans_desc",
+    "val": "Rani of Jhansi was a great hero of the Indian Revolution of 1857. Her example of bravery and national pride is a model for all of the women of India who want to take up arms and form a regiment of their own.",
+    "eng_count": 16
+  },
+  {
+    "line": 2002,
+    "key": "RAJ_rebuilding_the_nation_desc",
+    "val": "With the Imperial oppressor expelled and the Indian population mobilized to action, the time has come to repair the damage of two centuries of occupation.",
+    "eng_count": 11
+  },
+  {
+    "line": 2005,
+    "key": "RAJ_seek_help_from_germany_desc",
+    "val": "Germany has never harmed us the way that Britain has, and the Reich is the most plausible challenge to British power. We should draw closer to the Axis powers.",
+    "eng_count": 14
+  },
+  {
+    "line": 2009,
+    "key": "RAJ_indian_national_army_desc",
+    "val": "An Indian National Army, distinct from British controlled forces, has been organized. We can build it in regions free from British interference and line up against the Allies, sapping Indian manpower from the Raj.",
+    "eng_count": 12
+  },
+  {
+    "line": 2011,
+    "key": "RAJ_battaglione_azad_hindoustan_desc",
+    "val": "Italy has formed the Battaglione Azad Hindoustan, a regiment of Indian former POWs. Trained in sabotage, parachuting and infiltration, the BAH could be a big step for national pride.",
+    "eng_count": 8
+  },
+  {
+    "line": 2015,
+    "key": "RAJ_german_technology_desc",
+    "val": "German scientists are the best in the world, and their military machine is based on the best modern engineering techniques. They are willing to share their advances with us.",
+    "eng_count": 15
+  },
+  {
+    "line": 2019,
+    "key": "RAJ_japanese_army_air_force_academy_desc",
+    "val": "The Japanese Air Force Academy has decided to welcome Indian recruits that wish to fight against European domination in Asia.",
+    "eng_count": 6
+  },
+  {
+    "line": 2021,
+    "key": "RAJ_cripps_mission_desc",
+    "val": "We have to keep India loyal to the Allied and British cause, in spite of the rising nationalist fervor for independence. Sir Stafford Cripps is a skilled negotiator who can assure the nationalist leaders that their demands will be addressed.",
+    "eng_count": 17
+  },
+  {
+    "line": 2024,
+    "key": "RAJ_two_nation_theory_desc",
+    "val": "Though long ruled as a single territory, it makes sense to see India as two nations - one Hindu and one Muslim. Partition of the country may not be the only answer, but any deal for an independent India must face this dual nature of the subcontinent.",
+    "eng_count": 14
+  },
+  {
+    "line": 2026,
+    "key": "RAJ_princely_state_donations_desc",
+    "val": "The Princely States of India have provided the men that have served as the core Indian army under the British for a long time. Further donations from these local rulers underline their support for the Empire.",
+    "eng_count": 14
+  },
+  {
+    "line": 2028,
+    "key": "RAJ_imperial_service_troops_desc",
+    "val": "The Imperial Service Troops are recruited by the Princes of India and can number in the hundreds of thousands. In these difficult times, it is great to know that His Majesty can rely on the loyalty of the rajas.",
+    "eng_count": 19
+  },
+  {
+    "line": 2030,
+    "key": "RAJ_raf_funding_desc",
+    "val": "The Royal Air Force of India will be given more funding and assets from the United Kingdom.",
+    "eng_count": 8
+  },
+  {
+    "line": 2034,
+    "key": "RAJ_navy_funding_desc",
+    "val": "The Royal Navy of India will be given more funding and assets from the United Kingdom.",
+    "eng_count": 8
+  },
+  {
+    "line": 2036,
+    "key": "RAJ_british_army_support_desc",
+    "val": "The British Army knows India well after 200 years of occupation. They know the people and the land, and will be able to support the training of Indian soldiers to fight at home.",
+    "eng_count": 14
+  },
+  {
+    "line": 2039,
+    "key": "RAJ_red_eagle_division_desc",
+    "val": "The Red Eagle Division will be the first Indian division to be trained to fight overseas, ready to fight in harsh conditions ",
+    "eng_count": 9
+  },
+  {
+    "line": 2042,
+    "key": "RAJ_chindits_desc",
+    "val": "India needs a special forces division so we have formed the Chindits to operate behind enemy lines in the jungles of Asia. This is a risky operation and will have high casualty rates, but could be of great service to the war effort.",
+    "eng_count": 16
+  },
+  {
+    "line": 2045,
+    "key": "RAJ_jungle_training_desc",
+    "val": "India, Burma and Indochina are covered in jungle and special training is recommended to make our soldiers effective in this dangerous terrain.",
+    "eng_count": 9
+  },
+  {
+    "line": 2047,
+    "key": "RAJ_lessons_of_the_great_war_desc",
+    "val": "Indian colonial soldiers participated in the last world war, and the lessons from this conflict should be brought to bear on the training and organization of the army.",
+    "eng_count": 14
+  },
+  {
+    "line": 2049,
+    "key": "RAJ_indianisation_of_army_desc",
+    "val": "To properly protect India in a total war, the entire population of India should be mobilized. This will mean not just recruiting more widely from the Indian population, but allowing Indian officers to take command at some place in the chain of authority.",
+    "eng_count": 17
+  },
+  {
+    "line": 2051,
+    "key": "RAJ_indian_gurkhas_desc",
+    "val": "The Gurkhas of the Punjabi and Nepalese highlands are legendary for their military skill. They’ve served the Raj loyally for many years, and excel at all kinds of warfare.",
+    "eng_count": 13
+  },
+  {
+    "line": 2053,
+    "key": "RAJ_an_indian_sandhurst_desc",
+    "val": "India has been demanding a military school of its own ever since the last war, and at long last we created one in 1932. The Indian Military Academy has been turning out Indian officers for a few years now, giving us a core command group.",
+    "eng_count": 14
+  },
+  {
+    "line": 2059,
+    "key": "RAJ_the_bangalore_torpedo_desc",
+    "val": "One of British India's greatest contributions to the art of war is the Bangalore Torpedo, a series of connected pipes that can be used to destroy obstacles while the engineers are under fire. This device has gained great popularity around the world. ",
+    "eng_count": 16
+  },
+  {
+    "line": 2061,
+    "key": "RAJ_vickers_berthier_gun_desc",
+    "val": "The Vickers-Berthier is a little unwieldy but has the virtue of being easy to quickly produce. For a nation like India, this is a very important characteristic in a gun.",
+    "eng_count": 10
+  },
+  {
+    "line": 2063,
+    "key": "RAJ_royal_indian_artillery_desc",
+    "val": "The Royal Indian Artillery has existed ever since the East India Company formed a battalion of cannon with Indian gunners in 1748. We can draw on these many decades of experience.",
+    "eng_count": 10
+  },
+  {
+    "line": 2065,
+    "key": "RAJ_army_motorization_desc",
+    "val": "India is too large to be covered efficiently by train and horse. The army should have motorized divisions and regular truck transport.",
+    "eng_count": 9
+  },
+  {
+    "line": 2069,
+    "key": "RAJ_revive_the_screw_guns_desc",
+    "val": "The mountainous terrain of Northern India led to the development of an artillery piece that could be dismantled and carried on muleback to wherever it was needed. This 7 pounder may be a little obsolete, but we shouldn’t ignore its utility.",
+    "eng_count": 16
+  },
+  {
+    "line": 2071,
+    "key": "RAJ_indian_armor_desc",
+    "val": "India should focus on developing its own homemade armor and tank division.",
+    "eng_count": 4
+  },
+  {
+    "line": 2073,
+    "key": "RAJ_modernizing_army_desc",
+    "val": "For too long the Indian armed forces were seen as little more than a colonial outpost, with few of the benefits and equipment available to the home army in Britain. It is time to modernize what we have in the Raj.",
+    "eng_count": 17
+  },
+  {
+    "line": 2075,
+    "key": "RAJ_indian_defense_research_desc",
+    "val": "Now that India is fully a sovereign nation we are no longer receiving access to advanced prototypes and blueprints like we previously did. Kita harus ensure that we always stay ahead of our enemies, and do not fall behind in technology.",
+    "eng_count": 14
+  },
+  {
+    "line": 2077,
+    "key": "RAJ_british_pilot_training_desc",
+    "val": "The Royal Air Force has agreed to accept Indian pilots to undertake training. This education will be a great help in the development of our own air wing.",
+    "eng_count": 11
+  },
+  {
+    "line": 2079,
+    "key": "RAJ_expand_air_bases_desc",
+    "val": "India is very large, so patrolling and protecting its air space means we must increase our air capacity at bases across the subcontinent.",
+    "eng_count": 7
+  },
+  {
+    "line": 2081,
+    "key": "RAJ_air_support_effort_desc",
+    "val": "Combined Arms warfare is the new way of war, so we have to focus some energy in the training and production of aircraft that can support ground and sea forces.",
+    "eng_count": 13
+  },
+  {
+    "line": 2083,
+    "key": "RAJ_fighter_effort_desc",
+    "val": "We need fighter aircraft to escort bombers and intercept any enemy planes that threaten our nation.",
+    "eng_count": 5
+  },
+  {
+    "line": 2085,
+    "key": "RAJ_royal_indian_air_force_desc",
+    "val": "The time has come to take our small air division and expand it into its own branch of the armed forces. A national air force with independent command will be better able to serve the Indian people and the Empire.",
+    "eng_count": 16
+  },
+  {
+    "line": 2087,
+    "key": "RAJ_the_smiling_buddha_desc",
+    "val": "Scientists are close to unlocking the secret of atomic energy - and this will lead to the creation of very powerful explosives. We cannot fall behind in the quest for atomic weapons.",
+    "eng_count": 14
+  },
+  {
+    "line": 2089,
+    "key": "RAJ_great_indian_peninsula_railway_desc",
+    "val": "Government control of the Great Indian Peninsula Railway in 1925 means that its expansion and improvement falls upon us. A growing population needs better transportation infrastructure.",
+    "eng_count": 7
+  },
+  {
+    "line": 2091,
+    "key": "RAJ_industrial_expansion_desc",
+    "val": "Hundreds of millions of people call India home - there is no reason this population should not be the foundation of an industrial giant.",
+    "eng_count": 10
+  },
+  {
+    "line": 2093,
+    "key": "RAJ_tata_steel_desc",
+    "val": "Tata Steel is on its way to becoming the largest steel manufacturer in the Empire. Greater production will further fuel the modernization of India.",
+    "eng_count": 10
+  },
+  {
+    "line": 2095,
+    "key": "RAJ_assam_oil_desc",
+    "val": "Assam is the center of Indian oil production, especially the refinery at Digboi. Access to this resource needs to be expanded and exploited.",
+    "eng_count": 10
+  },
+  {
+    "line": 2097,
+    "key": "RAJ_indian_institute_of_science_desc",
+    "val": "The Indian Institute of Science campus in Bangalore is allowing the best and brightest of India's population to further our advances.",
+    "eng_count": 9
+  },
+  {
+    "line": 2099,
+    "key": "RAJ_institute_of_fundamental_research_desc",
+    "val": "Some of our leading scientists and industrialists are championing a new Institute of Fundamental Research to take advantage of the latest discoveries in physical sciences.",
+    "eng_count": 9
+  },
+  {
+    "line": 2101,
+    "key": "RAJ_research_collaboration_desc",
+    "val": "The British showed us the advantage of sharing scientific progress between close allies. Our whole faction will be able to conduct wartime R&D more efficiently if we take the steps necessary to coordinate this.",
+    "eng_count": 14
+  },
+  {
+    "line": 2103,
+    "key": "RAJ_expand_mazagon_dock_desc",
+    "val": "The Mazagon Dock in Mumbai is our most important shipbuilder on the West Coast. It needs greater capacity in this world crisis.",
+    "eng_count": 8
+  },
+  {
+    "line": 2105,
+    "key": "RAJ_found_scindia_shipyard_desc",
+    "val": "We need a dockyard on the East Coast of the country, so establishing the Scindia Shipyard in Visakhapatnam makes sense for our naval future.",
+    "eng_count": 9
+  },
+  {
+    "line": 2107,
+    "key": "RAJ_royal_indian_navy_desc",
+    "val": "The Royal [ROOT.GetAdjective] Navy will need to be rapidly expanded. New tactics and new ships should be a priority.",
+    "eng_count": 7
+  },
+  {
+    "line": 2109,
+    "key": "RAJ_screening_effort_desc",
+    "val": "India plays a crucial role in defending the southern route to the Suez Canal. Screening and escort missions will help vital supplies and soldiers get to the European and African theaters.",
+    "eng_count": 10
+  },
+  {
+    "line": 2111,
+    "key": "RAJ_cruiser_effort_desc",
+    "val": "Cruisers will be sufficient for now in the development and expansion of [ROOT.GetAdjective] naval power.",
+    "eng_count": 7
+  },
+  {
+    "line": 2113,
+    "key": "RAJ_submarine_effort_desc",
+    "val": "With the rise of Japanese naval surface power in Asia, it might make sense to direct our energies under the sea, striking from submarines.",
+    "eng_count": 8
+  },
+  {
+    "line": 2115,
+    "key": "RAJ_capital_ship_effort_desc",
+    "val": "As a British outpost, India has seen the power of capital ships in dominating the sea. We should build our own heavy cruisers and battleships.",
+    "eng_count": 10
+  },
+  {
+    "line": 2117,
+    "key": "RAJ_modernizing_navy_desc",
+    "val": "Better engines, more crew space, faster speed and larger guns. India's navy will soon stand with the best on the continent.",
+    "eng_count": 7
+  },
+  {
+    "line": 2119,
+    "key": "RAJ_east_india_railways_desc",
+    "val": "Government control of the East India Railway leaves all decisions for its expansion and improvement in the hands of our ministers.",
+    "eng_count": 9
+  },
+  {
+    "line": 2121,
+    "key": "RAJ_integrate_princely_railways_desc",
+    "val": "Some of the Indian princes have financed their own rail systems, but, till now, they have been poorly integrated with the rail lines built by the Raj. Something must be done to tie the nation's trains together.",
+    "eng_count": 14
+  },
+  {
+    "line": 2123,
+    "key": "RAJ_ishapore_arsenal_desc",
+    "val": "The Ishapore Arsenal and Rifle Factory has been in operation since the 18th century. It is responsible for many innovations in gun design, and is the centerpiece of our arms production system.",
+    "eng_count": 14
+  },
+  {
+    "line": 2125,
+    "key": "RAJ_clamp_down_on_corruption_desc",
+    "val": "Despite the British industrial efforts to expand India's rail system, very few of the benefits of the expansion seem to come to India. There is endemic corruption and double dealing in the transportation sector and we must be seen to do something about it.",
+    "eng_count": 16
+  },
+  {
+    "line": 2127,
+    "key": "RAJ_strengthen_ties_with_british_investors_desc",
+    "val": "To expand our factories and resources we still heavily rely on British capital. Until we have a vigorous banking sector of our own, we must go on bended knee to London to seek support.",
+    "eng_count": 13
+  },
+  {
+    "line": 2129,
+    "key": "RAJ_british_rail_investors_desc",
+    "val": "Civilian and transportation infrastructure in India needs a heavy cash infusion from British financiers.",
+    "eng_count": 3
+  },
+  {
+    "line": 2131,
+    "key": "RAJ_british_arms_investors_desc",
+    "val": "If we want to quickly get our weapons factories moving, we will need to ask British banks to invest in our military infrastructure.",
+    "eng_count": 10
+  },
+  {
+    "line": 2138,
+    "key": "RAJ_administrative_oversight_desc",
+    "val": "With industrial corruption dealt with and our independence secured, it is time to bring local administrators under the wing of government. While it may seem a difficult task, the tribal leaders and local officials hold sway over great swathes of our population. They must be incorporated for the good of our country in these dark times.",
+    "eng_count": 19
+  },
+  {
+    "line": 2141,
+    "key": "RAJ_land_clearance_desc",
+    "val": "With increased influence channeled through local leaders, we are able to make better use of our natural resources and land in the name of the state.",
+    "eng_count": 11
+  },
+  {
+    "line": 2143,
+    "key": "RAJ_workforce_integration_desc",
+    "val": "Using the local power of regional and tribal leaders, we are able to funnel otherwise wasted resources into improvement programmes in rural areas.",
+    "eng_count": 8
+  }
+]
