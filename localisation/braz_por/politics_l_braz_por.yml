@@ -164,7 +164,7 @@
  RETURN_STATES_NOT_POSSIBLE_NOT_CONTROLLED: "Negara bagian berwarna merah tidak berada di bawah kendali Anda."
  RETURN_STATES_NOT_POSSIBLE_NOT_OWNED: "Anda belum menjadi pemilik wilayah mereka mana pun."
  POLITICS_IDEA_STAT_TRADE: "£resources_to_market_icon£  $VALUE|H0%$"
- POLITICS_IDEA_STAT_ENERGY_CONSUMPTION: "£energy_consumption_texticon£  $VALUE|H0%$\"\nPOLITICS_IDEA_STAT_CONSUMER_GOODS: \" £consumer_goods_texticon£  $VALUE|H0%$"
+ POLITICS_IDEA_STAT_ENERGY_CONSUMPTION: "£energy_consumption_texticon£  $VALUE|H0%$"
  POLITICS_IDEA_STAT_CONSUMER_GOODS: "£consumer_goods_texticon£  $VALUE|H0%$"
  POLITICS_IDEA_STAT_RECRUITABLE: "£manpower_icon£  $VALUE|=+1%$"
  IDEA_COST_COMPACT_POLITICAL_POWER: "£pol_power  $VALUE|0$"

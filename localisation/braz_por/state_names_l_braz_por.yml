@@ -3,7 +3,7 @@
  STATE_2: "Lazio"
  STATE_3: "Swiss Plateau"
  STATE_4: "Lower Austria"
- AUS_STATE_4: "Niederösterreich\"\nGER_STATE_4: \"Niederösterreich\"\nBAY_STATE_4: \"Niederösterreich\"\nSTATE_5: \"Ermland-Masuren"
+ AUS_STATE_4: "Niederösterreich"
  GER_STATE_4: "Niederösterreich"
  BAY_STATE_4: "Niederösterreich"
  STATE_5: "Ermland-Masuren"
@@ -67,7 +67,7 @@
  STATE_42: "Moselland"
  STATE_43: "Northern Hungary"
  STATE_44: "Central Albania"
- STATE_45: "Vojvodina\"\nYUG_STATE_45: \"Backa"
+ STATE_45: "Vojvodina"
  YUG_STATE_45: "Backa" # was Vojvodina
  HUN_STATE_45: "Délvidék"
  STATE_46: "Muntenia"
@@ -424,7 +424,7 @@
  STATE_284: "Wellington"
  STATE_285: "New South Wales"
  STATE_286: "South Annam" # was Southern Indochina, then Champa
- VIN_STATE_286: "Nam Trung Bo\"\nSTATE_287: \"Taklamakan"
+ VIN_STATE_286: "Nam Trung Bo"
  STATE_287: "Taklamakan"
  STATE_288: "Magwe"
  STATE_289: "Western Siam"
@@ -646,7 +646,7 @@
  STATE_502: "Rio Grande do Sul"
  STATE_503: "Santa Catarina"
  STATE_504: "Punta Porá" # Was Iguaçú
- STATE_505: "Goiás\"\nSTATE_506: \"Antofagasta"
+ STATE_505: "Goiás"
  STATE_506: "Antofagasta"
  STATE_507: "Magallanes"
  STATE_508: "Tucumán"
@@ -755,7 +755,7 @@
  STATE_607: "Henan"
  STATE_608: "Beiping" # renamed to Beijing later 
  #HBC_STATE_608: "Beiping" 
- JAP_STATE_608: "Peking\"\nSTATE_609: \"East Hebei"
+ JAP_STATE_608: "Peking"
  STATE_609: "East Hebei"
  STATE_610: "Jehol"
  state_610_modern_name: "Rehe"
@@ -1286,7 +1286,7 @@
  STATE_1061: "Perlis-Kedah"
  STATE_1061_thai_alt: "Syburi"
  STATE_1062: "Kelantan-Terengganu"
- STATE_1063: "Pahang\"\nSTATE_1064: \"Perak\"\nSTATE_1065: \"Penang\"\nSTATE_1066: \"Cochinchina\"\nFRA_STATE_1066: \"Cochinchine\"\nSTATE_1067: \"Battambang"
+ STATE_1063: "Pahang"
  STATE_1064: "Perak"
  STATE_1065: "Penang"
  STATE_1066: "Cochinchina"

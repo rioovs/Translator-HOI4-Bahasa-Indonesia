@@ -1,6 +1,6 @@
 # Hearts of Iron IV - Bahasa Indonesia
 
-[![Release](https://img.shields.io/github/v/release/rioovs/Translator-HOI4-Bahasa-Indonesia?color=blue&label=Release%20v1.0.0)](https://github.com/rioovs/Translator-HOI4-Bahasa-Indonesia/releases/latest)
+[![Release](https://img.shields.io/github/v/release/rioovs/Translator-HOI4-Bahasa-Indonesia?color=blue&label=Release%20v1.0.1)](https://github.com/rioovs/Translator-HOI4-Bahasa-Indonesia/releases/latest)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Game Version](https://img.shields.io/badge/HOI4%20Tested-v1.19.3.0%20Postern-green.svg)](https://store.steampowered.com/app/394360/Hearts_of_Iron_IV/)
 [![Translation Status](https://img.shields.io/badge/Translation-100%25%20Completed-brightgreen.svg)]()
@@ -9,7 +9,7 @@
 
 Terjemahan Bahasa Indonesia untuk Hearts of Iron IV (game dasar dan seluruh DLC) yang dipasang langsung ke berkas instalasi game tanpa mod atau playset launcher.
 
-Repositori ini mencakup 208 berkas lokalisasi (130.911 kunci terjemahan) dan aplikasi installer mandiri (`HOI4_Indonesian_Installer.exe`) untuk mendeteksi folder game, memeriksa versi, memindai DLC, dan mengonfigurasi launcher Paradox Dowser secara otomatis.
+Repositori ini mencakup 208 berkas lokalisasi (129.562 kunci terjemahan) dan aplikasi installer mandiri (`HOI4_Indonesian_Installer.exe`) untuk mendeteksi folder game, memeriksa versi, memindai DLC, dan mengonfigurasi launcher Paradox Dowser secara otomatis.
 
 ---
 
@@ -17,8 +17,8 @@ Repositori ini mencakup 208 berkas lokalisasi (130.911 kunci terjemahan) dan apl
 
 Unduh file installer langsung melalui tombol rilis di bawah:
 
-> **[Download HOI4_Indonesian_Installer.exe (v1.0.0)](https://github.com/rioovs/Translator-HOI4-Bahasa-Indonesia/releases/download/v1.0.0/HOI4_Indonesian_Installer.exe)**  
-> *Ukuran berkas: 17.15 MB • Bebas instalasi Python*
+> **[Download HOI4_Indonesian_Installer.exe (v1.0.1)](https://github.com/rioovs/Translator-HOI4-Bahasa-Indonesia/releases/download/v1.0.1/HOI4_Indonesian_Installer.exe)**  
+> *Ukuran berkas: 17.16 MB • Bebas instalasi Python*
 
 ---
 

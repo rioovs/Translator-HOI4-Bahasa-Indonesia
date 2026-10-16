@@ -125,7 +125,7 @@
   SUBDOCTRINE_ARMORED_SPEARHEAD_DESC: "Tank menawarkan kesempatan untuk menciptakan perang pergerakan alih-alih sekadar adu ketahanan. Doktrin kita harus menekankan pemanfaatan cepat dari penerobosan untuk mengepung dan menghancurkan musuh."
   armored_spearhead_force_concentration: "Titik Upaya Utama"
   armored_spearhead_armored_breakthrough_exploits: "Pemanfaatan Penerobosan Lapis Baja"
-  armored_spearhead_tactical_reconnaissance: "Melewati Titik Kuat Musuh\"\narmored_spearhead_local_reserves: \"Cadangan Lokal"
+  armored_spearhead_tactical_reconnaissance: "Melewati Titik Kuat Musuh"
   armored_spearhead_local_reserves: "Local Reserves"
   armored_spearhead_assault_detachments: "Perlindungan Sayap"
   armored_spearhead_no_lar_force_concentration: "$armored_spearhead_force_concentration$"
