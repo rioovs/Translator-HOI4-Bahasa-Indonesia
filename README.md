@@ -1,5 +1,6 @@
 # Hearts of Iron IV - Bahasa Indonesia
 
+[![Release](https://img.shields.io/github/v/release/rioovs/Translator-HOI4-Bahasa-Indonesia?color=blue&label=Release%20v1.0.0)](https://github.com/rioovs/Translator-HOI4-Bahasa-Indonesia/releases/latest)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Game Version](https://img.shields.io/badge/HOI4%20Tested-v1.19.3.0%20Postern-green.svg)](https://store.steampowered.com/app/394360/Hearts_of_Iron_IV/)
 [![Translation Status](https://img.shields.io/badge/Translation-100%25%20Completed-brightgreen.svg)]()
@@ -12,6 +13,15 @@ Repositori ini mencakup 208 berkas lokalisasi (130.911 kunci terjemahan) dan apl
 
 ---
 
+## Download
+
+Unduh file installer langsung melalui tombol rilis di bawah:
+
+> **[Download HOI4_Indonesian_Installer.exe (v1.0.0)](https://github.com/rioovs/Translator-HOI4-Bahasa-Indonesia/releases/download/v1.0.0/HOI4_Indonesian_Installer.exe)**  
+> *Ukuran berkas: 17.15 MB • Bebas instalasi Python*
+
+---
+
 ## Fitur Installer
 
 - **Deteksi folder otomatis**: Memindai registry Windows, pustaka Steam (`libraryfolders.vdf`), dan folder instalasi umum tanpa konfigurasi manual.
@@ -19,7 +29,7 @@ Repositori ini mencakup 208 berkas lokalisasi (130.911 kunci terjemahan) dan apl
 - **Pemindaian 46+ DLC**: Membaca folder `dlc/` dan berkas `.dlc` untuk memverifikasi seluruh ekspansi aktif (Götterdämmerung, Thunder at Our Gates, No Step Back, Man the Guns, La Résistance, dll).
 - **Konfigurasi launcher Paradox (Dowser)**: Mengedit `settings-layout.json` agar dropdown bahasa resmi menampilkan label "Bahasa Indonesia".
 - **Pengaturan default pemain**: Memperbarui `settings.txt` dan `pdx_settings.txt` di dokumen pengguna agar game langsung berjalan dalam Bahasa Indonesia.
-- **Pencadangan dan pemulihan**: Membuat salinan cadangan folder bahasa sebelum pemasangan, lengkap dengan opsi pemulihan satu klik.
+- **Pencadangan dan pemulihan terisolasi**: Salinan cadangan folder bahasa disimpan di `_hoi4_id_backups/` agar terisolasi dari pemindaian mesin game HOI4, lengkap dengan opsi pemulihan satu klik.
 - **Executable mandiri**: Berkas tunggal `.exe` tanpa perlu menginstal Python di komputer pengguna.
 
 ---
@@ -27,7 +37,7 @@ Repositori ini mencakup 208 berkas lokalisasi (130.911 kunci terjemahan) dan apl
 ## Cara Penggunaan
 
 ### Pengguna Akhir (Pemain)
-1. Unduh `HOI4_Indonesian_Installer.exe` dari tab [Releases](../../releases).
+1. Unduh **[HOI4_Indonesian_Installer.exe](https://github.com/rioovs/Translator-HOI4-Bahasa-Indonesia/releases/download/v1.0.0/HOI4_Indonesian_Installer.exe)** dari [GitHub Releases](https://github.com/rioovs/Translator-HOI4-Bahasa-Indonesia/releases/latest).
 2. Jalankan `HOI4_Indonesian_Installer.exe`.
 3. Aplikasi akan mendeteksi folder instalasi game secara otomatis. Jika game berada di folder kustom, klik **Pilih Folder...**.
 4. Periksa ringkasan versi game dan DLC yang terdeteksi.
