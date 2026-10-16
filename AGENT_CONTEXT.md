@@ -69,9 +69,9 @@ Setiap file terjemahan harus:
 
 ---
 
-## 4. Status Terjemahan Saat Ini (208 Berkas Selesai / 130.911 Kunci / 147.696 Baris — 100% LENGKAP)
+## 4. Status Cakupan Berkas (208 Berkas Selesai / 130.911 Kunci)
 
-### ✅ SELESAI & TERVALIDASI 100% (SEMUA DLC & GAME DASAR)
+### Berkas Terjemahan
 
 #### Antarmuka Inti
 - `core_l_braz_por.yml` — 2.280 baris, 2.274 kunci
