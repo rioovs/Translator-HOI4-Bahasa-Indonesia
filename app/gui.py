@@ -1,5 +1,5 @@
 """Hearts of Iron IV - Indonesian Localization Installer GUI.
-Clean, restrained desktop UI designed under Anti-Slop principles.
+Minimalist desktop UI designed under Anti-Slop principles.
 """
 
 import os
@@ -40,7 +40,6 @@ COLOR_PRIMARY_TEXT = "#ffffff"
 
 COLOR_BTN_SEC = "#1f2633"
 COLOR_BTN_SEC_HOVER = "#2a3345"
-COLOR_BTN_SEC_BORDER = "#2d3748"
 
 COLOR_SUCCESS = "#16a34a"
 COLOR_SUCCESS_BG = "#052e16"
@@ -54,6 +53,9 @@ COLOR_ERROR = "#dc2626"
 COLOR_ERROR_BG = "#450a0a"
 COLOR_ERROR_TEXT = "#fecaca"
 
+COLOR_LINK = "#38bdf8"
+COLOR_LINK_HOVER = "#7dd3fc"
+
 FONT_FAMILY = "Segoe UI"
 FONT_MONO = "Consolas"
 CREDIT_URL = "https://github.com/rioovs"
@@ -66,8 +68,8 @@ class AntiSlopButton(tk.Button):
         self.default_bg = bg
         self.hover_bg = hover_bg or (COLOR_BTN_SEC_HOVER if bg == COLOR_BTN_SEC else bg)
         btn_font = kwargs.pop("font", (FONT_FAMILY, 9))
-        padx = kwargs.pop("padx", 14)
-        pady = kwargs.pop("pady", 6)
+        padx = kwargs.pop("padx", 12)
+        pady = kwargs.pop("pady", 5)
 
         super().__init__(
             master,
@@ -93,8 +95,7 @@ class HOI4InstallerApp:
     def __init__(self, root: tk.Tk):
         self.root = root
         self.root.title(f"Hearts of Iron IV - Penginstal Bahasa Indonesia v{__version__}")
-        self.root.geometry("820x720")
-        self.root.minsize(760, 640)
+        self._set_window_geometry(660, 530)
         self.root.configure(bg=BG_MAIN)
 
         self.selected_path = tk.StringVar()
@@ -110,13 +111,22 @@ class HOI4InstallerApp:
         self._build_ui()
         self._auto_detect()
 
+    def _set_window_geometry(self, width: int, height: int):
+        """Sets compact size and centers the window on the screen."""
+        self.root.minsize(580, 460)
+        screen_w = self.root.winfo_screenwidth()
+        screen_h = self.root.winfo_screenheight()
+        x = max(0, (screen_w - width) // 2)
+        y = max(0, (screen_h - height) // 2)
+        self.root.geometry(f"{width}x{height}+{x}+{y}")
+
     def _setup_styles(self):
         style = ttk.Style()
         style.theme_use("clam")
 
         style.configure(
             "TProgressbar",
-            thickness=10,
+            thickness=6,
             troughcolor=BG_INPUT,
             background=COLOR_PRIMARY_HOVER,
             bordercolor=BG_CARD_BORDER,
@@ -128,7 +138,7 @@ class HOI4InstallerApp:
             "TCheckbutton",
             background=BG_CARD,
             foreground=FG_MAIN,
-            font=(FONT_FAMILY, 9),
+            font=(FONT_FAMILY, 8),
         )
         style.map(
             "TCheckbutton",
@@ -137,17 +147,17 @@ class HOI4InstallerApp:
         )
 
     def _build_ui(self):
-        # 1. Header Bar
-        header = tk.Frame(self.root, bg=BG_HEADER, padx=24, pady=16, highlightthickness=1, highlightbackground=BG_CARD_BORDER)
-        header.pack(fill="x")
+        # 1. Header Bar (Top)
+        header = tk.Frame(self.root, bg=BG_HEADER, padx=16, pady=8, highlightthickness=1, highlightbackground=BG_CARD_BORDER)
+        header.pack(fill="x", side="top")
 
         title_box = tk.Frame(header, bg=BG_HEADER)
-        title_box.pack(side="left", fill="both")
+        title_box.pack(side="left")
 
         lbl_title = tk.Label(
             title_box,
             text="Hearts of Iron IV - Penginstal Bahasa Indonesia",
-            font=(FONT_FAMILY, 13, "bold"),
+            font=(FONT_FAMILY, 11, "bold"),
             fg=FG_MAIN,
             bg=BG_HEADER,
         )
@@ -155,44 +165,99 @@ class HOI4InstallerApp:
 
         lbl_sub = tk.Label(
             title_box,
-            text="Pemasangan berkas terjemahan langsung ke direktori instalasi game",
-            font=(FONT_FAMILY, 9),
+            text="Pemasangan terjemahan langsung ke berkas instalasi game",
+            font=(FONT_FAMILY, 8),
             fg=FG_MUTED,
             bg=BG_HEADER,
         )
-        lbl_sub.pack(anchor="w", pady=(2, 0))
+        lbl_sub.pack(anchor="w")
 
-        badge_box = tk.Frame(header, bg=BG_HEADER)
-        badge_box.pack(side="right", anchor="e")
+        # Top-Right Box: Clickable credit & version badge
+        top_right = tk.Frame(header, bg=BG_HEADER)
+        top_right.pack(side="right", anchor="e")
+
+        lbl_by = tk.Label(top_right, text="oleh ", font=(FONT_FAMILY, 8), fg=FG_DIM, bg=BG_HEADER)
+        lbl_by.pack(side="left")
+
+        lbl_top_credit = tk.Label(
+            top_right,
+            text="rioovs",
+            font=(FONT_FAMILY, 8, "bold", "underline"),
+            fg=COLOR_LINK,
+            bg=BG_HEADER,
+            cursor="hand2",
+        )
+        lbl_top_credit.pack(side="left", padx=(0, 8))
+        lbl_top_credit.bind("<Button-1>", lambda e: webbrowser.open_new_tab(CREDIT_URL))
+        lbl_top_credit.bind("<Enter>", lambda e: lbl_top_credit.configure(fg=COLOR_LINK_HOVER))
+        lbl_top_credit.bind("<Leave>", lambda e: lbl_top_credit.configure(fg=COLOR_LINK))
 
         lbl_ver = tk.Label(
-            badge_box,
-            text=f"Versi {__version__}",
+            top_right,
+            text=f"v{__version__}",
             font=(FONT_FAMILY, 8),
             bg=COLOR_BTN_SEC,
             fg=FG_MUTED,
-            padx=8,
-            pady=4,
+            padx=6,
+            pady=2,
         )
-        lbl_ver.pack(side="right")
+        lbl_ver.pack(side="left")
 
-        # Main Body Container
-        content = tk.Frame(self.root, bg=BG_MAIN, padx=20, pady=12)
+        # 2. Footer Bar (Packed FIRST with side="bottom" so it is ALWAYS visible and never pushed off-screen!)
+        footer = tk.Frame(self.root, bg=BG_HEADER, padx=16, pady=6, highlightthickness=1, highlightbackground=BG_CARD_BORDER)
+        footer.pack(fill="x", side="bottom")
+
+        lbl_foot_left = tk.Label(
+            footer,
+            text="Hearts of Iron IV Indonesian Localization • Lisensi MIT",
+            font=(FONT_FAMILY, 8),
+            fg=FG_DIM,
+            bg=BG_HEADER,
+        )
+        lbl_foot_left.pack(side="left")
+
+        credit_box = tk.Frame(footer, bg=BG_HEADER)
+        credit_box.pack(side="right")
+
+        lbl_foot_by = tk.Label(
+            credit_box,
+            text="Pengembang: ",
+            font=(FONT_FAMILY, 8),
+            fg=FG_MUTED,
+            bg=BG_HEADER,
+        )
+        lbl_foot_by.pack(side="left")
+
+        lbl_foot_link = tk.Label(
+            credit_box,
+            text="rioovs",
+            font=(FONT_FAMILY, 8, "bold", "underline"),
+            fg=COLOR_LINK,
+            bg=BG_HEADER,
+            cursor="hand2",
+        )
+        lbl_foot_link.pack(side="left")
+        lbl_foot_link.bind("<Button-1>", lambda e: webbrowser.open_new_tab(CREDIT_URL))
+        lbl_foot_link.bind("<Enter>", lambda e: lbl_foot_link.configure(fg=COLOR_LINK_HOVER))
+        lbl_foot_link.bind("<Leave>", lambda e: lbl_foot_link.configure(fg=COLOR_LINK))
+
+        # 3. Main Body Container (Fills middle area)
+        content = tk.Frame(self.root, bg=BG_MAIN, padx=14, pady=8)
         content.pack(fill="both", expand=True)
 
-        # 2. Section: Game Directory Selector
+        # Section: Game Directory Selector
         dir_frame = tk.LabelFrame(
             content,
             text=" Direktori Instalasi Game ",
-            font=(FONT_FAMILY, 9, "bold"),
+            font=(FONT_FAMILY, 8, "bold"),
             bg=BG_CARD,
             fg=FG_MAIN,
             bd=1,
             relief="solid",
-            padx=12,
-            pady=10,
+            padx=10,
+            pady=6,
         )
-        dir_frame.pack(fill="x", pady=(0, 10))
+        dir_frame.pack(fill="x", pady=(0, 6))
 
         dir_box = tk.Frame(dir_frame, bg=BG_CARD)
         dir_box.pack(fill="x")
@@ -200,7 +265,7 @@ class HOI4InstallerApp:
         self.txt_path = tk.Entry(
             dir_box,
             textvariable=self.selected_path,
-            font=(FONT_FAMILY, 9),
+            font=(FONT_FAMILY, 8),
             bg=BG_INPUT,
             fg=FG_MAIN,
             insertbackground=FG_MAIN,
@@ -208,7 +273,7 @@ class HOI4InstallerApp:
             bd=1,
             highlightthickness=0,
         )
-        self.txt_path.pack(side="left", fill="x", expand=True, ipady=5, padx=(0, 8))
+        self.txt_path.pack(side="left", fill="x", expand=True, ipady=4, padx=(0, 6))
 
         btn_auto = AntiSlopButton(
             dir_box,
@@ -216,8 +281,10 @@ class HOI4InstallerApp:
             bg=COLOR_BTN_SEC,
             hover_bg=COLOR_BTN_SEC_HOVER,
             command=self._auto_detect,
+            padx=10,
+            pady=3,
         )
-        btn_auto.pack(side="left", padx=(0, 6))
+        btn_auto.pack(side="left", padx=(0, 4))
 
         btn_browse = AntiSlopButton(
             dir_box,
@@ -225,31 +292,33 @@ class HOI4InstallerApp:
             bg=COLOR_BTN_SEC,
             hover_bg=COLOR_BTN_SEC_HOVER,
             command=self._browse_dir,
+            padx=10,
+            pady=3,
         )
         btn_browse.pack(side="left")
 
-        # 3. Section: Status Cards (Version & DLC)
+        # Section: Status Cards (Version & DLC)
         status_row = tk.Frame(content, bg=BG_MAIN)
-        status_row.pack(fill="x", pady=(0, 10))
+        status_row.pack(fill="x", pady=(0, 6))
 
-        # 3a. Card Status Versi
+        # Status Versi
         self.card_ver = tk.LabelFrame(
             status_row,
             text=" Status Versi Game ",
-            font=(FONT_FAMILY, 9, "bold"),
+            font=(FONT_FAMILY, 8, "bold"),
             bg=BG_CARD,
             fg=FG_MAIN,
             bd=1,
             relief="solid",
-            padx=12,
-            pady=8,
+            padx=10,
+            pady=6,
         )
-        self.card_ver.pack(side="left", fill="both", expand=True, padx=(0, 6))
+        self.card_ver.pack(side="left", fill="both", expand=True, padx=(0, 4))
 
         self.lbl_ver_display = tk.Label(
             self.card_ver,
             text="Memeriksa versi...",
-            font=(FONT_FAMILY, 9),
+            font=(FONT_FAMILY, 8),
             fg=FG_MAIN,
             bg=BG_CARD,
             anchor="w",
@@ -260,32 +329,32 @@ class HOI4InstallerApp:
         self.lbl_ver_badge = tk.Label(
             self.card_ver,
             text="Menunggu deteksi",
-            font=(FONT_FAMILY, 8),
+            font=(FONT_FAMILY, 7),
             bg=COLOR_BTN_SEC,
             fg=FG_MUTED,
-            padx=8,
-            pady=3,
+            padx=6,
+            pady=2,
         )
-        self.lbl_ver_badge.pack(anchor="w", pady=(6, 0))
+        self.lbl_ver_badge.pack(anchor="w", pady=(3, 0))
 
-        # 3b. Card Status DLC
+        # Status DLC
         self.card_dlc = tk.LabelFrame(
             status_row,
             text=" Ekspansi & Konten (DLC) ",
-            font=(FONT_FAMILY, 9, "bold"),
+            font=(FONT_FAMILY, 8, "bold"),
             bg=BG_CARD,
             fg=FG_MAIN,
             bd=1,
             relief="solid",
-            padx=12,
-            pady=8,
+            padx=10,
+            pady=6,
         )
-        self.card_dlc.pack(side="right", fill="both", expand=True, padx=(6, 0))
+        self.card_dlc.pack(side="right", fill="both", expand=True, padx=(4, 0))
 
         self.lbl_dlc_display = tk.Label(
             self.card_dlc,
             text="Memindai DLC...",
-            font=(FONT_FAMILY, 9),
+            font=(FONT_FAMILY, 8),
             fg=FG_MAIN,
             bg=BG_CARD,
             anchor="w",
@@ -294,16 +363,16 @@ class HOI4InstallerApp:
         self.lbl_dlc_display.pack(fill="x", anchor="w")
 
         dlc_action_row = tk.Frame(self.card_dlc, bg=BG_CARD)
-        dlc_action_row.pack(fill="x", pady=(6, 0))
+        dlc_action_row.pack(fill="x", pady=(3, 0))
 
         self.lbl_dlc_badge = tk.Label(
             dlc_action_row,
             text="0 DLC",
-            font=(FONT_FAMILY, 8),
+            font=(FONT_FAMILY, 7),
             bg=COLOR_BTN_SEC,
             fg=FG_MUTED,
-            padx=8,
-            pady=3,
+            padx=6,
+            pady=2,
         )
         self.lbl_dlc_badge.pack(side="left")
 
@@ -313,69 +382,70 @@ class HOI4InstallerApp:
             bg=COLOR_BTN_SEC,
             hover_bg=COLOR_BTN_SEC_HOVER,
             command=self._show_dlc_popup,
-            padx=10,
-            pady=3,
+            padx=8,
+            pady=2,
+            font=(FONT_FAMILY, 7),
         )
         btn_view_dlc.pack(side="right")
 
-        # 3c. Warning Banner (Hidden by default, shown if version differs)
+        # Warning Banner (Hidden by default, shown if version differs)
         self.warn_banner = tk.Frame(
             content,
             bg=COLOR_WARNING_BG,
             bd=1,
             relief="solid",
-            padx=12,
-            pady=8,
+            padx=10,
+            pady=4,
         )
         self.lbl_warn = tk.Label(
             self.warn_banner,
             text="",
-            font=(FONT_FAMILY, 8),
+            font=(FONT_FAMILY, 7),
             fg=COLOR_WARNING_TEXT,
             bg=COLOR_WARNING_BG,
-            wraplength=740,
+            wraplength=620,
             justify="left",
         )
         self.lbl_warn.pack(anchor="w")
 
-        # 4. Section: Options
+        # Section: Options
         opt_card = tk.LabelFrame(
             content,
             text=" Opsi Pemasangan ",
-            font=(FONT_FAMILY, 9, "bold"),
+            font=(FONT_FAMILY, 8, "bold"),
             bg=BG_CARD,
             fg=FG_MAIN,
             bd=1,
             relief="solid",
-            padx=12,
-            pady=8,
+            padx=10,
+            pady=4,
         )
-        opt_card.pack(fill="x", pady=(0, 10))
+        opt_card.pack(fill="x", pady=(0, 6))
 
         c1 = ttk.Checkbutton(
             opt_card,
             text="Konfigurasi Paradox Dowser Launcher (menambahkan label Bahasa Indonesia)",
             variable=self.dowser_opt,
         )
-        c1.pack(anchor="w", pady=2)
+        c1.pack(anchor="w", pady=1)
 
         c2 = ttk.Checkbutton(
             opt_card,
             text="Atur Bahasa Indonesia sebagai bahasa default di dokumen pemain (settings.txt)",
             variable=self.user_doc_opt,
         )
-        c2.pack(anchor="w", pady=2)
+        c2.pack(anchor="w", pady=1)
 
         c3 = ttk.Checkbutton(
             opt_card,
             text="Cadangkan folder bahasa asli sebelum proses pemasangan",
             variable=self.backup_opt,
         )
-        c3.pack(anchor="w", pady=2)
+        c3.pack(anchor="w", pady=1)
 
-        # 5. Action Buttons
+        # Action Buttons Row
         action_row = tk.Frame(content, bg=BG_MAIN)
-        action_row.pack(fill="x", pady=(0, 10))
+        action_row.pack(fill="x", pady=(0, 6))
 
         self.btn_install = AntiSlopButton(
             action_row,
@@ -384,10 +454,10 @@ class HOI4InstallerApp:
             hover_bg=COLOR_PRIMARY_HOVER,
             fg=COLOR_PRIMARY_TEXT,
             command=self._start_install,
-            font=(FONT_FAMILY, 10, "bold"),
-            pady=8,
+            font=(FONT_FAMILY, 9, "bold"),
+            pady=6,
         )
-        self.btn_install.pack(side="left", fill="x", expand=True, padx=(0, 8))
+        self.btn_install.pack(side="left", fill="x", expand=True, padx=(0, 6))
 
         self.btn_restore = AntiSlopButton(
             action_row,
@@ -395,9 +465,9 @@ class HOI4InstallerApp:
             bg=COLOR_BTN_SEC,
             hover_bg=COLOR_BTN_SEC_HOVER,
             command=self._start_restore,
-            pady=8,
+            pady=6,
         )
-        self.btn_restore.pack(side="left", padx=(0, 8))
+        self.btn_restore.pack(side="left", padx=(0, 6))
 
         self.btn_play = AntiSlopButton(
             action_row,
@@ -405,36 +475,36 @@ class HOI4InstallerApp:
             bg=COLOR_BTN_SEC,
             hover_bg=COLOR_BTN_SEC_HOVER,
             command=self._launch_game,
-            pady=8,
+            pady=6,
         )
         self.btn_play.pack(side="left")
 
-        # 6. Section: Status & Log
+        # Section: Status & Log (Minimal Height)
         log_card = tk.LabelFrame(
             content,
             text=" Log Aktivitas ",
-            font=(FONT_FAMILY, 9, "bold"),
+            font=(FONT_FAMILY, 8, "bold"),
             bg=BG_CARD,
             fg=FG_MAIN,
             bd=1,
             relief="solid",
-            padx=10,
-            pady=6,
+            padx=8,
+            pady=4,
         )
         log_card.pack(fill="both", expand=True)
 
         self.progress_bar = ttk.Progressbar(log_card, style="TProgressbar", orient="horizontal", mode="determinate")
-        self.progress_bar.pack(fill="x", pady=(2, 6))
+        self.progress_bar.pack(fill="x", pady=(1, 4))
 
         self.lbl_status = tk.Label(
             log_card,
             text="Status: Siap memasang.",
-            font=(FONT_FAMILY, 8),
+            font=(FONT_FAMILY, 7),
             fg=FG_MUTED,
             bg=BG_CARD,
             anchor="w",
         )
-        self.lbl_status.pack(fill="x", anchor="w", pady=(0, 4))
+        self.lbl_status.pack(fill="x", anchor="w", pady=(0, 2))
 
         log_frame = tk.Frame(log_card, bg=BG_INPUT)
         log_frame.pack(fill="both", expand=True)
@@ -447,8 +517,9 @@ class HOI4InstallerApp:
             font=(FONT_MONO, 8),
             wrap="word",
             bd=0,
-            padx=8,
-            pady=6,
+            padx=6,
+            pady=4,
+            height=5,  # Compact 5-line height
         )
         scroll = tk.Scrollbar(log_frame, command=self.txt_log.yview)
         self.txt_log.configure(yscrollcommand=scroll.set)
@@ -460,45 +531,6 @@ class HOI4InstallerApp:
         self.txt_log.tag_config("SUCCESS", foreground="#4ade80")
         self.txt_log.tag_config("WARNING", foreground="#facc15")
         self.txt_log.tag_config("ERROR", foreground="#f87171")
-
-        # 7. Footer with Clickable Credit Link
-        footer = tk.Frame(self.root, bg=BG_HEADER, padx=20, pady=8, highlightthickness=1, highlightbackground=BG_CARD_BORDER)
-        footer.pack(fill="x", side="bottom")
-
-        lbl_foot_left = tk.Label(
-            footer,
-            text="Hearts of Iron IV Indonesian Localization • Lisensi MIT",
-            font=(FONT_FAMILY, 8),
-            fg=FG_DIM,
-            bg=BG_HEADER,
-        )
-        lbl_foot_left.pack(side="left")
-
-        # Clickable Credit Container
-        credit_box = tk.Frame(footer, bg=BG_HEADER)
-        credit_box.pack(side="right")
-
-        lbl_credit_prefix = tk.Label(
-            credit_box,
-            text="Pengembang: ",
-            font=(FONT_FAMILY, 8),
-            fg=FG_DIM,
-            bg=BG_HEADER,
-        )
-        lbl_credit_prefix.pack(side="left")
-
-        lbl_credit_link = tk.Label(
-            credit_box,
-            text="rioovs",
-            font=(FONT_FAMILY, 8, "underline"),
-            fg="#38bdf8",
-            bg=BG_HEADER,
-            cursor="hand2",
-        )
-        lbl_credit_link.pack(side="left")
-        lbl_credit_link.bind("<Button-1>", lambda e: webbrowser.open_new_tab(CREDIT_URL))
-        lbl_credit_link.bind("<Enter>", lambda e: lbl_credit_link.configure(fg="#7dd3fc"))
-        lbl_credit_link.bind("<Leave>", lambda e: lbl_credit_link.configure(fg="#38bdf8"))
 
     def log(self, level: str, message: str):
         """Appends a color-tagged log message."""
@@ -557,7 +589,7 @@ class HOI4InstallerApp:
             self.lbl_ver_badge.configure(text="Perlu Perhatian", bg=COLOR_WARNING_BG, fg=COLOR_WARNING_TEXT)
             warn_text = ver_info["warning"]
             self.lbl_warn.configure(text=warn_text)
-            self.warn_banner.pack(fill="x", pady=(0, 10), after=self.card_ver.master)
+            self.warn_banner.pack(fill="x", pady=(0, 6), after=self.card_ver.master)
             self.log("WARNING", warn_text)
 
         # 2. DLC Analysis
@@ -566,7 +598,7 @@ class HOI4InstallerApp:
         total_dlc = len(dlcs)
         expansions = [d for d in dlcs if "ekspansi" in d["category"].lower() or "country pack" in d["category"].lower()]
 
-        self.lbl_dlc_display.configure(text=f"{total_dlc} DLC Terdeteksi ({len(expansions)} Ekspansi Utama)", fg=FG_MAIN)
+        self.lbl_dlc_display.configure(text=f"{total_dlc} DLC Terdeteksi ({len(expansions)} Ekspansi)", fg=FG_MAIN)
         self.lbl_dlc_badge.configure(text=f"{total_dlc} DLC Didukung", bg=COLOR_SUCCESS_BG, fg=COLOR_SUCCESS_TEXT)
         self.log("INFO", f"Memindai DLC: {total_dlc} DLC terdeteksi di folder game.")
 
@@ -578,13 +610,13 @@ class HOI4InstallerApp:
 
         win = tk.Toplevel(self.root)
         win.title("Daftar DLC Terdeteksi")
-        win.geometry("640x500")
+        win.geometry("540x420")
         win.configure(bg=BG_MAIN)
         win.transient(self.root)
 
-        header = tk.Frame(win, bg=BG_HEADER, padx=16, pady=12, highlightthickness=1, highlightbackground=BG_CARD_BORDER)
+        header = tk.Frame(win, bg=BG_HEADER, padx=14, pady=10, highlightthickness=1, highlightbackground=BG_CARD_BORDER)
         header.pack(fill="x")
-        tk.Label(header, text="Daftar DLC Terdeteksi", font=(FONT_FAMILY, 11, "bold"), fg=FG_MAIN, bg=BG_HEADER).pack(anchor="w")
+        tk.Label(header, text="Daftar DLC Terdeteksi", font=(FONT_FAMILY, 10, "bold"), fg=FG_MAIN, bg=BG_HEADER).pack(anchor="w")
         tk.Label(
             header,
             text=f"Total: {len(self.detected_dlcs)} DLC terdeteksi. Seluruh konten tercakup dalam berkas terjemahan.",
@@ -593,20 +625,20 @@ class HOI4InstallerApp:
             bg=BG_HEADER,
         ).pack(anchor="w", pady=(2, 0))
 
-        body = tk.Frame(win, bg=BG_MAIN, padx=12, pady=10)
+        body = tk.Frame(win, bg=BG_MAIN, padx=10, pady=8)
         body.pack(fill="both", expand=True)
 
         list_box = tk.Frame(body, bg=BG_CARD)
         list_box.pack(fill="both", expand=True)
 
-        tree = ttk.Treeview(list_box, columns=("category", "title", "status"), show="headings", height=15)
+        tree = ttk.Treeview(list_box, columns=("category", "title", "status"), show="headings", height=12)
         tree.heading("category", text="Kategori")
         tree.heading("title", text="Nama DLC")
         tree.heading("status", text="Status")
 
-        tree.column("category", width=140, anchor="w")
-        tree.column("title", width=360, anchor="w")
-        tree.column("status", width=100, anchor="center")
+        tree.column("category", width=120, anchor="w")
+        tree.column("title", width=310, anchor="w")
+        tree.column("status", width=80, anchor="center")
 
         scroll = ttk.Scrollbar(list_box, orient="vertical", command=tree.yview)
         tree.configure(yscrollcommand=scroll.set)
@@ -617,7 +649,7 @@ class HOI4InstallerApp:
             tree.insert("", "end", values=(d["category"], d["title"], "Tersedia"))
 
         btn_close = AntiSlopButton(win, text="Tutup", bg=COLOR_BTN_SEC, hover_bg=COLOR_BTN_SEC_HOVER, command=win.destroy)
-        btn_close.pack(pady=10)
+        btn_close.pack(pady=8)
 
     def _start_install(self):
         """Runs the installation process in a worker thread."""
