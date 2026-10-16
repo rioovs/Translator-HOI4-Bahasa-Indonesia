@@ -354,3 +354,10 @@ python scripts/check_syntax_errors.py
 Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
 Hearts of Iron IV dan Clausewitz Engine adalah hak cipta terdaftar milik © Paradox Interactive AB. Proyek ini merupakan inisiatif komunitas nirlaba.
+
+---
+
+## Kredit
+
+Pengembang: [rioovs](https://github.com/rioovs)
+
