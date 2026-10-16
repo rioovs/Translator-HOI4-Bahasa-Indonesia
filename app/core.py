@@ -452,14 +452,33 @@ def install_translations(
     log("INFO", f"Memulai pemasangan {total_files} file terjemahan Bahasa Indonesia...")
 
     # 1. Backup existing files if requested
+    backup_base_dir = p / "_hoi4_id_backups"
+
+    # CRITICAL: Clean up any legacy backups previously stored inside localisation/!
+    # Paradox Clausewitz engine scans ALL subfolders in localisation/ recursively.
+    # Having backup .yml files inside localisation/ causes the game to load the original Portuguese files!
+    legacy_backups = list(target_loc_dir.glob("braz_por_backup_*"))
+    if legacy_backups:
+        backup_base_dir.mkdir(parents=True, exist_ok=True)
+        for lb in legacy_backups:
+            try:
+                dest = backup_base_dir / lb.name
+                if dest.exists():
+                    shutil.rmtree(dest)
+                shutil.move(str(lb), str(dest))
+                log("INFO", f"Memindahkan cadangan lama '{lb.name}' ke luar folder localisation agar tidak bentrok dengan game.")
+            except Exception as e:
+                log("WARNING", f"Peringatan: Gagal memindahkan {lb.name}: {e}")
+
     backup_path = None
     if backup and target_braz_por.exists():
         timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
-        backup_path = target_loc_dir / f"braz_por_backup_{timestamp}"
-        log("INFO", f"Membuat cadangan folder bahasa ke: {backup_path.name}")
+        backup_base_dir.mkdir(parents=True, exist_ok=True)
+        backup_path = backup_base_dir / f"braz_por_backup_{timestamp}"
+        log("INFO", f"Membuat cadangan folder bahasa ke: _hoi4_id_backups/{backup_path.name}")
         try:
             shutil.copytree(target_braz_por, backup_path)
-            log("SUCCESS", f"Cadangan berhasil dibuat di {backup_path.name}")
+            log("SUCCESS", f"Cadangan berhasil dibuat di _hoi4_id_backups/{backup_path.name}")
         except Exception as e:
             log("WARNING", f"Peringatan: Gagal membuat cadangan: {e}")
 
@@ -532,11 +551,18 @@ def restore_backup(game_path: Path | str, log_cb=None) -> tuple[bool, str]:
     p = Path(game_path)
     target_loc_dir = p / "localisation"
     target_braz_por = target_loc_dir / "braz_por"
+    backup_base_dir = p / "_hoi4_id_backups"
 
-    # Search for latest backup
-    backups = sorted(list(target_loc_dir.glob("braz_por_backup_*")), reverse=True)
+    # Search for latest backup in _hoi4_id_backups/ and fallback to localisation/
+    backups = []
+    if backup_base_dir.exists():
+        backups.extend(list(backup_base_dir.glob("braz_por_backup_*")))
+    legacy_backups = list(target_loc_dir.glob("braz_por_backup_*"))
+    backups.extend(legacy_backups)
+    backups.sort(key=lambda x: x.name, reverse=True)
+
     if not backups:
-        msg = "Tidak ditemukan folder cadangan braz_por_backup_* di dalam direktori localisation/."
+        msg = "Tidak ditemukan folder cadangan braz_por_backup_*."
         log("WARNING", msg)
         return False, msg
 

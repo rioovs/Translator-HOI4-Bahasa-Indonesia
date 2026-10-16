@@ -12,6 +12,7 @@ dist/
 
 # Paradox Backups
 *_backup_*/
+_hoi4_id_backups/
 *.bak
 
 # Virtual environments
