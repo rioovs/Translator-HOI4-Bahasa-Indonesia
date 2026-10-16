@@ -44,6 +44,9 @@ class ModernButton(tk.Button):
     def __init__(self, master, text, bg, fg=FG_MAIN, hover_bg=None, command=None, **kwargs):
         self.default_bg = bg
         self.hover_bg = hover_bg or bg
+        button_font = kwargs.pop("font", (FONT_FAMILY, 9, "bold"))
+        padx = kwargs.pop("padx", 12)
+        pady = kwargs.pop("pady", 6)
         super().__init__(
             master,
             text=text,
@@ -55,13 +58,14 @@ class ModernButton(tk.Button):
             bd=0,
             cursor="hand2",
             command=command,
-            font=(FONT_FAMILY, 9, "bold"),
-            padx=12,
-            pady=6,
+            font=button_font,
+            padx=padx,
+            pady=pady,
             **kwargs,
         )
         self.bind("<Enter>", lambda e: self.configure(bg=self.hover_bg))
         self.bind("<Leave>", lambda e: self.configure(bg=self.default_bg))
+
 
 
 class HOI4InstallerApp:
