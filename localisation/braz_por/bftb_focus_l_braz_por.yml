@@ -1092,7 +1092,7 @@
  BUL_military_secrets_sharing_desc: "Teknologi Jerman jauh lebih unggul dibandingkan teknologi kita, dan akan sangat bermanfaat bagi kita untuk menandatangani perjanjian yang memungkinkan para ilmuwan dan insinyur Bulgaria mengakses beberapa keajaiban teknologi Jerman, sehingga membuka jalan bagi kita untuk lebih mengembangkan penelitian kita sendiri."
  BUL_bulgarian_administration_of_the_balkans: "Integrasi Bulgaria di Balkan"
  BUL_bulgarian_administration_of_the_balkans_desc: "Untuk memperkuat klaim kami atas Balkan, kami harus melakukan integrasi Bulgaria di wilayah-wilayah yang diduduki, sehingga, setelah [GetGermanFactionNameDef] kemenangan dalam perang, [GetGermanOrIndependent] dapat melihat sifat Bulgaria di wilayah tersebut dan tidak berani merusak integritas nasional kami, seperti yang dilakukan Inggris pada tahun 1878."
- BUL_bulgarian_administration_of_the_balkans_axis_name_def: "sebuah sumbu"
+ BUL_bulgarian_administration_of_the_balkans_axis_name_def: "Axis"
  BUL_bulgarian_administration_of_the_balkans_central_powers_name_def: "sebuah Kekuatan Sentral"
  BUL_bulgarian_administration_of_the_balkans_independent_name_def: "milik kita"
  BUL_bulgarian_administration_of_the_balkans_germans_name: "orang Jerman"
